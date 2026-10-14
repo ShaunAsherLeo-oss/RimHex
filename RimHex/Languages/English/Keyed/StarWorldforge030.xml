@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RHA_StarWorldforge030_Reclaimed>Reclaimed {0} {1}.</RHA_StarWorldforge030_Reclaimed>
+  <RHA_StarWorldforge030_Practice>Workshop practice: {0}.</RHA_StarWorldforge030_Practice>
+  <RHA_StarWorldforge030_Repaired>Repaired {0} hit points on {1}.</RHA_StarWorldforge030_Repaired>
+  <RHA_StarWorldforge030_Sequence>Production sequence: {0} / {1}
+Last recipe: {2}</RHA_StarWorldforge030_Sequence>
+  <RHA_StarWorldforge030_NoRecipe>None</RHA_StarWorldforge030_NoRecipe>
+  <RHA_StarWorldforge030_Fractions>Stored material fractions: {0}</RHA_StarWorldforge030_Fractions>
+</LanguageData>

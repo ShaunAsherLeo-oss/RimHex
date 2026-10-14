@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_EnemyFull037_MedicalOnly>敌人版本：保留原生健康、治疗和照料属性；不生产或带回药品。</RHA_EnemyFull037_MedicalOnly>
+  <RHA_EnemyFull037_CombatOnly>敌人版本：仅执行原有战斗属性与战斗触发；不改变殖民地资源、研究或每日产出。</RHA_EnemyFull037_CombatOnly>
+  <RHA_EnemyFull037_TrainingCards>敌人版本：本场即时伤害强化。头脑胜过物质每层伤害 +3%（最高 +24%）；草率涂鸦每层 +5%（最高 +40%）。不授予永久技能经验。</RHA_EnemyFull037_TrainingCards>
+  <RHA_EnemyFull037_ExperienceOnly>敌人版本：原装备治疗份额实际修复同阵营一个盟友的普通伤口累计80点后，本场对该患者结算一次，每300点原基础医疗经验转为每秒1点伤口修复，最高每秒3点，持续20秒并可刷新。不要求殖民地战斗资格，不授予永久经验。</RHA_EnemyFull037_ExperienceOnly>
+  <RHA_EnemyFull037_BountyOnly>敌人版本：原银币结算转为本场护盾，单次最多250点、持续10秒。原伤害、触发、计数和装备卡联动保留，不发放战利品或殖民地货币。</RHA_EnemyFull037_BountyOnly>
+  <RHA_EnemyFull037_BearDanger>敌人版本：原死亡召唤改为原生健康摘要降至35%以下时召唤晶熊，保留20秒寿命、伤害继承与每日一次限制。敌人退场时晶熊一并消失。</RHA_EnemyFull037_BearDanger>
+  <RHA_EnemyFull037_Shared>本场同阵营共享。每份来源按原叠层上限计入一次；任一敌人的条目显示当前合计，不会再次授予效果。</RHA_EnemyFull037_Shared>
+  <RHA_EnemyFull037_Personal>本场个人来源。装备无需占用穿戴栏；保留原战斗能力及当前状态。</RHA_EnemyFull037_Personal>
+  <RHA_EnemyFull037_AutoSkill>自动技能：{0} · {1}</RHA_EnemyFull037_AutoSkill>
+  <RHA_EnemyFull037_TrainingFeedback>战斗强化 +{0}</RHA_EnemyFull037_TrainingFeedback>
+</LanguageData>

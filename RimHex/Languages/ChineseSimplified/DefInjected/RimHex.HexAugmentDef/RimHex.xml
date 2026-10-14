@@ -1,0 +1,513 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_C_Haste.label>全员加速</RHA_C_Haste.label>
+  <RHA_C_Haste.theme>机动</RHA_C_Haste.theme>
+  <RHA_C_Haste.description>每层让所有殖民者的移动速度额外增加 12%。 最多 8 层。</RHA_C_Haste.description>
+  <RHA_C_Work.label>建造乌托邦</RHA_C_Work.label>
+  <RHA_C_Work.theme>经营</RHA_C_Work.theme>
+  <RHA_C_Work.description>每层增加 20% 全局工作速度。 最多 8 层。</RHA_C_Work.description>
+  <RHA_C_Learn.label>全员天才</RHA_C_Learn.label>
+  <RHA_C_Learn.theme>成长</RHA_C_Learn.theme>
+  <RHA_C_Learn.description>每层增加 50% 全局学习速度。 最多 8 层。</RHA_C_Learn.description>
+  <RHA_C_Harvest.label>超级农场</RHA_C_Harvest.label>
+  <RHA_C_Harvest.theme>农业</RHA_C_Harvest.theme>
+  <RHA_C_Harvest.description>每层增加 30% 植物工作速度和 30% 收获产量。 最多 8 层。</RHA_C_Harvest.description>
+  <RHA_C_Mining.label>工业血脉</RHA_C_Mining.label>
+  <RHA_C_Mining.theme>采矿</RHA_C_Mining.theme>
+  <RHA_C_Mining.description>每层增加 45% 采矿速度和 30% 采矿产量。 最多 8 层。</RHA_C_Mining.description>
+  <RHA_C_Calm.label>别想烦心事</RHA_C_Calm.label>
+  <RHA_C_Calm.theme>心态</RHA_C_Calm.theme>
+  <RHA_C_Calm.description>每层使所有殖民者的精神崩溃阈值降低 4 个百分点，仍受游戏最低值限制。</RHA_C_Calm.description>
+  <RHA_C_Research.label>科研爆炸</RHA_C_Research.label>
+  <RHA_C_Research.theme>科技</RHA_C_Research.theme>
+  <RHA_C_Research.description>每层增加 90% 研究速度。 最多 8 层。</RHA_C_Research.description>
+  <RHA_C_Sleepless.label>不眠之城</RHA_C_Sleepless.label>
+  <RHA_C_Sleepless.theme>经营</RHA_C_Sleepless.theme>
+  <RHA_C_Sleepless.description>休息消耗除以（1＋1×层数），每层增加 20% 工作速度。 最多 8 层。</RHA_C_Sleepless.description>
+  <RHA_C_Steel.label>钢铁洪流</RHA_C_Steel.label>
+  <RHA_C_Steel.theme>补给</RHA_C_Steel.theme>
+  <RHA_C_Steel.description>每层每天送来 100 钢铁，出现在殖民者附近。固定每日结算，不需要生产设施。 最多 8 层。</RHA_C_Steel.description>
+  <RHA_C_Silver.label>无中生银</RHA_C_Silver.label>
+  <RHA_C_Silver.theme>经济</RHA_C_Silver.theme>
+  <RHA_C_Silver.description>每层每天获得 120 白银。增加的财富会影响袭击规模。 最多 8 层。</RHA_C_Silver.description>
+  <RHA_C_Medicine.label>医疗后盾</RHA_C_Medicine.label>
+  <RHA_C_Medicine.theme>医疗</RHA_C_Medicine.theme>
+  <RHA_C_Medicine.description>每层每天获得 3 医药，同时增加 60% 免疫增长速度。 最多 8 层。</RHA_C_Medicine.description>
+  <RHA_C_Dice.label>骰子工厂</RHA_C_Dice.label>
+  <RHA_C_Dice.theme>选卡</RHA_C_Dice.theme>
+  <RHA_C_Dice.description>此后开始的每轮三选一，每层多获得 1 次共享刷新。 最多 8 层。</RHA_C_Dice.description>
+  <RHA_C_Legion.label>全员超频</RHA_C_Legion.label>
+  <RHA_C_Legion.theme>全能</RHA_C_Legion.theme>
+  <RHA_C_Legion.description>每层让所有殖民者增加 30% 对敌伤害、30% 体质和 30% 全局工作速度。 最多 8 层。</RHA_C_Legion.description>
+  <RHA_C_Storm.label>共鸣风暴</RHA_C_Storm.label>
+  <RHA_C_Storm.theme>连锁</RHA_C_Storm.theme>
+  <RHA_C_Storm.description>每层增加 0.65 连锁等级和 15.925% 对敌伤害。所有殖民者每 3 次对站立敌人的有效直接命中，从被击中目标向周围其他站立敌人放电；默认范围 16 格，设置可调 8–32 格。目标上限为 2＋向上取整的合计连锁等级，最多 12 名。普通中立动物不触发。 最多 8 层。 复制伤害沿用原结算值；固定追加部分仍可增幅。</RHA_C_Storm.description>
+  <RHA_C_Gold.label>棱彩金库</RHA_C_Gold.label>
+  <RHA_C_Gold.theme>经济</RHA_C_Gold.theme>
+  <RHA_C_Gold.description>每层每天获得 24 黄金。 最多 8 层。</RHA_C_Gold.description>
+  <RHA_C_Vamp.label>全民饮血</RHA_C_Vamp.label>
+  <RHA_C_Vamp.theme>续航</RHA_C_Vamp.theme>
+  <RHA_C_Vamp.description>每层赋予全员 10% 对敌直接伤害吸血，以及每秒恢复 0.3 点普通伤势。不能恢复缺失肢体。 最多 8 层。</RHA_C_Vamp.description>
+  <RHA_H_Haste.label>风驰电掣</RHA_H_Haste.label>
+  <RHA_H_Haste.theme>机动</RHA_H_Haste.theme>
+  <RHA_H_Haste.description>每层增加 35% 移动速度。 最多 6 层。</RHA_H_Haste.description>
+  <RHA_H_Crit.label>珠光护手</RHA_H_Crit.label>
+  <RHA_H_Crit.theme>暴击</RHA_H_Crit.theme>
+  <RHA_H_Crit.description>每层增加 25% 暴击值，并允许战技伤害暴击。暴击值超过 100% 的部分提高暴击伤害。 最多 6 层。</RHA_H_Crit.description>
+  <RHA_H_Armor.label>不动如山</RHA_H_Armor.label>
+  <RHA_H_Armor.theme>坦克</RHA_H_Armor.theme>
+  <RHA_H_Armor.description>每层增加 30% 体质，承受伤害除以（1＋0.35×层数）。 最多 6 层。</RHA_H_Armor.description>
+  <RHA_H_Regen.label>复苏之风</RHA_H_Regen.label>
+  <RHA_H_Regen.theme>恢复</RHA_H_Regen.theme>
+  <RHA_H_Regen.description>每层每秒自动恢复 1.2 点普通伤势，约每 4.2 秒结算。恢复不包含永久伤疤和缺失肢体。 最多 6 层。</RHA_H_Regen.description>
+  <RHA_H_Steel.label>心之钢</RHA_H_Steel.label>
+  <RHA_H_Steel.theme>永久成长</RHA_H_Steel.theme>
+  <RHA_H_Steel.description>每层增加 25% 体质。命中未倒地敌人时，每层获得 0.65 层永久钢印，每 2 秒触发一次；每个钢印再增加 3% 体质。 最多 6 层。 成长小数累积为整层。 各项永久成长的前 100 点保留全额收益，之后递减。</RHA_H_Steel.description>
+  <RHA_H_Rage.label>战争热诚</RHA_H_Rage.label>
+  <RHA_H_Rage.theme>连击</RHA_H_Rage.theme>
+  <RHA_H_Rage.description>有效命中积累连击，10 秒不命中清空。每层每次连击让近战和远程冷却除数增加 0.065；每层另有 0.2275 基础除数加成。 最多 6 层。 前 20 层临时连击收益不变，之后收益递减。</RHA_H_Rage.description>
+  <RHA_H_Vamp.label>饮血盛宴</RHA_H_Vamp.label>
+  <RHA_H_Vamp.theme>吸血</RHA_H_Vamp.theme>
+  <RHA_H_Vamp.description>每层将对敌直接伤害的 25% 用于恢复自身普通伤势。能与全民饮血和血铸战甲叠加。 最多 6 层。</RHA_H_Vamp.description>
+  <RHA_H_Feast.label>无限盛宴</RHA_H_Feast.label>
+  <RHA_H_Feast.theme>击杀成长</RHA_H_Feast.theme>
+  <RHA_H_Feast.description>每层增加 25% 体质。每层按完整参战份额获得 0.65 层永久盛宴；击杀仍恢复 7.8 点伤势；每层盛宴增加 4% 体质和 3% 对敌伤害。 最多 6 层。 成长小数累积为整层。 各项永久成长的前 100 点保留全额收益，之后递减。 成长按近 30 秒的参战贡献分给持有同类能力的角色，各用自己的成长倍率。伤敌、延长眩晕、海克斯治疗和护盾吸收计入；治疗须对应近期敌伤。有伤敌者时，支援份额最多 25%。普通动物、囚犯、倒地补刀及旁观者不计。</RHA_H_Feast.description>
+  <RHA_H_Trigger.label>扳机过载</RHA_H_Trigger.label>
+  <RHA_H_Trigger.theme>远程</RHA_H_Trigger.theme>
+  <RHA_H_Trigger.description>每层增加 25% 对敌伤害，远程射击冷却除以（1＋0.7×层数），不改变瞄准时间和武器连发间隔。 最多 6 层。</RHA_H_Trigger.description>
+  <RHA_H_Execute.label>终结者</RHA_H_Execute.label>
+  <RHA_H_Execute.theme>收割</RHA_H_Execute.theme>
+  <RHA_H_Execute.description>每层增加 25% 普通攻击伤害和 7.5 个百分点处决阈值，阈值上限 65%。命中低于阈值的敌人时造成大量追加伤害。</RHA_H_Execute.description>
+  <RHA_H_Chain.label>雷霆领主</RHA_H_Chain.label>
+  <RHA_H_Chain.theme>连锁</RHA_H_Chain.theme>
+  <RHA_H_Chain.description>每层增加 1.3 连锁等级和 30% 对敌伤害，与符文雕刻者、共鸣风暴叠加。每 3 次对站立敌人的有效直接命中，从被击中目标向周围其他站立敌人放电；默认范围 16 格，设置可调 8–32 格。最多命中 2＋向上取整的合计连锁等级名其他敌人，上限 12 名。普通中立动物不触发。 最多 6 层。 复制伤害沿用原结算值；固定追加部分仍可增幅。</RHA_H_Chain.description>
+  <RHA_H_Bomb.label>爆炸艺术</RHA_H_Bomb.label>
+  <RHA_H_Bomb.theme>范围爆发</RHA_H_Bomb.theme>
+  <RHA_H_Bomb.description>每层增加 1.3 爆发等级。每 4 次有效命中，在目标周围 4.5 格内产生只伤敌人的范围冲击，可与爆炸之球叠加。 最多 6 层。 复制伤害沿用原结算值；固定追加部分仍可增幅。</RHA_H_Bomb.description>
+  <RHA_H_Titan.label>巨像降临</RHA_H_Titan.label>
+  <RHA_H_Titan.theme>巨像</RHA_H_Titan.theme>
+  <RHA_H_Titan.description>每层增加 120% 体质、20% 移动速度，承伤除数增加 0.6。 最多 6 层。</RHA_H_Titan.description>
+  <RHA_H_King.label>我即军团</RHA_H_King.label>
+  <RHA_H_King.theme>一人成军</RHA_H_King.theme>
+  <RHA_H_King.description>每层增加 90% 对敌伤害、70% 体质和 20% 吸血。 最多 6 层。</RHA_H_King.description>
+  <RHA_H_Luck.label>欧皇降临</RHA_H_Luck.label>
+  <RHA_H_Luck.theme>暴击</RHA_H_Luck.theme>
+  <RHA_H_Luck.description>每层增加 60% 暴击值与 40% 普通攻击伤害；暴击值超过 100% 的部分提高暴击伤害。</RHA_H_Luck.description>
+  <RHA_H_Ascend.label>登神长阶</RHA_H_Ascend.label>
+  <RHA_H_Ascend.theme>登神</RHA_H_Ascend.theme>
+  <RHA_H_Ascend.description>每层增加 75% 对敌伤害、75% 体质，并每秒恢复 1.8 点普通伤势。 最多 6 层。</RHA_H_Ascend.description>
+  <RHA_E_thunder_network.label>雷暴网络</RHA_E_thunder_network.label>
+  <RHA_E_thunder_network.description>获得 0.65 级连锁。连锁命中留下持续 8 秒的雷印；带有自己雷印的敌人死亡时，对 12 格内最近 3 名敌人释放 32.5＋连锁等级×6.5 点伤害。衍生死亡不会递归放电。</RHA_E_thunder_network.description>
+  <RHA_E_thunder_network.theme>雷霆 · 进化</RHA_E_thunder_network.theme>
+  <RHA_E_thunder_overload.label>天罚蓄电</RHA_E_thunder_overload.label>
+  <RHA_E_thunder_overload.description>每第 3 次有效命中，对原目标追加 65＋本次直接伤害的 65% 的闪电打击。 复制伤害沿用原结算值；固定追加部分仍可增幅。</RHA_E_thunder_overload.description>
+  <RHA_E_thunder_overload.theme>雷霆 · 进化</RHA_E_thunder_overload.theme>
+  <RHA_E_flame_spread.label>永燃薪火</RHA_E_flame_spread.label>
+  <RHA_E_flame_spread.description>获得 0.65 级灼烧。自己的灼烧每秒最多一次向目标 5 格内最近 2 名其他敌人传播 0.65 级灼烧，持续 4 秒。</RHA_E_flame_spread.description>
+  <RHA_E_flame_spread.theme>烈焰 · 进化</RHA_E_flame_spread.theme>
+  <RHA_E_flame_consume.label>熔火审判</RHA_E_flame_consume.label>
+  <RHA_E_flame_consume.description>获得 0.65 级灼烧。每第 4 次有效命中，消耗目标身上属于自己的普通和叠层灼烧，以剩余总伤害的 130% 立即结算。</RHA_E_flame_consume.description>
+  <RHA_E_flame_consume.theme>烈焰 · 进化</RHA_E_flame_consume.theme>
+  <RHA_E_blood_grail.label>猩红圣杯</RHA_E_blood_grail.label>
+  <RHA_E_blood_grail.description>直接吸血 +32.5%。自己的治疗溢出量以 65% 转为受疗者护盾，持续 10 秒；由此积累的护盾最多为 400×体质增益倍数。</RHA_E_blood_grail.description>
+  <RHA_E_blood_grail.theme>鲜血 · 进化</RHA_E_blood_grail.theme>
+  <RHA_E_blood_feast.label>万肉归一</RHA_E_blood_feast.label>
+  <RHA_E_blood_feast.description>体质 +65%、直接吸血 +19.5%。按完整参战份额额外获得 1.3 层永久盛宴；击杀仍恢复 16.25 点伤势；每层盛宴增加 4% 体质、3% 伤害。 各项永久成长的前 100 点保留全额收益，之后递减。 成长按近 30 秒的参战贡献分给持有同类能力的角色，各用自己的成长倍率。伤敌、延长眩晕、海克斯治疗和护盾吸收计入；治疗须对应近期敌伤。有伤敌者时，支援份额最多 25%。普通动物、囚犯、倒地补刀及旁观者不计。</RHA_E_blood_feast.description>
+  <RHA_E_blood_feast.theme>鲜血 · 进化</RHA_E_blood_feast.theme>
+  <RHA_E_titan_quake.label>山岳震怒</RHA_E_titan_quake.label>
+  <RHA_E_titan_quake.description>体质 +65%。每第 3 次有效命中，在命中处 6 格内对最多 16 名站立敌人造成 13×自身实际生命尺度的震荡伤害。</RHA_E_titan_quake.description>
+  <RHA_E_titan_quake.theme>巨人 · 进化</RHA_E_titan_quake.theme>
+  <RHA_E_titan_bastion.label>不朽山脉</RHA_E_titan_bastion.label>
+  <RHA_E_titan_bastion.description>体质 +65%。保持静止约 5 秒后，每 5 秒获得 65×自身实际生命尺度的护盾，持续约 8 秒。移动会重置静止等待。</RHA_E_titan_bastion.description>
+  <RHA_E_titan_bastion.theme>巨人 · 进化</RHA_E_titan_bastion.theme>
+  <RHA_E_frost_shatter.label>霜裂王座</RHA_E_frost_shatter.label>
+  <RHA_E_frost_shatter.description>获得 0.65 级永霜。成功眩晕敌人时，在其周围 4 格对最多 16 名站立敌人造成 39 点碎冰伤害。冷却 3 秒。</RHA_E_frost_shatter.description>
+  <RHA_E_frost_shatter.theme>寒霜 · 进化</RHA_E_frost_shatter.theme>
+  <RHA_E_frost_winter.label>行走的凛冬</RHA_E_frost_winter.label>
+  <RHA_E_frost_winter.description>约每 4.2 秒使自身 8 格内最近 12 名敌人减速 30%，持续 5 秒；每 12.5 秒对这些敌人造成 39 点寒霜伤害。</RHA_E_frost_winter.description>
+  <RHA_E_frost_winter.theme>寒霜 · 进化</RHA_E_frost_winter.theme>
+  <RHA_E_blade_echo.label>千刃回响</RHA_E_blade_echo.label>
+  <RHA_E_blade_echo.description>近战与射击冷却除数 +0.65。每第 3 次有效命中，向原目标追加两次各为本次直接伤害 39% 的斩击。 复制伤害沿用原结算值；固定追加部分仍可增幅。</RHA_E_blade_echo.description>
+  <RHA_E_blade_echo.theme>利刃 · 进化</RHA_E_blade_echo.theme>
+  <RHA_E_blade_whirl.label>血色绞盘</RHA_E_blade_whirl.label>
+  <RHA_E_blade_whirl.description>每第 2 次有效命中，对目标 5 格内最多 16 名其他站立敌人造成 29.25＋本次直接伤害×26% 的旋刃伤害。 复制伤害沿用原结算值；固定追加部分仍可增幅。</RHA_E_blade_whirl.description>
+  <RHA_E_blade_whirl.theme>利刃 · 进化</RHA_E_blade_whirl.theme>
+  <RHA_E_marksman_far.label>天际处决</RHA_E_marksman_far.label>
+  <RHA_E_marksman_far.description>普通攻击对至少 12 格外敌人的伤害提高 65%；追加伤害不会再次享受该倍率。</RHA_E_marksman_far.description>
+  <RHA_E_marksman_far.theme>神射 · 进化</RHA_E_marksman_far.theme>
+  <RHA_E_marksman_pierce.label>贯星轨道</RHA_E_marksman_pierce.label>
+  <RHA_E_marksman_pierce.description>有效命中后向原目标后方延伸 12 格，沿直线约 2.5 格宽的轨道，对站立敌人造成本次直接伤害 48.75% 的穿透打击。 复制伤害沿用原结算值；固定追加部分仍可增幅。</RHA_E_marksman_pierce.description>
+  <RHA_E_marksman_pierce.theme>神射 · 进化</RHA_E_marksman_pierce.theme>
+  <RHA_E_spirit_reap.label>万魂归藏</RHA_E_spirit_reap.label>
+  <RHA_E_spirit_reap.description>按完整参战份额额外获得 1.95 枚永久魂印；击杀仍恢复 19.5 点伤势。每枚魂印增加 4% 伤害和每秒 0.02 点恢复。 各项永久成长的前 100 点保留全额收益，之后递减。 成长按近 30 秒的参战贡献分给持有同类能力的角色，各用自己的成长倍率。伤敌、延长眩晕、海克斯治疗和护盾吸收计入；治疗须对应近期敌伤。有伤敌者时，支援份额最多 25%。普通动物、囚犯、倒地补刀及旁观者不计。</RHA_E_spirit_reap.description>
+  <RHA_E_spirit_reap.theme>灵魂 · 进化</RHA_E_spirit_reap.theme>
+  <RHA_E_spirit_echo.label>亡魂齐鸣</RHA_E_spirit_echo.label>
+  <RHA_E_spirit_echo.description>每第 3 次有效命中，向命中处 8 格内最近 3 名站立敌人各释放一道造成 19.5＋永久魂印×1.3 点伤害的魂光。 各项永久成长的前 100 点保留全额收益，之后递减。</RHA_E_spirit_echo.description>
+  <RHA_E_spirit_echo.theme>灵魂 · 进化</RHA_E_spirit_echo.theme>
+  <RHA_E_guardian_sanctuary.label>群星圣所</RHA_E_guardian_sanctuary.label>
+  <RHA_E_guardian_sanctuary.description>每约 8.3 秒，为自身 10 格内最近 12 名己方人类殖民者提供 65 点护盾，持续 10 秒。</RHA_E_guardian_sanctuary.description>
+  <RHA_E_guardian_sanctuary.theme>守护 · 进化</RHA_E_guardian_sanctuary.theme>
+  <RHA_E_guardian_repay.label>天罚壁垒</RHA_E_guardian_repay.label>
+  <RHA_E_guardian_repay.description>承伤除数 +0.65。护盾吸收敌人的直接伤害后，向攻击者返还吸收量 130% 的伤害。冷却 1 秒，反击不能互相递归。</RHA_E_guardian_repay.description>
+  <RHA_E_guardian_repay.theme>守护 · 进化</RHA_E_guardian_repay.theme>
+  <RHA_E_wealth_dividend.label>黄金复利</RHA_E_wealth_dividend.label>
+  <RHA_E_wealth_dividend.description>每日额外获得所有己方基地地图现存白银的 1.95%，单日额外收入最多 6500 白银。无人接收时保留待投放资源。</RHA_E_wealth_dividend.description>
+  <RHA_E_wealth_dividend.theme>财富 · 进化</RHA_E_wealth_dividend.theme>
+  <RHA_E_wealth_bonds.label>战争债券</RHA_E_wealth_bonds.label>
+  <RHA_E_wealth_bonds.description>任意己方人类殖民者击杀站立敌人时，殖民地额外获得 65 白银。衍生击杀不递归触发这一进化奖励。</RHA_E_wealth_bonds.description>
+  <RHA_E_wealth_bonds.theme>财富 · 进化</RHA_E_wealth_bonds.theme>
+  <RHA_E_industry_forge.label>万物熔炉</RHA_E_industry_forge.label>
+  <RHA_E_industry_forge.description>每日额外产出 260 钢铁和 5 工业组件；没有可接收的地图时保存产出，回到地图后补发。</RHA_E_industry_forge.description>
+  <RHA_E_industry_forge.theme>工业 · 进化</RHA_E_industry_forge.theme>
+  <RHA_E_industry_overclock.label>永动工国</RHA_E_industry_overclock.label>
+  <RHA_E_industry_overclock.description>全体己方人类殖民者工作速度 +130%、研究速度 +130%、采矿产量 +65%。采矿加成作用于实际掉落数量。</RHA_E_industry_overclock.description>
+  <RHA_E_industry_overclock.theme>工业 · 进化</RHA_E_industry_overclock.theme>
+  <RHA_E_harvest_granary.label>丰饶宝库</RHA_E_harvest_granary.label>
+  <RHA_E_harvest_granary.description>每天额外产出 26 份包装生存食物和 7 份医药；无人接收时保留。</RHA_E_harvest_granary.description>
+  <RHA_E_harvest_granary.theme>丰饶 · 进化</RHA_E_harvest_granary.theme>
+  <RHA_E_harvest_life.label>生命洪流</RHA_E_harvest_life.label>
+  <RHA_E_harvest_life.description>全体己方人类殖民者体质 +65%、每秒恢复 1.95 点伤势、植物收获效率 +130%。收获加成作用于实际收获数量。</RHA_E_harvest_life.description>
+  <RHA_E_harvest_life.theme>丰饶 · 进化</RHA_E_harvest_life.theme>
+  <RHA_C_Builder.label>施工奇迹</RHA_C_Builder.label>
+  <RHA_C_Builder.theme>建造</RHA_C_Builder.theme>
+  <RHA_C_Builder.description>每层增加全员 80% 建造速度，可与全局工作速度加成叠加。 最多 8 层。</RHA_C_Builder.description>
+  <RHA_C_Kitchen.label>盛宴厨房</RHA_C_Kitchen.label>
+  <RHA_C_Kitchen.theme>烹饪</RHA_C_Kitchen.theme>
+  <RHA_C_Kitchen.description>每层增加 80% 烹饪速度、30% 屠宰出肉效率。厨师食物中毒几率除以（1＋4.095×层数）；厨房卫生仍然重要。 最多 8 层。</RHA_C_Kitchen.description>
+  <RHA_C_Haulers.label>搬运飞升</RHA_C_Haulers.label>
+  <RHA_C_Haulers.theme>搬运</RHA_C_Haulers.theme>
+  <RHA_C_Haulers.description>每层增加全员 100% 搬运能力和 12% 移速。单次搬运仍遵守原版单堆栈等规则。 最多 8 层。</RHA_C_Haulers.description>
+  <RHA_C_Hospital.label>战地医院</RHA_C_Hospital.label>
+  <RHA_C_Hospital.theme>医疗</RHA_C_Hospital.theme>
+  <RHA_C_Hospital.description>每层增加全员 75% 治疗速度、30% 治疗质量。最终质量仍受药品与原版上限影响。 最多 8 层。</RHA_C_Hospital.description>
+  <RHA_C_Parley.label>雄辩之城</RHA_C_Parley.label>
+  <RHA_C_Parley.theme>社交</RHA_C_Parley.theme>
+  <RHA_C_Parley.description>每层增加全员 75% 社交影响力和 35% 学习速度。 最多 8 层。</RHA_C_Parley.description>
+  <RHA_C_Components.label>组件流水线</RHA_C_Components.label>
+  <RHA_C_Components.theme>补给</RHA_C_Components.theme>
+  <RHA_C_Components.description>每层每天获得 4 个工业零部件。 最多 8 层。</RHA_C_Components.description>
+  <RHA_C_Plasteel.label>玻璃钢天降</RHA_C_Plasteel.label>
+  <RHA_C_Plasteel.theme>补给</RHA_C_Plasteel.theme>
+  <RHA_C_Plasteel.description>每层每天获得 24 玻璃钢。最多 8 层。</RHA_C_Plasteel.description>
+  <RHA_C_Meals.label>永不空仓</RHA_C_Meals.label>
+  <RHA_C_Meals.theme>食物</RHA_C_Meals.theme>
+  <RHA_C_Meals.description>每层每天获得 12 份包装生存食物，送至殖民者附近。最多 8 层。</RHA_C_Meals.description>
+  <RHA_C_Glitter.label>超凡医疗箱</RHA_C_Glitter.label>
+  <RHA_C_Glitter.theme>医疗补给</RHA_C_Glitter.theme>
+  <RHA_C_Glitter.description>每层每天获得 1 个闪耀世界医药，同时增加全员 60% 免疫增长速度。 最多 8 层。</RHA_C_Glitter.description>
+  <RHA_C_Antitoxin.label>解毒宪章</RHA_C_Antitoxin.label>
+  <RHA_C_Antitoxin.theme>抗毒</RHA_C_Antitoxin.theme>
+  <RHA_C_Antitoxin.description>每层为全体殖民者增加 45.5 个百分点毒素抗性与 50% 免疫增长速度，抗性仍受游戏上限限制。</RHA_C_Antitoxin.description>
+  <RHA_C_Ember.label>炎阳军势</RHA_C_Ember.label>
+  <RHA_C_Ember.theme>光环</RHA_C_Ember.theme>
+  <RHA_C_Ember.description>每层赋予全员 0.65 炎阳等级：约每 4.2 秒对自身 5.5 格内至多 16 名站立敌人造成 18×等级的穿甲伤害。倒地时暂停光环。 最多 8 层。</RHA_C_Ember.description>
+  <RHA_C_Menders.label>群星医盟</RHA_C_Menders.label>
+  <RHA_C_Menders.theme>团队治疗</RHA_C_Menders.theme>
+  <RHA_C_Menders.description>每层赋予全员 0.65 圣愈等级：有效命中每秒至多触发一次，治疗自身 8 格内至多 12 名己方殖民者，每人恢复 8×等级点普通伤势，含自己。 最多 8 层。</RHA_C_Menders.description>
+  <RHA_C_Spikes.label>全民带刺</RHA_C_Spikes.label>
+  <RHA_C_Spikes.theme>反伤</RHA_C_Spikes.theme>
+  <RHA_C_Spikes.description>每层赋予全员 0.65 荆棘等级。承受敌人直接伤害后，反击 18×等级＋实际承伤50% 的穿甲伤害；每人每秒至多一次，不反弹环境或追加伤害。 最多 8 层。</RHA_C_Spikes.description>
+  <RHA_C_Bounty.label>战争红利</RHA_C_Bounty.label>
+  <RHA_C_Bounty.theme>赏金</RHA_C_Bounty.theme>
+  <RHA_C_Bounty.description>每层让全员击杀站立敌人时额外获得 19.5 白银。赏金约每 4.2 秒合并投放一次，没有可投放地图时保留在存档中。 最多 8 层。</RHA_C_Bounty.description>
+  <RHA_C_Souls.label>共赴飞升</RHA_C_Souls.label>
+  <RHA_C_Souls.theme>灵魂成长</RHA_C_Souls.theme>
+  <RHA_C_Souls.description>每层增加全员 45.5% 体质，持有者按完整参战份额每层获得 0.65 枚永久魂印。每枚魂印增加 4% 对敌伤害和 0.02 点/秒普通伤势恢复。 最多 8 层。 成长小数累积为整层。 各项永久成长的前 100 点保留全额收益，之后递减。 成长按近 30 秒的参战贡献分给持有同类能力的角色，各用自己的成长倍率。伤敌、延长眩晕、海克斯治疗和护盾吸收计入；治疗须对应近期敌伤。有伤敌者时，支援份额最多 25%。普通动物、囚犯、倒地补刀及旁观者不计。</RHA_C_Souls.description>
+  <RHA_C_Wildfire.label>燎原协议</RHA_C_Wildfire.label>
+  <RHA_C_Wildfire.theme>灼烧</RHA_C_Wildfire.theme>
+  <RHA_C_Wildfire.description>每层赋予全员 1.3 灼烧等级。有效命中留下四次灼烧，每秒造成 6×等级的穿甲伤害；再次命中刷新次数，多人灼烧取较强者。不会点燃基地。 最多 8 层。</RHA_C_Wildfire.description>
+  <RHA_H_Thorns.label>披甲龙龟</RHA_H_Thorns.label>
+  <RHA_H_Thorns.theme>反伤坦克</RHA_H_Thorns.theme>
+  <RHA_H_Thorns.description>每层增加 45.5% 体质和 1.3 荆棘等级。受敌人直接伤害后反击 18×荆棘等级＋实际承伤50% 的穿甲伤害，每秒至多一次。 最多 6 层。</RHA_H_Thorns.description>
+  <RHA_H_Sun.label>灼日化身</RHA_H_Sun.label>
+  <RHA_H_Sun.theme>光环</RHA_H_Sun.theme>
+  <RHA_H_Sun.description>每层增加 45.5% 体质和 1.95 炎阳等级。站立时约每 4.2 秒灼击自身 5.5 格内至多 16 名站立敌人，每人受到 18×炎阳等级的穿甲伤害。 最多 6 层。</RHA_H_Sun.description>
+  <RHA_H_Fire.label>纵火大师</RHA_H_Fire.label>
+  <RHA_H_Fire.theme>灼烧</RHA_H_Fire.theme>
+  <RHA_H_Fire.description>每层增加 22.75% 对敌伤害和 1.95 灼烧等级。命中后每秒追加 6×灼烧等级的穿甲伤害，共四次；反复命中刷新次数，不延迟下一次灼烧。 最多 6 层。</RHA_H_Fire.description>
+  <RHA_H_Frost.label>冰川增幅</RHA_H_Frost.label>
+  <RHA_H_Frost.theme>控制</RHA_H_Frost.theme>
+  <RHA_H_Frost.description>每层增加 1.3 永霜等级。每 3 次有效命中使目标眩晕（45＋15×等级）tick，最多 180 tick。每名攻击者的永霜冷却为 3 秒。 最多 6 层。</RHA_H_Frost.description>
+  <RHA_H_Mender.label>圣光洗礼</RHA_H_Mender.label>
+  <RHA_H_Mender.theme>团队治疗</RHA_H_Mender.theme>
+  <RHA_H_Mender.description>每层增加 1.3 圣愈等级和 0.6 点/秒自身恢复。有效命中每秒至多触发一次，治疗自身 8 格内至多 12 名己方殖民者，每人恢复 8×圣愈等级点伤势。 最多 6 层。</RHA_H_Mender.description>
+  <RHA_H_Cleave.label>分裂打击</RHA_H_Cleave.label>
+  <RHA_H_Cleave.theme>溅射</RHA_H_Cleave.theme>
+  <RHA_H_Cleave.description>每层增加 1.3 分裂等级。每 2 次有效命中，对目标 3.5 格内至多 8 名其他站立敌人追加 14×等级＋本次直接伤害30% 的穿甲伤害。近战远程都能触发。 最多 6 层。 复制伤害沿用原结算值；固定追加部分仍可增幅。</RHA_H_Cleave.description>
+  <RHA_H_Bounty.label>赏金猎人</RHA_H_Bounty.label>
+  <RHA_H_Bounty.theme>赏金</RHA_H_Bounty.theme>
+  <RHA_H_Bounty.description>每层增加 15% 对敌伤害；每次击杀站立敌人再获得 40 白银。赏金可以和战争红利、赌徒金币叠加，定期合并投放。 最多 6 层。</RHA_H_Bounty.description>
+  <RHA_H_Soul.label>灵魂熔炉</RHA_H_Soul.label>
+  <RHA_H_Soul.theme>灵魂成长</RHA_H_Soul.theme>
+  <RHA_H_Soul.description>每层增加 45.5% 对敌伤害。每层按完整参战份额永久获得 1.3 枚魂印；每枚魂印增加 4% 对敌伤害和 0.02 点/秒恢复。魂印跟随角色保存。 最多 6 层。 成长小数累积为整层。 各项永久成长的前 100 点保留全额收益，之后递减。 成长按近 30 秒的参战贡献分给持有同类能力的角色，各用自己的成长倍率。伤敌、延长眩晕、海克斯治疗和护盾吸收计入；治疗须对应近期敌伤。有伤敌者时，支援份额最多 25%。普通动物、囚犯、倒地补刀及旁观者不计。</RHA_H_Soul.description>
+  <RHA_H_Sniper.label>狙神</RHA_H_Sniper.label>
+  <RHA_H_Sniper.theme>远距</RHA_H_Sniper.theme>
+  <RHA_H_Sniper.description>与目标相距超过 4 格时，每多 1 格、每层增加 4.55% 对敌直接伤害，最多计算额外 25 格。瞄准时间除以（1＋0.455×层数）；增伤在命中时按双方位置结算。 最多 6 层。</RHA_H_Sniper.description>
+  <RHA_H_Duelist.label>近身即王</RHA_H_Duelist.label>
+  <RHA_H_Duelist.theme>近距</RHA_H_Duelist.theme>
+  <RHA_H_Duelist.description>每层对 3 格内敌人的直接伤害增加 68.25%。近战攻击冷却除以（1＋0.455×层数）。近距离射击同样能获得伤害加成。 最多 6 层。</RHA_H_Duelist.description>
+  <RHA_H_Berserk.label>绝境狂怒</RHA_H_Berserk.label>
+  <RHA_H_Berserk.theme>残血爆发</RHA_H_Berserk.theme>
+  <RHA_H_Berserk.description>每损失 10% 总体健康度，每层增加 42% 对敌直接伤害，单层最高增加 273%；每层承伤除数再增加 0.2275。已损失的肢体也会影响总体健康度。 最多 6 层。</RHA_H_Berserk.description>
+  <RHA_H_Guard.label>伤害门禁</RHA_H_Guard.label>
+  <RHA_H_Guard.theme>承伤上限</RHA_H_Guard.theme>
+  <RHA_H_Guard.description>每层增加 91% 体质和 0.455 星界等级。单次生命伤害在减伤后最多为 15÷星界等级，最低上限 1 点；持续多段攻击仍逐次结算。 最多 6 层。</RHA_H_Guard.description>
+  <RHA_H_Hybrid.label>万法皆通</RHA_H_Hybrid.label>
+  <RHA_H_Hybrid.theme>双修</RHA_H_Hybrid.theme>
+  <RHA_H_Hybrid.description>每层增加 20% 对敌伤害。瞄准时间和近战冷却均除以（1＋0.455×层数），换武器也能继续发挥。 最多 6 层。</RHA_H_Hybrid.description>
+  <RHA_H_Doctor.label>战场神医</RHA_H_Doctor.label>
+  <RHA_H_Doctor.theme>医疗</RHA_H_Doctor.theme>
+  <RHA_H_Doctor.description>每层增加 100% 治疗速度、40% 治疗质量和 0.65 圣愈等级。有效命中每秒至多治疗一次，恢复 8 格内至多 12 名己方殖民者各 8×圣愈等级点伤势。 最多 6 层。</RHA_H_Doctor.description>
+  <RHA_H_Worker.label>一人造城</RHA_H_Worker.label>
+  <RHA_H_Worker.theme>经营英雄</RHA_H_Worker.theme>
+  <RHA_H_Worker.description>每层增加 80% 全局工作速度、80% 建造速度和 80% 普通工作速度。相关工种同时享受全局和专项速度加成。 最多 6 层。</RHA_H_Worker.description>
+  <RHA_H_Savant.label>超级大脑</RHA_H_Savant.label>
+  <RHA_H_Savant.theme>科研英雄</RHA_H_Savant.theme>
+  <RHA_H_Savant.description>每层增加 150% 研究速度和 120% 全局学习速度。 最多 6 层。</RHA_H_Savant.description>
+  <RHA_M8_f_thunderfire.label>雷火天灾</RHA_M8_f_thunderfire.label>
+  <RHA_M8_f_thunderfire.description>连锁命中每秒最多生成一片半径 3.5 格的雷火领域，持续 4 秒，每秒对最多 16 名敌人造成 29.25＋连锁等级×6.5 点追加伤害并施加灼烧。带有自己灼烧的敌人死亡时，引爆半径 6 格雷爆，最多命中 12 名敌人，伤害 65＋灼烧等级×13；雷爆冷却 1 秒。</RHA_M8_f_thunderfire.description>
+  <RHA_M8_f_thunderfire.theme>流派融合</RHA_M8_f_thunderfire.theme>
+  <RHA_M8_f_bloodguard.label>血铸圣约</RHA_M8_f_bloodguard.label>
+  <RHA_M8_f_bloodguard.description>真实治疗为受治疗者刷新治疗量 97.5% 的护盾，持续 10 秒。自己累计吸收 200 点护盾伤害后，为 10 格内最多 12 名自由殖民者各治疗 39 点普通伤势，冷却 1 秒。该次治疗不会再次触发治疗联动。</RHA_M8_f_bloodguard.description>
+  <RHA_M8_f_bloodguard.theme>流派融合</RHA_M8_f_bloodguard.theme>
+  <RHA_M8_f_frostshot.label>极寒狙域</RHA_M8_f_frostshot.label>
+  <RHA_M8_f_frostshot.description>直接命中处于寒缓或眩晕的敌人时，在目标位置释放半径 4 格冰爆，对最多 6 名敌人造成 117＋本次直接伤害 48.75% 的追加伤害，冷却 3 秒。 复制伤害沿用原结算值；固定追加部分仍可增幅。</RHA_M8_f_frostshot.description>
+  <RHA_M8_f_frostshot.theme>流派融合</RHA_M8_f_frostshot.theme>
+  <RHA_M8_f_soulblade.label>万魂剑舞</RHA_M8_f_soulblade.label>
+  <RHA_M8_f_soulblade.description>每第 3 次有效直接命中，向目标附近 8 格内最多 3 名敌人释放魂刃，各造成 52＋魂印数×1.3＋本次直接伤害 19.5% 的追加伤害，冷却 2 秒。 复制伤害沿用原结算值；固定追加部分仍可增幅。 各项永久成长的前 100 点保留全额收益，之后递减。</RHA_M8_f_soulblade.description>
+  <RHA_M8_f_soulblade.theme>流派融合</RHA_M8_f_soulblade.theme>
+  <RHA_M8_f_goldforge.label>黄金铸造</RHA_M8_f_goldforge.label>
+  <RHA_M8_f_goldforge.description>每天获得 520 钢铁、52 玻璃钢和 13 黄金，送至家园。</RHA_M8_f_goldforge.description>
+  <RHA_M8_f_goldforge.theme>流派融合</RHA_M8_f_goldforge.theme>
+  <RHA_M8_f_lifeforge.label>丰饶工坊</RHA_M8_f_lifeforge.label>
+  <RHA_M8_f_lifeforge.description>全体殖民者的种植速度和采矿速度各增加 130%。每天入账 13 份医药、78 化合燃料和 26 份精致食物。</RHA_M8_f_lifeforge.description>
+  <RHA_M8_f_lifeforge.theme>流派融合</RHA_M8_f_lifeforge.theme>
+  <RHA_M8_u_thunder.label>万钧雷主</RHA_M8_u_thunder.label>
+  <RHA_M8_u_thunder.description>连锁等级增加 2.6。每第 4 次有效直接命中，以目标为中心向 18 格内最多 10 名敌人落雷，各造成 130＋连锁等级×16.25 点追加伤害，冷却 3 秒。</RHA_M8_u_thunder.description>
+  <RHA_M8_u_thunder.theme>终极进化</RHA_M8_u_thunder.theme>
+  <RHA_M8_u_flame.label>焚世之日</RHA_M8_u_flame.label>
+  <RHA_M8_u_flame.description>灼烧等级增加 2.6。每第 5 次有效直接命中，在目标位置留下半径 6 格日炎领域，持续 6 秒，每秒对最多 16 名敌人造成 52＋灼烧等级×13 点追加伤害并施加灼烧，冷却 5 秒。</RHA_M8_u_flame.description>
+  <RHA_M8_u_flame.theme>终极进化</RHA_M8_u_flame.theme>
+  <RHA_M8_u_blood.label>不灭血皇</RHA_M8_u_blood.label>
+  <RHA_M8_u_blood.description>直接吸血增加 65%。每累计恢复 200 点真实伤势，在 8 格内有敌人时释放血潮：对最多 12 名敌人造成 130＋自身体质倍率×16.25 点伤害，并为 10 格内最多 12 名自由殖民者各治疗 65 点普通伤势，冷却 3 秒。</RHA_M8_u_blood.description>
+  <RHA_M8_u_blood.theme>终极进化</RHA_M8_u_blood.theme>
+  <RHA_M8_u_titan.label>踏碎山河</RHA_M8_u_titan.label>
+  <RHA_M8_u_titan.description>体质增加 195%。每第 3 次有效直接命中震击目标附近 8 格，对最多 16 名敌人造成 65＋自身体质倍率×39 点追加伤害，冷却 3 秒。</RHA_M8_u_titan.description>
+  <RHA_M8_u_titan.theme>终极进化</RHA_M8_u_titan.theme>
+  <RHA_M8_u_frost.label>永冬王座</RHA_M8_u_frost.label>
+  <RHA_M8_u_frost.description>交战时每 6 秒冻结自身 12 格内最多 16 名敌人，使其寒缓并眩晕 2 秒；已经寒缓或眩晕的目标额外受到 117 点追加伤害。</RHA_M8_u_frost.description>
+  <RHA_M8_u_frost.theme>终极进化</RHA_M8_u_frost.theme>
+  <RHA_M8_u_blade.label>千刃归一</RHA_M8_u_blade.label>
+  <RHA_M8_u_blade.description>近战与远程攻击冷却除数各增加 1.3。每第 4 次有效直接命中向原目标追加最多五道剑斩，每道造成 52＋本次直接伤害 26% 的追加伤害；目标失去战斗能力后停止，冷却 2 秒。 复制伤害沿用原结算值；固定追加部分仍可增幅。</RHA_M8_u_blade.description>
+  <RHA_M8_u_blade.theme>终极进化</RHA_M8_u_blade.theme>
+  <RHA_M8_u_marksman.label>贯星神弩</RHA_M8_u_marksman.label>
+  <RHA_M8_u_marksman.description>每第 3 次有效直接命中，若距离目标至少 12 格，则释放贯星射线：沿攻击方向穿过目标及其后方 18 格、宽约 4 格区域，对命中的敌人造成 130＋本次直接伤害 130% 的追加伤害，冷却 3 秒。 复制伤害沿用原结算值；固定追加部分仍可增幅。</RHA_M8_u_marksman.description>
+  <RHA_M8_u_marksman.theme>终极进化</RHA_M8_u_marksman.theme>
+  <RHA_M8_u_spirit.label>亡者加冕</RHA_M8_u_spirit.label>
+  <RHA_M8_u_spirit.description>收魂等级增加 2.6，击杀额外收集 3.9 魂印。每第 5 次有效直接命中向目标附近 12 格内最多 8 名敌人释放魂潮，各造成 19.5＋魂印数×3.25 点追加伤害，冷却 3 秒。 各项永久成长的前 100 点保留全额收益，之后递减。</RHA_M8_u_spirit.description>
+  <RHA_M8_u_spirit.theme>终极进化</RHA_M8_u_spirit.theme>
+  <RHA_M8_u_guardian.label>万军庇护</RHA_M8_u_guardian.label>
+  <RHA_M8_u_guardian.description>承伤除数增加 0.65。30 格内有敌人时，每 6 秒为自身 12 格内最多 12 名自由殖民者各刷新 195 点护盾，持续 8 秒。</RHA_M8_u_guardian.description>
+  <RHA_M8_u_guardian.theme>终极进化</RHA_M8_u_guardian.theme>
+  <RHA_M8_u_wealth.label>黄金纪元</RHA_M8_u_wealth.label>
+  <RHA_M8_u_wealth.description>每天入账 650 白银加家园库存白银的 3.25%（白银合计上限 13000）、26 黄金与 130 碎晶。碎晶余额上限为 100 万。</RHA_M8_u_wealth.description>
+  <RHA_M8_u_wealth.theme>终极进化</RHA_M8_u_wealth.theme>
+  <RHA_M8_u_industry.label>永动天工</RHA_M8_u_industry.label>
+  <RHA_M8_u_industry.description>全体殖民者工作速度与研究速度各增加 260%。每天入账 7 零部件和 1 高级零部件。</RHA_M8_u_industry.description>
+  <RHA_M8_u_industry.theme>终极进化</RHA_M8_u_industry.theme>
+  <RHA_M8_u_harvest.label>生命方舟</RHA_M8_u_harvest.label>
+  <RHA_M8_u_harvest.description>全体殖民者的植物收获效率增加 195%，体质增加 130%。每天入账 52 份包装生存食物与 13 份医药，并为所有自由殖民者各恢复 104 点普通伤势。</RHA_M8_u_harvest.description>
+  <RHA_M8_u_harvest.theme>终极进化</RHA_M8_u_harvest.theme>
+  <RHA_REF_BackToBasics.label>回归基本功</RHA_REF_BackToBasics.label>
+  <RHA_REF_BackToBasics.theme>全面生产</RHA_REF_BackToBasics.theme>
+  <RHA_REF_BackToBasics.description>每层全局工作速度、研究速度、采矿效率和植物收获效率增加 12%。 最多 8 层。</RHA_REF_BackToBasics.description>
+  <RHA_REF_CoreOverload.label>超负荷</RHA_REF_CoreOverload.label>
+  <RHA_REF_CoreOverload.theme>发电</RHA_REF_CoreOverload.theme>
+  <RHA_REF_CoreOverload.description>每层使己方使用原版发电组件的发电设备实际输出增加 65%；没有燃料、关闭或损坏的设备仍不发电。 最多 8 层。</RHA_REF_CoreOverload.description>
+  <RHA_REF_MoneyMakesMoney.label>钱生钱</RHA_REF_MoneyMakesMoney.label>
+  <RHA_REF_MoneyMakesMoney.theme>复利</RHA_REF_MoneyMakesMoney.theme>
+  <RHA_REF_MoneyMakesMoney.description>每日按己方家园地图中未被禁止、未被战争迷雾遮挡的现存白银获得 0.325%×层数利息，当日先计息再发其他收入。利息与付费上班合计每日最多 20000 白银。 最多 8 层。</RHA_REF_MoneyMakesMoney.description>
+  <RHA_REF_PaidWork.label>付费上班</RHA_REF_PaidWork.label>
+  <RHA_REF_PaidWork.theme>工资返还</RHA_REF_PaidWork.theme>
+  <RHA_REF_PaidWork.description>每日每名自由殖民者产生 15×层数白银。与钱生钱合计每日最多 20000 白银。 最多 8 层。</RHA_REF_PaidWork.description>
+  <RHA_REF_StorageRing.label>储物戒指</RHA_REF_StorageRing.label>
+  <RHA_REF_StorageRing.theme>运输容量</RHA_REF_StorageRing.theme>
+  <RHA_REF_StorageRing.description>每层增加全体殖民者 120% 搬运容量。 最多 8 层。</RHA_REF_StorageRing.description>
+  <RHA_REF_Bloodthirster.label>饮血剑</RHA_REF_Bloodthirster.label>
+  <RHA_REF_Bloodthirster.theme>全体吸血</RHA_REF_Bloodthirster.theme>
+  <RHA_REF_Bloodthirster.description>全体殖民者每层获得 9.1% 对敌直接伤害吸血，只恢复普通伤势。 最多 8 层。</RHA_REF_Bloodthirster.description>
+  <RHA_REF_ImprovePop.label>大变活人</RHA_REF_ImprovePop.label>
+  <RHA_REF_ImprovePop.theme>招募人口</RHA_REF_ImprovePop.theme>
+  <RHA_REF_ImprovePop.description>每次选择额外招募一名新殖民者，出现在已有殖民者的己方家园附近。没有可接收的地图时保留待招募人数。</RHA_REF_ImprovePop.description>
+  <RHA_REF_Genesis.label>创世纪</RHA_REF_Genesis.label>
+  <RHA_REF_Genesis.theme>粮仓 / 食物</RHA_REF_Genesis.theme>
+  <RHA_REF_Genesis.description>每次选择获得 45 份包装生存食物；每层食物中毒几率除数增加 0.455，植物收获效率增加 22.75%。 最多 8 层。</RHA_REF_Genesis.description>
+  <RHA_REF_SlowCook.label>文火</RHA_REF_SlowCook.label>
+  <RHA_REF_SlowCook.theme>农田产出</RHA_REF_SlowCook.theme>
+  <RHA_REF_SlowCook.description>每层全体植物收获效率增加 40%。 最多 8 层。</RHA_REF_SlowCook.description>
+  <RHA_REF_MoreFood.label>岩窖丰收</RHA_REF_MoreFood.label>
+  <RHA_REF_MoreFood.theme>挖矿产粮</RHA_REF_MoreFood.theme>
+  <RHA_REF_MoreFood.description>己方殖民者每挖完一块可采矿石或岩石，额外获得 1.3×层数份包装生存食物，合并送到殖民者附近。 最多 8 层。</RHA_REF_MoreFood.description>
+  <RHA_REF_EarthAwakens.label>大地苏醒</RHA_REF_EarthAwakens.label>
+  <RHA_REF_EarthAwakens.theme>采矿 / 生产</RHA_REF_EarthAwakens.theme>
+  <RHA_REF_EarthAwakens.description>每层采矿速度增加 50%、全局工作速度增加 12%。 最多 8 层。</RHA_REF_EarthAwakens.description>
+  <RHA_REF_DeepVein.label>富矿深掘</RHA_REF_DeepVein.label>
+  <RHA_REF_DeepVein.theme>矿物产出</RHA_REF_DeepVein.theme>
+  <RHA_REF_DeepVein.description>每层采矿产量增加 40%。 最多 8 层。</RHA_REF_DeepVein.description>
+  <RHA_REF_WarFoundry.label>战争铸场</RHA_REF_WarFoundry.label>
+  <RHA_REF_WarFoundry.theme>军工生产</RHA_REF_WarFoundry.theme>
+  <RHA_REF_WarFoundry.description>每层普通工作速度增加 45.5%、全局工作速度增加 22.75%、对敌伤害增加 9.1%。 最多 8 层。</RHA_REF_WarFoundry.description>
+  <RHA_REF_FixedLeadTime.label>恒定工期</RHA_REF_FixedLeadTime.label>
+  <RHA_REF_FixedLeadTime.theme>生产速度</RHA_REF_FixedLeadTime.theme>
+  <RHA_REF_FixedLeadTime.description>每层建造、通用劳动、全局工作速度各增加 20%。 最多 8 层。</RHA_REF_FixedLeadTime.description>
+  <RHA_REF_MadScientist.label>科学狂人</RHA_REF_MadScientist.label>
+  <RHA_REF_MadScientist.theme>科学突破</RHA_REF_MadScientist.theme>
+  <RHA_REF_MadScientist.description>每层每日向当前研究投入 360 点进度。每次选择此卡，另获得当前项目 16% 的研究进度。没有研究项目时，选卡所得的比例进度保留，日常研究不积攒。 最多 8 层。</RHA_REF_MadScientist.description>
+  <RHA_REF_Eureka.label>格物致知</RHA_REF_Eureka.label>
+  <RHA_REF_Eureka.theme>尤里卡</RHA_REF_Eureka.theme>
+  <RHA_REF_Eureka.description>研究速度 +13.65%。抽取时储存 16% 研究进度，按当前课题的研究成本结算；没有进行中的研究时保留到之后使用。最多 8 层。</RHA_REF_Eureka.description>
+  <RHA_REF_MindOverMatter.label>心胜于物</RHA_REF_MindOverMatter.label>
+  <RHA_REF_MindOverMatter.theme>全才经验</RHA_REF_MindOverMatter.theme>
+  <RHA_REF_MindOverMatter.description>每日给所有自由殖民者每项未被禁用的技能增加 130×层数基础经验，再由游戏正常计算学习效果。 最多 8 层。</RHA_REF_MindOverMatter.description>
+  <RHA_REF_HastyScribble.label>急就章</RHA_REF_HastyScribble.label>
+  <RHA_REF_HastyScribble.theme>战斗经验</RHA_REF_HastyScribble.theme>
+  <RHA_REF_HastyScribble.description>每日给所有自由殖民者的射击和格斗各增加 520×层数基础经验。 最多 8 层。</RHA_REF_HastyScribble.description>
+  <RHA_REF_DiceManiac.label>掷骰狂人</RHA_REF_DiceManiac.label>
+  <RHA_REF_DiceManiac.theme>随机奖励 / 刷新</RHA_REF_DiceManiac.theme>
+  <RHA_REF_DiceManiac.description>每次选择立即额外随机获得一张可用殖民地卡，并永久使之后每轮刷新次数增加 1。随机奖励排除继续随机发卡、手快全选和已停用卡。</RHA_REF_DiceManiac.description>
+  <RHA_REF_TakeAll.label>手快全选</RHA_REF_TakeAll.label>
+  <RHA_REF_TakeAll.theme>当前全选</RHA_REF_TakeAll.theme>
+  <RHA_REF_TakeAll.description>选择后同时获得当前界面的另外两张殖民地卡；之后每轮刷新次数永久减少 1，最低为 0。当前三张各结算一次，能触发它们的选卡奖励。</RHA_REF_TakeAll.description>
+  <RHA_REF_GildedReserve.label>金库暗涌</RHA_REF_GildedReserve.label>
+  <RHA_REF_GildedReserve.theme>即时白银</RHA_REF_GildedReserve.theme>
+  <RHA_REF_GildedReserve.description>每次选择立即获得 682.5×（1＋已度过的完整游戏年数）白银，单次最多 1000000。 最多 8 层。</RHA_REF_GildedReserve.description>
+  <RHA_REF_ProteinShake.label>学徒营养餐</RHA_REF_ProteinShake.label>
+  <RHA_REF_ProteinShake.theme>经验翻倍</RHA_REF_ProteinShake.theme>
+  <RHA_REF_ProteinShake.description>每层全体殖民者学习速度增加 70%。 最多 8 层。</RHA_REF_ProteinShake.description>
+  <RHA_REF_GlassCannon.label>玻璃大炮</RHA_REF_GlassCannon.label>
+  <RHA_REF_GlassCannon.theme>高伤害 / 易受伤</RHA_REF_GlassCannon.theme>
+  <RHA_REF_GlassCannon.description>每层全体对敌直接伤害增加 91%，受到的伤害乘数增加 25%。 最多 8 层。</RHA_REF_GlassCannon.description>
+  <RHA_REF_GoldenSpatula.label>金铲铲</RHA_REF_GoldenSpatula.label>
+  <RHA_REF_GoldenSpatula.theme>建造者强化</RHA_REF_GoldenSpatula.theme>
+  <RHA_REF_GoldenSpatula.description>每层使全体角色的建造速度增加 45.5%、种植速度增加 45.5%、移动速度增加 11.375%。最多 8 层。</RHA_REF_GoldenSpatula.description>
+  <RHA_REF_UniversalScope.label>万用瞄准镜</RHA_REF_UniversalScope.label>
+  <RHA_REF_UniversalScope.theme>全体射程</RHA_REF_UniversalScope.theme>
+  <RHA_REF_UniversalScope.description>每层全体殖民者有效远程射程增加 3.25 格，对使用原版射程计算的远程攻击生效。 最多 8 层。</RHA_REF_UniversalScope.description>
+  <RHA_REF_ExtremeSpeed.label>风驰</RHA_REF_ExtremeSpeed.label>
+  <RHA_REF_ExtremeSpeed.theme>全体移速</RHA_REF_ExtremeSpeed.theme>
+  <RHA_REF_ExtremeSpeed.description>每层全体殖民者移速增加 12%。 最多 8 层。</RHA_REF_ExtremeSpeed.description>
+  <RHA_REF_LoyaltyChorus.label>众志成城</RHA_REF_LoyaltyChorus.label>
+  <RHA_REF_LoyaltyChorus.theme>稳定人心</RHA_REF_LoyaltyChorus.theme>
+  <RHA_REF_LoyaltyChorus.description>每层全体精神崩溃阈值降低 0.02275。 最多 8 层。</RHA_REF_LoyaltyChorus.description>
+  <RHA_REF_Warpath.label>征战之路</RHA_REF_Warpath.label>
+  <RHA_REF_Warpath.theme>战时士气</RHA_REF_Warpath.theme>
+  <RHA_REF_Warpath.description>每层精神崩溃阈值降低 0.01365，娱乐需求消耗除数增加 0.2275。 最多 8 层。</RHA_REF_Warpath.description>
+  <RHA_REF_CarnivalCore.label>嘉年华核心</RHA_REF_CarnivalCore.label>
+  <RHA_REF_CarnivalCore.theme>娱乐</RHA_REF_CarnivalCore.theme>
+  <RHA_REF_CarnivalCore.description>每日使全体自由殖民者的娱乐值回复 26%×层数，最高补满。 最多 8 层。</RHA_REF_CarnivalCore.description>
+  <RHA_REF_SilkRoad.label>丝绸之路</RHA_REF_SilkRoad.label>
+  <RHA_REF_SilkRoad.theme>贸易 / 资源</RHA_REF_SilkRoad.theme>
+  <RHA_REF_SilkRoad.description>每层增加 6.825% 交易价格改善，并每日运来 97 白银。 最多 8 层。</RHA_REF_SilkRoad.description>
+  <RHA_REF_GoldContract.label>金契议价</RHA_REF_GoldContract.label>
+  <RHA_REF_GoldContract.theme>交易议价</RHA_REF_GoldContract.theme>
+  <RHA_REF_GoldContract.description>每层交易价格改善增加 0.11375，议价能力增加 22.75%。 最多 8 层。</RHA_REF_GoldContract.description>
+  <RHA_REF_UnboundArmy.label>兵行无碍</RHA_REF_UnboundArmy.label>
+  <RHA_REF_UnboundArmy.theme>无视地形附加耗时</RHA_REF_UnboundArmy.theme>
+  <RHA_REF_UnboundArmy.description>征召时忽略可通行地形额外移动耗时的 65%，重复叠层不再增加。门、墙壁与障碍仍按原有规则处理。</RHA_REF_UnboundArmy.description>
+  <RHA_REF_Goliath.label>歌利亚巨人</RHA_REF_Goliath.label>
+  <RHA_REF_Goliath.theme>巨人 / 体质</RHA_REF_Goliath.theme>
+  <RHA_REF_Goliath.description>每层增加 100% 体质、30% 对敌伤害，承伤除数增加 0.25。不改变身体尺寸。 最多 6 层。</RHA_REF_Goliath.description>
+  <RHA_REF_Deft.label>灵巧</RHA_REF_Deft.label>
+  <RHA_REF_Deft.theme>攻击速度</RHA_REF_Deft.theme>
+  <RHA_REF_Deft.description>每层让近战和远程攻击冷却除数增加 0.5。攻击越频繁，越容易触发命中类强化。 最多 6 层。</RHA_REF_Deft.description>
+  <RHA_REF_BluntForce.label>大力</RHA_REF_BluntForce.label>
+  <RHA_REF_BluntForce.theme>直接伤害</RHA_REF_BluntForce.theme>
+  <RHA_REF_BluntForce.description>每层对敌直接伤害增加 40%。 最多 6 层。</RHA_REF_BluntForce.description>
+  <RHA_REF_ItsCritical.label>关键暴击</RHA_REF_ItsCritical.label>
+  <RHA_REF_ItsCritical.theme>暴击</RHA_REF_ItsCritical.theme>
+  <RHA_REF_ItsCritical.description>每层暴击值增加 40%。超过 100% 的暴击值继续提高暴击倍率。 最多 6 层。</RHA_REF_ItsCritical.description>
+  <RHA_REF_Recursion.label>递归</RHA_REF_Recursion.label>
+  <RHA_REF_Recursion.theme>技能冷却</RHA_REF_Recursion.theme>
+  <RHA_REF_Recursion.description>每层增加 65% 装备急速和 65% 技能急速。旧有装备收益保留。 最多 6 层。</RHA_REF_Recursion.description>
+  <RHA_REF_ScopiestWeapons.label>最万用的瞄准镜</RHA_REF_ScopiestWeapons.label>
+  <RHA_REF_ScopiestWeapons.theme>射程</RHA_REF_ScopiestWeapons.theme>
+  <RHA_REF_ScopiestWeapons.description>每层增加 7.8 格有效远程射程，并增加 13.65% 射手命中率，最高 100%；掩体、武器精度等仍单独计算。对使用原版射程计算的远程攻击生效。 最多 6 层。</RHA_REF_ScopiestWeapons.description>
+  <RHA_REF_HeavyHitter.label>重量级打击手</RHA_REF_HeavyHitter.label>
+  <RHA_REF_HeavyHitter.theme>体质转伤害</RHA_REF_HeavyHitter.theme>
+  <RHA_REF_HeavyHitter.description>每次有效直接攻击额外造成 3.25×层数×自身总体系数点伤害。总体系数包含自身种族体质及强化加成；体质越高，拳头越重。 最多 6 层。</RHA_REF_HeavyHitter.description>
+  <RHA_REF_StackosaurusRex.label>叠角龙</RHA_REF_StackosaurusRex.label>
+  <RHA_REF_StackosaurusRex.theme>永久成长</RHA_REF_StackosaurusRex.theme>
+  <RHA_REF_StackosaurusRex.description>每层使新获得的心之钢、盛宴、魂印、魔王战绩及超凡邪恶成长数量增加 65%。已有成长不追溯翻倍；不增加卡牌自身的选择层数。 最多 6 层。 各项永久成长的前 100 点保留全额收益，之后递减。</RHA_REF_StackosaurusRex.description>
+  <RHA_REF_TapDancer.label>踢踏舞</RHA_REF_TapDancer.label>
+  <RHA_REF_TapDancer.theme>命中 / 移速 / 攻速</RHA_REF_TapDancer.theme>
+  <RHA_REF_TapDancer.description>每次有效命中累积一层舞步，每层舞步提供 5.2%×卡牌层数移速，并让近战、射击冷却除数增加同样数值。10 秒不命中后清空舞步。 最多 6 层。 前 20 层临时连击收益不变，之后收益递减。</RHA_REF_TapDancer.description>
+  <RHA_REF_PhenomenalEvil.label>现象级邪恶</RHA_REF_PhenomenalEvil.label>
+  <RHA_REF_PhenomenalEvil.theme>法术成长</RHA_REF_PhenomenalEvil.theme>
+  <RHA_REF_PhenomenalEvil.description>有效战技或追加伤害每层卡积累 0.65 永久邪力，每 10 刻至多触发一次。每点邪力增加 3% 战技与追加伤害；小数成长保留。 各项永久成长的前 100 点保留全额收益，之后递减。</RHA_REF_PhenomenalEvil.description>
+  <RHA_REF_MagicMissile.label>魔法飞弹</RHA_REF_MagicMissile.label>
+  <RHA_REF_MagicMissile.theme>飞弹 / 体质伤害</RHA_REF_MagicMissile.theme>
+  <RHA_REF_MagicMissile.description>每三次直接命中发射三枚飞弹；战技每次施法对每个敌人首次有效命中也发射三枚。每枚每层造成 5.2 点加目标体质 1.95 倍的追加伤害。 最多 6 层。</RHA_REF_MagicMissile.description>
+  <RHA_REF_InfernalConduit.label>炼狱导管</RHA_REF_InfernalConduit.label>
+  <RHA_REF_InfernalConduit.theme>叠火 / 冷却</RHA_REF_InfernalConduit.theme>
+  <RHA_REF_InfernalConduit.description>直接命中叠加灼烧；灼烧每秒最多一次返还装备和战技冷却，每层卡返还 0.325 秒，单次最多 10 秒。虚幻武器也允许战技施加这项灼烧。 最多 6 层。</RHA_REF_InfernalConduit.description>
+  <RHA_REF_Firebrand.label>火上浇油</RHA_REF_Firebrand.label>
+  <RHA_REF_Firebrand.theme>命中 / 叠火</RHA_REF_Firebrand.theme>
+  <RHA_REF_Firebrand.description>有效命中使目标每秒灼烧伤害增加 2.6×层数，刷新为六次，火焰可不断叠加。与炼狱导管叠入同一名施加者的火焰。 最多 6 层。</RHA_REF_Firebrand.description>
+  <RHA_REF_Vulnerability.label>易损</RHA_REF_Vulnerability.label>
+  <RHA_REF_Vulnerability.theme>持续伤害暴击</RHA_REF_Vulnerability.theme>
+  <RHA_REF_Vulnerability.description>每层增加 18.2% 暴击值，并允许本 Mod 的灼烧、流血、飞弹等额外伤害暴击。一次额外伤害仅判定一次，不再触发连锁命中。 最多 6 层。</RHA_REF_Vulnerability.description>
+  <RHA_REF_CriticalHealing.label>暴击治疗</RHA_REF_CriticalHealing.label>
+  <RHA_REF_CriticalHealing.theme>治疗 / 护盾暴击</RHA_REF_CriticalHealing.theme>
+  <RHA_REF_CriticalHealing.description>每层增加 18.2% 暴击值。治疗和护盾按持有者暴击值判定暴击。第一层暴击额外收益为 65%，多层最高 100%；溢出暴击值提供的额外倍率同样按此比例结算。</RHA_REF_CriticalHealing.description>
+  <RHA_REF_LightWarden.label>光明守望者</RHA_REF_LightWarden.label>
+  <RHA_REF_LightWarden.theme>团队护盾</RHA_REF_LightWarden.theme>
+  <RHA_REF_LightWarden.description>站立时约每 12.5 秒为自身 10 格内至多 12 名己方殖民者提供 22.75×层数点护盾，持续 12.5 秒，包含自己。重获护盾时保留较强值。 最多 6 层。</RHA_REF_LightWarden.description>
+  <RHA_REF_CourageoftheColossus.label>巨像的勇气</RHA_REF_CourageoftheColossus.label>
+  <RHA_REF_CourageoftheColossus.theme>控制 / 护盾</RHA_REF_CourageoftheColossus.theme>
+  <RHA_REF_CourageoftheColossus.description>成功眩晕敌人后，获得 26×层数×（1＋海克斯体质加成）点护盾，持续 5 秒。控制收益每秒至多一次，可由永霜触发。 最多 6 层。</RHA_REF_CourageoftheColossus.description>
+  <RHA_REF_GuiltyPleasure.label>恶趣味</RHA_REF_GuiltyPleasure.label>
+  <RHA_REF_GuiltyPleasure.theme>控制 / 治疗</RHA_REF_GuiltyPleasure.theme>
+  <RHA_REF_GuiltyPleasure.description>成功眩晕敌人后治疗自己 16.25×层数点普通伤势。与其他控制收益共用每秒一次的触发节奏。 最多 6 层。</RHA_REF_GuiltyPleasure.description>
+  <RHA_REF_OceanSoul.label>海洋龙魂</RHA_REF_OceanSoul.label>
+  <RHA_REF_OceanSoul.theme>命中 / 恢复</RHA_REF_OceanSoul.theme>
+  <RHA_REF_OceanSoul.description>每次有效命中恢复自己 5.2×层数点普通伤势。 最多 6 层。</RHA_REF_OceanSoul.description>
+  <RHA_REF_MountainSoul.label>山脉龙魂</RHA_REF_MountainSoul.label>
+  <RHA_REF_MountainSoul.theme>脱战护盾</RHA_REF_MountainSoul.theme>
+  <RHA_REF_MountainSoul.description>连续 5 秒未受攻击后，约每 4.2 秒刷新 26×层数点护盾，持续约 8.3 秒。护盾取较强值，受击后停止刷新，直到再次满足脱战条件。 最多 6 层。</RHA_REF_MountainSoul.description>
+  <RHA_REF_InfernalSoul.label>炼狱龙魂</RHA_REF_InfernalSoul.label>
+  <RHA_REF_InfernalSoul.theme>命中 / 范围爆发</RHA_REF_InfernalSoul.theme>
+  <RHA_REF_InfernalSoul.description>有效命中在目标 3.5 格内引发爆发，对至多 12 名站立敌人各造成 11.7×层数点穿甲伤害，每 2 秒至多一次。 最多 6 层。</RHA_REF_InfernalSoul.description>
+  <RHA_REF_Homeguard.label>家园卫士</RHA_REF_Homeguard.label>
+  <RHA_REF_Homeguard.theme>脱战移速</RHA_REF_Homeguard.theme>
+  <RHA_REF_Homeguard.description>连续 5 秒未受攻击时，移速增加 68.25%×层数。受到攻击后暂时失去这份移速，五秒后重新获得。 最多 6 层。</RHA_REF_Homeguard.description>
+  <RHA_REF_RestlessRestoration.label>无休回复</RHA_REF_RestlessRestoration.label>
+  <RHA_REF_RestlessRestoration.theme>移动 / 恢复</RHA_REF_RestlessRestoration.theme>
+  <RHA_REF_RestlessRestoration.description>移动中约每 4.2 秒恢复 12×层数点普通伤势。停下来就停止此项恢复。 最多 6 层。</RHA_REF_RestlessRestoration.description>
+  <RHA_REF_Perseverance.label>坚韧</RHA_REF_Perseverance.label>
+  <RHA_REF_Perseverance.theme>恢复 / 残血</RHA_REF_Perseverance.theme>
+  <RHA_REF_Perseverance.description>约每 4.2 秒恢复每层 9.6 点普通伤势；总体健康度低于 50% 时提高为每层 40 点。可帮助仍存活的倒地者。最多 6 层。</RHA_REF_Perseverance.description>
+  <RHA_REF_ApexInventor.label>尖端发明家</RHA_REF_ApexInventor.label>
+  <RHA_REF_ApexInventor.theme>装备急速</RHA_REF_ApexInventor.theme>
+  <RHA_REF_ApexInventor.description>每层增加 195 装备急速。适用装备冷却除以（1＋急速/100）；飞升护符的每日次数不变。最多 6 层。</RHA_REF_ApexInventor.description>
+  <RHA_REF_ShrinkRay.label>缩小射线</RHA_REF_ShrinkRay.label>
+  <RHA_REF_ShrinkRay.theme>削弱敌人</RHA_REF_ShrinkRay.theme>
+  <RHA_REF_ShrinkRay.description>有效命中使敌人造成的伤害除以（1＋0.65×层数），持续 5 秒。再次命中刷新时间，多个来源取较强值。不改变身体尺寸。 最多 6 层。</RHA_REF_ShrinkRay.description>
+  <RHA_REF_SymphonyofWar.label>战争交响乐</RHA_REF_SymphonyofWar.label>
+  <RHA_REF_SymphonyofWar.theme>连击 / 攻速 / 增伤</RHA_REF_SymphonyofWar.theme>
+  <RHA_REF_SymphonyofWar.description>每次有效命中累积一层交响，每层交响使直接伤害增加 3.9%×卡牌层数、攻击冷却除数增加 0.078×卡牌层数。10 秒不命中清空。 最多 6 层。 前 20 层临时连击收益不变，之后收益递减。</RHA_REF_SymphonyofWar.description>
+  <RHA_REF_Stats.label>属性！</RHA_REF_Stats.label>
+  <RHA_REF_Stats.theme>属性铁砧</RHA_REF_Stats.theme>
+  <RHA_REF_Stats.description>立即获得两次随机属性增益，每次随机为：39% 伤害、39% 体质、39% 移速，或攻击冷却除数增加 0.39。结果永久保存在英雄身上，同项可重复。 随机属性池中，伤害与体质累计加成超过 200%、移速与攻速累计加成超过 100% 后，收益递减；已获得的计数保留。</RHA_REF_Stats.description>
+  <RHA_REF_StatsOnStats.label>属性叠属性！</RHA_REF_StatsOnStats.label>
+  <RHA_REF_StatsOnStats.theme>属性铁砧</RHA_REF_StatsOnStats.theme>
+  <RHA_REF_StatsOnStats.description>立即获得三次随机属性增益，每次随机为：39% 伤害、39% 体质、39% 移速，或攻击冷却除数增加 0.39。结果永久保存，同项可重复。 随机属性池中，伤害与体质累计加成超过 200%、移速与攻速累计加成超过 100% 后，收益递减；已获得的计数保留。</RHA_REF_StatsOnStats.description>
+  <RHA_REF_StatsOnStatsOnStats.label>属性叠属性叠属性！</RHA_REF_StatsOnStatsOnStats.label>
+  <RHA_REF_StatsOnStatsOnStats.theme>属性铁砧</RHA_REF_StatsOnStatsOnStats.theme>
+  <RHA_REF_StatsOnStatsOnStats.description>立即获得四次随机属性增益，每次随机为：39% 伤害、39% 体质、39% 移速，或攻击冷却除数增加 0.39。结果永久保存，同项可重复。 随机属性池中，伤害与体质累计加成超过 200%、移速与攻速累计加成超过 100% 后，收益递减；已获得的计数保留。</RHA_REF_StatsOnStatsOnStats.description>
+  <RHA_REF_TransmutePrismatic.label>质变：棱彩阶</RHA_REF_TransmutePrismatic.label>
+  <RHA_REF_TransmutePrismatic.theme>随机棱彩</RHA_REF_TransmutePrismatic.theme>
+  <RHA_REF_TransmutePrismatic.description>立即随机获得一张当前可用的棱彩英雄卡。不会抽中已停用、已满层或继续随机发卡的卡；保留原有强化。</RHA_REF_TransmutePrismatic.description>
+  <RHA_REF_MasterofDuality.label>双修精通</RHA_REF_MasterofDuality.label>
+  <RHA_REF_MasterofDuality.theme>物理 / 额外伤害互养</RHA_REF_MasterofDuality.theme>
+  <RHA_REF_MasterofDuality.description>直接命中积累术力，战技或追加伤害积累攻势。每层临时术力每层卡增加 3.9% 战技和追加伤害；每层攻势增加 3.9% 直接伤害。追加命中的成长最多每 10 刻结算一次；连续 10 秒没有直接命中后停止受益。 最多 6 层。 前 20 层临时连击收益不变，之后收益递减。</RHA_REF_MasterofDuality.description>
+</LanguageData>

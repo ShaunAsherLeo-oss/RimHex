@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RHA_Equipment037_BloodrageMemory>Health input {0}%</RHA_Equipment037_BloodrageMemory>
+  <RHA_Equipment037_BloodrageFury>Rage {0}/5 · remainder {1}/{2}</RHA_Equipment037_BloodrageFury>
+  <RHA_Equipment037_BloodrageDebt>Owed {0}/{1} · {2} installments</RHA_Equipment037_BloodrageDebt>
+</LanguageData>

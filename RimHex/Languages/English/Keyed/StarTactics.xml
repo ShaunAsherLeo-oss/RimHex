@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RHA_Tactic_Invalid>Invalid tactical configuration; this attempt will end safely.</RHA_Tactic_Invalid>
+  <RHA_Tactic_Phase>Tactical phase {0} · tier {1} · next change in {2}s</RHA_Tactic_Phase>
+  <RHA_Tactic_Role>{0}: {1}</RHA_Tactic_Role>
+  <RHA_Tactic_Window>{0}s exposed · +25% damage taken</RHA_Tactic_Window>
+  <RHA_Tactic_Frenzy>{0}s frenzy · faster attacks</RHA_Tactic_Frenzy>
+  <RHA_Tactic_Defended>Up to 20% defense</RHA_Tactic_Defended>
+  <RHA_Tactic_Hold>Holding position</RHA_Tactic_Hold>
+  <RHA_Tactic_Embers>Active embers: {0}/{1}</RHA_Tactic_Embers>
+  <RHA_Tactic_Warning>Attack locked · impact in {0}s</RHA_Tactic_Warning>
+  <RHA_Tactic_Protected>Protected target: {0}</RHA_Tactic_Protected>
+  <RHA_Tactic_Result>{0} · {1} successful counters</RHA_Tactic_Result>
+  <RHA_Tactic_Contribution>Enemy {0}: applicant actual damage {1} · phase damage {2}/{3}</RHA_Tactic_Contribution>
+  <RHA_Tactic_Role0>Linked enemy</RHA_Tactic_Role0>
+  <RHA_Tactic_Role1>Primary enemy</RHA_Tactic_Role1>
+  <RHA_Tactic_Role2>Coordinating enemy</RHA_Tactic_Role2>
+  <RHA_Tactic_Role3>Power feeder</RHA_Tactic_Role3>
+  <RHA_Tactic_Role4>Ember caster</RHA_Tactic_Role4>
+  <RHA_Tactic_Role5>Wounded frenzy</RHA_Tactic_Role5>
+  <RHA_Tactic_Role6>Formation anchor</RHA_Tactic_Role6>
+  <RHA_Tactic_Role7>Frozen: 20% defense · slower movement</RHA_Tactic_Role7>
+  <RHA_Tactic_Role8>Thawed: +25% damage taken</RHA_Tactic_Role8>
+  <RHA_Tactic_Role9>Locked directional stance</RHA_Tactic_Role9>
+  <RHA_Tactic_Role10>Suppressor</RHA_Tactic_Role10>
+  <RHA_Tactic_Role11>Shooter</RHA_Tactic_Role11>
+  <RHA_Tactic_Role12>Pact primary</RHA_Tactic_Role12>
+  <RHA_Tactic_Role13>Pact supporter</RHA_Tactic_Role13>
+  <RHA_Tactic_Role14>Current pursuing threat</RHA_Tactic_Role14>
+  <RHA_Tactic_Result_feeder>Power interrupted</RHA_Tactic_Result_feeder>
+  <RHA_Tactic_Result_ember>Ember consumed; attack cancelled</RHA_Tactic_Result_ember>
+  <RHA_Tactic_Result_interrupt>Cast interrupted</RHA_Tactic_Result_interrupt>
+  <RHA_Tactic_Result_rage>Frenzy exposes weakness</RHA_Tactic_Result_rage>
+  <RHA_Tactic_Result_formation>Formation collapsed</RHA_Tactic_Result_formation>
+  <RHA_Tactic_Result_stance>Stance broken</RHA_Tactic_Result_stance>
+  <RHA_Tactic_Result_crossfire>Suppression removed</RHA_Tactic_Result_crossfire>
+  <RHA_Tactic_Result_pact>Pact protection broken</RHA_Tactic_Result_pact>
+  <RHA_Tactic_Result_rescue>Counter window opened</RHA_Tactic_Result_rescue>
+  <RHA_Tactic_Brief_thunder>Threat: a feeder protects linked enemies. Answer: focus, kill or control the feeder. Reward: linked enemies take 25% more damage for 8 seconds. Ordinary attacks always progress.</RHA_Tactic_Brief_thunder>
+  <RHA_Tactic_Brief_flame>Threat: radius-2 embers last 6 seconds and deal 25% of base special damage per second; overlaps do not stack. Answer: bait a later locked attack into old embers or control its caster. Reward: consume the ember, cancel the attack and expose the caster for 8 seconds.</RHA_Tactic_Brief_flame>
+  <RHA_Tactic_Brief_blood>Threat: actual damage reaching 20% of maximum torso health starts an 8-second frenzy, once per phase. Answer: burst, trade hits or control it; stage five staggers frenzies. Reward: 25% more damage taken during frenzy.</RHA_Tactic_Brief_blood>
+  <RHA_Tactic_Brief_titan>Threat: nearby stationary enemies form up to 20% formation defense. Answer: pull them apart, control the anchor or concentrate actual damage. Reward: 25% more damage taken for 8 seconds after collapse.</RHA_Tactic_Brief_titan>
+  <RHA_Tactic_Brief_frost>Threat: frozen enemies defend and move slower. Answer: keep attacking or save burst for thaw; stage five staggers phases. Reward: thawed enemies take 25% more damage. Phases last at least 30 seconds.</RHA_Tactic_Brief_frost>
+  <RHA_Tactic_Brief_blade>Threat: a marked facing defends the front. Answer: hit the side or rear, or control it. Reward: 25% more damage taken for 8 seconds after stance break; no rebuild in that phase.</RHA_Tactic_Brief_blade>
+  <RHA_Tactic_Brief_marksman>Threat: a suppressor protects the shooter. Answer: focus or control the suppressor, or use cover. Reward: cancel the shooter charge and expose it for 8 seconds with 25% more damage taken.</RHA_Tactic_Brief_marksman>
+  <RHA_Tactic_Brief_spirit>Threat: a supporter protects the primary through a pact. Answer: focus or control the supporter. Reward: 25% more damage taken by the primary for 8 seconds. Pacts move among survivors only; no resurrection.</RHA_Tactic_Brief_spirit>
+  <RHA_Tactic_Brief_guardian>Threat: pursuit of the protected target. Answer: applicant actual damage to the threat, effective healing or real shield absorption. Reward: the shared phase threshold opens an 8-second counter window. Solo applicants protect themselves; the originally protected person must survive.</RHA_Tactic_Brief_guardian>
+</LanguageData>

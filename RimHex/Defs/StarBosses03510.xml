@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <RimHex.HexStarBossThemeDef>
+    <defName>RHA_StarBoss03510_thunder</defName><label>thunder star commander</label>
+    <description>A themed commander retaining its native mechanoid identity and modifications.</description>
+    <nativeKind>Mech_Lancer</nativeKind><detail>RHA_StarBossDetail03510_thunder</detail>
+  </RimHex.HexStarBossThemeDef>
+  <RimHex.HexStarBossThemeDef>
+    <defName>RHA_StarBoss03510_flame</defName><label>flame star commander</label>
+    <description>A themed commander retaining its native mechanoid identity and modifications.</description>
+    <nativeKind>Mech_CentipedeBurner</nativeKind><detail>RHA_StarBossDetail03510_flame</detail>
+  </RimHex.HexStarBossThemeDef>
+  <RimHex.HexStarBossThemeDef>
+    <defName>RHA_StarBoss03510_blood</defName><label>blood star commander</label>
+    <description>A themed commander retaining its native mechanoid identity and modifications.</description>
+    <nativeKind>Mech_Scyther</nativeKind><detail>RHA_StarBossDetail03510_blood</detail>
+  </RimHex.HexStarBossThemeDef>
+  <RimHex.HexStarBossThemeDef>
+    <defName>RHA_StarBoss03510_titan</defName><label>titan star commander</label>
+    <description>A themed commander retaining its native mechanoid identity and modifications.</description>
+    <nativeKind>Mech_CentipedeBlaster</nativeKind><detail>RHA_StarBossDetail03510_titan</detail>
+  </RimHex.HexStarBossThemeDef>
+  <RimHex.HexStarBossThemeDef>
+    <defName>RHA_StarBoss03510_frost</defName><label>frost star commander</label>
+    <description>A themed commander retaining its native mechanoid identity and modifications.</description>
+    <nativeKind>Mech_Pikeman</nativeKind><detail>RHA_StarBossDetail03510_frost</detail>
+  </RimHex.HexStarBossThemeDef>
+  <RimHex.HexStarBossThemeDef>
+    <defName>RHA_StarBoss03510_blade</defName><label>blade star commander</label>
+    <description>A themed commander retaining its native mechanoid identity and modifications.</description>
+    <nativeKind>Mech_Scyther</nativeKind><detail>RHA_StarBossDetail03510_blade</detail>
+  </RimHex.HexStarBossThemeDef>
+  <RimHex.HexStarBossThemeDef>
+    <defName>RHA_StarBoss03510_marksman</defName><label>marksman star commander</label>
+    <description>A themed commander retaining its native mechanoid identity and modifications.</description>
+    <nativeKind>Mech_Lancer</nativeKind><detail>RHA_StarBossDetail03510_marksman</detail>
+  </RimHex.HexStarBossThemeDef>
+  <RimHex.HexStarBossThemeDef>
+    <defName>RHA_StarBoss03510_spirit</defName><label>spirit star commander</label>
+    <description>A themed commander retaining its native mechanoid identity and modifications.</description>
+    <nativeKind>Mech_Lancer</nativeKind><detail>RHA_StarBossDetail03510_spirit</detail>
+  </RimHex.HexStarBossThemeDef>
+  <RimHex.HexStarBossThemeDef>
+    <defName>RHA_StarBoss03510_guardian</defName><label>guardian star commander</label>
+    <description>A themed commander retaining its native mechanoid identity and modifications.</description>
+    <nativeKind>Mech_Scyther</nativeKind><detail>RHA_StarBossDetail03510_guardian</detail>
+  </RimHex.HexStarBossThemeDef>
+</Defs>

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_V25_AimNoMap>需要在当前地图上操作</RHA_V25_AimNoMap>
+  <RHA_V25_AimInvalid>请选择地图上的有效目标</RHA_V25_AimInvalid>
+  <RHA_V25_AimHidden>目标位置尚未显露</RHA_V25_AimHidden>
+  <RHA_V25_AimRange>距离太远</RHA_V25_AimRange>
+  <RHA_V25_AimSight>视线受阻</RHA_V25_AimSight>
+  <RHA_V25_AimEnemy>请选择仍能战斗的敌人</RHA_V25_AimEnemy>
+  <RHA_V25_AimGround>这处地面无法部署</RHA_V25_AimGround>
+  <RHA_V25_AimPawn>这处位置有人占据</RHA_V25_AimPawn>
+  <RHA_V25_AimOccupied>这处位置已有机关</RHA_V25_AimOccupied>
+  <RHA_V25_AimOwnMine>请选择自己的有效机关</RHA_V25_AimOwnMine>
+  <RHA_V25_AimArming>机关尚未启动</RHA_V25_AimArming>
+  <RHA_V25_AimWarning>机关已进入引爆预警，无法回收</RHA_V25_AimWarning>
+  <RHA_V25_AimReady>点击：{0}</RHA_V25_AimReady>
+</LanguageData>

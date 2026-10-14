@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_STAR_Relic_Crown.nodes.0.label>魔冠承袭</RHA_STAR_Relic_Crown.nodes.0.label>
+  <RHA_STAR_Relic_Crown.nodes.0.description>穿戴魔王冠后进阶。保留原有声望、贡献分配和收益递减，不重复增加基础属性，也不额外发放声望。进阶随遗物保存，换下后停止生效。</RHA_STAR_Relic_Crown.nodes.0.description>
+  <RHA_STAR_Relic_Crown.nodes.1.label>轮番征伐</RHA_STAR_Relic_Crown.nodes.1.label>
+  <RHA_STAR_Relic_Crown.nodes.1.description>3次计入的普通命中中，每次须与上一次目标不同，间隔不超过3秒；第三次命中追加50点伤害，冷却8秒。连续攻击同一目标不增加次数，也不延长计时。 基础收益：伤害 50。</RHA_STAR_Relic_Crown.nodes.1.description>
+  <RHA_STAR_Relic_Crown.nodes.2.label>庇护之誓</RHA_STAR_Relic_Crown.nodes.2.label>
+  <RHA_STAR_Relic_Crown.nodes.2.description>本人的护盾实际吸收敌人伤害后，治疗本人4格内视线畅通、伤势最重的另一名殖民者20点基础可恢复伤势，冷却8秒。需要已有护盾；本节点不自行产生护盾，没有受伤队友时不治疗本人。 基础收益：治疗 20。</RHA_STAR_Relic_Crown.nodes.2.description>
+  <RHA_STAR_Relic_Crown.nodes.3.label>余威震慑</RHA_STAR_Relic_Crown.nodes.3.label>
+  <RHA_STAR_Relic_Crown.nodes.3.description>轮番征伐的追加伤害实际命中后，对受击点3格内视线畅通的另一名敌人追加25点伤害，冷却8秒。没有第二名敌人时不回打原目标。 基础收益：伤害 25。</RHA_STAR_Relic_Crown.nodes.3.description>
+  <RHA_STAR_Relic_Crown.nodes.4.label>战后余裕</RHA_STAR_Relic_Crown.nodes.4.label>
+  <RHA_STAR_Relic_Crown.nodes.4.description>轮番征伐的追加伤害实际命中后，治疗本人20点基础可恢复伤势，冷却8秒。追加伤害被完全阻止时不触发；不恢复永久伤疤或缺失部位。 基础收益：治疗 20。</RHA_STAR_Relic_Crown.nodes.4.description>
+  <RHA_STAR_Relic_Crown.nodes.5.label>护卫赐令</RHA_STAR_Relic_Crown.nodes.5.label>
+  <RHA_STAR_Relic_Crown.nodes.5.description>庇护之誓实际治疗队友后，为本人4格内视线畅通、最近的另一名殖民者提供50点基础护盾，持续3秒，冷却8秒。受盾者不一定是刚才接受治疗的人，没有合适队友时不转给本人。 基础收益：护盾 50。</RHA_STAR_Relic_Crown.nodes.5.description>
+  <RHA_STAR_Relic_Crown.nodes.6.label>还击号令</RHA_STAR_Relic_Crown.nodes.6.label>
+  <RHA_STAR_Relic_Crown.nodes.6.description>庇护之誓实际治疗队友后，储存一次5秒还击机会，冷却8秒。后续普通命中消耗机会，追加75点伤害；最多储存一次，治疗本身不造成伤害。 基础收益：伤害 75。</RHA_STAR_Relic_Crown.nodes.6.description>
+</LanguageData>

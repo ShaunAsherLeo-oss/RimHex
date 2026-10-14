@@ -1,0 +1,488 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Defs>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_C_Builder</defName>
+    <label>Miraculous construction</label>
+    <scope>Colony</scope>
+    <tier>Silver</tier>
+    <theme>Construction</theme>
+    <description>All colonists gain 80% construction speed per stack, combining with global work speed bonuses. Draft limit: 8 stacks.</description>
+    <stats>
+      <li>
+        <stat>ConstructionSpeed</stat>
+        <bonus>0.8</bonus>
+      </li>
+    </stats>
+    <iconPath>RimHex/Cards/RHA_C_Builder</iconPath>
+    <maxStacks>8</maxStacks>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_C_Kitchen</defName>
+    <label>Feast kitchen</label>
+    <scope>Colony</scope>
+    <tier>Silver</tier>
+    <theme>Cooking</theme>
+    <description>Adds 80% cooking speed and 30% butchery meat efficiency per stack. Cook-caused food poisoning chance is divided by (1 + 4.095 × stacks). Kitchen cleanliness still matters. Draft limit: 8 stacks.</description>
+    <stats>
+      <li>
+        <stat>CookSpeed</stat>
+        <bonus>0.8</bonus>
+      </li>
+      <li>
+        <stat>ButcheryFleshEfficiency</stat>
+        <bonus>0.3</bonus>
+      </li>
+      <li>
+        <stat>FoodPoisonChance</stat>
+        <bonus>4.095</bonus>
+        <inverse>true</inverse>
+      </li>
+    </stats>
+    <iconPath>RimHex/Cards/RHA_C_Kitchen</iconPath>
+    <maxStacks>8</maxStacks>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_C_Haulers</defName>
+    <label>Ascendant haulers</label>
+    <scope>Colony</scope>
+    <tier>Silver</tier>
+    <theme>Hauling</theme>
+    <description>All colonists gain 100% carrying capacity and 12% movement speed per stack. Ordinary hauling rules, including single-stack limits, still apply. Draft limit: 8 stacks.</description>
+    <stats>
+      <li>
+        <stat>CarryingCapacity</stat>
+        <bonus>1</bonus>
+      </li>
+      <li>
+        <stat>MoveSpeed</stat>
+        <bonus>0.12</bonus>
+      </li>
+    </stats>
+    <iconPath>RimHex/Cards/RHA_C_Haulers</iconPath>
+    <maxStacks>8</maxStacks>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_C_Hospital</defName>
+    <label>Field hospital</label>
+    <scope>Colony</scope>
+    <tier>Silver</tier>
+    <theme>Medicine</theme>
+    <description>All colonists gain 75% medical tend speed and 30% tend quality per stack. Medicine and the game's quality caps still apply. Draft limit: 8 stacks.</description>
+    <stats>
+      <li>
+        <stat>MedicalTendSpeed</stat>
+        <bonus>0.75</bonus>
+      </li>
+      <li>
+        <stat>MedicalTendQuality</stat>
+        <bonus>0.3</bonus>
+      </li>
+    </stats>
+    <iconPath>RimHex/Cards/RHA_C_Hospital</iconPath>
+    <maxStacks>8</maxStacks>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_C_Parley</defName>
+    <label>Silver tongues</label>
+    <scope>Colony</scope>
+    <tier>Silver</tier>
+    <theme>Social</theme>
+    <description>All colonists gain 75% social impact and 35% learning speed per stack. Draft limit: 8 stacks.</description>
+    <stats>
+      <li>
+        <stat>SocialImpact</stat>
+        <bonus>0.75</bonus>
+      </li>
+      <li>
+        <stat>GlobalLearningFactor</stat>
+        <bonus>0.35</bonus>
+      </li>
+    </stats>
+    <iconPath>RimHex/Cards/RHA_C_Parley</iconPath>
+    <maxStacks>8</maxStacks>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_C_Components</defName>
+    <label>Component assembly line</label>
+    <scope>Colony</scope>
+    <tier>Gold</tier>
+    <theme>Supplies</theme>
+    <description>Provides 4 components per stack each day. Draft limit: 8 stacks.</description>
+    <dailyResource>ComponentIndustrial</dailyResource>
+    <dailyCount>4</dailyCount>
+    <iconPath>RimHex/Cards/RHA_C_Components</iconPath>
+    <maxStacks>8</maxStacks>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_C_Plasteel</defName>
+    <label>Plasteel delivery</label>
+    <scope>Colony</scope>
+    <tier>Gold</tier>
+    <theme>Supplies</theme>
+    <description>Provides 24 plasteel per stack each day. Draft limit: 8 stacks.</description>
+    <dailyResource>Plasteel</dailyResource>
+    <dailyCount>24</dailyCount>
+    <iconPath>RimHex/Cards/RHA_C_Plasteel</iconPath>
+    <maxStacks>8</maxStacks>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_C_Meals</defName>
+    <label>Full granaries</label>
+    <scope>Colony</scope>
+    <tier>Gold</tier>
+    <theme>Food</theme>
+    <description>Delivers 12 packaged survival meals per stack each day near a colonist. Draft limit: 8 stacks.</description>
+    <dailyResource>MealSurvivalPack</dailyResource>
+    <dailyCount>12</dailyCount>
+    <iconPath>RimHex/Cards/RHA_C_Meals</iconPath>
+    <maxStacks>8</maxStacks>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_C_Glitter</defName>
+    <label>Glitterworld medical crate</label>
+    <scope>Colony</scope>
+    <tier>Prismatic</tier>
+    <theme>Medical supplies</theme>
+    <description>Provides 1 glitterworld medicine each day and adds 60% immunity gain speed to all colonists per stack. Draft limit: 8 stacks.</description>
+    <dailyResource>MedicineUltratech</dailyResource>
+    <dailyCount>1</dailyCount>
+    <stats>
+      <li>
+        <stat>ImmunityGainSpeed</stat>
+        <bonus>0.6</bonus>
+      </li>
+    </stats>
+    <iconPath>RimHex/Cards/RHA_C_Glitter</iconPath>
+    <maxStacks>8</maxStacks>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_C_Antitoxin</defName>
+    <label>Antitoxin charter</label>
+    <scope>Colony</scope>
+    <tier>Gold</tier>
+    <theme>Toxic resistance</theme>
+    <description>Each stack grants all colonists 45.5 percentage points of toxic resistance and 50% immunity gain speed. Native resistance caps still apply.</description>
+    <stats>
+      <li>
+        <stat>ToxicResistance</stat>
+        <bonus>0</bonus>
+        <offset>0.5</offset>
+      </li>
+      <li>
+        <stat>ImmunityGainSpeed</stat>
+        <bonus>0.5</bonus>
+      </li>
+    </stats>
+    <iconPath>RimHex/Cards/RHA_C_Antitoxin</iconPath>
+    <maxStacks>8</maxStacks>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_C_Ember</defName>
+    <label>Sunfire host</label>
+    <scope>Colony</scope>
+    <tier>Gold</tier>
+    <theme>Aura</theme>
+    <description>Grants all colonists 0.65 Sunfire level per stack. About every 4.2 seconds, deals 18 × level armor-piercing damage to up to 16 standing enemies within 5.5 cells. The aura pauses while downed. Draft limit: 8 stacks.</description>
+    <aura>0.65</aura>
+    <iconPath>RimHex/Cards/RHA_C_Ember</iconPath>
+    <maxStacks>8</maxStacks>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_C_Menders</defName>
+    <label>Astral healers</label>
+    <scope>Colony</scope>
+    <tier>Gold</tier>
+    <theme>Group healing</theme>
+    <description>Grants all colonists 0.65 group-healing level per stack. Valid hits trigger at most once per second, healing up to 12 friendly colonists within 8 cells, including the attacker, for 8 × level ordinary injury points each. Draft limit: 8 stacks.</description>
+    <mend>0.65</mend>
+    <iconPath>RimHex/Cards/RHA_C_Menders</iconPath>
+    <maxStacks>8</maxStacks>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_C_Spikes</defName>
+    <label>Colony of thorns</label>
+    <scope>Colony</scope>
+    <tier>Gold</tier>
+    <theme>Retaliation</theme>
+    <description>Grants all colonists 0.65 thorns level per stack. After taking direct damage from an enemy, retaliates for 18 × level + 50% of actual damage taken as armor-piercing damage. At most once per second per colonist. Environmental and additional damage do not trigger it. Draft limit: 8 stacks.</description>
+    <thorns>0.65</thorns>
+    <iconPath>RimHex/Cards/RHA_C_Spikes</iconPath>
+    <maxStacks>8</maxStacks>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_C_Bounty</defName>
+    <label>Spoils of war</label>
+    <scope>Colony</scope>
+    <tier>Gold</tier>
+    <theme>Bounty</theme>
+    <description>Each stack grants 19.5 additional silver when any colonist kills a standing enemy. Bounties are combined and delivered about every 4.2 seconds, or saved until a receiving map is available. Draft limit: 8 stacks.</description>
+    <bounty>19.5</bounty>
+    <iconPath>RimHex/Cards/RHA_C_Bounty</iconPath>
+    <maxStacks>8</maxStacks>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_C_Souls</defName>
+    <label>Shared ascension</label>
+    <scope>Colony</scope>
+    <tier>Prismatic</tier>
+    <theme>Soul growth</theme>
+    <description>All colonists gain 45.5% health per stack. A full contribution share grants each eligible participant 0.65 permanent soul mark per stack. Each mark adds 4% damage against enemies and heals 0.02 ordinary injury points per second. Draft limit: 8 stacks. Fractional growth carries over into whole marks. Each permanent growth effect retains its full benefit through 100 points, then has diminishing returns. Share growth among holders of the same ability who contributed in the last 30 seconds, using each holder's own rate. Count damage, added stun time and Hex-attributed healing or shield absorption. Healing must repair recent enemy damage. If damage contributors are present, support takes at most 25% of the pool. Bystanders, ordinary animals, prisoners and finishing downed targets give no growth.</description>
+    <soul>0.65</soul>
+    <health>0.455</health>
+    <iconPath>RimHex/Cards/RHA_C_Souls</iconPath>
+    <maxStacks>8</maxStacks>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_C_Wildfire</defName>
+    <label>Wildfire protocol</label>
+    <scope>Colony</scope>
+    <tier>Prismatic</tier>
+    <theme>Burning</theme>
+    <description>Grants all colonists 1.3 burn levels per stack. Valid hits apply four burn pulses, each dealing 6 × level armor-piercing damage at one-second intervals. Further hits refresh the pulse count. Burns from multiple attackers keep the stronger effect. Does not start fires. Draft limit: 8 stacks.</description>
+    <burn>1.3</burn>
+    <iconPath>RimHex/Cards/RHA_C_Wildfire</iconPath>
+    <maxStacks>8</maxStacks>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_H_Thorns</defName>
+    <label>Armored dragon turtle</label>
+    <scope>Hero</scope>
+    <tier>Gold</tier>
+    <theme>Defensive retaliation</theme>
+    <description>Adds 45.5% health and 1.3 thorns levels per stack. After taking direct enemy damage, retaliates for 18 × thorns level + 50% of actual damage taken as armor-piercing damage, at most once per second. Draft limit: 6 stacks.</description>
+    <thorns>1.3</thorns>
+    <health>0.455</health>
+    <iconPath>RimHex/Cards/RHA_H_Thorns</iconPath>
+    <maxStacks>6</maxStacks>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_H_Sun</defName>
+    <label>Solar incarnation</label>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Aura</theme>
+    <description>Adds 45.5% health and 1.95 Sunfire levels per stack. While standing, scorches up to 16 standing enemies within 5.5 cells about every 4.2 seconds, dealing 18 × Sunfire level armor-piercing damage each. Draft limit: 6 stacks.</description>
+    <aura>1.95</aura>
+    <health>0.455</health>
+    <iconPath>RimHex/Cards/RHA_H_Sun</iconPath>
+    <maxStacks>6</maxStacks>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_H_Fire</defName>
+    <label>Master arsonist</label>
+    <scope>Hero</scope>
+    <tier>Gold</tier>
+    <theme>Burning</theme>
+    <description>Adds 22.75% damage against enemies and 1.95 burn levels per stack. Hits apply four pulses of 6 × burn level armor-piercing damage, one per second. Repeated hits refresh the count without delaying the next pulse. Draft limit: 6 stacks.</description>
+    <burn>1.95</burn>
+    <damage>0.2275</damage>
+    <iconPath>RimHex/Cards/RHA_H_Fire</iconPath>
+    <maxStacks>6</maxStacks>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_H_Frost</defName>
+    <label>Glacial augmentation</label>
+    <scope>Hero</scope>
+    <tier>Gold</tier>
+    <theme>Control</theme>
+    <description>Adds 1.3 Everfrost levels per stack. Every 3 valid hits stuns the target for (45 + 15 × level) ticks, capped at 180 ticks. Everfrost has a 3-second cooldown per attacker. Draft limit: 6 stacks.</description>
+    <frost>1.3</frost>
+    <iconPath>RimHex/Cards/RHA_H_Frost</iconPath>
+    <maxStacks>6</maxStacks>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_H_Mender</defName>
+    <label>Baptism of light</label>
+    <scope>Hero</scope>
+    <tier>Gold</tier>
+    <theme>Group healing</theme>
+    <description>Adds 1.3 group-healing levels and 0.6 regeneration per second per stack. Valid hits trigger at most once per second, healing up to 12 friendly colonists within 8 cells for 8 × group-healing level injury points each. Draft limit: 6 stacks.</description>
+    <mend>1.3</mend>
+    <regen>0.6</regen>
+    <iconPath>RimHex/Cards/RHA_H_Mender</iconPath>
+    <maxStacks>6</maxStacks>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_H_Cleave</defName>
+    <label>Splintering strikes</label>
+    <scope>Hero</scope>
+    <tier>Gold</tier>
+    <theme>Splash damage</theme>
+    <description>Adds 1.3 cleave levels per stack. Every 2 valid hits, up to 8 other standing enemies within 3.5 cells of the target take 14 × level + 30% of this hit's direct damage as additional armor-piercing damage. Works with melee and ranged attacks. Draft limit: 6 stacks. Copied damage uses its resolved value; flat bonus damage can still be amplified.</description>
+    <cleave>1.3</cleave>
+    <iconPath>RimHex/Cards/RHA_H_Cleave</iconPath>
+    <maxStacks>6</maxStacks>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_H_Bounty</defName>
+    <label>Bounty hunter</label>
+    <scope>Hero</scope>
+    <tier>Silver</tier>
+    <theme>Bounty</theme>
+    <description>Adds 15% damage against enemies per stack. Each standing enemy killed grants another 40 silver per stack. Combines with Spoils of war and Gambler's coin; rewards are delivered in batches. Draft limit: 6 stacks.</description>
+    <bounty>40</bounty>
+    <damage>0.15</damage>
+    <iconPath>RimHex/Cards/RHA_H_Bounty</iconPath>
+    <maxStacks>6</maxStacks>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_H_Soul</defName>
+    <label>Soul furnace</label>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Soul growth</theme>
+    <description>Adds 45.5% damage against enemies per stack. A full contribution share grants 1.3 permanent soul marks per stack. Each mark adds 4% damage against enemies and 0.02 regeneration per second. Soul marks are saved with the colonist. Draft limit: 6 stacks. Fractional growth carries over into whole marks. Each permanent growth effect retains its full benefit through 100 points, then has diminishing returns. Share growth among holders of the same ability who contributed in the last 30 seconds, using each holder's own rate. Count damage, added stun time and Hex-attributed healing or shield absorption. Healing must repair recent enemy damage. If damage contributors are present, support takes at most 25% of the pool. Bystanders, ordinary animals, prisoners and finishing downed targets give no growth.</description>
+    <soul>1.3</soul>
+    <damage>0.455</damage>
+    <iconPath>RimHex/Cards/RHA_H_Soul</iconPath>
+    <maxStacks>6</maxStacks>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_H_Sniper</defName>
+    <label>Deadeye</label>
+    <scope>Hero</scope>
+    <tier>Silver</tier>
+    <theme>Long range</theme>
+    <description>Beyond 4 cells, each additional cell adds 4.55% direct damage against enemies per stack, counting at most 25 extra cells. Aiming time is divided by (1 + 0.455 × stacks). The damage bonus uses both pawns' positions at impact. Draft limit: 6 stacks.</description>
+    <sniper>0.0455</sniper>
+    <stats>
+      <li>
+        <stat>AimingDelayFactor</stat>
+        <bonus>0.455</bonus>
+        <inverse>true</inverse>
+      </li>
+    </stats>
+    <iconPath>RimHex/Cards/RHA_H_Sniper</iconPath>
+    <maxStacks>6</maxStacks>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_H_Duelist</defName>
+    <label>Close-quarters dominion</label>
+    <scope>Hero</scope>
+    <tier>Silver</tier>
+    <theme>Close range</theme>
+    <description>Adds 68.25% direct damage against enemies within 3 cells per stack. Melee cooldown is divided by (1 + 0.455 × stacks). Close-range gunfire also receives the damage bonus. Draft limit: 6 stacks.</description>
+    <duelist>0.6825</duelist>
+    <stats>
+      <li>
+        <stat>MeleeCooldownFactor</stat>
+        <bonus>0.455</bonus>
+        <inverse>true</inverse>
+      </li>
+    </stats>
+    <iconPath>RimHex/Cards/RHA_H_Duelist</iconPath>
+    <maxStacks>6</maxStacks>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_H_Berserk</defName>
+    <label>Desperate fury</label>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Low-health burst</theme>
+    <description>Each 10% of overall health lost adds 42% direct damage against enemies per stack, up to 273% per stack. Also adds 0.2275 to the damage-taken divisor per stack. Missing body parts affect overall health. Draft limit: 6 stacks.</description>
+    <berserk>2.73</berserk>
+    <defense>0.2275</defense>
+    <iconPath>RimHex/Cards/RHA_H_Berserk</iconPath>
+    <maxStacks>6</maxStacks>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_H_Guard</defName>
+    <label>Damage gate</label>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Damage cap</theme>
+    <description>Adds 91% health and 0.455 astral level per stack. After mitigation, a single hit deals at most 15 ÷ astral level health damage, with a minimum cap of 1 point. Repeated damage instances are resolved separately. Draft limit: 6 stacks.</description>
+    <guard>0.455</guard>
+    <health>0.91</health>
+    <iconPath>RimHex/Cards/RHA_H_Guard</iconPath>
+    <maxStacks>6</maxStacks>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_H_Hybrid</defName>
+    <label>Master of arms</label>
+    <scope>Hero</scope>
+    <tier>Silver</tier>
+    <theme>Adaptation</theme>
+    <description>Adds 20% damage against enemies per stack. Aiming time and melee cooldown are divided by (1 + 0.455 × stacks), regardless of weapon changes. Draft limit: 6 stacks.</description>
+    <damage>0.2</damage>
+    <stats>
+      <li>
+        <stat>AimingDelayFactor</stat>
+        <bonus>0.455</bonus>
+        <inverse>true</inverse>
+      </li>
+      <li>
+        <stat>MeleeCooldownFactor</stat>
+        <bonus>0.455</bonus>
+        <inverse>true</inverse>
+      </li>
+    </stats>
+    <iconPath>RimHex/Cards/RHA_H_Hybrid</iconPath>
+    <maxStacks>6</maxStacks>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_H_Doctor</defName>
+    <label>Battlefield surgeon</label>
+    <scope>Hero</scope>
+    <tier>Silver</tier>
+    <theme>Medicine</theme>
+    <description>Adds 100% tend speed, 40% tend quality and 0.65 group-healing level per stack. Valid hits trigger healing at most once per second, restoring 8 × group-healing level injury points to up to 12 friendly colonists within 8 cells. Draft limit: 6 stacks.</description>
+    <mend>0.65</mend>
+    <stats>
+      <li>
+        <stat>MedicalTendSpeed</stat>
+        <bonus>1</bonus>
+      </li>
+      <li>
+        <stat>MedicalTendQuality</stat>
+        <bonus>0.4</bonus>
+      </li>
+    </stats>
+    <iconPath>RimHex/Cards/RHA_H_Doctor</iconPath>
+    <maxStacks>6</maxStacks>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_H_Worker</defName>
+    <label>One-person settlement</label>
+    <scope>Hero</scope>
+    <tier>Gold</tier>
+    <theme>Colony specialist</theme>
+    <description>Adds 80% global work speed, 80% construction speed and 80% general labor speed per stack. Relevant jobs receive both global and specialist modifiers. Draft limit: 6 stacks.</description>
+    <stats>
+      <li>
+        <stat>WorkSpeedGlobal</stat>
+        <bonus>0.8</bonus>
+      </li>
+      <li>
+        <stat>ConstructionSpeed</stat>
+        <bonus>0.8</bonus>
+      </li>
+      <li>
+        <stat>GeneralLaborSpeed</stat>
+        <bonus>0.8</bonus>
+      </li>
+    </stats>
+    <iconPath>RimHex/Cards/RHA_H_Worker</iconPath>
+    <maxStacks>6</maxStacks>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_H_Savant</defName>
+    <label>Exceptional intellect</label>
+    <scope>Hero</scope>
+    <tier>Gold</tier>
+    <theme>Research specialist</theme>
+    <description>Adds 150% research speed and 120% global learning speed per stack. Draft limit: 6 stacks.</description>
+    <stats>
+      <li>
+        <stat>ResearchSpeed</stat>
+        <bonus>1.5</bonus>
+      </li>
+      <li>
+        <stat>GlobalLearningFactor</stat>
+        <bonus>1.2</bonus>
+      </li>
+    </stats>
+    <iconPath>RimHex/Cards/RHA_H_Savant</iconPath>
+    <maxStacks>6</maxStacks>
+  </RimHex.HexAugmentDef>
+</Defs>

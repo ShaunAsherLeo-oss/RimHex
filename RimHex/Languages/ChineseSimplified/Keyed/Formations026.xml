@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_F026_Role1>裂盾阵卫</RHA_F026_Role1>
+  <RHA_F026_Role2>续战锚机</RHA_F026_Role2>
+  <RHA_F026_Role3>校射官</RHA_F026_Role3>
+  <RHA_F026_Help1>正面 120° 内吸收 70% 非爆炸伤害，消耗有限护盾，不会回复。侧后方与爆炸绕过护盾；眩晕、破势时关闭。白线显示防护边界，长线预告转向，1.5 秒后转身。</RHA_F026_Help1>
+  <RHA_F026_Help2>最多修复 3 次。为同一场遭遇、10 格内可见的受伤同伴蓄力 3 秒，修复最多 30 点伤势。不能修复其他锚机、死人或倒地者。眩晕、破势、遮挡或拉开距离可以打断。</RHA_F026_Help2>
+  <RHA_F026_Help3>在 30 格内可见的殖民者脚下锁定落点，3 秒后轰击 2.5 格范围。离开黄圈即可躲避；眩晕、破势、遮挡和离场会中断蓄力。</RHA_F026_Help3>
+  <RHA_F026_Shield>剩余护盾：{0}；{1}</RHA_F026_Shield>
+  <RHA_F026_Turning>正在转向</RHA_F026_Turning>
+  <RHA_F026_Facing>防护朝向固定</RHA_F026_Facing>
+  <RHA_F026_Charges>剩余修复次数：{0}</RHA_F026_Charges>
+  <RHA_F026_Countdown>蓄力剩余 {0} 秒</RHA_F026_Countdown>
+  <RHA_F026_Aiming>校射中</RHA_F026_Aiming>
+  <RHA_F026_Preview>挑战规则开启时，3–5 档试炼和遗迹会出现盾卫推进队或锚机护送队。绕侧、爆破、打断与优先拆除支援单位都可破阵。</RHA_F026_Preview>
+</LanguageData>

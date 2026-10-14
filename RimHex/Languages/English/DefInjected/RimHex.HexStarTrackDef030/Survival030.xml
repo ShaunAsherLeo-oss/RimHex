@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_STAR_Augment_A16_Hellbent.nodes.0.label>Hellbent</RHA_STAR_Augment_A16_Hellbent.nodes.0.label>
+  <RHA_STAR_Augment_A16_Hellbent.nodes.0.description>Requires Hellbent. Keeps its 40-hit charge, rescue cooldown and brief protection. Missing organs and permanent scars are not restored. Advancement neither fills the charge nor resets cooldowns. Rescue nodes trigger only after the original card spends its charge and successfully saves you.</RHA_STAR_Augment_A16_Hellbent.nodes.0.description>
+  <RHA_STAR_Augment_A16_Hellbent.nodes.1.label>Hold Fast</RHA_STAR_Augment_A16_Hellbent.nodes.1.label>
+  <RHA_STAR_Augment_A16_Hellbent.nodes.1.description>A successful Hellbent rescue grants you a separate 150-point shield for 6 seconds. Has a 150-second cooldown and does not change the original rescue cooldown. Base rewards: shield 150.</RHA_STAR_Augment_A16_Hellbent.nodes.1.description>
+  <RHA_STAR_Augment_A16_Hellbent.nodes.2.label>Shared Reprieve</RHA_STAR_Augment_A16_Hellbent.nodes.2.label>
+  <RHA_STAR_Augment_A16_Hellbent.nodes.2.description>A successful Hellbent rescue shields the nearest other eligible colonist within 6 cells and clear sight for 100 points, lasting 6 seconds. Cooldown: 150 seconds. With no ally, the shield is not redirected to you. Base rewards: shield 100.</RHA_STAR_Augment_A16_Hellbent.nodes.2.description>
+  <RHA_STAR_Augment_A16_Hellbent.nodes.3.label>Last Reprisal</RHA_STAR_Augment_A16_Hellbent.nodes.3.label>
+  <RHA_STAR_Augment_A16_Hellbent.nodes.3.description>A successful rescue marks its attacker for 10 seconds if that attacker is still a living, standing enemy. Your next ordinary hit consumes the mark for 75 bonus damage. Mark creation cooldown: 150 seconds. Environmental damage creates no mark. Base rewards: damage 75.</RHA_STAR_Augment_A16_Hellbent.nodes.3.description>
+  <RHA_STAR_Augment_A16_Hellbent.nodes.4.label>One More Breath</RHA_STAR_Augment_A16_Hellbent.nodes.4.label>
+  <RHA_STAR_Augment_A16_Hellbent.nodes.4.description>A successful rescue marks its living, standing enemy attacker for 10 seconds. A later ordinary hit on that enemy consumes the mark to heal 40 points of your recoverable injuries. Without an eligible injury, the mark retains its original expiry. Mark creation cooldown: 150 seconds. Base rewards: healing 40.</RHA_STAR_Augment_A16_Hellbent.nodes.4.description>
+  <RHA_STAR_Augment_A16_Hellbent.nodes.5.label>Lift Each Other</RHA_STAR_Augment_A16_Hellbent.nodes.5.label>
+  <RHA_STAR_Augment_A16_Hellbent.nodes.5.description>A successful rescue heals 80 points of recoverable injuries on the most injured other eligible colonist within 6 cells and clear sight. Cooldown: 150 seconds. Does not heal you, missing parts or permanent scars. Base rewards: healing 80.</RHA_STAR_Augment_A16_Hellbent.nodes.5.description>
+  <RHA_STAR_Augment_A16_Hellbent.nodes.6.label>Reprieve Echo</RHA_STAR_Augment_A16_Hellbent.nodes.6.label>
+  <RHA_STAR_Augment_A16_Hellbent.nodes.6.description>A successful rescue leaves a warning at your original position. After 1.5 seconds it deals 75 damage to up to 3 enemies within 3 cells and clear sight. Cooldown: 150 seconds. The pulse stays at its original location. Base rewards: damage 75.</RHA_STAR_Augment_A16_Hellbent.nodes.6.description>
+</LanguageData>

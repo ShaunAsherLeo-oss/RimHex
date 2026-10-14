@@ -1,0 +1,180 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Defs>
+  <RimHex.HexRuneDef>
+    <defName>RHA_Rune_Thunder</defName>
+    <label>Thunder engraving</label>
+    <description>Per rank: +1 chain level and +25% damage against enemies.</description>
+    <chain>1</chain>
+    <mechanics>
+      <li>
+        <key>damage</key>
+        <amount>0.25</amount>
+      </li>
+    </mechanics>
+  </RimHex.HexRuneDef>
+  <RimHex.HexRuneDef>
+    <defName>RHA_Rune_Flame</defName>
+    <label>Molten brand</label>
+    <description>Per rank: +2 burn levels and +30% damage against enemies.</description>
+    <burn>2</burn>
+    <mechanics>
+      <li>
+        <key>damage</key>
+        <amount>0.3</amount>
+      </li>
+    </mechanics>
+  </RimHex.HexRuneDef>
+  <RimHex.HexRuneDef>
+    <defName>RHA_Rune_Blood</defName>
+    <label>Crimson pact</label>
+    <description>Per rank: +40% direct lifesteal and heals 1 ordinary injury point per second.</description>
+    <mechanics>
+      <li>
+        <key>vamp</key>
+        <amount>0.4</amount>
+      </li>
+      <li>
+        <key>regen</key>
+        <amount>1</amount>
+      </li>
+    </mechanics>
+  </RimHex.HexRuneDef>
+  <RimHex.HexRuneDef>
+    <defName>RHA_Rune_Giant</defName>
+    <label>Titan stamp</label>
+    <description>Per rank: +75% health and +1 steel level.</description>
+    <steel>1</steel>
+    <mechanics>
+      <li>
+        <key>health</key>
+        <amount>0.75</amount>
+      </li>
+    </mechanics>
+  </RimHex.HexRuneDef>
+  <RimHex.HexRuneDef>
+    <defName>RHA_Rune_Frost</defName>
+    <label>Frost crystal</label>
+    <description>Per rank: +1 frost level and +0.35 damage-taken divisor.</description>
+    <frost>1</frost>
+    <mechanics>
+      <li>
+        <key>defense</key>
+        <amount>0.35</amount>
+      </li>
+    </mechanics>
+  </RimHex.HexRuneDef>
+  <RimHex.HexRuneDef>
+    <defName>RHA_Rune_Blade</defName>
+    <label>Riftblade engraving</label>
+    <description>Per rank: +1 cleave level and +35% damage against enemies.</description>
+    <cleave>1</cleave>
+    <mechanics>
+      <li>
+        <key>damage</key>
+        <amount>0.35</amount>
+      </li>
+    </mechanics>
+  </RimHex.HexRuneDef>
+  <RimHex.HexRuneDef>
+    <defName>RHA_Rune_Marksman</defName>
+    <label>Starfall sight</label>
+    <description>Per rank: +5% damage per cell beyond 4 cells, counting at most 25 cells; +0.5 to aiming and ranged cooldown divisors.</description>
+    <mechanics>
+      <li>
+        <key>sniper</key>
+        <amount>0.05</amount>
+      </li>
+    </mechanics>
+    <stats>
+      <li>
+        <stat>AimingDelayFactor</stat>
+        <bonus>0.5</bonus>
+        <inverse>true</inverse>
+      </li>
+      <li>
+        <stat>RangedCooldownFactor</stat>
+        <bonus>0.5</bonus>
+        <inverse>true</inverse>
+      </li>
+    </stats>
+  </RimHex.HexRuneDef>
+  <RimHex.HexRuneDef>
+    <defName>RHA_Rune_Soul</defName>
+    <label>Soul seal</label>
+    <description>Per rank: +1 soul-harvesting level and +30% damage against enemies.</description>
+    <soul>1</soul>
+    <mechanics>
+      <li>
+        <key>damage</key>
+        <amount>0.3</amount>
+      </li>
+    </mechanics>
+  </RimHex.HexRuneDef>
+  <RimHex.HexRuneDef>
+    <defName>RHA_Rune_Guardian</defName>
+    <label>Stone ward</label>
+    <description>Per rank: +0.6 damage-taken divisor and +35% health.</description>
+    <mechanics>
+      <li>
+        <key>defense</key>
+        <amount>0.6</amount>
+      </li>
+      <li>
+        <key>health</key>
+        <amount>0.35</amount>
+      </li>
+    </mechanics>
+  </RimHex.HexRuneDef>
+  <RimHex.HexRuneDef>
+    <defName>RHA_Rune_Wealth</defName>
+    <label>Gilded bounty</label>
+    <description>Per rank: +60 silver per kill and +25% critical value.</description>
+    <bounty>60</bounty>
+    <mechanics>
+      <li>
+        <key>critical</key>
+        <amount>0.25</amount>
+      </li>
+    </mechanics>
+  </RimHex.HexRuneDef>
+  <RimHex.HexRuneDef>
+    <defName>RHA_Rune_Industry</defName>
+    <label>Artificer's stamp</label>
+    <description>Per rank: +50% work speed, +35% construction speed and +35% research speed.</description>
+    <stats>
+      <li>
+        <stat>WorkSpeedGlobal</stat>
+        <bonus>0.5</bonus>
+      </li>
+      <li>
+        <stat>ConstructionSpeed</stat>
+        <bonus>0.35</bonus>
+      </li>
+      <li>
+        <stat>ResearchSpeed</stat>
+        <bonus>0.35</bonus>
+      </li>
+    </stats>
+  </RimHex.HexRuneDef>
+  <RimHex.HexRuneDef>
+    <defName>RHA_Rune_Harvest</defName>
+    <label>Abundance seal</label>
+    <description>Per rank: +30% mining and plant harvest yields; heals 1 ordinary injury point per second.</description>
+    <mechanics>
+      <li>
+        <key>regen</key>
+        <amount>1</amount>
+      </li>
+    </mechanics>
+    <stats>
+      <li>
+        <stat>MiningYield</stat>
+        <bonus>0.3</bonus>
+      </li>
+      <li>
+        <stat>PlantHarvestYield</stat>
+        <bonus>0.3</bonus>
+      </li>
+    </stats>
+  </RimHex.HexRuneDef>
+</Defs>

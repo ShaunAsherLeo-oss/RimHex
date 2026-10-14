@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_TeamMark027.label>relay opening</RHA_TeamMark027.label>
+  <RHA_TeamMark027.description>An opening for a teammate. Becomes invalid if its owner leaves the map, is downed or loses the card.</RHA_TeamMark027.description>
+  <RHA_TeamStatus027.label>team relays</RHA_TeamStatus027.label>
+  <RHA_TeamStatus027.description>Inspect relay targets, remaining time, recovery and trigger counts. Shields use the higher value with other ordinary shields rather than adding. Added damage ignores damage bonuses; these shields ignore healing amplification.</RHA_TeamStatus027.description>
+</LanguageData>

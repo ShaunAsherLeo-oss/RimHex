@@ -1,0 +1,113 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Defs>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_A25_duelist</defName>
+    <label>Duelist Riposte</label>
+    <description>Requires Momentary Guard. Shortens the guard window from 2 seconds to 1, but Riposte deals 16 base ability damage to its selected target. One block, a 4-second riposte opportunity and fixed 12-second recovery remain. Choose this or Bulwark Stance in the build panel.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Guard and mines</theme>
+    <weight>100</weight>
+    <maxStacks>1</maxStacks>
+    <iconPath>RimHex/Cards/RHA_A25_duelist</iconPath>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_A25_bulwark</defName>
+    <label>Bulwark Stance</label>
+    <description>Requires Momentary Guard. Riposte hits the selected target first and up to two other enemies within 2 cells of the caster, for 6 base ability damage each. Damaged survivors move 25% slower for 2 seconds. Walls block it. Keeps the 2-second guard window; mutually exclusive with Duelist Riposte.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Guard and mines</theme>
+    <weight>100</weight>
+    <maxStacks>1</maxStacks>
+    <iconPath>RimHex/Cards/RHA_A25_bulwark</iconPath>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_A25_fragment</defName>
+    <label>Shrapnel Field</label>
+    <description>Requires Prismatic Mines. New mines trigger within 1 cell instead of 1.5. Their blast still reaches 2 cells and up to four enemies, now for 14 extra base damage each. Warning, deployment recovery and limits are unchanged. Mutually exclusive with Tripwire Field.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Guard and mines</theme>
+    <weight>100</weight>
+    <maxStacks>1</maxStacks>
+    <iconPath>RimHex/Cards/RHA_A25_fragment</iconPath>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_A25_tripwire</defName>
+    <label>Tripwire Field</label>
+    <description>Requires Prismatic Mines. The oldest two armed mines form a tripwire when within 6 cells with clear sight; a third waits in reserve. An enemy within 0.7 cells of the segment starts a half-second warning. Both ends are consumed, dealing 5 extra base damage to up to four enemies still on the wire and slowing damaged survivors by 25% for 3 seconds. Moving away avoids it. Unpaired mines only detonate manually, within 2 cells for the same damage and slow. Mutually exclusive with Shrapnel Field.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Guard and mines</theme>
+    <weight>100</weight>
+    <maxStacks>1</maxStacks>
+    <iconPath>RimHex/Cards/RHA_A25_tripwire</iconPath>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_A25_rebound</defName>
+    <label>Guarded Recovery</label>
+    <description>Requires Momentary Guard. A riposte that deals actual damage grants 4 base shield for 3 seconds. An area riposte grants this once, regardless of targets hit.</description>
+    <scope>Hero</scope>
+    <tier>Gold</tier>
+    <theme>Guard and mines</theme>
+    <weight>100</weight>
+    <maxStacks>1</maxStacks>
+    <iconPath>RimHex/Cards/RHA_A25_rebound</iconPath>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_A25_comrade</defName>
+    <label>Covering Guard</label>
+    <description>Requires Momentary Guard. A successful guard grants 4 base shield for 3 seconds to the nearest eligible humanlike colonist within 4 cells and clear sight. Excludes the caster; does nothing without an eligible ally.</description>
+    <scope>Hero</scope>
+    <tier>Gold</tier>
+    <theme>Guard and mines</theme>
+    <weight>100</weight>
+    <maxStacks>1</maxStacks>
+    <iconPath>RimHex/Cards/RHA_A25_comrade</iconPath>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_A25_opening</defName>
+    <label>Exploit the Opening</label>
+    <description>Requires Momentary Guard. A riposte that damages its selected enemy marks an opening for 3 seconds. Your next basic hit on that enemy consumes it for 4 extra base damage. Holds one target only; secondary damage cannot consume or repeat it.</description>
+    <scope>Hero</scope>
+    <tier>Gold</tier>
+    <theme>Guard and mines</theme>
+    <weight>100</weight>
+    <maxStacks>1</maxStacks>
+    <iconPath>RimHex/Cards/RHA_A25_opening</iconPath>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_A25_embers</defName>
+    <label>Smoldering Mechanism</label>
+    <description>Requires Prismatic Mines. A mine that deals actual damage burns surviving targets for 1 base damage each second, four times. Uses existing burn refresh rules, without separate stacking burn entries or additional detonations.</description>
+    <scope>Hero</scope>
+    <tier>Gold</tier>
+    <theme>Guard and mines</theme>
+    <weight>100</weight>
+    <maxStacks>1</maxStacks>
+    <iconPath>RimHex/Cards/RHA_A25_embers</iconPath>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_A25_salvage</defName>
+    <label>Recovered Ammunition</label>
+    <description>Requires Prismatic Mines and Prismatic Magazine. A detonation dealing actual damage restores one round to a non-full magazine, at most once per owner every 6 seconds. Multiple targets and paired tripwires still grant one round. Does not reset normal reload timing.</description>
+    <scope>Hero</scope>
+    <tier>Gold</tier>
+    <theme>Guard and mines</theme>
+    <weight>100</weight>
+    <maxStacks>1</maxStacks>
+    <iconPath>RimHex/Cards/RHA_A25_salvage</iconPath>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_A25_relocate</defName>
+    <label>Reposition the Field</label>
+    <description>Requires Prismatic Mines and a learned Spin, Blink, Hunt or Swap movement ability. Actually moving with one of these skills extends your next deployment to 16 cells for 3 seconds, at most once every 8 seconds. Consumed by one deployment; does not reset deployment recovery or grant movement skills.</description>
+    <scope>Hero</scope>
+    <tier>Gold</tier>
+    <theme>Guard and mines</theme>
+    <weight>100</weight>
+    <maxStacks>1</maxStacks>
+    <iconPath>RimHex/Cards/RHA_A25_relocate</iconPath>
+  </RimHex.HexAugmentDef>
+</Defs>

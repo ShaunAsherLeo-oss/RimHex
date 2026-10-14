@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_V19_Name0>追踪雷击</RHA_V19_Name0>
+  <RHA_V19_Name1>横扫射线</RHA_V19_Name1>
+  <RHA_V19_Name2>过载蓄能</RHA_V19_Name2>
+  <RHA_V19_Name3>增幅棱柱</RHA_V19_Name3>
+  <RHA_V19_Name4>游移裂隙</RHA_V19_Name4>
+  <RHA_V19_Name5>异相援军</RHA_V19_Name5>
+  <RHA_V19_Desc0>标记追踪目标 2 秒，随后固定位置，3 秒后落雷。离开标记或打断施法者。</RHA_V19_Desc0>
+  <RHA_V19_Desc1>标出一条宽 3 格的射线，4 秒后发射。向侧面躲避或打断施法者。</RHA_V19_Desc1>
+  <RHA_V19_Desc2>标出半径 4 格的冲击区，蓄能 4 秒后引爆。撤离或打断施法者。</RHA_V19_Desc2>
+  <RHA_V19_Desc3>出现一座 180 耐久的棱柱，10 格内试炼敌人的伤害提高 25%。摧毁棱柱即可解除。</RHA_V19_Desc3>
+  <RHA_V19_Desc4>每次在殖民者脚下标记裂隙，4 秒后开始脉冲，共 3 次，间隔 2 秒。离开半径 3 格区域。</RHA_V19_Desc4>
+  <RHA_V19_Desc5>施法者身边出现增援预警，4 秒后召来 2 名临时敌人。每波最多 6 名，持续 20 秒；可打断。</RHA_V19_Desc5>
+  <RHA_V19_Report>试炼报告</RHA_V19_Report>
+  <RHA_V19_Summary>{0} · {1} 阶 · 完成 {2}/3 波\n{3}</RHA_V19_Summary>
+  <RHA_V19_Off>本轮未启用变局。</RHA_V19_Off>
+  <RHA_V19_Wave>第 {0} 波：{1} · {2}</RHA_V19_Wave>
+  <RHA_V19_NoRisk>未加码</RHA_V19_NoRisk>
+  <RHA_V19_Cleared>已完成</RHA_V19_Cleared>
+  <RHA_V19_Pending>未完成</RHA_V19_Pending>
+  <RHA_V19_Payout>当前可结算／已领取：\n基础奖励：{0} 碎晶、{1} 凝核、{2} 试炼精粹\n加码奖励：{3} 碎晶、{4} 凝核</RHA_V19_Payout>
+  <RHA_V19_LegacyReport>旧试炼未记录耗时及流派验收快照；原有奖励和贡献保留。</RHA_V19_LegacyReport>
+  <RHA_V19_Duration>用时：{0}（包含准备与波间等待）</RHA_V19_Duration>
+  <RHA_V19_Running>试炼进行中。结束时保存流派验收结果。</RHA_V19_Running>
+  <RHA_V19_Goal>流派：{0} · 指定对象：{1}</RHA_V19_Goal>
+  <RHA_V19_GoalState>结束时来源数：{0}；已施放战技的波次：{1}</RHA_V19_GoalState>
+  <RHA_V19_NoGoal>开战时未追踪流派挑战。</RHA_V19_NoGoal>
+  <RHA_V19_PracticeGoal>开战时仍处于成形或运用阶段，本轮不作最终验收。</RHA_V19_PracticeGoal>
+  <RHA_V19_GoalChanged>开战后挑战被放弃、更换，或指定角色已丢失。</RHA_V19_GoalChanged>
+  <RHA_V19_GoalRules>条件不符：需三阶以上标准试炼、开启挑战规则、强度至少 100%。</RHA_V19_GoalRules>
+  <RHA_V19_GoalStart>开战时未登记：需提前追踪验收阶段、满足构筑与出场条件；殖民地路线还需战前施放。</RHA_V19_GoalStart>
+  <RHA_V19_GoalBuild>结束时未满足 5 个不同来源与基础进化。</RHA_V19_GoalBuild>
+  <RHA_V19_GoalOwner>指定角色完成时须为己方自由殖民者，在试炼地图存活且未倒地。</RHA_V19_GoalOwner>
+  <RHA_V19_GoalWaves>未在三波战斗中分别施放对应流派战技。</RHA_V19_GoalWaves>
+  <RHA_V19_GoalIncomplete>未完成三波试炼。</RHA_V19_GoalIncomplete>
+  <RHA_V19_GoalPassed>流派验收通过。阶段奖励请在“流派挑战”领取；重试只更新纪录。</RHA_V19_GoalPassed>
+  <RHA_V19_Contributions>个人贡献：伤害包含直接命中与追加伤害；治疗、护盾统计本模组记录到的效果，不包含所有原版医疗和其他模组效果。</RHA_V19_Contributions>
+  <RHA_V19_Contribution>{0}：伤害 {1} · 治疗 {2} · 护盾吸收 {3}</RHA_V19_Contribution>
+  <RHA_V19_NoContribution>尚无贡献记录。</RHA_V19_NoContribution>
+  <RHA_V19_Enabled>变局：开启</RHA_V19_Enabled>
+  <RHA_V19_Disabled>变局：关闭</RHA_V19_Disabled>
+  <RHA_V19_StartHint>本轮开启一种变局。波间可自愿加码，每波最多两种；同时出现的范围打击变局不会组合。地图显示预警，击倒、眩晕施法者可取消预警。</RHA_V19_StartHint>
+  <RHA_V19_Risk>选择加码</RHA_V19_Risk>
+  <RHA_V19_RiskChosen>已选加码</RHA_V19_RiskChosen>
+  <RHA_V19_RiskHint>继续可不加码。加码只影响下一波，通关后额外获得 {0} 碎晶和 1 凝核；本轮最多结算两次。</RHA_V19_RiskHint>
+  <RHA_V19_Chosen>第 {1} 波加码：{0}。</RHA_V19_Chosen>
+  <RHA_V19_Warning>{0} · {1} 秒</RHA_V19_Warning>
+</LanguageData>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_STAR_Relic_Duelist.nodes.0.label>Close Swordplay</RHA_STAR_Relic_Duelist.nodes.0.label>
+  <RHA_STAR_Relic_Duelist.nodes.0.description>Retains original damage within 3 cells, life steal and melee cooldown. Later offensive nodes require actual ordinary hits within 3 cells. Distant hits neither charge nor redeem them; weapon type is unrestricted. Progression stays with the item.</RHA_STAR_Relic_Duelist.nodes.0.description>
+  <RHA_STAR_Relic_Duelist.nodes.1.label>Relentless Pressure</RHA_STAR_Relic_Duelist.nodes.1.label>
+  <RHA_STAR_Relic_Duelist.nodes.1.description>Three consecutive ordinary hits on the same enemy within 3 cells, no more than 3 seconds between eligible hits, deal 75 bonus damage, once per 8 seconds. An eligible hit on another enemy resets the count. Base rewards: damage 75.</RHA_STAR_Relic_Duelist.nodes.1.description>
+  <RHA_STAR_Relic_Duelist.nodes.2.label>Answering Blade</RHA_STAR_Relic_Duelist.nodes.2.label>
+  <RHA_STAR_Relic_Duelist.nodes.2.description>After taking actual enemy damage, mark that attacker for 4 seconds. A later ordinary hit on that enemy within 3 cells consumes the mark for 50 bonus damage. One mark maximum, with an 8-second creation cooldown. Fully prevented damage creates no mark. Base rewards: damage 50.</RHA_STAR_Relic_Duelist.nodes.2.description>
+  <RHA_STAR_Relic_Duelist.nodes.3.label>Measured Breath</RHA_STAR_Relic_Duelist.nodes.3.label>
+  <RHA_STAR_Relic_Duelist.nodes.3.description>After Relentless Pressure deals actual bonus damage, heal 20 base points of your recoverable injuries, once per 8 seconds. Permanent scars and missing parts are not restored. Base rewards: healing 20.</RHA_STAR_Relic_Duelist.nodes.3.description>
+  <RHA_STAR_Relic_Duelist.nodes.4.label>Pressing Guard</RHA_STAR_Relic_Duelist.nodes.4.label>
+  <RHA_STAR_Relic_Duelist.nodes.4.description>After Relentless Pressure deals actual bonus damage, shield yourself for 50 base points over 3 seconds, once per 8 seconds. Prevented bonus damage grants no shield. Base rewards: shield 50.</RHA_STAR_Relic_Duelist.nodes.4.description>
+  <RHA_STAR_Relic_Duelist.nodes.5.label>Rescuing Blade</RHA_STAR_Relic_Duelist.nodes.5.label>
+  <RHA_STAR_Relic_Duelist.nodes.5.description>After Answering Blade deals actual bonus damage, shield the nearest other eligible colonist within 4 cells and clear sight for 50 base points over 3 seconds, once per 8 seconds. Never substitutes you when no ally is eligible. Base rewards: shield 50.</RHA_STAR_Relic_Duelist.nodes.5.description>
+  <RHA_STAR_Relic_Duelist.nodes.6.label>Returning Sweep</RHA_STAR_Relic_Duelist.nodes.6.label>
+  <RHA_STAR_Relic_Duelist.nodes.6.description>After Answering Blade deals actual bonus damage, strike one other enemy within 2 cells of the impact and clear sight for 25 damage, once per 8 seconds. Never substitutes the original target. Base rewards: damage 25.</RHA_STAR_Relic_Duelist.nodes.6.description>
+</LanguageData>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RHA_UI032_OverviewHeading>{0} · Build overview</RHA_UI032_OverviewHeading>
+  <RHA_UI032_NoPawn>No colonist selected</RHA_UI032_NoPawn>
+  <RHA_UI032_OverviewScope>Colony, personal and equipped effects for this colonist. Open a summary to inspect its details.</RHA_UI032_OverviewScope>
+  <RHA_UI032_OverviewColonyScope>Select a colonist to include personal and equipped effects. Colony-wide entries remain available.</RHA_UI032_OverviewColonyScope>
+  <RHA_UI032_ActivePaths>Active paths</RHA_UI032_ActivePaths>
+  <RHA_UI032_InitialPaths>Initial evolutions ready</RHA_UI032_InitialPaths>
+  <RHA_UI032_DormantCards>Dormant augments</RHA_UI032_DormantCards>
+  <RHA_UI032_ReadyRelics>Relics ready to awaken</RHA_UI032_ReadyRelics>
+  <RHA_UI032_RouteHint>Open ascension atlas →</RHA_UI032_RouteHint>
+  <RHA_UI032_CardHint>Open augment details →</RHA_UI032_CardHint>
+  <RHA_UI032_RelicHint>Open equipped relics →</RHA_UI032_RelicHint>
+  <RHA_UI032_PrepareChoices>Prepare next-tier choices</RHA_UI032_PrepareChoices>
+  <RHA_UI032_AtlasCatalog>Catalog</RHA_UI032_AtlasCatalog>
+  <RHA_UI032_AtlasCanvas>Canvas</RHA_UI032_AtlasCanvas>
+  <RHA_UI032_AtlasDetails>Details</RHA_UI032_AtlasDetails>
+  <RHA_UI032_SearchRoutes>Search routes…</RHA_UI032_SearchRoutes>
+  <RHA_UI032_AdvanceConditions>Advance conditions</RHA_UI032_AdvanceConditions>
+</LanguageData>

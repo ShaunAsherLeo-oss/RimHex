@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_STAR_Relic_Infinity.nodes.0.label>Endless Inheritance</RHA_STAR_Relic_Infinity.nodes.0.label>
+  <RHA_STAR_Relic_Infinity.nodes.0.description>Retains the prism's critical value, direct damage and critical multiplier from excess critical value. Later nodes require ordinary critical hits that actually damage enemies. Abilities and secondary damage cannot bank an edge or charge a sequence.</RHA_STAR_Relic_Infinity.nodes.0.description>
+  <RHA_STAR_Relic_Infinity.nodes.1.label>Banked Edge</RHA_STAR_Relic_Infinity.nodes.1.label>
+  <RHA_STAR_Relic_Infinity.nodes.1.description>An ordinary critical hit that damages an enemy banks one edge for 5 seconds, once per 8 seconds, with one maximum. Your later ordinary damaging hit consumes it for 75 base damage. You may switch targets; the hit that creates the edge cannot spend it. Base rewards: damage 75.</RHA_STAR_Relic_Infinity.nodes.1.description>
+  <RHA_STAR_Relic_Infinity.nodes.2.label>Fracturing Pursuit</RHA_STAR_Relic_Infinity.nodes.2.label>
+  <RHA_STAR_Relic_Infinity.nodes.2.description>Make consecutive ordinary critical hits against two different enemies, no more than 4 seconds apart, to deal 50 base damage each to up to two other enemies within 3 cells and clear sight of the second impact, once per 8 seconds. Repeated targets neither count nor extend the window; never substitutes another hit on the original victim. Base rewards: damage 50.</RHA_STAR_Relic_Infinity.nodes.2.description>
+  <RHA_STAR_Relic_Infinity.nodes.3.label>Splintering Edge</RHA_STAR_Relic_Infinity.nodes.3.label>
+  <RHA_STAR_Relic_Infinity.nodes.3.description>After Banked Edge deals actual bonus damage, deal 25 base damage to one other enemy within 3 cells of the impact and clear sight, once per 8 seconds. With only one enemy, it never repeats the original hit. Base rewards: damage 25.</RHA_STAR_Relic_Infinity.nodes.3.description>
+  <RHA_STAR_Relic_Infinity.nodes.4.label>Restorative Edge</RHA_STAR_Relic_Infinity.nodes.4.label>
+  <RHA_STAR_Relic_Infinity.nodes.4.description>After Banked Edge deals actual bonus damage, heal 20 base points of your own recoverable injuries, once per 8 seconds. Full health, missing parts and permanent scars grant no extra benefit. Base rewards: healing 20.</RHA_STAR_Relic_Infinity.nodes.4.description>
+  <RHA_STAR_Relic_Infinity.nodes.5.label>Fractured Aegis</RHA_STAR_Relic_Infinity.nodes.5.label>
+  <RHA_STAR_Relic_Infinity.nodes.5.description>After Fracturing Pursuit's splash actually damages an enemy, shield yourself for 50 base points over 3 seconds, once per 8 seconds. Multiple victims of the same splash do not grant extra shields. Base rewards: shield 50.</RHA_STAR_Relic_Infinity.nodes.5.description>
+  <RHA_STAR_Relic_Infinity.nodes.6.label>Rebounding Fragments</RHA_STAR_Relic_Infinity.nodes.6.label>
+  <RHA_STAR_Relic_Infinity.nodes.6.description>After Fracturing Pursuit's splash actually damages an enemy, leave a fragment burst at the first splash impact cell. After 0.75 seconds it deals 25 base damage each to up to two enemies within 2 cells and clear sight, once per 8 seconds. The cell is fixed and does not chase departing enemies. Base rewards: damage 25.</RHA_STAR_Relic_Infinity.nodes.6.description>
+</LanguageData>

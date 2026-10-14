@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Defs>
+  <HediffDef>
+    <defName>RHA_HexBurn</defName>
+    <label>Prismatic burn</label>
+    <description>Takes armor-piercing damage from prismatic flames once per second. Further hits refresh it to four remaining pulses. Overlapping burns keep the stronger effect. Does not ignite buildings or terrain.</description>
+    <hediffClass>RimHex.Hediff_HexBurn</hediffClass>
+    <isBad>true</isBad>
+    <scenarioCanAdd>false</scenarioCanAdd>
+    <initialSeverity>1</initialSeverity>
+    <maxSeverity>1</maxSeverity>
+    <defaultLabelColor>(1, 0.55, 0.2)</defaultLabelColor>
+  </HediffDef>
+</Defs>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <HediffDef>
+    <defName>RHA_EnemyControl037</defName>
+    <label>temporary encounter stun</label>
+    <description>The original native stun is owned by a temporary enemy combat source. Retiring that source withdraws its remaining control without recreating consumed time or removing an unrelated later stun.</description>
+    <hediffClass>RimHex.Hediff_HexEnemyControl037</hediffClass>
+    <isBad>true</isBad>
+    <scenarioCanAdd>false</scenarioCanAdd>
+  </HediffDef>
+</Defs>

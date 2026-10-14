@@ -1,0 +1,914 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_UI_00380625c0>Damage absorbed</RHA_UI_00380625c0>
+  <RHA_UI_0097799fff> {0} more sources are not shown.</RHA_UI_0097799fff>
+  <RHA_UI_00fe8dda1f> s</RHA_UI_00fe8dda1f>
+  <RHA_UI_015ef50f66>RimHex: {0}{1}{2}</RHA_UI_015ef50f66>
+  <RHA_UI_01cd7e35d5>Ready to trigger</RHA_UI_01cd7e35d5>
+  <RHA_UI_0250a05a0a>Chain level</RHA_UI_0250a05a0a>
+  <RHA_UI_026e3348e9>Original abilities; starts without accumulated growth</RHA_UI_026e3348e9>
+  <RHA_UI_02d2e56daf>Infernal burst</RHA_UI_02d2e56daf>
+  <RHA_UI_0318510d0d>Results</RHA_UI_0318510d0d>
+  <RHA_UI_032f088d3f>6 pulses</RHA_UI_032f088d3f>
+  <RHA_UI_03dda7f372>Current status · {0}</RHA_UI_03dda7f372>
+  <RHA_UI_0413d679fd>Show build status when a colonist is selected</RHA_UI_0413d679fd>
+  <RHA_UI_0430e73861> · Personal ability</RHA_UI_0430e73861>
+  <RHA_UI_049a5c21a1>View contribution</RHA_UI_049a5c21a1>
+  <RHA_UI_05729cdd57>Path fusion</RHA_UI_05729cdd57>
+  <RHA_UI_05dcaf02bf>Awakening branch {0}</RHA_UI_05dcaf02bf>
+  <RHA_UI_0602b4c8d2>Next pulse is due.</RHA_UI_0602b4c8d2>
+  <RHA_UI_066d0540d0>Target priority: boss / strongest enemy</RHA_UI_066d0540d0>
+  <RHA_UI_068833eafc>400 shards + 1 core each</RHA_UI_068833eafc>
+  <RHA_UI_06b187dc3f>Salvaged "{0}" for 100 prismatic shards.</RHA_UI_06b187dc3f>
+  <RHA_UI_06f6d081cd>Standing enemies killed</RHA_UI_06f6d081cd>
+  <RHA_UI_073d08366a>Build overview</RHA_UI_073d08366a>
+  <RHA_UI_074a27a41a>Inscriptions</RHA_UI_074a27a41a>
+  <RHA_UI_07ae51eea6>Damage counts trial enemies only, including burn as bonus damage. Healing and shields count Hex effects on the trial map during the run.</RHA_UI_07ae51eea6>
+  <RHA_UI_07ceba8cfb>Daily {0} from this card: {1} → {2}</RHA_UI_07ceba8cfb>
+  <RHA_UI_07e9c30d11>Beacon: {0} {1}</RHA_UI_07e9c30d11>
+  <RHA_UI_086884133c>Rank {0} · {1} shards + {2} cores</RHA_UI_086884133c>
+  <RHA_UI_08dc93976d>Dormant: missing sources</RHA_UI_08dc93976d>
+  <RHA_UI_08e441a95a>Supplies</RHA_UI_08e441a95a>
+  <RHA_UI_08e9894120>Cleave level {0}</RHA_UI_08e9894120>
+  <RHA_UI_090ef18cc0>Armored formation: enemies take 25% less damage</RHA_UI_090ef18cc0>
+  <RHA_UI_092eaf561a>Damage ×{0}</RHA_UI_092eaf561a>
+  <RHA_UI_0954b0901a>No other standing enemies in range.</RHA_UI_0954b0901a>
+  <RHA_UI_096096500e>Night harvesting</RHA_UI_096096500e>
+  <RHA_UI_09e3becab9>Record recent triggers (up to 256 entries, current session only)</RHA_UI_09e3becab9>
+  <RHA_UI_09e9b2088f>Personal</RHA_UI_09e9b2088f>
+  <RHA_UI_0a0f61c31d>Affects the current map.</RHA_UI_0a0f61c31d>
+  <RHA_UI_0a1c01910a>An endless trial blessing, shared by participants during this trial's battles. Levels accumulate through blessing choices and are lost when the trial ends.</RHA_UI_0a1c01910a>
+  <RHA_UI_0a5a89baa5>\nLast discharge: {0} ({1} s ago)</RHA_UI_0a5a89baa5>
+  <RHA_UI_0a73adc166>: prerequisites met; eligible for the draft pool</RHA_UI_0a73adc166>
+  <RHA_UI_0a84185319>Thorns level</RHA_UI_0a84185319>
+  <RHA_UI_0b01202411>Trial area unavailable</RHA_UI_0b01202411>
+  <RHA_UI_0b221bca27> · Draft prerequisites met</RHA_UI_0b221bca27>
+  <RHA_UI_0b916b3b91> · Growing</RHA_UI_0b916b3b91>
+  <RHA_UI_0c7060742a>Production boosts applied to {0} colonists in total</RHA_UI_0c7060742a>
+  <RHA_UI_0c8abadacd>Lifesteal</RHA_UI_0c8abadacd>
+  <RHA_UI_0c92ac9ae7>Awakening active: {0}</RHA_UI_0c92ac9ae7>
+  <RHA_UI_0cbb0ffe05>\nApplied by: {0}</RHA_UI_0cbb0ffe05>
+  <RHA_UI_0ce225800b>This record does not refer to a single card or relic.</RHA_UI_0ce225800b>
+  <RHA_UI_0d4e59df33>Select a colonist to preview personal benefits.</RHA_UI_0d4e59df33>
+  <RHA_UI_0d994752eb>End this trial? The current wave gives no reward. Materials and relic eligibility from completed waves are kept.</RHA_UI_0d994752eb>
+  <RHA_UI_0dd2105aa8>Evolution available</RHA_UI_0dd2105aa8>
+  <RHA_UI_0df622a60e>Animate floating relics and runes</RHA_UI_0df622a60e>
+  <RHA_UI_0e44662d2e>Chain · Inactive</RHA_UI_0e44662d2e>
+  <RHA_UI_0e59bff2b8>Branch not worn; historical contribution retained</RHA_UI_0e59bff2b8>
+  <RHA_UI_0ea32c4b59>Compare benefits</RHA_UI_0ea32c4b59>
+  <RHA_UI_0ef170f9b5>No damage was dealt after mitigation.</RHA_UI_0ef170f9b5>
+  <RHA_UI_0f34766332>This world has no mechanoid faction for the trial.</RHA_UI_0f34766332>
+  <RHA_UI_0f6986f785>Claim accumulated rewards and leave</RHA_UI_0f6986f785>
+  <RHA_UI_0f7d7b0649>Trial warrior</RHA_UI_0f7d7b0649>
+  <RHA_UI_0f89ace2ae>Preview for: </RHA_UI_0f89ace2ae>
+  <RHA_UI_0fc3d74077>Total enemy combat rating required: {0}</RHA_UI_0fc3d74077>
+  <RHA_UI_0fd6c4e659>Effect radius: {0} cells.</RHA_UI_0fd6c4e659>
+  <RHA_UI_101d5aa7c6>Enemy strength uses the game's pawn-kind combat rating, without adjustments for equipment or genes.\nBounties count standing, armed adult enemies, mechanoids and large hostile insects rated at least 50. Prisoners, slaves, ordinary animals and repeated kills of resurrected enemies do not count.</RHA_UI_101d5aa7c6>
+  <RHA_UI_107f82c239>Arrival in {0} seconds</RHA_UI_107f82c239>
+  <RHA_UI_108629c090>Start three-wave trial "</RHA_UI_108629c090>
+  <RHA_UI_10e653df97>Caster: {0}\n\n{1}\n\nCooldown: {2}{3}\n{4}\n\nConfigure automatic casting under My build → Path abilities.</RHA_UI_10e653df97>
+  <RHA_UI_10f2d15fa0>{0} · Difficulty {1}</RHA_UI_10f2d15fa0>
+  <RHA_UI_1168a59e18>Trial boss · Second phase</RHA_UI_1168a59e18>
+  <RHA_UI_1171f092bb>Enemies will arrive near the beacon in 30 seconds and attack your home.</RHA_UI_1171f092bb>
+  <RHA_UI_1188b5a3c2>Endless trial started. Choose the first blessing.</RHA_UI_1188b5a3c2>
+  <RHA_UI_119e82a70e>Thunder shield</RHA_UI_119e82a70e>
+  <RHA_UI_11a79960ff>Damage is health actually lost. Healing is non-permanent injury repaired, excluding overhealing.\nShield gained is added strength; shield absorbed is damage already blocked. Ordinary shields keep the stronger value and update their expiry. Overheal shields accumulate to their own cap.\nTime uses 60 game ticks per second.</RHA_UI_11a79960ff>
+  <RHA_UI_11f656f79b>Choose the corresponding base evolution and maintain at least 3 path sources.</RHA_UI_11f656f79b>
+  <RHA_UI_12002938e4>\nCooldown remaining: {0}.</RHA_UI_12002938e4>
+  <RHA_UI_125fa88e72>All scopes</RHA_UI_125fa88e72>
+  <RHA_UI_127c4cc62c>Rerolls +{0}</RHA_UI_127c4cc62c>
+  <RHA_UI_134ab083f1>Separate battles required: {0}</RHA_UI_134ab083f1>
+  <RHA_UI_13debf7cf2>Damage taken</RHA_UI_13debf7cf2>
+  <RHA_UI_13e0eb2067>\nReactivates when its path source requirements are restored.</RHA_UI_13e0eb2067>
+  <RHA_UI_13edee6ff7>Everfrost</RHA_UI_13edee6ff7>
+  <RHA_UI_143626d204>No matching abilities. Clear the search or show all abilities.</RHA_UI_143626d204>
+  <RHA_UI_14605889ff>Deals 450 damage to up to 16 enemies within 14 cells and stuns them for 2 seconds.</RHA_UI_14605889ff>
+  <RHA_UI_1476893263>{0} entries · {1}</RHA_UI_1476893263>
+  <RHA_UI_14869898c7>Awakening: equip an awakened "{0}" to enhance this ability.</RHA_UI_14869898c7>
+  <RHA_UI_1488ec0052>Cast when ready and all requirements are met. Offensive abilities still require a visible enemy.</RHA_UI_1488ec0052>
+  <RHA_UI_148aa5719b>{0} active · {1} dormant</RHA_UI_148aa5719b>
+  <RHA_UI_159a01257c>Source details</RHA_UI_159a01257c>
+  <RHA_UI_15b90e990c>At least one free colonist on the map must be able to act.</RHA_UI_15b90e990c>
+  <RHA_UI_15dec50795>Personal</RHA_UI_15dec50795>
+  <RHA_UI_166b99b9ee>Additional relic effect</RHA_UI_166b99b9ee>
+  <RHA_UI_171e46ae51>First wave: {0} enemies; boss health multiplier: {1}</RHA_UI_171e46ae51>
+  <RHA_UI_172bde5a85>Bounties completed: {0}    Shards: {1}    Cores: {2}</RHA_UI_172bde5a85>
+  <RHA_UI_1731d7da2d>\nRegeneration </RHA_UI_1731d7da2d>
+  <RHA_UI_17a5577df0>Deliver and spend supplies</RHA_UI_17a5577df0>
+  <RHA_UI_17d625cf9d>End this trial? Enemy phantoms will dissolve. The current wave gives no reward; materials from completed waves are kept.</RHA_UI_17d625cf9d>
+  <RHA_UI_17dff1851e>Valid hits: {0}/3. Need {1} more.</RHA_UI_17dff1851e>
+  <RHA_UI_18364ed822>Permanent growth</RHA_UI_18364ed822>
+  <RHA_UI_185005a348>Spend 100 shards for three different inscription offers.\nThere are 12 inscriptions. Each relic can hold one, up to rank 3. Effects stack by rank.</RHA_UI_185005a348>
+  <RHA_UI_189e3ba88b> · Need essence</RHA_UI_189e3ba88b>
+  <RHA_UI_18f184af8d>Blood healing</RHA_UI_18f184af8d>
+  <RHA_UI_1928814707>Evolutions require their path sources to remain active. Missing sources make them dormant; restoring the sources reactivates them.</RHA_UI_1928814707>
+  <RHA_UI_1933c0d0ec>Deals 600 damage to up to 16 enemies within 12 cells of the caster.</RHA_UI_1933c0d0ec>
+  <RHA_UI_196dfff612>Three distinct sources unlock a choice of two evolutions. Colony paths count sources across the colony.</RHA_UI_196dfff612>
+  <RHA_UI_19e5b77f1b>{0}; interval {1}. The first pulse occurs on cast. Later pulses check targets again.</RHA_UI_19e5b77f1b>
+  <RHA_UI_1a56844d15>Go to draft</RHA_UI_1a56844d15>
+  <RHA_UI_1a5d1e0ff4>Ongoing effects · None</RHA_UI_1a5d1e0ff4>
+  <RHA_UI_1a5efbb088>{0}: contribution {1}/{2} · base combat power {3}/{4} · battles {5}/{6} · wait {7} days</RHA_UI_1a5efbb088>
+  <RHA_UI_1a6bf9d034>Damage taken ÷{0}</RHA_UI_1a6bf9d034>
+  <RHA_UI_1a743de775>Target priority: nearest enemy</RHA_UI_1a743de775>
+  <RHA_UI_1abc09d85d>Injured colonist below health threshold</RHA_UI_1abc09d85d>
+  <RHA_UI_1ac1ac2d42>Arrival area blocked; wave cancelled</RHA_UI_1ac1ac2d42>
+  <RHA_UI_1b648bb93c>View active paths, dormant abilities and growth requirements.</RHA_UI_1b648bb93c>
+  <RHA_UI_1b738e0cb2>No active endless trial battle.</RHA_UI_1b738e0cb2>
+  <RHA_UI_1b7867dcc8>{0} stacks</RHA_UI_1b7867dcc8>
+  <RHA_UI_1b9b921756>Effect recording is off. Enable it to record damage, healing, shields and failed triggers.</RHA_UI_1b9b921756>
+  <RHA_UI_1c015d8a4f>Owned evolution can activate: {0}</RHA_UI_1c015d8a4f>
+  <RHA_UI_1c84048223>Inscription at rank 3</RHA_UI_1c84048223>
+  <RHA_UI_1d609cda3a>Direct hit · Critical</RHA_UI_1d609cda3a>
+  <RHA_UI_1d991dc0d7>No other standing enemies in range</RHA_UI_1d991dc0d7>
+  <RHA_UI_1df7b0a3e7>Dormant · </RHA_UI_1df7b0a3e7>
+  <RHA_UI_1e4b643fce>Appearance: hidden</RHA_UI_1e4b643fce>
+  <RHA_UI_1eb1a61ef4>Each burn pulse deals 160 additional damage. The caster gains an 800-point shield for 12 seconds.</RHA_UI_1eb1a61ef4>
+  <RHA_UI_1f4eb60ac0>Fusions and ultimates</RHA_UI_1f4eb60ac0>
+  <RHA_UI_1f73e4c619>Another draft</RHA_UI_1f73e4c619>
+  <RHA_UI_1ffbf74eb9>A combat phantom formed by the beacon.</RHA_UI_1ffbf74eb9>
+  <RHA_UI_20231848ec>Critical rating {0}%</RHA_UI_20231848ec>
+  <RHA_UI_205fe10639>Execution: after a hit, deals additional damage if the target's health is strictly below the combined threshold. The threshold is capped at 65%; the effect does not directly destroy the target.</RHA_UI_205fe10639>
+  <RHA_UI_209d4a34c1>No inscription.</RHA_UI_209d4a34c1>
+  <RHA_UI_20debdccae> · Dormant</RHA_UI_20debdccae>
+  <RHA_UI_21217d055a>Salvage one relic for 100 prismatic shards.\nThe item, growth, inscription and awakening are destroyed.\nWorn or locked relics, and relics with pending reforge offers, cannot be salvaged.</RHA_UI_21217d055a>
+  <RHA_UI_2141a70f01>{0} · Choose 1 of 3    Rerolls left: {1}</RHA_UI_2141a70f01>
+  <RHA_UI_218f4ae525>Target health: {0}%. Must be below {1}%.</RHA_UI_218f4ae525>
+  <RHA_UI_21b3083257>Active.</RHA_UI_21b3083257>
+  <RHA_UI_21e39b5e5f>Challenge &amp; rewards</RHA_UI_21e39b5e5f>
+  <RHA_UI_21f01dfff3>Path sources and existing effects are unchanged.</RHA_UI_21f01dfff3>
+  <RHA_UI_21fb84ae31>Expanding storm ring</RHA_UI_21fb84ae31>
+  <RHA_UI_221f691296>Soulbound guard</RHA_UI_221f691296>
+  <RHA_UI_2298887fb3>New blessing</RHA_UI_2298887fb3>
+  <RHA_UI_229fa80616>{0}\n{1}\n\nClick Compare benefits for all changes, requirements and reward details.</RHA_UI_229fa80616>
+  <RHA_UI_22b7f2a5ef>Path abilities</RHA_UI_22b7f2a5ef>
+  <RHA_UI_22d2b4c871>Brutal burst</RHA_UI_22d2b4c871>
+  <RHA_UI_22dfc95141>Equip to view trigger progress in the Health tab.</RHA_UI_22dfc95141>
+  <RHA_UI_22efaa42b7>Hex modifiers use this colonist's current equipment, inscriptions, growth and temporary effects. Final damage also depends on the weapon, protection and other effects.</RHA_UI_22efaa42b7>
+  <RHA_UI_22fc4c1ecb>Damage bonus per cell</RHA_UI_22fc4c1ecb>
+  <RHA_UI_2333f96666>Direct damage</RHA_UI_2333f96666>
+  <RHA_UI_235f8bb609>Combat contribution required: {0}</RHA_UI_235f8bb609>
+  <RHA_UI_23ac858930>Stage complete. Claim accumulated rewards, or choose a new blessing and enter the next stage.</RHA_UI_23ac858930>
+  <RHA_UI_245fe44579>Low-health damage bonus up to +{0}%</RHA_UI_245fe44579>
+  <RHA_UI_24f49ebd03>This ability can only be cast on a player home map.</RHA_UI_24f49ebd03>
+  <RHA_UI_250bf9d563>Triggered</RHA_UI_250bf9d563>
+  <RHA_UI_2553e3091e>Strikes the strongest enemy in range for an additional 800 + 120 × health scale damage and stuns it for 3 seconds.</RHA_UI_2553e3091e>
+  <RHA_UI_2562e6ee64>On-hit burn</RHA_UI_2562e6ee64>
+  <RHA_UI_257e11ef05>Dormant abilities</RHA_UI_257e11ef05>
+  <RHA_UI_2601f76c6a>\nThree reforge offers saved. Choose one under Prismatic forge.</RHA_UI_2601f76c6a>
+  <RHA_UI_2684055f39>\n\n{0} path: {1} / {2} distinct sources. Extra stacks do not count as new sources.</RHA_UI_2684055f39>
+  <RHA_UI_268a422e4b>Blood healing: valid hits fill a healing pool. At 60, consumes 60 to heal the wearer and one other colonist within 12 cells.</RHA_UI_268a422e4b>
+  <RHA_UI_26965d94af>Ongoing 0 · Wounds 0</RHA_UI_26965d94af>
+  <RHA_UI_26e839f9dd>{0}{1} pulses left{2}</RHA_UI_26e839f9dd>
+  <RHA_UI_2709367301> · No colonist selected</RHA_UI_2709367301>
+  <RHA_UI_2786359fa0>(personal)</RHA_UI_2786359fa0>
+  <RHA_UI_279e8d7251>Active: </RHA_UI_279e8d7251>
+  <RHA_UI_2811810598>\nEvolution · </RHA_UI_2811810598>
+  <RHA_UI_282f25e939>Trial blessings</RHA_UI_282f25e939>
+  <RHA_UI_2944494c56>Production abilities require the "When ready" trigger.</RHA_UI_2944494c56>
+  <RHA_UI_2969822f65>Scope: this colonist</RHA_UI_2969822f65>
+  <RHA_UI_296e52fe5f>Burn {0}/s</RHA_UI_296e52fe5f>
+  <RHA_UI_29a3c28b60> · Selected colonist</RHA_UI_29a3c28b60>
+  <RHA_UI_29d037755b>Within the 10-tick hit interval. This hit does not advance chain lightning or other hit counters.</RHA_UI_29d037755b>
+  <RHA_UI_29d55e5796>\nTrial relic · {0}</RHA_UI_29d55e5796>
+  <RHA_UI_2a3c32019c>On-hit requirements</RHA_UI_2a3c32019c>
+  <RHA_UI_2aae656a8c>{0} enemies selected</RHA_UI_2aae656a8c>
+  <RHA_UI_2ab5d35cb3>{0} active relics</RHA_UI_2ab5d35cb3>
+  <RHA_UI_2ab8e617c0>{0} reached level {1}. Stage {2} will begin shortly.</RHA_UI_2ab8e617c0>
+  <RHA_UI_2abb93ca9d>Transferable · No wear damage\nDifferent relics can be worn together</RHA_UI_2abb93ca9d>
+  <RHA_UI_2bd0202c1d>Take one at a time; only progress after acceptance counts. Wait 7 days after claiming, or 3 after failure or abandonment. Completed rewards remain available.</RHA_UI_2bd0202c1d>
+  <RHA_UI_2c28e25630>Allow automatic casting while undrafted</RHA_UI_2c28e25630>
+  <RHA_UI_2c5273cf90>Kills {0}/{1}    Combat rating {2}/{3}    Battles {4}/{5}</RHA_UI_2c5273cf90>
+  <RHA_UI_2c7536f439>Trial map removed</RHA_UI_2c7536f439>
+  <RHA_UI_2c8a7426d7>Piercing pursuit</RHA_UI_2c8a7426d7>
+  <RHA_UI_2c9b41638f>Accepted "{0}". Progress counts from now. Time limit: {1} days.</RHA_UI_2c9b41638f>
+  <RHA_UI_2cc26e8f81>{0} · Original form</RHA_UI_2cc26e8f81>
+  <RHA_UI_2d1175a1a6>(colony-wide)</RHA_UI_2d1175a1a6>
+  <RHA_UI_2d38759d64>Path evolution</RHA_UI_2d38759d64>
+  <RHA_UI_2de0f2adc3>(active) · {0}</RHA_UI_2de0f2adc3>
+  <RHA_UI_2ded972376>Group healing level</RHA_UI_2ded972376>
+  <RHA_UI_2e27f420ee>{0} · {1} days</RHA_UI_2e27f420ee>
+  <RHA_UI_2eb9171d14>{0} {1}/{2} sources · {3}</RHA_UI_2eb9171d14>
+  <RHA_UI_2edce57be5>All content</RHA_UI_2edce57be5>
+  <RHA_UI_2f0baebfe7>Locked</RHA_UI_2f0baebfe7>
+  <RHA_UI_2f3711463d>Base evolution chosen</RHA_UI_2f3711463d>
+  <RHA_UI_2f531d5fa9>Automatic casting is disabled.</RHA_UI_2f531d5fa9>
+  <RHA_UI_2f8d06afce>\nPermanent evil </RHA_UI_2f8d06afce>
+  <RHA_UI_30b6a32238>Overlord's record: {0} kills{1}{2}</RHA_UI_30b6a32238>
+  <RHA_UI_30e1196888>Damage</RHA_UI_30e1196888>
+  <RHA_UI_3121bedbd5>If the preferred caster cannot act or is off-map, another eligible colonist on this map is chosen.</RHA_UI_3121bedbd5>
+  <RHA_UI_3187034948>Steel marks per proc</RHA_UI_3187034948>
+  <RHA_UI_329cdfd4c7>Base evolution is dormant. Restore at least 3 path sources to reactivate the ability.</RHA_UI_329cdfd4c7>
+  <RHA_UI_32d4097eac>Cast ability</RHA_UI_32d4097eac>
+  <RHA_UI_33ed7d6deb> more augments. See Augment details.\n</RHA_UI_33ed7d6deb>
+  <RHA_UI_33ef2b3dd4>\n\nTimers follow game time and stop while paused. Click to view this colonist's build.</RHA_UI_33ef2b3dd4>
+  <RHA_UI_343328861b>Health ×{0}</RHA_UI_343328861b>
+  <RHA_UI_34855884cc>Standard formation</RHA_UI_34855884cc>
+  <RHA_UI_3489d67fe6>Trial blessings: {0}</RHA_UI_3489d67fe6>
+  <RHA_UI_351210c03f>Burning aura</RHA_UI_351210c03f>
+  <RHA_UI_35497bb51d>Each stage contains three waves. Between stages, choose one of three blessings; repeated choices increase its level. Blessings last for this trial only. Failure preserves completed-wave rewards.</RHA_UI_35497bb51d>
+  <RHA_UI_35a5f6ce7a>At half health, creates a storm ring at its casting position. The ring expands by 2 cells each second, striking 5 times. Stand inside or outside the ring to avoid it.</RHA_UI_35a5f6ce7a>
+  <RHA_UI_36492548d9>{0}: no treatable injuries at health ≤ {1}%.</RHA_UI_36492548d9>
+  <RHA_UI_36a035d121>Effect and rune brightness: {0}</RHA_UI_36a035d121>
+  <RHA_UI_36a7bc0624>Requires an available player-owned trial beacon on a home map.</RHA_UI_36a7bc0624>
+  <RHA_UI_36f9e2204d>   Health ×</RHA_UI_36f9e2204d>
+  <RHA_UI_373405c812>Base damage against enemies ×</RHA_UI_373405c812>
+  <RHA_UI_381e955369>Settlement pauses off-map and resumes with the next pulse after returning.</RHA_UI_381e955369>
+  <RHA_UI_383268b45b>Boss · {0}</RHA_UI_383268b45b>
+  <RHA_UI_385ac8a296>Appearance: shown</RHA_UI_385ac8a296>
+  <RHA_UI_3861717463>\nAdditional-damage lifesteal </RHA_UI_3861717463>
+  <RHA_UI_38bbdcd684>Cast successful. Cooldown started.</RHA_UI_38bbdcd684>
+  <RHA_UI_38de55b702>Show floating relic appearances</RHA_UI_38de55b702>
+  <RHA_UI_38e46ea979>Search names, themes or effects, such as burn, healing or growth.</RHA_UI_38e46ea979>
+  <RHA_UI_396b6c05fc> stacks</RHA_UI_396b6c05fc>
+  <RHA_UI_3976523ab4>{0} · Awaiting settlement</RHA_UI_3976523ab4>
+  <RHA_UI_3981682bec>No eligible colonists</RHA_UI_3981682bec>
+  <RHA_UI_3a064010f4>Combat bounty</RHA_UI_3a064010f4>
+  <RHA_UI_3a10bae5e1>Manual ready</RHA_UI_3a10bae5e1>
+  <RHA_UI_3a4a6bfc32>: {0} has joined the battle.</RHA_UI_3a4a6bfc32>
+  <RHA_UI_3a7ac35e43>No colonist available for preview</RHA_UI_3a7ac35e43>
+  <RHA_UI_3ac9b552ff>Ready to cast. Targeted abilities still require a valid target.</RHA_UI_3ac9b552ff>
+  <RHA_UI_3b3228d849>Finish the current trial and claim its rewards first.</RHA_UI_3b3228d849>
+  <RHA_UI_3ba696500f>Claim rewards and leave</RHA_UI_3ba696500f>
+  <RHA_UI_3c42b5d28d>{0} · Total RimHex modifiers</RHA_UI_3c42b5d28d>
+  <RHA_UI_3c66763e70>{0} level {1}</RHA_UI_3c66763e70>
+  <RHA_UI_3dae01fc3d>How records are counted</RHA_UI_3dae01fc3d>
+  <RHA_UI_3e083e0da6>\nEligible for future drafts; not yet owned.</RHA_UI_3e083e0da6>
+  <RHA_UI_3ea198c68f>Augment records created.</RHA_UI_3ea198c68f>
+  <RHA_UI_3ebba256bb>Reaping</RHA_UI_3ebba256bb>
+  <RHA_UI_3ed2176fe6>Regeneration {0}/s</RHA_UI_3ed2176fe6>
+  <RHA_UI_3f4ebc4aad>Selected</RHA_UI_3f4ebc4aad>
+  <RHA_UI_3f54bda959>Colony income, power generation and research rewards affect the whole colony.\n</RHA_UI_3f54bda959>
+  <RHA_UI_404075ef7a>Requirements unmet; see details</RHA_UI_404075ef7a>
+  <RHA_UI_4042f2152e>No visible, standing hostile targets within search range.</RHA_UI_4042f2152e>
+  <RHA_UI_404ca152f7>Queued {2}: {0} → {1}.</RHA_UI_404ca152f7>
+  <RHA_UI_4074b82432>Trial shield</RHA_UI_4074b82432>
+  <RHA_UI_41000ef912>{0} tickets ×{1}</RHA_UI_41000ef912>
+  <RHA_UI_4108e555c9>Salvage &amp; protection</RHA_UI_4108e555c9>
+  <RHA_UI_4163584976>Acquired (including dormant)</RHA_UI_4163584976>
+  <RHA_UI_41e2019900>Cleave</RHA_UI_41e2019900>
+  <RHA_UI_428ac54e5f>Not owned; historical contribution retained</RHA_UI_428ac54e5f>
+  <RHA_UI_42ae2bd471>\nBranch change available in {0} days</RHA_UI_42ae2bd471>
+  <RHA_UI_436803dca3>Prismatic forge</RHA_UI_436803dca3>
+  <RHA_UI_4394d092d9>Active combined modifiers\n</RHA_UI_4394d092d9>
+  <RHA_UI_44088e9eaf>   Feast </RHA_UI_44088e9eaf>
+  <RHA_UI_440af6d48f>Available on this map: {0} / {1}</RHA_UI_440af6d48f>
+  <RHA_UI_4435e39843>Group healing: after an eligible hit, heal up to 12 colonists within 8 cells, at least 60 ticks apart. Repairs non-permanent injuries only.</RHA_UI_4435e39843>
+  <RHA_UI_44400948e5>Keep current · Reforge cost is spent</RHA_UI_44400948e5>
+  <RHA_UI_445749d79f>Steel marks gained</RHA_UI_445749d79f>
+  <RHA_UI_447d979c12>A revealed, walkable and reachable arrival area is required 18–30 cells from the beacon.</RHA_UI_447d979c12>
+  <RHA_UI_44ce7ae909>Search</RHA_UI_44ce7ae909>
+  <RHA_UI_45049fe373>Bounty {0}/kill</RHA_UI_45049fe373>
+  <RHA_UI_451d14e7ff>Repeated pulses</RHA_UI_451d14e7ff>
+  <RHA_UI_45ddd90ef0>Long-range hits</RHA_UI_45ddd90ef0>
+  <RHA_UI_45fb119fb2>No eligible caster on this map.</RHA_UI_45fb119fb2>
+  <RHA_UI_462fcf538d>Scope: everyone</RHA_UI_462fcf538d>
+  <RHA_UI_469db1ac81>Control healing</RHA_UI_469db1ac81>
+  <RHA_UI_474d5d4783>Add an inscription first</RHA_UI_474d5d4783>
+  <RHA_UI_483b36591f>Standard shield · None</RHA_UI_483b36591f>
+  <RHA_UI_4842676fb3>{0} · {1} pulses left · Up to {2} s</RHA_UI_4842676fb3>
+  <RHA_UI_48789c7238>Personal effect record</RHA_UI_48789c7238>
+  <RHA_UI_48848fea37>Salvage "{0}"?\nThis permanently destroys the item, its growth, inscription and awakening in exchange for 100 shards.</RHA_UI_48848fea37>
+  <RHA_UI_48b1b81ec6>Choose a blessing and enter the next stage</RHA_UI_48b1b81ec6>
+  <RHA_UI_48c82a33cb>Relic interaction</RHA_UI_48c82a33cb>
+  <RHA_UI_48e294edd6>Awaiting pulse</RHA_UI_48e294edd6>
+  <RHA_UI_49cc1687ef>Inscriptions stay with the relic and appear in Health and equipment details. Reforging changes the inscription only.</RHA_UI_49cc1687ef>
+  <RHA_UI_49e19b699e>Group shield</RHA_UI_49e19b699e>
+  <RHA_UI_4a052d3c23>\nPermanent attribute: </RHA_UI_4a052d3c23>
+  <RHA_UI_4a31541372>No base evolution chosen</RHA_UI_4a31541372>
+  <RHA_UI_4ab72d953c>Prismatic trials</RHA_UI_4ab72d953c>
+  <RHA_UI_4bb186bf14>    Evolution available</RHA_UI_4bb186bf14>
+  <RHA_UI_4c57ec2407>Trial theme unavailable.</RHA_UI_4c57ec2407>
+  <RHA_UI_4c6980caae>{0}\nBase damage per pulse: {1}. Actual damage depends on modifiers and protection.\n{2}\nPulses occur 1 second apart; each consumes one remaining pulse.{3}</RHA_UI_4c6980caae>
+  <RHA_UI_4c822e1161>Recipient: </RHA_UI_4c822e1161>
+  <RHA_UI_4c8ce55a0f>Health</RHA_UI_4c8ce55a0f>
+  <RHA_UI_4ce9f1ab99>Waiting for a visible, standing enemy within search range.</RHA_UI_4ce9f1ab99>
+  <RHA_UI_4d02aa5342>Choose an augment</RHA_UI_4d02aa5342>
+  <RHA_UI_4d2cf89499>Next pulse: {0}</RHA_UI_4d2cf89499>
+  <RHA_UI_4d9f3ab457>{0}\nMeet all combat requirements to earn a personal draft ticket. Flexible tickets arrive every 5 days by default; adjust the interval in settings.\nClosing this panel keeps your choices and rerolls.</RHA_UI_4d9f3ab457>
+  <RHA_UI_4dda7e0bf9>Contributions appear here after acquiring fusion or ultimate cards, or equipping trial relics.</RHA_UI_4dda7e0bf9>
+  <RHA_UI_4e1ce3a617>Prismatic shards {0}    Cores {1}    · Shared by the colony and saved with the game</RHA_UI_4e1ce3a617>
+  <RHA_UI_4e6cbad878>Ultimate evolution</RHA_UI_4e6cbad878>
+  <RHA_UI_4eb859c0f5>No beacon: Architect → Misc → Prismatic trial beacon</RHA_UI_4eb859c0f5>
+  <RHA_UI_4f634520e8>Colony</RHA_UI_4f634520e8>
+  <RHA_UI_4f9682a896>Counts standing, armed adult enemies, mechanoids and large hostile insects with a combat rating of at least 50. Prisoners, slaves, ordinary animals and repeated kills after resurrection are excluded. Enemy combat groups count as separate battles. Ungrouped enemies are grouped by map, faction and date.</RHA_UI_4f9682a896>
+  <RHA_UI_4fb51c8dff>Worn relics contributing to this path: {0}</RHA_UI_4fb51c8dff>
+  <RHA_UI_50f35aff50>Select an ability to view its effects, cooldown and contribution. Abilities require a path evolution. Automatic casting is off by default.</RHA_UI_50f35aff50>
+  <RHA_UI_510492d83f>Cannot act</RHA_UI_510492d83f>
+  <RHA_UI_511aa4142a>No eligible caster</RHA_UI_511aa4142a>
+  <RHA_UI_51886aa9d4>Stacking burn: damage from the same attacker accumulates on the same target. Refreshes to 6 pulses, one per second, capped at 1,000,000 damage. Different attackers remain separate; a target can carry up to 16 stacking damage-over-time effects.</RHA_UI_51886aa9d4>
+  <RHA_UI_51d2e919ec>Restore default interval: 5 days</RHA_UI_51d2e919ec>
+  <RHA_UI_51fa2da899>Enable combat bounty rewards</RHA_UI_51fa2da899>
+  <RHA_UI_52366f9f7f>Stacks {0}{1}</RHA_UI_52366f9f7f>
+  <RHA_UI_523fb6184d>{0} s</RHA_UI_523fb6184d>
+  <RHA_UI_5245f5a74f>Ranged damage +{0}%/cell</RHA_UI_5245f5a74f>
+  <RHA_UI_52b8e44f1c>Kills</RHA_UI_52b8e44f1c>
+  <RHA_UI_53775b2143>Worn ×{0} · Active</RHA_UI_53775b2143>
+  <RHA_UI_53d9646559>Dormant: missing path sources.</RHA_UI_53d9646559>
+  <RHA_UI_53f113088b>{0} · Up to {1} · {2}</RHA_UI_53f113088b>
+  <RHA_UI_543fe32afc>Ready for first awakening</RHA_UI_543fe32afc>
+  <RHA_UI_54a223a5c8>No triggers recorded</RHA_UI_54a223a5c8>
+  <RHA_UI_54be03f87d>No active augments.</RHA_UI_54be03f87d>
+  <RHA_UI_54c0162c30>Chain lightning: every 3 valid hits, searches within {0} cells of the impact for other standing enemies. This source alone allows up to {1} targets. Each attacker can advance the valid-hit counter only once per 10 ticks.</RHA_UI_54c0162c30>
+  <RHA_UI_54ec6f781e>Difficulty: {0} / 5</RHA_UI_54ec6f781e>
+  <RHA_UI_551baab02d>Queued colonists: {0} → {1}. A player map must be available to receive them.</RHA_UI_551baab02d>
+  <RHA_UI_5588a15ead>Recording · Turn off</RHA_UI_5588a15ead>
+  <RHA_UI_55efc40cf9>Everfrost stun {0} s</RHA_UI_55efc40cf9>
+  <RHA_UI_5629e20a86>Trial</RHA_UI_5629e20a86>
+  <RHA_UI_57219515b6>Thunder overload</RHA_UI_57219515b6>
+  <RHA_UI_57226eecb2>(recorded branch)</RHA_UI_57226eecb2>
+  <RHA_UI_57ced08e11>Dormant</RHA_UI_57ced08e11>
+  <RHA_UI_58b6df1059> · Complete</RHA_UI_58b6df1059>
+  <RHA_UI_592808f1cf>Colonist: {0}  ▾</RHA_UI_592808f1cf>
+  <RHA_UI_594b763109>\nPermanent steel marks </RHA_UI_594b763109>
+  <RHA_UI_5953597713>Checks the caster's treatable injuries only. A visible enemy must still be nearby.</RHA_UI_5953597713>
+  <RHA_UI_59d499d937>Critical</RHA_UI_59d499d937>
+  <RHA_UI_59de6e7192>\nRage </RHA_UI_59de6e7192>
+  <RHA_UI_59e37bb948>Arrival area blocked. Clear the paths around the beacon.</RHA_UI_59e37bb948>
+  <RHA_UI_59ea0aa51d>Cooldown: {0} s</RHA_UI_59ea0aa51d>
+  <RHA_UI_5a1559f2f3>Trial in progress</RHA_UI_5a1559f2f3>
+  <RHA_UI_5a772e6165>Queued bounty silver: {0} → {1}.</RHA_UI_5a772e6165>
+  <RHA_UI_5a7883acf7>Combo level</RHA_UI_5a7883acf7>
+  <RHA_UI_5a7df9cb7d>Night harvesting: base interval 20 seconds per target, reduced by item haste.</RHA_UI_5a7df9cb7d>
+  <RHA_UI_5aa1a00081>\nInscription · {0}, rank {1}\n{2} (per-rank effects ×{3})</RHA_UI_5aa1a00081>
+  <RHA_UI_5acd76c5b5>Bounties</RHA_UI_5acd76c5b5>
+  <RHA_UI_5ae9316459>Actual contribution</RHA_UI_5ae9316459>
+  <RHA_UI_5dbb4f625f>Flexible tickets ×{0} · Usable for all three pools; one ticket per draft</RHA_UI_5dbb4f625f>
+  <RHA_UI_5e157615b8>Original appearance. Growth requirements, costs and branch effects are listed under Relic awakening.</RHA_UI_5e157615b8>
+  <RHA_UI_5ea1858b84>On cast, free colonists within 12 cells gain a 500-point shield for 12 seconds.</RHA_UI_5ea1858b84>
+  <RHA_UI_5eb4549e36>Incomplete</RHA_UI_5eb4549e36>
+  <RHA_UI_5edfc94551>\nAscension rerolls: {0}; remaining today: {1}\nDamage +{2}% · Health +{3}% · Damage-taken divisor +{4}\nMovement speed +{5}% · Attack cooldown divisor +{6}</RHA_UI_5edfc94551>
+  <RHA_UI_5efbc9e6de>Trial field</RHA_UI_5efbc9e6de>
+  <RHA_UI_5fe0f4bf16>Difficulty {0}</RHA_UI_5fe0f4bf16>
+  <RHA_UI_5fec3a30e5>Choose a trial theme and difficulty, inspect progress and claim rewards.</RHA_UI_5fec3a30e5>
+  <RHA_UI_609eb6a485>/s</RHA_UI_609eb6a485>
+  <RHA_UI_60cad7da2b>On-hit, distance, low-health and chance effects trigger as described below. They are not included as constant damage or damage per second.</RHA_UI_60cad7da2b>
+  <RHA_UI_60d3cc5afc>The trial beacon must be unroofed.</RHA_UI_60d3cc5afc>
+  <RHA_UI_61366b3ff8>Base value after {0}{1}</RHA_UI_61366b3ff8>
+  <RHA_UI_615f76b111>Casting and range</RHA_UI_615f76b111>
+  <RHA_UI_62069c9789>Boss: {0}</RHA_UI_62069c9789>
+  <RHA_UI_6208250168>Triggers, range and resolution</RHA_UI_6208250168>
+  <RHA_UI_622a8124e8>Total after the next wave: {0} shards / {1} cores.</RHA_UI_622a8124e8>
+  <RHA_UI_62893c676e>Eligible for drafts</RHA_UI_62893c676e>
+  <RHA_UI_62ae8b778c>This relic is not currently worn.</RHA_UI_62ae8b778c>
+  <RHA_UI_62b7d70502>Target is out of range, unseen, obstructed or of the wrong type.</RHA_UI_62b7d70502>
+  <RHA_UI_62dcac7955>Relic</RHA_UI_62dcac7955>
+  <RHA_UI_634f2159f1>Cleave: every 2 valid hits, strikes up to 8 other enemies within 3.5 cells of the impact.</RHA_UI_634f2159f1>
+  <RHA_UI_63a6047f07>No rerolls left today, or the wearer cannot act.</RHA_UI_63a6047f07>
+  <RHA_UI_63bd204363>Select a valid theme and difficulty.</RHA_UI_63bd204363>
+  <RHA_UI_63c4b797dc>Wave {0} complete. {1}</RHA_UI_63c4b797dc>
+  <RHA_UI_648067d08a>Damage ÷{0}</RHA_UI_648067d08a>
+  <RHA_UI_65746c9720>{0} · {1}/{2} distinct sources\nOwned: {3}{4}</RHA_UI_65746c9720>
+  <RHA_UI_657fd79be9>Lists the sources active when the effect triggered. Shared modifiers are included in the final result; the total is not divided between sources.</RHA_UI_657fd79be9>
+  <RHA_UI_65856e1b2b>Centered on the caster.</RHA_UI_65856e1b2b>
+  <RHA_UI_65d70a73ab>Direct hit</RHA_UI_65d70a73ab>
+  <RHA_UI_65ecebf2ff>Relic display size: {0}×</RHA_UI_65ecebf2ff>
+  <RHA_UI_65f99ed31c>Untriggered only</RHA_UI_65f99ed31c>
+  <RHA_UI_661e68bbbb>Damage absorbed {0}/200 · </RHA_UI_661e68bbbb>
+  <RHA_UI_662501be2c>Scope: all</RHA_UI_662501be2c>
+  <RHA_UI_6669128318>Path requirements</RHA_UI_6669128318>
+  <RHA_UI_668d4f3af4>Each pulse hits up to 12 targets within 12 cells and deals an additional 160 damage.</RHA_UI_668d4f3af4>
+  <RHA_UI_66faa2d157>Wave complete</RHA_UI_66faa2d157>
+  <RHA_UI_67d2c4a2a7>The caster must be on a map, conscious and able to act.</RHA_UI_67d2c4a2a7>
+  <RHA_UI_6839aa3ee2>Execution</RHA_UI_6839aa3ee2>
+  <RHA_UI_691c57491f>Bounty expired. Another can be accepted in 3 days. Cards and equipment are unaffected.</RHA_UI_691c57491f>
+  <RHA_UI_695594dcec>Awaken as "{0}"</RHA_UI_695594dcec>
+  <RHA_UI_6a4ca29f1b>Lifesteal</RHA_UI_6a4ca29f1b>
+  <RHA_UI_6b1671c369>{0}\n\n{1}\n\nMeet the requirements, then use the matching draft ticket to draw it. The effect becomes dormant if sources are missing and returns when restored.</RHA_UI_6b1671c369>
+  <RHA_UI_6b258bd0f4>{0} stacks · </RHA_UI_6b258bd0f4>
+  <RHA_UI_6b380e9ab5>   Direct lifesteal </RHA_UI_6b380e9ab5>
+  <RHA_UI_6b7fd04911>No stack limit.</RHA_UI_6b7fd04911>
+  <RHA_UI_6bc3bb3e5e>Choose a bounty and review its requirements before accepting.</RHA_UI_6bc3bb3e5e>
+  <RHA_UI_6bc3d825dd>On-hit rejuvenation</RHA_UI_6bc3d825dd>
+  <RHA_UI_6c6cdca8c0>Automatic casting: off</RHA_UI_6c6cdca8c0>
+  <RHA_UI_6cd21ad232>Chain lightning · {0} targets</RHA_UI_6cd21ad232>
+  <RHA_UI_6d079d23bd>Trial difficulty {0} · Stage {1} · Wave {2}\nHealth ×{3}\n{4}{5}\nDissolves when killed or downed. Leaves no equipment or corpse, and does not count toward ordinary combat bounties.</RHA_UI_6d079d23bd>
+  <RHA_UI_6d16acf649>Augment details</RHA_UI_6d16acf649>
+  <RHA_UI_6d80405309>"{0}" has begun. The first wave will arrive in the marked area in 30 seconds.</RHA_UI_6d80405309>
+  <RHA_UI_6d94bd212b>Disabled in library</RHA_UI_6d94bd212b>
+  <RHA_UI_6e52ee9814> · Remaining </RHA_UI_6e52ee9814>
+  <RHA_UI_6e7178a9bb>Appearances</RHA_UI_6e7178a9bb>
+  <RHA_UI_6ee39d7610>Persistent field</RHA_UI_6ee39d7610>
+  <RHA_UI_6ef6850398>Received the prismatic relic "{0}". It has been delivered near a colonist. Right-click it to equip.</RHA_UI_6ef6850398>
+  <RHA_UI_6efa9b9e2d>Forging materials are at capacity. Spend some before claiming more.</RHA_UI_6efa9b9e2d>
+  <RHA_UI_6eff2b0bdb>Completed "{0}". Received {1} prismatic shards and {2} cores. Another bounty will be available in 7 days.</RHA_UI_6eff2b0bdb>
+  <RHA_UI_6f373591cf>Health ≤ {0}%</RHA_UI_6f373591cf>
+  <RHA_UI_6f67b320ab>Hit lifesteal heals from actual primary damage. Spell lifesteal also counts bonus damage.</RHA_UI_6f67b320ab>
+  <RHA_UI_6f96901507> · Personal cooldown</RHA_UI_6f96901507>
+  <RHA_UI_6fa69bc127>{0} {1} → {2}/{3} sources · {4}</RHA_UI_6fa69bc127>
+  <RHA_UI_6fd939a3e8>Physical adaptation</RHA_UI_6fd939a3e8>
+  <RHA_UI_6fe8e8ad0e> silver</RHA_UI_6fe8e8ad0e>
+  <RHA_UI_703af1bf2f>No eligible cards in this pool. Enable more cards in the library or settings. Your ticket has been kept.</RHA_UI_703af1bf2f>
+  <RHA_UI_703eb2de44>Standard shield</RHA_UI_703eb2de44>
+  <RHA_UI_705a8e2f68> and one exclusive relic; forging unlocked for the completed theme</RHA_UI_705a8e2f68>
+  <RHA_UI_707daec824>This trial has reached its record limit. Claim your rewards to finish.</RHA_UI_707daec824>
+  <RHA_UI_70ef5684c9>Combat rewards disabled</RHA_UI_70ef5684c9>
+  <RHA_UI_70f1c01384>Inscription choices saved. The current inscription stays active until you confirm; closing this panel keeps the choices.</RHA_UI_70f1c01384>
+  <RHA_UI_720cd63b70>{0}: received {1} shards, {2} cores and {3} trial essence{4}. Beacon recovers for 1 day.</RHA_UI_720cd63b70>
+  <RHA_UI_72277bc2b8>Critical rating</RHA_UI_72277bc2b8>
+  <RHA_UI_7235b2548d>Shared rerolls per draft: {0}</RHA_UI_7235b2548d>
+  <RHA_UI_723b59035c>Path: {0}</RHA_UI_723b59035c>
+  <RHA_UI_72c3d0914d>{0} / {1}    {2} / {3} sources{4}</RHA_UI_72c3d0914d>
+  <RHA_UI_72db5c129f>Scope</RHA_UI_72db5c129f>
+  <RHA_UI_72e1653e89>Shield {0} · Permanent evil {1} · Pending deposit {2} · Stored blood {3}\nRandom attributes: damage +{4}% · health +{5}% · movement +{6}% · attack cooldown divisor +{7}</RHA_UI_72e1653e89>
+  <RHA_UI_730ecadfe2>No relics match this name. Clear the search to show all.</RHA_UI_730ecadfe2>
+  <RHA_UI_736369966b>{0}\n{1}\nTrial shields block attacks from the current trial's enemies during endless trial battles. The two shields have separate durations and capacities.</RHA_UI_736369966b>
+  <RHA_UI_738ef0fd5b>Owned / worn</RHA_UI_738ef0fd5b>
+  <RHA_UI_73a514c643>On-hit burn: 4 pulses, one per second. Each target retains one burn, keeping the stronger damage. Refreshing does not delay the next pulse.</RHA_UI_73a514c643>
+  <RHA_UI_73dc955200>Ground- and enemy-targeted abilities enter targeting mode. Right-click to cancel without spending the cooldown.</RHA_UI_73dc955200>
+  <RHA_UI_7482a97ff5>Combat record</RHA_UI_7482a97ff5>
+  <RHA_UI_7492a101f6>Colony build</RHA_UI_7492a101f6>
+  <RHA_UI_74aa59b726>Current blessing level: {0}</RHA_UI_74aa59b726>
+  <RHA_UI_754d27b246>{0}\n{1}{2}\n\nCurrent → After selection (total RimHex modifiers)\n{3}\n\nPaths and relics\n{4}\n\nRequirements\n{5}\n\nCard description\n{6}</RHA_UI_754d27b246>
+  <RHA_UI_7551400cbf>Awakening needs {0} more trial essence</RHA_UI_7551400cbf>
+  <RHA_UI_755254296d>Second phase</RHA_UI_755254296d>
+  <RHA_UI_7597c25975>Detonation level {0}</RHA_UI_7597c25975>
+  <RHA_UI_75f381587b>   Critical rating </RHA_UI_75f381587b>
+  <RHA_UI_7621176bcf>Choose card</RHA_UI_7621176bcf>
+  <RHA_UI_765857f216>Detonation</RHA_UI_765857f216>
+  <RHA_UI_77a4b0bb3f>Wave {0} has arrived{1}</RHA_UI_77a4b0bb3f>
+  <RHA_UI_77f0c3f6c9>Cast when an eligible, visible enemy is nearby.</RHA_UI_77f0c3f6c9>
+  <RHA_UI_787391b050>No non-permanent injuries to repair. Overhealing does not count as healing.</RHA_UI_787391b050>
+  <RHA_UI_78b04dfc71> · Additional damage +</RHA_UI_78b04dfc71>
+  <RHA_UI_78d5b8cd77>Detonation level</RHA_UI_78d5b8cd77>
+  <RHA_UI_791ac3f6f3>Dragon souls: {0} / 6 (grows every 2 days worn){1}{2}</RHA_UI_791ac3f6f3>
+  <RHA_UI_79b7c05730>No colonist selected</RHA_UI_79b7c05730>
+  <RHA_UI_7a040f3e7f>Actual damage</RHA_UI_7a040f3e7f>
+  <RHA_UI_7ac30562c4>RimHex</RHA_UI_7ac30562c4>
+  <RHA_UI_7ace8b3704>Additional effect</RHA_UI_7ace8b3704>
+  <RHA_UI_7af8ee8e1e>Colony stacks: {0} · Personal stacks: {1}\n{2}</RHA_UI_7af8ee8e1e>
+  <RHA_UI_7b4fed04bc>{0} · Endless stages cleared: {1}</RHA_UI_7b4fed04bc>
+  <RHA_UI_7b8008f0a0>Maximum low-health damage bonus</RHA_UI_7b8008f0a0>
+  <RHA_UI_7b871220b3> /s</RHA_UI_7b871220b3>
+  <RHA_UI_7cbcda4c9e>Mode: three waves</RHA_UI_7cbcda4c9e>
+  <RHA_UI_7cd6aae548>Full clear: {0} shards / {1} cores\n{2} trial essence · Choose 1 of 2 relics\nUnlocks forging for both relics</RHA_UI_7cd6aae548>
+  <RHA_UI_7e06b7da51>Related to path</RHA_UI_7e06b7da51>
+  <RHA_UI_7e0e151519>Actual healing</RHA_UI_7e0e151519>
+  <RHA_UI_7e3852581c>{0} types · {1} stacks</RHA_UI_7e3852581c>
+  <RHA_UI_7e7c2918a3>\n{0} more effects. See the Health tab for the full list.</RHA_UI_7e7c2918a3>
+  <RHA_UI_7e95b03d36>Choose a blessing to begin 30 seconds of preparation. A new stage begins every three waves, with stronger enemies.</RHA_UI_7e95b03d36>
+  <RHA_UI_7ed361707f>\nShield </RHA_UI_7ed361707f>
+  <RHA_UI_7ede032c27>Stuns applied</RHA_UI_7ede032c27>
+  <RHA_UI_7f6d836391>Original</RHA_UI_7f6d836391>
+  <RHA_UI_7f890ee811>Choose the next stage's blessing, or claim rewards and leave.</RHA_UI_7f890ee811>
+  <RHA_UI_7f8e1e596f>Boss arrival failed; wave cancelled</RHA_UI_7f8e1e596f>
+  <RHA_UI_7fc427e2ec>Chain level {0} · {1} cells around target · Every 3 valid hits</RHA_UI_7fc427e2ec>
+  <RHA_UI_80a6ad02fb>Everfrost level</RHA_UI_80a6ad02fb>
+  <RHA_UI_80eca4d332>Mode: endless</RHA_UI_80eca4d332>
+  <RHA_UI_81020a0fc7>Reduce minor effects in crowded battles</RHA_UI_81020a0fc7>
+  <RHA_UI_8186088b05>Waiting for the caster to be drafted.</RHA_UI_8186088b05>
+  <RHA_UI_81957c6901>Prismatic</RHA_UI_81957c6901>
+  <RHA_UI_8198077a7e>All tiers</RHA_UI_8198077a7e>
+  <RHA_UI_8230cd71dd>{0} evolved into "{1}".</RHA_UI_8230cd71dd>
+  <RHA_UI_8297cc7631>{0} · Appearances</RHA_UI_8297cc7631>
+  <RHA_UI_82ef13a0c7>Ability cast</RHA_UI_82ef13a0c7>
+  <RHA_UI_830302e601>The last 12 completed trials are recorded here. Live results are also available on the challenge page.</RHA_UI_830302e601>
+  <RHA_UI_8334982ab1>Deliver and consume {0} {1}?</RHA_UI_8334982ab1>
+  <RHA_UI_835b700e02>Flexible</RHA_UI_835b700e02>
+  <RHA_UI_83d8ac4dbe>Begin trial</RHA_UI_83d8ac4dbe>
+  <RHA_UI_83f16bb481>Endless · Stage {0} · </RHA_UI_83f16bb481>
+  <RHA_UI_84524785eb>Natural regeneration</RHA_UI_84524785eb>
+  <RHA_UI_847d9f1ac8>Trial essence: {0}. Growth stays with the item. Branches can be changed once per day.</RHA_UI_847d9f1ac8>
+  <RHA_UI_84965eea6b>Chain lightning · Trigger status</RHA_UI_84965eea6b>
+  <RHA_UI_854340c58f>Cleave level</RHA_UI_854340c58f>
+  <RHA_UI_85a73a5b9c>Inscribed "{0}" with "{1}", rank {2}. Growth and awakening are retained.</RHA_UI_85a73a5b9c>
+  <RHA_UI_85c04db019>Stage preview</RHA_UI_85c04db019>
+  <RHA_UI_85db1da05e>All paths in the current build</RHA_UI_85db1da05e>
+  <RHA_UI_868fa058a6>Thorns level {0}</RHA_UI_868fa058a6>
+  <RHA_UI_86a00cf742>Effect</RHA_UI_86a00cf742>
+  <RHA_UI_86d3bbd779>Counts enemies within the actual hit area, excluding obstructed and out-of-range targets.</RHA_UI_86d3bbd779>
+  <RHA_UI_87772cf624>Claim rewards and leave, or continue to the next wave.</RHA_UI_87772cf624>
+  <RHA_UI_87db0b04ab>Additional damage</RHA_UI_87db0b04ab>
+  <RHA_UI_8822ab6b5d>Claim trial rewards</RHA_UI_8822ab6b5d>
+  <RHA_UI_882de9ae65>Feast stacks per kill</RHA_UI_882de9ae65>
+  <RHA_UI_88364de0de>Pulses completed: {0}</RHA_UI_88364de0de>
+  <RHA_UI_887b46d587> · Colony cards affect everyone; individual results may differ</RHA_UI_887b46d587>
+  <RHA_UI_8888f8a867>No home-map colonists</RHA_UI_8888f8a867>
+  <RHA_UI_88d1576f59>Dormant: missing sources</RHA_UI_88d1576f59>
+  <RHA_UI_88d34d178d>Chain lightning radius: {0} cells around the target (every 3 valid hits; other standing enemies only)</RHA_UI_88d34d178d>
+  <RHA_UI_88dcad18da>Auto waiting</RHA_UI_88dcad18da>
+  <RHA_UI_88ed94f69c>Home stockpile</RHA_UI_88ed94f69c>
+  <RHA_UI_894a9388da>Close-range damage bonus</RHA_UI_894a9388da>
+  <RHA_UI_89696021a2>Trial: {0} · Waves cleared: {1}\n{2}</RHA_UI_89696021a2>
+  <RHA_UI_8a14a0cca3>Bounty abandoned. Another can be accepted in 3 days.</RHA_UI_8a14a0cca3>
+  <RHA_UI_8a1e9f992d>Enemy count reached</RHA_UI_8a1e9f992d>
+  <RHA_UI_8ab15443bb>Silver</RHA_UI_8ab15443bb>
+  <RHA_UI_8abc77b9fb>3 pulses</RHA_UI_8abc77b9fb>
+  <RHA_UI_8b70fb83b7>Colony ability · Daily payout in {0} days</RHA_UI_8b70fb83b7>
+  <RHA_UI_8c38553558>{0}Ongoing {1} · Wounds {2}</RHA_UI_8c38553558>
+  <RHA_UI_8c52f0930d>Active · </RHA_UI_8c52f0930d>
+  <RHA_UI_8c6d4d2473>Beacon or home map unavailable</RHA_UI_8c6d4d2473>
+  <RHA_UI_8cbf2f303b>{0} · Difficulty {1} · Wave {2} / 3</RHA_UI_8cbf2f303b>
+  <RHA_UI_8d0151f504>Abandon this bounty and its progress? Another can be accepted after 3 days.</RHA_UI_8d0151f504>
+  <RHA_UI_8d1dc8dc02>This card has not been acquired.</RHA_UI_8d1dc8dc02>
+  <RHA_UI_8d544e1549>Active</RHA_UI_8d544e1549>
+  <RHA_UI_8d80b1f458>Movement speed</RHA_UI_8d80b1f458>
+  <RHA_UI_8d98ded02d> · Colony-wide</RHA_UI_8d98ded02d>
+  <RHA_UI_8d999455ce>Field limit reached</RHA_UI_8d999455ce>
+  <RHA_UI_8df2e10004>\nActive ability: {0}</RHA_UI_8df2e10004>
+  <RHA_UI_8e8021bc10>Caster</RHA_UI_8e8021bc10>
+  <RHA_UI_8e861a9a07>End trial and dismiss phantoms</RHA_UI_8e861a9a07>
+  <RHA_UI_8f0283c7ea>Keeps the latest 256 entries for this session, up to 64 per tick. Omitted: {0}.\nDamage, healing and absorption use actual results. Shield gained is recorded separately.</RHA_UI_8f0283c7ea>
+  <RHA_UI_8f0a8ecce5>No active abilities, fields or production overclock effects.</RHA_UI_8f0a8ecce5>
+  <RHA_UI_8f0f24e487>Reroll this card</RHA_UI_8f0f24e487>
+  <RHA_UI_8f58d8da21>Select a ticket above to begin a three-card draft.\n\nColony cards affect all player humanlike colonists. Personal cards permanently augment the chosen colonist.\nPrismatic relics arrive as wearable items near a colonist. Different relics can be equipped together.</RHA_UI_8f58d8da21>
+  <RHA_UI_904dd029c7>Environment</RHA_UI_904dd029c7>
+  <RHA_UI_905e31f73e>Dormant</RHA_UI_905e31f73e>
+  <RHA_UI_919e57e71f>Execution threshold {0}%</RHA_UI_919e57e71f>
+  <RHA_UI_91c0dee894>Chain lightning</RHA_UI_91c0dee894>
+  <RHA_UI_9264f24148>Soul barrage</RHA_UI_9264f24148>
+  <RHA_UI_92b70e6585>Control shield</RHA_UI_92b70e6585>
+  <RHA_UI_92d87b13e7>Beacon recovering: {0} days remaining.</RHA_UI_92d87b13e7>
+  <RHA_UI_938718641a>{0}: {1}/{2} distinct sources. Extra stacks do not count as new sources.</RHA_UI_938718641a>
+  <RHA_UI_9407d93e2a>Find beacon</RHA_UI_9407d93e2a>
+  <RHA_UI_9417fa4563>Actual healing {0} · Damage absorbed {1}</RHA_UI_9417fa4563>
+  <RHA_UI_9428ecebd5> · {0} days left</RHA_UI_9428ecebd5>
+  <RHA_UI_94975c467f>Enemies are out of cast range or obstructed.</RHA_UI_94975c467f>
+  <RHA_UI_949dc9c212>Includes the current growth rate. Stacks from future hits and kills are not included in current stats.</RHA_UI_949dc9c212>
+  <RHA_UI_9505f3cab4>Stacking burn</RHA_UI_9505f3cab4>
+  <RHA_UI_9507b7bd2c>Colony ×{0}</RHA_UI_9507b7bd2c>
+  <RHA_UI_954a2b4c2c>Hit at least {0} enemies</RHA_UI_954a2b4c2c>
+  <RHA_UI_95a0ae1873>Casts: {0}</RHA_UI_95a0ae1873>
+  <RHA_UI_95c1d0bc0f> · Second phase</RHA_UI_95c1d0bc0f>
+  <RHA_UI_960536f631>Adds {0} rerolls to future drafts. The current draft's remaining rerolls do not change.</RHA_UI_960536f631>
+  <RHA_UI_961f3a5cde>Shield gained</RHA_UI_961f3a5cde>
+  <RHA_UI_962db29ce1>\nDistance, health and control bonuses apply when their conditions are met.\nOpen Augment details to inspect individual cards and relics.</RHA_UI_962db29ce1>
+  <RHA_UI_9630b9b14f>Not owned</RHA_UI_9630b9b14f>
+  <RHA_UI_96ce0020cd>Draft interval: {0} days (60 days = 1 year; one flexible ticket each time)</RHA_UI_96ce0020cd>
+  <RHA_UI_97141db55e>Full effect details  ›</RHA_UI_97141db55e>
+  <RHA_UI_97d712eea5>No augments yet. Claim a draft ticket to start a build.</RHA_UI_97d712eea5>
+  <RHA_UI_981c4e3f33>Trigger: {0}  ▾</RHA_UI_981c4e3f33>
+  <RHA_UI_9835f4f522>Damage absorbed</RHA_UI_9835f4f522>
+  <RHA_UI_9849e440ec>\nAutomatic caster on this map: {0}. All colonists share the cooldown.</RHA_UI_9849e440ec>
+  <RHA_UI_984ca9fd40>Choose a replacement inscription. Its rank, growth and awakening are retained. These offers are saved.</RHA_UI_984ca9fd40>
+  <RHA_UI_995c904572>Auto ready</RHA_UI_995c904572>
+  <RHA_UI_99f32a95e5>Stage {0} · </RHA_UI_99f32a95e5>
+  <RHA_UI_9a20bd55b9>Queued research reward: {0} → {1}. Applied according to the card's rules.</RHA_UI_9a20bd55b9>
+  <RHA_UI_9a26a14418>Continue to the next wave</RHA_UI_9a26a14418>
+  <RHA_UI_9a6c2b9621>{0} · Base cooldown {1}\n{2}{3}{4}\nAttack targets must be hostile, standing, visible through fog and meet the ability's line-of-sight rules. Injury conditions count only non-permanent wounds.</RHA_UI_9a6c2b9621>
+  <RHA_UI_9b6a1b09d2>Execution threshold</RHA_UI_9b6a1b09d2>
+  <RHA_UI_9bb690616b>My build</RHA_UI_9bb690616b>
+  <RHA_UI_9bb8350608>Group healing {0}/proc</RHA_UI_9bb8350608>
+  <RHA_UI_9bea7beb56>All abilities</RHA_UI_9bea7beb56>
+  <RHA_UI_9c1054070d>Critical bleeding</RHA_UI_9c1054070d>
+  <RHA_UI_9c77445060>Fusion · </RHA_UI_9c77445060>
+  <RHA_UI_9cca74cc41>Endless record: {0} stages cleared</RHA_UI_9cca74cc41>
+  <RHA_UI_9d68e8fc00>Deliver {0} {1}</RHA_UI_9d68e8fc00>
+  <RHA_UI_9dbcfac4d6> · Colony total</RHA_UI_9dbcfac4d6>
+  <RHA_UI_9e563a1244>Clear recent records</RHA_UI_9e563a1244>
+  <RHA_UI_9f054fffb5> · Highest stage reached: {0}</RHA_UI_9f054fffb5>
+  <RHA_UI_9f2f25a0c6>Thorns</RHA_UI_9f2f25a0c6>
+  <RHA_UI_9fecb923ba>Retreat</RHA_UI_9fecb923ba>
+  <RHA_UI_a065f38d8a>RimHex base modifiers: damage ×{0}    health ×{1}    damage taken ÷{2}    lifesteal {3}%\nPermanent steel {4}    Feast {5}    Soul marks {6}    Kills {7}    Pending bounty {8}</RHA_UI_a065f38d8a>
+  <RHA_UI_a086454266>{0} points · {1}</RHA_UI_a086454266>
+  <RHA_UI_a0ab1790da>A separate shield that blocks attacks from enemies in the current trial.</RHA_UI_a0ab1790da>
+  <RHA_UI_a0d190588f>Reforge · 100 shards</RHA_UI_a0d190588f>
+  <RHA_UI_a18d183675>Waiting to begin a prismatic trial. Requires an unroofed position and a reachable arrival area.</RHA_UI_a18d183675>
+  <RHA_UI_a19e85c07b>Three waves. Decide after each whether to continue. Failure or retreat preserves materials from completed waves. Injuries remain. After settlement, the beacon recovers for 1 day.</RHA_UI_a19e85c07b>
+  <RHA_UI_a1da1f8f51>\nAwakening progress: {0} / {1} · {2}{3}</RHA_UI_a1da1f8f51>
+  <RHA_UI_a219f72ef6>Sunfire level</RHA_UI_a219f72ef6>
+  <RHA_UI_a2e83aebaa>Current RimHex modifiers: damage ×{0} · health ×{1} · damage taken ÷{2}\nReview available evolutions and dormant abilities below. Details open the relevant page.</RHA_UI_a2e83aebaa>
+  <RHA_UI_a36f0f8d79>The existing shield is stronger. Its expiry was updated; strength did not increase.</RHA_UI_a36f0f8d79>
+  <RHA_UI_a38427065e>Recipient: {0}</RHA_UI_a38427065e>
+  <RHA_UI_a3e68bc03a>The shield has reached its conversion cap. No shield was added.</RHA_UI_a3e68bc03a>
+  <RHA_UI_a429989b8b>All augments</RHA_UI_a429989b8b>
+  <RHA_UI_a42e40e41c>Relic appearances</RHA_UI_a42e40e41c>
+  <RHA_UI_a480d94043>{0} · {1} s</RHA_UI_a480d94043>
+  <RHA_UI_a484f59c52>Prismatic chance per offer: {0}%</RHA_UI_a484f59c52>
+  <RHA_UI_a488e93d69>Source</RHA_UI_a488e93d69>
+  <RHA_UI_a5113c7461>Complete a combat contract to earn 1 personal draft ticket. Contribution, combat power and battle counts reset after the reward.</RHA_UI_a5113c7461>
+  <RHA_UI_a542603461>Choose this relic</RHA_UI_a542603461>
+  <RHA_UI_a5ae7a3710>Complete a path and choose its base evolution first. Fusions usually require two paths; ultimates require 6 distinct sources.</RHA_UI_a5ae7a3710>
+  <RHA_UI_a61898b045>Related to path includes unowned sources, evolutions, mastery cards and signature relics. Use it to find missing pieces of a build.</RHA_UI_a61898b045>
+  <RHA_UI_a62d513fa8>This definition is unavailable. Reroll another offer or reclaim the ticket for this invalid draft.</RHA_UI_a62d513fa8>
+  <RHA_UI_a635be7bcb>Recorded lifetime contributions, capped at 1 million per entry.</RHA_UI_a635be7bcb>
+  <RHA_UI_a64798e9da> · Unavailable</RHA_UI_a64798e9da>
+  <RHA_UI_a647ef5241>Burn portion</RHA_UI_a647ef5241>
+  <RHA_UI_a656ba96a0>Not worn</RHA_UI_a656ba96a0>
+  <RHA_UI_a68c86c977>No effects recorded yet.</RHA_UI_a68c86c977>
+  <RHA_UI_a6a690ed8b>Divine sundering</RHA_UI_a6a690ed8b>
+  <RHA_UI_a7106fb8e3>Effective healing</RHA_UI_a7106fb8e3>
+  <RHA_UI_a748cc074f>Details</RHA_UI_a748cc074f>
+  <RHA_UI_a7cec5b825>Forge relics</RHA_UI_a7cec5b825>
+  <RHA_UI_a7e3e918da>Effective healing {0}/200 · </RHA_UI_a7e3e918da>
+  <RHA_UI_a8328fbe5a>Prismatic relic</RHA_UI_a8328fbe5a>
+  <RHA_UI_a8913b6acb>No hostile, standing targets with valid line of sight in the affected area.</RHA_UI_a8913b6acb>
+  <RHA_UI_a89cd05765>Radiant healing</RHA_UI_a89cd05765>
+  <RHA_UI_a8c3698b5b>Disabled</RHA_UI_a8c3698b5b>
+  <RHA_UI_a8dd16585f>\nNo awakening branch chosen</RHA_UI_a8dd16585f>
+  <RHA_UI_a9008c767b>Prismatic relic · Equipment</RHA_UI_a9008c767b>
+  <RHA_UI_a9aa3e7243>Effect level {0}; {1}</RHA_UI_a9aa3e7243>
+  <RHA_UI_a9bc2bb12e>This source's definition is unavailable. The recorded name and result are shown below.</RHA_UI_a9bc2bb12e>
+  <RHA_UI_a9e5a4740f>Colonist</RHA_UI_a9e5a4740f>
+  <RHA_UI_aa4448d333> · Active</RHA_UI_aa4448d333>
+  <RHA_UI_aa9baf1b32>Colonists in range</RHA_UI_aa9baf1b32>
+  <RHA_UI_ab0dfda013>Trial shield · None</RHA_UI_ab0dfda013>
+  <RHA_UI_ab2d189afe>Optional combat records. Only events captured while recording is enabled are shown.</RHA_UI_ab2d189afe>
+  <RHA_UI_ab44241f25>No awakenable relic equipped.\nAwakenable relics: {0}. Equip one to view its growth and branches.</RHA_UI_ab44241f25>
+  <RHA_UI_ab7e26edb0>Depleted</RHA_UI_ab7e26edb0>
+  <RHA_UI_abc6d03783>Spell vamp</RHA_UI_abc6d03783>
+  <RHA_UI_abfee14b3e>{0} · Reward: {1} shards / {2} cores / {3} trial essence</RHA_UI_abfee14b3e>
+  <RHA_UI_ac351c199c>\nReduces damage taken by a nearby Soul Sovereign by 55%. Defeat the guards to remove this protection.</RHA_UI_ac351c199c>
+  <RHA_UI_ac7a4dca16>Sunfire level {0}</RHA_UI_ac7a4dca16>
+  <RHA_UI_ac83c533b8>{0}. Rewards from completed waves are kept. Open Prismatic trials to claim them.</RHA_UI_ac83c533b8>
+  <RHA_UI_ac8945fb44>{0} reward: {1} shards + {2} cores.</RHA_UI_ac8945fb44>
+  <RHA_UI_ac9b3fff59>Growth requirement unmet</RHA_UI_ac9b3fff59>
+  <RHA_UI_acb5e86ff3>The stack cap, disabled-card setting, progression sources or reward requirements may prevent selection. Check the choice button's requirement hint.</RHA_UI_acb5e86ff3>
+  <RHA_UI_acb943d689>At half health, summons two soulbound guards. The boss takes 55% less damage while a guard is nearby. Kill the guards to remove their protection; they do not expire.</RHA_UI_acb943d689>
+  <RHA_UI_ad216d570c>Burn level</RHA_UI_ad216d570c>
+  <RHA_UI_ae35fbe209> · Locked</RHA_UI_ae35fbe209>
+  <RHA_UI_af1c94e1c8>No blessing selected. Blessings affect all free colonists on the trial map during combat.</RHA_UI_af1c94e1c8>
+  <RHA_UI_af45f25ee9>Identical mechanics combine their strength and share trigger counters and intervals.</RHA_UI_af45f25ee9>
+  <RHA_UI_af6ed555d1>{0}Wave {1} / 3</RHA_UI_af6ed555d1>
+  <RHA_UI_af72db3359>Immortal shelter</RHA_UI_af72db3359>
+  <RHA_UI_b0203ca8d3>Thunder shield: base interval 500 ticks, reduced by item haste. Checks up to 16 enemies within 7 cells; grants a shield and retaliates if any are found.</RHA_UI_b0203ca8d3>
+  <RHA_UI_b02568d093>Supplies/materials gained {0}    Extra soul marks {1}</RHA_UI_b02568d093>
+  <RHA_UI_b073db9c0b>Ready</RHA_UI_b073db9c0b>
+  <RHA_UI_b0b7412494>Combat bounty completed. Kill, combat rating, battle count and time requirements met. Received one personal draft ticket.</RHA_UI_b0b7412494>
+  <RHA_UI_b0d5a60875>Next switch available in {0} days</RHA_UI_b0d5a60875>
+  <RHA_UI_b0fc3de1dd>Requires at least 10 soul marks and a completed cooldown.</RHA_UI_b0fc3de1dd>
+  <RHA_UI_b198b2bc30>Select a free colonist to inspect a build, or browse all content or a specific path.</RHA_UI_b198b2bc30>
+  <RHA_UI_b226896f52>Trial blessing shield</RHA_UI_b226896f52>
+  <RHA_UI_b228e73663>Reward: {0} shards + {1} cores</RHA_UI_b228e73663>
+  <RHA_UI_b252830f55>Cards can be disabled individually in the library. Offers, unused tickets, card stacks and growth are saved with the game.</RHA_UI_b252830f55>
+  <RHA_UI_b26ce46d17>Awakening · {0}{1}</RHA_UI_b26ce46d17>
+  <RHA_UI_b2bb3cccf5>Individual contributions</RHA_UI_b2bb3cccf5>
+  <RHA_UI_b2db54b67e>Ready to trigger</RHA_UI_b2db54b67e>
+  <RHA_UI_b336a174cd>None</RHA_UI_b336a174cd>
+  <RHA_UI_b35910ffa6>\nCombat effects are disabled. Damage still applies.</RHA_UI_b35910ffa6>
+  <RHA_UI_b36bd81e85> · Shared</RHA_UI_b36bd81e85>
+  <RHA_UI_b396984092>Cast range: {0} cells.</RHA_UI_b396984092>
+  <RHA_UI_b419a84339>Stage {0} · Blessing level {1}</RHA_UI_b419a84339>
+  <RHA_UI_b44836d168>Search relic names. Clear the search to show all.</RHA_UI_b44836d168>
+  <RHA_UI_b47277dd4b>; the boss enters its second phase at half health.</RHA_UI_b47277dd4b>
+  <RHA_UI_b475eac1f5>Personal build</RHA_UI_b475eac1f5>
+  <RHA_UI_b4c4ba82dc>Show · </RHA_UI_b4c4ba82dc>
+  <RHA_UI_b4f6cb7a23>Preferred caster: {0}  ▾</RHA_UI_b4f6cb7a23>
+  <RHA_UI_b556e7c9ba>{0} in-game hours</RHA_UI_b556e7c9ba>
+  <RHA_UI_b5a91a5f1b>Reduced particles (recommended for large battles)</RHA_UI_b5a91a5f1b>
+  <RHA_UI_b5acbd8078>Remind me of pending drafts once after loading a game</RHA_UI_b5acbd8078>
+  <RHA_UI_b5d17b7aac>{0} gained "{1}" · Stack {2}</RHA_UI_b5d17b7aac>
+  <RHA_UI_b65b6e3a2e>Shield</RHA_UI_b65b6e3a2e>
+  <RHA_UI_b66b681582>Compare the original relic and both awakenings at the same scale. Choose a branch under Relic awakening to change the item.</RHA_UI_b66b681582>
+  <RHA_UI_b6bf2aee35> · Paused off-map</RHA_UI_b6bf2aee35>
+  <RHA_UI_b78a713ee3>The target is not a standing enemy. Neutral animals, allies and downed targets do not advance hit counters.</RHA_UI_b78a713ee3>
+  <RHA_UI_b7d2d100e3>No hostile, standing targets with valid line of sight within this pulse's area.</RHA_UI_b7d2d100e3>
+  <RHA_UI_b7f5d94a5f>Relic effects apply while worn. Shared mechanics combine their strength and use shared counters and intervals. Only the selected awakening branch is active.\nSee above for values and active effects.</RHA_UI_b7f5d94a5f>
+  <RHA_UI_b8086ae255>Molten field</RHA_UI_b8086ae255>
+  <RHA_UI_b87a34448f>Requires home map</RHA_UI_b87a34448f>
+  <RHA_UI_b8899a864d>Astral protection level</RHA_UI_b8899a864d>
+  <RHA_UI_b89f4695d5>Accept bounty</RHA_UI_b89f4695d5>
+  <RHA_UI_b8c5f3d2ac>Sources were not recorded when this effect was applied, such as before loading or while recording was off.</RHA_UI_b8c5f3d2ac>
+  <RHA_UI_b93b9f6189>Salvage protection: unlocked</RHA_UI_b93b9f6189>
+  <RHA_UI_b94ca626a1> · Ready to awaken</RHA_UI_b94ca626a1>
+  <RHA_UI_b97c7c8d0d>Record {0} / {1} · {2} · Difficulty {3}{4}</RHA_UI_b97c7c8d0d>
+  <RHA_UI_b983edd291>Cooldown remaining: {0}</RHA_UI_b983edd291>
+  <RHA_UI_b9bf7958a2>: owned dormant ability becomes active</RHA_UI_b9bf7958a2>
+  <RHA_UI_ba07d99f75>Search ability names, paths or effects. Clear to show all.</RHA_UI_ba07d99f75>
+  <RHA_UI_ba1e87d0e7>Trial boss</RHA_UI_ba1e87d0e7>
+  <RHA_UI_ba6403d228>Cooling down</RHA_UI_ba6403d228>
+  <RHA_UI_ba76430188>Manual casting is selected. Enable automatic casting to configure its conditions.</RHA_UI_ba76430188>
+  <RHA_UI_badfcc5ad2>Reward recipient: {0}</RHA_UI_badfcc5ad2>
+  <RHA_UI_baeeaa3325>Cooldown {0}</RHA_UI_baeeaa3325>
+  <RHA_UI_bafc037ece>Requires a home-map colonist</RHA_UI_bafc037ece>
+  <RHA_UI_bb69afab35>Spell adaptation</RHA_UI_bb69afab35>
+  <RHA_UI_bbb72f61f1>Gold</RHA_UI_bbb72f61f1>
+  <RHA_UI_bbcd9d3fbf>{0}\nManual: {1}\nAutomatic: {2}</RHA_UI_bbcd9d3fbf>
+  <RHA_UI_bc0195530e>Soul marks per kill</RHA_UI_bc0195530e>
+  <RHA_UI_bc083d7cb4>Critical bleeding: critical hits apply 6 pulses, one per second. Stacks from the same attacker accumulate and refresh under the same rules as stacking burns.</RHA_UI_bc083d7cb4>
+  <RHA_UI_bcb7bece35>Chain level {0} · Valid hits {1}/3 · Need {2} more\nWithin {3} cells of the target; up to {4} other standing enemies. Neutral animals and training targets do not trigger it.</RHA_UI_bcb7bece35>
+  <RHA_UI_bcf16aa5e9>Status</RHA_UI_bcf16aa5e9>
+  <RHA_UI_bd6c22c940> · {0} waves cleared</RHA_UI_bd6c22c940>
+  <RHA_UI_bd8525e59f>At half health, ignites three molten fields in sequence toward its target. Each lasts 5 seconds. Ground markers show their positions and time to detonation.</RHA_UI_bd8525e59f>
+  <RHA_UI_bd94f8d558>"{0}" handles automatic casting for this shared ability.</RHA_UI_bd94f8d558>
+  <RHA_UI_bd9a49a6bb>No guaranteed immediate stat changes.</RHA_UI_bd9a49a6bb>
+  <RHA_UI_be627f295d>{0}\n{1}\nCombat objectives use bounty eligibility rules. Prisoners, ordinary animals, downed targets and repeated kills after resurrection do not count. Path inscriptions are not card or relic sources for evolution.</RHA_UI_be627f295d>
+  <RHA_UI_be964ee5da>Chain lightning triggers every 3 valid direct hits and strikes other standing enemies within {0} cells of the target. Neutral animals and training targets do not count.</RHA_UI_be964ee5da>
+  <RHA_UI_bec799071c>No colonists</RHA_UI_bec799071c>
+  <RHA_UI_bf49fc267f>Preview for: {0}</RHA_UI_bf49fc267f>
+  <RHA_UI_bfa50d17d6>\nGambler's deposit </RHA_UI_bfa50d17d6>
+  <RHA_UI_bfbbf14f53>Chain {0}/3 · </RHA_UI_bfbbf14f53>
+  <RHA_UI_bfd605397b> / 60 (at most one portion spent per hit)</RHA_UI_bfd605397b>
+  <RHA_UI_bfe0ce72df>\nAwakening branch can be changed</RHA_UI_bfe0ce72df>
+  <RHA_UI_c0cd72fc51>Base cooldown: {0}</RHA_UI_c0cd72fc51>
+  <RHA_UI_c164e7acf0>Close-range damage +{0}%</RHA_UI_c164e7acf0>
+  <RHA_UI_c17f90a709>Start endless trial "</RHA_UI_c17f90a709>
+  <RHA_UI_c180045664>New arrival: {0} has joined the colony.</RHA_UI_c180045664>
+  <RHA_UI_c1e8cbd0c9>Wave exceeded its 1-day limit</RHA_UI_c1e8cbd0c9>
+  <RHA_UI_c25c4e7aa2>No pending damage.</RHA_UI_c25c4e7aa2>
+  <RHA_UI_c3a3a0fc0c>Trial blessings (active only during combat on this trial map)\n{0}\nValid hits {1} · Ranged hits {2}\nMovement charge {3} / 8 · Soul array kills {4} / 3\nBlood tide charge {5} / 100 · Aftershock charge {6} / 150\n{7} · Frenzy: {8} s remaining</RHA_UI_c3a3a0fc0c>
+  <RHA_UI_c3faf13a28>Lifesteal healing (including excess)</RHA_UI_c3faf13a28>
+  <RHA_UI_c4440e9511>Not triggered</RHA_UI_c4440e9511>
+  <RHA_UI_c4455a7997>Out-of-combat shield</RHA_UI_c4455a7997>
+  <RHA_UI_c49d8bb973>Augment available</RHA_UI_c49d8bb973>
+  <RHA_UI_c49e9dd826>Continue to wave {0}</RHA_UI_c49e9dd826>
+  <RHA_UI_c4f6e15b87>Ongoing effects · {0} active</RHA_UI_c4f6e15b87>
+  <RHA_UI_c52ac20965>Recent triggers</RHA_UI_c52ac20965>
+  <RHA_UI_c5b373b210>Elite vanguard: all regular enemies gain elite abilities</RHA_UI_c5b373b210>
+  <RHA_UI_c5b8e8a600>Inscribe "{0}"</RHA_UI_c5b8e8a600>
+  <RHA_UI_c5cd7d174c>A flexible draft ticket has arrived. Choose from colony, personal or relic cards in the RimHex tab.</RHA_UI_c5cd7d174c>
+  <RHA_UI_c5cfbd1049>This map has reached its persistent ability limit.</RHA_UI_c5cfbd1049>
+  <RHA_UI_c62351fc6f>Steel +{0} / {1}</RHA_UI_c62351fc6f>
+  <RHA_UI_c692f9e590>Show combat text, including critical hits and steel marks</RHA_UI_c692f9e590>
+  <RHA_UI_c6f661b16a>Assault formation: enemies deal 25% more damage; ability intervals reduced by 20%</RHA_UI_c6f661b16a>
+  <RHA_UI_c6f8784544>Evolution disabled</RHA_UI_c6f8784544>
+  <RHA_UI_c6fb24b1fc>Automatic casting while drafted only</RHA_UI_c6fb24b1fc>
+  <RHA_UI_c720d3a331>Tap dancer</RHA_UI_c720d3a331>
+  <RHA_UI_c74bace108>: prerequisites met, but disabled in the card pool</RHA_UI_c74bace108>
+  <RHA_UI_c7c26b7c9b>Path sources</RHA_UI_c7c26b7c9b>
+  <RHA_UI_c7cad990a5>Totals bonus damage, effective healing and shield absorption. Stat bonuses and shared burns are not listed separately. Each total is capped at one million.</RHA_UI_c7cad990a5>
+  <RHA_UI_c81995fafd>Healing</RHA_UI_c81995fafd>
+  <RHA_UI_c82a052419>Salvage for 100 shards</RHA_UI_c82a052419>
+  <RHA_UI_c848d9d4c6>Triggers</RHA_UI_c848d9d4c6>
+  <RHA_UI_c85e40eb8d>   Soul marks </RHA_UI_c85e40eb8d>
+  <RHA_UI_c907d96b42>{0} · Click for definition</RHA_UI_c907d96b42>
+  <RHA_UI_c98ce1ebe0>Hide · </RHA_UI_c98ce1ebe0>
+  <RHA_UI_c994f9940f>\nStored blood </RHA_UI_c994f9940f>
+  <RHA_UI_c997444643>Active</RHA_UI_c997444643>
+  <RHA_UI_c9a23ceafa>Stacking effects retain sources from earlier applications. Unrecorded sources and entries beyond the display limit cannot be expanded.</RHA_UI_c9a23ceafa>
+  <RHA_UI_c9ace55ddd>Out-of-combat shield: after at least 300 ticks without injury, a periodic check refreshes a shield lasting 500 ticks.</RHA_UI_c9ace55ddd>
+  <RHA_UI_ca440bdf1b>Detonation: every 4 valid hits, strikes up to 20 enemies within 4.5 cells of the impact.</RHA_UI_ca440bdf1b>
+  <RHA_UI_cab1db678f>Sources at time of trigger · {0}  ›</RHA_UI_cab1db678f>
+  <RHA_UI_cb14f172c8>This hit dealt no damage.</RHA_UI_cb14f172c8>
+  <RHA_UI_cb4dfe6597>Conditions met. Waiting for the next automatic check (up to about 1 second).</RHA_UI_cb4dfe6597>
+  <RHA_UI_cb93855de4>Group shield: checks its cooldown every 750 ticks. Refreshes shields on up to 12 colonists within 10 cells, lasting 750 ticks.</RHA_UI_cb93855de4>
+  <RHA_UI_cbab3b3ea9> · Colony-wide cooldown</RHA_UI_cbab3b3ea9>
+  <RHA_UI_cbaf00002f>Cooldown divisor</RHA_UI_cbaf00002f>
+  <RHA_UI_cbd420ca40>Compare original and awakened appearances</RHA_UI_cbd420ca40>
+  <RHA_UI_cbe3ea512f>Elite abilities: {0}</RHA_UI_cbe3ea512f>
+  <RHA_UI_cc24d74847>Current appearance</RHA_UI_cc24d74847>
+  <RHA_UI_cd72aa2227>Magic missiles</RHA_UI_cd72aa2227>
+  <RHA_UI_cdb0da18b9>Cards chosen {0}    Enemies defeated {1}{2}Next draft in {3} days</RHA_UI_cdb0da18b9>
+  <RHA_UI_cdb65d0422>Lightning radius increases to 10 cells.</RHA_UI_cdb65d0422>
+  <RHA_UI_cde91b8478>Arrival failed; wave cancelled</RHA_UI_cde91b8478>
+  <RHA_UI_ce8b25617d>Each pulse deals an additional 600 damage to the strongest enemy in range.</RHA_UI_ce8b25617d>
+  <RHA_UI_cf79dbe2a4>\n\nDamage over time received:\n{0}</RHA_UI_cf79dbe2a4>
+  <RHA_UI_cfbf7806e8>Need {0} more sources</RHA_UI_cfbf7806e8>
+  <RHA_UI_cfdc2d497a>{0}'s "{1}" is ready to awaken. Choose a branch in the RimHex build panel.</RHA_UI_cfdc2d497a>
+  <RHA_UI_cfdc74bd41>Symphony</RHA_UI_cfdc74bd41>
+  <RHA_UI_d1260f7e4a>Kept the existing inscription. Reforge costs are not refunded.</RHA_UI_d1260f7e4a>
+  <RHA_UI_d164a30704>Regular enemies</RHA_UI_d164a30704>
+  <RHA_UI_d18556ff08>Valid hits {0} / {1} · </RHA_UI_d18556ff08>
+  <RHA_UI_d249826b96>Claim rewards and leave</RHA_UI_d249826b96>
+  <RHA_UI_d293521dd1>Relic / {0}</RHA_UI_d293521dd1>
+  <RHA_UI_d342b2ea7c>{0} · Level {1}</RHA_UI_d342b2ea7c>
+  <RHA_UI_d34629250d>Chain · {0}/3 hits · {1} cells</RHA_UI_d34629250d>
+  <RHA_UI_d3747fd83c>Actual damage {0}</RHA_UI_d3747fd83c>
+  <RHA_UI_d428e7ca73>Shards {0}   Cores {1}   Trial essence {2}</RHA_UI_d428e7ca73>
+  <RHA_UI_d45aeafaa0>Requires a colonist in range with treatable injuries and health below the threshold.</RHA_UI_d45aeafaa0>
+  <RHA_UI_d4ad7fe948>RimHex</RHA_UI_d4ad7fe948>
+  <RHA_UI_d4e6744d5c>Daily supplies +{0}</RHA_UI_d4e6744d5c>
+  <RHA_UI_d52a0a1e0d>No prismatic relics worn</RHA_UI_d52a0a1e0d>
+  <RHA_UI_d5be729240>Leaves a molten field with an 8-cell radius. Deals 160 + 40 × health scale damage each second for 4 pulses.</RHA_UI_d5be729240>
+  <RHA_UI_d5c0eeafaa>\nBase damage taken ÷</RHA_UI_d5c0eeafaa>
+  <RHA_UI_d5c451dd78>No new cards are available. The reroll was not spent.</RHA_UI_d5c451dd78>
+  <RHA_UI_d5de9db2b4>This page describes the source. Open it from a selected colonist's library or abilities to see current stacks, equipment and availability.</RHA_UI_d5de9db2b4>
+  <RHA_UI_d60387c236>Forge · 400 shards + 1 core</RHA_UI_d60387c236>
+  <RHA_UI_d615752e50>Abandon · 3-day wait</RHA_UI_d615752e50>
+  <RHA_UI_d62e64a050>Clear filters</RHA_UI_d62e64a050>
+  <RHA_UI_d633181fb2>Salvage protection: locked</RHA_UI_d633181fb2>
+  <RHA_UI_d6a754e3c1>Group healing</RHA_UI_d6a754e3c1>
+  <RHA_UI_d6e099a9b2>Colony-wide cooldown</RHA_UI_d6e099a9b2>
+  <RHA_UI_d6f2f1ffbf>\nAwakened: {0} — {1}</RHA_UI_d6f2f1ffbf>
+  <RHA_UI_d70c98b6bd>No relics available.\nLists unforbidden relics on home maps and relics worn by colonists there.</RHA_UI_d70c98b6bd>
+  <RHA_UI_d79b1d0e5c>Ended</RHA_UI_d79b1d0e5c>
+  <RHA_UI_d7c50cf70d>Base damage</RHA_UI_d7c50cf70d>
+  <RHA_UI_d7ccbd1816>Show combat effects, chain lightning, abilities and shields</RHA_UI_d7ccbd1816>
+  <RHA_UI_d81a8453a1>Locked: complete the corresponding trial to craft.</RHA_UI_d81a8453a1>
+  <RHA_UI_d842c82450>The chosen area or beam would hit fewer than {0} enemies.</RHA_UI_d842c82450>
+  <RHA_UI_d85db25732>Base group shield increases to 900; radius increases to 18 cells.</RHA_UI_d85db25732>
+  <RHA_UI_d908d3fd58>Tier: all</RHA_UI_d908d3fd58>
+  <RHA_UI_d9fee01525>No owned or eligible advanced abilities</RHA_UI_d9fee01525>
+  <RHA_UI_da5dbaa78c>Active paths</RHA_UI_da5dbaa78c>
+  <RHA_UI_db07851896>Claim materials from cleared rounds and end this run. Relic rewards require a full stage clear.</RHA_UI_db07851896>
+  <RHA_UI_db4517d744>Choose path evolutions on the Path evolution page.</RHA_UI_db4517d744>
+  <RHA_UI_db5b02dba3>Fusions &amp; ultimates</RHA_UI_db5b02dba3>
+  <RHA_UI_db60d1fd20>This card definition is unavailable.</RHA_UI_db60d1fd20>
+  <RHA_UI_db74849eb9>Cleave targets hit</RHA_UI_db74849eb9>
+  <RHA_UI_db7a6f4849>{0}'s Dragonheart gained dragon soul level {1}.</RHA_UI_db7a6f4849>
+  <RHA_UI_db9773faa3>Choose automatically</RHA_UI_db9773faa3>
+  <RHA_UI_dbfad0f243>The arrival area is blocked. Clear a path first.</RHA_UI_dbfad0f243>
+  <RHA_UI_dc7a2b8283>\nNeed {0} more sources. Available: {1}</RHA_UI_dc7a2b8283>
+  <RHA_UI_dc89fbcedd>Feast recovery</RHA_UI_dc89fbcedd>
+  <RHA_UI_dc97bd2bf6>Activation and stacking</RHA_UI_dc97bd2bf6>
+  <RHA_UI_dccdd8d73c>Shield strength gained. Damage blocked is recorded separately as absorption.</RHA_UI_dccdd8d73c>
+  <RHA_UI_dcd00b9ab6>Enemies remaining: {0} · Time left: {1} days</RHA_UI_dcd00b9ab6>
+  <RHA_UI_dd53057bb9>Chain targets found; damage resolves for each target.</RHA_UI_dd53057bb9>
+  <RHA_UI_ddbb7bdf73>Prerequisites unmet</RHA_UI_ddbb7bdf73>
+  <RHA_UI_ddd6fa9105>Unawakened</RHA_UI_ddd6fa9105>
+  <RHA_UI_de3c9fbb1a>Attack cooldown divisor per combo hit +{0}</RHA_UI_de3c9fbb1a>
+  <RHA_UI_df7a0b83fe>Automatic casting: on</RHA_UI_df7a0b83fe>
+  <RHA_UI_dfa2971883>Defenders can no longer fight</RHA_UI_dfa2971883>
+  <RHA_UI_dfb802238b>Enabled</RHA_UI_dfb802238b>
+  <RHA_UI_dfce60e268>Radiant health</RHA_UI_dfce60e268>
+  <RHA_UI_dfd7c383ab>Effective healing {0}/120 · </RHA_UI_dfd7c383ab>
+  <RHA_UI_dfeb36ab56>Cards include colony and selected-colonist augments. Equipment includes worn relics. Disabling a card affects future draws only.</RHA_UI_dfeb36ab56>
+  <RHA_UI_dff74742a6>Another </RHA_UI_dff74742a6>
+  <RHA_UI_e010f4eec9>Available sources: {0}</RHA_UI_e010f4eec9>
+  <RHA_UI_e0466e937e>Enemy nearby</RHA_UI_e0466e937e>
+  <RHA_UI_e0534b8a4e>Regeneration</RHA_UI_e0534b8a4e>
+  <RHA_UI_e0d4ae93dc>Ascension!</RHA_UI_e0d4ae93dc>
+  <RHA_UI_e1450b9285>Excess healing converted to shield</RHA_UI_e1450b9285>
+  <RHA_UI_e14ec1f4c9>Wave {0} begins in 15 seconds.</RHA_UI_e14ec1f4c9>
+  <RHA_UI_e1a27cfe53>Enable recording</RHA_UI_e1a27cfe53>
+  <RHA_UI_e1c88a657a>Bounty per kill</RHA_UI_e1c88a657a>
+  <RHA_UI_e22f158822>Path: current build</RHA_UI_e22f158822>
+  <RHA_UI_e2680759a5>Carnivore growth</RHA_UI_e2680759a5>
+  <RHA_UI_e2b29327eb>Target, stack limit or reward pool requirements are not met. Select another target or reroll.</RHA_UI_e2b29327eb>
+  <RHA_UI_e2c4c69327>(dormant: missing sources)</RHA_UI_e2c4c69327>
+  <RHA_UI_e3a72f9999>\n{0} more ongoing effects. All are included in the status bar total.</RHA_UI_e3a72f9999>
+  <RHA_UI_e3cd2b2169>Preview built around powerful, stacking augments. Feedback on builds and progression is welcome.</RHA_UI_e3cd2b2169>
+  <RHA_UI_e3da6bea14>Forged "{0}" and delivered it near {1}.</RHA_UI_e3da6bea14>
+  <RHA_UI_e3fe0228ca>Minimum reward interval: {0} days (also applies to the first reward)</RHA_UI_e3fe0228ca>
+  <RHA_UI_e43f3c910f>Definition unavailable. Stacks remain in the save.</RHA_UI_e43f3c910f>
+  <RHA_UI_e458a72f51>Next pulse: {0}</RHA_UI_e458a72f51>
+  <RHA_UI_e48162b986>Soul marks +{0}/kill</RHA_UI_e48162b986>
+  <RHA_UI_e4d1e567b8>Dormant: </RHA_UI_e4d1e567b8>
+  <RHA_UI_e514a00599>Divine sundering: valid hits trigger damage and healing. Base interval 2 seconds, reduced by item haste.</RHA_UI_e514a00599>
+  <RHA_UI_e5693a08ac>Healing increases to 450. All free colonists on the map gain a 500-point shield for 12 seconds.</RHA_UI_e5693a08ac>
+  <RHA_UI_e5eedf8021>Worn relic awakenings</RHA_UI_e5eedf8021>
+  <RHA_UI_e63d47eac6>Show all results</RHA_UI_e63d47eac6>
+  <RHA_UI_e63f8a23c0>Rewards claimed early</RHA_UI_e63f8a23c0>
+  <RHA_UI_e64a73768e>(active)</RHA_UI_e64a73768e>
+  <RHA_UI_e67ac2b3df>Trial phantom</RHA_UI_e67ac2b3df>
+  <RHA_UI_e68f71cae3>Beam: 3 cells wide, 36 cells long. Hits up to 16 enemies.</RHA_UI_e68f71cae3>
+  <RHA_UI_e6fc16c9cd>Three waves cleared</RHA_UI_e6fc16c9cd>
+  <RHA_UI_e71a74c0c6>Choose the first blessing to begin the 30-second preparation period.</RHA_UI_e71a74c0c6>
+  <RHA_UI_e770a61a34>Triggered effect, growth or reward · Click for details</RHA_UI_e770a61a34>
+  <RHA_UI_e79ea3031f>Choose a blessing to begin the arrival countdown</RHA_UI_e79ea3031f>
+  <RHA_UI_e7d9e09a1f>Shield gained from overhealing; it does not count as healing.</RHA_UI_e7d9e09a1f>
+  <RHA_UI_e85766a957>Claim materials and selected relic</RHA_UI_e85766a957>
+  <RHA_UI_e8892fab50>\nOnly direct damage to standing enemies counts, at most once every 0.17 seconds.</RHA_UI_e8892fab50>
+  <RHA_UI_e895645d4f>Relic awakening</RHA_UI_e895645d4f>
+  <RHA_UI_e89ed53342>\nFirst awakening costs {0} trial essence; available: {1}</RHA_UI_e89ed53342>
+  <RHA_UI_e8f2a86dd3>Trial elite · {0}</RHA_UI_e8f2a86dd3>
+  <RHA_UI_e93ee3c13b>Colonist: {0}</RHA_UI_e93ee3c13b>
+  <RHA_UI_ea27870821>\nSalvage protection: locked</RHA_UI_ea27870821>
+  <RHA_UI_eab6b4fad8>Chain hits</RHA_UI_eab6b4fad8>
+  <RHA_UI_eaddc46783>Consume 10–50 soul marks to deal 30 damage per mark to up to 16 enemies within 16 cells. Cooldown: 10 seconds.</RHA_UI_eaddc46783>
+  <RHA_UI_eaf9296c35>Enter a game to choose augments.</RHA_UI_eaf9296c35>
+  <RHA_UI_eb07f9ad60>Ability on cooldown, or the wearer cannot act.</RHA_UI_eb07f9ad60>
+  <RHA_UI_eb3ac97524>Available rewards: {0} shards / {1} cores / {2} trial essence. Completed {3} stages; record: {4} stages.</RHA_UI_eb3ac97524>
+  <RHA_UI_eb5248a435>Burn damage</RHA_UI_eb5248a435>
+  <RHA_UI_eb64eb372e>Bounty "{0}" completed. Claim the materials under Bounties.</RHA_UI_eb64eb372e>
+  <RHA_UI_ebbc499fc3>Claim materials</RHA_UI_ebbc499fc3>
+  <RHA_UI_ec38ffb281>Owned: {0}</RHA_UI_ec38ffb281>
+  <RHA_UI_ec3949abb5>Valid kills {0} · Combat rating {1} · Separate battles {2}</RHA_UI_ec3949abb5>
+  <RHA_UI_ec394ce96b>{0} s ago{1}</RHA_UI_ec394ce96b>
+  <RHA_UI_ec607bad90>Current awakening</RHA_UI_ec607bad90>
+  <RHA_UI_ecb3d554ce>{0} h</RHA_UI_ecb3d554ce>
+  <RHA_UI_ed118205a7>Show free draft buttons</RHA_UI_ed118205a7>
+  <RHA_UI_ed93ade7e8>Steel marks per proc +{0}</RHA_UI_ed93ade7e8>
+  <RHA_UI_ee004193e5>Cleared {0} rounds. Claim {1} shards, {2} cores and {3} trial essence.\nContinuing keeps materials already earned. They are paid once on settlement.</RHA_UI_ee004193e5>
+  <RHA_UI_ef48d32a37>Undelivered supplies from Golden Edict are queued and will arrive when space is available at home.</RHA_UI_ef48d32a37>
+  <RHA_UI_ef677c24e0>Card library</RHA_UI_ef677c24e0>
+  <RHA_UI_ef8175241a>When ready</RHA_UI_ef8175241a>
+  <RHA_UI_f03b436a5c>Includes random attributes, additional draws or draft rewards. This preview shows only the guaranteed changes; other rewards are determined on selection.</RHA_UI_f03b436a5c>
+  <RHA_UI_f0f77eae7c>Removed card</RHA_UI_f0f77eae7c>
+  <RHA_UI_f100d3baf5>Production abilities cast automatically only on player home maps.</RHA_UI_f100d3baf5>
+  <RHA_UI_f1460dc61b>Missing cards and relics: hover for the full list.</RHA_UI_f1460dc61b>
+  <RHA_UI_f16922661c>Choose augment</RHA_UI_f16922661c>
+  <RHA_UI_f18501ebe9>Silver delivered {0} · Gold {1}</RHA_UI_f18501ebe9>
+  <RHA_UI_f2a55b3bf5>Steadfast recovery</RHA_UI_f2a55b3bf5>
+  <RHA_UI_f3555fef9c>A player map with a colonist is needed to receive this relic. Your draft has been saved.</RHA_UI_f3555fef9c>
+  <RHA_UI_f35c0451ef>Maximum {0} stacks.</RHA_UI_f35c0451ef>
+  <RHA_UI_f3890b2771>{0} · {1} · Difficulty {2}</RHA_UI_f3890b2771>
+  <RHA_UI_f3a781ff28>Valid hits {0}/{1} · </RHA_UI_f3a781ff28>
+  <RHA_UI_f3e3807df9>Show up to {0} relics per colonist (all worn relics still apply)</RHA_UI_f3e3807df9>
+  <RHA_UI_f42e8f0fd5>Ultimate · </RHA_UI_f42e8f0fd5>
+  <RHA_UI_f4cb8b9e46>{0}{1} · Wave {2} · {3} enemies\nKinds: {4}; elites: {5}\n{6}\n{7} Health ×{8}{9}\nTotal reward after this wave: {10} shards / {11} cores / {12} trial essence</RHA_UI_f4cb8b9e46>
+  <RHA_UI_f55733da9a>Supplies delivered. Claim your bounty reward.</RHA_UI_f55733da9a>
+  <RHA_UI_f589c62d4f>Lifesteal {0}%</RHA_UI_f589c62d4f>
+  <RHA_UI_f5aeecb1c5>No matches. Clear the filters or choose another colonist or path. The Dormant filter shows owned cards with unmet source requirements.</RHA_UI_f5aeecb1c5>
+  <RHA_UI_f5ffdd383d>Upgrade to level {0}</RHA_UI_f5ffdd383d>
+  <RHA_UI_f66683a34b>Wave complete. Continue or claim rewards.</RHA_UI_f66683a34b>
+  <RHA_UI_f6814fea99>Active</RHA_UI_f6814fea99>
+  <RHA_UI_f6ead54c97>{0} · {1} augment\n{2} {3}</RHA_UI_f6ead54c97>
+  <RHA_UI_f7e09c0164>Evolution available</RHA_UI_f7e09c0164>
+  <RHA_UI_f7fceef31d>Source information  ›</RHA_UI_f7fceef31d>
+  <RHA_UI_f8022ab9ce>"{0}" reached rank {1}. Effects stack with each rank.</RHA_UI_f8022ab9ce>
+  <RHA_UI_f88a7fd436>Moonlight attack speed</RHA_UI_f88a7fd436>
+  <RHA_UI_f892a8c170>Contributions</RHA_UI_f892a8c170>
+  <RHA_UI_f8caee7f66>Up to 16 enemies per pulse.</RHA_UI_f8caee7f66>
+  <RHA_UI_f938e2ced5>Personal ×{0}</RHA_UI_f938e2ced5>
+  <RHA_UI_f9ed75c850>Choose a relic from this trial and collect your rewards.</RHA_UI_f9ed75c850>
+  <RHA_UI_fa42bb39d6>Eligible enemies in search range: {0}/{1}. Enemy count requirement unmet.</RHA_UI_fa42bb39d6>
+  <RHA_UI_fac263d815>Choose a base evolution for {0} and maintain {1} sources.\nCurrently {2}/{3}. See Path evolution for missing sources.</RHA_UI_fac263d815>
+  <RHA_UI_fb84ee67eb>{0}{1}" at difficulty {2}?\n{3}You can claim rewards and leave after each wave. Injuries are real and remain afterward.</RHA_UI_fb84ee67eb>
+  <RHA_UI_fb8be06b1a>Gain 30 soul marks on cast, immediately included in this ability's damage.</RHA_UI_fb8be06b1a>
+  <RHA_UI_fbdc35f1d3>Chain targets hit</RHA_UI_fbdc35f1d3>
+  <RHA_UI_fbf3951a8e>Personal cooldown</RHA_UI_fbf3951a8e>
+  <RHA_UI_fca329a7e5>Choose blessing</RHA_UI_fca329a7e5>
+  <RHA_UI_fca5aea84d>Unavailable</RHA_UI_fca5aea84d>
+  <RHA_UI_fcd90615aa>Equip an awakenable relic on this colonist. Using it will build its growth progress.</RHA_UI_fcd90615aa>
+  <RHA_UI_fcda9133fa>Movement healing</RHA_UI_fcda9133fa>
+  <RHA_UI_fce1880f7b>No awakenable relics worn</RHA_UI_fce1880f7b>
+  <RHA_UI_fd81420018>Damage cap per hit: {0}</RHA_UI_fd81420018>
+  <RHA_UI_fd896e92a0>Select a free colonist to view abilities.</RHA_UI_fd896e92a0>
+  <RHA_UI_fd960fbe99>Build status · {0}</RHA_UI_fd960fbe99>
+  <RHA_UI_fe201ce3e0>Growth per kill +{0}</RHA_UI_fe201ce3e0>
+  <RHA_UI_fecac3fff3>Choose "{0}"</RHA_UI_fecac3fff3>
+  <RHA_UI_fed895a557>This trial theme is unavailable. Rewards are retained.</RHA_UI_fed895a557>
+  <RHA_UI_ff80260113>See Augment details for the remaining relics.\n</RHA_UI_ff80260113>
+  <RHA_UI_ff8b41c0b4>    Incomplete</RHA_UI_ff8b41c0b4>
+  <RHA_UI_ffdcf6bcb5>Next bounty in {0} days</RHA_UI_ffdcf6bcb5>
+</LanguageData>

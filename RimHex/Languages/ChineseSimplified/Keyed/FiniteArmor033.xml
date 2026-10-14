@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RHA_FA033_Sample>有限装甲样板</RHA_FA033_Sample>
+  <RHA_FA033_Stopped>已终止</RHA_FA033_Stopped>
+  <RHA_FA033_Armored>自身装甲保护</RHA_FA033_Armored>
+  <RHA_FA033_Exposed>自身装甲耗尽</RHA_FA033_Exposed>
+  <RHA_FA033_PreparePhase>整备中</RHA_FA033_PreparePhase>
+  <RHA_FA033_Preparing>整备中 · {0}秒 · 可打断</RHA_FA033_Preparing>
+  <RHA_FA033_Interrupted>整备已打断</RHA_FA033_Interrupted>
+  <RHA_FA033_Restored>装甲恢复：{0}</RHA_FA033_Restored>
+  <RHA_FA033_ArmorStatus>装甲：{0}</RHA_FA033_ArmorStatus>
+  <RHA_FA033_ArmorCapacityStatus>自身装甲：{0} / {1}</RHA_FA033_ArmorCapacityStatus>
+  <RHA_FA033_ExposureStatus>自身装甲耗尽 · 至少暴露 {0}秒</RHA_FA033_ExposureStatus>
+  <RHA_FA033_RecoveryOutcomes>恢复 {0}次 · 打断 {1}次 · 作废恢复量 {2}</RHA_FA033_RecoveryOutcomes>
+  <RHA_FA033_PreparationStatus>整备 {0}秒 · 打断伤势 {1}/{2}</RHA_FA033_PreparationStatus>
+  <RHA_FA033_RecoveryStatus>整备余 {0}次 · 待用 {1} · 预留 {2}</RHA_FA033_RecoveryStatus>
+  <RHA_FA033_ForfeitStatus>已作废恢复量：{0}</RHA_FA033_ForfeitStatus>
+  <RHA_FA033_Help>仅供开发验证的独立样板。将原有自身屏障预算分为60%初始装甲和最多两次、每次20%的恢复。有限预算只约束自身装甲，外部支援屏障仍按原规则结算。溢出继续原伤害链，自身装甲耗尽不保证跳过其它防御。破甲后完整暴露4秒，再进入3秒整备，均按游戏时间计；眩晕、破势或足量真实伤势可以打断整备，本次预留恢复量不退还。破势可提前破甲。此独立样板在装甲期沿用现有斩杀破防规则，暴露和整备期可正常斩杀。无需固定循环，不额外无敌或易伤。整备期间停止未发出的普通射击，已在飞行的弹丸保留。死亡、倒地、离图、俘虏或移除来源会终止全部恢复。</RHA_FA033_Help>
+  <RHA_FA033_Pool>自身装甲：{0} / {1}。未预留恢复量：{2}；本次预留：{3}；剩余整备次数：{4}。实际恢复累计：{5} / {6}。</RHA_FA033_Pool>
+  <RHA_FA033_Ledger>已消耗或丢弃的装甲：{0}；已作废恢复量：{1}。</RHA_FA033_Ledger>
+  <RHA_FA033_External>当前外部支援屏障：{0}。它独立于自身装甲预算，可先击破或打断支援单位。</RHA_FA033_External>
+  <RHA_FA033_PrepareDetails>距离恢复：{0}秒；打断所需真实伤势：{1} / {2}。</RHA_FA033_PrepareDetails>
+  <RHA_FA033_ExposureDetails>最早可开始下一次整备：{0}秒。</RHA_FA033_ExposureDetails>
+  <RHA_FA033_Permanent>恢复预算已耗尽，持续暴露。</RHA_FA033_Permanent>
+  <RHA_FA033_Busy>请先完成并关闭当前试炼，再生成独立装甲样板。</RHA_FA033_Busy>
+  <RHA_FA033_OneSample>请先移除本地图已有装甲样板，再生成新的目标。</RHA_FA033_OneSample>
+  <RHA_FA033_Spawned>已显式生成有限装甲样板。可查看健康页与预警圈；生成种子33001。</RHA_FA033_Spawned>
+  <RHA_FA033_OnlyForge>仅限普通一阶锻炉试炼。</RHA_FA033_OnlyForge>
+  <RHA_FA033_VariantConflict>有限装甲不能与战斗变体同时启用。</RHA_FA033_VariantConflict>
+  <RHA_FA033_RequiresRules>开启挑战规则后才能选择有限装甲。</RHA_FA033_RequiresRules>
+  <RHA_FA033_StaleStart>试炼确认已过期，请重新确认。</RHA_FA033_StaleStart>
+  <RHA_FA033_ContractInvalid>有限装甲遭遇状态失效，后续恢复已停止。</RHA_FA033_ContractInvalid>
+  <RHA_FA033_ModeClassic>经典</RHA_FA033_ModeClassic>
+  <RHA_FA033_ModeFinite>有限装甲</RHA_FA033_ModeFinite>
+  <RHA_FA033_ModeCaption>首领装甲模式</RHA_FA033_ModeCaption>
+  <RHA_FA033_ModeHint>仅普通一阶锻炉试炼的第三波首领使用有限装甲。外部支援护盾独立结算，奖励沿用原规则。</RHA_FA033_ModeHint>
+  <RHA_FA033_ModeConfirm>首领初始自身装甲 {0}，最多恢复两次，每次 {1}。破甲后暴露4秒，再整备3秒；受到 {2} 实际伤势、眩晕或破势会打断整备，作废该次预留。外部支援仍可能吸收伤害。</RHA_FA033_ModeConfirm>
+  <RHA_FA033_Formal>自身有限装甲</RHA_FA033_Formal>
+  <RHA_FA033_FormalHelp>有限装甲替换本首领自身屏障。恢复不治疗伤势，打断后预留作废；外部支援护盾不计入此预算。</RHA_FA033_FormalHelp>
+  <RHA_FA033_IndependentProtection>首领的独立保护仍会阻止斩杀。</RHA_FA033_IndependentProtection>
+</LanguageData>

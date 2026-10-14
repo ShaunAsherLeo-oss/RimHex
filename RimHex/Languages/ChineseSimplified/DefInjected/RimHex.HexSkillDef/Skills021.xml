@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_Skill_Spin021.label>风暴旋转</RHA_Skill_Spin021.label>
+  <RHA_Skill_Spin021.description>启动旋转。前 3 秒免费，之后每 0.5 秒消耗 8 点护盾，最多持续 12 秒。移动不打断旋转；停留扩大范围。</RHA_Skill_Spin021.description>
+  <RHA_Skill_Finish021.label>收势反击</RHA_Skill_Finish021.label>
+  <RHA_Skill_Finish021.description>手动结束旋转，向指定敌人释放积蓄的力量。伤害随已完成旋转次数增加，最高 44 点基础战技伤害。</RHA_Skill_Finish021.description>
+  <RHA_Skill_Salvo021.label>倾泻弹匣</RHA_Skill_Salvo021.label>
+  <RHA_Skill_Salvo021.description>消耗全部棱彩弹药，每发造成 7 点基础战技伤害。需要远程武器；自动施放等待满弹。</RHA_Skill_Salvo021.description>
+  <RHA_Skill_Node021.label>部署节点</RHA_Skill_Node021.label>
+  <RHA_Skill_Node021.description>点击空地部署静止投影，或点击自己的召唤物将其设为中继。每人一个中继，投影持续 30 秒。</RHA_Skill_Node021.description>
+  <RHA_Skill_Relay021.label>共鸣脉冲</RHA_Skill_Relay021.label>
+  <RHA_Skill_Relay021.description>从有效中继或本人位置释放脉冲，造成 14 点基础战技伤害。回收节点后 6 秒内的下一次脉冲为 21 点。</RHA_Skill_Relay021.description>
+  <RHA_Skill_Recall021.label>回收节点</RHA_Skill_Recall021.label>
+  <RHA_Skill_Recall021.description>手动消耗指定的召唤物，获得 16 点护盾，并重置共鸣脉冲的冷却，强化 6 秒内下一次脉冲。每 6 秒最多回收一次，不受急速或技能冷却返还影响。</RHA_Skill_Recall021.description>
+</LanguageData>

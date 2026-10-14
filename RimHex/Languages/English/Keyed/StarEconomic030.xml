@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_StarEconomic030_Title>Economic assessment</RHA_StarEconomic030_Title>
+  <RHA_StarEconomic030_Unavailable>Assessment unavailable</RHA_StarEconomic030_Unavailable>
+  <RHA_StarEconomic030_Days>Time limit: {0} days</RHA_StarEconomic030_Days>
+  <RHA_StarEconomic030_Remaining>Remaining: {0} days</RHA_StarEconomic030_Remaining>
+  <RHA_StarEconomic030_Applicant>Applicant: {0}</RHA_StarEconomic030_Applicant>
+  <RHA_StarEconomic030_Enroll>Begin assessment</RHA_StarEconomic030_Enroll>
+  <RHA_StarEconomic030_Refine>Begin refinement</RHA_StarEconomic030_Refine>
+  <RHA_StarEconomic030_Cancel>Abandon assessment</RHA_StarEconomic030_Cancel>
+  <RHA_StarEconomic030_Close>Close assessment</RHA_StarEconomic030_Close>
+  <RHA_StarEconomic030_Rules>Eligible economic activity across the colony counts after enrollment. Complete every objective. The applicant must remain eligible on the enrolling home map. Completion settles automatically; cancellation or timeout gives no reward. Refinement improves numbers; all mechanics are available on first unlock.</RHA_StarEconomic030_Rules>
+  <RHA_StarEconomic030_TradeIncome>Net trade income</RHA_StarEconomic030_TradeIncome>
+  <RHA_StarEconomic030_ExportKinds>Goods exported</RHA_StarEconomic030_ExportKinds>
+  <RHA_StarEconomic030_TradePartners>Qualifying traders</RHA_StarEconomic030_TradePartners>
+  <RHA_StarEconomic030_PaidExpense>Purchase spending</RHA_StarEconomic030_PaidExpense>
+  <RHA_StarEconomic030_PurchaseKinds>Distinct purchased goods</RHA_StarEconomic030_PurchaseKinds>
+  <RHA_StarEconomic030_ManufacturedUnits>Manufactured units</RHA_StarEconomic030_ManufacturedUnits>
+  <RHA_StarEconomic030_RecipeKinds>Distinct completed recipes</RHA_StarEconomic030_RecipeKinds>
+  <RHA_StarEconomic030_Nutrition>Nutrition consumed</RHA_StarEconomic030_Nutrition>
+  <RHA_StarEconomic030_FoodKinds>Distinct foods</RHA_StarEconomic030_FoodKinds>
+  <RHA_StarEconomic030_MedicineUnits>Medicine consumed</RHA_StarEconomic030_MedicineUnits>
+  <RHA_StarEconomic030_PhasePreparing>Assessment ready</RHA_StarEconomic030_PhasePreparing>
+  <RHA_StarEconomic030_PhaseRunning>Assessment in progress</RHA_StarEconomic030_PhaseRunning>
+  <RHA_StarEconomic030_PhaseWon>Assessment complete; progress awarded</RHA_StarEconomic030_PhaseWon>
+  <RHA_StarEconomic030_PhaseFailed>Assessment failed; no progress awarded</RHA_StarEconomic030_PhaseFailed>
+  <RHA_StarEconomic030_PhaseCancelled>Assessment abandoned</RHA_StarEconomic030_PhaseCancelled>
+  <RHA_StarEconomic030_Changed>Enrollment conditions changed. Review them before trying again.</RHA_StarEconomic030_Changed>
+  <RHA_StarEconomic030_ManageHelp>View economic objectives, remaining time and progress.</RHA_StarEconomic030_ManageHelp>
+  <RHA_StarEconomic030_IndustrialJobs>Industrial jobs completed</RHA_StarEconomic030_IndustrialJobs>
+  <RHA_StarEconomic030_IndustrialRecipes>Distinct industrial recipes</RHA_StarEconomic030_IndustrialRecipes>
+  <RHA_StarEconomic030_IndustrialWorkers>Distinct industrial workers</RHA_StarEconomic030_IndustrialWorkers>
+  <RHA_StarEconomic030_IndustrialMaterialKinds>Industrial material kinds used</RHA_StarEconomic030_IndustrialMaterialKinds>
+  <RHA_StarEconomic030_IndustrialInput>Industrial inputs consumed</RHA_StarEconomic030_IndustrialInput>
+  <RHA_StarEconomic030_SerialJobs>Consecutive same-recipe jobs</RHA_StarEconomic030_SerialJobs>
+  <RHA_StarEconomic030_ChangeoverJobs>Recipe changeovers</RHA_StarEconomic030_ChangeoverJobs>
+  <RHA_StarEconomic030_CooperativeJobs>Worker-and-recipe handoffs</RHA_StarEconomic030_CooperativeJobs>
+  <RHA_StarEconomic030_CropsSown>Completed edible crop sowings</RHA_StarEconomic030_CropsSown>
+  <RHA_StarEconomic030_CropsHarvested>Successful edible crop harvests</RHA_StarEconomic030_CropsHarvested>
+  <RHA_StarEconomic030_CropUnits>Edible crops harvested</RHA_StarEconomic030_CropUnits>
+  <RHA_StarEconomic030_CropKinds>Edible crop varieties harvested</RHA_StarEconomic030_CropKinds>
+  <RHA_StarEconomic030_HarvestWorkers>Colonists harvesting edible crops</RHA_StarEconomic030_HarvestWorkers>
+  <RHA_StarEconomic030_CookedMeals>Meals cooked</RHA_StarEconomic030_CookedMeals>
+  <RHA_StarEconomic030_CookingWorkers>Colonists cooking</RHA_StarEconomic030_CookingWorkers>
+  <RHA_StarEconomic030_CookedMealKinds>Meal kinds cooked</RHA_StarEconomic030_CookedMealKinds>
+</LanguageData>

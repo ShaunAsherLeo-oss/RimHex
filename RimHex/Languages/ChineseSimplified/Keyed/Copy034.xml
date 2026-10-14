@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RHA_Copy034_TraceFiltered>当前角色或筛选条件下没有记录。切换为全体记录，或关闭“仅看未触发”筛选。</RHA_Copy034_TraceFiltered>
+  <RHA_Copy034_BuildNumbers>海克斯防御在本模组的伤害处理中额外应用：承伤除以防御倍率，再计算后续防护。它独立于属性面板的承伤倍率，两者不能相加。</RHA_Copy034_BuildNumbers>
+  <RHA_StarAtlas030_RouteRules>路线与精进说明</RHA_StarAtlas030_RouteRules>
+  <RHA_StarAtlas030_RouteRulesHint>点击打开路线菜单，查看路线与精进说明。</RHA_StarAtlas030_RouteRulesHint>
+  <RHA_StarAtlas030_RelicRules>遗物根节点沿用原能力与已选觉醒。进阶、冷却随遗物转交；尚未用完的蓄积只归原穿戴者。伤害分支计实际敌伤与受伤，治疗分支计有效修复；溢出不计治疗量。授盾与护盾吸收分开计数，按各节点条件触发。友军攻击与倒地补刀不计敌伤。</RHA_StarAtlas030_RelicRules>
+  <RHA_Copy034_RefinementTarget>本次精进：{0}</RHA_Copy034_RefinementTarget>
+  <RHA_Copy034_CardCap>最多 {0} 层。</RHA_Copy034_CardCap>
+</LanguageData>

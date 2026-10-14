@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_STAR_Relic_DetonationOrb.nodes.0.label>引信初燃</RHA_STAR_Relic_DetonationOrb.nodes.0.label>
+  <RHA_STAR_Relic_DetonationOrb.nodes.0.description>保留爆炸之球原有属性与爆炸机制，不重复授予。此遗物没有原有觉醒费用；穿戴后可直接确认首阶，后续阶数保留两天恢复间隔。</RHA_STAR_Relic_DetonationOrb.nodes.0.description>
+  <RHA_STAR_Relic_DetonationOrb.nodes.1.label>定点蓄爆</RHA_STAR_Relic_DetonationOrb.nodes.1.label>
+  <RHA_STAR_Relic_DetonationOrb.nodes.1.description>连续4次普通命中同一敌人，相邻命中不超过3秒，在命中位置留下预警。1.5秒后，对3格内视线畅通的最多3名敌人各造成50点伤害，冷却8秒。转火重新计数，敌人可以离开预警范围。 基础收益：伤害 50。</RHA_STAR_Relic_DetonationOrb.nodes.1.description>
+  <RHA_STAR_Relic_DetonationOrb.nodes.2.label>跳火分流</RHA_STAR_Relic_DetonationOrb.nodes.2.label>
+  <RHA_STAR_Relic_DetonationOrb.nodes.2.description>普通命中两个不同敌人，相邻有效计数不超过3秒，向第二个受击点4格内视线畅通的最多2名其他敌人各追加50点伤害，冷却6秒。重复命中同一目标不增加计数，追加伤害不计数。 基础收益：伤害 50。</RHA_STAR_Relic_DetonationOrb.nodes.2.description>
+  <RHA_STAR_Relic_DetonationOrb.nodes.3.label>震心穿透</RHA_STAR_Relic_DetonationOrb.nodes.3.label>
+  <RHA_STAR_Relic_DetonationOrb.nodes.3.description>定点蓄爆实际伤敌后，对本次震荡首先伤到的敌人追加25点伤害，冷却8秒。震荡没有伤到敌人时不会触发，一次震荡最多结算一次。 基础收益：伤害 25。</RHA_STAR_Relic_DetonationOrb.nodes.3.description>
+  <RHA_STAR_Relic_DetonationOrb.nodes.4.label>爆烟掩护</RHA_STAR_Relic_DetonationOrb.nodes.4.label>
+  <RHA_STAR_Relic_DetonationOrb.nodes.4.description>定点蓄爆实际伤敌后，为本人4格内视线畅通、最近的另一名殖民者提供50点护盾，持续3秒，冷却8秒。没有队友时不改给本人。 基础收益：护盾 50。</RHA_STAR_Relic_DetonationOrb.nodes.4.description>
+  <RHA_STAR_Relic_DetonationOrb.nodes.5.label>余烬追打</RHA_STAR_Relic_DetonationOrb.nodes.5.label>
+  <RHA_STAR_Relic_DetonationOrb.nodes.5.description>跳火分流实际伤及的第一名敌人获得5秒余烬印记，最多一个，生成冷却6秒。本人后续普通命中该敌人时消耗印记，追加50点伤害。 基础收益：伤害 50。</RHA_STAR_Relic_DetonationOrb.nodes.5.description>
+  <RHA_STAR_Relic_DetonationOrb.nodes.6.label>散火回援</RHA_STAR_Relic_DetonationOrb.nodes.6.label>
+  <RHA_STAR_Relic_DetonationOrb.nodes.6.description>跳火分流实际伤敌后，治疗本人4格内视线畅通、伤势最重的一名其他殖民者20点基础可恢复伤势，冷却6秒。多目标分流只治疗一次，不恢复缺失部位或永久伤疤。 基础收益：治疗 20。</RHA_STAR_Relic_DetonationOrb.nodes.6.description>
+</LanguageData>

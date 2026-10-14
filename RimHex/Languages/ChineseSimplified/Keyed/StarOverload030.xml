@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<RHA_StarOverload030_Ready>核心闭合：正常交战。</RHA_StarOverload030_Ready>
+<RHA_StarOverload030_Open>核心敞开：伤害提高30% · 还剩 {0} 秒\n热量：{1}/3 档 · 已积累 {2}，每档 {3}</RHA_StarOverload030_Open>
+<RHA_StarOverload030_Warning>反击已锁定，注意走位！{0} 秒 · 热量 {1}/3 档</RHA_StarOverload030_Warning>
+<RHA_StarOverload030_Brief>核心敞开3秒，受到额外30%伤害。此时攻击会蓄热，让反击范围和威力提高，最多三档。核心闭合后锁定落点，保留完整1.5秒预警；可以走出范围、利用掩体或依靠已有护盾。眩晕会同时结束增伤窗口并取消反击。高阶高压力下可能额外锁定一名队友，重叠区域只命中一次。凭本人伤害或实际护盾、治疗贡献击败首领，无需机关或额外技能。</RHA_StarOverload030_Brief>
+</LanguageData>

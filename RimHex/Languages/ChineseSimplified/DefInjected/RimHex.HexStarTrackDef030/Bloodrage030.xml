@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_STAR_Relic_Bloodrage.nodes.0.label>赤血战意</RHA_STAR_Relic_Bloodrage.nodes.0.label>
+  <RHA_STAR_Relic_Bloodrage.nodes.0.description>保留原有失血增伤、生命和防御属性。后续节点以普通攻击结算时本人的整体健康比例为准，65%或以下才计为负伤命中；需要实际伤及站立敌人。不主动扣血，不按流血速度判断。进阶随装备保存。</RHA_STAR_Relic_Bloodrage.nodes.0.description>
+  <RHA_STAR_Relic_Bloodrage.nodes.1.label>负伤猛击</RHA_STAR_Relic_Bloodrage.nodes.1.label>
+  <RHA_STAR_Relic_Bloodrage.nodes.1.description>负伤命中追加75点伤害，冷却8秒。技能和追加伤害不触发。 基础收益：伤害 75。</RHA_STAR_Relic_Bloodrage.nodes.1.description>
+  <RHA_STAR_Relic_Bloodrage.nodes.2.label>浴血固守</RHA_STAR_Relic_Bloodrage.nodes.2.label>
+  <RHA_STAR_Relic_Bloodrage.nodes.2.description>负伤命中为本人提供50点基础护盾，持续3秒，冷却8秒。护盾不提高健康比例，也不恢复伤势。 基础收益：护盾 50。</RHA_STAR_Relic_Bloodrage.nodes.2.description>
+  <RHA_STAR_Relic_Bloodrage.nodes.3.label>战中喘息</RHA_STAR_Relic_Bloodrage.nodes.3.label>
+  <RHA_STAR_Relic_Bloodrage.nodes.3.description>负伤猛击实际造成追加伤害后，治疗自身20点基础可恢复伤势，冷却8秒。不恢复永久伤疤或缺失部位。 基础收益：治疗 20。</RHA_STAR_Relic_Bloodrage.nodes.3.description>
+  <RHA_STAR_Relic_Bloodrage.nodes.4.label>赤刃横扫</RHA_STAR_Relic_Bloodrage.nodes.4.label>
+  <RHA_STAR_Relic_Bloodrage.nodes.4.description>负伤猛击实际造成追加伤害后，对受击点3格内视线畅通的另一名敌人追加25点伤害，冷却8秒。没有其他敌人时不重复打击原目标。 基础收益：伤害 25。</RHA_STAR_Relic_Bloodrage.nodes.4.description>
+  <RHA_STAR_Relic_Bloodrage.nodes.5.label>同袍血誓</RHA_STAR_Relic_Bloodrage.nodes.5.label>
+  <RHA_STAR_Relic_Bloodrage.nodes.5.description>负伤命中另为本人4格内视线畅通、最近的另一名殖民者提供50点基础护盾，持续3秒，冷却8秒。独立结算，没有合适队友时不转给本人。 基础收益：护盾 50。</RHA_STAR_Relic_Bloodrage.nodes.5.description>
+  <RHA_STAR_Relic_Bloodrage.nodes.6.label>不屈余势</RHA_STAR_Relic_Bloodrage.nodes.6.label>
+  <RHA_STAR_Relic_Bloodrage.nodes.6.description>负伤命中储存一份余势，持续5秒。后续普通命中消耗余势，追加50点伤害，恢复到65%以上仍可兑现。最多一份，生成冷却8秒。 基础收益：伤害 50。</RHA_STAR_Relic_Bloodrage.nodes.6.description>
+</LanguageData>

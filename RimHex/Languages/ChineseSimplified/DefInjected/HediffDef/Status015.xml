@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_SupportStatus.label>支援与反击</RHA_SupportStatus.label>
+  <RHA_SupportStatus.description>查看治疗任务、支援能量、控制成长与临时防御。</RHA_SupportStatus.description>
+  <RHA_Renewal.label>持续援护</RHA_Renewal.label>
+  <RHA_Renewal.description>每秒回复一次，共五次。施加者与剩余次数随存档保存。</RHA_Renewal.description>
+</LanguageData>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_STAR_Relic_REF_MoltenStone.nodes.0.label>熔盾承袭</RHA_STAR_Relic_REF_MoltenStone.nodes.0.label>
+  <RHA_STAR_Relic_REF_MoltenStone.nodes.0.description>保留原有体质、减伤和25%格挡。后续节点只在本人成功格挡敌人的普通外部伤害后触发；护盾吸收、护甲抵消、友军与追加伤害均不计入。进阶随装备保存。</RHA_STAR_Relic_REF_MoltenStone.nodes.0.description>
+  <RHA_STAR_Relic_REF_MoltenStone.nodes.1.label>熔岩反击</RHA_STAR_Relic_REF_MoltenStone.nodes.1.label>
+  <RHA_STAR_Relic_REF_MoltenStone.nodes.1.description>成功格挡敌人伤害后，标记该攻击者4秒，最多一个标记，生成冷却8秒。本人后续普通命中该敌人消耗标记，追加75点伤害；不会自动反伤。 基础收益：伤害 75。</RHA_STAR_Relic_REF_MoltenStone.nodes.1.description>
+  <RHA_STAR_Relic_REF_MoltenStone.nodes.2.label>熔心援护</RHA_STAR_Relic_REF_MoltenStone.nodes.2.label>
+  <RHA_STAR_Relic_REF_MoltenStone.nodes.2.description>成功格挡敌人伤害后，治疗本人4格内视线畅通、伤势最重的另一名殖民者20点基础可恢复伤势，冷却8秒。没有受伤队友时不治疗本人。 基础收益：治疗 20。</RHA_STAR_Relic_REF_MoltenStone.nodes.2.description>
+  <RHA_STAR_Relic_REF_MoltenStone.nodes.3.label>熔石飞溅</RHA_STAR_Relic_REF_MoltenStone.nodes.3.label>
+  <RHA_STAR_Relic_REF_MoltenStone.nodes.3.description>熔岩反击的追加伤害实际命中后，对受击点3格内视线畅通的另一名敌人造成25点伤害，冷却8秒。 基础收益：伤害 25。</RHA_STAR_Relic_REF_MoltenStone.nodes.3.description>
+  <RHA_STAR_Relic_REF_MoltenStone.nodes.4.label>余热回流</RHA_STAR_Relic_REF_MoltenStone.nodes.4.label>
+  <RHA_STAR_Relic_REF_MoltenStone.nodes.4.description>熔岩反击的追加伤害实际命中后，治疗本人20点基础可恢复伤势，冷却8秒。护盾或护甲完全挡住反击时不治疗。 基础收益：治疗 20。</RHA_STAR_Relic_REF_MoltenStone.nodes.4.description>
+  <RHA_STAR_Relic_REF_MoltenStone.nodes.5.label>熔壳重整</RHA_STAR_Relic_REF_MoltenStone.nodes.5.label>
+  <RHA_STAR_Relic_REF_MoltenStone.nodes.5.description>熔心援护实际治疗队友后，为本人提供50点基础护盾，持续3秒，冷却8秒。没有实际治疗时不生成护盾。 基础收益：护盾 50。</RHA_STAR_Relic_REF_MoltenStone.nodes.5.description>
+  <RHA_STAR_Relic_REF_MoltenStone.nodes.6.label>薪火反攻</RHA_STAR_Relic_REF_MoltenStone.nodes.6.label>
+  <RHA_STAR_Relic_REF_MoltenStone.nodes.6.description>熔心援护实际治疗队友后，储存一次5秒反攻机会，最多一次，冷却8秒。本人后续普通命中消耗机会，追加50点伤害；不能靠护盾吸收自我蓄积。 基础收益：伤害 50。</RHA_STAR_Relic_REF_MoltenStone.nodes.6.description>
+</LanguageData>

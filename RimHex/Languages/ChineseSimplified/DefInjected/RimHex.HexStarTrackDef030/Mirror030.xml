@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_STAR_Skill_Mirror016.nodes.0.label>镜像回声</RHA_STAR_Skill_Mirror016.nodes.0.label>
+  <RHA_STAR_Skill_Mirror016.nodes.0.description>通过对应强化卡学会镜像召唤后解锁。保留原召唤数量、持续时间、上限和冷却。后续节点只认可本人有效镜像的普通伤敌，不认可蜂群、巨熊或中继投影；所有镜像共用主人冷却。</RHA_STAR_Skill_Mirror016.nodes.0.description>
+  <RHA_STAR_Skill_Mirror016.nodes.1.label>虚实夹击</RHA_STAR_Skill_Mirror016.nodes.1.label>
+  <RHA_STAR_Skill_Mirror016.nodes.1.description>本人普通攻击实际伤敌后，留下4秒夹击标记，最多一个，生成冷却6秒。本人镜像随后实际伤及该目标，消耗标记追加50点伤害。本人不能兑现自己的标记。 基础收益：伤害 50。</RHA_STAR_Skill_Mirror016.nodes.1.description>
+  <RHA_STAR_Skill_Mirror016.nodes.2.label>映照掩护</RHA_STAR_Skill_Mirror016.nodes.2.label>
+  <RHA_STAR_Skill_Mirror016.nodes.2.description>本人镜像连续两次实际伤及同一敌人，相邻命中不超过3秒，为本人4格内视线畅通、最近的另一名殖民者提供50点基础护盾，持续3秒，冷却6秒。转火重新计数；没有队友时不转给本人。 基础收益：护盾 50。</RHA_STAR_Skill_Mirror016.nodes.2.description>
+  <RHA_STAR_Skill_Mirror016.nodes.3.label>碎镜飞刃</RHA_STAR_Skill_Mirror016.nodes.3.label>
+  <RHA_STAR_Skill_Mirror016.nodes.3.description>虚实夹击的追加伤害实际生效后，对受击点3格内视线畅通的另一名敌人追加25点伤害，冷却6秒。不会再次命中原目标。 基础收益：伤害 25。</RHA_STAR_Skill_Mirror016.nodes.3.description>
+  <RHA_STAR_Skill_Mirror016.nodes.4.label>回声归补</RHA_STAR_Skill_Mirror016.nodes.4.label>
+  <RHA_STAR_Skill_Mirror016.nodes.4.description>虚实夹击的追加伤害实际生效后，治疗本人20点基础可恢复伤势，冷却6秒。不恢复缺失部位或永久伤疤。 基础收益：治疗 20。</RHA_STAR_Skill_Mirror016.nodes.4.description>
+  <RHA_STAR_Skill_Mirror016.nodes.5.label>双重映照</RHA_STAR_Skill_Mirror016.nodes.5.label>
+  <RHA_STAR_Skill_Mirror016.nodes.5.description>本人镜像连续两次实际伤及同一敌人，相邻命中不超过3秒，也为本人提供25点基础护盾，持续3秒，冷却6秒。与映照掩护独立结算。 基础收益：护盾 25。</RHA_STAR_Skill_Mirror016.nodes.5.description>
+  <RHA_STAR_Skill_Mirror016.nodes.6.label>镜后援护</RHA_STAR_Skill_Mirror016.nodes.6.label>
+  <RHA_STAR_Skill_Mirror016.nodes.6.description>本人镜像连续两次实际伤及同一敌人，相邻命中不超过3秒，治疗本人4格内视线畅通、伤势最重的另一名殖民者20点基础可恢复伤势，冷却6秒。没有伤员时不改为治疗本人。 基础收益：治疗 20。</RHA_STAR_Skill_Mirror016.nodes.6.description>
+</LanguageData>

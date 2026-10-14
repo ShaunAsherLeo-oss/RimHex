@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_STAR_Path_Wealth.nodes.0.label>开账</RHA_STAR_Path_Wealth.nodes.0.label>
+  <RHA_STAR_Path_Wealth.nodes.0.description>沿用已选财富觉醒。精进：白银收益；不足 1 白银的部分留待下次结算。 精进初始 ×1，终值：经营收益 ×10。</RHA_STAR_Path_Wealth.nodes.0.description>
+  <RHA_STAR_Path_Wealth.nodes.1.label>贸易分红</RHA_STAR_Path_Wealth.nodes.1.label>
+  <RHA_STAR_Path_Wealth.nodes.1.description>累计交易净收入超过历史最高值时，新增部分的5%记为白银分红。采购计入支出，买回再卖出不会重复领奖；不足1白银的部分留到以后。全殖民地共用一本账，不因更换谈判者或重修重置。 精进初始 ×1，终值：经营收益 ×10。</RHA_STAR_Path_Wealth.nodes.1.description>
+  <RHA_STAR_Path_Wealth.nodes.2.label>采购周转</RHA_STAR_Path_Wealth.nodes.2.label>
+  <RHA_STAR_Path_Wealth.nodes.2.description>新增交易净收入的7.5%存入采购额度，不立即发钱。以后有实际白银支出的交易，可用额度返还支出的10%，以现有额度为限。小数保留，未用额度不会因重修丢失；离开此分支后暂停使用额度。 精进初始 ×1，终值：经营收益 ×10。</RHA_STAR_Path_Wealth.nodes.2.description>
+  <RHA_STAR_Path_Wealth.nodes.3.label>整批出货</RHA_STAR_Path_Wealth.nodes.3.label>
+  <RHA_STAR_Path_Wealth.nodes.3.description>每累计500白银的新净收入，留下一张运费凭据，初始价值3.4白银；结余货款保留。下一笔有新净收入的交易兑现此前凭据，本笔新生成的留待以后。拆单不增加凭据总数；离开分支后保留进度和凭据，凭据价值按生成时固定。 精进初始 ×1，终值：经营收益 ×10。</RHA_STAR_Path_Wealth.nodes.3.description>
+  <RHA_STAR_Path_Wealth.nodes.4.label>货品齐全</RHA_STAR_Path_Wealth.nodes.4.label>
+  <RHA_STAR_Path_Wealth.nodes.4.description>随后出售联单之外的货品并获得新净收入时兑现。本笔不再积累下一张；同种货品拆堆不重复计数，联单及已积累价值在重修后保留。 精进初始 ×1，终值：经营收益 ×10。</RHA_STAR_Path_Wealth.nodes.4.description>
+  <RHA_STAR_Path_Wealth.nodes.5.label>工坊备料</RHA_STAR_Path_Wealth.nodes.5.label>
+  <RHA_STAR_Path_Wealth.nodes.5.description>购入工业原料时，优先用采购额度登记备料：每件按成交价的5%扣除额度，单次最多使用白银净支出的50%。制造完成并实际扣除同种原料后，初始补回登记消耗量的50%，不足一件的部分保留。按原料种类记数量，不跟踪具体物品堆；出售时先注销已登记数量，搬运和拆堆不增加记录。 精进初始 ×1，终值：经营收益 ×10。</RHA_STAR_Path_Wealth.nodes.5.description>
+  <RHA_STAR_Path_Wealth.nodes.6.label>民生储备</RHA_STAR_Path_Wealth.nodes.6.label>
+  <RHA_STAR_Path_Wealth.nodes.6.description>购入食物或药品时，以成交价的5%优先使用采购额度登记储备，每笔不超过白银净支出的50%。己方殖民者实际进食、包扎或手术耗药后，初始补回已登记消耗量的50%，不足一件保留。按物资种类记账，转卖先注销登记数量；搬运、免费治疗与无耗材动作不补给。手术按正常完成的医疗流程与真实耗药结算，不要求手术成功；流程报错不补给。 精进初始 ×1，终值：经营收益 ×10。</RHA_STAR_Path_Wealth.nodes.6.description>
+  <RHA_STAR_Path_Wealth.nodes.7.label>轮换货单</RHA_STAR_Path_Wealth.nodes.7.label>
+  <RHA_STAR_Path_Wealth.nodes.7.description>兑现运费凭据时，若实际出售了上一批凭据生成时未售出的货品，额外获得已兑现运费的25%。只有新净收入的交易计入；重复货品仍可兑现原有运费，但没有换货补贴。 精进初始 ×1，终值：经营收益 ×10。</RHA_STAR_Path_Wealth.nodes.7.description>
+  <RHA_STAR_Path_Wealth.nodes.8.label>商路往来</RHA_STAR_Path_Wealth.nodes.8.label>
+  <RHA_STAR_Path_Wealth.nodes.8.description>完成联单时，与当时的商家建立30天订单，初始价值为该联单的50%。先向另一商家实际出售货品并获得新净收入，再回原商家完成同样的交易即可结算。一次保留一份订单；过期不发奖励，之后可用新联单建立新订单。原有联单照常兑现。 精进初始 ×1，终值：经营收益 ×10。</RHA_STAR_Path_Wealth.nodes.8.description>
+  <RHA_STAR_Path_Wealth.nodes.9.label>补料接力</RHA_STAR_Path_Wealth.nodes.9.label>
+  <RHA_STAR_Path_Wealth.nodes.9.description>制造实际消耗已登记原料后，开启一份接力单，初始价值为本次补料额度的25%，不足一件也能开启。另一名殖民者完成不同配方并实际消耗已登记原料后，补发前单原料。一次保留一单，小数保留；结算本单的制造不再开新单。离开分支暂停，返回后继续。 精进初始 ×1，终值：经营收益 ×10。</RHA_STAR_Path_Wealth.nodes.9.description>
+  <RHA_STAR_Path_Wealth.nodes.10.label>轮换储备</RHA_STAR_Path_Wealth.nodes.10.label>
+  <RHA_STAR_Path_Wealth.nodes.10.description>登记食物与登记药品交替实际消耗时，后一类额外获得本次民生补给额度的25%。第一次消耗即进入轮换，连续消耗同类不增加轮换收益。轮换比例在上次类别切换时固定；离开分支暂停，小数保留。 精进初始 ×1，终值：经营收益 ×10。</RHA_STAR_Path_Wealth.nodes.10.description>
+  <RHA_STAR_Path_Wealth.nodes.11.label>以货抵费</RHA_STAR_Path_Wealth.nodes.11.label>
+  <RHA_STAR_Path_Wealth.nodes.11.description>运费兑现时改存为工业采购额度，初始折算为应付运费及换货补贴的750%。之后购入原料、零部件或化合燃料时，返还合格货品支出与实际净支出中较小者的10%，以剩余额度为限。余额保留，离开分支后暂停使用；返还不计交易收入。 精进初始 ×1，终值：经营收益 ×10。</RHA_STAR_Path_Wealth.nodes.11.description>
+  <RHA_STAR_Path_Wealth.nodes.12.label>货款到账</RHA_STAR_Path_Wealth.nodes.12.label>
+  <RHA_STAR_Path_Wealth.nodes.12.description>新运费凭据生成时直接兑现，并额外获得新凭据价值的50%。轮换货单仍可按实际不同货品结算；旧凭据按原价值兑现一次，不补发此前批次的结算加成。 精进初始 ×1，终值：经营收益 ×10。</RHA_STAR_Path_Wealth.nodes.12.description>
+  <RHA_STAR_Path_Wealth.nodes.13.label>联合订单</RHA_STAR_Path_Wealth.nodes.13.label>
+  <RHA_STAR_Path_Wealth.nodes.13.description>往返商路结清后，为两位商家各列出一种不同货品，取自原联单。30天内分别向指定商家实际出售指定货品并获得新净收入，完成后领取原商路收益的100%。每次保留一份联合订单，已完成的交付会保留；生成订单的成交不能同时交货，交货也不推进另一段商路。 精进初始 ×1，终值：经营收益 ×10。</RHA_STAR_Path_Wealth.nodes.13.description>
+  <RHA_STAR_Path_Wealth.nodes.14.label>物资互通</RHA_STAR_Path_Wealth.nodes.14.label>
+  <RHA_STAR_Path_Wealth.nodes.14.description>商路结算时额外获得其收益500%的物资兑换额度。以后实际采购可堆叠物资时，按成交单价补给本次买到的物品；补给价值不超过本次白银净支出的10%，且不多于本次购入数量。只发完整物品，余额保留；离开分支后暂停使用。 精进初始 ×1，终值：经营收益 ×10。</RHA_STAR_Path_Wealth.nodes.14.description>
+  <RHA_STAR_Path_Wealth.nodes.15.label>常备原料</RHA_STAR_Path_Wealth.nodes.15.label>
+  <RHA_STAR_Path_Wealth.nodes.15.description>补料接力中的基础原料额外返还500%，仅限已登记并实际消耗的可用作材料的物资，不包含零部件。开单时固定数量；小数累积，补发原料不自动成为新的备料。 精进初始 ×1，终值：经营收益 ×10。</RHA_STAR_Path_Wealth.nodes.15.description>
+  <RHA_STAR_Path_Wealth.nodes.16.label>精密备件</RHA_STAR_Path_Wealth.nodes.16.label>
+  <RHA_STAR_Path_Wealth.nodes.16.description>补料接力另外积累相当于本单原料基础价值375%的普通零部件进度，原有补料照常结算。开单时按物品基础市场价值折算并固定，跨订单累积到完整一件再发放；没有已登记耗材便不增加进度。 精进初始 ×1，终值：经营收益 ×10。</RHA_STAR_Path_Wealth.nodes.16.description>
+  <RHA_STAR_Path_Wealth.nodes.17.label>口粮周转</RHA_STAR_Path_Wealth.nodes.17.label>
+  <RHA_STAR_Path_Wealth.nodes.17.description>轮换回食物时，保留原有补给，另把本次轮换补给所对应营养的500%积累为包装生存食物。按实际摄入营养计算，不超过消耗物资的基础营养；不足一份跨轮换、跨存档保留，补给不自动登记。 精进初始 ×1，终值：经营收益 ×10。</RHA_STAR_Path_Wealth.nodes.17.description>
+  <RHA_STAR_Path_Wealth.nodes.18.label>药品周转</RHA_STAR_Path_Wealth.nodes.18.label>
+  <RHA_STAR_Path_Wealth.nodes.18.description>轮换回药品时，药品轮换补给额外增加500%，补回本次真实使用的登记药品。小数累积到整件再发放；伤害、伤疤、免费治疗或治疗次数本身不产生收益。 精进初始 ×1，终值：经营收益 ×10。</RHA_STAR_Path_Wealth.nodes.18.description>
+</LanguageData>

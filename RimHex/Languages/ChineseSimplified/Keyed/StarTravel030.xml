@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RHA_StarTravel030_Rescue>派出救援</RHA_StarTravel030_Rescue>
+  <RHA_StarTravel030_RescueHelp>从同一试炼信标基地派出最多四人，返回现场救人或取物。这是救援，不会重开挑战或获得进阶。</RHA_StarTravel030_RescueHelp>
+  <RHA_StarTravel030_Title>试炼队伍</RHA_StarTravel030_Title>
+  <RHA_StarTravel030_ManageHelp>管理本次进阶试炼的出发、撤退与现场回收。</RHA_StarTravel030_ManageHelp>
+  <RHA_StarTravel030_Enroll>参加试炼</RHA_StarTravel030_Enroll>
+  <RHA_StarTravel030_EnrollHelp>最多带三名协助者。申请者需亲自完成个人目标；返回时保留现有伤势与死亡状态。</RHA_StarTravel030_EnrollHelp>
+  <RHA_StarTravel030_Depart>出发</RHA_StarTravel030_Depart>
+  <RHA_StarTravel030_Cancel>取消报名</RHA_StarTravel030_Cancel>
+  <RHA_StarTravel030_GatherHelp>需要一名清醒的殖民者站在出口旁。将人员、遗体和物资搬到出口 6 格内，手上搬运的东西需先放下。</RHA_StarTravel030_GatherHelp>
+  <RHA_StarTravel030_DestinationLabel>返回地点</RHA_StarTravel030_DestinationLabel>
+  <RHA_StarTravel030_Caravan>组成世界队伍</RHA_StarTravel030_Caravan>
+  <RHA_StarTravel030_Refresh>刷新列表</RHA_StarTravel030_Refresh>
+  <RHA_StarTravel030_Empty>出口附近没有可带走的人员或物资。</RHA_StarTravel030_Empty>
+  <RHA_StarTravel030_Selection>已选 {0} 项；地图上有 {1} 个独立对象（不含随身内容）。未选内容保留。</RHA_StarTravel030_Selection>
+  <RHA_StarTravel030_Return>带上所选内容返回</RHA_StarTravel030_Return>
+  <RHA_StarTravel030_ViewMap>查看试炼地图</RHA_StarTravel030_ViewMap>
+  <RHA_StarTravel030_Retire>关闭试炼地点</RHA_StarTravel030_Retire>
+  <RHA_StarTravel030_RetreatConfirm>撤退并结束本次挑战？无法获得新节点，预扣觉醒材料会退还。未选人员和物资仍留在试炼地图。</RHA_StarTravel030_RetreatConfirm>
+  <RHA_StarTravel030_AbandonConfirm>现场还有 {0} 个角色或物品。永久放弃此地点会移除地图，并失去全部遗留内容。\n\n确认放弃？</RHA_StarTravel030_AbandonConfirm>
+  <RHA_StarTravel030_Preparing>准备出发</RHA_StarTravel030_Preparing>
+  <RHA_StarTravel030_Running>试炼进行中</RHA_StarTravel030_Running>
+  <RHA_StarTravel030_Won>试炼完成</RHA_StarTravel030_Won>
+  <RHA_StarTravel030_Failed>试炼失败，仍可救援与取回物资</RHA_StarTravel030_Failed>
+  <RHA_StarTravel030_Cancelled>已取消挑战，仍可回收现场</RHA_StarTravel030_Cancelled>
+  <RHA_StarTravel030_Changed>队伍状态已变化，请核对后重试。</RHA_StarTravel030_Changed>
+  <RHA_StarTravel030_Origin>出发信标或所属基地已无法使用。</RHA_StarTravel030_Origin>
+  <RHA_StarTravel030_Party>所选队伍尚未准备好出发。</RHA_StarTravel030_Party>
+  <RHA_StarTravel030_Hands>请先放下正在搬运的人员和物品。已穿戴的装备与库存物品会随本人同行。</RHA_StarTravel030_Hands>
+  <RHA_StarTravel030_Reach>所有参加者都必须能走到信标。</RHA_StarTravel030_Reach>
+  <RHA_StarTravel030_Map>未能准备好试炼地图，现场仍保留以供回收。</RHA_StarTravel030_Map>
+  <RHA_StarTravel030_Space>目的地附近没有足够的落脚空间，请清出空地或改选地点。</RHA_StarTravel030_Space>
+  <RHA_StarTravel030_Move>转移中断，请先检查保留的试炼现场，再尝试返回。</RHA_StarTravel030_Move>
+  <RHA_StarTravel030_Destination>该返回地点已无法使用。可改选其他基地，或组成世界队伍。</RHA_StarTravel030_Destination>
+  <RHA_StarTravel030_World>当前世界层无法组成行商队，请选择基地返回。</RHA_StarTravel030_World>
+  <RHA_StarTravel030_Gather>部分所选人员或物资已离开出口附近，请刷新列表。</RHA_StarTravel030_Gather>
+  <RHA_StarTravel030_Operator>需选中一名站在出口旁的清醒殖民者，且其能走到所有待带走的人员与物资旁。</RHA_StarTravel030_Operator>
+  <RHA_StarTravel030_EnrollmentChanged>申请者、来源、材料或试炼条件发生了变化，请核对节点后重新报名。</RHA_StarTravel030_EnrollmentChanged>
+  <RHA_StarTravel030_PostReturnHelp>收尾可从全图回收人员、遗体和物资，无需搬到出口。携带物和库存随本人返回；未选内容留在原地。</RHA_StarTravel030_PostReturnHelp>
+  <RHA_StarTravel030_CaravanHelp>组成世界队伍仍须至少选择一名清醒、可行动的殖民者。</RHA_StarTravel030_CaravanHelp>
+  <RHA_StarTravel030_SelectAll>全选</RHA_StarTravel030_SelectAll>
+  <RHA_StarTravel030_SelectPeople>仅人员</RHA_StarTravel030_SelectPeople>
+  <RHA_StarTravel030_SelectNone>清空</RHA_StarTravel030_SelectNone>
+  <RHA_StarTravel030_EmptyAll>全图没有可返回的己方人员、遗体或物资。</RHA_StarTravel030_EmptyAll>
+  <RHA_StarTravel030_SelectionEmpty>请先勾选至少一名人员、遗体或物资。</RHA_StarTravel030_SelectionEmpty>
+  <RHA_StarTravel030_SelectionChanged>所选内容已不在本场试炼，或无法带回。请刷新列表并重新选择。</RHA_StarTravel030_SelectionChanged>
+  <RHA_StarTravel030_CaravanLeader>世界队伍需要至少一名清醒、可行动的殖民者。请勾选一名人员，或改选基地返回。</RHA_StarTravel030_CaravanLeader>
+  <RHA_StarTravel030_CarriedOther>正在搬运非己方人员或无法转移的对象。请先放下，再返回。</RHA_StarTravel030_CarriedOther>
+  <RHA_StarTravel030_RewardFirst>本场奖励：解锁节点“{0}”；首次认证印记 +{1}。</RHA_StarTravel030_RewardFirst>
+  <RHA_StarTravel030_RewardRefinement>本场奖励：“{0}”精进 +{3} 次（{1} → {2}）。</RHA_StarTravel030_RewardRefinement>
+  <RHA_StarTravel030_RewardScale>适用效果的数值倍率：{0}% → {1}%。</RHA_StarTravel030_RewardScale>
+  <RHA_StarTravel030_RewardTierRule>当前 T{0}；首次通关解锁节点，后续 T1–T6 成功分别精进 +1–+6 层。</RHA_StarTravel030_RewardTierRule>
+  <RHA_StarTravel030_RewardLimit>该节点精进次数已达上限。</RHA_StarTravel030_RewardLimit>
+</LanguageData>

@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_Skill_Aid015.label>援护脉冲</RHA_Skill_Aid015.label>
+  <RHA_Skill_Aid015.description>对 12 格内可见的自己或殖民者基础治疗 18 点并给予 25 点护盾，护盾持续 6 秒。基础冷却 8 秒。自动模式优先治疗伤势最重的目标，不对满血目标空放。</RHA_Skill_Aid015.description>
+  <RHA_Skill_Bind015.label>镇压脉冲</RHA_Skill_Bind015.label>
+  <RHA_Skill_Bind015.description>打击 12 格内可见敌人，造成 10 点基础物理伤害并尝试眩晕 1.5 秒。基础冷却 8 秒。首领韧性与破势规则仍然生效。</RHA_Skill_Bind015.description>
+</LanguageData>

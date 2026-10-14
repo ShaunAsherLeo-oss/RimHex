@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_STAR_Skill_Hunt013.nodes.0.label>猎踪初显</RHA_STAR_Skill_Hunt013.nodes.0.label>
+  <RHA_STAR_Skill_Hunt013.nodes.0.description>必须通过对应强化卡学会追猎标记。保留原战技的突进、伤害、范围和冷却，不免费学习技能。</RHA_STAR_Skill_Hunt013.nodes.0.description>
+  <RHA_STAR_Skill_Hunt013.nodes.1.label>锁定猎踪</RHA_STAR_Skill_Hunt013.nodes.1.label>
+  <RHA_STAR_Skill_Hunt013.nodes.1.description>连续3次普通命中同一敌人，间隔不超过3秒，留下6秒猎踪，生成冷却8秒，最多一个。追猎标记实际伤及该敌人时消耗猎踪，返还本次剩余冷却的10%，最多1秒。转火重计，额外伤害不计数。</RHA_STAR_Skill_Hunt013.nodes.1.description>
+  <RHA_STAR_Skill_Hunt013.nodes.2.label>猎手护甲</RHA_STAR_Skill_Hunt013.nodes.2.label>
+  <RHA_STAR_Skill_Hunt013.nodes.2.description>追猎标记实际伤及敌人后，为本人提供50点护盾，持续3秒，冷却8秒。仅成功施放而未伤敌时不触发。 基础收益：护盾 50。</RHA_STAR_Skill_Hunt013.nodes.2.description>
+  <RHA_STAR_Skill_Hunt013.nodes.3.label>追猎回补</RHA_STAR_Skill_Hunt013.nodes.3.label>
+  <RHA_STAR_Skill_Hunt013.nodes.3.description>锁定猎踪实际消耗标记并返还冷却后，治疗本人20点基础可恢复伤势，冷却8秒。不恢复缺失部位或永久伤疤。 基础收益：治疗 20。</RHA_STAR_Skill_Hunt013.nodes.3.description>
+  <RHA_STAR_Skill_Hunt013.nodes.4.label>猎踪掩护</RHA_STAR_Skill_Hunt013.nodes.4.label>
+  <RHA_STAR_Skill_Hunt013.nodes.4.description>锁定猎踪实际消耗标记并返还冷却后，为本人4格内视线畅通、最近的另一名殖民者提供50点护盾，持续3秒，冷却8秒。 基础收益：护盾 50。</RHA_STAR_Skill_Hunt013.nodes.4.description>
+  <RHA_STAR_Skill_Hunt013.nodes.5.label>突袭回生</RHA_STAR_Skill_Hunt013.nodes.5.label>
+  <RHA_STAR_Skill_Hunt013.nodes.5.description>追猎标记实际伤及敌人后，治疗本人20点基础可恢复伤势，冷却8秒。不恢复缺失部位或永久伤疤。 基础收益：治疗 20。</RHA_STAR_Skill_Hunt013.nodes.5.description>
+  <RHA_STAR_Skill_Hunt013.nodes.6.label>协同突袭</RHA_STAR_Skill_Hunt013.nodes.6.label>
+  <RHA_STAR_Skill_Hunt013.nodes.6.description>追猎标记实际伤及敌人后，为本人4格内视线畅通、最近的另一名殖民者提供25点护盾，持续3秒，冷却8秒。没有队友时不改为保护本人。 基础收益：护盾 25。</RHA_STAR_Skill_Hunt013.nodes.6.description>
+</LanguageData>

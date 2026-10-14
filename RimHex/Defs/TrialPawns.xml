@@ -1,0 +1,291 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Defs>
+  <PawnKindDef ParentName="BaseMechanoidKind">
+    <race>Mech_Lancer</race>
+    <lifeStages>
+      <li MayRequire="Ludeon.RimWorld.Biotech">
+        <bodyGraphicData>
+          <texPath>Things/Pawn/Mechanoid/LancerClean</texPath>
+          <maskPath>Things/Pawn/Mechanoid/AllegianceOverlays/Mech_Lancer</maskPath>
+          <shaderType>CutoutWithOverlay</shaderType>
+          <graphicClass>Graphic_Multi</graphicClass>
+          <drawSize>1.5</drawSize>
+          <shadowData>
+            <volume>(0.4, 0.8, 0.4)</volume>
+          </shadowData>
+          <color>(0.4745,0.6627,0.7059)</color>
+        </bodyGraphicData>
+      </li>
+      <li>
+        <bodyGraphicData>
+          <texPath>Things/Pawn/Mechanoid/Lancer</texPath>
+          <maskPath>Things/Pawn/Mechanoid/AllegianceOverlays/Mech_Lancer</maskPath>
+          <shaderType>CutoutWithOverlay</shaderType>
+          <graphicClass>Graphic_Multi</graphicClass>
+          <drawSize>1.5</drawSize>
+          <shadowData>
+            <volume>(0.4, 0.8, 0.4)</volume>
+          </shadowData>
+          <color>(0.4745,0.6627,0.7059)</color>
+        </bodyGraphicData>
+      </li>
+    </lifeStages>
+    <weaponMoney>9999~9999</weaponMoney>
+    <weaponTags>
+      <li>MechanoidGunMedium</li>
+    </weaponTags>
+    <techHediffsChance>1</techHediffsChance>
+    <techHediffsMoney>9999~9999</techHediffsMoney>
+    <defName>RHA_TrialLancer</defName>
+    <label>Thunder phantom</label>
+    <labelPlural>Thunder phantom</labelPlural>
+    <defaultFactionDef>Mechanoid</defaultFactionDef>
+    <destroyGearOnDrop>true</destroyGearOnDrop>
+    <canStrip>false</canStrip>
+    <forceDeathOnDowned>true</forceDeathOnDowned>
+    <appearsRandomlyInCombatGroups>false</appearsRandomlyInCombatGroups>
+    <isBoss>false</isBoss>
+    <combatPower>150</combatPower>
+  </PawnKindDef>
+  <PawnKindDef ParentName="BaseMechanoidKind">
+    <race>Mech_Scyther</race>
+    <lifeStages>
+      <li MayRequire="Ludeon.RimWorld.Biotech">
+        <bodyGraphicData>
+          <texPath>Things/Pawn/Mechanoid/ScytherClean</texPath>
+          <maskPath>Things/Pawn/Mechanoid/AllegianceOverlays/Mech_Scyther</maskPath>
+          <shaderType>CutoutWithOverlay</shaderType>
+          <graphicClass>Graphic_Multi</graphicClass>
+          <drawSize>1.5</drawSize>
+          <shadowData>
+            <volume>(0.4, 0.8, 0.4)</volume>
+          </shadowData>
+          <color>(0.6471,0.6667,0.6471)</color>
+        </bodyGraphicData>
+      </li>
+      <li>
+        <bodyGraphicData>
+          <texPath>Things/Pawn/Mechanoid/Scyther</texPath>
+          <maskPath>Things/Pawn/Mechanoid/AllegianceOverlays/Mech_Scyther</maskPath>
+          <shaderType>CutoutWithOverlay</shaderType>
+          <graphicClass>Graphic_Multi</graphicClass>
+          <drawSize>1.5</drawSize>
+          <shadowData>
+            <volume>(0.4, 0.8, 0.4)</volume>
+          </shadowData>
+          <color>(0.6471,0.6667,0.6471)</color>
+        </bodyGraphicData>
+      </li>
+    </lifeStages>
+    <weaponMoney>0~0</weaponMoney>
+    <defendPointRadius>0</defendPointRadius>
+    <weaponTags>
+    </weaponTags>
+    <techHediffsChance>1</techHediffsChance>
+    <techHediffsMoney>9999~9999</techHediffsMoney>
+    <defName>RHA_TrialScyther</defName>
+    <label>Blade phantom</label>
+    <labelPlural>Blade phantom</labelPlural>
+    <defaultFactionDef>Mechanoid</defaultFactionDef>
+    <destroyGearOnDrop>true</destroyGearOnDrop>
+    <canStrip>false</canStrip>
+    <forceDeathOnDowned>true</forceDeathOnDowned>
+    <appearsRandomlyInCombatGroups>false</appearsRandomlyInCombatGroups>
+    <isBoss>false</isBoss>
+    <combatPower>150</combatPower>
+  </PawnKindDef>
+  <PawnKindDef ParentName="InsectKindBase">
+    <race>Megaspider</race>
+    <ecoSystemWeight>0.50</ecoSystemWeight>
+    <lifeStages>
+      <li>
+        <bodyGraphicData>
+          <texPath>Things/Pawn/Animal/Megaspider/Megaspider</texPath>
+          <drawSize>1.2</drawSize>
+          <color>(0.5882,0.5647,0.6588)</color>
+        </bodyGraphicData>
+        <dessicatedBodyGraphicData>
+          <texPath>Things/Pawn/Animal/Megaspider/Dessicated_Megaspider</texPath>
+          <drawSize>1.2</drawSize>
+        </dessicatedBodyGraphicData>
+      </li>
+      <li>
+        <bodyGraphicData>
+          <texPath>Things/Pawn/Animal/Megaspider/Megaspider</texPath>
+          <drawSize>1.6</drawSize>
+          <color>(0.5882,0.5647,0.6588)</color>
+        </bodyGraphicData>
+        <dessicatedBodyGraphicData>
+          <texPath>Things/Pawn/Animal/Megaspider/Dessicated_Megaspider</texPath>
+          <drawSize>1.6</drawSize>
+        </dessicatedBodyGraphicData>
+      </li>
+      <li>
+        <bodyGraphicData>
+          <texPath>Things/Pawn/Animal/Megaspider/Megaspider</texPath>
+          <drawSize>2.5</drawSize>
+          <shadowData>
+            <volume>(0.5, 0.7, 0.43)</volume>
+            <offset>(0,0,-0.1)</offset>
+          </shadowData>
+          <color>(0.5882,0.5647,0.6588)</color>
+        </bodyGraphicData>
+        <dessicatedBodyGraphicData>
+          <texPath>Things/Pawn/Animal/Megaspider/Dessicated_Megaspider</texPath>
+          <drawSize>2.5</drawSize>
+        </dessicatedBodyGraphicData>
+      </li>
+    </lifeStages>
+    <defName>RHA_TrialSpider</defName>
+    <label>Soul servant</label>
+    <labelPlural>Soul servant</labelPlural>
+    <defaultFactionDef>Mechanoid</defaultFactionDef>
+    <canStrip>false</canStrip>
+    <forceDeathOnDowned>true</forceDeathOnDowned>
+    <appearsRandomlyInCombatGroups>false</appearsRandomlyInCombatGroups>
+    <isBoss>false</isBoss>
+    <combatPower>150</combatPower>
+    <destroyGearOnDrop>false</destroyGearOnDrop>
+  </PawnKindDef>
+  <PawnKindDef ParentName="MechCentipedeBase">
+    <race>Mech_CentipedeBlaster</race>
+    <weaponTags>
+      <li>ChargeBlasterHeavyGun</li>
+    </weaponTags>
+    <defName>RHA_TrialBossStorm</defName>
+    <label>Storm King</label>
+    <labelPlural>Storm King</labelPlural>
+    <defaultFactionDef>Mechanoid</defaultFactionDef>
+    <destroyGearOnDrop>true</destroyGearOnDrop>
+    <canStrip>false</canStrip>
+    <forceDeathOnDowned>true</forceDeathOnDowned>
+    <appearsRandomlyInCombatGroups>false</appearsRandomlyInCombatGroups>
+    <isBoss>true</isBoss>
+    <combatPower>1000</combatPower>
+    <lifeStages Inherit="False">
+      <li MayRequire="Ludeon.RimWorld.Biotech">
+        <bodyGraphicData>
+          <texPath>Things/Pawn/Mechanoid/CentipedeClean</texPath>
+          <maskPath>Things/Pawn/Mechanoid/AllegianceOverlays/Mech_Centipede</maskPath>
+          <shaderType>CutoutWithOverlay</shaderType>
+          <graphicClass>Graphic_Multi</graphicClass>
+          <drawSize>3.4</drawSize>
+          <shadowData>
+            <volume>(0.6, 0.8, 0.6)</volume>
+          </shadowData>
+          <color>(0.4745,0.6627,0.7059)</color>
+        </bodyGraphicData>
+      </li>
+      <li>
+        <bodyGraphicData>
+          <texPath>Things/Pawn/Mechanoid/Centipede</texPath>
+          <maskPath>Things/Pawn/Mechanoid/AllegianceOverlays/Mech_Centipede</maskPath>
+          <graphicClass>Graphic_Multi</graphicClass>
+          <shaderType>CutoutWithOverlay</shaderType>
+          <color>(0.4745,0.6627,0.7059)</color>
+          <drawSize>3.4</drawSize>
+          <shadowData>
+            <volume>(0.6, 0.8, 0.6)</volume>
+          </shadowData>
+        </bodyGraphicData>
+      </li>
+    </lifeStages>
+  </PawnKindDef>
+  <PawnKindDef ParentName="MechCentipedeBase">
+    <race>Mech_CentipedeBurner</race>
+    <lifeStages Inherit="False">
+      <li MayRequire="Ludeon.RimWorld.Biotech">
+        <bodyGraphicData>
+          <texPath>Things/Pawn/Mechanoid/CentipedeBurnerClean</texPath>
+          <maskPath>Things/Pawn/Mechanoid/AllegianceOverlays/CentipedeBurner</maskPath>
+          <shaderType>CutoutWithOverlay</shaderType>
+          <graphicClass>Graphic_Multi</graphicClass>
+          <shadowData>
+            <volume>(0.6, 0.8, 0.6)</volume>
+          </shadowData>
+          <color>(0.7333,0.5412,0.3451)</color>
+          <drawSize>3.4</drawSize>
+        </bodyGraphicData>
+      </li>
+      <li>
+        <bodyGraphicData>
+          <texPath>Things/Pawn/Mechanoid/CentipedeBurner</texPath>
+          <maskPath>Things/Pawn/Mechanoid/AllegianceOverlays/CentipedeBurner</maskPath>
+          <shaderType>CutoutWithOverlay</shaderType>
+          <graphicClass>Graphic_Multi</graphicClass>
+          <shadowData>
+            <volume>(0.6, 0.8, 0.6)</volume>
+          </shadowData>
+          <color>(0.7333,0.5412,0.3451)</color>
+          <drawSize>3.4</drawSize>
+        </bodyGraphicData>
+      </li>
+    </lifeStages>
+    <weaponTags>
+      <li>InfernoCannonGun</li>
+    </weaponTags>
+    <defName>RHA_TrialBossForge</defName>
+    <label>Furnace colossus</label>
+    <labelPlural>Furnace colossus</labelPlural>
+    <defaultFactionDef>Mechanoid</defaultFactionDef>
+    <destroyGearOnDrop>true</destroyGearOnDrop>
+    <canStrip>false</canStrip>
+    <forceDeathOnDowned>true</forceDeathOnDowned>
+    <appearsRandomlyInCombatGroups>false</appearsRandomlyInCombatGroups>
+    <isBoss>true</isBoss>
+    <combatPower>1000</combatPower>
+  </PawnKindDef>
+  <PawnKindDef ParentName="InsectKindBase">
+    <race>Megaspider</race>
+    <ecoSystemWeight>0.50</ecoSystemWeight>
+    <lifeStages>
+      <li>
+        <bodyGraphicData>
+          <texPath>Things/Pawn/Animal/Megaspider/Megaspider</texPath>
+          <color>(0.5882,0.5647,0.6588)</color>
+          <drawSize>2.6</drawSize>
+        </bodyGraphicData>
+        <dessicatedBodyGraphicData>
+          <texPath>Things/Pawn/Animal/Megaspider/Dessicated_Megaspider</texPath>
+          <drawSize>1.2</drawSize>
+        </dessicatedBodyGraphicData>
+      </li>
+      <li>
+        <bodyGraphicData>
+          <texPath>Things/Pawn/Animal/Megaspider/Megaspider</texPath>
+          <color>(0.5882,0.5647,0.6588)</color>
+          <drawSize>2.6</drawSize>
+        </bodyGraphicData>
+        <dessicatedBodyGraphicData>
+          <texPath>Things/Pawn/Animal/Megaspider/Dessicated_Megaspider</texPath>
+          <drawSize>1.6</drawSize>
+        </dessicatedBodyGraphicData>
+      </li>
+      <li>
+        <bodyGraphicData>
+          <texPath>Things/Pawn/Animal/Megaspider/Megaspider</texPath>
+          <shadowData>
+            <volume>(0.5, 0.7, 0.43)</volume>
+            <offset>(0,0,-0.1)</offset>
+          </shadowData>
+          <color>(0.5882,0.5647,0.6588)</color>
+          <drawSize>2.6</drawSize>
+        </bodyGraphicData>
+        <dessicatedBodyGraphicData>
+          <texPath>Things/Pawn/Animal/Megaspider/Dessicated_Megaspider</texPath>
+          <drawSize>2.5</drawSize>
+        </dessicatedBodyGraphicData>
+      </li>
+    </lifeStages>
+    <defName>RHA_TrialBossSoul</defName>
+    <label>Soul Sovereign</label>
+    <labelPlural>Soul Sovereign</labelPlural>
+    <defaultFactionDef>Mechanoid</defaultFactionDef>
+    <canStrip>false</canStrip>
+    <forceDeathOnDowned>true</forceDeathOnDowned>
+    <appearsRandomlyInCombatGroups>false</appearsRandomlyInCombatGroups>
+    <isBoss>true</isBoss>
+    <combatPower>1000</combatPower>
+    <destroyGearOnDrop>false</destroyGearOnDrop>
+  </PawnKindDef>
+</Defs>

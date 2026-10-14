@@ -1,0 +1,419 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Defs>
+  <ApparelLayerDef>
+    <defName>RHA_EmbertideLayer</defName>
+    <label>Sunfire core relic</label>
+    <drawOrder>309</drawOrder>
+  </ApparelLayerDef>
+  <ThingDef ParentName="RHA_RelicBase">
+    <defName>RHA_Embertide</defName>
+    <label>Sunfire Aegis</label>
+    <description>aura level +2; burn level +1.5; body health +70%.</description>
+    <graphicData>
+      <texPath>RimHex/Relics/Embertide</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <apparel>
+      <layers>
+        <li>RHA_EmbertideLayer</li>
+      </layers>
+    </apparel>
+    <comps>
+      <li Class="RimHex.CompProperties_Prismatic">
+        <power>Embertide</power>
+        <visualStyle>Fire</visualStyle>
+        <visualColor>(1.0000,0.5569,0.2902)</visualColor>
+      </li>
+    </comps>
+  </ThingDef>
+  <ApparelLayerDef>
+    <defName>RHA_FrostguardLayer</defName>
+    <label>Frozen heart relic</label>
+    <drawOrder>310</drawOrder>
+  </ApparelLayerDef>
+  <ThingDef ParentName="RHA_RelicBase">
+    <defName>RHA_Frostguard</defName>
+    <label>Frozen heart</label>
+    <description>frost level +1.5; damage-taken divisor +0.7; body health +80%.</description>
+    <graphicData>
+      <texPath>RimHex/Relics/Frostguard</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <apparel>
+      <layers>
+        <li>RHA_FrostguardLayer</li>
+      </layers>
+    </apparel>
+    <comps>
+      <li Class="RimHex.CompProperties_Prismatic">
+        <power>Frostguard</power>
+        <visualStyle>Frost</visualStyle>
+        <visualColor>(0.4588,0.8667,1.0000)</visualColor>
+      </li>
+    </comps>
+  </ThingDef>
+  <ApparelLayerDef>
+    <defName>RHA_ThornshellLayer</defName>
+    <label>Crown of thorns relic</label>
+    <drawOrder>311</drawOrder>
+  </ApparelLayerDef>
+  <ThingDef ParentName="RHA_RelicBase">
+    <defName>RHA_Thornshell</defName>
+    <label>Thornmail</label>
+    <description>thorns level +2.5; body health +150%; damage-taken divisor +0.4.</description>
+    <graphicData>
+      <texPath>RimHex/Relics/Thornshell</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <apparel>
+      <layers>
+        <li>RHA_ThornshellLayer</li>
+      </layers>
+    </apparel>
+    <comps>
+      <li Class="RimHex.CompProperties_Prismatic">
+        <power>Thornshell</power>
+        <visualStyle>Nature</visualStyle>
+        <visualColor>(0.4392,0.9216,0.7608)</visualColor>
+      </li>
+    </comps>
+  </ThingDef>
+  <ApparelLayerDef>
+    <defName>RHA_MoonstoneLayer</defName>
+    <label>Moonlight loom relic</label>
+    <drawOrder>312</drawOrder>
+  </ApparelLayerDef>
+  <ThingDef ParentName="RHA_RelicBase">
+    <defName>RHA_Moonstone</defName>
+    <label>Moonlight loom</label>
+    <description>group-healing level +2.5; ordinary injury healed per second +2.5.</description>
+    <graphicData>
+      <texPath>RimHex/Relics/Moonstone</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <apparel>
+      <layers>
+        <li>RHA_MoonstoneLayer</li>
+      </layers>
+    </apparel>
+    <comps>
+      <li Class="RimHex.CompProperties_Prismatic">
+        <power>Moonstone</power>
+        <visualStyle>Nature</visualStyle>
+        <visualColor>(0.4392,0.9216,0.7608)</visualColor>
+      </li>
+    </comps>
+  </ThingDef>
+  <ApparelLayerDef>
+    <defName>RHA_HydraLayer</defName>
+    <label>Hydra's embrace relic</label>
+    <drawOrder>313</drawOrder>
+  </ApparelLayerDef>
+  <ThingDef ParentName="RHA_RelicBase">
+    <defName>RHA_Hydra</defName>
+    <label>Ravenous Hydra</label>
+    <description>cleave level +2; direct damage +70%; direct-hit lifesteal +20%. Copied damage uses its resolved value; flat bonus damage can still be amplified.</description>
+    <graphicData>
+      <texPath>RimHex/Relics/Hydra</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <apparel>
+      <layers>
+        <li>RHA_HydraLayer</li>
+      </layers>
+    </apparel>
+    <comps>
+      <li Class="RimHex.CompProperties_Prismatic">
+        <power>Hydra</power>
+        <visualStyle>Nature</visualStyle>
+        <visualColor>(0.4392,0.9216,0.7608)</visualColor>
+      </li>
+    </comps>
+  </ThingDef>
+  <ApparelLayerDef>
+    <defName>RHA_GamblerLayer</defName>
+    <label>Gambler's coin relic</label>
+    <drawOrder>314</drawOrder>
+  </ApparelLayerDef>
+  <ThingDef ParentName="RHA_RelicBase">
+    <defName>RHA_Gambler</defName>
+    <label>Gambler's coin</label>
+    <description>silver per eligible kill +100; critical value +50%; move speed +30%.</description>
+    <graphicData>
+      <texPath>RimHex/Relics/Gambler</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <apparel>
+      <layers>
+        <li>RHA_GamblerLayer</li>
+      </layers>
+    </apparel>
+    <comps>
+      <li Class="RimHex.CompProperties_Prismatic">
+        <power>Gambler</power>
+        <visualStyle>Solar</visualStyle>
+        <visualColor>(1.0000,0.8588,0.5098)</visualColor>
+      </li>
+    </comps>
+  </ThingDef>
+  <ApparelLayerDef>
+    <defName>RHA_SoulreaverLayer</defName>
+    <label>Soul vessel relic</label>
+    <drawOrder>315</drawOrder>
+  </ApparelLayerDef>
+  <ThingDef ParentName="RHA_RelicBase">
+    <defName>RHA_Soulreaver</defName>
+    <label>Soul vessel</label>
+    <description>soul-harvesting level +2; direct damage +60%; ordinary injury healed per second +1.2. Each permanent growth effect retains its full benefit through 100 points, then has diminishing returns.</description>
+    <graphicData>
+      <texPath>RimHex/Relics/Soulreaver</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <apparel>
+      <layers>
+        <li>RHA_SoulreaverLayer</li>
+      </layers>
+    </apparel>
+    <comps>
+      <li Class="RimHex.CompProperties_Prismatic">
+        <power>Soulreaver</power>
+        <visualStyle>Blood</visualStyle>
+        <visualColor>(0.9804,0.3608,0.5294)</visualColor>
+      </li>
+    </comps>
+  </ThingDef>
+  <ApparelLayerDef>
+    <defName>RHA_BallistaLayer</defName>
+    <label>Siege crossbow relic</label>
+    <drawOrder>316</drawOrder>
+  </ApparelLayerDef>
+  <ThingDef ParentName="RHA_RelicBase">
+    <defName>RHA_Ballista</defName>
+    <label>Siege crossbow</label>
+    <description>sniper damage per extra cell +10%; direct damage +60%; aiming-time divisor +1.5. Sniper scaling uses distance beyond 4 cells, capped at 25 extra cells.</description>
+    <graphicData>
+      <texPath>RimHex/Relics/Ballista</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <apparel>
+      <layers>
+        <li>RHA_BallistaLayer</li>
+      </layers>
+    </apparel>
+    <comps>
+      <li Class="RimHex.CompProperties_Prismatic">
+        <power>Ballista</power>
+        <visualStyle>Storm</visualStyle>
+        <visualColor>(0.5451,0.6824,1.0000)</visualColor>
+      </li>
+    </comps>
+  </ThingDef>
+  <ApparelLayerDef>
+    <defName>RHA_DuelistLayer</defName>
+    <label>Duelist's edge relic</label>
+    <drawOrder>317</drawOrder>
+  </ApparelLayerDef>
+  <ThingDef ParentName="RHA_RelicBase">
+    <defName>RHA_Duelist</defName>
+    <label>Duelist's edge</label>
+    <description>direct damage within 3 cells +120%; direct-hit lifesteal +25%; melee cooldown divisor +1.2.</description>
+    <graphicData>
+      <texPath>RimHex/Relics/Duelist</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <apparel>
+      <layers>
+        <li>RHA_DuelistLayer</li>
+      </layers>
+    </apparel>
+    <comps>
+      <li Class="RimHex.CompProperties_Prismatic">
+        <power>Duelist</power>
+        <visualStyle>Steel</visualStyle>
+        <visualColor>(0.7412,0.8706,0.9176)</visualColor>
+      </li>
+    </comps>
+  </ThingDef>
+  <ApparelLayerDef>
+    <defName>RHA_BloodrageLayer</defName>
+    <label>Tyrant's grasp relic</label>
+    <drawOrder>318</drawOrder>
+  </ApparelLayerDef>
+  <ThingDef ParentName="RHA_RelicBase">
+    <defName>RHA_Bloodrage</defName>
+    <label>Tyrant's grasp</label>
+    <description>maximum missing-health damage bonus +500%; body health +120%; damage-taken divisor +0.7.</description>
+    <graphicData>
+      <texPath>RimHex/Relics/Bloodrage</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <apparel>
+      <layers>
+        <li>RHA_BloodrageLayer</li>
+      </layers>
+    </apparel>
+    <comps>
+      <li Class="RimHex.CompProperties_Prismatic">
+        <power>Bloodrage</power>
+        <visualStyle>Blood</visualStyle>
+        <visualColor>(0.9804,0.3608,0.5294)</visualColor>
+      </li>
+    </comps>
+  </ThingDef>
+  <ApparelLayerDef>
+    <defName>RHA_ChronobladeLayer</defName>
+    <label>Timeblade relic</label>
+    <drawOrder>319</drawOrder>
+  </ApparelLayerDef>
+  <ThingDef ParentName="RHA_RelicBase">
+    <defName>RHA_Chronoblade</defName>
+    <label>Timeblade</label>
+    <description>rage level +2; melee cooldown divisor +1.2; ranged cooldown divisor +1.2. The first 20 temporary stacks retain their full effect; further stacks have diminishing returns.</description>
+    <graphicData>
+      <texPath>RimHex/Relics/Chronoblade</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <apparel>
+      <layers>
+        <li>RHA_ChronobladeLayer</li>
+      </layers>
+    </apparel>
+    <comps>
+      <li Class="RimHex.CompProperties_Prismatic">
+        <power>Chronoblade</power>
+        <visualStyle>Arcane</visualStyle>
+        <visualColor>(0.7686,0.6941,1.0000)</visualColor>
+      </li>
+    </comps>
+  </ThingDef>
+  <ApparelLayerDef>
+    <defName>RHA_StarwardLayer</defName>
+    <label>Astral bulwark relic</label>
+    <drawOrder>320</drawOrder>
+  </ApparelLayerDef>
+  <ThingDef ParentName="RHA_RelicBase">
+    <defName>RHA_Starward</defName>
+    <label>Astral bulwark</label>
+    <description>starward level +1.2; body health +120%; damage-taken divisor +0.7. After mitigation, each hit is capped at 15 divided by total starward level, with a minimum cap of 1; repeated hits remain separate.</description>
+    <graphicData>
+      <texPath>RimHex/Relics/Starward</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <apparel>
+      <layers>
+        <li>RHA_StarwardLayer</li>
+      </layers>
+    </apparel>
+    <comps>
+      <li Class="RimHex.CompProperties_Prismatic">
+        <power>Starward</power>
+        <visualStyle>Solar</visualStyle>
+        <visualColor>(1.0000,0.8588,0.5098)</visualColor>
+      </li>
+    </comps>
+  </ThingDef>
+  <ApparelLayerDef>
+    <defName>RHA_TrinityLayer</defName>
+    <label>Trinity singularity relic</label>
+    <drawOrder>321</drawOrder>
+  </ApparelLayerDef>
+  <ThingDef ParentName="RHA_RelicBase">
+    <defName>RHA_Trinity</defName>
+    <label>Trinity singularity</label>
+    <description>direct damage +80%; critical value +35%; cleave level +1; chain level +1; move speed +40%; global work speed +40%. Copied damage uses its resolved value; flat bonus damage can still be amplified.</description>
+    <graphicData>
+      <texPath>RimHex/Relics/Trinity</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <apparel>
+      <layers>
+        <li>RHA_TrinityLayer</li>
+      </layers>
+    </apparel>
+    <comps>
+      <li Class="RimHex.CompProperties_Prismatic">
+        <power>Trinity</power>
+        <visualStyle>Arcane</visualStyle>
+        <visualColor>(0.7686,0.6941,1.0000)</visualColor>
+      </li>
+    </comps>
+  </ThingDef>
+  <ApparelLayerDef>
+    <defName>RHA_WorldforgeLayer</defName>
+    <label>Universal forge relic</label>
+    <drawOrder>322</drawOrder>
+  </ApparelLayerDef>
+  <ThingDef ParentName="RHA_RelicBase">
+    <defName>RHA_Worldforge</defName>
+    <label>Universal forge</label>
+    <description>ordinary injury healed per second +2; global work speed +150%; construction speed +150%; general labor speed +150%; learning speed +150%.</description>
+    <graphicData>
+      <texPath>RimHex/Relics/Worldforge</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <apparel>
+      <layers>
+        <li>RHA_WorldforgeLayer</li>
+      </layers>
+    </apparel>
+    <comps>
+      <li Class="RimHex.CompProperties_Prismatic">
+        <power>Worldforge</power>
+        <visualStyle>Steel</visualStyle>
+        <visualColor>(0.7412,0.8706,0.9176)</visualColor>
+      </li>
+    </comps>
+  </ThingDef>
+  <ApparelLayerDef>
+    <defName>RHA_ArchangelLayer</defName>
+    <label>Archangel's staff relic</label>
+    <drawOrder>323</drawOrder>
+  </ApparelLayerDef>
+  <ThingDef ParentName="RHA_RelicBase">
+    <defName>RHA_Archangel</defName>
+    <label>Archangel's staff</label>
+    <description>ordinary injury healed per second +3; group-healing level +1.5; body health +100%; soul-harvesting level +1. Each permanent growth effect retains its full benefit through 100 points, then has diminishing returns.</description>
+    <graphicData>
+      <texPath>RimHex/Relics/Archangel</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <apparel>
+      <layers>
+        <li>RHA_ArchangelLayer</li>
+      </layers>
+    </apparel>
+    <comps>
+      <li Class="RimHex.CompProperties_Prismatic">
+        <power>Archangel</power>
+        <visualStyle>Arcane</visualStyle>
+        <visualColor>(0.7686,0.6941,1.0000)</visualColor>
+      </li>
+    </comps>
+  </ThingDef>
+  <ApparelLayerDef>
+    <defName>RHA_InfinityLayer</defName>
+    <label>Endless prism relic</label>
+    <drawOrder>324</drawOrder>
+  </ApparelLayerDef>
+  <ThingDef ParentName="RHA_RelicBase">
+    <defName>RHA_Infinity</defName>
+    <label>Infinity Edge</label>
+    <description>critical value +100%; direct damage +60%. Critical value above 100% continues to increase critical damage.</description>
+    <graphicData>
+      <texPath>RimHex/Relics/Infinity</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <apparel>
+      <layers>
+        <li>RHA_InfinityLayer</li>
+      </layers>
+    </apparel>
+    <comps>
+      <li Class="RimHex.CompProperties_Prismatic">
+        <power>Infinity</power>
+        <visualStyle>Solar</visualStyle>
+        <visualColor>(1.0000,0.8588,0.5098)</visualColor>
+      </li>
+    </comps>
+  </ThingDef>
+</Defs>

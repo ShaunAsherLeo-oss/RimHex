@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_STAR_Path_Thunder.nodes.0.label>引雷</RHA_STAR_Path_Thunder.nodes.0.label>
+  <RHA_STAR_Path_Thunder.nodes.0.description>沿用已选雷霆进化。精进：追加伤害。 精进初始 ×1，终值：伤害 ×50。</RHA_STAR_Path_Thunder.nodes.0.description>
+  <RHA_STAR_Path_Thunder.nodes.1.label>分流</RHA_STAR_Path_Thunder.nodes.1.label>
+  <RHA_STAR_Path_Thunder.nodes.1.description>每 3 次有效普通命中，向原目标附近 6 格内最多 2 个其他敌人各传导 3 点伤害；4 秒冷却。精进：追加伤害。 基础收益：伤害 75。 精进初始 ×1，终值：伤害 ×50。</RHA_STAR_Path_Thunder.nodes.1.description>
+  <RHA_STAR_Path_Thunder.nodes.2.label>击穿</RHA_STAR_Path_Thunder.nodes.2.label>
+  <RHA_STAR_Path_Thunder.nodes.2.description>5 秒内对同一敌人连续命中 3 次，追加 4 点雷击；更换目标重置；3 秒冷却。精进：追加伤害。 基础收益：伤害 100。 精进初始 ×1，终值：伤害 ×50。</RHA_STAR_Path_Thunder.nodes.2.description>
+  <RHA_STAR_Path_Thunder.nodes.3.label>雷步</RHA_STAR_Path_Thunder.nodes.3.label>
+  <RHA_STAR_Path_Thunder.nodes.3.description>在两次有效命中间位移至少 3 格，下次命中追加 3 点雷击；4 秒冷却。精进：追加伤害。 基础收益：伤害 75。 精进初始 ×1，终值：伤害 ×50。</RHA_STAR_Path_Thunder.nodes.3.description>
+  <RHA_STAR_Path_Thunder.nodes.4.label>雷池</RHA_STAR_Path_Thunder.nodes.4.label>
+  <RHA_STAR_Path_Thunder.nodes.5.label>导电痕</RHA_STAR_Path_Thunder.nodes.5.label>
+  <RHA_STAR_Path_Thunder.nodes.6.label>留隙</RHA_STAR_Path_Thunder.nodes.6.label>
+  <RHA_STAR_Path_Thunder.nodes.6.description>击穿后目标留下 4 秒破绽；本人原有雷霆战技命中它时消耗破绽，返还该战技本次剩余冷却的 10%，最多 2 秒、每次施放一次。精进：破绽持续时间。 精进初始 ×1，终值：标记时长 ×1.5。</RHA_STAR_Path_Thunder.nodes.6.description>
+  <RHA_STAR_Path_Thunder.nodes.7.label>落雷印</RHA_STAR_Path_Thunder.nodes.7.label>
+  <RHA_STAR_Path_Thunder.nodes.8.label>余电</RHA_STAR_Path_Thunder.nodes.8.label>
+  <RHA_STAR_Path_Thunder.nodes.9.label>双路馈电</RHA_STAR_Path_Thunder.nodes.9.label>
+  <RHA_STAR_Path_Thunder.nodes.10.label>四向电网</RHA_STAR_Path_Thunder.nodes.10.label>
+  <RHA_STAR_Path_Thunder.nodes.11.label>电栅</RHA_STAR_Path_Thunder.nodes.11.label>
+  <RHA_STAR_Path_Thunder.nodes.12.label>围雷</RHA_STAR_Path_Thunder.nodes.12.label>
+  <RHA_STAR_Path_Thunder.nodes.13.label>引雷针</RHA_STAR_Path_Thunder.nodes.13.label>
+  <RHA_STAR_Path_Thunder.nodes.14.label>雷云锚</RHA_STAR_Path_Thunder.nodes.14.label>
+  <RHA_STAR_Path_Thunder.nodes.15.label>接力端口</RHA_STAR_Path_Thunder.nodes.15.label>
+  <RHA_STAR_Path_Thunder.nodes.16.label>双人回路</RHA_STAR_Path_Thunder.nodes.16.label>
+  <RHA_STAR_Path_Thunder.nodes.17.label>锁芯</RHA_STAR_Path_Thunder.nodes.17.label>
+  <RHA_STAR_Path_Thunder.nodes.18.label>贯心雷</RHA_STAR_Path_Thunder.nodes.18.label>
+  <RHA_STAR_Path_Thunder.nodes.19.label>断路</RHA_STAR_Path_Thunder.nodes.19.label>
+  <RHA_STAR_Path_Thunder.nodes.20.label>追电</RHA_STAR_Path_Thunder.nodes.20.label>
+  <RHA_STAR_Path_Thunder.nodes.21.label>延迟极</RHA_STAR_Path_Thunder.nodes.21.label>
+  <RHA_STAR_Path_Thunder.nodes.22.label>两拍雷</RHA_STAR_Path_Thunder.nodes.22.label>
+  <RHA_STAR_Path_Thunder.nodes.23.label>危险电压</RHA_STAR_Path_Thunder.nodes.23.label>
+  <RHA_STAR_Path_Thunder.nodes.24.label>临界放电</RHA_STAR_Path_Thunder.nodes.24.label>
+  <RHA_STAR_Path_Thunder.nodes.25.label>回程电</RHA_STAR_Path_Thunder.nodes.25.label>
+  <RHA_STAR_Path_Thunder.nodes.26.label>往返雷环</RHA_STAR_Path_Thunder.nodes.26.label>
+  <RHA_STAR_Path_Thunder.nodes.27.label>切角</RHA_STAR_Path_Thunder.nodes.27.label>
+  <RHA_STAR_Path_Thunder.nodes.28.label>折线风暴</RHA_STAR_Path_Thunder.nodes.28.label>
+  <RHA_STAR_Path_Thunder.nodes.29.label>换位导体</RHA_STAR_Path_Thunder.nodes.29.label>
+  <RHA_STAR_Path_Thunder.nodes.30.label>交错引雷</RHA_STAR_Path_Thunder.nodes.30.label>
+  <RHA_STAR_Path_Thunder.nodes.31.label>动静转换</RHA_STAR_Path_Thunder.nodes.31.label>
+  <RHA_STAR_Path_Thunder.nodes.32.label>风暴停驻</RHA_STAR_Path_Thunder.nodes.32.label>
+  <RHA_STAR_Path_Thunder.nodes.33.label>反冲</RHA_STAR_Path_Thunder.nodes.33.label>
+  <RHA_STAR_Path_Thunder.nodes.34.label>回击风暴</RHA_STAR_Path_Thunder.nodes.34.label>
+  <RHA_STAR_Path_Thunder.nodes.35.label>分池</RHA_STAR_Path_Thunder.nodes.35.label>
+  <RHA_STAR_Path_Thunder.nodes.36.label>共振护环</RHA_STAR_Path_Thunder.nodes.36.label>
+  <RHA_STAR_Path_Thunder.nodes.37.label>接地</RHA_STAR_Path_Thunder.nodes.37.label>
+  <RHA_STAR_Path_Thunder.nodes.38.label>雷场换流</RHA_STAR_Path_Thunder.nodes.38.label>
+  <RHA_STAR_Path_Thunder.nodes.39.label>救援火花</RHA_STAR_Path_Thunder.nodes.39.label>
+  <RHA_STAR_Path_Thunder.nodes.40.label>生还电路</RHA_STAR_Path_Thunder.nodes.40.label>
+  <RHA_STAR_Path_Thunder.nodes.4.description>实际护盾吸收累积至 10 点后，下一次普通命中消耗电荷，追加 4 点雷击。电荷在当前地图保留，最多储存一次释放；释放后 4 秒内不能再次蓄电或释放。精进：追加伤害。 基础收益：伤害 100。 精进初始 ×1，终值：伤害 ×50。</RHA_STAR_Path_Thunder.nodes.4.description>
+  <RHA_STAR_Path_Thunder.nodes.8.description>雷池释放造成伤害后，获得持续 3 秒的 2 点独立护盾。本流派生成的护盾被吸收时，不能为自己的雷池充能。精进：护盾量。 基础收益：护盾 50。 精进初始 ×1，终值：护盾 ×20。</RHA_STAR_Path_Thunder.nodes.8.description>
+  <RHA_STAR_Path_Thunder.nodes.5.description>分流命中的敌人留下 4 秒导电痕。本人下一次普通攻击消耗该目标的痕迹，追加 2 点伤害；每个目标分别计算 4 秒冷却。精进：追加伤害。 基础收益：伤害 50。 精进初始 ×1，终值：伤害 ×50。</RHA_STAR_Path_Thunder.nodes.5.description>
+  <RHA_STAR_Path_Thunder.nodes.21.description>留隙消耗破绽后，1.5 秒后在该位置落下一次半径 2 格的雷击，对最多 16 名敌人造成 3 点伤害。落点固定，不追踪目标。精进：追加伤害。 基础收益：伤害 75。 精进初始 ×1，终值：伤害 ×50。</RHA_STAR_Path_Thunder.nodes.21.description>
+  <RHA_STAR_Path_Thunder.nodes.22.description>延迟极落下前，普通攻击命中另一名敌人，可在新命中位置追加第二拍。第二拍在第一拍后 0.5 秒落下，对 2 格内最多 16 名敌人造成 2 点伤害。每次破绽只能追加一次。精进：追加伤害。 基础收益：伤害 50。 精进初始 ×1，终值：伤害 ×50。</RHA_STAR_Path_Thunder.nodes.22.description>
+  <RHA_STAR_Path_Thunder.nodes.7.description>雷步触发后，在攻击位置留下持续 4 秒的足印。本人离足印至少 3 格后再次普通命中，可引爆足印，对 2 格内最多 16 名敌人造成 2 点伤害。只保留最近一枚足印。精进：追加伤害。 基础收益：伤害 50。 精进初始 ×1，终值：伤害 ×50。</RHA_STAR_Path_Thunder.nodes.7.description>
+  <RHA_STAR_Path_Thunder.nodes.19.description>击穿造成伤害后，在目标身上留下持续 4 秒的断路。目标离标记位置至少 2 格时，触发一次 3 点雷击。最多保留 4 名目标；满额时替换最早的标记。精进：追加伤害。 基础收益：伤害 75。 精进初始 ×1，终值：伤害 ×50。</RHA_STAR_Path_Thunder.nodes.19.description>
+  <RHA_STAR_Path_Thunder.nodes.20.description>断路造成伤害后，留下持续 3 秒的追电标记。本人已学会的雷霆战技命中时，消耗标记，将断路传给 6 格内另一名敌人：4 秒内离标记位置至少 2 格，受到一次 3 点雷击。传递的断路不能再次传递。最多保留 4 枚传递标记；满额时替换最早一枚。精进：追加伤害。 基础收益：伤害 75。 精进初始 ×1，终值：伤害 ×50。</RHA_STAR_Path_Thunder.nodes.20.description>
+  <RHA_STAR_Path_Thunder.nodes.9.description>同一次分流实际伤害两名不同敌人，记为一次成环。累计两次后，下次分流从首名电弧目标处，向 8 格内最远的另一名敌人追加 3 点雷击。释放这次不计入下一轮成环。精进：追加伤害。 基础收益：伤害 75。 精进初始 ×1，终值：伤害 ×50。</RHA_STAR_Path_Thunder.nodes.9.description>
+  <RHA_STAR_Path_Thunder.nodes.10.description>双路馈电造成伤害后，在传导起点和终点留下持续 4 秒的接点。本人下一次普通命中任一接点 2 格内的敌人，消耗两个接点，从另一端对 2 格内最多两名敌人各造成 2 点伤害。只保留最新一对；另一端没有敌人时不消耗。精进：追加伤害。 基础收益：伤害 50。 精进初始 ×1，终值：伤害 ×50。</RHA_STAR_Path_Thunder.nodes.10.description>
+  <RHA_STAR_Path_Thunder.nodes.13.description>连续消耗两名不同敌人的导电痕，在第二个目标位置放置持续 5 秒的引雷针。本人已学会的雷霆战技命中针周围 6 格内的敌人时，消耗引雷针，向 6 格内另一名敌人追加 4 点雷击。只保留最新一根；没有其他敌人时不消耗。精进：追加伤害。 基础收益：伤害 100。 精进初始 ×1，终值：伤害 ×50。</RHA_STAR_Path_Thunder.nodes.13.description>
+  <RHA_STAR_Path_Thunder.nodes.14.description>引雷针造成伤害后，在原位置留下持续 3 秒的雷云锚。本人离锚至少 4 格时，下次普通命中将锚朝自己拉动一格，对这段短路径 1 格内最近的敌人造成 3 点伤害，然后消耗锚。路径附近没有敌人时保留，只能保留最新一枚锚。精进：追加伤害。 基础收益：伤害 75。 精进初始 ×1，终值：伤害 ×50。</RHA_STAR_Path_Thunder.nodes.14.description>
+  <RHA_STAR_Path_Thunder.nodes.15.description>分流造成伤害后，6 格内最近的另一名自由殖民者获得持续 4 秒的接力端口。队友普通攻击命中带有本人导电痕的敌人时，消耗端口，双方各获得持续 3 秒的 2 点独立护盾。不会替本人消耗导电痕。冷却 8 秒。精进：护盾量。 基础收益：护盾 50。 精进初始 ×1，终值：护盾 ×20。</RHA_STAR_Path_Thunder.nodes.15.description>
+  <RHA_STAR_Path_Thunder.nodes.16.description>接力端口完成后，本人在 3 秒内普通命中另一名敌人，可消耗接力机会，在队友原命中位置和自己的新命中位置各传导一次雷击。每处选取 2 格内一名敌人，造成 2 点伤害；最多命中两名不同敌人，无有效目标时保留机会。精进：追加伤害。 基础收益：伤害 50。 精进初始 ×1，终值：伤害 ×50。</RHA_STAR_Path_Thunder.nodes.16.description>
+  <RHA_STAR_Path_Thunder.nodes.29.description>雷步造成伤害后，5 格内最近的另一名自由殖民者获得持续 3 秒的导体。队友离获得导体的位置至少 2 格后普通命中敌人，消耗导体，为本人生成持续 3 秒的 2 点独立护盾。冷却 8 秒。精进：护盾量。 基础收益：护盾 50。 精进初始 ×1，终值：护盾 ×20。</RHA_STAR_Path_Thunder.nodes.29.description>
+  <RHA_STAR_Path_Thunder.nodes.30.description>队友完成换位导体后，本人在 5 秒内于队友原先获得导体的位置 2 格内触发雷步，可消耗接力机会，向自己 5 格内最多两名不同敌人各造成 2 点雷击。附近没有敌人时保留机会。精进：追加伤害。 基础收益：伤害 50。 精进初始 ×1，终值：伤害 ×50。</RHA_STAR_Path_Thunder.nodes.30.description>
+  <RHA_STAR_Path_Thunder.nodes.17.description>留隙破绽尚在时，继续对该敌人普通命中两次可延长 1 秒，最多两次；换目标重置未完成的连击。用已学会的雷霆战技消耗完整延长的破绽，追加 3 点雷击。精进：追加伤害。 基础收益：伤害 75。 精进初始 ×1，终值：伤害 ×50。</RHA_STAR_Path_Thunder.nodes.17.description>
+  <RHA_STAR_Path_Thunder.nodes.18.description>消耗完整延长的破绽后准备一次贯心雷。下一次击穿实际造成伤害时消耗机会，对主目标背后 3 格内贯穿线附近最近的另一名敌人造成 4 点雷击。贯穿线宽 1.5 格，最多储存一次；没有排成直线的敌人也会消耗机会。精进：追加伤害。 基础收益：伤害 100。 精进初始 ×1，终值：伤害 ×50。</RHA_STAR_Path_Thunder.nodes.18.description>
+  <RHA_STAR_Path_Thunder.nodes.27.description>雷步实际造成伤害时，在上次普通命中位置与当前位置的连线 1 格内，选择离连线最近的另一名敌人，追加 2 点雷击。不会再次命中主目标。精进：追加伤害。 基础收益：伤害 50。 精进初始 ×1，终值：伤害 ×50。</RHA_STAR_Path_Thunder.nodes.27.description>
+  <RHA_STAR_Path_Thunder.nodes.28.description>连续三次雷步中，每次移动方向与前一次至少相差 45 度，可准备一次转折。此后切角实际命中敌人时，可向其 6 格内另一名敌人追加 3 点雷击，排除切角目标与原主目标；没有第二名敌人则保留转折。最多储存一次。精进：追加伤害。 基础收益：伤害 75。 精进初始 ×1，终值：伤害 ×50。</RHA_STAR_Path_Thunder.nodes.28.description>
+  <RHA_STAR_Path_Thunder.nodes.31.description>雷步造成伤害后，在原格连续停留 1.5 秒，下次普通命中消耗蓄势并追加 3 点雷击。移动到另一格或离开地图会取消蓄势，准备完成后移动也会取消。最多保留一次；追加雷击不会再次触发雷步。精进：追加伤害。 基础收益：伤害 75。 精进初始 ×1，终值：伤害 ×50。</RHA_STAR_Path_Thunder.nodes.31.description>
+  <RHA_STAR_Path_Thunder.nodes.32.description>动静转换实际造成伤害后，在本人位置留下半径 3 格、持续 3 秒的静电圈。本人离开圈后，用已学会的雷霆战技实际命中圈内敌人，可消耗静电圈，获得持续 3 秒的 3 点独立护盾；本人 6 格内最近的另一名自由殖民者也获得一层，没有队友时仍给自己护盾。只保留最新一圈。精进：护盾量。 基础收益：护盾 75。 精进初始 ×1，终值：护盾 ×20。</RHA_STAR_Path_Thunder.nodes.32.description>
+  <RHA_STAR_Path_Thunder.nodes.39.description>雷池储备满 10 点时，为 5 格内另一名受伤的自由殖民者实际恢复生命，会消耗全部电荷，追加一次 3 点治疗。与雷池放电共用 4 秒恢复期；普通攻击仍可先消耗这份电荷。原本的治疗已修复全部可治疗伤口时不消耗电荷。需要已有治疗手段，不额外授予治疗战技。精进：治疗量。 基础收益：治疗 60。 精进初始 ×1，终值：治疗 ×10。</RHA_STAR_Path_Thunder.nodes.39.description>
+  <RHA_STAR_Path_Thunder.nodes.40.description>救援火花实际修复伤口后，与该队友保持 4 秒生还连接。期间本人用此树以外的护盾实际吸收敌人伤害，会消耗连接，为这名队友提供持续 4 秒的 4 点独立护盾。队友须仍在同一地图、存活且为友好的自由殖民者。只保留最新连接；没有修复伤口的治疗不会建立连接。精进：护盾量。 基础收益：护盾 100。 精进初始 ×1，终值：护盾 ×20。</RHA_STAR_Path_Thunder.nodes.40.description>
+  <RHA_STAR_Path_Thunder.nodes.33.description>用此树以外的护盾吸收敌人伤害，使雷池达到 10 点后，开启 3 秒反冲窗口。期间再用异源护盾吸收一次敌人攻击，下一次雷池放电追加 3 点伤害。充满的当次攻击不重复计数，溢出吸收不刷新窗口；也可提前正常放电。已准备的反冲随本地图的储备电荷保留。精进：追加伤害。 基础收益：伤害 75。 精进初始 ×1，终值：伤害 ×50。</RHA_STAR_Path_Thunder.nodes.33.description>
+  <RHA_STAR_Path_Thunder.nodes.34.description>加强反冲实际命中使雷池充满的那名攻击者时，向其 6 格内另一名敌人传导 3 点伤害。攻击其他敌人仍可释放反冲加伤，但不会传导；没有第二目标时不储存延迟传导。精进：追加伤害。 基础收益：伤害 75。 精进初始 ×1，终值：伤害 ×50。</RHA_STAR_Path_Thunder.nodes.34.description>
+  <RHA_STAR_Path_Thunder.nodes.35.description>余电护盾改为自己与 5 格内最近的站立殖民者各获得 1 点护盾，持续 3 秒，替代原来的自身 2 点护盾。两份新护盾均在到期前被敌人攻击完全吸收后，下次雷池放电追加 3 点伤害。附近无人时仍给自己 2 点；到期与消耗护盾不计入，最多保留一次加伤。精进：追加伤害。 基础收益：伤害 75；护盾 25。 精进初始 ×1，终值：伤害 ×50。</RHA_STAR_Path_Thunder.nodes.35.description>
+  <RHA_STAR_Path_Thunder.nodes.36.description>分池的两份护盾均被敌人攻击完全吸收后，下次施放已学会的雷霆战技时，自己与当次搭档各获得 3 点护盾，持续 3 秒，无需命中。最多保留一次施法奖励；原搭档不再是本地图存活的友方殖民者时，只给自己护盾。这两份护盾不会再次触发分池奖励。精进：护盾量。 基础收益：护盾 75。 精进初始 ×1，终值：护盾 ×20。</RHA_STAR_Path_Thunder.nodes.36.description>
+  <RHA_STAR_Path_Thunder.nodes.37.description>雷池充满后，施放已学会的雷霆会将 10 点电荷存入脚下的接地柱，持续 4 秒，并进入放电共用的 4 秒恢复期。离柱至少 3 格，再于到期前普通命中敌人，即对使雷池充满的攻击者周围 4 格内最多 2 名敌人各造成 3 点伤害；该攻击者须仍在本地图站立且敌对。存入电荷替代本次基础放电，到期不退还；无需交互。精进：追加伤害。 基础收益：伤害 75；护盾 75。 精进初始 ×1，终值：伤害 ×50。</RHA_STAR_Path_Thunder.nodes.37.description>
+  <RHA_STAR_Path_Thunder.nodes.38.description>离开已充能的接地柱至少 3 格后，可在放电前、原到期时刻前走回柱所在格，将整根柱换成持续 3 秒的 3 点护盾。传送回原位不触发。回撤护盾与攻击放电共用同一根柱，每次电荷只能选择一种收益。精进：护盾量。 基础收益：伤害 75。 精进初始 ×1，终值：护盾 ×20。</RHA_STAR_Path_Thunder.nodes.38.description>
+  <RHA_STAR_Path_Thunder.nodes.25.description>离开自己的落雷印 1 格范围，再在其到期前回到 1 格内，准备一次回程电。下次雷步实际造成伤害时，对该足印的原目标追加 3 点伤害；目标须仍在本地图站立且敌对。已准备的机会不会随足印到期消失，但最多保留一份；每枚足印只可准备一次。返回不消耗足印，也不跳过雷步原有恢复时间。精进：追加伤害。 基础收益：伤害 75。 精进初始 ×1，终值：伤害 ×50。</RHA_STAR_Path_Thunder.nodes.25.description>
+  <RHA_STAR_Path_Thunder.nodes.26.description>两枚不同足印的回程电实际造成伤害后，再下一次雷步会在攻击位置留下半径 3 格、持续 3 秒的雷环。最先走过边界的 3 名不同敌人各受一次 3 点雷击；进出共用次数，站在圈内或传送跨越不触发。完成第二次回程的当击只准备雷环，释放雷环的当击不为下一轮额外积累回程次数。精进：追加伤害。 基础收益：伤害 75。 精进初始 ×1，终值：伤害 ×50。</RHA_STAR_Path_Thunder.nodes.26.description>
+  <RHA_STAR_Path_Thunder.nodes.11.description>普通攻击消耗导电痕时，将受击位置与 8 格内最近的另一名已有本树导电痕的敌人连成固定电栅，持续 4 秒。最先走过电栅的 16 名不同敌人各受一次 3 点雷击；电栅不跟随端点、不消耗另一枚痕迹，传送不触发。成功生成后恢复 6 秒；没有第二枚有效痕迹时，只结算原导电痕伤害。精进：追加伤害。 基础收益：伤害 75。 精进初始 ×1，终值：伤害 ×50。</RHA_STAR_Path_Thunder.nodes.11.description>
+  <RHA_STAR_Path_Thunder.nodes.12.description>同一条电栅实际伤害两名不同敌人后，准备一次围雷。下次施放已学会的雷霆，以原电栅保存的两端展开持续 3 秒的三角围栏，替代原电栅；空间允许时朝施法者所在侧展开。最先跨过任意边的 16 名不同敌人各受一次 3 点雷击，三边共用命中记录。准备不随原电栅到期消失，最多保留一份，每条电栅只可准备一次；三角围栏有独立越线预算，不会再准备围雷。精进：追加伤害。 基础收益：伤害 75。 精进初始 ×1，终值：伤害 ×50。</RHA_STAR_Path_Thunder.nodes.12.description>
+  <RHA_STAR_Path_Thunder.nodes.23.description>健康低于 60% 时，消耗破绽按所选模式追加 3 点伤害，或修复自己最多 2 点非永久伤口。默认追加伤害，可脱战后在角色进阶面板的“战斗取舍”中切换。两种模式共用 10 秒恢复，切换不重置计时；实际造成伤害或修复伤口才开启冠冕应对窗口。精进：追加伤害与治疗量。 基础收益：伤害 75；治疗 40。 精进初始 ×1，终值：伤害 ×50；治疗 ×10。</RHA_STAR_Path_Thunder.nodes.23.description>
+  <RHA_STAR_Path_Thunder.nodes.24.description>危险电压实际造成伤害或修复伤口后，3 秒内以本树以外的护盾吸收敌伤，或实际承受敌伤，可准备一次临界放电。下次击穿实际命中时消耗准备，追加一次 4 点雷击。最多保留一份，准备可在本地图保留到应对窗口结束之后；自伤、友伤、护盾到期及本树自己的护盾不计入，释放后关闭本次应对窗口。精进：追加伤害。 基础收益：伤害 100。 精进初始 ×1，终值：伤害 ×50。</RHA_STAR_Path_Thunder.nodes.24.description>
+</LanguageData>

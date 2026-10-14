@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_015_Renewal>{0} pulses left</RHA_015_Renewal>
+  <RHA_015_NoTarget>No eligible visible target.</RHA_015_NoTarget>
+  <RHA_015_Status>Actual ally healing: {0}/300\nSupport energy: {1}/150 (cap 200)\nPermanent offense: {2}/200\nTemporary resolve: {3}/5\nSpine charge: {4}/40\nWind defense: {5}%\nShield damage bonus: {6}\nBonuses require the corresponding cards.</RHA_015_Status>
+</LanguageData>

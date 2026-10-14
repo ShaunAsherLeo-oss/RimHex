@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_StarEconomic030_Title>经营考核</RHA_StarEconomic030_Title>
+  <RHA_StarEconomic030_Unavailable>考核尚未就绪</RHA_StarEconomic030_Unavailable>
+  <RHA_StarEconomic030_Days>期限：{0} 天</RHA_StarEconomic030_Days>
+  <RHA_StarEconomic030_Remaining>剩余：{0} 天</RHA_StarEconomic030_Remaining>
+  <RHA_StarEconomic030_Applicant>申请人：{0}</RHA_StarEconomic030_Applicant>
+  <RHA_StarEconomic030_Enroll>开始考核</RHA_StarEconomic030_Enroll>
+  <RHA_StarEconomic030_Refine>开始精进考核</RHA_StarEconomic030_Refine>
+  <RHA_StarEconomic030_Cancel>放弃本次考核</RHA_StarEconomic030_Cancel>
+  <RHA_StarEconomic030_Close>关闭考核记录</RHA_StarEconomic030_Close>
+  <RHA_StarEconomic030_Rules>报名后全殖民地的有效经营行为共同计数，所有条件都要完成。申请人须留在报名的家园地图并保持资格。完成后自动结算；取消或超时不获奖励。只增强数值，首次解锁即有完整机制。</RHA_StarEconomic030_Rules>
+  <RHA_StarEconomic030_TradeIncome>贸易净收入</RHA_StarEconomic030_TradeIncome>
+  <RHA_StarEconomic030_ExportKinds>出口货品种类</RHA_StarEconomic030_ExportKinds>
+  <RHA_StarEconomic030_TradePartners>有效交易商家</RHA_StarEconomic030_TradePartners>
+  <RHA_StarEconomic030_PaidExpense>采购支出</RHA_StarEconomic030_PaidExpense>
+  <RHA_StarEconomic030_PurchaseKinds>购入货品种类</RHA_StarEconomic030_PurchaseKinds>
+  <RHA_StarEconomic030_ManufacturedUnits>制造产量</RHA_StarEconomic030_ManufacturedUnits>
+  <RHA_StarEconomic030_RecipeKinds>完成配方种类</RHA_StarEconomic030_RecipeKinds>
+  <RHA_StarEconomic030_Nutrition>摄入营养</RHA_StarEconomic030_Nutrition>
+  <RHA_StarEconomic030_FoodKinds>食物种类</RHA_StarEconomic030_FoodKinds>
+  <RHA_StarEconomic030_MedicineUnits>耗药数量</RHA_StarEconomic030_MedicineUnits>
+  <RHA_StarEconomic030_PhasePreparing>准备考核</RHA_StarEconomic030_PhasePreparing>
+  <RHA_StarEconomic030_PhaseRunning>考核进行中</RHA_StarEconomic030_PhaseRunning>
+  <RHA_StarEconomic030_PhaseWon>考核完成，进阶已结算</RHA_StarEconomic030_PhaseWon>
+  <RHA_StarEconomic030_PhaseFailed>考核失败，本次未获进阶</RHA_StarEconomic030_PhaseFailed>
+  <RHA_StarEconomic030_PhaseCancelled>考核已放弃</RHA_StarEconomic030_PhaseCancelled>
+  <RHA_StarEconomic030_Changed>报名条件已变化，请重新检查。</RHA_StarEconomic030_Changed>
+  <RHA_StarEconomic030_ManageHelp>查看经营目标、剩余时间与完成进度。</RHA_StarEconomic030_ManageHelp>
+  <RHA_StarEconomic030_IndustrialJobs>工业工序次数</RHA_StarEconomic030_IndustrialJobs>
+  <RHA_StarEconomic030_IndustrialRecipes>工业配方种类</RHA_StarEconomic030_IndustrialRecipes>
+  <RHA_StarEconomic030_IndustrialWorkers>参与生产的殖民者</RHA_StarEconomic030_IndustrialWorkers>
+  <RHA_StarEconomic030_IndustrialMaterialKinds>工业耗材种类</RHA_StarEconomic030_IndustrialMaterialKinds>
+  <RHA_StarEconomic030_IndustrialInput>工业耗材数量</RHA_StarEconomic030_IndustrialInput>
+  <RHA_StarEconomic030_SerialJobs>连续同配方工序</RHA_StarEconomic030_SerialJobs>
+  <RHA_StarEconomic030_ChangeoverJobs>换配方工序</RHA_StarEconomic030_ChangeoverJobs>
+  <RHA_StarEconomic030_CooperativeJobs>换人换配方工序</RHA_StarEconomic030_CooperativeJobs>
+  <RHA_StarEconomic030_CropsSown>完成食用作物播种</RHA_StarEconomic030_CropsSown>
+  <RHA_StarEconomic030_CropsHarvested>成功收获食用作物</RHA_StarEconomic030_CropsHarvested>
+  <RHA_StarEconomic030_CropUnits>食用作物收获量</RHA_StarEconomic030_CropUnits>
+  <RHA_StarEconomic030_CropKinds>收获食用作物种类</RHA_StarEconomic030_CropKinds>
+  <RHA_StarEconomic030_HarvestWorkers>参与收获的殖民者</RHA_StarEconomic030_HarvestWorkers>
+  <RHA_StarEconomic030_CookedMeals>烹饪餐食</RHA_StarEconomic030_CookedMeals>
+  <RHA_StarEconomic030_CookingWorkers>烹饪人员</RHA_StarEconomic030_CookingWorkers>
+  <RHA_StarEconomic030_CookedMealKinds>烹饪餐食种类</RHA_StarEconomic030_CookedMealKinds>
+</LanguageData>

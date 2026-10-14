@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <HediffDef>
+    <defName>RHA_StarPursuitCore</defName><label>pursuit core</label>
+    <description>This hunter locks a straight charge route. Sidestep it or use cover. A missed charge leaves a longer counterattack window. The hunter takes 35% more damage while recovering. Deal meaningful personal damage or provide real shields and healing, then defeat the hunter.</description>
+    <hediffClass>RimHex.Hediff_HexStarConduit030</hediffClass><isBad>false</isBad>
+  </HediffDef>
+  <JobDef>
+    <defName>RHA_StarPursuit</defName><driverClass>RimHex.JobDriver_HexStarPursuit030</driverClass>
+    <reportString>charging along a fixed route.</reportString><casualInterruptible>false</casualInterruptible>
+  </JobDef>
+</Defs>

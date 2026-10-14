@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_Elite_Thunder.label>雷铠</RHA_Elite_Thunder.label>
+  <RHA_Elite_Thunder.description>承受伤害除以 1.35；交战时每 6 秒向附近目标预警落雷，1.5 秒后打击标记区域。</RHA_Elite_Thunder.description>
+  <RHA_Elite_Fire.label>熔火</RHA_Elite_Fire.label>
+  <RHA_Elite_Fire.description>交战时每 6 秒标记附近目标位置，2 秒后形成持续 5 秒的熔火区域。离开橙色范围即可避开。</RHA_Elite_Fire.description>
+  <RHA_Elite_Mirror.label>分身</RHA_Elite_Mirror.label>
+  <RHA_Elite_Mirror.description>行动时凝聚一个半体质的幻影，持续 20 秒。每名精英仅触发一次，幻影不能继续分裂。</RHA_Elite_Mirror.description>
+  <RHA_Elite_Regen.label>回春</RHA_Elite_Regen.label>
+  <RHA_Elite_Regen.description>每 5 秒恢复自身伤势，并治疗附近 8 格内最多两名试炼同伴。</RHA_Elite_Regen.description>
+  <RHA_Elite_Rage.label>狂怒</RHA_Elite_Rage.label>
+  <RHA_Elite_Rage.description>受伤越重，造成的伤害越高；额外增伤最高 90%。</RHA_Elite_Rage.description>
+  <RHA_Elite_Command.label>统御</RHA_Elite_Command.label>
+  <RHA_Elite_Command.description>使 10 格内其他试炼同伴伤害提高 35%、受到伤害降低 15%。多个统御光环不叠加。</RHA_Elite_Command.description>
+</LanguageData>

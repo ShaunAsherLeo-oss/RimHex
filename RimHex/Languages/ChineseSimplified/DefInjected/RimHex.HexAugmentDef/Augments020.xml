@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_A20_aftershock.label>余震回响</RHA_A20_aftershock.label>
+  <RHA_A20_aftershock.description>位移战技结束后 6 秒内，旋转战技首次命中引发半径 3 格的冲击，至多 4 名敌人受到每层 8 点基础追加伤害。间隔 4 秒。</RHA_A20_aftershock.description>
+  <RHA_A20_aftershock.theme>流派联动</RHA_A20_aftershock.theme>
+  <RHA_A20_mercy.label>救赎电弧</RHA_A20_mercy.label>
+  <RHA_A20_mercy.description>为自己或同伴实际治疗累计 20 点，储存一道电弧，最多一道。下次普通攻击命中时，电弧跳向目标 8 格内至多 2 名其他敌人，每层 8 点基础追加伤害。</RHA_A20_mercy.description>
+  <RHA_A20_mercy.theme>流派联动</RHA_A20_mercy.theme>
+  <RHA_A20_shatter.label>碎盾狂潮</RHA_A20_shatter.label>
+  <RHA_A20_shatter.description>护盾被敌人打破后，6 秒内下次近身普通攻击命中追加每层 12 点基础伤害。护盾自然到期不触发。</RHA_A20_shatter.description>
+  <RHA_A20_shatter.theme>流派联动</RHA_A20_shatter.theme>
+  <RHA_A20_embers.label>余烬接力</RHA_A20_embers.label>
+  <RHA_A20_embers.description>召唤物命中正在燃烧的敌人时，为其施加每层 2 点基础灼烧，每秒一次，共 6 次。每名主人间隔 2 秒，不触发主人的普通命中收益。</RHA_A20_embers.description>
+  <RHA_A20_embers.theme>流派联动</RHA_A20_embers.theme>
+  <RHA_A20_frost.label>霜雷交织</RHA_A20_frost.label>
+  <RHA_A20_frost.description>普通攻击命中被减速或眩晕的敌人时，向其 6 格内至多 2 名其他敌人释放电弧，每层 6 点基础追加伤害。间隔 3 秒。</RHA_A20_frost.description>
+  <RHA_A20_frost.theme>流派联动</RHA_A20_frost.theme>
+  <RHA_A20_blood.label>踏血而行</RHA_A20_blood.label>
+  <RHA_A20_blood.description>位移战技结束后 6 秒内，下次普通攻击实际造成伤害时，治疗自己每层 6 点普通伤势。每次位移只生效一次。</RHA_A20_blood.description>
+  <RHA_A20_blood.theme>流派联动</RHA_A20_blood.theme>
+  <RHA_A20_soul.label>守魂灯</RHA_A20_soul.label>
+  <RHA_A20_soul.description>亲自以普通攻击击杀合格敌人或试炼敌人，获得每层 12 点基础护盾，持续 6 秒。间隔 3 秒。</RHA_A20_soul.description>
+  <RHA_A20_soul.theme>流派联动</RHA_A20_soul.theme>
+  <RHA_A20_temper.label>淬炼回击</RHA_A20_temper.label>
+  <RHA_A20_temper.description>护盾实际吸收敌方伤害累计 20 点后，储存一次反击。下次战技首次命中追加每层 10 点基础伤害。最多储存一次。</RHA_A20_temper.description>
+  <RHA_A20_temper.theme>流派联动</RHA_A20_temper.theme>
+  <RHA_A20_star.label>遥星引线</RHA_A20_star.label>
+  <RHA_A20_star.description>战技命中 12 格外敌人后，6 秒内下次普通攻击命中追加每层 10 点基础伤害。间隔 3 秒。</RHA_A20_star.description>
+  <RHA_A20_star.theme>流派联动</RHA_A20_star.theme>
+  <RHA_A20_harvest.label>同袍春生</RHA_A20_harvest.label>
+  <RHA_A20_harvest.description>为另一名殖民者实际治疗累计 15 点后，为双方各提供每层 10 点基础护盾，持续 5 秒。间隔 4 秒。</RHA_A20_harvest.description>
+  <RHA_A20_harvest.theme>流派联动</RHA_A20_harvest.theme>
+  <RHA_A20_cinder.label>余温回流</RHA_A20_cinder.label>
+  <RHA_A20_cinder.description>灼烧实际造成累计 20 点伤害后，储存一次回流。下次普通攻击命中时治疗自己每层 5 点普通伤势。最多储存一次。</RHA_A20_cinder.description>
+  <RHA_A20_cinder.theme>流派联动</RHA_A20_cinder.theme>
+  <RHA_A20_twin.label>双星交汇</RHA_A20_twin.label>
+  <RHA_A20_twin.description>6 秒内先后施放两种不同的战斗战技，下次普通攻击命中时打击目标 3 格内至多 3 名其他敌人，每层 7 点基础追加伤害。最多储存一次。</RHA_A20_twin.description>
+  <RHA_A20_twin.theme>流派联动</RHA_A20_twin.theme>
+  <RHA_A20_lone.label>孤锋契约</RHA_A20_lone.label>
+  <RHA_A20_lone.description>普通攻击命中时，6 格内没有其他己方殖民者，额外造成本次实际伤害的 18%，最高 30 点基础追加伤害。</RHA_A20_lone.description>
+  <RHA_A20_lone.theme>契约</RHA_A20_lone.theme>
+  <RHA_A20_patient.label>蓄势契约</RHA_A20_patient.label>
+  <RHA_A20_patient.description>连续 5 秒未造成普通攻击伤害，下次普通攻击额外造成本次实际伤害的 30%，最高 35 点基础追加伤害。追加伤害不重新蓄势。</RHA_A20_patient.description>
+  <RHA_A20_patient.theme>契约</RHA_A20_patient.theme>
+  <RHA_A20_alternate.label>交替契约</RHA_A20_alternate.label>
+  <RHA_A20_alternate.description>普通攻击与战技命中交替出现时，追加本次实际伤害的 12%，最高 20 点基础追加伤害。同类连续命中不享受加成；间隔 0.5 秒。</RHA_A20_alternate.description>
+  <RHA_A20_alternate.theme>契约</RHA_A20_alternate.theme>
+  <RHA_A20_switch.label>游猎契约</RHA_A20_switch.label>
+  <RHA_A20_switch.description>普通攻击切换到不同敌人时，追加本次实际伤害的 15%，最高 25 点基础追加伤害。首个目标不触发，间隔 1 秒。</RHA_A20_switch.description>
+  <RHA_A20_switch.theme>契约</RHA_A20_switch.theme>
+  <RHA_A20_close.label>贴身契约</RHA_A20_close.label>
+  <RHA_A20_close.description>对 3 格内敌人的普通攻击追加本次实际伤害的 18%，最高 30 点基础追加伤害；对更远敌人的普通攻击基础结算伤害降低 12%。</RHA_A20_close.description>
+  <RHA_A20_close.theme>契约</RHA_A20_close.theme>
+  <RHA_A20_medic.label>战地契约</RHA_A20_medic.label>
+  <RHA_A20_medic.description>为另一名殖民者实际治疗至少 1 点后，6 秒内下次普通攻击追加本次实际伤害的 20%，最高 30 点基础追加伤害。最多储存一次。</RHA_A20_medic.description>
+  <RHA_A20_medic.theme>契约</RHA_A20_medic.theme>
+</LanguageData>

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_A15_FirstAidKit.label>急救用具</RHA_A15_FirstAidKit.label>
+  <RHA_A15_FirstAidKit.description>每层使自身施加的治疗和护盾增加 20%。 附带学会援护脉冲。 最多 4 层。</RHA_A15_FirstAidKit.description>
+  <RHA_A15_FirstAidKit.theme>支援与控制</RHA_A15_FirstAidKit.theme>
+  <RHA_A15_AllForYou.label>全心为你</RHA_A15_AllForYou.label>
+  <RHA_A15_AllForYou.description>每层使对其他殖民者施加的治疗和护盾增加 34%，不增强自疗。与急救用具相加。 附带学会援护脉冲。 最多 4 层。</RHA_A15_AllForYou.description>
+  <RHA_A15_AllForYou.theme>支援与控制</RHA_A15_AllForYou.theme>
+  <RHA_A15_WindspeakersBlessing.label>风语者的祝福</RHA_A15_WindspeakersBlessing.label>
+  <RHA_A15_WindspeakersBlessing.description>对其他殖民者产生实际治疗或新增护盾时，使其获得每层卡 16.25% 防御，持续 6 秒。同类取强，不重复相乘。 附带学会援护脉冲。 最多 4 层。</RHA_A15_WindspeakersBlessing.description>
+  <RHA_A15_WindspeakersBlessing.theme>支援与控制</RHA_A15_WindspeakersBlessing.theme>
+  <RHA_A15_SonicBoom.label>天音爆</RHA_A15_SonicBoom.label>
+  <RHA_A15_SonicBoom.description>支援其他殖民者产生实际治疗或新增护盾后，对其 5 格内至多八名敌人造成每层 7.8 点基础追加伤害并减速；每秒最多一次。 附带学会援护脉冲。 最多 4 层。</RHA_A15_SonicBoom.description>
+  <RHA_A15_SonicBoom.theme>支援与控制</RHA_A15_SonicBoom.theme>
+  <RHA_A15_HolyFire.label>圣火</RHA_A15_HolyFire.label>
+  <RHA_A15_HolyFire.description>支援其他殖民者产生实际治疗或新增护盾后，对其 5 格内至多八名敌人施加每层卡 灼烧（每次脉冲 1.95 点基础伤害）；每秒最多一次。 附带学会援护脉冲。 最多 4 层。</RHA_A15_HolyFire.description>
+  <RHA_A15_HolyFire.theme>支援与控制</RHA_A15_HolyFire.theme>
+  <RHA_A15_SupportMain.label>主玩辅助</RHA_A15_SupportMain.label>
+  <RHA_A15_SupportMain.description>累计对其他殖民者实际治疗 300 点后，后续治疗附带五次每秒回复，每次每层卡基础回复 3 点。进度永久保存，续疗不累积进度或触发支援联动；同类续疗取强。 附带学会援护脉冲。 最多 4 层。</RHA_A15_SupportMain.description>
+  <RHA_A15_SupportMain.theme>支援与控制</RHA_A15_SupportMain.theme>
+  <RHA_A15_MightyShield.label>强力护盾</RHA_A15_MightyShield.label>
+  <RHA_A15_MightyShield.description>自己获得新增护盾时，每层卡增加 19.5% 伤害，持续 6 秒。只刷新已有护盾的持续时间不会触发。 附带学会援护脉冲。 最多 4 层。</RHA_A15_MightyShield.description>
+  <RHA_A15_MightyShield.theme>支援与控制</RHA_A15_MightyShield.theme>
+  <RHA_A15_SpiritBomb.label>灵魄炸弹</RHA_A15_SpiritBomb.label>
+  <RHA_A15_SpiritBomb.description>对其他殖民者的实际治疗与新增护盾累积能量，最多 200。有效支援使能量达到 150 时，消耗 150，对目标 5 格内至多八名殖民者每层基础治疗 20 点并给予 24 点护盾。间隔 10 秒；爆弹不自充能。 附带学会援护脉冲。 最多 4 层。</RHA_A15_SpiritBomb.description>
+  <RHA_A15_SpiritBomb.theme>支援与控制</RHA_A15_SpiritBomb.theme>
+  <RHA_A15_Adamant.label>坚若磐石</RHA_A15_Adamant.label>
+  <RHA_A15_Adamant.description>成功延长敌人的眩晕后叠加一层防御，最多五层，持续 8 秒。每层防御每层卡提供 13% 防御；控制收益每秒最多结算一次。 附带学会镇压脉冲。 最多 4 层。</RHA_A15_Adamant.description>
+  <RHA_A15_Adamant.theme>支援与控制</RHA_A15_Adamant.theme>
+  <RHA_A15_SlapAround.label>扇巴掌</RHA_A15_SlapAround.label>
+  <RHA_A15_SlapAround.description>成功延长合格敌人的眩晕后积累永久攻势，最多 200 层，受成长加成影响。每层攻势每层卡增加 1.95% 伤害。每秒最多结算一次。 附带学会镇压脉冲。 最多 4 层。</RHA_A15_SlapAround.description>
+  <RHA_A15_SlapAround.theme>支援与控制</RHA_A15_SlapAround.theme>
+  <RHA_A15_Tormentor.label>折磨之叉</RHA_A15_Tormentor.label>
+  <RHA_A15_Tormentor.description>成功延长敌人的眩晕后，对该敌人施加每层卡 灼烧（每次脉冲 2.6 点基础伤害）；每秒最多结算一次。被抵抗或没有延长的控制不触发。 附带学会镇压脉冲。 最多 4 层。</RHA_A15_Tormentor.description>
+  <RHA_A15_Tormentor.theme>支援与控制</RHA_A15_Tormentor.theme>
+  <RHA_A15_Porcupine.label>豪猪</RHA_A15_Porcupine.label>
+  <RHA_A15_Porcupine.description>承受敌人直接攻击的实际伤害积累尖刺，满 40 点后向周围 5 格内至多八名敌人反击，造成每层 20 点基础追加伤害并减速。间隔 10 秒；护盾吸收不充能，倒地时不反击。 附带学会镇压脉冲。 最多 4 层。</RHA_A15_Porcupine.description>
+  <RHA_A15_Porcupine.theme>支援与控制</RHA_A15_Porcupine.theme>
+</LanguageData>

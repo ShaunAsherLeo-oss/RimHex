@@ -1,0 +1,242 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Defs>
+  <ApparelLayerDef>
+    <defName>RHA_DragonLayer</defName>
+    <label>Dragonheart relic</label>
+    <drawOrder>301</drawOrder>
+  </ApparelLayerDef>
+  <ApparelLayerDef>
+    <defName>RHA_RuneLayer</defName>
+    <label>Runecarver relic</label>
+    <drawOrder>302</drawOrder>
+  </ApparelLayerDef>
+  <ApparelLayerDef>
+    <defName>RHA_OrbLayer</defName>
+    <label>Detonation orb relic</label>
+    <drawOrder>303</drawOrder>
+  </ApparelLayerDef>
+  <ApparelLayerDef>
+    <defName>RHA_CrownLayer</defName>
+    <label>Demon crown relic</label>
+    <drawOrder>304</drawOrder>
+  </ApparelLayerDef>
+  <ApparelLayerDef>
+    <defName>RHA_ReaperLayer</defName>
+    <label>Reaper relic</label>
+    <drawOrder>305</drawOrder>
+  </ApparelLayerDef>
+  <ApparelLayerDef>
+    <defName>RHA_BloodLayer</defName>
+    <label>Bloodforged relic</label>
+    <drawOrder>306</drawOrder>
+  </ApparelLayerDef>
+  <ApparelLayerDef>
+    <defName>RHA_DarksteelLayer</defName>
+    <label>Blacksteel relic</label>
+    <drawOrder>307</drawOrder>
+  </ApparelLayerDef>
+  <ApparelLayerDef>
+    <defName>RHA_TalismanLayer</defName>
+    <label>Sanctuary relic</label>
+    <drawOrder>308</drawOrder>
+  </ApparelLayerDef>
+  <ThingDef Name="RHA_RelicBase" ParentName="ApparelBase" Abstract="True">
+    <thingClass>Apparel</thingClass>
+    <useHitPoints>false</useHitPoints>
+    <techLevel>Archotech</techLevel>
+    <tradeability>None</tradeability>
+    <smeltable>false</smeltable>
+    <statBases>
+      <MaxHitPoints>1500</MaxHitPoints>
+      <DeteriorationRate>0</DeteriorationRate>
+      <Mass>0.5</Mass>
+      <EquipDelay>1</EquipDelay>
+      <MarketValue>1500</MarketValue>
+      <Flammability>0</Flammability>
+    </statBases>
+    <thingCategories>
+      <li>ApparelUtility</li>
+    </thingCategories>
+    <apparel>
+      <bodyPartGroups>
+        <li>Torso</li>
+      </bodyPartGroups>
+      <countsAsClothingForNudity>false</countsAsClothingForNudity>
+      <careIfWornByCorpse>false</careIfWornByCorpse>
+      <careIfDamaged>false</careIfDamaged>
+      <wearPerDay>0</wearPerDay>
+      <tags>
+        <li>RHA_Prismatic</li>
+      </tags>
+      <developmentalStageFilter>Child, Adult</developmentalStageFilter>
+    </apparel>
+  </ThingDef>
+  <ThingDef ParentName="RHA_RelicBase">
+    <defName>RHA_Dragonheart</defName>
+    <label>Dragonheart</label>
+    <description>Grants +60% body health, +40% direct damage and 0.8 ordinary injury healing per second. Every two days worn adds +25% health, +20% damage and 0.6 healing per second, up to six growth stages. At six stages, adds 20 percentage points to execution threshold.</description>
+    <graphicData>
+      <texPath>RimHex/Relics/Dragonheart</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <apparel>
+      <layers>
+        <li>RHA_DragonLayer</li>
+      </layers>
+    </apparel>
+    <comps>
+      <li Class="RimHex.CompProperties_Prismatic">
+        <power>Dragonheart</power>
+        <visualStyle>Fire</visualStyle>
+        <visualColor>(1.0000,0.5569,0.2902)</visualColor>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="RHA_RelicBase">
+    <defName>RHA_Runecarver</defName>
+    <label>Runecarver</label>
+    <description>chain level +1.5; direct damage +50%; move speed +25%. Every third valid direct hit triggers chain lightning, using the global chain range setting. Copied damage uses its resolved value; flat bonus damage can still be amplified.</description>
+    <graphicData>
+      <texPath>RimHex/Relics/Runecarver</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <apparel>
+      <layers>
+        <li>RHA_RuneLayer</li>
+      </layers>
+    </apparel>
+    <comps>
+      <li Class="RimHex.CompProperties_Prismatic">
+        <power>Runecarver</power>
+        <visualStyle>Storm</visualStyle>
+        <visualColor>(0.5451,0.6824,1.0000)</visualColor>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="RHA_RelicBase">
+    <defName>RHA_DetonationOrb</defName>
+    <label>Detonation orb</label>
+    <description>detonation level +1.5; direct damage +40%. Every fourth valid direct hit detonates within 4.5 cells of the target. Copied damage uses its resolved value; flat bonus damage can still be amplified.</description>
+    <graphicData>
+      <texPath>RimHex/Relics/DetonationOrb</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <apparel>
+      <layers>
+        <li>RHA_OrbLayer</li>
+      </layers>
+    </apparel>
+    <comps>
+      <li Class="RimHex.CompProperties_Prismatic">
+        <power>DetonationOrb</power>
+        <visualStyle>Fire</visualStyle>
+        <visualColor>(1.0000,0.5569,0.2902)</visualColor>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="RHA_RelicBase">
+    <defName>RHA_Crown</defName>
+    <label>Demon crown</label>
+    <description>Grants +50% body health, direct damage and global work speed. Your contribution to eligible enemy defeats builds renown; each effective point adds 4% health, 4% damage and 3% work speed. The first 20 points have full effect, with diminishing returns thereafter. Stored renown stays with the item. Renown is calculated separately from other permanent marks. Share growth among holders of the same ability who contributed in the last 30 seconds, using each holder's own rate. Count damage, added stun time and Hex-attributed healing or shield absorption. Healing must repair recent enemy damage. If damage contributors are present, support takes at most 25% of the pool. Bystanders, ordinary animals, prisoners and finishing downed targets give no growth.</description>
+    <graphicData>
+      <texPath>RimHex/Relics/Crown</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <apparel>
+      <layers>
+        <li>RHA_CrownLayer</li>
+      </layers>
+    </apparel>
+    <comps>
+      <li Class="RimHex.CompProperties_Prismatic">
+        <power>Crown</power>
+        <visualStyle>Solar</visualStyle>
+        <visualColor>(1.0000,0.8588,0.5098)</visualColor>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="RHA_RelicBase">
+    <defName>RHA_Reaper</defName>
+    <label>Reaper's scythe</label>
+    <description>execution threshold +15%; ranged cooldown divisor +1; melee cooldown divisor +1. Every third valid direct hit adds 25 + 14 times the target health multiplier as damage.</description>
+    <graphicData>
+      <texPath>RimHex/Relics/Reaper</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <apparel>
+      <layers>
+        <li>RHA_ReaperLayer</li>
+      </layers>
+    </apparel>
+    <comps>
+      <li Class="RimHex.CompProperties_Prismatic">
+        <power>Reaper</power>
+        <visualStyle>Void</visualStyle>
+        <visualColor>(0.7765,0.5412,1.0000)</visualColor>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="RHA_RelicBase">
+    <defName>RHA_Bloodmail</defName>
+    <label>Bloodforged armor</label>
+    <description>direct-hit lifesteal +35%; body health +120%; damage-taken divisor +0.5.</description>
+    <graphicData>
+      <texPath>RimHex/Relics/Bloodmail</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <apparel>
+      <layers>
+        <li>RHA_BloodLayer</li>
+      </layers>
+    </apparel>
+    <comps>
+      <li Class="RimHex.CompProperties_Prismatic">
+        <power>Bloodmail</power>
+        <visualStyle>Blood</visualStyle>
+        <visualColor>(0.9804,0.3608,0.5294)</visualColor>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="RHA_RelicBase">
+    <defName>RHA_Darksteel</defName>
+    <label>Blacksteel talons</label>
+    <description>steel growth level +1.5; body health +80%; damage-taken divisor +0.5. Eligible direct hits gain steel marks at most once every 2 seconds. Each permanent growth effect retains its full benefit through 100 points, then has diminishing returns.</description>
+    <graphicData>
+      <texPath>RimHex/Relics/Darksteel</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <apparel>
+      <layers>
+        <li>RHA_DarksteelLayer</li>
+      </layers>
+    </apparel>
+    <comps>
+      <li Class="RimHex.CompProperties_Prismatic">
+        <power>Darksteel</power>
+        <visualStyle>Steel</visualStyle>
+        <visualColor>(0.7412,0.8706,0.9176)</visualColor>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="RHA_RelicBase">
+    <defName>RHA_Talisman</defName>
+    <label>Immortal charm</label>
+    <description>damage-taken divisor +0.6; ordinary injury healed per second +2.5; move speed +35%. Blocks one hit and heals 35 ordinary injury points, at most once every 30 seconds.</description>
+    <graphicData>
+      <texPath>RimHex/Relics/Talisman</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <apparel>
+      <layers>
+        <li>RHA_TalismanLayer</li>
+      </layers>
+    </apparel>
+    <comps>
+      <li Class="RimHex.CompProperties_Prismatic">
+        <power>Talisman</power>
+        <visualStyle>Nature</visualStyle>
+        <visualColor>(0.4392,0.9216,0.7608)</visualColor>
+      </li>
+    </comps>
+  </ThingDef>
+</Defs>

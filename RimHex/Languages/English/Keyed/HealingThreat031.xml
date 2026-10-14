@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RHA_031_ThreatHealingCondition>Active only while this map has an active threat</RHA_031_ThreatHealingCondition>
+  <RHA_031_AidPeacePaused>No active threat; automatic healing paused</RHA_031_AidPeacePaused>
+  <RHA_031_AidThreatCondition>Automatic Aid requires an active threat on this map, including aid to downed patients. Manual casting remains available under its usual rules.</RHA_031_AidThreatCondition>
+  <RHA_031_PeriodicHealingRule>Regeneration, Perseverance, moving healing, Lifespring, automatic Aid, Field Injector, Lifeline and Spring trigger only while this map has an active threat. Manual, event and already applied finite healing continue.</RHA_031_PeriodicHealingRule>
+</LanguageData>

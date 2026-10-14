@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_STAR_Relic_REF_SanguineGift.nodes.0.label>分血承袭</RHA_STAR_Relic_REF_SanguineGift.nodes.0.label>
+  <RHA_STAR_Relic_REF_SanguineGift.nodes.0.description>保留原有伤害加成与蓄血：有效直接命中储存实际伤害的30%，达到60时消耗60，治疗本人和12格内最近的另一名殖民者，每次命中最多释放一次。后续分支只认可原蓄血治疗确实恢复队友普通伤势；满血、护盾与其他治疗不计。不附送战技。</RHA_STAR_Relic_REF_SanguineGift.nodes.0.description>
+  <RHA_STAR_Relic_REF_SanguineGift.nodes.1.label>赤潮余劲</RHA_STAR_Relic_REF_SanguineGift.nodes.1.label>
+  <RHA_STAR_Relic_REF_SanguineGift.nodes.1.description>原蓄血治疗实际恢复队友伤势后，储存一次6秒余劲，最多一次，生成冷却8秒。本人后续普通命中敌人时消耗余劲，追加75点基础伤害；产生余劲的那次攻击、技能和追加伤害不会兑现。 基础收益：伤害 75。</RHA_STAR_Relic_REF_SanguineGift.nodes.1.description>
+  <RHA_STAR_Relic_REF_SanguineGift.nodes.2.label>分血回环</RHA_STAR_Relic_REF_SanguineGift.nodes.2.label>
+  <RHA_STAR_Relic_REF_SanguineGift.nodes.2.description>10秒内，原蓄血治疗先后实际恢复两名不同队友的伤势，再治疗本人4格内视线畅通、伤势最重的另一名殖民者20点基础普通伤势，冷却8秒。本人不计为队友，重复对象不计数也不延长窗口。 基础收益：治疗 20。</RHA_STAR_Relic_REF_SanguineGift.nodes.2.description>
+  <RHA_STAR_Relic_REF_SanguineGift.nodes.3.label>余劲回赠</RHA_STAR_Relic_REF_SanguineGift.nodes.3.label>
+  <RHA_STAR_Relic_REF_SanguineGift.nodes.3.description>赤潮余劲的追加伤害实际生效后，治疗本人4格内视线畅通、伤势最重的另一名殖民者20点基础普通伤势，冷却8秒。没有可恢复伤势时不储存治疗，也不转给本人。 基础收益：治疗 20。</RHA_STAR_Relic_REF_SanguineGift.nodes.3.description>
+  <RHA_STAR_Relic_REF_SanguineGift.nodes.4.label>赤潮留痕</RHA_STAR_Relic_REF_SanguineGift.nodes.4.label>
+  <RHA_STAR_Relic_REF_SanguineGift.nodes.4.description>赤潮余劲的追加伤害实际生效后，在受击格留下固定血潮。1秒后对其2格内视线畅通的至多两名敌人各造成25点基础伤害，冷却8秒。血潮不追踪目标。 基础收益：伤害 25。</RHA_STAR_Relic_REF_SanguineGift.nodes.4.description>
+  <RHA_STAR_Relic_REF_SanguineGift.nodes.5.label>回环护身</RHA_STAR_Relic_REF_SanguineGift.nodes.5.label>
+  <RHA_STAR_Relic_REF_SanguineGift.nodes.5.description>分血回环的额外治疗实际生效后，为本人提供50点基础护盾，持续3秒，冷却8秒。只是释放原治疗或蓄血时不提供护盾。 基础收益：护盾 50。</RHA_STAR_Relic_REF_SanguineGift.nodes.5.description>
+  <RHA_STAR_Relic_REF_SanguineGift.nodes.6.label>回环同袍</RHA_STAR_Relic_REF_SanguineGift.nodes.6.label>
+  <RHA_STAR_Relic_REF_SanguineGift.nodes.6.description>分血回环的额外治疗实际生效后，为本人4格内视线畅通、最近的另一名殖民者提供50点基础护盾，持续3秒，冷却8秒。没有合适队友时不转给本人。 基础收益：护盾 50。</RHA_STAR_Relic_REF_SanguineGift.nodes.6.description>
+</LanguageData>

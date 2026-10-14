@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RHA_BallistaCalibration037.label>桩弩校射</RHA_BallistaCalibration037.label>
+  <RHA_BallistaCalibration037.description>同一敌人的有效远程命中积累最多三层校射；下次本持有者四格外远程命中每层将本击原生锐甲评分降低10个百分点，不改常驻护甲。切换合格目标或源装备结束清除，六秒到期。</RHA_BallistaCalibration037.description>
+  <RHA_BallistaSuppression037.label>弩压抑制</RHA_BallistaSuppression037.label>
+  <RHA_BallistaSuppression037.description>预先已有三层校射的有效远程命中消费所有层，三秒内攻击速度降低20%，原生近战及远程冷却系数乘1.25。同名效果只生效一层，各持有者来源分别保留。</RHA_BallistaSuppression037.description>
+  <RHA_BallistaTether037.label>缆矢压制</RHA_BallistaTether037.label>
+  <RHA_BallistaTether037.description>每第三次有效原生远程命中生成五秒缆矢，冻结移动和站桩两笔锐伤载荷。目标真实寻路累计一格结算一次，最多四次；完全未自然移动到期结算站桩载荷。传送、强制位置、搬运和倒地移动不计步。新矢替换本作者旧矢不提前结算，卸装或目标结束清除。</RHA_BallistaTether037.description>
+<RHA_BallistaPreaim037.label>长距预瞄</RHA_BallistaPreaim037.label>
+  <RHA_BallistaPreaim037.description>真正穿戴破城巨弩，对12格或更远敌人造成有效原生普通远程伤害后，获得一份六秒预瞄。四秒门同时限制新授与刷新，门内命中不延长期限。下一次真正被接纳的原生普通武器瞄准消费预瞄，将原有倍率后整数瞄准刻数减少30%，最多减少30刻且保留至少1刻；减幅为零不消费，也不把原零刻瞄准改成一刻。消费后取消、失去目标或射失不返还；卸装清预瞄但保留创建门。</RHA_BallistaPreaim037.description>
+</LanguageData>

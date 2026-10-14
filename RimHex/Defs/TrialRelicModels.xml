@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Defs>
+  <RimHex.HexRelicModelDef>
+    <defName>RHA_Model_StormPike</defName>
+    <texturePath>RimHex/Relics/StormPike</texturePath>
+    <emissionPath>RimHex/RelicGlow/StormPike</emissionPath>
+    <drawScale>1.0</drawScale>
+  </RimHex.HexRelicModelDef>
+  <RimHex.HexRelicModelDef>
+    <defName>RHA_Model_StormAegis</defName>
+    <texturePath>RimHex/Relics/StormAegis</texturePath>
+    <emissionPath>RimHex/RelicGlow/StormAegis</emissionPath>
+    <drawScale>1.0</drawScale>
+  </RimHex.HexRelicModelDef>
+  <RimHex.HexRelicModelDef>
+    <defName>RHA_Model_FurnaceHammer</defName>
+    <texturePath>RimHex/Relics/FurnaceHammer</texturePath>
+    <emissionPath>RimHex/RelicGlow/FurnaceHammer</emissionPath>
+    <drawScale>1.0</drawScale>
+  </RimHex.HexRelicModelDef>
+  <RimHex.HexRelicModelDef>
+    <defName>RHA_Model_FurnacePlate</defName>
+    <texturePath>RimHex/Relics/FurnacePlate</texturePath>
+    <emissionPath>RimHex/RelicGlow/FurnacePlate</emissionPath>
+    <drawScale>1.0</drawScale>
+  </RimHex.HexRelicModelDef>
+  <RimHex.HexRelicModelDef>
+    <defName>RHA_Model_SoulLantern</defName>
+    <texturePath>RimHex/Relics/SoulLantern</texturePath>
+    <emissionPath>RimHex/RelicGlow/SoulLantern</emissionPath>
+    <drawScale>1.0</drawScale>
+  </RimHex.HexRelicModelDef>
+  <RimHex.HexRelicModelDef>
+    <defName>RHA_Model_SoulSeal</defName>
+    <texturePath>RimHex/Relics/SoulSeal</texturePath>
+    <emissionPath>RimHex/RelicGlow/SoulSeal</emissionPath>
+    <drawScale>1.0</drawScale>
+  </RimHex.HexRelicModelDef>
+</Defs>

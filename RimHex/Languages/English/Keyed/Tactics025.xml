@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_V25_NoMap>Requires a map</RHA_V25_NoMap>
+  <RHA_V25_Recovery>Recovering: {0}</RHA_V25_Recovery>
+  <RHA_V25_NoCounter>Requires a successful guard with an unexpired riposte</RHA_V25_NoCounter>
+  <RHA_V25_Limit>Mine limit reached</RHA_V25_Limit>
+  <RHA_V25_NoMine>No active mines owned by this colonist</RHA_V25_NoMine>
+  <RHA_V25_Manual>This control is manual only</RHA_V25_Manual>
+  <RHA_V25_MineTime>Mine · {0}s</RHA_V25_MineTime>
+  <RHA_V25_Stance>Guarding: {0}</RHA_V25_Stance>
+  <RHA_V25_Counter>Riposte ready: {0}</RHA_V25_Counter>
+  <RHA_V25_Idle>Guard inactive</RHA_V25_Idle>
+  <RHA_V25_Mines>Mines: owner {0}/3, map {1}/12</RHA_V25_Mines>
+  <RHA_V25_Status>Guard and mines</RHA_V25_Status>
+  <RHA_V25_StatusDesc>Inspect guard windows, stored ripostes and active mines.</RHA_V25_StatusDesc>
+</LanguageData>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_STAR_Relic_REF_Ascension.nodes.0.label>五相承袭</RHA_STAR_Relic_REF_Ascension.nodes.0.label>
+  <RHA_STAR_Relic_REF_Ascension.nodes.0.description>保留飞升原有五项随机加成、每日两次重新掷属性、累计次数成长和数值递减。分支只在本件遗物的原命令成功重新掷属性后处理一次，不额外掷点、不返还次数，不附送战技。比较原始加成，并列按伤害、生命、防御、移速、攻速的顺序选一项。</RHA_STAR_Relic_REF_Ascension.nodes.0.description>
+  <RHA_STAR_Relic_REF_Ascension.nodes.1.label>留势</RHA_STAR_Relic_REF_Ascension.nodes.1.label>
+  <RHA_STAR_Relic_REF_Ascension.nodes.1.description>重新掷属性前，记住五项原始加成中最高的一项。如果本次该项降低，保留这次损失的25%：新值再加上旧值与新值差额的四分之一。其余四项照常替换，没有下降时不调整，不重复处理同一次掷点。</RHA_STAR_Relic_REF_Ascension.nodes.1.description>
+  <RHA_STAR_Relic_REF_Ascension.nodes.2.label>补缺</RHA_STAR_Relic_REF_Ascension.nodes.2.label>
+  <RHA_STAR_Relic_REF_Ascension.nodes.2.description>成功重新掷属性后，取这次五项原始加成中最低的一项，补上最高与最低差额的20%。只处理一项一次，最高值不变；五项相同时不补。下次掷点仍照常重新替换，不把补值永久叠进下一次掷点。</RHA_STAR_Relic_REF_Ascension.nodes.2.description>
+  <RHA_STAR_Relic_REF_Ascension.nodes.3.label>余势追击</RHA_STAR_Relic_REF_Ascension.nodes.3.label>
+  <RHA_STAR_Relic_REF_Ascension.nodes.3.description>留势实际保住加成后，保留一次20秒追击机会，最多一次。本人后续普通命中敌人时消耗机会，追加75点基础伤害。技能、追加伤害和转交遗物不能兑现；没有实际保住加成则不产生机会。 基础收益：伤害 75。</RHA_STAR_Relic_REF_Ascension.nodes.3.description>
+  <RHA_STAR_Relic_REF_Ascension.nodes.4.label>守势回息</RHA_STAR_Relic_REF_Ascension.nodes.4.label>
+  <RHA_STAR_Relic_REF_Ascension.nodes.4.description>留势实际保住加成后，治疗本人40点基础可恢复伤势。每次成功调整只治疗一次；满血、永久伤疤和缺失部位没有额外收益。 基础收益：治疗 40。</RHA_STAR_Relic_REF_Ascension.nodes.4.description>
+  <RHA_STAR_Relic_REF_Ascension.nodes.5.label>补相相济</RHA_STAR_Relic_REF_Ascension.nodes.5.label>
+  <RHA_STAR_Relic_REF_Ascension.nodes.5.description>补缺实际提高最低加成后，治疗本人4格内视线畅通、伤势最重的另一名殖民者40点基础普通伤势。每次调整只支援一人一次；没有合适伤者时不转给本人。 基础收益：治疗 40。</RHA_STAR_Relic_REF_Ascension.nodes.5.description>
+  <RHA_STAR_Relic_REF_Ascension.nodes.6.label>五相护身</RHA_STAR_Relic_REF_Ascension.nodes.6.label>
+  <RHA_STAR_Relic_REF_Ascension.nodes.6.description>补缺实际提高最低加成后，为本人提供75点基础护盾，持续20秒。每次调整只提供一面；不增加每日掷点次数，单纯穿戴或失败命令不能获得护盾。 基础收益：护盾 75。</RHA_STAR_Relic_REF_Ascension.nodes.6.description>
+</LanguageData>

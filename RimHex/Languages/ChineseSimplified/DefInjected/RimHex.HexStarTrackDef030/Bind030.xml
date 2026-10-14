@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_STAR_Skill_Bind015.nodes.0.label>压制节律</RHA_STAR_Skill_Bind015.nodes.0.label>
+  <RHA_STAR_Skill_Bind015.nodes.0.description>先通过对应强化卡学会压制脉冲。保留原伤害、控制时间、射程与冷却。后续节点需要这项战技实际增加目标的眩晕时间；免控或未延长已有眩晕时不触发。</RHA_STAR_Skill_Bind015.nodes.0.description>
+  <RHA_STAR_Skill_Bind015.nodes.1.label>破绽锁定</RHA_STAR_Skill_Bind015.nodes.1.label>
+  <RHA_STAR_Skill_Bind015.nodes.1.description>压制脉冲实际增加眩晕时间后，给目标留下6秒破绽，最多一个，生成冷却8秒。本人后续普通命中该目标时消耗破绽，追加50点伤害。转火不会兑现。 基础收益：伤害 50。</RHA_STAR_Skill_Bind015.nodes.1.description>
+  <RHA_STAR_Skill_Bind015.nodes.2.label>压制屏障</RHA_STAR_Skill_Bind015.nodes.2.label>
+  <RHA_STAR_Skill_Bind015.nodes.2.description>压制脉冲实际增加眩晕时间后，为本人提供50点基础护盾，持续3秒，冷却8秒。保留已有护盾倍率。 基础收益：护盾 50。</RHA_STAR_Skill_Bind015.nodes.2.description>
+  <RHA_STAR_Skill_Bind015.nodes.3.label>破绽迸裂</RHA_STAR_Skill_Bind015.nodes.3.label>
+  <RHA_STAR_Skill_Bind015.nodes.3.description>本人兑现破绽锁定的追加伤害后，对受击点3格内视线畅通的另一名敌人追加25点伤害，冷却8秒。不重复击打原目标，不附加眩晕。 基础收益：伤害 25。</RHA_STAR_Skill_Bind015.nodes.3.description>
+  <RHA_STAR_Skill_Bind015.nodes.4.label>压制回补</RHA_STAR_Skill_Bind015.nodes.4.label>
+  <RHA_STAR_Skill_Bind015.nodes.4.description>本人兑现破绽锁定的追加伤害后，治疗本人20点基础可恢复伤势，冷却8秒。不恢复缺失部位或永久伤疤。 基础收益：治疗 20。</RHA_STAR_Skill_Bind015.nodes.4.description>
+  <RHA_STAR_Skill_Bind015.nodes.5.label>控场掩护</RHA_STAR_Skill_Bind015.nodes.5.label>
+  <RHA_STAR_Skill_Bind015.nodes.5.description>压制脉冲实际增加眩晕时间后，为本人4格内视线畅通、最近的另一名殖民者提供50点基础护盾，持续3秒，冷却8秒。 基础收益：护盾 50。</RHA_STAR_Skill_Bind015.nodes.5.description>
+  <RHA_STAR_Skill_Bind015.nodes.6.label>制敌救援</RHA_STAR_Skill_Bind015.nodes.6.label>
+  <RHA_STAR_Skill_Bind015.nodes.6.description>压制脉冲实际增加眩晕时间后，治疗本人4格内视线畅通、伤势最重的另一名殖民者20点基础伤势，冷却8秒。没有伤员时不转为治疗本人。 基础收益：治疗 20。</RHA_STAR_Skill_Bind015.nodes.6.description>
+</LanguageData>

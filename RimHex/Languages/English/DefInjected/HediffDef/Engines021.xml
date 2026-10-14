@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_EngineStatus021.label>Build engines</RHA_EngineStatus021.label>
+  <RHA_EngineStatus021.description>Inspect the current flywheel, prismatic magazine and resonance relay state.</RHA_EngineStatus021.description>
+</LanguageData>

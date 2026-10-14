@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Defs>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_A21_flywheel</defName>
+    <label>Storm Flywheel</label>
+    <description>Grants Storm Spin and Wind-down Strike. Starting a spin grants 24 shield, at most once every 8 seconds regardless of haste or cooldown refunds. Every 0.5 seconds, hit up to 8 enemies for 3.5 base ability damage. The first 3 seconds cost no shield; each later pulse spends 8 shield, for at most 12 seconds total. Reserve 0/10/25/50 shield with the pawn command (default 10). Movement remains available; standing still grows the radius from 3 to 4.5 cells. Wind-down ends the spin and strikes one enemy for 8 plus 1.5 per completed pulse, capped at 44 base damage. Existing spin abilities also start the flywheel, but cannot stack or refresh an active spin.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Build engines</theme>
+    <weight>100</weight>
+    <maxStacks>1</maxStacks>
+    <iconPath>RimHex/Cards/RHA_A21_flywheel</iconPath>
+    <mechanics>
+      <li>
+        <key>flywheel021</key>
+        <amount>1</amount>
+      </li>
+    </mechanics>
+    <grantsSkills>
+      <li>Spin021</li>
+      <li>Finish021</li>
+    </grantsSkills>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_A21_magazine</defName>
+    <label>Prismatic Magazine</label>
+    <description>Stores 5 prismatic rounds. A damaging basic ranged hit on an enemy spends one round for 6 extra base damage; the last round deals 10. At most one round is spent per 0.25 seconds; pellets and secondary procs cannot spend extra rounds. Lethal hits still spend a round. After 3 seconds without spending ammunition, restore one round, then one every 2 seconds. Walking 6 sampled cells restores one round, at most once per 2 seconds; movement abilities do not count. Grants Empty the Magazine: spend every remaining round for 7 base ability damage each. Requires an equipped ranged weapon. Autocast waits for a full magazine.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Build engines</theme>
+    <weight>100</weight>
+    <maxStacks>1</maxStacks>
+    <iconPath>RimHex/Cards/RHA_A21_magazine</iconPath>
+    <mechanics>
+      <li>
+        <key>magazine021</key>
+        <amount>1</amount>
+      </li>
+    </mechanics>
+    <grantsSkills>
+      <li>Salvo021</li>
+    </grantsSkills>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_A21_relay</defName>
+    <label>Resonance Node</label>
+    <description>Grants Deploy Node, Resonance Pulse and Recall Node. Place a stationary projection lasting 30 seconds within 12 cells, or designate one of your own summons as a relay. A relay must remain within 18 cells of its owner with clear line of sight. Resonance Pulse, Crystal bolt and Aid pulse cast from the linked summon; range and sight are measured from it. Other abilities are unchanged. A broken link falls back to the caster. Resonance Pulse deals 14 base damage. Recall consumes the designated summon, grants 16 shield and strengthens the next Resonance Pulse within 6 seconds to 21 base damage. Recall is manual only and can be used once every 6 seconds, regardless of haste or cooldown refunds.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Build engines</theme>
+    <weight>100</weight>
+    <maxStacks>1</maxStacks>
+    <iconPath>RimHex/Cards/RHA_A21_relay</iconPath>
+    <mechanics>
+      <li>
+        <key>relay021</key>
+        <amount>1</amount>
+      </li>
+    </mechanics>
+    <grantsSkills>
+      <li>Node021</li>
+      <li>Relay021</li>
+      <li>Recall021</li>
+    </grantsSkills>
+  </RimHex.HexAugmentDef>
+</Defs>

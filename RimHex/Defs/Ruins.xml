@@ -1,0 +1,168 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Defs>
+  <RimHex.HexRuinDef>
+    <defName>RHA_Ruin_Forge</defName>
+    <label>abandoned foundry</label>
+    <description>Heat still lingers in the old production line. Repair it, risk an emergency restart, or strip it for parts.</description>
+    <layout>Forge</layout>
+    <iconPath>RimHex/Ruins/Forge</iconPath>
+    <color>(0.73,0.54,0.35)</color>
+    <events>
+      <li>RHA_RuinEvent_Forge1</li>
+      <li>RHA_RuinEvent_Forge2</li>
+      <li>RHA_RuinEvent_Forge3</li>
+      <li>RHA_RuinEvent_Forge4</li>
+    </events>
+    <relics>
+      <li>RHA_RUIN_FurnaceGrip</li>
+      <li>RHA_RUIN_HeatReservoir</li>
+    </relics>
+  </RimHex.HexRuinDef>
+  <RimHex.HexRuinDef>
+    <defName>RHA_Ruin_Archive</defName>
+    <label>lost research station</label>
+    <description>Research equipment and medical chambers remain under security lockdown. Preserving their records helps recover intact instruments.</description>
+    <layout>Archive</layout>
+    <iconPath>RimHex/Ruins/Archive</iconPath>
+    <color>(0.48,0.68,0.75)</color>
+    <events>
+      <li>RHA_RuinEvent_Archive1</li>
+      <li>RHA_RuinEvent_Archive2</li>
+      <li>RHA_RuinEvent_Archive3</li>
+      <li>RHA_RuinEvent_Archive4</li>
+    </events>
+    <relics>
+      <li>RHA_RUIN_RefractionLens</li>
+      <li>RHA_RUIN_FieldInjector</li>
+    </relics>
+  </RimHex.HexRuinDef>
+  <RimHex.HexRuinDef>
+    <defName>RHA_Ruin_Vault</defName>
+    <label>sealed armory</label>
+    <description>Expired requisitions and guards still following their orders stand between you and the sealed equipment cases.</description>
+    <layout>Vault</layout>
+    <iconPath>RimHex/Ruins/Vault</iconPath>
+    <color>(0.72,0.64,0.43)</color>
+    <events>
+      <li>RHA_RuinEvent_Vault1</li>
+      <li>RHA_RuinEvent_Vault2</li>
+      <li>RHA_RuinEvent_Vault3</li>
+      <li>RHA_RuinEvent_Vault4</li>
+    </events>
+    <relics>
+      <li>RHA_RUIN_BreachBow</li>
+      <li>RHA_RUIN_EscortSeal</li>
+    </relics>
+  </RimHex.HexRuinDef>
+  <WorldObjectDef ParentName="StaticWorldObjectBase">
+    <defName>RHA_RuinSite</defName>
+    <label>hex ruin</label>
+    <description>An old installation with sealed equipment and several ways inside.</description>
+    <worldObjectClass>RimHex.HexRuinSite</worldObjectClass>
+    <canHaveMap>true</canHaveMap>
+    <canBePlayerHome>false</canBePlayerHome>
+    <texture>RimHex/Ruins/Vault</texture>
+    <expandingIcon>true</expandingIcon>
+    <expandingIconTexture>RimHex/Ruins/Vault</expandingIconTexture>
+    <expandingIconPriority>70</expandingIconPriority>
+    <blockExitGridUntilBattleIsWon>false</blockExitGridUntilBattleIsWon>
+    <mapGenerator>Encounter</mapGenerator>
+    <comps>
+      <li Class="WorldObjectCompProperties_FormCaravan" />
+    </comps>
+  </WorldObjectDef>
+  <ThingDef ParentName="BuildingBase">
+    <defName>RHA_RuinConsole_Forge</defName>
+    <label>abandoned foundry console</label>
+    <description>Inspect this installation to assign an operator and choose an approach. Later facilities remain locked until earlier encounters are resolved.</description>
+    <thingClass>RimHex.Building_HexRuinConsole</thingClass>
+    <size>(1,1)</size>
+    <rotatable>false</rotatable>
+    <altitudeLayer>Building</altitudeLayer>
+    <passability>PassThroughOnly</passability>
+    <fillPercent>0.4</fillPercent>
+    <useHitPoints>false</useHitPoints>
+    <destroyable>false</destroyable>
+    <graphicData>
+      <texPath>RimHex/Ruins/ConsoleForge</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(1.5,1.5)</drawSize>
+    </graphicData>
+    <statBases>
+      <MaxHitPoints>1500</MaxHitPoints>
+      <Mass>30</Mass>
+      <Flammability>0</Flammability>
+      <MarketValue>0</MarketValue>
+    </statBases>
+    <building>
+      <deconstructible>false</deconstructible>
+    </building>
+  </ThingDef>
+  <ThingDef ParentName="BuildingBase">
+    <defName>RHA_RuinConsole_Archive</defName>
+    <label>lost research station console</label>
+    <description>Inspect this installation to assign an operator and choose an approach. Later facilities remain locked until earlier encounters are resolved.</description>
+    <thingClass>RimHex.Building_HexRuinConsole</thingClass>
+    <size>(1,1)</size>
+    <rotatable>false</rotatable>
+    <altitudeLayer>Building</altitudeLayer>
+    <passability>PassThroughOnly</passability>
+    <fillPercent>0.4</fillPercent>
+    <useHitPoints>false</useHitPoints>
+    <destroyable>false</destroyable>
+    <graphicData>
+      <texPath>RimHex/Ruins/ConsoleArchive</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(1.5,1.5)</drawSize>
+    </graphicData>
+    <statBases>
+      <MaxHitPoints>1500</MaxHitPoints>
+      <Mass>30</Mass>
+      <Flammability>0</Flammability>
+      <MarketValue>0</MarketValue>
+    </statBases>
+    <building>
+      <deconstructible>false</deconstructible>
+    </building>
+  </ThingDef>
+  <ThingDef ParentName="BuildingBase">
+    <defName>RHA_RuinConsole_Vault</defName>
+    <label>sealed armory console</label>
+    <description>Inspect this installation to assign an operator and choose an approach. Later facilities remain locked until earlier encounters are resolved.</description>
+    <thingClass>RimHex.Building_HexRuinConsole</thingClass>
+    <size>(1,1)</size>
+    <rotatable>false</rotatable>
+    <altitudeLayer>Building</altitudeLayer>
+    <passability>PassThroughOnly</passability>
+    <fillPercent>0.4</fillPercent>
+    <useHitPoints>false</useHitPoints>
+    <destroyable>false</destroyable>
+    <graphicData>
+      <texPath>RimHex/Ruins/ConsoleVault</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(1.5,1.5)</drawSize>
+    </graphicData>
+    <statBases>
+      <MaxHitPoints>1500</MaxHitPoints>
+      <Mass>30</Mass>
+      <Flammability>0</Flammability>
+      <MarketValue>0</MarketValue>
+    </statBases>
+    <building>
+      <deconstructible>false</deconstructible>
+    </building>
+  </ThingDef>
+  <HediffDef>
+    <defName>RHA_RuinGuard</defName>
+    <label>ruin guardian</label>
+    <description>Reinforced armor protects this old security machine.</description>
+    <hediffClass>RimHex.Hediff_HexRuinGuard</hediffClass>
+    <isBad>false</isBad>
+    <scenarioCanAdd>false</scenarioCanAdd>
+  </HediffDef>
+  <JobDef>
+    <defName>RHA_ExploreRuin</defName>
+    <driverClass>RimHex.JobDriver_HexRuin</driverClass>
+    <reportString>working on TargetA.</reportString>
+  </JobDef>
+</Defs>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Defs>
+  <HediffDef>
+    <defName>RHA_StarBodyguardCommander</defName>
+    <label>hunt commander</label>
+    <description>Hunters pursue the first selected helper in roster order, or the applicant when entering alone. The target is named before departure and stays fixed. Intercept the hunters or move the target to safety. A hunter kill exposes the commander for 3 seconds with 25% extra damage; killing the commander stops future waves. Clear every deployed enemy while keeping the protected colonist alive on this map. A downed helper may be carried and rescued, but hunters will pursue the carrier. Earn personal damage or actual healing and shield contribution; helpers may finish enemies.</description>
+    <hediffClass>RimHex.Hediff_HexStarConduit030</hediffClass>
+    <isBad>false</isBad>
+  </HediffDef>
+  <HediffDef>
+    <defName>RHA_StarBodyguardHunter</defName>
+    <label>marked-target hunter</label>
+    <description>Hunters pursue the first selected helper in roster order, or the applicant when entering alone. The target is named before departure and stays fixed. Intercept the hunters or move the target to safety. A hunter kill exposes the commander for 3 seconds with 25% extra damage; killing the commander stops future waves. Clear every deployed enemy while keeping the protected colonist alive on this map. A downed helper may be carried and rescued, but hunters will pursue the carrier. Earn personal damage or actual healing and shield contribution; helpers may finish enemies.</description>
+    <hediffClass>RimHex.Hediff_HexStarConduit030</hediffClass>
+    <isBad>false</isBad>
+  </HediffDef>
+  <DutyDef>
+    <defName>RHA_StarBodyguardHunt</defName>
+    <alwaysShowWeapon>true</alwaysShowWeapon>
+    <thinkNode Class="ThinkNode_Priority">
+      <subNodes>
+        <li Class="RimHex.JobGiver_HexStarBodyguard030">
+          <targetAcquireRadius>90</targetAcquireRadius>
+          <targetKeepRadius>100</targetKeepRadius>
+          <chaseTarget>true</chaseTarget>
+        </li>
+        <li Class="JobGiver_AITrashDutyFocus" />
+        <li Class="JobGiver_AISapper" />
+      </subNodes>
+    </thinkNode>
+  </DutyDef>
+</Defs>

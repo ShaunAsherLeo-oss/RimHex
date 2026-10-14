@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_Skill_Swarm016.label>晶蜂呼唤</RHA_Skill_Swarm016.label>
+  <RHA_Skill_Swarm016.description>在附近召唤两只晶蜂，持续 15 秒，基础冷却 18 秒。召唤物只继承主人 25% 生命加成与 35% 伤害加成及召唤专属强化，生成时固定。每人最多六只，每图最多二十四只；没有装备、产物和主人命中收益。主人离图或失去控制时消散。</RHA_Skill_Swarm016.description>
+  <RHA_Skill_Mirror016.label>镜像投射</RHA_Skill_Mirror016.label>
+  <RHA_Skill_Mirror016.description>在附近召唤两具镜像战斗投影，持续 15 秒，基础冷却 24 秒。召唤物只继承主人 25% 生命加成与 35% 伤害加成及召唤专属强化，生成时固定。每人最多六只，每图最多二十四只；没有装备、产物和主人命中收益。主人离图或失去控制时消散。</RHA_Skill_Mirror016.description>
+  <RHA_Skill_Sanctuary016.label>庇护星环</RHA_Skill_Sanctuary016.label>
+  <RHA_Skill_Sanctuary016.description>获得庇护星环：为自己和周围 5 格内可见的己方殖民者免疫直接伤害 1 秒，基础冷却 30 秒。疾病、缺失器官和延迟伤势债仍会结算。</RHA_Skill_Sanctuary016.description>
+</LanguageData>

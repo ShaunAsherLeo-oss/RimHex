@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RHA_CloseDenySlow037.label>短兵拒止</RHA_CloseDenySlow037.label>
+  <RHA_CloseDenySlow037.description>受到近距离普通攻击的拒止效果，移速降低40%，持续2秒。多次施加只刷新同一个状态。</RHA_CloseDenySlow037.description>
+</LanguageData>

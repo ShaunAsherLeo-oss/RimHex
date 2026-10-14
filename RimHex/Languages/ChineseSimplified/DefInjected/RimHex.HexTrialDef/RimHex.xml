@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_Trial_Storm.label>雷霆穹顶</RHA_Trial_Storm.label>
+  <RHA_Trial_Storm.description>霆王每 8 秒标记最多三名目标，2 秒后在标记位置落雷。观察蓝色范围预警并移动避开，眩晕可以打断尚未释放的落雷。</RHA_Trial_Storm.description>
+  <RHA_Trial_Storm.bossName>霆王</RHA_Trial_Storm.bossName>
+  <RHA_Trial_Forge.label>熔炉深庭</RHA_Trial_Forge.label>
+  <RHA_Trial_Forge.description>熔炉巨像每 8 秒发动一次蓄力重击，2.5 秒后震击目标区域，并留下持续 5 秒的熔火。避开橙色预警，离开持续燃烧的地面。</RHA_Trial_Forge.description>
+  <RHA_Trial_Forge.bossName>熔炉巨像</RHA_Trial_Forge.bossName>
+  <RHA_Trial_Soul.label>群魂回廊</RHA_Trial_Soul.label>
+  <RHA_Trial_Soul.description>群魂领主在交战时每 8 秒召唤两名短暂存在的仆从。附近每名同伴使其伤害提高 10%，上限 60%，并在召唤时恢复伤势。优先清理仆从可削弱首领。</RHA_Trial_Soul.description>
+  <RHA_Trial_Soul.bossName>群魂领主</RHA_Trial_Soul.bossName>
+</LanguageData>

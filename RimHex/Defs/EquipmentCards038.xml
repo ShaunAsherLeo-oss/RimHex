@@ -1,0 +1,195 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Defs>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX61A</defName>
+    <label>Rapid capacitor</label>
+    <description>Repeated hits against the last discharge target charge 35 instead of 25. Target-switch charging and the original 2-second discharge cooldown remain.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>61</relicIndex>
+    <band>0</band>
+    <equipmentDefName>RHA_038_Fulmination</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards038/RHA_REX61A</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX61B</defName>
+    <label>Arc relay</label>
+    <description>After Fulmination actually injures its discharge target, arc once to the nearest other standing hostile within 3 cells among at most 3 local candidates. Deal 30% of resolved discharge damage, up to 75. This arc cannot charge or discharge Fulmination.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>61</relicIndex>
+    <band>1</band>
+    <equipmentDefName>RHA_038_Fulmination</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards038/RHA_REX61B</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX61C</defName>
+    <label>Insulated recoil</label>
+    <description>After Fulmination actually injures its discharge target, grant the wearer a 20-point shield for 3 seconds if their current barrier is below 20. Preserves stronger-shield replacement rules.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>61</relicIndex>
+    <band>2</band>
+    <equipmentDefName>RHA_038_Fulmination</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards038/RHA_REX61C</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX62A</defName>
+    <label>Purifying rhythm</label>
+    <description>Each abnormal state actually cleared by Quicksilver reduces this activation's cooldown by 1.5 seconds, up to 6 seconds; final cooldown is at least 6 seconds. Healing is part of the item's base cleanse and is not repeated by this card.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>62</relicIndex>
+    <band>0</band>
+    <equipmentDefName>RHA_038_Quicksilver</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards038/RHA_REX62A</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX62B</defName>
+    <label>Freedom ward</label>
+    <description>A successful Quicksilver cleanse grants a 30-point shield for 3 seconds if the wearer's current barrier is below 30. No shield is created by a no-op activation.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>62</relicIndex>
+    <band>1</band>
+    <equipmentDefName>RHA_038_Quicksilver</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards038/RHA_REX62B</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX62C</defName>
+    <label>Released counter</label>
+    <description>A successful Quicksilver cleanse arms one 18-point additional hit for 5 seconds. The next positive direct hostile hit consumes it before callbacks. Removing the item, dying or leaving the map cancels it; additional damage cannot trigger another counter.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>62</relicIndex>
+    <band>2</band>
+    <equipmentDefName>RHA_038_Quicksilver</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards038/RHA_REX62C</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX63A</defName>
+    <label>Sacrificial resolve</label>
+    <description>Share 20% instead of 14%, retaining the 75-point payment cap and 30% protector health floor.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>63</relicIndex>
+    <band>0</band>
+    <equipmentDefName>RHA_038_KnightsVow</equipmentDefName>
+    <enemyEligible>false</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards038/RHA_REX62B</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX63B</defName>
+    <label>Worthy return</label>
+    <description>The pledged ally's resolved hostile damage repairs 18% instead of 12%; final injury repair remains capped at 20 per event.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>63</relicIndex>
+    <band>1</band>
+    <equipmentDefName>RHA_038_KnightsVow</equipmentDefName>
+    <enemyEligible>false</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards038/RHA_REX27C</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX63C</defName>
+    <label>Afterguard</label>
+    <description>After a transfer with actual paid cost and the ally's hit has resolved, grant the ally a 25-point shield for 3 seconds if their existing barrier is weaker. At most once every 8 seconds.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>63</relicIndex>
+    <band>2</band>
+    <equipmentDefName>RHA_038_KnightsVow</equipmentDefName>
+    <enemyEligible>false</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards038/RHA_REX61C</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX64A</defName>
+    <label>Extended stillness</label>
+    <description>Stasis lasts 3 seconds instead of 2.5. Item haste still affects only cooldown.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>64</relicIndex>
+    <band>0</band>
+    <equipmentDefName>RHA_038_Zhonya</equipmentDefName>
+    <enemyEligible>false</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards038/RHA_REX62A</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX64B</defName>
+    <label>Golden emergence</label>
+    <description>Only natural stasis expiry grants a 20-point shield for 3 seconds if the existing barrier is weaker. Cancellation grants no shield.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>64</relicIndex>
+    <band>1</band>
+    <equipmentDefName>RHA_038_Zhonya</equipmentDefName>
+    <enemyEligible>false</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards038/RHA_REX62B</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX64C</defName>
+    <label>Recovered time</label>
+    <description>Only natural stasis expiry repairs 20% of the damage blocked during this stasis, up to 25 injury points. Blocked-damage accounting is capped at 200. No blocked damage or early cancellation gives no repair.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>64</relicIndex>
+    <band>2</band>
+    <equipmentDefName>RHA_038_Zhonya</equipmentDefName>
+    <enemyEligible>false</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards038/RHA_REX27C</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+</Defs>

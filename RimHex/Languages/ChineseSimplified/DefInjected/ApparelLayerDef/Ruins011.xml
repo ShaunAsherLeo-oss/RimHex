@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_RuinLayer_FurnaceGrip.label>炉脉钳</RHA_RuinLayer_FurnaceGrip.label>
+  <RHA_RuinLayer_HeatReservoir.label>余热背架</RHA_RuinLayer_HeatReservoir.label>
+  <RHA_RuinLayer_RefractionLens.label>折光目镜</RHA_RuinLayer_RefractionLens.label>
+  <RHA_RuinLayer_FieldInjector.label>再生注射器</RHA_RuinLayer_FieldInjector.label>
+  <RHA_RuinLayer_BreachBow.label>破垒弩</RHA_RuinLayer_BreachBow.label>
+  <RHA_RuinLayer_EscortSeal.label>护送者徽记</RHA_RuinLayer_EscortSeal.label>
+</LanguageData>

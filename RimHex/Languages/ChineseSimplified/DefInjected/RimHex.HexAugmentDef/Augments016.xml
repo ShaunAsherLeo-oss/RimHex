@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_A16_HiveMind.label>蜂巢思维</RHA_A16_HiveMind.label>
+  <RHA_A16_HiveMind.description>直接伤敌积累 200 点实际伤害后召唤一只晶蜂，间隔 5 秒；每层卡额外提高召唤物伤害 9.75%。 附带学会晶蜂呼唤。 最多 4 层。</RHA_A16_HiveMind.description>
+  <RHA_A16_HiveMind.theme>召唤与绝境</RHA_A16_HiveMind.theme>
+  <RHA_A16_Minionmancer.label>仆从大师</RHA_A16_Minionmancer.label>
+  <RHA_A16_Minionmancer.description>每层卡使召唤物的生命和伤害继承倍率增加 32.5%。 附带学会晶蜂呼唤。 最多 4 层。</RHA_A16_Minionmancer.description>
+  <RHA_A16_Minionmancer.theme>召唤与绝境</RHA_A16_Minionmancer.theme>
+  <RHA_A16_HandOfBaron.label>男爵之手</RHA_A16_HandOfBaron.label>
+  <RHA_A16_HandOfBaron.description>每层增加自身 13% 伤害，召唤物的伤害继承倍率增加 19.5%。 附带学会晶蜂呼唤。 最多 4 层。</RHA_A16_HandOfBaron.description>
+  <RHA_A16_HandOfBaron.theme>召唤与绝境</RHA_A16_HandOfBaron.theme>
+  <RHA_A16_MirrorImage.label>镜花水月</RHA_A16_MirrorImage.label>
+  <RHA_A16_MirrorImage.description>承受敌方直接伤害后，健康度不高于 35% 时召唤两具镜像战斗投影，间隔 30 秒。每层增加镜像伤害继承倍率 16.25%。投影不隐身，不复制装备与工作能力。 附带学会镜像投射。 最多 4 层。</RHA_A16_MirrorImage.description>
+  <RHA_A16_MirrorImage.theme>召唤与绝境</RHA_A16_MirrorImage.theme>
+  <RHA_A16_TricksterDemon.label>诡术恶魔</RHA_A16_TricksterDemon.label>
+  <RHA_A16_TricksterDemon.description>镜像被击毁时，打击其 4 格内至多八名敌人，每层 22.75 点基础追加伤害。自然消散不爆炸。 附带学会镜像投射。 最多 4 层。</RHA_A16_TricksterDemon.description>
+  <RHA_A16_TricksterDemon.theme>召唤与绝境</RHA_A16_TricksterDemon.theme>
+  <RHA_A16_DropBear.label>空投熊</RHA_A16_DropBear.label>
+  <RHA_A16_DropBear.description>死亡时留下持续 20 秒的晶甲熊。每层增加晶甲熊伤害继承倍率 32.5%；每名殖民者一天最多触发一次。 最多 4 层。</RHA_A16_DropBear.description>
+  <RHA_A16_DropBear.theme>召唤与绝境</RHA_A16_DropBear.theme>
+  <RHA_A16_Hellbent.label>濒死悟道</RHA_A16_Hellbent.label>
+  <RHA_A16_Hellbent.description>40 次合格普攻命中蓄满一次续命，每 0.5 秒至多计一次。致死伤势结算时消耗蓄能，清除可恢复伤势；成功续命后免疫直接伤害 1.3 秒，冷却 150 秒。无法恢复缺失器官、清除疾病或阻止处决。</RHA_A16_Hellbent.description>
+  <RHA_A16_Hellbent.theme>召唤与绝境</RHA_A16_Hellbent.theme>
+  <RHA_A16_ServeBeyondDeath.label>超越死亡的效劳</RHA_A16_ServeBeyondDeath.label>
+  <RHA_A16_ServeBeyondDeath.description>承受敌方直接伤害后，健康度不高于 35% 时借命 8 秒，每层增加 32.5% 伤害、基础治疗 26 点，并免疫直接伤害 2 秒。期间亲自击杀合格敌人可结束借命，否则到期眩晕 10 秒；冷却 60 秒。不是死后复活。 最多 4 层。</RHA_A16_ServeBeyondDeath.description>
+  <RHA_A16_ServeBeyondDeath.theme>召唤与绝境</RHA_A16_ServeBeyondDeath.theme>
+  <RHA_A16_DawnbringersResolve.label>黎明使者的坚决</RHA_A16_DawnbringersResolve.label>
+  <RHA_A16_DawnbringersResolve.description>承受敌方直接伤害后，健康度不高于 35% 时获得五次续疗，每秒一次，每次每层基础治疗 6.5 点；冷却 30 秒。 最多 4 层。</RHA_A16_DawnbringersResolve.description>
+  <RHA_A16_DawnbringersResolve.theme>召唤与绝境</RHA_A16_DawnbringersResolve.theme>
+  <RHA_A16_EscapePlan.label>逃跑计划</RHA_A16_EscapePlan.label>
+  <RHA_A16_EscapePlan.description>承受敌方直接伤害后，健康度不高于 35% 时每层获得 29.25 点基础护盾与 39% 移速，持续 5 秒；冷却 30 秒。 最多 4 层。</RHA_A16_EscapePlan.description>
+  <RHA_A16_EscapePlan.theme>召唤与绝境</RHA_A16_EscapePlan.theme>
+  <RHA_A16_DivineIntervention.label>神圣干预</RHA_A16_DivineIntervention.label>
+  <RHA_A16_DivineIntervention.description>学会庇护星环：使自己与 5 格内可见的己方殖民者免疫直接伤害 1 秒，基础冷却 30 秒。疾病、缺失器官和延迟伤势债仍然结算。</RHA_A16_DivineIntervention.description>
+  <RHA_A16_DivineIntervention.theme>召唤与绝境</RHA_A16_DivineIntervention.theme>
+  <RHA_A16_Vengeance.label>复仇</RHA_A16_Vengeance.label>
+  <RHA_A16_Vengeance.description>18 格内己方人类殖民者倒地或死亡后，每层增加 39% 伤害，持续 10 秒；每 10 秒最多触发一次。召唤物不触发。 最多 4 层。</RHA_A16_Vengeance.description>
+  <RHA_A16_Vengeance.theme>召唤与绝境</RHA_A16_Vengeance.theme>
+</LanguageData>

@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_Q_W01</defName>
+    <label>Weapon quality control</label>
+    <description>Newly crafted or constructed weapons receive a colony-wide quality floor. Stacks 1–5 guarantee Poor, Normal, Good, Excellent and Masterwork. Higher native results and personal quality steps remain intact. Only actual new products with quality; no repair, reinstall, trade, reward or historical-item processing.</description>
+    <scope>Colony</scope>
+    <tier>Gold</tier>
+    <theme>Craftsmanship</theme>
+    <weight>100</weight>
+    <maxStacks>5</maxStacks>
+    <iconPath>RimHex/Cards/RHA_Q_W01</iconPath>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_Q_W02</defName>
+    <label>Weapon craftsmanship</label>
+    <description>When this pawn finishes new weapons, add one quality level per stack after the colony floor. All eligible personal steps stack; final quality is capped at Legendary.</description>
+    <scope>Hero</scope>
+    <tier>Gold</tier>
+    <theme>Craftsmanship</theme>
+    <weight>100</weight>
+    <maxStacks>0</maxStacks>
+    <iconPath>RimHex/Cards/RHA_Q_W02</iconPath>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_Q_W03</defName>
+    <label>Master weaponsmith</label>
+    <description>When this pawn finishes new weapons using a work skill of at least 16, add one quality level per stack after the colony floor. Check the actual finishing worker and native skill snapshot; final quality is capped at Legendary.</description>
+    <scope>Hero</scope>
+    <tier>Gold</tier>
+    <theme>Craftsmanship</theme>
+    <weight>100</weight>
+    <maxStacks>0</maxStacks>
+    <iconPath>RimHex/Cards/RHA_Q_W03</iconPath>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_Q_W04</defName>
+    <label>Exceptional weapons</label>
+    <description>When this pawn finishes new weapons with a native quality of at least Excellent, add one quality level per stack. The colony floor and other quality cards cannot satisfy this native-quality condition; final quality is capped at Legendary.</description>
+    <scope>Hero</scope>
+    <tier>Gold</tier>
+    <theme>Craftsmanship</theme>
+    <weight>100</weight>
+    <maxStacks>0</maxStacks>
+    <iconPath>RimHex/Cards/RHA_Q_W04</iconPath>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_Q_A01</defName>
+    <label>Apparel quality control</label>
+    <description>Newly crafted or constructed apparel receive a colony-wide quality floor. Stacks 1–5 guarantee Poor, Normal, Good, Excellent and Masterwork. Higher native results and personal quality steps remain intact. Only actual new products with quality; no repair, reinstall, trade, reward or historical-item processing.</description>
+    <scope>Colony</scope>
+    <tier>Gold</tier>
+    <theme>Craftsmanship</theme>
+    <weight>100</weight>
+    <maxStacks>5</maxStacks>
+    <iconPath>RimHex/Cards/RHA_Q_A01</iconPath>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_Q_A02</defName>
+    <label>Apparel craftsmanship</label>
+    <description>When this pawn finishes new apparel, add one quality level per stack after the colony floor. All eligible personal steps stack; final quality is capped at Legendary.</description>
+    <scope>Hero</scope>
+    <tier>Gold</tier>
+    <theme>Craftsmanship</theme>
+    <weight>100</weight>
+    <maxStacks>0</maxStacks>
+    <iconPath>RimHex/Cards/RHA_Q_A02</iconPath>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_Q_A03</defName>
+    <label>Master tailor</label>
+    <description>When this pawn finishes new apparel using a work skill of at least 16, add one quality level per stack after the colony floor. Check the actual finishing worker and native skill snapshot; final quality is capped at Legendary.</description>
+    <scope>Hero</scope>
+    <tier>Gold</tier>
+    <theme>Craftsmanship</theme>
+    <weight>100</weight>
+    <maxStacks>0</maxStacks>
+    <iconPath>RimHex/Cards/RHA_Q_A03</iconPath>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_Q_A04</defName>
+    <label>Exceptional apparel</label>
+    <description>When this pawn finishes new apparel with a native quality of at least Excellent, add one quality level per stack. The colony floor and other quality cards cannot satisfy this native-quality condition; final quality is capped at Legendary.</description>
+    <scope>Hero</scope>
+    <tier>Gold</tier>
+    <theme>Craftsmanship</theme>
+    <weight>100</weight>
+    <maxStacks>0</maxStacks>
+    <iconPath>RimHex/Cards/RHA_Q_A04</iconPath>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_Q_F01</defName>
+    <label>Furniture quality control</label>
+    <description>Newly crafted or constructed furniture receive a colony-wide quality floor. Stacks 1–5 guarantee Poor, Normal, Good, Excellent and Masterwork. Higher native results and personal quality steps remain intact. Only actual new products with quality; no repair, reinstall, trade, reward or historical-item processing.</description>
+    <scope>Colony</scope>
+    <tier>Gold</tier>
+    <theme>Craftsmanship</theme>
+    <weight>100</weight>
+    <maxStacks>5</maxStacks>
+    <iconPath>RimHex/Cards/RHA_Q_F01</iconPath>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_Q_F02</defName>
+    <label>Furniture craftsmanship</label>
+    <description>When this pawn finishes new furniture, add one quality level per stack after the colony floor. All eligible personal steps stack; final quality is capped at Legendary.</description>
+    <scope>Hero</scope>
+    <tier>Gold</tier>
+    <theme>Craftsmanship</theme>
+    <weight>100</weight>
+    <maxStacks>0</maxStacks>
+    <iconPath>RimHex/Cards/RHA_Q_F02</iconPath>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_Q_F03</defName>
+    <label>Master furniture maker</label>
+    <description>When this pawn finishes new furniture using a work skill of at least 16, add one quality level per stack after the colony floor. Check the actual finishing worker and native skill snapshot; final quality is capped at Legendary.</description>
+    <scope>Hero</scope>
+    <tier>Gold</tier>
+    <theme>Craftsmanship</theme>
+    <weight>100</weight>
+    <maxStacks>0</maxStacks>
+    <iconPath>RimHex/Cards/RHA_Q_F03</iconPath>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_Q_F04</defName>
+    <label>Exceptional furniture</label>
+    <description>When this pawn finishes new furniture with a native quality of at least Excellent, add one quality level per stack. The colony floor and other quality cards cannot satisfy this native-quality condition; final quality is capped at Legendary.</description>
+    <scope>Hero</scope>
+    <tier>Gold</tier>
+    <theme>Craftsmanship</theme>
+    <weight>100</weight>
+    <maxStacks>0</maxStacks>
+    <iconPath>RimHex/Cards/RHA_Q_F04</iconPath>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_Q_R01</defName>
+    <label>Art quality control</label>
+    <description>Newly crafted or constructed art receive a colony-wide quality floor. Stacks 1–5 guarantee Poor, Normal, Good, Excellent and Masterwork. Higher native results and personal quality steps remain intact. Only actual new products with quality; no repair, reinstall, trade, reward or historical-item processing.</description>
+    <scope>Colony</scope>
+    <tier>Gold</tier>
+    <theme>Craftsmanship</theme>
+    <weight>100</weight>
+    <maxStacks>5</maxStacks>
+    <iconPath>RimHex/Cards/RHA_Q_R01</iconPath>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_Q_R02</defName>
+    <label>Art craftsmanship</label>
+    <description>When this pawn finishes new art, add one quality level per stack after the colony floor. All eligible personal steps stack; final quality is capped at Legendary.</description>
+    <scope>Hero</scope>
+    <tier>Gold</tier>
+    <theme>Craftsmanship</theme>
+    <weight>100</weight>
+    <maxStacks>0</maxStacks>
+    <iconPath>RimHex/Cards/RHA_Q_R02</iconPath>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_Q_R03</defName>
+    <label>Master artist</label>
+    <description>When this pawn finishes new art using a work skill of at least 16, add one quality level per stack after the colony floor. Check the actual finishing worker and native skill snapshot; final quality is capped at Legendary.</description>
+    <scope>Hero</scope>
+    <tier>Gold</tier>
+    <theme>Craftsmanship</theme>
+    <weight>100</weight>
+    <maxStacks>0</maxStacks>
+    <iconPath>RimHex/Cards/RHA_Q_R03</iconPath>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_Q_R04</defName>
+    <label>Exceptional art</label>
+    <description>When this pawn finishes new art with a native quality of at least Excellent, add one quality level per stack. The colony floor and other quality cards cannot satisfy this native-quality condition; final quality is capped at Legendary.</description>
+    <scope>Hero</scope>
+    <tier>Gold</tier>
+    <theme>Craftsmanship</theme>
+    <weight>100</weight>
+    <maxStacks>0</maxStacks>
+    <iconPath>RimHex/Cards/RHA_Q_R04</iconPath>
+  </RimHex.HexAugmentDef>
+</Defs>

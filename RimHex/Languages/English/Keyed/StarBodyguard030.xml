@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_StarBodyguard030_Selected>Protect: {0}</RHA_StarBodyguard030_Selected>
+  <RHA_StarBodyguard030_Status>Protect: {0} · Wave {1}/{2} · Hunters remaining: {3}</RHA_StarBodyguard030_Status>
+  <RHA_StarBodyguard030_Brief>Hunters pursue the first selected helper in roster order, or the applicant when entering alone. The target is named before departure and stays fixed. Intercept the hunters or move the target to safety. A hunter kill exposes the commander for 3 seconds with 25% extra damage; killing the commander stops future waves. Clear every deployed enemy while keeping the protected colonist alive on this map. A downed helper may be carried and rescued, but hunters will pursue the carrier. Earn personal damage or actual healing and shield contribution; helpers may finish enemies.</RHA_StarBodyguard030_Brief>
+  <RHA_StarTravel030_ProtectedLost>The protected colonist died, left the battle or is no longer a free colonist of your faction. Recover your party and belongings before leaving.</RHA_StarTravel030_ProtectedLost>
+</LanguageData>

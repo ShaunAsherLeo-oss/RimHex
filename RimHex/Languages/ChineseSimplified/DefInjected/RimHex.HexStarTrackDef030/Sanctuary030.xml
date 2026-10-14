@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_STAR_Skill_Sanctuary016.nodes.0.label>片刻庇护</RHA_STAR_Skill_Sanctuary016.nodes.0.label>
+  <RHA_STAR_Skill_Sanctuary016.nodes.0.description>通过对应强化卡学会群体庇护后解锁。保留原5格范围、视线限制、1秒保护和技能冷却。后续节点要求本人施放的庇护实际挡下敌人伤害；续命等其他来源不触发。多个受保护者共用施法者的节点冷却。</RHA_STAR_Skill_Sanctuary016.nodes.0.description>
+  <RHA_STAR_Skill_Sanctuary016.nodes.1.label>庇护反击</RHA_STAR_Skill_Sanctuary016.nodes.1.label>
+  <RHA_STAR_Skill_Sanctuary016.nodes.1.description>本人施放的庇护实际挡下敌人伤害后，为攻击者留下4秒反击标记，最多一个，生成冷却6秒。本人后续普通命中消耗标记，追加50点伤害。 基础收益：伤害 50。</RHA_STAR_Skill_Sanctuary016.nodes.1.description>
+  <RHA_STAR_Skill_Sanctuary016.nodes.2.label>援护喘息</RHA_STAR_Skill_Sanctuary016.nodes.2.label>
+  <RHA_STAR_Skill_Sanctuary016.nodes.2.description>本人施放的庇护替另一名殖民者挡下敌人伤害后，治疗本人4格内视线畅通、伤势最重的另一名殖民者20点基础可恢复伤势，冷却6秒。保护本人不触发，没有伤员时不转为治疗本人。 基础收益：治疗 20。</RHA_STAR_Skill_Sanctuary016.nodes.2.description>
+  <RHA_STAR_Skill_Sanctuary016.nodes.3.label>反击迸裂</RHA_STAR_Skill_Sanctuary016.nodes.3.label>
+  <RHA_STAR_Skill_Sanctuary016.nodes.3.description>庇护反击的追加伤害实际生效后，对受击点3格内视线畅通的另一名敌人追加25点伤害，冷却6秒。不重复命中原目标。 基础收益：伤害 25。</RHA_STAR_Skill_Sanctuary016.nodes.3.description>
+  <RHA_STAR_Skill_Sanctuary016.nodes.4.label>反击余护</RHA_STAR_Skill_Sanctuary016.nodes.4.label>
+  <RHA_STAR_Skill_Sanctuary016.nodes.4.description>庇护反击的追加伤害实际生效后，为本人提供50点基础护盾，持续3秒，冷却6秒。不会延长原庇护的无伤时间。 基础收益：护盾 50。</RHA_STAR_Skill_Sanctuary016.nodes.4.description>
+  <RHA_STAR_Skill_Sanctuary016.nodes.5.label>援后屏障</RHA_STAR_Skill_Sanctuary016.nodes.5.label>
+  <RHA_STAR_Skill_Sanctuary016.nodes.5.description>援护喘息实际治疗伤势后，为本人4格内视线畅通、最近的另一名殖民者提供50点基础护盾，持续3秒，冷却6秒。护盾对象可能与被治疗者不同。 基础收益：护盾 50。</RHA_STAR_Skill_Sanctuary016.nodes.5.description>
+  <RHA_STAR_Skill_Sanctuary016.nodes.6.label>援护回补</RHA_STAR_Skill_Sanctuary016.nodes.6.label>
+  <RHA_STAR_Skill_Sanctuary016.nodes.6.description>援护喘息实际治疗伤势后，再治疗本人20点基础可恢复伤势，冷却6秒。没有实际治疗队友时不触发，不恢复缺失部位或永久伤疤。 基础收益：治疗 20。</RHA_STAR_Skill_Sanctuary016.nodes.6.description>
+</LanguageData>

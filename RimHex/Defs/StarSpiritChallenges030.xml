@@ -1,0 +1,307 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Defs>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_SpiritTrial030_root</defName>
+    <label>Carry the light</label>
+    <description>Threat: A visible pact lets a supporter protect the primary enemy. Answer: Kill or control the supporter, or interrupt the pact with actual damage. Reward: The primary loses protection and takes 25% more damage for 8 seconds. Cost: An intact pact gives up to 20% primary defense; dead enemies never return.
+Arrangement: Baited pursuit; Locked impact. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. Existing finite roster retained.</description>
+    <family>spirit</family>
+    <mechanism>pursuit</mechanism>
+    <arena>ring-v1</arena>
+    <chargedBarrage>false</chargedBarrage>
+    <targetTrack>RHA_STAR_Path_Spirit</targetTrack>
+    <targetNode>root</targetNode>
+    <targetStage>1</targetStage>
+    <seconds>180</seconds>
+    <tactic>RHA_Tactics_SpiritTrial030_root</tactic>
+    <encounter>RHA_Encounter03510_RHA_SpiritTrial030_root</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_SpiritTrial030_focus</defName>
+    <label>Hold your thought</label>
+    <description>Threat: A visible pact lets a supporter protect the primary enemy. Answer: Kill or control the supporter, or interrupt the pact with actual damage. Reward: The primary loses protection and takes 25% more damage for 8 seconds. Cost: An intact pact gives up to 20% primary defense; dead enemies never return.
+Arrangement: Ordered strikes; Fixed lane. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. Existing finite roster retained.</description>
+    <family>spirit</family>
+    <mechanism>cadence</mechanism>
+    <arena>bastion-v1</arena>
+    <chargedBarrage>false</chargedBarrage>
+    <targetTrack>RHA_STAR_Path_Spirit</targetTrack>
+    <targetNode>focus</targetNode>
+    <targetStage>2</targetStage>
+    <seconds>240</seconds>
+    <tactic>RHA_Tactics_SpiritTrial030_focus</tactic>
+    <encounter>RHA_Encounter03510_RHA_SpiritTrial030_focus</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_SpiritTrial030_echo</defName>
+    <label>Hear the other voice</label>
+    <description>Threat: A visible pact lets a supporter protect the primary enemy. Answer: Kill or control the supporter, or interrupt the pact with actual damage. Reward: The primary loses protection and takes 25% more damage for 8 seconds. Cost: An intact pact gives up to 20% primary defense; dead enemies never return.
+Arrangement: Linked peers; Left then right impacts. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. Existing finite roster retained.</description>
+    <family>spirit</family>
+    <mechanism>twinLink</mechanism>
+    <arena>crossroads-v1</arena>
+    <chargedBarrage>false</chargedBarrage>
+    <targetTrack>RHA_STAR_Path_Spirit</targetTrack>
+    <targetNode>echo</targetNode>
+    <targetStage>2</targetStage>
+    <seconds>240</seconds>
+    <tactic>RHA_Tactics_SpiritTrial030_echo</tactic>
+    <encounter>RHA_Encounter03510_RHA_SpiritTrial030_echo</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_SpiritTrial030_rend</defName>
+    <label>Split the shell</label>
+    <description>Threat: A visible pact lets a supporter protect the primary enemy. Answer: Kill or control the supporter, or interrupt the pact with actual damage. Reward: The primary loses protection and takes 25% more damage for 8 seconds. Cost: An intact pact gives up to 20% primary defense; dead enemies never return.
+Arrangement: Anchor break; Locked impact. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. Existing finite roster retained.</description>
+    <family>spirit</family>
+    <mechanism>guardBreak</mechanism>
+    <arena>bastion-v1</arena>
+    <chargedBarrage>true</chargedBarrage>
+    <targetTrack>RHA_STAR_Path_Spirit</targetTrack>
+    <targetNode>rend</targetNode>
+    <targetStage>3</targetStage>
+    <seconds>240</seconds>
+    <tactic>RHA_Tactics_SpiritTrial030_rend</tactic>
+    <encounter>RHA_Encounter03510_RHA_SpiritTrial030_rend</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_SpiritTrial030_anchor</defName>
+    <label>Stand by the anchor</label>
+    <description>Threat: A visible pact lets a supporter protect the primary enemy. Answer: Kill or control the supporter, or interrupt the pact with actual damage. Reward: The primary loses protection and takes 25% more damage for 8 seconds. Cost: An intact pact gives up to 20% primary defense; dead enemies never return.
+Arrangement: Baited pursuit; Hollow impact. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. Existing finite roster retained.</description>
+    <family>spirit</family>
+    <mechanism>pursuit</mechanism>
+    <arena>splitCourt-v1</arena>
+    <chargedBarrage>false</chargedBarrage>
+    <targetTrack>RHA_STAR_Path_Spirit</targetTrack>
+    <targetNode>anchor</targetNode>
+    <targetStage>3</targetStage>
+    <seconds>240</seconds>
+    <tactic>RHA_Tactics_SpiritTrial030_anchor</tactic>
+    <encounter>RHA_Encounter03510_RHA_SpiritTrial030_anchor</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_SpiritTrial030_recall</defName>
+    <label>Draw them apart</label>
+    <description>Threat: A visible pact lets a supporter protect the primary enemy. Answer: Kill or control the supporter, or interrupt the pact with actual damage. Reward: The primary loses protection and takes 25% more damage for 8 seconds. Cost: An intact pact gives up to 20% primary defense; dead enemies never return.
+Arrangement: Moving support; Locked impact. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. Existing finite roster retained.</description>
+    <family>spirit</family>
+    <mechanism>escort</mechanism>
+    <arena>crossroads-v1</arena>
+    <chargedBarrage>false</chargedBarrage>
+    <targetTrack>RHA_STAR_Path_Spirit</targetTrack>
+    <targetNode>recall</targetNode>
+    <targetStage>3</targetStage>
+    <seconds>240</seconds>
+    <tactic>RHA_Tactics_SpiritTrial030_recall</tactic>
+    <encounter>RHA_Encounter03510_RHA_SpiritTrial030_recall</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_SpiritTrial030_offering</defName>
+    <label>Keep the lamp alight</label>
+    <description>Threat: A visible pact lets a supporter protect the primary enemy. Answer: Kill or control the supporter, or interrupt the pact with actual damage. Reward: The primary loses protection and takes 25% more damage for 8 seconds. Cost: An intact pact gives up to 20% primary defense; dead enemies never return.
+Arrangement: Protected target; Hollow impact. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. Existing finite roster retained.</description>
+    <family>spirit</family>
+    <mechanism>bodyguard</mechanism>
+    <arena>bastion-v1</arena>
+    <chargedBarrage>false</chargedBarrage>
+    <targetTrack>RHA_STAR_Path_Spirit</targetTrack>
+    <targetNode>offering</targetNode>
+    <targetStage>3</targetStage>
+    <seconds>240</seconds>
+    <tactic>RHA_Tactics_SpiritTrial030_offering</tactic>
+    <encounter>RHA_Encounter03510_RHA_SpiritTrial030_offering</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_SpiritTrial030_fracture</defName>
+    <label>Break the answering line</label>
+    <description>Threat: A visible pact lets a supporter protect the primary enemy. Answer: Kill or control the supporter, or interrupt the pact with actual damage. Reward: The primary loses protection and takes 25% more damage for 8 seconds. Cost: An intact pact gives up to 20% primary defense; dead enemies never return.
+Arrangement: Linked peers; Fixed lane. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. Existing finite roster retained.</description>
+    <family>spirit</family>
+    <mechanism>twinLink</mechanism>
+    <arena>splitCourt-v1</arena>
+    <chargedBarrage>false</chargedBarrage>
+    <targetTrack>RHA_STAR_Path_Spirit</targetTrack>
+    <targetNode>fracture</targetNode>
+    <targetStage>4</targetStage>
+    <seconds>300</seconds>
+    <tactic>RHA_Tactics_SpiritTrial030_fracture</tactic>
+    <encounter>RHA_Encounter03510_RHA_SpiritTrial030_fracture</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_SpiritTrial030_circle</defName>
+    <label>Return through the ring</label>
+    <description>Threat: A visible pact lets a supporter protect the primary enemy. Answer: Kill or control the supporter, or interrupt the pact with actual damage. Reward: The primary loses protection and takes 25% more damage for 8 seconds. Cost: An intact pact gives up to 20% primary defense; dead enemies never return.
+Arrangement: Baited pursuit; Fixed lane. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. Existing finite roster retained.</description>
+    <family>spirit</family>
+    <mechanism>pursuit</mechanism>
+    <arena>ring-v1</arena>
+    <chargedBarrage>false</chargedBarrage>
+    <targetTrack>RHA_STAR_Path_Spirit</targetTrack>
+    <targetNode>circle</targetNode>
+    <targetStage>4</targetStage>
+    <seconds>300</seconds>
+    <tactic>RHA_Tactics_SpiritTrial030_circle</tactic>
+    <encounter>RHA_Encounter03510_RHA_SpiritTrial030_circle</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_SpiritTrial030_pact</defName>
+    <label>Answer your partner</label>
+    <description>Threat: A visible pact lets a supporter protect the primary enemy. Answer: Kill or control the supporter, or interrupt the pact with actual damage. Reward: The primary loses protection and takes 25% more damage for 8 seconds. Cost: An intact pact gives up to 20% primary defense; dead enemies never return.
+Arrangement: Moving support; Fixed lane. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. Existing finite roster retained.</description>
+    <family>spirit</family>
+    <mechanism>escort</mechanism>
+    <arena>splitCourt-v1</arena>
+    <chargedBarrage>false</chargedBarrage>
+    <targetTrack>RHA_STAR_Path_Spirit</targetTrack>
+    <targetNode>pact</targetNode>
+    <targetStage>4</targetStage>
+    <seconds>300</seconds>
+    <tactic>RHA_Tactics_SpiritTrial030_pact</tactic>
+    <encounter>RHA_Encounter03510_RHA_SpiritTrial030_pact</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_SpiritTrial030_ferry</defName>
+    <label>Bring them back</label>
+    <description>Threat: A visible pact lets a supporter protect the primary enemy. Answer: Kill or control the supporter, or interrupt the pact with actual damage. Reward: The primary loses protection and takes 25% more damage for 8 seconds. Cost: An intact pact gives up to 20% primary defense; dead enemies never return.
+Arrangement: Protected target; Fixed lane. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. Existing finite roster retained.</description>
+    <family>spirit</family>
+    <mechanism>bodyguard</mechanism>
+    <arena>crossroads-v1</arena>
+    <chargedBarrage>false</chargedBarrage>
+    <targetTrack>RHA_STAR_Path_Spirit</targetTrack>
+    <targetNode>ferry</targetNode>
+    <targetStage>4</targetStage>
+    <seconds>300</seconds>
+    <tactic>RHA_Tactics_SpiritTrial030_ferry</tactic>
+    <encounter>RHA_Encounter03510_RHA_SpiritTrial030_ferry</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_SpiritTrial030_fracture_chain</defName>
+    <label>Scatter the reply</label>
+    <description>Threat: A visible pact lets a supporter protect the primary enemy. Answer: Kill or control the supporter, or interrupt the pact with actual damage. Reward: The primary loses protection and takes 25% more damage for 8 seconds. Cost: An intact pact gives up to 20% primary defense; dead enemies never return.
+Arrangement: Linked peers; Locked impact. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. One boss and two finite guards, no reinforcements or resurrection.</description>
+    <family>spirit</family>
+    <mechanism>twinLink</mechanism>
+    <arena>ring-v1</arena>
+    <chargedBarrage>false</chargedBarrage>
+    <targetTrack>RHA_STAR_Path_Spirit</targetTrack>
+    <targetNode>fracture_chain</targetNode>
+    <targetStage>5</targetStage>
+    <seconds>420</seconds>
+    <tactic>RHA_Tactics_SpiritTrial030_fracture_chain</tactic>
+    <encounter>RHA_Encounter03510_RHA_SpiritTrial030_fracture_chain</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_SpiritTrial030_fracture_shelter</defName>
+    <label>Find cover in the breach</label>
+    <description>Threat: A visible pact lets a supporter protect the primary enemy. Answer: Kill or control the supporter, or interrupt the pact with actual damage. Reward: The primary loses protection and takes 25% more damage for 8 seconds. Cost: An intact pact gives up to 20% primary defense; dead enemies never return.
+Arrangement: Anchor break; Hollow impact. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. One boss and two finite guards, no reinforcements or resurrection.</description>
+    <family>spirit</family>
+    <mechanism>guardBreak</mechanism>
+    <arena>splitCourt-v1</arena>
+    <chargedBarrage>true</chargedBarrage>
+    <targetTrack>RHA_STAR_Path_Spirit</targetTrack>
+    <targetNode>fracture_shelter</targetNode>
+    <targetStage>5</targetStage>
+    <seconds>420</seconds>
+    <tactic>RHA_Tactics_SpiritTrial030_fracture_shelter</tactic>
+    <encounter>RHA_Encounter03510_RHA_SpiritTrial030_fracture_shelter</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_SpiritTrial030_circle_exit</defName>
+    <label>Leave a way out</label>
+    <description>Threat: A visible pact lets a supporter protect the primary enemy. Answer: Kill or control the supporter, or interrupt the pact with actual damage. Reward: The primary loses protection and takes 25% more damage for 8 seconds. Cost: An intact pact gives up to 20% primary defense; dead enemies never return.
+Arrangement: Baited pursuit; Locked impact. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. One boss and two finite guards, no reinforcements or resurrection.</description>
+    <family>spirit</family>
+    <mechanism>pursuit</mechanism>
+    <arena>crossroads-v1</arena>
+    <chargedBarrage>false</chargedBarrage>
+    <targetTrack>RHA_STAR_Path_Spirit</targetTrack>
+    <targetNode>circle_exit</targetNode>
+    <targetStage>5</targetStage>
+    <seconds>420</seconds>
+    <tactic>RHA_Tactics_SpiritTrial030_circle_exit</tactic>
+    <encounter>RHA_Encounter03510_RHA_SpiritTrial030_circle_exit</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_SpiritTrial030_circle_peace</defName>
+    <label>Make room to recover</label>
+    <description>Threat: A visible pact lets a supporter protect the primary enemy. Answer: Kill or control the supporter, or interrupt the pact with actual damage. Reward: The primary loses protection and takes 25% more damage for 8 seconds. Cost: An intact pact gives up to 20% primary defense; dead enemies never return.
+Arrangement: Protected target; Hollow impact. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. One boss and two finite guards, no reinforcements or resurrection.</description>
+    <family>spirit</family>
+    <mechanism>bodyguard</mechanism>
+    <arena>ring-v1</arena>
+    <chargedBarrage>false</chargedBarrage>
+    <targetTrack>RHA_STAR_Path_Spirit</targetTrack>
+    <targetNode>circle_peace</targetNode>
+    <targetStage>5</targetStage>
+    <seconds>420</seconds>
+    <tactic>RHA_Tactics_SpiritTrial030_circle_peace</tactic>
+    <encounter>RHA_Encounter03510_RHA_SpiritTrial030_circle_peace</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_SpiritTrial030_pact_answer</defName>
+    <label>Send the answer back</label>
+    <description>Threat: A visible pact lets a supporter protect the primary enemy. Answer: Kill or control the supporter, or interrupt the pact with actual damage. Reward: The primary loses protection and takes 25% more damage for 8 seconds. Cost: An intact pact gives up to 20% primary defense; dead enemies never return.
+Arrangement: Ordered strikes; Locked impact. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. One boss and two finite guards, no reinforcements or resurrection.</description>
+    <family>spirit</family>
+    <mechanism>cadence</mechanism>
+    <arena>crossroads-v1</arena>
+    <chargedBarrage>false</chargedBarrage>
+    <targetTrack>RHA_STAR_Path_Spirit</targetTrack>
+    <targetNode>pact_answer</targetNode>
+    <targetStage>5</targetStage>
+    <seconds>420</seconds>
+    <tactic>RHA_Tactics_SpiritTrial030_pact_answer</tactic>
+    <encounter>RHA_Encounter03510_RHA_SpiritTrial030_pact_answer</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_SpiritTrial030_pact_guard</defName>
+    <label>Close ranks</label>
+    <description>Threat: A visible pact lets a supporter protect the primary enemy. Answer: Kill or control the supporter, or interrupt the pact with actual damage. Reward: The primary loses protection and takes 25% more damage for 8 seconds. Cost: An intact pact gives up to 20% primary defense; dead enemies never return.
+Arrangement: Protected target; Hollow impact. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. One boss and two finite guards, no reinforcements or resurrection.</description>
+    <family>spirit</family>
+    <mechanism>bodyguard</mechanism>
+    <arena>splitCourt-v1</arena>
+    <chargedBarrage>false</chargedBarrage>
+    <targetTrack>RHA_STAR_Path_Spirit</targetTrack>
+    <targetNode>pact_guard</targetNode>
+    <targetStage>5</targetStage>
+    <seconds>420</seconds>
+    <tactic>RHA_Tactics_SpiritTrial030_pact_guard</tactic>
+    <encounter>RHA_Encounter03510_RHA_SpiritTrial030_pact_guard</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_SpiritTrial030_ferry_hunt</defName>
+    <label>Press the opening</label>
+    <description>Threat: A visible pact lets a supporter protect the primary enemy. Answer: Kill or control the supporter, or interrupt the pact with actual damage. Reward: The primary loses protection and takes 25% more damage for 8 seconds. Cost: An intact pact gives up to 20% primary defense; dead enemies never return.
+Arrangement: Moving support; Locked impact. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. One boss and two finite guards, no reinforcements or resurrection.</description>
+    <family>spirit</family>
+    <mechanism>escort</mechanism>
+    <arena>bastion-v1</arena>
+    <chargedBarrage>false</chargedBarrage>
+    <targetTrack>RHA_STAR_Path_Spirit</targetTrack>
+    <targetNode>ferry_hunt</targetNode>
+    <targetStage>5</targetStage>
+    <seconds>420</seconds>
+    <tactic>RHA_Tactics_SpiritTrial030_ferry_hunt</tactic>
+    <encounter>RHA_Encounter03510_RHA_SpiritTrial030_ferry_hunt</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_SpiritTrial030_ferry_share</defName>
+    <label>Walk home together</label>
+    <description>Threat: A visible pact lets a supporter protect the primary enemy. Answer: Kill or control the supporter, or interrupt the pact with actual damage. Reward: The primary loses protection and takes 25% more damage for 8 seconds. Cost: An intact pact gives up to 20% primary defense; dead enemies never return.
+Arrangement: Protected target; Hollow impact. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. One boss and two finite guards, no reinforcements or resurrection.</description>
+    <family>spirit</family>
+    <mechanism>bodyguard</mechanism>
+    <arena>crossroads-v1</arena>
+    <chargedBarrage>false</chargedBarrage>
+    <targetTrack>RHA_STAR_Path_Spirit</targetTrack>
+    <targetNode>ferry_share</targetNode>
+    <targetStage>5</targetStage>
+    <seconds>420</seconds>
+    <tactic>RHA_Tactics_SpiritTrial030_ferry_share</tactic>
+    <encounter>RHA_Encounter03510_RHA_SpiritTrial030_ferry_share</encounter>
+  </RimHex.HexStarChallengeDef030>
+</Defs>

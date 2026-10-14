@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_STAR_Relic_Talisman.nodes.0.label>护符系带</RHA_STAR_Relic_Talisman.nodes.0.label>
+  <RHA_STAR_Relic_Talisman.nodes.0.description>保留护符原有的挡伤、恢复、防御和移动能力，不重复增加基础属性。进阶随遗物保存，换下后停止生效。</RHA_STAR_Relic_Talisman.nodes.0.description>
+  <RHA_STAR_Relic_Talisman.nodes.1.label>疾行庇护</RHA_STAR_Relic_Talisman.nodes.1.label>
+  <RHA_STAR_Relic_Talisman.nodes.1.description>普通命中记录位置。3秒内移动至少3格再普通命中，为本人4格内视线畅通、最近的另一名殖民者提供50点基础护盾，持续3秒，冷却8秒。第一次命中仅记录位置。 基础收益：护盾 50。</RHA_STAR_Relic_Talisman.nodes.1.description>
+  <RHA_STAR_Relic_Talisman.nodes.2.label>稳心连击</RHA_STAR_Relic_Talisman.nodes.2.label>
+  <RHA_STAR_Relic_Talisman.nodes.2.description>连续普通命中同一敌人3次，每次间隔不超过3秒，治疗自身20点基础可恢复伤势，冷却8秒。切换目标重新计数；额外伤害不计数，不修复永久伤疤或缺失部位。 基础收益：治疗 20。</RHA_STAR_Relic_Talisman.nodes.2.description>
+  <RHA_STAR_Relic_Talisman.nodes.3.label>归身护幕</RHA_STAR_Relic_Talisman.nodes.3.label>
+  <RHA_STAR_Relic_Talisman.nodes.3.description>沿用疾行庇护的移动命中条件，另为本人提供50点基础护盾，持续3秒，冷却8秒。没有队友时仍可生效；两种护盾分别结算。 基础收益：护盾 50。</RHA_STAR_Relic_Talisman.nodes.3.description>
+  <RHA_STAR_Relic_Talisman.nodes.4.label>疾行援助</RHA_STAR_Relic_Talisman.nodes.4.label>
+  <RHA_STAR_Relic_Talisman.nodes.4.description>沿用疾行庇护的移动命中条件，治疗本人4格内视线畅通、伤势最重的另一名殖民者20点基础可恢复伤势，冷却8秒。与护盾分别选择对象；没有受伤队友时不治疗本人。 基础收益：治疗 20。</RHA_STAR_Relic_Talisman.nodes.4.description>
+  <RHA_STAR_Relic_Talisman.nodes.5.label>定心护印</RHA_STAR_Relic_Talisman.nodes.5.label>
+  <RHA_STAR_Relic_Talisman.nodes.5.description>稳心连击实际治疗自身后，为本人提供50点基础护盾，持续3秒，冷却8秒。满血或没有可恢复伤势时不触发。 基础收益：护盾 50。</RHA_STAR_Relic_Talisman.nodes.5.description>
+  <RHA_STAR_Relic_Talisman.nodes.6.label>回息反击</RHA_STAR_Relic_Talisman.nodes.6.label>
+  <RHA_STAR_Relic_Talisman.nodes.6.description>稳心连击实际治疗后，储存一份回息，持续5秒。随后本人普通命中敌人，消耗回息追加50点伤害；最多储存一份，生成冷却8秒。满血时不会凭空生成。 基础收益：伤害 50。</RHA_STAR_Relic_Talisman.nodes.6.description>
+</LanguageData>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_STAR_Relic_REF_DivineSword.nodes.0.label>圣剑传承</RHA_STAR_Relic_REF_DivineSword.nodes.0.label>
+  <RHA_STAR_Relic_REF_DivineSword.nodes.0.description>保留原有暴击值、直接伤害和随机暴击倍率。分支只计本人实际伤敌的普通命中，技能、友军和追加伤害不计。进阶随遗物保存。</RHA_STAR_Relic_REF_DivineSword.nodes.0.description>
+  <RHA_STAR_Relic_REF_DivineSword.nodes.1.label>追斩</RHA_STAR_Relic_REF_DivineSword.nodes.1.label>
+  <RHA_STAR_Relic_REF_DivineSword.nodes.1.description>4秒内两次普通暴击命中同一敌人，第二次追加3点基础斩击，冷却8秒。暴击转火重新计数；非暴击不计数，也不延长窗口。 基础收益：伤害 75。</RHA_STAR_Relic_REF_DivineSword.nodes.1.description>
+  <RHA_STAR_Relic_REF_DivineSword.nodes.2.label>回刃</RHA_STAR_Relic_REF_DivineSword.nodes.2.label>
+  <RHA_STAR_Relic_REF_DivineSword.nodes.2.description>普通非暴击实际伤敌时储存一份锋芒，持续5秒，最多一份，生成冷却8秒。本人后续普通暴击命中敌人时消耗锋芒，追加2点基础斩击；可以转火，非暴击不会自行兑现。 基础收益：伤害 50。</RHA_STAR_Relic_REF_DivineSword.nodes.2.description>
+  <RHA_STAR_Relic_REF_DivineSword.nodes.3.label>斩后回息</RHA_STAR_Relic_REF_DivineSword.nodes.3.label>
+  <RHA_STAR_Relic_REF_DivineSword.nodes.3.description>追斩的追加伤害实际生效后，治疗本人20点基础可恢复伤势，冷却8秒。不修复缺失部位或永久伤疤。 基础收益：治疗 20。</RHA_STAR_Relic_REF_DivineSword.nodes.3.description>
+  <RHA_STAR_Relic_REF_DivineSword.nodes.4.label>留光</RHA_STAR_Relic_REF_DivineSword.nodes.4.label>
+  <RHA_STAR_Relic_REF_DivineSword.nodes.4.description>追斩的追加伤害实际生效后，在受击格留下延迟0.75秒的光刃爆发，对该格2格内视线畅通的至多两名敌人各造成25点基础伤害，冷却8秒。位置固定，不追踪敌人。 基础收益：伤害 25。</RHA_STAR_Relic_REF_DivineSword.nodes.4.description>
+  <RHA_STAR_Relic_REF_DivineSword.nodes.5.label>回锋护行</RHA_STAR_Relic_REF_DivineSword.nodes.5.label>
+  <RHA_STAR_Relic_REF_DivineSword.nodes.5.description>回刃的追加伤害实际生效后，为本人4格内视线畅通、最近的另一名殖民者提供50点基础护盾，持续3秒，冷却8秒。没有合适队友时不转给本人。 基础收益：护盾 50。</RHA_STAR_Relic_REF_DivineSword.nodes.5.description>
+  <RHA_STAR_Relic_REF_DivineSword.nodes.6.label>碎光转刃</RHA_STAR_Relic_REF_DivineSword.nodes.6.label>
+  <RHA_STAR_Relic_REF_DivineSword.nodes.6.description>回刃的追加伤害实际生效后，对受击点3格内视线畅通的另一名敌人造成25点基础伤害，冷却8秒。没有其他目标时不重复打击原目标。 基础收益：伤害 25。</RHA_STAR_Relic_REF_DivineSword.nodes.6.description>
+</LanguageData>

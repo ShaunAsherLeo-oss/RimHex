@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_V24_SwitchHint>烙印消失后可切换烙印分支；普通投影离场后可切换军团分支。资源与冷却保留。</RHA_V24_SwitchHint>
+  <RHA_V24_Warden>近卫 · 占用 2 额度</RHA_V24_Warden>
+  <RHA_V24_RestedOne>已休整</RHA_V24_RestedOne>
+  <RHA_V24_Unavailable>当前无法装填</RHA_V24_Unavailable>
+  <RHA_V24_Cooldown>冷却：{0} 秒</RHA_V24_Cooldown>
+  <RHA_V24_Full>弹匣已满</RHA_V24_Full>
+  <RHA_V24_ShieldCost>需要 12 点护盾</RHA_V24_ShieldCost>
+  <RHA_V24_Ready>可装填：消耗 12 点护盾</RHA_V24_Ready>
+  <RHA_V24_Pending>{0}：待触发，剩余 {1} 秒</RHA_V24_Pending>
+  <RHA_V24_Rested>已休整投影：{0}</RHA_V24_Rested>
+  <RHA_V24_Brand>烙印 {0} 秒 · 蓄积 {1}/{2}</RHA_V24_Brand>
+  <RHA_V24_Marks>在场烙印：{0}/{1}</RHA_V24_Marks>
+</LanguageData>

@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_EnemyControl037.label>战斗控制</RHA_EnemyControl037.label>
+  <RHA_EnemyControl037.description>本场敌人施加的原生眩晕。来源退场时撤销其剩余控制，不延长或覆盖其他来源的眩晕。</RHA_EnemyControl037.description>
+</LanguageData>

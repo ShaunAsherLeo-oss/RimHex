@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_StarTrial030_Done>Completed</RHA_StarTrial030_Done>
+  <RHA_StarTrial030_Current>Applicant may operate</RHA_StarTrial030_Current>
+  <RHA_StarTrial030_Locked>Complete the previous objective first</RHA_StarTrial030_Locked>
+  <RHA_StarTrial030_Operate>Operate trial terminal</RHA_StarTrial030_Operate>
+  <RHA_StarTrial030_FailureChanged>The applicant, equipment or trial state changed. Review the expedition before trying again.</RHA_StarTrial030_FailureChanged>
+  <RHA_StarTrial030_FailureApplicantDowned>The applicant was downed. Recover the party before attempting another trial.</RHA_StarTrial030_FailureApplicantDowned>
+  <RHA_StarTrial030_FailureApplicantDead>The applicant died. The party and remains can still be recovered.</RHA_StarTrial030_FailureApplicantDead>
+  <RHA_StarTrial030_FailureTimeout>&lt;color=#F1AEAE&gt;The time limit expired.&lt;/color&gt;</RHA_StarTrial030_FailureTimeout>
+  <RHA_StarTrial030_FailureLeft>The applicant left the trial map.</RHA_StarTrial030_FailureLeft>
+  <RHA_StarTrial030_FailureContribution>The applicant did not earn enough personal combat or support contribution.</RHA_StarTrial030_FailureContribution>
+  <RHA_StarTrial030_FailureWardLost>The defended core was destroyed.</RHA_StarTrial030_FailureWardLost>
+  <RHA_StarTrial030_FailureProtectedLost>The protected colonist died, left the map or ceased to be part of the colony.</RHA_StarTrial030_FailureProtectedLost>
+</LanguageData>

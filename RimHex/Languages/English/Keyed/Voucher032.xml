@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RHA_UI032_ViewChallengeVoucherExchange>Exchange</RHA_UI032_ViewChallengeVoucherExchange>
+  <RHA_Voucher032_ColonyVoucher>Colony voucher ×{0}</RHA_Voucher032_ColonyVoucher>
+  <RHA_Voucher032_PersonalVoucher>Personal voucher ×{0}</RHA_Voucher032_PersonalVoucher>
+  <RHA_Voucher032_RelicVoucher>Relic voucher ×{0}</RHA_Voucher032_RelicVoucher>
+  <RHA_Voucher032_FlexibleVoucher>Universal voucher ×{0}</RHA_Voucher032_FlexibleVoucher>
+  <RHA_Voucher032_AugmentationVoucher>Gear upgrade voucher ×{0}</RHA_Voucher032_AugmentationVoucher>
+  <RHA_Voucher032_ColonyHelp>Choose one of three colony augments, including colony quality cards.</RHA_Voucher032_ColonyHelp>
+  <RHA_Voucher032_PersonalHelp>Choose one of three personal augments and a recipient, including personal quality cards.</RHA_Voucher032_PersonalHelp>
+  <RHA_Voucher032_RelicHelp>Choose one of three physical relics, delivered near a colonist.</RHA_Voucher032_RelicHelp>
+  <RHA_Voucher032_AugmentationHelp>Choose one of up to three equipment-specific augments, then a recipient. Active while the matching equipment is worn.</RHA_Voucher032_AugmentationHelp>
+  <RHA_Voucher032_ExchangeTitle>Gear upgrade vouchers · {0} held</RHA_Voucher032_ExchangeTitle>
+  <RHA_Voucher032_ExchangeHelp>Each exchange grants one voucher. Use it on the Augments page: choose one of up to three equipment augments, then a recipient.</RHA_Voucher032_ExchangeHelp>
+  <RHA_Voucher032_Wallet>Prismatic shards {0} · Cores {1} · Marks {2}</RHA_Voucher032_Wallet>
+  <RHA_Voucher032_MaterialCost>Cost: {0} prismatic shards + {1} core + {2} mark</RHA_Voucher032_MaterialCost>
+  <RHA_Voucher032_FlexibleCost>Cost: {0} universal voucher</RHA_Voucher032_FlexibleCost>
+  <RHA_Voucher032_MaterialAction>Exchange materials for 1 gear upgrade voucher</RHA_Voucher032_MaterialAction>
+  <RHA_Voucher032_Confirm>{0}
+
+Exchange for 1 gear upgrade voucher?
+Use it on the Augments page, then choose a card and recipient.</RHA_Voucher032_Confirm>
+  <RHA_Voucher032_Success>Received 1 gear upgrade voucher. Use it on the Augments page to choose one of up to three cards and a recipient.</RHA_Voucher032_Success>
+  <RHA_Voucher032_BlockUnknownFunding>This exchange method is unavailable.</RHA_Voucher032_BlockUnknownFunding>
+  <RHA_Voucher032_BlockBalanceFull>The exchange is blocked: the voucher balance is full or the exchange state is restricted.</RHA_Voucher032_BlockBalanceFull>
+  <RHA_Voucher032_BlockEmptyPool>No equipment augments are currently available.</RHA_Voucher032_BlockEmptyPool>
+  <RHA_Voucher032_BlockInsufficientMaterials>Not enough prismatic shards, cores or marks.</RHA_Voucher032_BlockInsufficientMaterials>
+  <RHA_Voucher032_BlockNoFlexibleVoucher>No universal voucher is available for this exchange method.</RHA_Voucher032_BlockNoFlexibleVoucher>
+</LanguageData>

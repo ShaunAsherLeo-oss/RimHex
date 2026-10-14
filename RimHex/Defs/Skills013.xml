@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Defs>
+  <RimHex.HexSkillDef>
+    <defName>RHA_Skill_Spin013</defName>
+    <label>Ringblade rush</label>
+    <description>Rush to a valid cell within 8 cells, then spin for 22 base physical damage against up to 16 enemies within 3.2 cells. Damage bonuses and armor apply.</description>
+    <cardKey>Spin013</cardKey>
+    <aim>Ground</aim>
+    <autoRule>Threat</autoRule>
+    <cooldown>480</cooldown>
+    <range>8</range>
+    <radius>3.2</radius>
+    <visual>Flurry</visual>
+    <iconPath>RimHex/Cards/RHA_A13_SpinToWin</iconPath>
+  </RimHex.HexSkillDef>
+  <RimHex.HexSkillDef>
+    <defName>RHA_Skill_Blink013</defName>
+    <label>Blink</label>
+    <description>Teleport to a visible, unoccupied cell within 8 cells. Granted only by the relevant augment cards.</description>
+    <cardKey>Blink013</cardKey>
+    <aim>Ground</aim>
+    <autoRule>Threat</autoRule>
+    <cooldown>600</cooldown>
+    <range>8</range>
+    <radius>0</radius>
+    <visual>Portal</visual>
+    <iconPath>RimHex/Cards/RHA_A13_Dashing</iconPath>
+  </RimHex.HexSkillDef>
+  <RimHex.HexSkillDef>
+    <defName>RHA_Skill_Hunt013</defName>
+    <label>Pursuit mark</label>
+    <description>Mark a visible enemy, jump to a valid adjacent cell within 10 cells, then strike for 32 base physical damage.</description>
+    <cardKey>Hunt013</cardKey>
+    <aim>Enemy</aim>
+    <autoRule>Threat</autoRule>
+    <cooldown>600</cooldown>
+    <range>10</range>
+    <radius>0</radius>
+    <visual>Lance</visual>
+    <iconPath>RimHex/Cards/RHA_A13_EnPassant</iconPath>
+  </RimHex.HexSkillDef>
+  <RimHex.HexSkillDef>
+    <defName>RHA_Skill_Return013</defName>
+    <label>Return</label>
+    <description>Within 3.25 seconds of moving, manually return to the previous valid origin within 12 cells. Cannot cross maps or opaque obstacles.</description>
+    <cardKey>Return013</cardKey>
+    <aim>Self</aim>
+    <autoRule>Threat</autoRule>
+    <cooldown>120</cooldown>
+    <range>12</range>
+    <radius>0</radius>
+    <visual>Portal</visual>
+    <iconPath>RimHex/Cards/RHA_A13_NowYouSeeMe</iconPath>
+  </RimHex.HexSkillDef>
+</Defs>

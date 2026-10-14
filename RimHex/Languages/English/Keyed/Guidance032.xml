@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RHA_Guidance032_Pawn>Current colonist: {0}</RHA_Guidance032_Pawn>
+  <RHA_Guidance032_None>None</RHA_Guidance032_None>
+  <RHA_Guidance032_SourceReady>Source requirement met</RHA_Guidance032_SourceReady>
+  <RHA_Guidance032_MissingSources>Needs {0} more distinct sources. Possible sources: {1}</RHA_Guidance032_MissingSources>
+  <RHA_Guidance032_MissingCount>Needs {0} more distinct sources</RHA_Guidance032_MissingCount>
+  <RHA_Guidance032_ConditionsReady>Current requirements are met. Open details to review and act.</RHA_Guidance032_ConditionsReady>
+  <RHA_Guidance032_Mechanism>Main mechanism</RHA_Guidance032_Mechanism>
+  <RHA_Guidance032_OwnedSources>Owned growth sources</RHA_Guidance032_OwnedSources>
+  <RHA_Guidance032_MissingSourceTitle>Missing sources</RHA_Guidance032_MissingSourceTitle>
+  <RHA_Guidance032_Conditions>Advancement requirements and blockers</RHA_Guidance032_Conditions>
+  <RHA_Guidance032_HelpTitle>How strengthening works</RHA_Guidance032_HelpTitle>
+  <RHA_Guidance032_ComponentsHelp>Main paths combine augment and equipment sources. Cores provide build branches, skills provide active actions, and equipment provides worn effects and its own growth. These components can support multiple paths. Effects depend on current sources, wearing and actual requirements.</RHA_Guidance032_ComponentsHelp>
+  <RHA_Guidance032_EmptyEquipment>This colonist has no managed worn equipment. Open the forge to inspect existing equipment and crafting options.</RHA_Guidance032_EmptyEquipment>
+  <RHA_Guidance032_EmptyGrowth>No build is active yet. Start collecting sources through existing augment choices or challenges.</RHA_Guidance032_EmptyGrowth>
+  <RHA_Guidance032_EmptyNext>No advancement is available. View routes to check sources and requirements.</RHA_Guidance032_EmptyNext>
+  <RHA_Guidance032_ViewForge>View forge</RHA_Guidance032_ViewForge>
+  <RHA_Guidance032_ViewOffers>View augment choices</RHA_Guidance032_ViewOffers>
+  <RHA_Guidance032_ViewChallenges>View challenges</RHA_Guidance032_ViewChallenges>
+  <RHA_Guidance032_ViewRoutes>View routes</RHA_Guidance032_ViewRoutes>
+  <RHA_Guidance032_EmptySkills>This colonist has no skills yet. View routes and full augment details to find their sources.</RHA_Guidance032_EmptySkills>
+  <RHA_Guidance032_EmptyFilteredSkills>No skills match these filters. Clear the filters to view known skills.</RHA_Guidance032_EmptyFilteredSkills>
+  <RHA_Guidance032_ResetSkillFilter>Clear filters</RHA_Guidance032_ResetSkillFilter>
+  <RHA_Guidance032_StateUnowned>Not acquired</RHA_Guidance032_StateUnowned>
+  <RHA_Guidance032_StateBlocked>Requirements unmet</RHA_Guidance032_StateBlocked>
+  <RHA_Guidance032_StatePending>Action pending</RHA_Guidance032_StatePending>
+  <RHA_Guidance032_StateActive>Active / acquired</RHA_Guidance032_StateActive>
+  <RHA_Guidance032_StateDormant>Temporarily inactive</RHA_Guidance032_StateDormant>
+  <RHA_Guidance032_StateComplete>Route complete</RHA_Guidance032_StateComplete>
+  <RHA_Guidance032_StateAvailable>Next step available</RHA_Guidance032_StateAvailable>
+  <RHA_Guidance032_HelpAcquire>How do I acquire strengthening?</RHA_Guidance032_HelpAcquire>
+  <RHA_Guidance032_HelpAcquireBody>Collect sources through existing augment choices, challenges, task rewards and equipment. Augments, cores, skills and equipment keep their own entries. If no augment choice is available, view challenges. The growth page summarizes the resulting build.</RHA_Guidance032_HelpAcquireBody>
+  <RHA_Guidance032_HelpAcquireAction>View acquisition entry</RHA_Guidance032_HelpAcquireAction>
+  <RHA_Guidance032_HelpDormant>Why is an ability inactive?</RHA_Guidance032_HelpDormant>
+  <RHA_Guidance032_HelpDormantBody>Common reasons include removing equipment, insufficient path sources, changed branches or a disabled route. Earned progress remains visible on related routes. The growth page shows the main reason; expand to inspect owned sources and missing conditions. Inactivity does not imply deleted progress.</RHA_Guidance032_HelpDormantBody>
+  <RHA_Guidance032_HelpDormantAction>View current build</RHA_Guidance032_HelpDormantAction>
+  <RHA_Guidance032_HelpAdvance>How do I advance or choose a branch?</RHA_Guidance032_HelpAdvance>
+  <RHA_Guidance032_HelpAdvanceBody>Open a node from Next steps or the star chart to inspect actual sources, costs and conditions. Pending steps use the original confirmation flow; challenge routes require their challenge. Random routes still use actual offered candidates.</RHA_Guidance032_HelpAdvanceBody>
+  <RHA_Guidance032_HelpAdvanceAction>View advancement routes</RHA_Guidance032_HelpAdvanceAction>
+  <RHA_Guidance032_HelpSources>Where can I see effect sources?</RHA_Guidance032_HelpSources>
+  <RHA_Guidance032_HelpSourcesBody>Effect sources in Detailed info list strengthening contributions. Path details separate owned and missing sources. Full values remain available in Detailed info.</RHA_Guidance032_HelpSourcesBody>
+  <RHA_Guidance032_HelpSourcesAction>View effect sources</RHA_Guidance032_HelpSourcesAction>
+  <RHA_Guidance032_HelpRecords>Where are records and growth tasks?</RHA_Guidance032_HelpRecords>
+  <RHA_Guidance032_HelpRecordsBody>Open Detailed info for combat records, trigger records and growth tasks. Growth tasks keep their own owner and rewards.</RHA_Guidance032_HelpRecordsBody>
+  <RHA_Guidance032_HelpRecordsAction>View combat records</RHA_Guidance032_HelpRecordsAction>
+  <RHA_Guidance032_HelpComponents>How do paths, cores, skills and equipment fit together?</RHA_Guidance032_HelpComponents>
+  <RHA_Guidance032_HelpComponentsBody>The nine personal paths can be combined. Cores provide build branches; skills provide active abilities; equipment provides worn effects, runes, awakening and star nodes. These are build components with their own progress and may also supply path sources. Wealth, Industry and Abundance belong to colony growth.</RHA_Guidance032_HelpComponentsBody>
+  <RHA_Guidance032_HelpComponentsAction>View equipment growth</RHA_Guidance032_HelpComponentsAction>
+</LanguageData>

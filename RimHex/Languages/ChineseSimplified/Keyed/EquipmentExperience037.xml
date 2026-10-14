@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RHA_Equipment037_XPGain>{0}：{1}经验 +{2}</RHA_Equipment037_XPGain>
+  <RHA_Equipment037_XPBlocked>{0}：{1}经验 +0（{2}）</RHA_Equipment037_XPBlocked>
+  <RHA_Equipment037_XPNoSkill>无此技能</RHA_Equipment037_XPNoSkill>
+  <RHA_Equipment037_XPDisabled>无法学习</RHA_Equipment037_XPDisabled>
+  <RHA_Equipment037_XPNoGain>原生学习未增加经验</RHA_Equipment037_XPNoGain>
+</LanguageData>

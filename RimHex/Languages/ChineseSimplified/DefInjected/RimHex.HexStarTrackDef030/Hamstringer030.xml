@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_STAR_Relic_REF_Hamstringer.nodes.0.label>断筋传承</RHA_STAR_Relic_REF_Hamstringer.nodes.0.label>
+  <RHA_STAR_Relic_REF_Hamstringer.nodes.0.description>保留断筋者原有暴击值、可叠层流血、六次脉冲、30%移速减缓和易伤联动。分支只计算本人普通攻击实际伤敌的暴击，且目标仍有本人施加的断筋流血；队友流血、技能和追加伤害不计。进阶随遗物保存，不附送战技。</RHA_STAR_Relic_REF_Hamstringer.nodes.0.description>
+  <RHA_STAR_Relic_REF_Hamstringer.nodes.1.label>割痕追斩</RHA_STAR_Relic_REF_Hamstringer.nodes.1.label>
+  <RHA_STAR_Relic_REF_Hamstringer.nodes.1.description>5秒内两次普通暴击命中同一名仍有本人断筋流血的敌人，第二次追加3点基础斩击，冷却8秒。转火重新计数，非暴击不计，也不延长窗口。流血本身不会启动追斩。 基础收益：伤害 75。</RHA_STAR_Relic_REF_Hamstringer.nodes.1.description>
+  <RHA_STAR_Relic_REF_Hamstringer.nodes.2.label>双伤换锋</RHA_STAR_Relic_REF_Hamstringer.nodes.2.label>
+  <RHA_STAR_Relic_REF_Hamstringer.nodes.2.description>6秒内普通暴击命中两名不同的敌人，两次命中结算时各自目标需有本人断筋流血。以第二次受击格为中心，对5格内视线畅通、另外至多两名仍有本人断筋流血的敌人各追加50点基础伤害，冷却10秒。不会重复打击原受击者或扩散给没有本人流血的目标。 基础收益：伤害 50。</RHA_STAR_Relic_REF_Hamstringer.nodes.2.description>
+  <RHA_STAR_Relic_REF_Hamstringer.nodes.3.label>猎后回息</RHA_STAR_Relic_REF_Hamstringer.nodes.3.label>
+  <RHA_STAR_Relic_REF_Hamstringer.nodes.3.description>割痕追斩实际造成追加伤害后，治疗本人20点基础可恢复伤势，冷却8秒。不恢复缺失部位或永久伤疤。 基础收益：治疗 20。</RHA_STAR_Relic_REF_Hamstringer.nodes.3.description>
+  <RHA_STAR_Relic_REF_Hamstringer.nodes.4.label>割痕牵连</RHA_STAR_Relic_REF_Hamstringer.nodes.4.label>
+  <RHA_STAR_Relic_REF_Hamstringer.nodes.4.description>割痕追斩实际造成追加伤害后，对受击点4格内视线畅通、另一名仍有本人断筋流血的敌人追加25点基础伤害，冷却8秒。先筛选本人流血再选最近目标；没有合适目标时不重复打击原目标。 基础收益：伤害 25。</RHA_STAR_Relic_REF_Hamstringer.nodes.4.description>
+  <RHA_STAR_Relic_REF_Hamstringer.nodes.5.label>围猎相济</RHA_STAR_Relic_REF_Hamstringer.nodes.5.label>
+  <RHA_STAR_Relic_REF_Hamstringer.nodes.5.description>双伤换锋实际造成追加伤害后，治疗本人4格内视线畅通、伤势最重的另一名殖民者40点基础普通伤势，冷却10秒。一次换锋伤及多个目标也只支援一次，没有合适伤者时不转给本人。 基础收益：治疗 40。</RHA_STAR_Relic_REF_Hamstringer.nodes.5.description>
+  <RHA_STAR_Relic_REF_Hamstringer.nodes.6.label>血痕留债</RHA_STAR_Relic_REF_Hamstringer.nodes.6.label>
+  <RHA_STAR_Relic_REF_Hamstringer.nodes.6.description>双伤换锋实际伤及的敌人各留下5秒血债印记，最多两名。本人后续普通命中被标记的敌人时，消耗该敌人的印记，追加50点基础伤害；技能、流血和追加伤害不兑现。同一次换锋不能立即兑现刚留下的印记。 基础收益：伤害 50。</RHA_STAR_Relic_REF_Hamstringer.nodes.6.description>
+</LanguageData>

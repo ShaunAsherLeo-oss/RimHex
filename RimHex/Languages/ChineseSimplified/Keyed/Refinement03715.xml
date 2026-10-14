@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RHA_Refinement03715_Pressure>T5／T6：连续原生眩晕或受击僵直满5秒，立即解除并免控3秒；完全脱控后重新计时。</RHA_Refinement03715_Pressure>
+  <RHA_Refinement03715_Immune>免控恢复：剩余 {0} 秒。</RHA_Refinement03715_Immune>
+  <RHA_Refinement03715_Reward>T{0} 成功：精进 +{1} 层。当前 {2} 层 → 完成后 {3} 层。</RHA_Refinement03715_Reward>
+  <RHA_Refinement03715_Unlock>首次通关以完整基础收益解锁节点；再次挑战才获得精进层数。</RHA_Refinement03715_Unlock>
+  <RHA_Refinement03715_Multiplier>{0}：×{1} → ×{2}；终值上限 ×{3}。</RHA_Refinement03715_Multiplier>
+  <RHA_Refinement03715_Legacy>先前报名场次：成功精进 +{0} 层，保留报名时的原奖励。</RHA_Refinement03715_Legacy>
+  <RHA_Refinement03715_Damage>伤害</RHA_Refinement03715_Damage>
+  <RHA_Refinement03715_Healing>治疗</RHA_Refinement03715_Healing>
+  <RHA_Refinement03715_Shield>护盾</RHA_Refinement03715_Shield>
+  <RHA_Refinement03715_Income>经营收益</RHA_Refinement03715_Income>
+  <RHA_Refinement03715_Control>控制时长</RHA_Refinement03715_Control>
+  <RHA_Refinement03715_MarkDuration>标记时长</RHA_Refinement03715_MarkDuration>
+</LanguageData>

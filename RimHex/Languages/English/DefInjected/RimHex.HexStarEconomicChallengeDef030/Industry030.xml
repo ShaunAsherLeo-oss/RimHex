@@ -1,0 +1,112 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_IndustryEconomic030_root.label>Begin Work assessment</RHA_IndustryEconomic030_root.label>
+  <RHA_IndustryEconomic030_root.description>After enrollment, complete all objectives within 15 days. Only successful manufacturing with actual industrial material consumption counts. One recipe completion is one job regardless of output quantity; the first job establishes recipe and worker history. This node does not need to be unlocked.
+Completed industrial jobs: 4
+Industrial materials consumed: 40</RHA_IndustryEconomic030_root.description>
+  <RHA_IndustryEconomic030_series.label>Steady Production assessment</RHA_IndustryEconomic030_series.label>
+  <RHA_IndustryEconomic030_series.description>After enrollment, complete all objectives within 20 days. Only successful manufacturing with actual industrial material consumption counts. One recipe completion is one job regardless of output quantity; the first job establishes recipe and worker history. This node does not need to be unlocked.
+Completed industrial jobs: 12
+Consecutive same-recipe jobs: 8
+Industrial materials consumed: 120</RHA_IndustryEconomic030_series.description>
+  <RHA_IndustryEconomic030_flexible.label>Flexible Production assessment</RHA_IndustryEconomic030_flexible.label>
+  <RHA_IndustryEconomic030_flexible.description>After enrollment, complete all objectives within 20 days. Only successful manufacturing with actual industrial material consumption counts. One recipe completion is one job regardless of output quantity; the first job establishes recipe and worker history. This node does not need to be unlocked.
+Completed industrial jobs: 12
+Recipe changeovers: 8
+Distinct industrial recipes: 3</RHA_IndustryEconomic030_flexible.description>
+  <RHA_IndustryEconomic030_precision.label>Measured Stock assessment</RHA_IndustryEconomic030_precision.label>
+  <RHA_IndustryEconomic030_precision.description>After enrollment, complete all objectives within 25 days. Only successful manufacturing with actual industrial material consumption counts. One recipe completion is one job regardless of output quantity; the first job establishes recipe and worker history. This node does not need to be unlocked.
+Completed industrial jobs: 18
+Consecutive same-recipe jobs: 12
+Industrial materials consumed: 200</RHA_IndustryEconomic030_precision.description>
+  <RHA_IndustryEconomic030_batch.label>Batch Settlement assessment</RHA_IndustryEconomic030_batch.label>
+  <RHA_IndustryEconomic030_batch.description>After enrollment, complete all objectives within 25 days. Only successful manufacturing with actual industrial material consumption counts. One recipe completion is one job regardless of output quantity; the first job establishes recipe and worker history. This node does not need to be unlocked.
+Completed industrial jobs: 24
+Consecutive same-recipe jobs: 16
+Industrial materials consumed: 300</RHA_IndustryEconomic030_batch.description>
+  <RHA_IndustryEconomic030_handoff.label>Work Handoff assessment</RHA_IndustryEconomic030_handoff.label>
+  <RHA_IndustryEconomic030_handoff.description>After enrollment, complete all objectives within 25 days. Only successful manufacturing with actual industrial material consumption counts. One recipe completion is one job regardless of output quantity; the first job establishes recipe and worker history. This node does not need to be unlocked.
+Completed industrial jobs: 18
+Worker-and-recipe handoffs: 6
+Distinct industrial workers: 2
+Distinct industrial recipes: 2</RHA_IndustryEconomic030_handoff.description>
+  <RHA_IndustryEconomic030_catalogue.label>Recipe Records assessment</RHA_IndustryEconomic030_catalogue.label>
+  <RHA_IndustryEconomic030_catalogue.description>After enrollment, complete all objectives within 25 days. Only successful manufacturing with actual industrial material consumption counts. One recipe completion is one job regardless of output quantity; the first job establishes recipe and worker history. This node does not need to be unlocked.
+Completed industrial jobs: 18
+Distinct industrial recipes: 4
+Distinct industrial materials consumed: 3</RHA_IndustryEconomic030_catalogue.description>
+  <RHA_IndustryEconomic030_calibration.label>Calibrated Work assessment</RHA_IndustryEconomic030_calibration.label>
+  <RHA_IndustryEconomic030_calibration.description>After enrollment, complete all objectives within 30 days. Only successful manufacturing with actual industrial material consumption counts. One recipe completion is one job regardless of output quantity; the first job establishes recipe and worker history. This node does not need to be unlocked.
+Completed industrial jobs: 30
+Consecutive same-recipe jobs: 20
+Distinct industrial materials consumed: 3
+Industrial materials consumed: 450</RHA_IndustryEconomic030_calibration.description>
+  <RHA_IndustryEconomic030_warehouse.label>Circulating Stock assessment</RHA_IndustryEconomic030_warehouse.label>
+  <RHA_IndustryEconomic030_warehouse.description>After enrollment, complete all objectives within 30 days. Only successful manufacturing with actual industrial material consumption counts. One recipe completion is one job regardless of output quantity; the first job establishes recipe and worker history. This node does not need to be unlocked.
+Completed industrial jobs: 30
+Consecutive same-recipe jobs: 18
+Industrial materials consumed: 600
+Distinct industrial recipes: 3</RHA_IndustryEconomic030_warehouse.description>
+  <RHA_IndustryEconomic030_team.label>Cooperative Workshop assessment</RHA_IndustryEconomic030_team.label>
+  <RHA_IndustryEconomic030_team.description>After enrollment, complete all objectives within 30 days. Only successful manufacturing with actual industrial material consumption counts. One recipe completion is one job regardless of output quantity; the first job establishes recipe and worker history. This node does not need to be unlocked.
+Completed industrial jobs: 24
+Worker-and-recipe handoffs: 10
+Distinct industrial workers: 3
+Distinct industrial recipes: 3</RHA_IndustryEconomic030_team.description>
+  <RHA_IndustryEconomic030_library.label>Recipe Reuse assessment</RHA_IndustryEconomic030_library.label>
+  <RHA_IndustryEconomic030_library.description>After enrollment, complete all objectives within 30 days. Only successful manufacturing with actual industrial material consumption counts. One recipe completion is one job regardless of output quantity; the first job establishes recipe and worker history. This node does not need to be unlocked.
+Completed industrial jobs: 24
+Distinct industrial recipes: 4
+Recipe changeovers: 12
+Distinct industrial materials consumed: 3</RHA_IndustryEconomic030_library.description>
+  <RHA_IndustryEconomic030_calibration_raw.label>Material Recovery assessment</RHA_IndustryEconomic030_calibration_raw.label>
+  <RHA_IndustryEconomic030_calibration_raw.description>After enrollment, complete all objectives within 40 days. Only successful manufacturing with actual industrial material consumption counts. One recipe completion is one job regardless of output quantity; the first job establishes recipe and worker history. This node does not need to be unlocked.
+Completed industrial jobs: 40
+Consecutive same-recipe jobs: 24
+Distinct industrial materials consumed: 4
+Industrial materials consumed: 900</RHA_IndustryEconomic030_calibration_raw.description>
+  <RHA_IndustryEconomic030_calibration_parts.label>Precision Work assessment</RHA_IndustryEconomic030_calibration_parts.label>
+  <RHA_IndustryEconomic030_calibration_parts.description>After enrollment, complete all objectives within 40 days. Only successful manufacturing with actual industrial material consumption counts. One recipe completion is one job regardless of output quantity; the first job establishes recipe and worker history. This node does not need to be unlocked.
+Completed industrial jobs: 36
+Consecutive same-recipe jobs: 22
+Distinct industrial recipes: 4
+Industrial materials consumed: 700</RHA_IndustryEconomic030_calibration_parts.description>
+  <RHA_IndustryEconomic030_warehouse_buffer.label>Reserve Buffer assessment</RHA_IndustryEconomic030_warehouse_buffer.label>
+  <RHA_IndustryEconomic030_warehouse_buffer.description>After enrollment, complete all objectives within 40 days. Only successful manufacturing with actual industrial material consumption counts. One recipe completion is one job regardless of output quantity; the first job establishes recipe and worker history. This node does not need to be unlocked.
+Completed industrial jobs: 40
+Consecutive same-recipe jobs: 24
+Distinct industrial recipes: 3
+Industrial materials consumed: 1000</RHA_IndustryEconomic030_warehouse_buffer.description>
+  <RHA_IndustryEconomic030_warehouse_exchange.label>Stock Exchange assessment</RHA_IndustryEconomic030_warehouse_exchange.label>
+  <RHA_IndustryEconomic030_warehouse_exchange.description>After enrollment, complete all objectives within 40 days. Only successful manufacturing with actual industrial material consumption counts. One recipe completion is one job regardless of output quantity; the first job establishes recipe and worker history. This node does not need to be unlocked.
+Completed industrial jobs: 36
+Recipe changeovers: 16
+Distinct industrial materials consumed: 4
+Industrial materials consumed: 800</RHA_IndustryEconomic030_warehouse_exchange.description>
+  <RHA_IndustryEconomic030_team_return.label>Return Shift assessment</RHA_IndustryEconomic030_team_return.label>
+  <RHA_IndustryEconomic030_team_return.description>After enrollment, complete all objectives within 40 days. Only successful manufacturing with actual industrial material consumption counts. One recipe completion is one job regardless of output quantity; the first job establishes recipe and worker history. This node does not need to be unlocked.
+Completed industrial jobs: 36
+Worker-and-recipe handoffs: 16
+Distinct industrial workers: 3
+Distinct industrial recipes: 3
+Consecutive same-recipe jobs: 6</RHA_IndustryEconomic030_team_return.description>
+  <RHA_IndustryEconomic030_team_split.label>Shared Supplies assessment</RHA_IndustryEconomic030_team_split.label>
+  <RHA_IndustryEconomic030_team_split.description>After enrollment, complete all objectives within 40 days. Only successful manufacturing with actual industrial material consumption counts. One recipe completion is one job regardless of output quantity; the first job establishes recipe and worker history. This node does not need to be unlocked.
+Completed industrial jobs: 36
+Worker-and-recipe handoffs: 14
+Distinct industrial workers: 3
+Distinct industrial recipes: 4
+Distinct industrial materials consumed: 3</RHA_IndustryEconomic030_team_split.description>
+  <RHA_IndustryEconomic030_library_specialist.label>Specialist Recipes assessment</RHA_IndustryEconomic030_library_specialist.label>
+  <RHA_IndustryEconomic030_library_specialist.description>After enrollment, complete all objectives within 40 days. Only successful manufacturing with actual industrial material consumption counts. One recipe completion is one job regardless of output quantity; the first job establishes recipe and worker history. This node does not need to be unlocked.
+Completed industrial jobs: 36
+Distinct industrial recipes: 4
+Consecutive same-recipe jobs: 16
+Industrial materials consumed: 600</RHA_IndustryEconomic030_library_specialist.description>
+  <RHA_IndustryEconomic030_library_diverse.label>Diverse Work assessment</RHA_IndustryEconomic030_library_diverse.label>
+  <RHA_IndustryEconomic030_library_diverse.description>After enrollment, complete all objectives within 40 days. Only successful manufacturing with actual industrial material consumption counts. One recipe completion is one job regardless of output quantity; the first job establishes recipe and worker history. This node does not need to be unlocked.
+Completed industrial jobs: 36
+Distinct industrial recipes: 5
+Recipe changeovers: 20
+Distinct industrial materials consumed: 4</RHA_IndustryEconomic030_library_diverse.description>
+</LanguageData>

@@ -1,0 +1,307 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Defs>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_FlameTrial030_root</defName>
+    <label>First breach</label>
+    <description>Threat: Locked attacks leave radius-2 embers for 6 seconds. Answer: Bait the next locked attack into an existing ember, or control its caster; move after the lock. Reward: Consume the ember and cancel that attack; the caster takes 25% more damage for 8 seconds. Cost: Embers deal 25% of base special damage per second; overlapping embers do not stack.
+Arrangement: Anchor break; forward lock embers. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. Existing finite roster retained.</description>
+    <family>flame</family>
+    <mechanism>guardBreak</mechanism>
+    <arena>bastion-v1</arena>
+    <chargedBarrage>false</chargedBarrage>
+    <targetTrack>RHA_STAR_Path_Flame</targetTrack>
+    <targetNode>root</targetNode>
+    <targetStage>1</targetStage>
+    <seconds>180</seconds>
+    <tactic>RHA_Tactics_FlameTrial030_root</tactic>
+    <encounter>RHA_Encounter03510_RHA_FlameTrial030_root</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_FlameTrial030_brand</defName>
+    <label>Turn on the hunter</label>
+    <description>Threat: Locked attacks leave radius-2 embers for 6 seconds. Answer: Bait the next locked attack into an existing ember, or control its caster; move after the lock. Reward: Consume the ember and cancel that attack; the caster takes 25% more damage for 8 seconds. Cost: Embers deal 25% of base special damage per second; overlapping embers do not stack.
+Arrangement: Baited pursuit; right lock embers. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. Existing finite roster retained.</description>
+    <family>flame</family>
+    <mechanism>pursuit</mechanism>
+    <arena>ring-v1</arena>
+    <chargedBarrage>false</chargedBarrage>
+    <targetTrack>RHA_STAR_Path_Flame</targetTrack>
+    <targetNode>brand</targetNode>
+    <targetStage>2</targetStage>
+    <seconds>240</seconds>
+    <tactic>RHA_Tactics_FlameTrial030_brand</tactic>
+    <encounter>RHA_Encounter03510_RHA_FlameTrial030_brand</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_FlameTrial030_furnace</defName>
+    <label>Break the firing line</label>
+    <description>Threat: Locked attacks leave radius-2 embers for 6 seconds. Answer: Bait the next locked attack into an existing ember, or control its caster; move after the lock. Reward: Consume the ember and cancel that attack; the caster takes 25% more damage for 8 seconds. Cost: Embers deal 25% of base special damage per second; overlapping embers do not stack.
+Arrangement: Anchor break; left then right embers. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. Existing finite roster retained.</description>
+    <family>flame</family>
+    <mechanism>guardBreak</mechanism>
+    <arena>bastion-v1</arena>
+    <chargedBarrage>true</chargedBarrage>
+    <targetTrack>RHA_STAR_Path_Flame</targetTrack>
+    <targetNode>furnace</targetNode>
+    <targetStage>2</targetStage>
+    <seconds>240</seconds>
+    <tactic>RHA_Tactics_FlameTrial030_furnace</tactic>
+    <encounter>RHA_Encounter03510_RHA_FlameTrial030_furnace</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_FlameTrial030_pursuit</defName>
+    <label>Answering fire</label>
+    <description>Threat: Locked attacks leave radius-2 embers for 6 seconds. Answer: Bait the next locked attack into an existing ember, or control its caster; move after the lock. Reward: Consume the ember and cancel that attack; the caster takes 25% more damage for 8 seconds. Cost: Embers deal 25% of base special damage per second; overlapping embers do not stack.
+Arrangement: Linked peers; forward lock embers. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. Existing finite roster retained.</description>
+    <family>flame</family>
+    <mechanism>twinLink</mechanism>
+    <arena>splitCourt-v1</arena>
+    <chargedBarrage>false</chargedBarrage>
+    <targetTrack>RHA_STAR_Path_Flame</targetTrack>
+    <targetNode>pursuit</targetNode>
+    <targetStage>3</targetStage>
+    <seconds>240</seconds>
+    <tactic>RHA_Tactics_FlameTrial030_pursuit</tactic>
+    <encounter>RHA_Encounter03510_RHA_FlameTrial030_pursuit</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_FlameTrial030_spread</defName>
+    <label>Split the escort</label>
+    <description>Threat: Locked attacks leave radius-2 embers for 6 seconds. Answer: Bait the next locked attack into an existing ember, or control its caster; move after the lock. Reward: Consume the ember and cancel that attack; the caster takes 25% more damage for 8 seconds. Cost: Embers deal 25% of base special damage per second; overlapping embers do not stack.
+Arrangement: Moving support; left lock embers. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. Existing finite roster retained.</description>
+    <family>flame</family>
+    <mechanism>escort</mechanism>
+    <arena>crossroads-v1</arena>
+    <chargedBarrage>false</chargedBarrage>
+    <targetTrack>RHA_STAR_Path_Flame</targetTrack>
+    <targetNode>spread</targetNode>
+    <targetStage>3</targetStage>
+    <seconds>240</seconds>
+    <tactic>RHA_Tactics_FlameTrial030_spread</tactic>
+    <encounter>RHA_Encounter03510_RHA_FlameTrial030_spread</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_FlameTrial030_burst</defName>
+    <label>Between the volleys</label>
+    <description>Threat: Locked attacks leave radius-2 embers for 6 seconds. Answer: Bait the next locked attack into an existing ember, or control its caster; move after the lock. Reward: Consume the ember and cancel that attack; the caster takes 25% more damage for 8 seconds. Cost: Embers deal 25% of base special damage per second; overlapping embers do not stack.
+Arrangement: Ordered strikes; forward lock embers. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. Existing finite roster retained.</description>
+    <family>flame</family>
+    <mechanism>cadence</mechanism>
+    <arena>ring-v1</arena>
+    <chargedBarrage>false</chargedBarrage>
+    <targetTrack>RHA_STAR_Path_Flame</targetTrack>
+    <targetNode>burst</targetNode>
+    <targetStage>3</targetStage>
+    <seconds>240</seconds>
+    <tactic>RHA_Tactics_FlameTrial030_burst</tactic>
+    <encounter>RHA_Encounter03510_RHA_FlameTrial030_burst</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_FlameTrial030_warmth</defName>
+    <label>Keep the embers</label>
+    <description>Threat: Locked attacks leave radius-2 embers for 6 seconds. Answer: Bait the next locked attack into an existing ember, or control its caster; move after the lock. Reward: Consume the ember and cancel that attack; the caster takes 25% more damage for 8 seconds. Cost: Embers deal 25% of base special damage per second; overlapping embers do not stack.
+Arrangement: Anchor break; left lock embers. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. Existing finite roster retained.</description>
+    <family>flame</family>
+    <mechanism>guardBreak</mechanism>
+    <arena>crossroads-v1</arena>
+    <chargedBarrage>false</chargedBarrage>
+    <targetTrack>RHA_STAR_Path_Flame</targetTrack>
+    <targetNode>warmth</targetNode>
+    <targetStage>3</targetStage>
+    <seconds>240</seconds>
+    <tactic>RHA_Tactics_FlameTrial030_warmth</tactic>
+    <encounter>RHA_Encounter03510_RHA_FlameTrial030_warmth</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_FlameTrial030_trail</defName>
+    <label>Leave the impact</label>
+    <description>Threat: Locked attacks leave radius-2 embers for 6 seconds. Answer: Bait the next locked attack into an existing ember, or control its caster; move after the lock. Reward: Consume the ember and cancel that attack; the caster takes 25% more damage for 8 seconds. Cost: Embers deal 25% of base special damage per second; overlapping embers do not stack.
+Arrangement: Ordered strikes; right lock embers. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. Existing finite roster retained.</description>
+    <family>flame</family>
+    <mechanism>cadence</mechanism>
+    <arena>crossroads-v1</arena>
+    <chargedBarrage>false</chargedBarrage>
+    <targetTrack>RHA_STAR_Path_Flame</targetTrack>
+    <targetNode>trail</targetNode>
+    <targetStage>4</targetStage>
+    <seconds>300</seconds>
+    <tactic>RHA_Tactics_FlameTrial030_trail</tactic>
+    <encounter>RHA_Encounter03510_RHA_FlameTrial030_trail</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_FlameTrial030_relay</defName>
+    <label>Passing barrage</label>
+    <description>Threat: Locked attacks leave radius-2 embers for 6 seconds. Answer: Bait the next locked attack into an existing ember, or control its caster; move after the lock. Reward: Consume the ember and cancel that attack; the caster takes 25% more damage for 8 seconds. Cost: Embers deal 25% of base special damage per second; overlapping embers do not stack.
+Arrangement: Linked peers; right lock embers. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. Existing finite roster retained.</description>
+    <family>flame</family>
+    <mechanism>twinLink</mechanism>
+    <arena>crossroads-v1</arena>
+    <chargedBarrage>false</chargedBarrage>
+    <targetTrack>RHA_STAR_Path_Flame</targetTrack>
+    <targetNode>relay</targetNode>
+    <targetStage>4</targetStage>
+    <seconds>300</seconds>
+    <tactic>RHA_Tactics_FlameTrial030_relay</tactic>
+    <encounter>RHA_Encounter03510_RHA_FlameTrial030_relay</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_FlameTrial030_bed</defName>
+    <label>Open the furnace</label>
+    <description>Threat: Locked attacks leave radius-2 embers for 6 seconds. Answer: Bait the next locked attack into an existing ember, or control its caster; move after the lock. Reward: Consume the ember and cancel that attack; the caster takes 25% more damage for 8 seconds. Cost: Embers deal 25% of base special damage per second; overlapping embers do not stack.
+Arrangement: Anchor break; right lock embers. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. Existing finite roster retained.</description>
+    <family>flame</family>
+    <mechanism>guardBreak</mechanism>
+    <arena>bastion-v1</arena>
+    <chargedBarrage>true</chargedBarrage>
+    <targetTrack>RHA_STAR_Path_Flame</targetTrack>
+    <targetNode>bed</targetNode>
+    <targetStage>4</targetStage>
+    <seconds>300</seconds>
+    <tactic>RHA_Tactics_FlameTrial030_bed</tactic>
+    <encounter>RHA_Encounter03510_RHA_FlameTrial030_bed</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_FlameTrial030_return</defName>
+    <label>Cover the retreat</label>
+    <description>Threat: Locked attacks leave radius-2 embers for 6 seconds. Answer: Bait the next locked attack into an existing ember, or control its caster; move after the lock. Reward: Consume the ember and cancel that attack; the caster takes 25% more damage for 8 seconds. Cost: Embers deal 25% of base special damage per second; overlapping embers do not stack.
+Arrangement: Protected target; right lock embers. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. Existing finite roster retained.</description>
+    <family>flame</family>
+    <mechanism>bodyguard</mechanism>
+    <arena>crossroads-v1</arena>
+    <chargedBarrage>false</chargedBarrage>
+    <targetTrack>RHA_STAR_Path_Flame</targetTrack>
+    <targetNode>return</targetNode>
+    <targetStage>4</targetStage>
+    <seconds>300</seconds>
+    <tactic>RHA_Tactics_FlameTrial030_return</tactic>
+    <encounter>RHA_Encounter03510_RHA_FlameTrial030_return</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_FlameTrial030_trail_lure</defName>
+    <label>Draw them out</label>
+    <description>Threat: Locked attacks leave radius-2 embers for 6 seconds. Answer: Bait the next locked attack into an existing ember, or control its caster; move after the lock. Reward: Consume the ember and cancel that attack; the caster takes 25% more damage for 8 seconds. Cost: Embers deal 25% of base special damage per second; overlapping embers do not stack.
+Arrangement: Ordered strikes; forward lock embers. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. One boss and two finite guards, no reinforcements or resurrection.</description>
+    <family>flame</family>
+    <mechanism>cadence</mechanism>
+    <arena>splitCourt-v1</arena>
+    <chargedBarrage>false</chargedBarrage>
+    <targetTrack>RHA_STAR_Path_Flame</targetTrack>
+    <targetNode>trail_lure</targetNode>
+    <targetStage>5</targetStage>
+    <seconds>420</seconds>
+    <tactic>RHA_Tactics_FlameTrial030_trail_lure</tactic>
+    <encounter>RHA_Encounter03510_RHA_FlameTrial030_trail_lure</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_FlameTrial030_trail_echo</defName>
+    <label>The second volley</label>
+    <description>Threat: Locked attacks leave radius-2 embers for 6 seconds. Answer: Bait the next locked attack into an existing ember, or control its caster; move after the lock. Reward: Consume the ember and cancel that attack; the caster takes 25% more damage for 8 seconds. Cost: Embers deal 25% of base special damage per second; overlapping embers do not stack.
+Arrangement: Ordered strikes; left lock embers. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. One boss and two finite guards, no reinforcements or resurrection.</description>
+    <family>flame</family>
+    <mechanism>cadence</mechanism>
+    <arena>ring-v1</arena>
+    <chargedBarrage>false</chargedBarrage>
+    <targetTrack>RHA_STAR_Path_Flame</targetTrack>
+    <targetNode>trail_echo</targetNode>
+    <targetStage>5</targetStage>
+    <seconds>420</seconds>
+    <tactic>RHA_Tactics_FlameTrial030_trail_echo</tactic>
+    <encounter>RHA_Encounter03510_RHA_FlameTrial030_trail_echo</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_FlameTrial030_relay_merge</defName>
+    <label>Two fronts</label>
+    <description>Threat: Locked attacks leave radius-2 embers for 6 seconds. Answer: Bait the next locked attack into an existing ember, or control its caster; move after the lock. Reward: Consume the ember and cancel that attack; the caster takes 25% more damage for 8 seconds. Cost: Embers deal 25% of base special damage per second; overlapping embers do not stack.
+Arrangement: Linked peers; forward lock embers. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. One boss and two finite guards, no reinforcements or resurrection.</description>
+    <family>flame</family>
+    <mechanism>twinLink</mechanism>
+    <arena>bastion-v1</arena>
+    <chargedBarrage>false</chargedBarrage>
+    <targetTrack>RHA_STAR_Path_Flame</targetTrack>
+    <targetNode>relay_merge</targetNode>
+    <targetStage>5</targetStage>
+    <seconds>420</seconds>
+    <tactic>RHA_Tactics_FlameTrial030_relay_merge</tactic>
+    <encounter>RHA_Encounter03510_RHA_FlameTrial030_relay_merge</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_FlameTrial030_relay_rescue</defName>
+    <label>Bring them through</label>
+    <description>Threat: Locked attacks leave radius-2 embers for 6 seconds. Answer: Bait the next locked attack into an existing ember, or control its caster; move after the lock. Reward: Consume the ember and cancel that attack; the caster takes 25% more damage for 8 seconds. Cost: Embers deal 25% of base special damage per second; overlapping embers do not stack.
+Arrangement: Protected target; left lock embers. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. One boss and two finite guards, no reinforcements or resurrection.</description>
+    <family>flame</family>
+    <mechanism>bodyguard</mechanism>
+    <arena>splitCourt-v1</arena>
+    <chargedBarrage>false</chargedBarrage>
+    <targetTrack>RHA_STAR_Path_Flame</targetTrack>
+    <targetNode>relay_rescue</targetNode>
+    <targetStage>5</targetStage>
+    <seconds>420</seconds>
+    <tactic>RHA_Tactics_FlameTrial030_relay_rescue</tactic>
+    <encounter>RHA_Encounter03510_RHA_FlameTrial030_relay_rescue</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_FlameTrial030_bed_bank</defName>
+    <label>Hold for the breach</label>
+    <description>Threat: Locked attacks leave radius-2 embers for 6 seconds. Answer: Bait the next locked attack into an existing ember, or control its caster; move after the lock. Reward: Consume the ember and cancel that attack; the caster takes 25% more damage for 8 seconds. Cost: Embers deal 25% of base special damage per second; overlapping embers do not stack.
+Arrangement: Anchor break; forward lock embers. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. One boss and two finite guards, no reinforcements or resurrection.</description>
+    <family>flame</family>
+    <mechanism>guardBreak</mechanism>
+    <arena>splitCourt-v1</arena>
+    <chargedBarrage>true</chargedBarrage>
+    <targetTrack>RHA_STAR_Path_Flame</targetTrack>
+    <targetNode>bed_bank</targetNode>
+    <targetStage>5</targetStage>
+    <seconds>420</seconds>
+    <tactic>RHA_Tactics_FlameTrial030_bed_bank</tactic>
+    <encounter>RHA_Encounter03510_RHA_FlameTrial030_bed_bank</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_FlameTrial030_bed_walk</defName>
+    <label>Break their formation</label>
+    <description>Threat: Locked attacks leave radius-2 embers for 6 seconds. Answer: Bait the next locked attack into an existing ember, or control its caster; move after the lock. Reward: Consume the ember and cancel that attack; the caster takes 25% more damage for 8 seconds. Cost: Embers deal 25% of base special damage per second; overlapping embers do not stack.
+Arrangement: Moving support; left lock embers. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. One boss and two finite guards, no reinforcements or resurrection.</description>
+    <family>flame</family>
+    <mechanism>escort</mechanism>
+    <arena>bastion-v1</arena>
+    <chargedBarrage>false</chargedBarrage>
+    <targetTrack>RHA_STAR_Path_Flame</targetTrack>
+    <targetNode>bed_walk</targetNode>
+    <targetStage>5</targetStage>
+    <seconds>420</seconds>
+    <tactic>RHA_Tactics_FlameTrial030_bed_walk</tactic>
+    <encounter>RHA_Encounter03510_RHA_FlameTrial030_bed_walk</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_FlameTrial030_return_lock</defName>
+    <label>Smother the barrage</label>
+    <description>Threat: Locked attacks leave radius-2 embers for 6 seconds. Answer: Bait the next locked attack into an existing ember, or control its caster; move after the lock. Reward: Consume the ember and cancel that attack; the caster takes 25% more damage for 8 seconds. Cost: Embers deal 25% of base special damage per second; overlapping embers do not stack.
+Arrangement: Anchor break; forward lock embers. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. One boss and two finite guards, no reinforcements or resurrection.</description>
+    <family>flame</family>
+    <mechanism>guardBreak</mechanism>
+    <arena>ring-v1</arena>
+    <chargedBarrage>true</chargedBarrage>
+    <targetTrack>RHA_STAR_Path_Flame</targetTrack>
+    <targetNode>return_lock</targetNode>
+    <targetStage>5</targetStage>
+    <seconds>420</seconds>
+    <tactic>RHA_Tactics_FlameTrial030_return_lock</tactic>
+    <encounter>RHA_Encounter03510_RHA_FlameTrial030_return_lock</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_FlameTrial030_return_share</defName>
+    <label>Shelter in the breach</label>
+    <description>Threat: Locked attacks leave radius-2 embers for 6 seconds. Answer: Bait the next locked attack into an existing ember, or control its caster; move after the lock. Reward: Consume the ember and cancel that attack; the caster takes 25% more damage for 8 seconds. Cost: Embers deal 25% of base special damage per second; overlapping embers do not stack.
+Arrangement: Protected target; left lock embers. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. One boss and two finite guards, no reinforcements or resurrection.</description>
+    <family>flame</family>
+    <mechanism>bodyguard</mechanism>
+    <arena>bastion-v1</arena>
+    <chargedBarrage>false</chargedBarrage>
+    <targetTrack>RHA_STAR_Path_Flame</targetTrack>
+    <targetNode>return_share</targetNode>
+    <targetStage>5</targetStage>
+    <seconds>420</seconds>
+    <tactic>RHA_Tactics_FlameTrial030_return_share</tactic>
+    <encounter>RHA_Encounter03510_RHA_FlameTrial030_return_share</encounter>
+  </RimHex.HexStarChallengeDef030>
+</Defs>

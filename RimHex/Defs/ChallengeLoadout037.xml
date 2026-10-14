@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs><HediffDef><defName>RHA_ChallengeLoadout037</defName><label>temporary combat loadout</label><description>Saved encounter cards and sealed relic mounts. The listed numeric combat profile replaces player relic growth and active abilities. Contents vanish when this enemy leaves the map.</description><hediffClass>RimHex.Hediff_HexLoadout037</hediffClass><isBad>false</isBad></HediffDef></Defs>

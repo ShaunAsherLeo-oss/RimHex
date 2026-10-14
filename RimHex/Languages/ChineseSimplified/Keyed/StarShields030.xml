@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RHA_Star030_ShieldHelp>不同来源的护盾相加，同一节点刷新自己的护盾，不反复叠高。符合本次伤害条件的护盾中，先消耗较早到期的一层。范围与吸收后触发的效果，以各来源说明为准。</RHA_Star030_ShieldHelp>
+  <RHA_Star030_ShieldLine>{0}（{1}）：{2} 点，剩余 {3}</RHA_Star030_ShieldLine>
+  <RHA_Star030_UnknownAuthor>来源已失联</RHA_Star030_UnknownAuthor>
+  <RHA_Star030_ShieldTotal>分层护盾：{0} 点。各层来源和剩余时间见健康面板。</RHA_Star030_ShieldTotal>
+  <RHA_Star030_ShieldCombined>护盾 {0} · 普通 {1}＋分层 {2}</RHA_Star030_ShieldCombined>
+</LanguageData>

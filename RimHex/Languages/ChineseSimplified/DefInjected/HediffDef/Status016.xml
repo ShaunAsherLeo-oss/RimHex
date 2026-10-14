@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_SummonBond.label>召唤契约</RHA_SummonBond.label>
+  <RHA_SummonBond.description>查看主人、剩余时间与战斗进度。</RHA_SummonBond.description>
+  <RHA_SummonerStatus.label>召唤与绝境</RHA_SummonerStatus.label>
+  <RHA_SummonerStatus.description>查看主人、剩余时间与战斗进度。</RHA_SummonerStatus.description>
+</LanguageData>

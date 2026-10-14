@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RHA_Q_W01.label>兵刃品控</RHA_Q_W01.label>
+  <RHA_Q_W01.description>仅限武器。殖民地正常制作或建造的此类成品享有品质保底。本卡最多5层，保底依次为较差、一般、良好、极佳、大师级。最高保底为大师级；原有更高品质与个人品质加成照常保留，最终品质上限仍为传奇级。</RHA_Q_W01.description>
+  <RHA_Q_W01.theme>精工品质</RHA_Q_W01.theme>
+  <RHA_Q_W02.label>兵刃进阶</RHA_Q_W02.label>
+  <RHA_Q_W02.description>仅限武器。持有者正常制作或建造本类别成品时，品质 +1。最终品质最高为传奇级。</RHA_Q_W02.description>
+  <RHA_Q_W02.theme>精工品质</RHA_Q_W02.theme>
+  <RHA_Q_W03.label>宗师锻造</RHA_Q_W03.label>
+  <RHA_Q_W03.description>仅限武器。持有者本次生产实际使用的技能达到 16 级时，本类别正常成品品质额外 +1。最终品质最高为传奇级。</RHA_Q_W03.description>
+  <RHA_Q_W03.theme>精工品质</RHA_Q_W03.theme>
+  <RHA_Q_W04.label>精器升华</RHA_Q_W04.label>
+  <RHA_Q_W04.description>仅限武器。持有者本次原版品质结果至少为极佳时，本类别正常成品品质额外 +1。最终品质最高为传奇级。</RHA_Q_W04.description>
+  <RHA_Q_W04.theme>精工品质</RHA_Q_W04.theme>
+  <RHA_Q_A01.label>衣装品控</RHA_Q_A01.label>
+  <RHA_Q_A01.description>仅限服装。殖民地正常制作或建造的此类成品享有品质保底。本卡最多5层，保底依次为较差、一般、良好、极佳、大师级。最高保底为大师级；原有更高品质与个人品质加成照常保留，最终品质上限仍为传奇级。</RHA_Q_A01.description>
+  <RHA_Q_A01.theme>精工品质</RHA_Q_A01.theme>
+  <RHA_Q_A02.label>针线进阶</RHA_Q_A02.label>
+  <RHA_Q_A02.description>仅限服装。持有者正常制作或建造本类别成品时，品质 +1。最终品质最高为传奇级。</RHA_Q_A02.description>
+  <RHA_Q_A02.theme>精工品质</RHA_Q_A02.theme>
+  <RHA_Q_A03.label>宗师裁缝</RHA_Q_A03.label>
+  <RHA_Q_A03.description>仅限服装。持有者本次生产实际使用的技能达到 16 级时，本类别正常成品品质额外 +1。最终品质最高为传奇级。</RHA_Q_A03.description>
+  <RHA_Q_A03.theme>精工品质</RHA_Q_A03.theme>
+  <RHA_Q_A04.label>华服升华</RHA_Q_A04.label>
+  <RHA_Q_A04.description>仅限服装。持有者本次原版品质结果至少为极佳时，本类别正常成品品质额外 +1。最终品质最高为传奇级。</RHA_Q_A04.description>
+  <RHA_Q_A04.theme>精工品质</RHA_Q_A04.theme>
+  <RHA_Q_F01.label>家具品控</RHA_Q_F01.label>
+  <RHA_Q_F01.description>仅限家具。殖民地正常制作或建造的此类成品享有品质保底。本卡最多5层，保底依次为较差、一般、良好、极佳、大师级。最高保底为大师级；原有更高品质与个人品质加成照常保留，最终品质上限仍为传奇级。</RHA_Q_F01.description>
+  <RHA_Q_F01.theme>精工品质</RHA_Q_F01.theme>
+  <RHA_Q_F02.label>家具精作</RHA_Q_F02.label>
+  <RHA_Q_F02.description>仅限家具。持有者正常制作或建造本类别成品时，品质 +1。最终品质最高为传奇级。</RHA_Q_F02.description>
+  <RHA_Q_F02.theme>精工品质</RHA_Q_F02.theme>
+  <RHA_Q_F03.label>宗师营造</RHA_Q_F03.label>
+  <RHA_Q_F03.description>仅限家具。持有者本次生产实际使用的技能达到 16 级时，本类别正常成品品质额外 +1。最终品质最高为传奇级。</RHA_Q_F03.description>
+  <RHA_Q_F03.theme>精工品质</RHA_Q_F03.theme>
+  <RHA_Q_F04.label>匠作升华</RHA_Q_F04.label>
+  <RHA_Q_F04.description>仅限家具。持有者本次原版品质结果至少为极佳时，本类别正常成品品质额外 +1。最终品质最高为传奇级。</RHA_Q_F04.description>
+  <RHA_Q_F04.theme>精工品质</RHA_Q_F04.theme>
+  <RHA_Q_R01.label>艺术品控</RHA_Q_R01.label>
+  <RHA_Q_R01.description>仅限艺术。殖民地正常制作或建造的此类成品享有品质保底。本卡最多5层，保底依次为较差、一般、良好、极佳、大师级。最高保底为大师级；原有更高品质与个人品质加成照常保留，最终品质上限仍为传奇级。</RHA_Q_R01.description>
+  <RHA_Q_R01.theme>精工品质</RHA_Q_R01.theme>
+  <RHA_Q_R02.label>艺境进阶</RHA_Q_R02.label>
+  <RHA_Q_R02.description>仅限艺术。持有者正常制作或建造本类别成品时，品质 +1。最终品质最高为传奇级。</RHA_Q_R02.description>
+  <RHA_Q_R02.theme>精工品质</RHA_Q_R02.theme>
+  <RHA_Q_R03.label>宗师雕琢</RHA_Q_R03.label>
+  <RHA_Q_R03.description>仅限艺术。持有者本次生产实际使用的技能达到 16 级时，本类别正常成品品质额外 +1。最终品质最高为传奇级。</RHA_Q_R03.description>
+  <RHA_Q_R03.theme>精工品质</RHA_Q_R03.theme>
+  <RHA_Q_R04.label>杰作升华</RHA_Q_R04.label>
+  <RHA_Q_R04.description>仅限艺术。持有者本次原版品质结果至少为极佳时，本类别正常成品品质额外 +1。最终品质最高为传奇级。</RHA_Q_R04.description>
+  <RHA_Q_R04.theme>精工品质</RHA_Q_R04.theme>
+</LanguageData>

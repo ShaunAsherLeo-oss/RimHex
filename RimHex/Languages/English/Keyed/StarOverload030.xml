@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<RHA_StarOverload030_Ready>Core closed — regular combat.</RHA_StarOverload030_Ready>
+<RHA_StarOverload030_Open>Core exposed: +30% damage · {0}s\nHeat: {1}/3 · {2} accumulated, {3} per level</RHA_StarOverload030_Open>
+<RHA_StarOverload030_Warning>Retaliation locked — move! {0}s · Heat {1}/3</RHA_StarOverload030_Warning>
+<RHA_StarOverload030_Brief>The core opens for 3 seconds and takes 30% more damage. Attacks feed heat, making its retaliation wider and stronger, up to three heat levels. When the core closes, the target area locks for a full 1.5-second warning. Move out, use cover or rely on your existing shields. A stun ends both the damage bonus and the retaliation. At high-tier, high-pressure trials, a second area may lock onto a helper. Overlapping areas only hit once. Defeat the core with personal damage or actual shield and healing contribution. No machinery or additional skill is required.</RHA_StarOverload030_Brief>
+</LanguageData>

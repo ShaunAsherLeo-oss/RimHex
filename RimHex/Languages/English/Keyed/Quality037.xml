@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RHA_Quality037_NoFloor>No additional quality floor</RHA_Quality037_NoFloor>
+  <RHA_Quality037_Floor>Quality floor: {0}</RHA_Quality037_Floor>
+  <RHA_Quality037_Steps>Quality +{0} · final cap Legendary{1}</RHA_Quality037_Steps>
+  <RHA_Quality037_SkillCondition> · finishing work skill at least 16</RHA_Quality037_SkillCondition>
+  <RHA_Quality037_NativeCondition> · quality before bonuses at least Excellent</RHA_Quality037_NativeCondition>
+  <RHA_Quality037_Minimum>{0} {1} · Minimum quality {2} → {3}</RHA_Quality037_Minimum>
+  <RHA_Quality037_NativePreview>Before bonuses {0}: owned rules {1} → after one layer {2}</RHA_Quality037_NativePreview>
+  <RHA_Quality037_Training>This condition is inactive at the current skill level. It becomes eligible when the finishing work skill reaches 16.</RHA_Quality037_Training>
+  <RHA_Quality037_Shop>Quality cards</RHA_Quality037_Shop>
+  <RHA_Quality037_Back>Back to draws</RHA_Quality037_Back>
+  <RHA_Quality037_Recipient>Personal recipient · {0}</RHA_Quality037_Recipient>
+  <RHA_Quality037_ShopHelp>Colony rules are shared. Personal rules belong to the selected artisan. Prices show shards / cores / marks; hover a rule for outcomes at each quality before bonuses.</RHA_Quality037_ShopHelp>
+  <RHA_Quality037_Weapon>Weapons</RHA_Quality037_Weapon>
+  <RHA_Quality037_Apparel>Apparel</RHA_Quality037_Apparel>
+  <RHA_Quality037_Furniture>Furniture</RHA_Quality037_Furniture>
+  <RHA_Quality037_Art>Art</RHA_Quality037_Art>
+  <RHA_Quality037_Buy>Buy one · {0} / {1} / {2}</RHA_Quality037_Buy>
+  <RHA_Quality037_Unavailable>Currently unavailable</RHA_Quality037_Unavailable>
+  <RHA_Quality037_NeedResources>Not enough shards, cores or marks.</RHA_Quality037_NeedResources>
+</LanguageData>

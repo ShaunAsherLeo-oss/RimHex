@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_Tactics023.label>烙印与军团</RHA_Tactics023.label>
+  <RHA_Tactics023.description>查看烙印蓄积、剩余时间和普通投影的当前指令。</RHA_Tactics023.description>
+  <RHA_Brand023.label>熔核烙印</RHA_Brand023.label>
+  <RHA_Brand023.description>这枚烙印正在积存伤害，到期、死亡或被提前引爆时释放。</RHA_Brand023.description>
+  <RHA_Cinder023.label>余烬</RHA_Cinder023.label>
+  <RHA_Cinder023.description>有限的残余热量，不会再次传播或为烙印充能。</RHA_Cinder023.description>
+  <RHA_SwapWard023.label>换位掩护</RHA_SwapWard023.label>
+  <RHA_SwapWard023.description>受到的伤害降低 25%。</RHA_SwapWard023.description>
+</LanguageData>

@@ -1,0 +1,309 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Defs>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_A20_aftershock</defName>
+    <label>Aftershock Echo</label>
+    <description>Within 6 seconds of a movement ability, the first spin hit releases a 3-cell shockwave: up to 4 enemies take 8 base secondary damage per stack. 4-second cooldown.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Cross-path augments</theme>
+    <weight>100</weight>
+    <maxStacks>3</maxStacks>
+    <iconPath>RimHex/Cards/RHA_A20_aftershock</iconPath>
+    <mechanics>
+      <li>
+        <key>aftershock020</key>
+        <amount>1</amount>
+      </li>
+    </mechanics>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_A20_mercy</defName>
+    <label>Mercy Arc</label>
+    <description>Accumulate 20 actual healing on yourself or an ally to store one arc, capped at one. Your next basic hit chains to up to 2 other enemies within 8 cells of the target, dealing 8 base secondary damage per stack.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Cross-path augments</theme>
+    <weight>100</weight>
+    <maxStacks>3</maxStacks>
+    <iconPath>RimHex/Cards/RHA_A20_mercy</iconPath>
+    <mechanics>
+      <li>
+        <key>mercy020</key>
+        <amount>1</amount>
+      </li>
+    </mechanics>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_A20_shatter</defName>
+    <label>Shattered Fury</label>
+    <description>After an enemy breaks your shield, your next basic hit within 3 cells in the following 6 seconds deals 12 base secondary damage per stack. Natural shield expiry does not trigger this.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Cross-path augments</theme>
+    <weight>100</weight>
+    <maxStacks>3</maxStacks>
+    <iconPath>RimHex/Cards/RHA_A20_shatter</iconPath>
+    <mechanics>
+      <li>
+        <key>shatter020</key>
+        <amount>1</amount>
+      </li>
+    </mechanics>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_A20_embers</defName>
+    <label>Ember Relay</label>
+    <description>When your summon hits a burning enemy, apply a burn for 2 base damage per stack each second, six times. 2-second cooldown per owner. Does not trigger owner basic-hit rewards.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Cross-path augments</theme>
+    <weight>100</weight>
+    <maxStacks>3</maxStacks>
+    <iconPath>RimHex/Cards/RHA_A20_embers</iconPath>
+    <mechanics>
+      <li>
+        <key>embers020</key>
+        <amount>1</amount>
+      </li>
+    </mechanics>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_A20_frost</defName>
+    <label>Frost Circuit</label>
+    <description>Basic hits against slowed or stunned enemies arc to up to 2 other enemies within 6 cells for 6 base secondary damage per stack. 3-second cooldown.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Cross-path augments</theme>
+    <weight>100</weight>
+    <maxStacks>3</maxStacks>
+    <iconPath>RimHex/Cards/RHA_A20_frost</iconPath>
+    <mechanics>
+      <li>
+        <key>frost020</key>
+        <amount>1</amount>
+      </li>
+    </mechanics>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_A20_blood</defName>
+    <label>Bloodstep</label>
+    <description>Within 6 seconds after a movement ability, your next damaging basic hit heals 6 ordinary injury points per stack. Once per movement.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Cross-path augments</theme>
+    <weight>100</weight>
+    <maxStacks>3</maxStacks>
+    <iconPath>RimHex/Cards/RHA_A20_blood</iconPath>
+    <mechanics>
+      <li>
+        <key>blood020</key>
+        <amount>1</amount>
+      </li>
+    </mechanics>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_A20_soul</defName>
+    <label>Soul Lantern</label>
+    <description>Personally killing an eligible or trial enemy with a basic attack grants 12 base shield per stack for 6 seconds. 3-second cooldown.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Cross-path augments</theme>
+    <weight>100</weight>
+    <maxStacks>3</maxStacks>
+    <iconPath>RimHex/Cards/RHA_A20_soul</iconPath>
+    <mechanics>
+      <li>
+        <key>soul020</key>
+        <amount>1</amount>
+      </li>
+    </mechanics>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_A20_temper</defName>
+    <label>Tempered Reprisal</label>
+    <description>Accumulate 20 shield damage absorbed from enemies to store one reprisal, capped at one. The first hit of your next ability deals 10 base secondary damage per stack.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Cross-path augments</theme>
+    <weight>100</weight>
+    <maxStacks>3</maxStacks>
+    <iconPath>RimHex/Cards/RHA_A20_temper</iconPath>
+    <mechanics>
+      <li>
+        <key>temper020</key>
+        <amount>1</amount>
+      </li>
+    </mechanics>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_A20_star</defName>
+    <label>Distant Spark</label>
+    <description>Hitting an enemy at least 12 cells away with an ability primes your next basic hit within 6 seconds for 10 base secondary damage per stack. 3-second cooldown.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Cross-path augments</theme>
+    <weight>100</weight>
+    <maxStacks>3</maxStacks>
+    <iconPath>RimHex/Cards/RHA_A20_star</iconPath>
+    <mechanics>
+      <li>
+        <key>star020</key>
+        <amount>1</amount>
+      </li>
+    </mechanics>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_A20_harvest</defName>
+    <label>Shared Spring</label>
+    <description>Accumulate 15 actual healing on other colonists to give yourself and the latest recipient 10 base shield per stack for 5 seconds. 4-second cooldown.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Cross-path augments</theme>
+    <weight>100</weight>
+    <maxStacks>3</maxStacks>
+    <iconPath>RimHex/Cards/RHA_A20_harvest</iconPath>
+    <mechanics>
+      <li>
+        <key>harvest020</key>
+        <amount>1</amount>
+      </li>
+    </mechanics>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_A20_cinder</defName>
+    <label>Cinder Return</label>
+    <description>Accumulate 20 actual burn damage to store one return, capped at one. Your next basic hit heals 5 ordinary injury points per stack.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Cross-path augments</theme>
+    <weight>100</weight>
+    <maxStacks>3</maxStacks>
+    <iconPath>RimHex/Cards/RHA_A20_cinder</iconPath>
+    <mechanics>
+      <li>
+        <key>cinder020</key>
+        <amount>1</amount>
+      </li>
+    </mechanics>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_A20_twin</defName>
+    <label>Twin Convergence</label>
+    <description>Cast two different combat abilities within 6 seconds to prime your next basic hit. Strike up to 3 other enemies within 3 cells of the target for 7 base secondary damage per stack. Stores one charge.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Cross-path augments</theme>
+    <weight>100</weight>
+    <maxStacks>3</maxStacks>
+    <iconPath>RimHex/Cards/RHA_A20_twin</iconPath>
+    <mechanics>
+      <li>
+        <key>twin020</key>
+        <amount>1</amount>
+      </li>
+    </mechanics>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_A20_lone</defName>
+    <label>Lone Blade</label>
+    <description>On a basic hit with no other player colonist within 6 cells, deal 18% of the actual hit as extra base damage, capped at 30.</description>
+    <scope>Hero</scope>
+    <tier>Gold</tier>
+    <theme>Contracts</theme>
+    <weight>100</weight>
+    <maxStacks>1</maxStacks>
+    <iconPath>RimHex/Cards/RHA_A20_lone</iconPath>
+    <mechanics>
+      <li>
+        <key>lone020</key>
+        <amount>1</amount>
+      </li>
+    </mechanics>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_A20_patient</defName>
+    <label>Patient Hunter</label>
+    <description>After 5 seconds without a damaging basic hit, your next basic hit deals 30% of its actual damage as extra base damage, capped at 35. Secondary damage does not restart the timer.</description>
+    <scope>Hero</scope>
+    <tier>Gold</tier>
+    <theme>Contracts</theme>
+    <weight>100</weight>
+    <maxStacks>1</maxStacks>
+    <iconPath>RimHex/Cards/RHA_A20_patient</iconPath>
+    <mechanics>
+      <li>
+        <key>patient020</key>
+        <amount>1</amount>
+      </li>
+    </mechanics>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_A20_alternate</defName>
+    <label>Alternating Rhythm</label>
+    <description>Alternating basic and ability hits deal 12% of actual hit damage as extra base damage, capped at 20. Consecutive hits of the same type gain nothing. 0.5-second cooldown.</description>
+    <scope>Hero</scope>
+    <tier>Gold</tier>
+    <theme>Contracts</theme>
+    <weight>100</weight>
+    <maxStacks>1</maxStacks>
+    <iconPath>RimHex/Cards/RHA_A20_alternate</iconPath>
+    <mechanics>
+      <li>
+        <key>alternate020</key>
+        <amount>1</amount>
+      </li>
+    </mechanics>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_A20_switch</defName>
+    <label>Roaming Hunter</label>
+    <description>Switching basic attacks to a different enemy deals 15% of actual hit damage as extra base damage, capped at 25. The first target grants no bonus. 1-second cooldown.</description>
+    <scope>Hero</scope>
+    <tier>Gold</tier>
+    <theme>Contracts</theme>
+    <weight>100</weight>
+    <maxStacks>1</maxStacks>
+    <iconPath>RimHex/Cards/RHA_A20_switch</iconPath>
+    <mechanics>
+      <li>
+        <key>switch020</key>
+        <amount>1</amount>
+      </li>
+    </mechanics>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_A20_close</defName>
+    <label>Close Quarters</label>
+    <description>Basic hits within 3 cells deal 18% of actual damage as extra base damage, capped at 30. Basic attacks against more distant enemies deal 12% less damage before mitigation.</description>
+    <scope>Hero</scope>
+    <tier>Gold</tier>
+    <theme>Contracts</theme>
+    <weight>100</weight>
+    <maxStacks>1</maxStacks>
+    <iconPath>RimHex/Cards/RHA_A20_close</iconPath>
+    <mechanics>
+      <li>
+        <key>close020</key>
+        <amount>1</amount>
+      </li>
+    </mechanics>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_A20_medic</defName>
+    <label>Field Medic</label>
+    <description>After actually healing another colonist for at least 1 point, your next basic hit within 6 seconds deals 20% of actual damage as extra base damage, capped at 30. Stores one charge.</description>
+    <scope>Hero</scope>
+    <tier>Gold</tier>
+    <theme>Contracts</theme>
+    <weight>100</weight>
+    <maxStacks>1</maxStacks>
+    <iconPath>RimHex/Cards/RHA_A20_medic</iconPath>
+    <mechanics>
+      <li>
+        <key>medic020</key>
+        <amount>1</amount>
+      </li>
+    </mechanics>
+  </RimHex.HexAugmentDef>
+</Defs>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_V24_SwitchHint>Switch Brand branches after all brands expire, or Legion branches after ordinary projections leave. Resources and cooldowns are retained.</RHA_V24_SwitchHint>
+  <RHA_V24_Warden>Warden · 2 slots</RHA_V24_Warden>
+  <RHA_V24_RestedOne>Rested</RHA_V24_RestedOne>
+  <RHA_V24_Unavailable>Cannot reload now</RHA_V24_Unavailable>
+  <RHA_V24_Cooldown>Cooldown: {0}s</RHA_V24_Cooldown>
+  <RHA_V24_Full>Magazine full</RHA_V24_Full>
+  <RHA_V24_ShieldCost>Requires 12 shield</RHA_V24_ShieldCost>
+  <RHA_V24_Ready>Ready: spend 12 shield</RHA_V24_Ready>
+  <RHA_V24_Pending>{0}: primed for {1}s</RHA_V24_Pending>
+  <RHA_V24_Rested>Rested projections: {0}</RHA_V24_Rested>
+  <RHA_V24_Brand>Brand {0}s · stored {1}/{2}</RHA_V24_Brand>
+  <RHA_V24_Marks>Active brands: {0}/{1}</RHA_V24_Marks>
+</LanguageData>

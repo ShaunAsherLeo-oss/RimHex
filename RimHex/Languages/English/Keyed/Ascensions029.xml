@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_029_Title>Ascension atlas</RHA_029_Title>
+  <RHA_029_Intro>Choose a direction, then face its trial. Progress is permanent; deeper path effects require the original path sources.</RHA_029_Intro>
+  <RHA_029_NeedPawn>Choose a present, standing colonist wearing the selected relic.</RHA_029_NeedPawn>
+  <RHA_029_UseStar>Continue this route in the star atlas. New trials use the star route.</RHA_029_UseStar>
+  <RHA_029_Complete>This route is complete.</RHA_029_Complete>
+  <RHA_029_Rest>Next ascension opportunity in {0} days.</RHA_029_Rest>
+  <RHA_029_Sources>Distinct sources: {0} / {1}.</RHA_029_Sources>
+  <RHA_029_NeedGrowth>The relic needs its initial awakening progress.</RHA_029_NeedGrowth>
+  <RHA_029_NeedEssence>Not enough trial essence for the first awakening.</RHA_029_NeedEssence>
+  <RHA_029_Won>{0} completed the trial and gained {1}.</RHA_029_Won>
+  <RHA_029_SelectFirst>Choose an ascension candidate first.</RHA_029_SelectFirst>
+  <RHA_029_Busy>Finish the active trial or ascension challenge first.</RHA_029_Busy>
+  <RHA_029_NeedBeacon>A player trial beacon on the same home map is required.</RHA_029_NeedBeacon>
+  <RHA_029_OpenArena>The beacon needs enough open, reachable ground nearby.</RHA_029_OpenArena>
+  <RHA_029_Started>Ascension trial started. Enemies arrive in 10s. Move the candidate into the blue circle.</RHA_029_Started>
+  <RHA_029_Interrupted>Ascension interrupted. Your choice is kept; difficulty is unchanged.</RHA_029_Interrupted>
+  <RHA_029_Timeout>Ascension timed out. Your choice is kept; difficulty is unchanged.</RHA_029_Timeout>
+  <RHA_029_Cancelled>Trial cancelled. Your choice is kept; difficulty is unchanged.</RHA_029_Cancelled>
+  <RHA_029_TrialWard>Trial ward</RHA_029_TrialWard>
+  <RHA_029_Effects>Ascension resonance</RHA_029_Effects>
+  <RHA_029_Colony>Colony route</RHA_029_Colony>
+  <RHA_029_Legend>Gold: acquired · Blue: offered · Orange: awaiting trial · Grey: unacquired</RHA_029_Legend>
+  <RHA_029_Active>Acquired; active while basic sources are present.</RHA_029_Active>
+  <RHA_029_Awaiting>Chosen; awaiting trial.</RHA_029_Awaiting>
+  <RHA_029_Locked>Complete the preceding stage first.</RHA_029_Locked>
+  <RHA_029_Candidate>Preview of this stage.</RHA_029_Candidate>
+  <RHA_029_Ready>Ready to advance.</RHA_029_Ready>
+  <RHA_029_Challenge>This node has {0} prior clears. Complete {1} seals.
+Each success adds pressure, capped at four; failures do not count.</RHA_029_Challenge>
+  <RHA_029_Rule_thunder>From the blue circle, personally hit two different trial enemies, then channel for 2s. Leave a red circle within 3s or lose progress. Allies cannot provide hit credit.</RHA_029_Rule_thunder>
+  <RHA_029_Rule_flame>From the blue circle, deal actual burn damage to trial enemies, then channel for 2s. Leave a red circle within 3s or lose progress.</RHA_029_Rule_flame>
+  <RHA_029_Rule_guardian>From the blue circle, absorb trial attacks with your shield, then channel for 2s. A temporary trial ward is provided in the circle. Dodge red warnings.</RHA_029_Rule_guardian>
+  <RHA_029_Rule_harvest>Stand still in the blue seedbed until cultivation is complete. Leaving gradually loses progress. Allies may hold off enemies; red warnings must still be avoided.</RHA_029_Rule_harvest>
+  <RHA_029_Draft>Draw ascension choices</RHA_029_Draft>
+  <RHA_029_Choose>Choose this route</RHA_029_Choose>
+  <RHA_029_Refresh>Reroll ({0})</RHA_029_Refresh>
+  <RHA_029_Progress>{0}: ascension trial
+Seals {1} / {2} · Progress {3} / {4}</RHA_029_Progress>
+  <RHA_029_Cancel>Cancel trial</RHA_029_Cancel>
+  <RHA_029_StartHint>Prepare your candidate and supporting colonists. Enemies spawn near the beacon; failure may cause injury or death.</RHA_029_StartHint>
+  <RHA_029_Start>Begin trial</RHA_029_Start>
+  <RHA_029_StageRules>From stage 2, dodge a warning for each seal. From stage 4, enemies inside the blue circle interrupt channeling. Stage 5 requires a 5s channel. Trial reserves: at most 12 waves. Nodes sharing a mechanic add strength up to 2 and share cooldowns.</RHA_029_StageRules>
+  <RHA_029_PawnTab>RimHex</RHA_029_PawnTab>
+  <RHA_029_Personal>Personal augments and relics</RHA_029_Personal>
+  <RHA_029_PawnSummary>Personal augments: {0} stacks
+Colony augments: {1} stacks
+Equipped relics: {2}</RHA_029_PawnSummary>
+  <RHA_029_PawnHint>View this colonist's progression, relics and augments.</RHA_029_PawnHint>
+  <RHA_029_FullBuild>Open full build</RHA_029_FullBuild>
+  <RHA_029_Exhausted>Trial reserves exhausted. Your choice is kept; difficulty is unchanged.</RHA_029_Exhausted>
+  <RHA_029_Stage1>Awakening</RHA_029_Stage1>
+  <RHA_029_Stage2>Specialization</RHA_029_Stage2>
+  <RHA_029_Stage3>Metamorphosis</RHA_029_Stage3>
+  <RHA_029_Stage4>Convergence</RHA_029_Stage4>
+  <RHA_029_Stage5>Crown</RHA_029_Stage5>
+  <RHA_029_RelicStage1>Awakening</RHA_029_RelicStage1>
+  <RHA_029_RelicStage2>Reshaping</RHA_029_RelicStage2>
+  <RHA_029_RelicStage3>Resonance</RHA_029_RelicStage3>
+  <RHA_029_RelicStage4>Tempering</RHA_029_RelicStage4>
+</LanguageData>

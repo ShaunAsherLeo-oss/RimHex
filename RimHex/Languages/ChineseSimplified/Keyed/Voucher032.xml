@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RHA_UI032_ViewChallengeVoucherExchange>兑换</RHA_UI032_ViewChallengeVoucherExchange>
+  <RHA_Voucher032_ColonyVoucher>殖民地券 ×{0}</RHA_Voucher032_ColonyVoucher>
+  <RHA_Voucher032_PersonalVoucher>个人券 ×{0}</RHA_Voucher032_PersonalVoucher>
+  <RHA_Voucher032_RelicVoucher>遗物券 ×{0}</RHA_Voucher032_RelicVoucher>
+  <RHA_Voucher032_FlexibleVoucher>通用券 ×{0}</RHA_Voucher032_FlexibleVoucher>
+  <RHA_Voucher032_AugmentationVoucher>装备强化券 ×{0}</RHA_Voucher032_AugmentationVoucher>
+  <RHA_Voucher032_ColonyHelp>三选一殖民地强化卡，包含殖民地品质卡。</RHA_Voucher032_ColonyHelp>
+  <RHA_Voucher032_PersonalHelp>三选一个人强化卡，再选择角色；包含个人品质卡。</RHA_Voucher032_PersonalHelp>
+  <RHA_Voucher032_RelicHelp>三选一实体遗物装备，送到殖民者附近。</RHA_Voucher032_RelicHelp>
+  <RHA_Voucher032_AugmentationHelp>从最多三张装备专属强化卡候选中选一张，再分配给角色；实际穿戴对应装备时生效。</RHA_Voucher032_AugmentationHelp>
+  <RHA_Voucher032_ExchangeTitle>装备强化券兑换 · 当前 {0} 张</RHA_Voucher032_ExchangeTitle>
+  <RHA_Voucher032_ExchangeHelp>每次兑换1张装备强化券。到强化选择页使用，从最多三张候选中选一张，再分配给角色。</RHA_Voucher032_ExchangeHelp>
+  <RHA_Voucher032_Wallet>棱彩碎晶 {0} · 凝核 {1} · 印记 {2}</RHA_Voucher032_Wallet>
+  <RHA_Voucher032_MaterialCost>费用：{0} 棱彩碎晶 + {1} 凝核 + {2} 印记</RHA_Voucher032_MaterialCost>
+  <RHA_Voucher032_FlexibleCost>费用：{0} 张通用券</RHA_Voucher032_FlexibleCost>
+  <RHA_Voucher032_MaterialAction>用材料兑换1张装备强化券</RHA_Voucher032_MaterialAction>
+  <RHA_Voucher032_Confirm>{0}
+
+确认兑换1张装备强化券？
+兑换后到强化选择页使用，选择候选卡并分配给角色。</RHA_Voucher032_Confirm>
+  <RHA_Voucher032_Success>已获得1张装备强化券。到强化选择页使用，从最多三张候选中选一张，再分配给角色。</RHA_Voucher032_Success>
+  <RHA_Voucher032_BlockUnknownFunding>当前兑换方式不可用。</RHA_Voucher032_BlockUnknownFunding>
+  <RHA_Voucher032_BlockBalanceFull>当前不能兑换：装备强化券库存已满，或兑换状态受限。</RHA_Voucher032_BlockBalanceFull>
+  <RHA_Voucher032_BlockEmptyPool>当前没有可选的装备强化卡。</RHA_Voucher032_BlockEmptyPool>
+  <RHA_Voucher032_BlockInsufficientMaterials>棱彩碎晶、凝核或印记不足。</RHA_Voucher032_BlockInsufficientMaterials>
+  <RHA_Voucher032_BlockNoFlexibleVoucher>没有可用于此兑换方式的通用券。</RHA_Voucher032_BlockNoFlexibleVoucher>
+</LanguageData>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_STAR_Relic_Hydra.nodes.0.label>Many-headed Embrace</RHA_STAR_Relic_Hydra.nodes.0.label>
+  <RHA_STAR_Relic_Hydra.nodes.0.description>Retains this Hydra relic’s original Many Heads or Hunt awakening without granting its bonuses twice. Progress belongs to this item and only its current wearer can use it. Every 3 effective ordinary hits slash up to 2 other enemies within 3.5 cells of the main target for 50 damage each. Four-second cooldown; hits during it do not count. A full charge waits if no secondary target is present. Extra damage does not build charge. Base rewards: damage 50.</RHA_STAR_Relic_Hydra.nodes.0.description>
+  <RHA_STAR_Relic_Hydra.nodes.1.label>Tooth Marks</RHA_STAR_Relic_Hydra.nodes.1.label>
+  <RHA_STAR_Relic_Hydra.nodes.1.description>Secondary enemies actually damaged by Many-headed Embrace’s sweep receive a 4-second tooth mark, up to 2 at once. Your next ordinary hit on one spends its mark for 75 slashing damage, with a one-second cooldown per target. A hit cannot spend a mark it just created. Base rewards: damage 75.</RHA_STAR_Relic_Hydra.nodes.1.description>
+  <RHA_STAR_Relic_Hydra.nodes.2.label>Returning Bite</RHA_STAR_Relic_Hydra.nodes.2.label>
+  <RHA_STAR_Relic_Hydra.nodes.2.description>Remember the latest Many-headed Embrace’s sweep’s main and tooth-marked secondary targets. Land an ordinary hit on a marked secondary enemy, then hit the original within 4 seconds for 50 extra damage. Once per sweep; a new sweep replaces the record, and either selected victim dying ends it. Base rewards: damage 50.</RHA_STAR_Relic_Hydra.nodes.2.description>
+  <RHA_STAR_Relic_Hydra.nodes.3.label>Following Bite</RHA_STAR_Relic_Hydra.nodes.3.label>
+  <RHA_STAR_Relic_Hydra.nodes.3.description>After Tooth Marks deals actual bonus damage, slash the nearest other enemy within 3 cells of that victim for 50 damage. Two-second cooldown. This does not trigger Many-headed Embrace’s sweep or Tooth Marks again. Base rewards: damage 50.</RHA_STAR_Relic_Hydra.nodes.3.description>
+  <RHA_STAR_Relic_Hydra.nodes.4.label>Earned Meal</RHA_STAR_Relic_Hydra.nodes.4.label>
+  <RHA_STAR_Relic_Hydra.nodes.4.description>Enemies actually damaged by Tooth Marks’ bonus strike receive a 4-second feeding mark, up to 2 at once. A later ordinary hit spends that mark to heal up to 2 of your non-permanent injury. Four-second cooldown. Full health keeps the mark; a hit cannot spend a mark it just created. Base rewards: healing 40.</RHA_STAR_Relic_Hydra.nodes.4.description>
+  <RHA_STAR_Relic_Hydra.nodes.5.label>Closing Jaws</RHA_STAR_Relic_Hydra.nodes.5.label>
+  <RHA_STAR_Relic_Hydra.nodes.5.description>Completing Returning Bite links its selected victims for 3 seconds. While both live, a later ordinary hit on either adds 50 damage to the other if it is within 3 cells of its recorded position. Each link works once; being out of range neither spends nor extends it. Base rewards: damage 50.</RHA_STAR_Relic_Hydra.nodes.5.description>
+  <RHA_STAR_Relic_Hydra.nodes.6.label>Guarding Jaws</RHA_STAR_Relic_Hydra.nodes.6.label>
+  <RHA_STAR_Relic_Hydra.nodes.6.description>When Returning Bite deals actual bonus damage, gain a separate 50-point shield for 3 seconds. Four-second cooldown. Ordinary damage alone, fully absorbed bonus damage and another wearer’s return strike do not grant this shield. Base rewards: shield 50.</RHA_STAR_Relic_Hydra.nodes.6.description>
+</LanguageData>

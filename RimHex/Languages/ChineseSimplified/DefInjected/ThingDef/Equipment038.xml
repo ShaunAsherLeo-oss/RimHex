@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_038_Fulmination.label>爆鸣</RHA_038_Fulmination.label>
+  <RHA_038_Fulmination.description>直接伤害+45%，近战/远程冷却除数+0.45，移速+15%。普攻真正伤及敌人时，若目标不同于上次放电目标，立即充满100能量；重复命中同一目标增加25能量，最多100。充满后释放20+6×目标原生生命倍率×剩余生命比例的追加伤害，最多250，并消耗能量。放电冷却2秒，受装备急速影响；追加伤害不充能。脱下后清空能量和旧目标，保留冷却。</RHA_038_Fulmination.description>
+  <RHA_038_Quicksilver.label>水银饰带</RHA_038_Quicksilver.label>
+  <RHA_038_Quicksilver.description>伤害减免除数+0.35。主动净化当前伤口、疾病、毒素、流血、麻醉及其他负面健康状态，解除原生眩晕与精神异常；倒地时也可使用。缺失肢体和器官不再生，保留已安装部位、植入物与有益强化。之后新的暴露仍可能产生异常。只有真正净化才消耗20秒冷却，受装备急速影响；脱下后保留冷却。</RHA_038_Quicksilver.description>
+  <RHA_038_KnightsVow.label>骑士之誓</RHA_038_KnightsVow.label>
+  <RHA_038_KnightsVow.description>生命倍率+20%，伤害减免除数+0.4，技能急速+10%，伤口回复系数+0.25。主动向12格内一名其他友方殖民者立誓。自身站立、清醒且生命比例高于30%时，分担其受到的敌对直接伤害的14%，单次最多75；只按自身实际受伤或消耗的护盾降低盟友伤害。盟友实际造成敌对伤害时，将其12%转为自己的伤口治疗，单次最多20。每名盟友同时只接受一份有效誓约。超过距离暂停效果；脱下、死亡或离图结束誓约。重选冷却10秒，受装备急速影响，已产生的冷却保留。</RHA_038_KnightsVow.description>
+  <RHA_038_Zhonya.label>中娅沙漏</RHA_038_Zhonya.label>
+  <RHA_038_Zhonya.description>追加伤害+45%，伤害减免除数+0.5。主动进入2.5秒凝滞：阻挡伤及健康的伤害，暂停移动、攻击、施法及其他遗物行动。敌人的常规选敌会跳过凝滞者，水银无法解除凝滞。冷却30秒，受装备急速影响；凝滞持续时间固定。脱下、死亡或离图会取消凝滞且不给专精退出奖励，已产生的冷却保留；原有眩晕仍按自身时限结束。</RHA_038_Zhonya.description>
+</LanguageData>

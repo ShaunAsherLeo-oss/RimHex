@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Defs>
+  <RimHex.HexSkillDef>
+    <defName>RHA_Skill_Aid015</defName>
+    <label>Aid pulse</label>
+    <description>Heal yourself or a visible colonist within 12 cells for 18 base health and grant 25 base shield for 6 seconds. Base cooldown: 8 seconds. Autocast prioritizes the most injured target and avoids full-health targets.</description>
+    <cardKey>Aid015</cardKey>
+    <aim>Ally</aim>
+    <autoRule>Injured</autoRule>
+    <cooldown>480</cooldown>
+    <range>12</range>
+    <radius>0</radius>
+    <visual>Heal</visual>
+    <iconPath>RimHex/Cards/RHA_A15_FirstAidKit</iconPath>
+  </RimHex.HexSkillDef>
+  <RimHex.HexSkillDef>
+    <defName>RHA_Skill_Bind015</defName>
+    <label>Suppression pulse</label>
+    <description>Strike a visible enemy within 12 cells for 10 base physical damage and attempt a 1.5-second stun. Base cooldown: 8 seconds. Boss control resistance and stagger still apply.</description>
+    <cardKey>Bind015</cardKey>
+    <aim>Enemy</aim>
+    <autoRule>Threat</autoRule>
+    <cooldown>480</cooldown>
+    <range>12</range>
+    <radius>0</radius>
+    <visual>Frost</visual>
+    <iconPath>RimHex/Cards/RHA_A15_Tormentor</iconPath>
+  </RimHex.HexSkillDef>
+</Defs>

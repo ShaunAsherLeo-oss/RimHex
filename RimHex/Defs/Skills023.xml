@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Defs>
+  <RimHex.HexSkillDef>
+    <defName>RHA_Skill_Brand023</defName>
+    <label>Molten Brand</label>
+    <description>Mark an enemy for 8 seconds. Store 20% of your actual damage, up to 36. Explodes on expiry or death.</description>
+    <cardKey>Brand023</cardKey>
+    <aim>Enemy</aim>
+    <range>24</range>
+    <radius>3</radius>
+    <cooldown>240</cooldown>
+    <visual>Fire</visual>
+    <autoRule>Threat</autoRule>
+    <minEnemies>1</minEnemies>
+    <iconPath>RimHex/Skills/Brand023</iconPath>
+  </RimHex.HexSkillDef>
+  <RimHex.HexSkillDef>
+    <defName>RHA_Skill_Detonate023</defName>
+    <label>Detonate</label>
+    <description>Consume your chosen brand. Autocast waits for 24 stored damage or 2 seconds remaining.</description>
+    <cardKey>Detonate023</cardKey>
+    <aim>Enemy</aim>
+    <range>24</range>
+    <radius>3</radius>
+    <cooldown>60</cooldown>
+    <visual>Nova</visual>
+    <autoRule>Threat</autoRule>
+    <minEnemies>1</minEnemies>
+    <iconPath>RimHex/Skills/Detonate023</iconPath>
+  </RimHex.HexSkillDef>
+  <RimHex.HexSkillDef>
+    <defName>RHA_Skill_Rally023</defName>
+    <label>Rally Legion</label>
+    <description>All ordinary projections defend the point and attack enemies within 6 cells of it. Choose your own cell to resume guard duty. Manual only.</description>
+    <cardKey>Rally023</cardKey>
+    <aim>Ground</aim>
+    <range>24</range>
+    <radius>6</radius>
+    <cooldown>60</cooldown>
+    <visual>Soul</visual>
+    <autoRule>Threat</autoRule>
+    <minEnemies>1</minEnemies>
+    <iconPath>RimHex/Skills/Rally023</iconPath>
+  </RimHex.HexSkillDef>
+  <RimHex.HexSkillDef>
+    <defName>RHA_Skill_Focus023</defName>
+    <label>Focus Legion</label>
+    <description>All ordinary projections pursue this enemy. Resume guard duty if the target becomes invalid or moves over 30 cells from the owner. Manual only.</description>
+    <cardKey>Focus023</cardKey>
+    <aim>Enemy</aim>
+    <range>24</range>
+    <radius>0</radius>
+    <cooldown>60</cooldown>
+    <visual>Lance</visual>
+    <autoRule>Threat</autoRule>
+    <minEnemies>1</minEnemies>
+    <iconPath>RimHex/Skills/Focus023</iconPath>
+  </RimHex.HexSkillDef>
+  <RimHex.HexSkillDef>
+    <defName>RHA_Skill_Swap023</defName>
+    <label>Frontline Exchange</label>
+    <description>Swap with your ordinary projection. Gain 12 shield; the projection takes 25% less damage, both for 3 seconds. Manual only.</description>
+    <cardKey>Swap023</cardKey>
+    <aim>Ally</aim>
+    <range>18</range>
+    <radius>0</radius>
+    <cooldown>720</cooldown>
+    <visual>Portal</visual>
+    <autoRule>Threat</autoRule>
+    <minEnemies>1</minEnemies>
+    <iconPath>RimHex/Skills/Swap023</iconPath>
+  </RimHex.HexSkillDef>
+</Defs>

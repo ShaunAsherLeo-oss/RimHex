@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Defs>
+  <ThinkTreeDef>
+    <defName>RHA_SummonThink</defName>
+    <thinkRoot Class="RimHex.JobGiver_HexSummon016" />
+  </ThinkTreeDef>
+  <ThinkTreeDef>
+    <defName>RHA_SummonConstant</defName>
+    <thinkRoot Class="RimHex.JobGiver_HexSummonConstant016" />
+  </ThinkTreeDef>
+</Defs>

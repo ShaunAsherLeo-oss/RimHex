@@ -1,0 +1,307 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Defs>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_FrostTrial030_root</defName>
+    <label>Break the first ice</label>
+    <description>Threat: Frozen enemies reduce damage by at most 20% and move slower; phases last at least 30 seconds. Answer: Actual damage reaching 20% of maximum torso health forces an 8-second thaw; saving burst for natural thaw also works. Reward: Thawed enemies take 25% more damage; same-kind exposure uses the stronger value. Cost: Ignoring phases spends burst during the defended freeze.
+Arrangement: Anchor break; Locked impact. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. Existing finite roster retained.</description>
+    <family>frost</family>
+    <mechanism>guardBreak</mechanism>
+    <arena>bastion-v1</arena>
+    <chargedBarrage>false</chargedBarrage>
+    <targetTrack>RHA_STAR_Path_Frost</targetTrack>
+    <targetNode>root</targetNode>
+    <targetStage>1</targetStage>
+    <seconds>180</seconds>
+    <tactic>RHA_Tactics_FrostTrial030_root</tactic>
+    <encounter>RHA_Encounter03510_RHA_FrostTrial030_root</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_FrostTrial030_rime</defName>
+    <label>Two frozen fronts</label>
+    <description>Threat: Frozen enemies reduce damage by at most 20% and move slower; phases last at least 30 seconds. Answer: Actual damage reaching 20% of maximum torso health forces an 8-second thaw; saving burst for natural thaw also works. Reward: Thawed enemies take 25% more damage; same-kind exposure uses the stronger value. Cost: Ignoring phases spends burst during the defended freeze.
+Arrangement: Linked peers; Fixed lane. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. Existing finite roster retained.</description>
+    <family>frost</family>
+    <mechanism>twinLink</mechanism>
+    <arena>splitCourt-v1</arena>
+    <chargedBarrage>false</chargedBarrage>
+    <targetTrack>RHA_STAR_Path_Frost</targetTrack>
+    <targetNode>rime</targetNode>
+    <targetStage>2</targetStage>
+    <seconds>240</seconds>
+    <tactic>RHA_Tactics_FrostTrial030_rime</tactic>
+    <encounter>RHA_Encounter03510_RHA_FrostTrial030_rime</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_FrostTrial030_shelter</defName>
+    <label>Shelter under fire</label>
+    <description>Threat: Frozen enemies reduce damage by at most 20% and move slower; phases last at least 30 seconds. Answer: Actual damage reaching 20% of maximum torso health forces an 8-second thaw; saving burst for natural thaw also works. Reward: Thawed enemies take 25% more damage; same-kind exposure uses the stronger value. Cost: Ignoring phases spends burst during the defended freeze.
+Arrangement: Protected target; Left then right impacts. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. Existing finite roster retained.</description>
+    <family>frost</family>
+    <mechanism>bodyguard</mechanism>
+    <arena>bastion-v1</arena>
+    <chargedBarrage>false</chargedBarrage>
+    <targetTrack>RHA_STAR_Path_Frost</targetTrack>
+    <targetNode>shelter</targetNode>
+    <targetStage>2</targetStage>
+    <seconds>240</seconds>
+    <tactic>RHA_Tactics_FrostTrial030_shelter</tactic>
+    <encounter>RHA_Encounter03510_RHA_FrostTrial030_shelter</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_FrostTrial030_shatter</defName>
+    <label>Crack the guard</label>
+    <description>Threat: Frozen enemies reduce damage by at most 20% and move slower; phases last at least 30 seconds. Answer: Actual damage reaching 20% of maximum torso health forces an 8-second thaw; saving burst for natural thaw also works. Reward: Thawed enemies take 25% more damage; same-kind exposure uses the stronger value. Cost: Ignoring phases spends burst during the defended freeze.
+Arrangement: Anchor break; Locked impact. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. Existing finite roster retained.</description>
+    <family>frost</family>
+    <mechanism>guardBreak</mechanism>
+    <arena>crossroads-v1</arena>
+    <chargedBarrage>true</chargedBarrage>
+    <targetTrack>RHA_STAR_Path_Frost</targetTrack>
+    <targetNode>shatter</targetNode>
+    <targetStage>3</targetStage>
+    <seconds>240</seconds>
+    <tactic>RHA_Tactics_FrostTrial030_shatter</tactic>
+    <encounter>RHA_Encounter03510_RHA_FrostTrial030_shatter</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_FrostTrial030_pin</defName>
+    <label>Cut the rhythm</label>
+    <description>Threat: Frozen enemies reduce damage by at most 20% and move slower; phases last at least 30 seconds. Answer: Actual damage reaching 20% of maximum torso health forces an 8-second thaw; saving burst for natural thaw also works. Reward: Thawed enemies take 25% more damage; same-kind exposure uses the stronger value. Cost: Ignoring phases spends burst during the defended freeze.
+Arrangement: Ordered strikes; Hollow impact. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. Existing finite roster retained.</description>
+    <family>frost</family>
+    <mechanism>cadence</mechanism>
+    <arena>splitCourt-v1</arena>
+    <chargedBarrage>false</chargedBarrage>
+    <targetTrack>RHA_STAR_Path_Frost</targetTrack>
+    <targetNode>pin</targetNode>
+    <targetStage>3</targetStage>
+    <seconds>240</seconds>
+    <tactic>RHA_Tactics_FrostTrial030_pin</tactic>
+    <encounter>RHA_Encounter03510_RHA_FrostTrial030_pin</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_FrostTrial030_reply</defName>
+    <label>Answer the hunter</label>
+    <description>Threat: Frozen enemies reduce damage by at most 20% and move slower; phases last at least 30 seconds. Answer: Actual damage reaching 20% of maximum torso health forces an 8-second thaw; saving burst for natural thaw also works. Reward: Thawed enemies take 25% more damage; same-kind exposure uses the stronger value. Cost: Ignoring phases spends burst during the defended freeze.
+Arrangement: Baited pursuit; Locked impact. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. Existing finite roster retained.</description>
+    <family>frost</family>
+    <mechanism>pursuit</mechanism>
+    <arena>ring-v1</arena>
+    <chargedBarrage>false</chargedBarrage>
+    <targetTrack>RHA_STAR_Path_Frost</targetTrack>
+    <targetNode>reply</targetNode>
+    <targetStage>3</targetStage>
+    <seconds>240</seconds>
+    <tactic>RHA_Tactics_FrostTrial030_reply</tactic>
+    <encounter>RHA_Encounter03510_RHA_FrostTrial030_reply</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_FrostTrial030_share</defName>
+    <label>Hold the crossing</label>
+    <description>Threat: Frozen enemies reduce damage by at most 20% and move slower; phases last at least 30 seconds. Answer: Actual damage reaching 20% of maximum torso health forces an 8-second thaw; saving burst for natural thaw also works. Reward: Thawed enemies take 25% more damage; same-kind exposure uses the stronger value. Cost: Ignoring phases spends burst during the defended freeze.
+Arrangement: Protected target; Hollow impact. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. Existing finite roster retained.</description>
+    <family>frost</family>
+    <mechanism>bodyguard</mechanism>
+    <arena>crossroads-v1</arena>
+    <chargedBarrage>false</chargedBarrage>
+    <targetTrack>RHA_STAR_Path_Frost</targetTrack>
+    <targetNode>share</targetNode>
+    <targetStage>3</targetStage>
+    <seconds>240</seconds>
+    <tactic>RHA_Tactics_FrostTrial030_share</tactic>
+    <encounter>RHA_Encounter03510_RHA_FrostTrial030_share</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_FrostTrial030_splinters</defName>
+    <label>Leave ice behind</label>
+    <description>Threat: Frozen enemies reduce damage by at most 20% and move slower; phases last at least 30 seconds. Answer: Actual damage reaching 20% of maximum torso health forces an 8-second thaw; saving burst for natural thaw also works. Reward: Thawed enemies take 25% more damage; same-kind exposure uses the stronger value. Cost: Ignoring phases spends burst during the defended freeze.
+Arrangement: Linked peers; Fixed lane. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. Existing finite roster retained.</description>
+    <family>frost</family>
+    <mechanism>twinLink</mechanism>
+    <arena>crossroads-v1</arena>
+    <chargedBarrage>false</chargedBarrage>
+    <targetTrack>RHA_STAR_Path_Frost</targetTrack>
+    <targetNode>splinters</targetNode>
+    <targetStage>4</targetStage>
+    <seconds>300</seconds>
+    <tactic>RHA_Tactics_FrostTrial030_splinters</tactic>
+    <encounter>RHA_Encounter03510_RHA_FrostTrial030_splinters</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_FrostTrial030_crack</defName>
+    <label>Step through the opening</label>
+    <description>Threat: Frozen enemies reduce damage by at most 20% and move slower; phases last at least 30 seconds. Answer: Actual damage reaching 20% of maximum torso health forces an 8-second thaw; saving burst for natural thaw also works. Reward: Thawed enemies take 25% more damage; same-kind exposure uses the stronger value. Cost: Ignoring phases spends burst during the defended freeze.
+Arrangement: Baited pursuit; Fixed lane. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. Existing finite roster retained.</description>
+    <family>frost</family>
+    <mechanism>pursuit</mechanism>
+    <arena>splitCourt-v1</arena>
+    <chargedBarrage>false</chargedBarrage>
+    <targetTrack>RHA_STAR_Path_Frost</targetTrack>
+    <targetNode>crack</targetNode>
+    <targetStage>4</targetStage>
+    <seconds>300</seconds>
+    <tactic>RHA_Tactics_FrostTrial030_crack</tactic>
+    <encounter>RHA_Encounter03510_RHA_FrostTrial030_crack</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_FrostTrial030_bank</defName>
+    <label>Keep a cold reserve</label>
+    <description>Threat: Frozen enemies reduce damage by at most 20% and move slower; phases last at least 30 seconds. Answer: Actual damage reaching 20% of maximum torso health forces an 8-second thaw; saving burst for natural thaw also works. Reward: Thawed enemies take 25% more damage; same-kind exposure uses the stronger value. Cost: Ignoring phases spends burst during the defended freeze.
+Arrangement: Ordered strikes; Fixed lane. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. Existing finite roster retained.</description>
+    <family>frost</family>
+    <mechanism>cadence</mechanism>
+    <arena>bastion-v1</arena>
+    <chargedBarrage>false</chargedBarrage>
+    <targetTrack>RHA_STAR_Path_Frost</targetTrack>
+    <targetNode>bank</targetNode>
+    <targetStage>4</targetStage>
+    <seconds>300</seconds>
+    <tactic>RHA_Tactics_FrostTrial030_bank</tactic>
+    <encounter>RHA_Encounter03510_RHA_FrostTrial030_bank</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_FrostTrial030_link</defName>
+    <label>Follow the cold line</label>
+    <description>Threat: Frozen enemies reduce damage by at most 20% and move slower; phases last at least 30 seconds. Answer: Actual damage reaching 20% of maximum torso health forces an 8-second thaw; saving burst for natural thaw also works. Reward: Thawed enemies take 25% more damage; same-kind exposure uses the stronger value. Cost: Ignoring phases spends burst during the defended freeze.
+Arrangement: Moving support; Fixed lane. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. Existing finite roster retained.</description>
+    <family>frost</family>
+    <mechanism>escort</mechanism>
+    <arena>splitCourt-v1</arena>
+    <chargedBarrage>false</chargedBarrage>
+    <targetTrack>RHA_STAR_Path_Frost</targetTrack>
+    <targetNode>link</targetNode>
+    <targetStage>4</targetStage>
+    <seconds>300</seconds>
+    <tactic>RHA_Tactics_FrostTrial030_link</tactic>
+    <encounter>RHA_Encounter03510_RHA_FrostTrial030_link</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_FrostTrial030_splinters_spread</defName>
+    <label>Ice across the ring</label>
+    <description>Threat: Frozen enemies reduce damage by at most 20% and move slower; phases last at least 30 seconds. Answer: Actual damage reaching 20% of maximum torso health forces an 8-second thaw; saving burst for natural thaw also works. Reward: Thawed enemies take 25% more damage; same-kind exposure uses the stronger value. Cost: Ignoring phases spends burst during the defended freeze.
+Arrangement: Linked peers; Locked impact. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. One boss and two finite guards, no reinforcements or resurrection.</description>
+    <family>frost</family>
+    <mechanism>twinLink</mechanism>
+    <arena>ring-v1</arena>
+    <chargedBarrage>false</chargedBarrage>
+    <targetTrack>RHA_STAR_Path_Frost</targetTrack>
+    <targetNode>splinters_spread</targetNode>
+    <targetStage>5</targetStage>
+    <seconds>420</seconds>
+    <tactic>RHA_Tactics_FrostTrial030_splinters_spread</tactic>
+    <encounter>RHA_Encounter03510_RHA_FrostTrial030_splinters_spread</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_FrostTrial030_splinters_guard</defName>
+    <label>Catch the fragments</label>
+    <description>Threat: Frozen enemies reduce damage by at most 20% and move slower; phases last at least 30 seconds. Answer: Actual damage reaching 20% of maximum torso health forces an 8-second thaw; saving burst for natural thaw also works. Reward: Thawed enemies take 25% more damage; same-kind exposure uses the stronger value. Cost: Ignoring phases spends burst during the defended freeze.
+Arrangement: Protected target; Hollow impact. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. One boss and two finite guards, no reinforcements or resurrection.</description>
+    <family>frost</family>
+    <mechanism>bodyguard</mechanism>
+    <arena>bastion-v1</arena>
+    <chargedBarrage>false</chargedBarrage>
+    <targetTrack>RHA_STAR_Path_Frost</targetTrack>
+    <targetNode>splinters_guard</targetNode>
+    <targetStage>5</targetStage>
+    <seconds>420</seconds>
+    <tactic>RHA_Tactics_FrostTrial030_splinters_guard</tactic>
+    <encounter>RHA_Encounter03510_RHA_FrostTrial030_splinters_guard</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_FrostTrial030_crack_turn</defName>
+    <label>Turn at the breach</label>
+    <description>Threat: Frozen enemies reduce damage by at most 20% and move slower; phases last at least 30 seconds. Answer: Actual damage reaching 20% of maximum torso health forces an 8-second thaw; saving burst for natural thaw also works. Reward: Thawed enemies take 25% more damage; same-kind exposure uses the stronger value. Cost: Ignoring phases spends burst during the defended freeze.
+Arrangement: Linked peers; Locked impact. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. One boss and two finite guards, no reinforcements or resurrection.</description>
+    <family>frost</family>
+    <mechanism>twinLink</mechanism>
+    <arena>splitCourt-v1</arena>
+    <chargedBarrage>false</chargedBarrage>
+    <targetTrack>RHA_STAR_Path_Frost</targetTrack>
+    <targetNode>crack_turn</targetNode>
+    <targetStage>5</targetStage>
+    <seconds>420</seconds>
+    <tactic>RHA_Tactics_FrostTrial030_crack_turn</tactic>
+    <encounter>RHA_Encounter03510_RHA_FrostTrial030_crack_turn</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_FrostTrial030_crack_return</defName>
+    <label>Return through the frost</label>
+    <description>Threat: Frozen enemies reduce damage by at most 20% and move slower; phases last at least 30 seconds. Answer: Actual damage reaching 20% of maximum torso health forces an 8-second thaw; saving burst for natural thaw also works. Reward: Thawed enemies take 25% more damage; same-kind exposure uses the stronger value. Cost: Ignoring phases spends burst during the defended freeze.
+Arrangement: Baited pursuit; Hollow impact. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. One boss and two finite guards, no reinforcements or resurrection.</description>
+    <family>frost</family>
+    <mechanism>pursuit</mechanism>
+    <arena>ring-v1</arena>
+    <chargedBarrage>false</chargedBarrage>
+    <targetTrack>RHA_STAR_Path_Frost</targetTrack>
+    <targetNode>crack_return</targetNode>
+    <targetStage>5</targetStage>
+    <seconds>420</seconds>
+    <tactic>RHA_Tactics_FrostTrial030_crack_return</tactic>
+    <encounter>RHA_Encounter03510_RHA_FrostTrial030_crack_return</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_FrostTrial030_bank_storm</defName>
+    <label>Release the cold</label>
+    <description>Threat: Frozen enemies reduce damage by at most 20% and move slower; phases last at least 30 seconds. Answer: Actual damage reaching 20% of maximum torso health forces an 8-second thaw; saving burst for natural thaw also works. Reward: Thawed enemies take 25% more damage; same-kind exposure uses the stronger value. Cost: Ignoring phases spends burst during the defended freeze.
+Arrangement: Ordered strikes; Locked impact. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. One boss and two finite guards, no reinforcements or resurrection.</description>
+    <family>frost</family>
+    <mechanism>cadence</mechanism>
+    <arena>crossroads-v1</arena>
+    <chargedBarrage>false</chargedBarrage>
+    <targetTrack>RHA_STAR_Path_Frost</targetTrack>
+    <targetNode>bank_storm</targetNode>
+    <targetStage>5</targetStage>
+    <seconds>420</seconds>
+    <tactic>RHA_Tactics_FrostTrial030_bank_storm</tactic>
+    <encounter>RHA_Encounter03510_RHA_FrostTrial030_bank_storm</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_FrostTrial030_bank_cover</defName>
+    <label>Share the shelter</label>
+    <description>Threat: Frozen enemies reduce damage by at most 20% and move slower; phases last at least 30 seconds. Answer: Actual damage reaching 20% of maximum torso health forces an 8-second thaw; saving burst for natural thaw also works. Reward: Thawed enemies take 25% more damage; same-kind exposure uses the stronger value. Cost: Ignoring phases spends burst during the defended freeze.
+Arrangement: Protected target; Hollow impact. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. One boss and two finite guards, no reinforcements or resurrection.</description>
+    <family>frost</family>
+    <mechanism>bodyguard</mechanism>
+    <arena>crossroads-v1</arena>
+    <chargedBarrage>false</chargedBarrage>
+    <targetTrack>RHA_STAR_Path_Frost</targetTrack>
+    <targetNode>bank_cover</targetNode>
+    <targetStage>5</targetStage>
+    <seconds>420</seconds>
+    <tactic>RHA_Tactics_FrostTrial030_bank_cover</tactic>
+    <encounter>RHA_Encounter03510_RHA_FrostTrial030_bank_cover</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_FrostTrial030_link_return</defName>
+    <label>Mend the line</label>
+    <description>Threat: Frozen enemies reduce damage by at most 20% and move slower; phases last at least 30 seconds. Answer: Actual damage reaching 20% of maximum torso health forces an 8-second thaw; saving burst for natural thaw also works. Reward: Thawed enemies take 25% more damage; same-kind exposure uses the stronger value. Cost: Ignoring phases spends burst during the defended freeze.
+Arrangement: Protected target; Locked impact. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. One boss and two finite guards, no reinforcements or resurrection.</description>
+    <family>frost</family>
+    <mechanism>bodyguard</mechanism>
+    <arena>splitCourt-v1</arena>
+    <chargedBarrage>false</chargedBarrage>
+    <targetTrack>RHA_STAR_Path_Frost</targetTrack>
+    <targetNode>link_return</targetNode>
+    <targetStage>5</targetStage>
+    <seconds>420</seconds>
+    <tactic>RHA_Tactics_FrostTrial030_link_return</tactic>
+    <encounter>RHA_Encounter03510_RHA_FrostTrial030_link_return</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_FrostTrial030_link_shift</defName>
+    <label>Change the flank</label>
+    <description>Threat: Frozen enemies reduce damage by at most 20% and move slower; phases last at least 30 seconds. Answer: Actual damage reaching 20% of maximum torso health forces an 8-second thaw; saving burst for natural thaw also works. Reward: Thawed enemies take 25% more damage; same-kind exposure uses the stronger value. Cost: Ignoring phases spends burst during the defended freeze.
+Arrangement: Moving support; Hollow impact. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. One boss and two finite guards, no reinforcements or resurrection.</description>
+    <family>frost</family>
+    <mechanism>escort</mechanism>
+    <arena>crossroads-v1</arena>
+    <chargedBarrage>false</chargedBarrage>
+    <targetTrack>RHA_STAR_Path_Frost</targetTrack>
+    <targetNode>link_shift</targetNode>
+    <targetStage>5</targetStage>
+    <seconds>420</seconds>
+    <tactic>RHA_Tactics_FrostTrial030_link_shift</tactic>
+    <encounter>RHA_Encounter03510_RHA_FrostTrial030_link_shift</encounter>
+  </RimHex.HexStarChallengeDef030>
+</Defs>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_STAR_Relic_REF_Entropy.nodes.0.label>Entropy Inheritance</RHA_STAR_Relic_REF_Entropy.nodes.0.label>
+  <RHA_STAR_Relic_REF_Entropy.nodes.0.description>Retains original health, critical value and stun critical doubling, capped at 10 seconds. Branches count only your actual stun extensions on standing enemies. Immunity, no extension, friendly targets and secondary effects do not count. Grants no control ability.</RHA_STAR_Relic_REF_Entropy.nodes.0.description>
+  <RHA_STAR_Relic_REF_Entropy.nodes.1.label>Stunning Seal</RHA_STAR_Relic_REF_Entropy.nodes.1.label>
+  <RHA_STAR_Relic_REF_Entropy.nodes.1.description>Your actual stun extension leaves one entropy seal for 4 seconds, once per 8 seconds. Your later ordinary hit on that enemy consumes it for 50 base damage. Abilities and secondary damage cannot spend it. Base rewards: damage 50.</RHA_STAR_Relic_REF_Entropy.nodes.1.description>
+  <RHA_STAR_Relic_REF_Entropy.nodes.2.label>Alternating Tremor</RHA_STAR_Relic_REF_Entropy.nodes.2.label>
+  <RHA_STAR_Relic_REF_Entropy.nodes.2.description>Actually extend stuns on two different enemies within 4 seconds. At the second enemy, deal 50 base damage to one other enemy within 3 cells and clear sight, once per 8 seconds. Repeated control of the same enemy neither counts nor extends the window. Base rewards: damage 50.</RHA_STAR_Relic_REF_Entropy.nodes.2.description>
+  <RHA_STAR_Relic_REF_Entropy.nodes.3.label>Seal Recovery</RHA_STAR_Relic_REF_Entropy.nodes.3.label>
+  <RHA_STAR_Relic_REF_Entropy.nodes.3.description>After Stunning Seal deals actual bonus damage, heal 20 base points of your recoverable injuries, once per 8 seconds. Cannot restore missing parts or permanent scars. Base rewards: healing 20.</RHA_STAR_Relic_REF_Entropy.nodes.3.description>
+  <RHA_STAR_Relic_REF_Entropy.nodes.4.label>Seal Cover</RHA_STAR_Relic_REF_Entropy.nodes.4.label>
+  <RHA_STAR_Relic_REF_Entropy.nodes.4.description>After Stunning Seal deals actual bonus damage, shield the nearest other eligible colonist within 4 cells and clear sight for 50 base points over 3 seconds, once per 8 seconds. Never shields you instead. Base rewards: shield 50.</RHA_STAR_Relic_REF_Entropy.nodes.4.description>
+  <RHA_STAR_Relic_REF_Entropy.nodes.5.label>Tremor Mantle</RHA_STAR_Relic_REF_Entropy.nodes.5.label>
+  <RHA_STAR_Relic_REF_Entropy.nodes.5.description>After Alternating Tremor deals actual damage, gain 50 base shield for 3 seconds, once per 8 seconds. Control that deals no bonus damage does not directly grant shield. Base rewards: shield 50.</RHA_STAR_Relic_REF_Entropy.nodes.5.description>
+  <RHA_STAR_Relic_REF_Entropy.nodes.6.label>Lingering Tremor</RHA_STAR_Relic_REF_Entropy.nodes.6.label>
+  <RHA_STAR_Relic_REF_Entropy.nodes.6.description>After Alternating Tremor deals actual damage, leave a fixed tremor at its impact cell. After 1 second, deal 25 base damage each to up to two enemies within 2 cells and clear sight, once per 8 seconds. The cell does not follow enemies. Base rewards: damage 25.</RHA_STAR_Relic_REF_Entropy.nodes.6.description>
+</LanguageData>

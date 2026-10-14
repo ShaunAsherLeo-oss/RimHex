@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_X11_Expeditions>遗迹远征</RHA_X11_Expeditions>
+  <RHA_X11_NeedHome>需要一处有自由殖民者的玩家基地。</RHA_X11_NeedHome>
+  <RHA_X11_SiteLimit>最多保留3处遗迹。可在详情中放弃已经离开的地点。</RHA_X11_SiteLimit>
+  <RHA_X11_SurveyCooldown>下一次勘测还需 {0} 天。</RHA_X11_SurveyCooldown>
+  <RHA_X11_NeedShards>需要 {0} 碎晶。</RHA_X11_NeedShards>
+  <RHA_X11_NoTile>附近没有合适的遗迹地点，未消耗碎晶。</RHA_X11_NoTile>
+  <RHA_X11_Discovered>已找到{0}的坐标。</RHA_X11_Discovered>
+  <RHA_X11_TravelHelp>让商队前往世界地图上的遗迹，到达后进入现场探索。战利品需由商队带回；离开后可重返并继续原进度。</RHA_X11_TravelHelp>
+  <RHA_X11_Unavailable>这项操作现在不可用。</RHA_X11_Unavailable>
+  <RHA_X11_NeedOperator>需要一名在遗迹内、能够行动和操作设备的自由殖民者。</RHA_X11_NeedOperator>
+  <RHA_X11_NoPath>无法抵达这处设施。</RHA_X11_NoPath>
+  <RHA_X11_Requirement>需要：{0}</RHA_X11_Requirement>
+  <RHA_X11_NeedSupplies>队伍或设施附近需要 {0} {1}。</RHA_X11_NeedSupplies>
+  <RHA_X11_NoGuardFaction>当前世界没有可用的机械族派系。</RHA_X11_NoGuardFaction>
+  <RHA_X11_PathSources>{0}流派的 {1} 种不同来源</RHA_X11_PathSources>
+  <RHA_X11_Or>，或 </RHA_X11_Or>
+  <RHA_X11_NoRequirement>无技能或流派要求。</RHA_X11_NoRequirement>
+  <RHA_X11_CacheReady>最后一道封锁已经解除，可以检查装备箱了。</RHA_X11_CacheReady>
+  <RHA_X11_GuardScale>这名遗迹守卫的体质为原生身体的 {0} 倍。</RHA_X11_GuardScale>
+  <RHA_X11_Enter>探索{0}</RHA_X11_Enter>
+  <RHA_X11_Progress>难度 T{0} · 已完成 {1}/{2} 处设施 · 保存完好的设备 {3} 处</RHA_X11_Progress>
+  <RHA_X11_Guards>还有 {0} 名能够战斗的守卫。击败它们后才会结算这一步。</RHA_X11_Guards>
+  <RHA_X11_ArrivalHelp>选中遗迹设施，打开“检查设施”，指定人员和处理方式。操作人员会走到设备旁执行。</RHA_X11_ArrivalHelp>
+  <RHA_X11_Overview>花费150碎晶勘测指定类型的遗迹，可选T1—T6难度。两次勘测间隔15天，最多同时保留3处。每处有4个分支事件，物资奖励按难度等级倍增。保住至少2处设备，最终可选一种遗物，获得数量等于难度等级；设备损坏则获得每级50黄金。T4起，守卫还会获得卡牌或棱彩装备强化。</RHA_X11_Overview>
+  <RHA_X11_Risk>难度 T{0}</RHA_X11_Risk>
+  <RHA_X11_TierRewards>T{0}奖励：事件物资×{0}；完整箱可选一种遗物，共{0}件；损坏箱{1}黄金。</RHA_X11_TierRewards>
+  <RHA_X11_SurveyCost>本次勘测消耗 {0} 碎晶。</RHA_X11_SurveyCost>
+  <RHA_X11_Survey>勘测坐标</RHA_X11_Survey>
+  <RHA_X11_SurveyConfirm>以难度T{1}勘测“{0}”，消耗{2}碎晶？坐标确认后开始15天勘测间隔。</RHA_X11_SurveyConfirm>
+  <RHA_X11_KnownSites>已发现的遗迹</RHA_X11_KnownSites>
+  <RHA_X11_NoSites>尚未取得遗迹坐标。</RHA_X11_NoSites>
+  <RHA_X11_WorldMap>世界地图</RHA_X11_WorldMap>
+  <RHA_X11_Details>查看远征</RHA_X11_Details>
+  <RHA_X11_History>最近的远征</RHA_X11_History>
+  <RHA_X11_HistoryEntry>{0} · 完成{1}/4 · {2}</RHA_X11_HistoryEntry>
+  <RHA_X11_RelicRecovered>已开启完整遗物箱</RHA_X11_RelicRecovered>
+  <RHA_X11_SalvageRecovered>探索结束</RHA_X11_SalvageRecovered>
+  <RHA_X11_AwaitCaravan>队伍尚未到达。可以先查看遗迹类型并准备人员、食物和维修物资。</RHA_X11_AwaitCaravan>
+  <RHA_X11_Operator>操作人员：{0}</RHA_X11_Operator>
+  <RHA_X11_None>未选择</RHA_X11_None>
+  <RHA_X11_SupplyHelp>物资从本地图队伍的随身库存，或设施8格内可见、未禁用且无遮挡的物品中扣除。完成操作时重新检查条件，只扣除一次。</RHA_X11_SupplyHelp>
+  <RHA_X11_WorkTime>操作时间：{0}秒</RHA_X11_WorkTime>
+  <RHA_X11_Cost>消耗：{0} {1}</RHA_X11_Cost>
+  <RHA_X11_Reward>现场奖励：{0} {1}</RHA_X11_Reward>
+  <RHA_X11_GuardPreview>唤醒守卫：{0}名，体质为原生的{1}倍</RHA_X11_GuardPreview>
+  <RHA_X11_GuardBlocked>守卫出口被挡住。腾出设施周围的空间后重试；本次未扣物资。</RHA_X11_GuardBlocked>
+  <RHA_X11_RoutePreview>出发准备</RHA_X11_RoutePreview>
+  <RHA_X11_CachePreview>封存装备：保住至少2处设备并完成全部4处设施，可选一种遗物，数量等于本次难度等级。</RHA_X11_CachePreview>
+  <RHA_X11_LosesInsight>这处设备将被拆毁，不计入完整设备。</RHA_X11_LosesInsight>
+  <RHA_X11_GainsInsight>保留这处设备，完整设备数量增加1。</RHA_X11_GainsInsight>
+  <RHA_X11_Assign>指派操作</RHA_X11_Assign>
+  <RHA_X11_ChooseRelic>装备保存完好。选择一种遗物，获得数量等于本次难度等级。操作人员将前往最后一处设施开箱。</RHA_X11_ChooseRelic>
+  <RHA_X11_DamagedCache>完整设备不足2处，精密遗物已损坏。仍可取走每级难度50黄金。</RHA_X11_DamagedCache>
+  <RHA_X11_TakeRelic>取出{0}</RHA_X11_TakeRelic>
+  <RHA_X11_TakeSalvage>取出剩余物资</RHA_X11_TakeSalvage>
+  <RHA_X11_BringLootHome>装备箱已经打开。请在重新组建商队时把战利品带上。确认不再返回后，可放弃此地点腾出名额。</RHA_X11_BringLootHome>
+  <RHA_X11_ChoicesMade>已经作出的选择</RHA_X11_ChoicesMade>
+  <RHA_X11_Abandon>放弃此地点</RHA_X11_Abandon>
+  <RHA_X11_AbandonConfirm>放弃这处遗迹？地图、未带走的物品和探索进度都会被移除。有人或受保护的建筑留在地图内时无法放弃。</RHA_X11_AbandonConfirm>
+  <RHA_X11_PeopleRemain>仍有人、受保护的建筑或即将抵达的运输舱留在这里，无法放弃。</RHA_X11_PeopleRemain>
+  <RHA_X11_Resolved>这处设施已经处理过。</RHA_X11_Resolved>
+  <RHA_X11_Locked>先处理前一处设施。</RHA_X11_Locked>
+  <RHA_X11_Interact>可以检查并选择处理方式。</RHA_X11_Interact>
+  <RHA_X11_InspectFacility>检查设施</RHA_X11_InspectFacility>
+  <RHA_X11_Changed>现场条件已经变化，本次操作未结算。</RHA_X11_Changed>
+  <RHA_X11_ExplorationOnly>遗迹专属：通过探索取得。</RHA_X11_ExplorationOnly>
+  <RHA_X11_RelicCooldown>遗物触发冷却：{0}秒</RHA_X11_RelicCooldown>
+  <RHA_X11_HitProgress>有效命中进度：{0}/{1}</RHA_X11_HitProgress>
+  <RHA_X11_AbsorbProgress>护盾吸收进度：{0}/200</RHA_X11_AbsorbProgress>
+  <RHA_X11_RelicRecords>累计追加伤害 {0} · 实际治疗 {1} · 护盾吸收 {2}</RHA_X11_RelicRecords>
+</LanguageData>

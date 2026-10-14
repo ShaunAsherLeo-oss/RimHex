@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_V20_Hint>Previewing {0}: {1}</RHA_V20_Hint>
+  <RHA_V20_Choose>Choose a colonist to view build synergies.</RHA_V20_Choose>
+  <RHA_V20_New>Starts a new route</RHA_V20_New>
+  <RHA_V20_Link>Supports an existing route</RHA_V20_Link>
+  <RHA_V20_Owned>Owned sources: {0}</RHA_V20_Owned>
+  <RHA_V20_Missing>{0}: {1}/{2} sources; missing {3}</RHA_V20_Missing>
+  <RHA_V20_None>None</RHA_V20_None>
+  <RHA_V20_More>See the build panel for further sources</RHA_V20_More>
+  <RHA_V20_Status>Synergy charges</RHA_V20_Status>
+  <RHA_V20_StatusDesc>Stored energy and time remaining for build synergies.</RHA_V20_StatusDesc>
+  <RHA_V20_Charge>{0}: {1}/{2}</RHA_V20_Charge>
+  <RHA_V20_Time>{0}: {1}s remaining</RHA_V20_Time>
+  <RHA_V20_Ready>Ready</RHA_V20_Ready>
+  <RHA_V20_Waiting>Awaiting trigger</RHA_V20_Waiting>
+</LanguageData>

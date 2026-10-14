@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <HediffDef>
+    <defName>RHA_Contribution026</defName>
+    <label>combat contribution</label>
+    <description>Tracks eligible combat contributions and prevents repeated growth from the same enemy.</description>
+    <hediffClass>RimHex.Hediff_HexContribution026</hediffClass>
+    <isBad>false</isBad>
+    <scenarioCanAdd>false</scenarioCanAdd>
+    <everCurableByItem>false</everCurableByItem>
+    <initialSeverity>1</initialSeverity>
+  </HediffDef>
+</Defs>

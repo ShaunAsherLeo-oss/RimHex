@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RHA_Visual032_Active>已生效</RHA_Visual032_Active>
+  <RHA_Visual032_Available>可操作</RHA_Visual032_Available>
+  <RHA_Visual032_Pending>待确认</RHA_Visual032_Pending>
+  <RHA_Visual032_Blocked>条件不足</RHA_Visual032_Blocked>
+  <RHA_Visual032_Dormant>暂未生效</RHA_Visual032_Dormant>
+  <RHA_Visual032_Preview>核对进度</RHA_Visual032_Preview>
+  <RHA_Visual032_Neutral>详情</RHA_Visual032_Neutral>
+  <RHA_Visual032_Equipped>已装备</RHA_Visual032_Equipped>
+  <RHA_Visual032_Resources>资源</RHA_Visual032_Resources>
+  <RHA_Visual032_Equipment>装备</RHA_Visual032_Equipment>
+  <RHA_Visual032_Effects>效果</RHA_Visual032_Effects>
+  <RHA_Visual032_Conditions>条件</RHA_Visual032_Conditions>
+  <RHA_Visual032_ChooseNamed>选择 · {0}</RHA_Visual032_ChooseNamed>
+  <RHA_Visual032_RecipientNamed>选择接收者 · {0}</RHA_Visual032_RecipientNamed>
+</LanguageData>

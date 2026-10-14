@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_Rune_Thunder.label>雷鸣刻印</RHA_Rune_Thunder.label>
+  <RHA_Rune_Thunder.description>每阶：连锁等级 +1，对敌伤害 +25%。</RHA_Rune_Thunder.description>
+  <RHA_Rune_Flame.label>熔火烙印</RHA_Rune_Flame.label>
+  <RHA_Rune_Flame.description>每阶：灼烧等级 +2，对敌伤害 +30%。</RHA_Rune_Flame.description>
+  <RHA_Rune_Blood.label>猩红契印</RHA_Rune_Blood.label>
+  <RHA_Rune_Blood.description>每阶：直接伤害吸血 +40%，每秒恢复 1 点普通伤势。</RHA_Rune_Blood.description>
+  <RHA_Rune_Giant.label>泰坦钢印</RHA_Rune_Giant.label>
+  <RHA_Rune_Giant.description>每阶：体质 +75%，叠钢等级 +1。</RHA_Rune_Giant.description>
+  <RHA_Rune_Frost.label>永冻晶印</RHA_Rune_Frost.label>
+  <RHA_Rune_Frost.description>每阶：寒霜等级 +1，承伤除数 +0.35。</RHA_Rune_Frost.description>
+  <RHA_Rune_Blade.label>裂空刃印</RHA_Rune_Blade.label>
+  <RHA_Rune_Blade.description>每阶：分裂等级 +1，对敌伤害 +35%。</RHA_Rune_Blade.description>
+  <RHA_Rune_Marksman.label>星陨准印</RHA_Rune_Marksman.label>
+  <RHA_Rune_Marksman.description>每阶：距离超过 4 格的部分，每格增伤 +5%（最多计 25 格）；瞄准与远程攻击冷却除数各 +0.5。</RHA_Rune_Marksman.description>
+  <RHA_Rune_Soul.label>幽魂封印</RHA_Rune_Soul.label>
+  <RHA_Rune_Soul.description>每阶：收魂等级 +1，对敌伤害 +30%。</RHA_Rune_Soul.description>
+  <RHA_Rune_Guardian.label>磐石守印</RHA_Rune_Guardian.label>
+  <RHA_Rune_Guardian.description>每阶：承伤除数 +0.6，体质 +35%。</RHA_Rune_Guardian.description>
+  <RHA_Rune_Wealth.label>鎏金赏印</RHA_Rune_Wealth.label>
+  <RHA_Rune_Wealth.description>每阶：击杀赏金 +60 白银，暴击值 +25%。</RHA_Rune_Wealth.description>
+  <RHA_Rune_Industry.label>万工机印</RHA_Rune_Industry.label>
+  <RHA_Rune_Industry.description>每阶：工作速度 +50%，建造速度与研究速度各 +35%。</RHA_Rune_Industry.description>
+  <RHA_Rune_Harvest.label>丰饶灵印</RHA_Rune_Harvest.label>
+  <RHA_Rune_Harvest.description>每阶：采矿与植物收获产量各 +30%，每秒恢复 1 点普通伤势。</RHA_Rune_Harvest.description>
+</LanguageData>

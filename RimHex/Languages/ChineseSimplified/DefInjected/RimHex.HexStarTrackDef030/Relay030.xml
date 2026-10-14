@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_STAR_Core_relay.nodes.0.label>共鸣中继</RHA_STAR_Core_relay.nodes.0.label>
+  <RHA_STAR_Core_relay.nodes.0.description>需要共鸣中继核心卡。保留部署、远程脉冲与召回机制。进阶不生成节点，不重置冷却，不复制别人的召唤物或护卫目标。</RHA_STAR_Core_relay.nodes.0.description>
+  <RHA_STAR_Core_relay.nodes.1.label>双点共鸣</RHA_STAR_Core_relay.nodes.1.label>
+  <RHA_STAR_Core_relay.nodes.1.description>可同时绑定两个节点，从适合目标的节点发出脉冲。脉冲基础伤害由14降至11，召回强化伤害由21降至16，召回护盾由16降至12。无需另抽分支卡；沿用旧双节点分支时保留现有投影。</RHA_STAR_Core_relay.nodes.1.description>
+  <RHA_STAR_Core_relay.nodes.2.label>随行护卫</RHA_STAR_Core_relay.nodes.2.label>
+  <RHA_STAR_Core_relay.nodes.2.description>投影改为步行跟随指定队友，未指定时跟随本人。主人到节点须在8格内，节点到护卫对象须在4格内，且主人与节点视线畅通。通过节点施放脉冲或援助时，为护卫对象提供6点护盾，持续6秒，冷却6秒。普通召唤物会解除绑定，保留原角色。无需另抽分支卡。</RHA_STAR_Core_relay.nodes.2.description>
+  <RHA_STAR_Core_relay.nodes.3.label>交错破口</RHA_STAR_Core_relay.nodes.3.label>
+  <RHA_STAR_Core_relay.nodes.3.description>通过远端节点连续两次实际伤及不同敌人，间隔不超过8秒，为第二名敌人留下6秒破口。本人后续普通命中消耗破口，追加75点伤害。最多保留一个破口，生成冷却6秒；本人原地脉冲不计数。 基础收益：伤害 75。</RHA_STAR_Core_relay.nodes.3.description>
+  <RHA_STAR_Core_relay.nodes.4.label>余波跳接</RHA_STAR_Core_relay.nodes.4.label>
+  <RHA_STAR_Core_relay.nodes.4.description>远端节点脉冲实际伤敌后，向受击点3格内视线畅通的另一名敌人追加25点伤害，冷却6秒。不会重复打击原目标；没有其他敌人时不触发。 基础收益：伤害 25。</RHA_STAR_Core_relay.nodes.4.description>
+  <RHA_STAR_Core_relay.nodes.5.label>回线救援</RHA_STAR_Core_relay.nodes.5.label>
+  <RHA_STAR_Core_relay.nodes.5.description>远端节点脉冲实际伤敌后，治疗本人4格内视线畅通、最近一名受伤队友的40点可恢复伤势，冷却6秒。没有合适队友时不改为治疗自己；不恢复缺失部位或永久伤疤。 基础收益：治疗 40。</RHA_STAR_Core_relay.nodes.5.description>
+  <RHA_STAR_Core_relay.nodes.6.label>回线掩护</RHA_STAR_Core_relay.nodes.6.label>
+  <RHA_STAR_Core_relay.nodes.6.description>远端节点脉冲实际伤敌后，为本人4格内视线畅通、最近一名其他殖民者提供50点独立护盾，持续3秒，冷却6秒。没有合适队友时不转给本人；与原护卫分支的护盾分别结算。 基础收益：护盾 50。</RHA_STAR_Core_relay.nodes.6.description>
+</LanguageData>

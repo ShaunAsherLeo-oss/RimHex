@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_V25_DeviceWarning>Detonating in {0}s</RHA_V25_DeviceWarning>
+  <RHA_V25_DeviceArming>Arming in {0}s</RHA_V25_DeviceArming>
+  <RHA_V25_DeviceManual>Unlinked · manual only</RHA_V25_DeviceManual>
+  <RHA_V25_DeviceLinked>Wire connected</RHA_V25_DeviceLinked>
+  <RHA_V25_DeviceReady>Armed</RHA_V25_DeviceReady>
+  <RHA_V25_DeviceLife>{0}s left</RHA_V25_DeviceLife>
+  <RHA_V25_GuardRecovery>Fixed guard recovery: {0}</RHA_V25_GuardRecovery>
+  <RHA_V25_MineRecovery>Fixed deployment recovery: {0}</RHA_V25_MineRecovery>
+  <RHA_V25_DeviceSummary>Devices: arming {0}; warning {1}; linked endpoints {2}; manual only {3}.</RHA_V25_DeviceSummary>
+  <RHA_V25_RecoveryBadge>Recovery {0}</RHA_V25_RecoveryBadge>
+</LanguageData>

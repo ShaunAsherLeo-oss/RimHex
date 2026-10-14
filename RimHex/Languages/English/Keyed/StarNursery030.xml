@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_StarNursery030_Absorbed>Seedling membrane absorbed {0} damage.</RHA_StarNursery030_Absorbed>
+  <RHA_StarNursery030_Repaired>Second Shoot repaired {0} plant hit points.</RHA_StarNursery030_Repaired>
+  <RHA_StarNursery030_Care>Tend crop</RHA_StarNursery030_Care>
+  <RHA_StarNursery030_CareHelp>{0} will tend this crop for 2 seconds, repairing up to {1} hit points. Interrupted work keeps the care record. Sowing a new seedling replaces the previous membrane and any unused care record.</RHA_StarNursery030_CareHelp>
+  <RHA_StarNursery030_CareReady>Second Shoot: care available to {0}.</RHA_StarNursery030_CareReady>
+  <RHA_StarNursery030_Protected>Nursery Watch: one hit, up to {0} damage. Sower: {1}.</RHA_StarNursery030_Protected>
+  <RHA_StarNursery030_NoRepair>Membrane spent; this crop needs no repair. Sower: {0}.</RHA_StarNursery030_NoRepair>
+  <RHA_StarNursery030_WindbreakHelp>Windbreak: Within {0} cells of the tended crop; first hostile hit only. Cannot be spent as shield fuel. {1}</RHA_StarNursery030_WindbreakHelp>
+  <RHA_StarNursery030_Active>In range and active.</RHA_StarNursery030_Active>
+  <RHA_StarNursery030_Inactive>Inactive: Outside the area or its source is unavailable.</RHA_StarNursery030_Inactive>
+  <RHA_StarNursery030_ShelteredRepair>Sheltered Row repaired {0} hit points on a second crop.</RHA_StarNursery030_ShelteredRepair>
+  <RHA_StarNursery030_ShelterReady>Sheltered Row: One record ready. Effective tending can also repair the nearest other damaged sown crop within 2 cells on a colony home map, up to 2 hit points. Without an eligible second crop, the record is kept.</RHA_StarNursery030_ShelterReady>
+  <RHA_StarNursery030_WatchReady>Keeping Watch: {0} can restore this membrane once by absorbing enemy damage within 4 cells, using shields from another source. Available for half a day after tending.</RHA_StarNursery030_WatchReady>
+  <RHA_StarNursery030_Transfer>Move membrane</RHA_StarNursery030_Transfer>
+  <RHA_StarNursery030_TransferHelp>{0} can move this unused membrane once to another sown seedling within 8 cells on this colony home map, up to 10% grown. The original budget and expiry remain. This option expires one hour after the care that earned it.</RHA_StarNursery030_TransferHelp>
+  <RHA_StarNursery030_NoSeedling>No eligible seedling nearby.</RHA_StarNursery030_NoSeedling>
+  <RHA_StarNursery030_Water>Collect water instead</RHA_StarNursery030_Water>
+  <RHA_StarNursery030_WaterHelp>{0} will work for 2 seconds, consuming this care opportunity without repairing the crop. Keep one water record for one hour; the next completed sowing on this map gains 2% growth. Interrupted work spends nothing.</RHA_StarNursery030_WaterHelp>
+  <RHA_StarNursery030_Return>Return water</RHA_StarNursery030_Return>
+  <RHA_StarNursery030_ReturnHelp>{0} will work for 2 seconds to repair up to 4 hit points on this original crop. The opportunity lasts one hour after the water-funded sowing. Interrupted work keeps the record; successful repair cannot create more water.</RHA_StarNursery030_ReturnHelp>
+  <RHA_StarNursery030_ReturnRepair>Return Flow repaired {0} plant hit points.</RHA_StarNursery030_ReturnRepair>
+  <RHA_StarNursery030_ReturnReady>Return Flow: {0} may repair this original crop within one hour of the water-funded sowing.</RHA_StarNursery030_ReturnReady>
+  <RHA_StarNursery030_WaterHeld>Water Catcher: {0} holds one water record for the next completed sowing on this map, valid for one hour after collection.</RHA_StarNursery030_WaterHeld>
+</LanguageData>

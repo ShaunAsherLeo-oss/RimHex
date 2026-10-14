@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_STAR_Skill_Spin013.nodes.0.label>Turning Edge</RHA_STAR_Skill_Spin013.nodes.0.label>
+  <RHA_STAR_Skill_Spin013.nodes.0.description>Retains your learned spin ability. When Spin deals actual damage, slash that victim for 25 extra damage. Three-second shared cooldown across all victims; bonus damage cannot trigger this again. Base rewards: damage 25.</RHA_STAR_Skill_Spin013.nodes.0.description>
+  <RHA_STAR_Skill_Spin013.nodes.1.label>Honed Edge</RHA_STAR_Skill_Spin013.nodes.1.label>
+  <RHA_STAR_Skill_Spin013.nodes.1.description>Three ordinary hits on the same enemy within 4 seconds leave a blade mark for 4 seconds. A later actual Spin hit consumes it for 50 extra slashing damage. Three-second marking cooldown; only one victim is marked at a time. Base rewards: damage 50.</RHA_STAR_Skill_Spin013.nodes.1.description>
+  <RHA_STAR_Skill_Spin013.nodes.2.label>Turning Guard</RHA_STAR_Skill_Spin013.nodes.2.label>
+  <RHA_STAR_Skill_Spin013.nodes.2.description>When Spin deals actual damage, gain a separate 50-point shield lasting 3 seconds. Four-second cooldown; hitting more victims with the same spin does not stack it. Base rewards: shield 50.</RHA_STAR_Skill_Spin013.nodes.2.description>
+  <RHA_STAR_Skill_Spin013.nodes.3.label>Following Edge</RHA_STAR_Skill_Spin013.nodes.3.label>
+  <RHA_STAR_Skill_Spin013.nodes.3.description>When Honed Edge deals actual bonus damage, slash the nearest other enemy within 3 cells for 25 damage. Three-second cooldown. This strike cannot trigger Honed Edge or spread again. Base rewards: damage 25.</RHA_STAR_Skill_Spin013.nodes.3.description>
+  <RHA_STAR_Skill_Spin013.nodes.4.label>Renewing Cut</RHA_STAR_Skill_Spin013.nodes.4.label>
+  <RHA_STAR_Skill_Spin013.nodes.4.description>When Honed Edge deals actual bonus damage, heal up to 2 of your non-permanent injury. Four-second cooldown. Full health produces no healing; fully absorbed bonus damage grants none. Base rewards: healing 40.</RHA_STAR_Skill_Spin013.nodes.4.description>
+  <RHA_STAR_Skill_Spin013.nodes.5.label>Turning Cover</RHA_STAR_Skill_Spin013.nodes.5.label>
+  <RHA_STAR_Skill_Spin013.nodes.5.description>When Spin deals actual damage, grant the nearest other colonist within 4 cells a separate 50-point shield for 3 seconds. Four-second cooldown. Without an eligible ally it does not trigger or add another shield to you. Base rewards: shield 50.</RHA_STAR_Skill_Spin013.nodes.5.description>
+  <RHA_STAR_Skill_Spin013.nodes.6.label>Stay in the Fight</RHA_STAR_Skill_Spin013.nodes.6.label>
+  <RHA_STAR_Skill_Spin013.nodes.6.description>When Spin deals actual damage, heal up to 2 of your non-permanent injury. Six-second cooldown; extra victims in the same spin do not repeat healing. Full health grants nothing. Base rewards: healing 40.</RHA_STAR_Skill_Spin013.nodes.6.description>
+</LanguageData>

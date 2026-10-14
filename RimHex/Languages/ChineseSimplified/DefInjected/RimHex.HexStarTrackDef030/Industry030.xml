@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_STAR_Path_Industry.nodes.0.label>开工</RHA_STAR_Path_Industry.nodes.0.label>
+  <RHA_STAR_Path_Industry.nodes.0.description>沿用已选工业觉醒。精进：生产或工作收益；不足整件的产量留待下次结算。 精进初始 ×1，终值：经营收益 ×10。</RHA_STAR_Path_Industry.nodes.0.description>
+  <RHA_STAR_Path_Industry.nodes.1.label>连续生产</RHA_STAR_Path_Industry.nodes.1.label>
+  <RHA_STAR_Path_Industry.nodes.1.description>连续完成同一配方并实际消耗工业原料时，返还本次原料的10%。第一次完成只建立工序记录。小数按原料种类保留，全殖民地共用；换配方会更新记录。 精进初始 ×1，终值：经营收益 ×10。</RHA_STAR_Path_Industry.nodes.1.description>
+  <RHA_STAR_Path_Industry.nodes.2.label>换线生产</RHA_STAR_Path_Industry.nodes.2.label>
+  <RHA_STAR_Path_Industry.nodes.2.description>改做与上一道不同的配方并实际消耗工业原料时，返还本次原料的15%。第一次完成只记录工序；同一配方不享受换线返还。小数与工序记录跨存档保留。 精进初始 ×1，终值：经营收益 ×10。</RHA_STAR_Path_Industry.nodes.2.description>
+  <RHA_STAR_Path_Industry.nodes.3.label>定额备料</RHA_STAR_Path_Industry.nodes.3.label>
+  <RHA_STAR_Path_Industry.nodes.3.description>同一配方连续完成三次，额外返还三次实际工业耗材的7.5%，每次贡献按当时比例固定。成功完成不同配方会重置未满三次的累计；改账单或生产失败不推进。小数保留，离开分支暂停。 精进初始 ×1，终值：经营收益 ×10。</RHA_STAR_Path_Industry.nodes.3.description>
+  <RHA_STAR_Path_Industry.nodes.4.label>批次结算</RHA_STAR_Path_Industry.nodes.4.label>
+  <RHA_STAR_Path_Industry.nodes.4.description>同一配方完成三次，将每次实际工业耗材的10%存为备料，比例逐次固定。之后生产同一配方时，按本次同种原料耗量的最多10%兑现；余额保留，兑现期间不积累新批次。各配方分别记账，换线或暂停不丢失进度。 精进初始 ×1，终值：经营收益 ×10。</RHA_STAR_Path_Industry.nodes.4.description>
+  <RHA_STAR_Path_Industry.nodes.5.label>工序交接</RHA_STAR_Path_Industry.nodes.5.label>
+  <RHA_STAR_Path_Industry.nodes.5.description>完成制造后按实际工业耗材的10%留下一份交接备料，另一名殖民者完成不同配方且实际耗材后兑现。一次保留一单，比例在开单时固定；同人换配方或换人做同配方不能兑现，结算本次不再开新单。小数保留，离开分支暂停。 精进初始 ×1，终值：经营收益 ×10。</RHA_STAR_Path_Industry.nodes.5.description>
+  <RHA_STAR_Path_Industry.nodes.6.label>工艺档案</RHA_STAR_Path_Industry.nodes.6.label>
+  <RHA_STAR_Path_Industry.nodes.6.description>完成三种不同制造配方，各按实际工业耗材的15%建立备料，比例逐次固定；重复配方不增加档案或备料。成套后，后续生产按本次同种原料耗量的最多10%兑现，余额保留。全部领完后开启下一轮，兑现时不录入新档案；离开分支暂停。 精进初始 ×1，终值：经营收益 ×10。</RHA_STAR_Path_Industry.nodes.6.description>
+  <RHA_STAR_Path_Industry.nodes.7.label>校准工序</RHA_STAR_Path_Industry.nodes.7.label>
+  <RHA_STAR_Path_Industry.nodes.7.description>定额备料每次结算时，额外将本次定额返还的25%留为校准备料，开单时固定数量。之后制造同一配方时，按实际同种原料耗量的最多10%兑现。一次保留一单，换配方或离开分支不会丢失；兑现本次不再开新单。三阶定额返还照常发放。 精进初始 ×1，终值：经营收益 ×10。</RHA_STAR_Path_Industry.nodes.7.description>
+  <RHA_STAR_Path_Industry.nodes.8.label>循环备料</RHA_STAR_Path_Industry.nodes.8.label>
+  <RHA_STAR_Path_Industry.nodes.8.description>批次备料凑满时，额外留下其25%作为循环储备，数量当场固定，三阶奖励照常保留。之后任意配方消耗同种工业原料，可按本次耗量的最多10%领取。一次保留一份，余量不丢失；领取当次不能补开储备，离开分支暂停。 精进初始 ×1，终值：经营收益 ×10。</RHA_STAR_Path_Industry.nodes.8.description>
+  <RHA_STAR_Path_Industry.nodes.9.label>协作工坊</RHA_STAR_Path_Industry.nodes.9.label>
+  <RHA_STAR_Path_Industry.nodes.9.description>三名不同殖民者各完成一种不同制造配方，额外返还各次实际工业耗材的7.5%，比例逐次固定。同人或同配方不推进；三道完成后结算，最后一次不再开启新轮。两人工序交接照常生效；进度跨存档保留，离开分支暂停。 精进初始 ×1，终值：经营收益 ×10。</RHA_STAR_Path_Industry.nodes.9.description>
+  <RHA_STAR_Path_Industry.nodes.10.label>工艺复用</RHA_STAR_Path_Industry.nodes.10.label>
+  <RHA_STAR_Path_Industry.nodes.10.description>工艺档案成套时，为三个配方各额外保留其档案贡献的25%作为专用备料，数量当场固定。之后制作对应配方，按本次同种耗材的最多10%领取，不占用其他配方份额。一次保留一套，余量领完前不覆盖；领取当次不补开新套，离开分支暂停。 精进初始 ×1，终值：经营收益 ×10。</RHA_STAR_Path_Industry.nodes.10.description>
+  <RHA_STAR_Path_Industry.nodes.11.label>原料回收</RHA_STAR_Path_Industry.nodes.11.label>
+  <RHA_STAR_Path_Industry.nodes.11.description>新开校准单同时登记基础原料回收比例。兑现时，钢铁、木材、布料等基础材料额外返还校准兑付量的500%；零部件和化合燃料不计。比例开单时固定，原四阶备料照常领取；换离此分支期间兑现的部分不补发额外回收。 精进初始 ×1，终值：经营收益 ×10。</RHA_STAR_Path_Industry.nodes.11.description>
+  <RHA_STAR_Path_Industry.nodes.12.label>精密加工</RHA_STAR_Path_Industry.nodes.12.label>
+  <RHA_STAR_Path_Industry.nodes.12.description>新开校准单时，按材料和零部件当时的基础价值固定换算率。兑现校准备料时，额外将兑付价值的375%积累为零部件，不扣除原备料；不足一个的数量保留。换离此分支期间兑现的部分不补发加工收益，返还不会自行开单。 精进初始 ×1，终值：经营收益 ×10。</RHA_STAR_Path_Industry.nodes.12.description>
+  <RHA_STAR_Path_Industry.nodes.13.label>余量缓冲</RHA_STAR_Path_Industry.nodes.13.label>
+  <RHA_STAR_Path_Industry.nodes.13.description>循环储备未领完时，再完成一批可存入第二份，按通常循环储备的500%计量并当场固定。一次最多两份，严格先旧后新；旧份领完后，下一次制造才可使用第二份。领取当次不补开，存满不覆盖；离开分支冻结第二份。 精进初始 ×1，终值：经营收益 ×10。</RHA_STAR_Path_Industry.nodes.13.description>
+  <RHA_STAR_Path_Industry.nodes.14.label>余料调剂</RHA_STAR_Path_Industry.nodes.14.label>
+  <RHA_STAR_Path_Industry.nodes.14.description>新循环储备固定375%的调剂效率。另一配方实际耗材时，可扣除当前用不到的储备，换成实际消耗的工业材料；直接领取与调剂合计最多为本次同种耗量的10%。源材料基础价值在建储备时固定，目标材料在首次调剂时固定；离开分支暂停调剂，旧储备不补录条款。 精进初始 ×1，终值：经营收益 ×10。</RHA_STAR_Path_Industry.nodes.14.description>
+  <RHA_STAR_Path_Industry.nodes.15.label>回班接力</RHA_STAR_Path_Industry.nodes.15.label>
+  <RHA_STAR_Path_Industry.nodes.15.description>三道协作完成时，额外将三份贡献的75%留为回班备料，数量固定。最初的工人再完成一道实际耗材的制造即可领取，别人不能代领。一次保留一单，领取当次不补开五阶订单；四阶协作继续积累，离开本分支暂停领取。 精进初始 ×1，终值：经营收益 ×10。</RHA_STAR_Path_Industry.nodes.15.description>
+  <RHA_STAR_Path_Industry.nodes.16.label>分工备料</RHA_STAR_Path_Industry.nodes.16.label>
+  <RHA_STAR_Path_Industry.nodes.16.description>三道协作完成时，为每位工人额外保留其贡献的100%，数量固定。各自再次完成原配方并实际耗材后领取自己的份额，不能代领或占用他人份额。一次保留一套，领取当次不补开；四阶协作照常，离开本分支暂停领取。 精进初始 ×1，终值：经营收益 ×10。</RHA_STAR_Path_Industry.nodes.16.description>
+  <RHA_STAR_Path_Industry.nodes.17.label>专门工艺</RHA_STAR_Path_Industry.nodes.17.label>
+  <RHA_STAR_Path_Industry.nodes.17.description>工艺复用建立三份备料时，为最后完成的配方额外保留其专用备料的100%，数量固定。以后制作该配方，按本次同种耗材的最多10%领取；一次保留一份，领完且新档案成套后才可补充。离开分支暂停，原三份备料照常。 精进初始 ×1，终值：经营收益 ×10。</RHA_STAR_Path_Industry.nodes.17.description>
+  <RHA_STAR_Path_Industry.nodes.18.label>多线调度</RHA_STAR_Path_Industry.nodes.18.label>
+  <RHA_STAR_Path_Industry.nodes.18.description>工艺复用建立一套备料时，额外记录全套材料的50%。三个配方的专用份额全部领完后发放，不要求顺序，重复同配方不能代替其他份额。数量固定，一次保留一套；离开分支暂停奖金发放，已领取进度保留，回来后的有效制造可结算。 精进初始 ×1，终值：经营收益 ×10。</RHA_STAR_Path_Industry.nodes.18.description>
+</LanguageData>

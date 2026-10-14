@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_STAR_Path_Titan.nodes.0.label>立身</RHA_STAR_Path_Titan.nodes.0.label>
+  <RHA_STAR_Path_Titan.nodes.0.description>沿用已选巨像进化。精进：震荡伤害或静止护盾量。 精进初始 ×1，终值：伤害 ×50；护盾 ×20。</RHA_STAR_Path_Titan.nodes.0.description>
+  <RHA_STAR_Path_Titan.nodes.1.label>破阵</RHA_STAR_Path_Titan.nodes.1.label>
+  <RHA_STAR_Path_Titan.nodes.1.description>4秒内累计普通命中2格内敌人3次，对第三次命中的敌人追加50点伤害，间隔3秒。远处命中与追加伤害不计数，不限制武器或种族体型。精进：追加伤害。 基础收益：伤害 50。 精进初始 ×1，终值：伤害 ×50。</RHA_STAR_Path_Titan.nodes.1.description>
+  <RHA_STAR_Path_Titan.nodes.2.label>守势</RHA_STAR_Path_Titan.nodes.2.label>
+  <RHA_STAR_Path_Titan.nodes.2.description>普通命中2格内敌人后，为本人提供50点护盾，持续3秒，间隔4秒。同层不累加，追加伤害不触发，不限制种族体型。精进：护盾量。 基础收益：护盾 50。 精进初始 ×1，终值：护盾 ×20。</RHA_STAR_Path_Titan.nodes.2.description>
+  <RHA_STAR_Path_Titan.nodes.3.label>压步</RHA_STAR_Path_Titan.nodes.3.label>
+  <RHA_STAR_Path_Titan.nodes.3.description>破阵追加伤害实际命中后，在敌人身上留下4秒重压，最多2个。本人裂地战技命中时消费重压，追加75点伤害；同目标间隔1秒。精进：追加伤害。 基础收益：伤害 75。 精进初始 ×1，终值：伤害 ×50。</RHA_STAR_Path_Titan.nodes.3.description>
+  <RHA_STAR_Path_Titan.nodes.4.label>横推</RHA_STAR_Path_Titan.nodes.4.label>
+  <RHA_STAR_Path_Titan.nodes.4.description>破阵追加伤害实际命中后，对该敌人2格内另一名敌人造成50点伤害，间隔3秒。没有其他目标时保留此次机会。精进：追加伤害。 基础收益：伤害 50。 精进初始 ×1，终值：伤害 ×50。</RHA_STAR_Path_Titan.nodes.4.description>
+  <RHA_STAR_Path_Titan.nodes.5.label>回击</RHA_STAR_Path_Titan.nodes.5.label>
+  <RHA_STAR_Path_Titan.nodes.5.description>守势护盾实际吸收敌伤后，记住最近的攻击者3秒。本人下一次普通命中2格内的该敌人，返还本次实际吸收量，最多50点伤害；消费一次，不累积承伤。精进：反击上限，实际吸收量不放大。 基础收益：伤害 50。 精进初始 ×1，终值：伤害 ×50。</RHA_STAR_Path_Titan.nodes.5.description>
+  <RHA_STAR_Path_Titan.nodes.6.label>并肩</RHA_STAR_Path_Titan.nodes.6.label>
+  <RHA_STAR_Path_Titan.nodes.6.description>施放裂地后，为3格内最多两名其他殖民者各提供50点护盾，持续3秒，间隔6秒。附近无人时不提供护盾，不刷新裂地冷却。精进：护盾量。 基础收益：护盾 50。 精进初始 ×1，终值：护盾 ×20。</RHA_STAR_Path_Titan.nodes.6.description>
+  <RHA_STAR_Path_Titan.nodes.7.label>裂口</RHA_STAR_Path_Titan.nodes.7.label>
+  <RHA_STAR_Path_Titan.nodes.7.description>裂地消费重压后，在该敌人身上留下3秒裂口，最多保留2个。本人在2格内再次普通命中时消费裂口，追加75点伤害；不产生新的重压。精进：追加伤害。 基础收益：伤害 75。 精进初始 ×1，终值：伤害 ×50。</RHA_STAR_Path_Titan.nodes.7.description>
+  <RHA_STAR_Path_Titan.nodes.8.label>断层</RHA_STAR_Path_Titan.nodes.8.label>
+  <RHA_STAR_Path_Titan.nodes.8.description>横推实际命中后，记录主目标与溅射目标的两个地格4秒。本人步行到距这段连线至少2格处，再普通命中2格内敌人，消费断层。每个落点对1.5格内至多一名敌人造成50点伤害，同一敌人只受一次；落点无人也会消费。精进：追加伤害。 基础收益：伤害 50。 精进初始 ×1，终值：伤害 ×50。</RHA_STAR_Path_Titan.nodes.8.description>
+  <RHA_STAR_Path_Titan.nodes.9.label>稳阵</RHA_STAR_Path_Titan.nodes.9.label>
+  <RHA_STAR_Path_Titan.nodes.9.description>8秒内完成两次回击，且攻击者不同，获得4秒稳阵。下一次裂地施放消费稳阵，为本人提供75点护盾，持续4秒；同一攻击者不能重复准备。精进：护盾量。 基础收益：护盾 75。 精进初始 ×1，终值：护盾 ×20。</RHA_STAR_Path_Titan.nodes.9.description>
+  <RHA_STAR_Path_Titan.nodes.10.label>接阵</RHA_STAR_Path_Titan.nodes.10.label>
+  <RHA_STAR_Path_Titan.nodes.10.description>并肩护盾实际挡住敌伤后，记住本轮首名受保护队友4秒。本人步行到其2格内并普通命中敌人，修复该队友最多40点非永久伤势；每轮并肩仅一次。队友无伤可治时保留机会，重复挡伤不延长时限；新一轮并肩替换旧机会。精进：治疗量与护盾量。 基础收益：治疗 40。 精进初始 ×1，终值：治疗 ×10。</RHA_STAR_Path_Titan.nodes.10.description>
+  <RHA_STAR_Path_Titan.nodes.11.label>压制</RHA_STAR_Path_Titan.nodes.11.label>
+  <RHA_STAR_Path_Titan.nodes.11.description>消费裂口时，若该敌人正在进行普通武器射击蓄力，将其推迟0.5秒。不取消已经发出的弹丸，不改变首领特殊计时，每个裂口至多一次。精进：射击蓄力延迟。 精进初始 ×1，终值：控制时长 ×1.75。</RHA_STAR_Path_Titan.nodes.11.description>
+  <RHA_STAR_Path_Titan.nodes.12.label>夺势</RHA_STAR_Path_Titan.nodes.12.label>
+  <RHA_STAR_Path_Titan.nodes.12.description>裂口实际造成伤害后，修复本人最多20点非永久伤势。实际治疗后记住原站位3秒；步行至少2格并离原位至少2格，再普通命中2格内敌人，可再修复最多20点，仅一次。无伤可治时保留机会，但不延长时限。精进：治疗量与护盾量。 基础收益：治疗 20。 精进初始 ×1，终值：治疗 ×10。</RHA_STAR_Path_Titan.nodes.12.description>
+  <RHA_STAR_Path_Titan.nodes.13.label>合震</RHA_STAR_Path_Titan.nodes.13.label>
+  <RHA_STAR_Path_Titan.nodes.13.description>同一次断层在两处实际命中两名不同敌人后，获得3秒合震。下一次裂地命中时消费，对命中地格1.5格内最多两名敌人各追加50点伤害。只保留一份，不叠加也不续期；不同轮断层不能凑数。精进：追加伤害。 基础收益：伤害 50。 精进初始 ×1，终值：伤害 ×50。</RHA_STAR_Path_Titan.nodes.13.description>
+  <RHA_STAR_Path_Titan.nodes.14.label>垫后</RHA_STAR_Path_Titan.nodes.14.label>
+  <RHA_STAR_Path_Titan.nodes.14.description>断层实际造成伤害后，为原连线中点2格内最多两名己方殖民者各提供50点护盾，持续3秒。不追随本人或目标移动，同轮断层仅一次。精进：护盾量。 基础收益：护盾 50。 精进初始 ×1，终值：护盾 ×20。</RHA_STAR_Path_Titan.nodes.14.description>
+  <RHA_STAR_Path_Titan.nodes.15.label>回山</RHA_STAR_Path_Titan.nodes.15.label>
+  <RHA_STAR_Path_Titan.nodes.15.description>稳阵护盾实际吸收敌伤后，留下3秒回山机会。本人近身普通命中最近攻击者时消耗机会，追加50点伤害，并将裂地剩余冷却缩短1秒；每轮稳阵仅一次，后续挡伤只更新攻击者，不延长机会。精进：追加伤害。 基础收益：伤害 50。 精进初始 ×1，终值：伤害 ×50。</RHA_STAR_Path_Titan.nodes.15.description>
+  <RHA_STAR_Path_Titan.nodes.16.label>分垒</RHA_STAR_Path_Titan.nodes.16.label>
+  <RHA_STAR_Path_Titan.nodes.16.description>裂地消费稳阵时，可同时把本人这次3点护盾改为本人和3格内最近其他殖民者各2点，持续4秒。附近无人时仍为本人3点；不复制旧护盾余量。精进：护盾量。 基础收益：护盾 50。 精进初始 ×1，终值：护盾 ×20。</RHA_STAR_Path_Titan.nodes.16.description>
+  <RHA_STAR_Path_Titan.nodes.17.label>换阵</RHA_STAR_Path_Titan.nodes.17.label>
+  <RHA_STAR_Path_Titan.nodes.17.description>接阵实际治疗后，记住该队友原位置3秒。本人步行离开其2格范围，再近身普通命中另一名敌人，为该队友提供50点护盾，持续3秒；不需要队友操作。精进：护盾量。 基础收益：护盾 50。 精进初始 ×1，终值：护盾 ×20。</RHA_STAR_Path_Titan.nodes.17.description>
+  <RHA_STAR_Path_Titan.nodes.18.label>守到最后</RHA_STAR_Path_Titan.nodes.18.label>
+  <RHA_STAR_Path_Titan.nodes.18.description>接阵实际治疗的队友若当时仍低于50%总生命，额外获得50点护盾，持续3秒。该盾实际吸收敌伤后，本人下一次近身普通命中可修复该队友最多20点非永久伤势，限3秒一次。精进：治疗量与护盾量。 基础收益：护盾 50；治疗 20。 精进初始 ×1，终值：治疗 ×10；护盾 ×20。</RHA_STAR_Path_Titan.nodes.18.description>
+</LanguageData>

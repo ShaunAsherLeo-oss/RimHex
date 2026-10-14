@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ModMetaData>
+  <name>边缘海克斯 | RimHex [0.37.26]</name>
+  <author>没有钱的ATM</author>
+  <packageId>bossliu.rimhexarena</packageId>
+  <supportedVersions>
+    <li>1.6</li>
+    <li>1.7</li>
+  </supportedVersions>
+  <modDependencies>
+    <li>
+      <packageId>brrainz.harmony</packageId>
+      <displayName>Harmony</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
+    </li>
+  </modDependencies>
+  <loadAfter>
+    <li>brrainz.harmony</li>
+    <li>ludeon.rimworld</li>
+  </loadAfter>
+  <description>边缘海克斯
+
+为殖民地和指定殖民者选择永久强化，收集遗物，组合流派、进化与战技。每次三选一，经营和战斗都能逐步成型。
+
+内容
+
+• 存档卡池模式：完整版、殖民地经营、战斗、仅装备或指定流派树。进入存档后在模组设置中选择，对之后的新一轮选卡生效。
+
+• 297 张基础强化卡、192 张装备专精卡、64 件遗物，12 个流派。
+• 流派进化、融合、终极强化，遗物觉醒，以及核心、分支和团队协作卡。
+• 进阶星图：查看流派、遗物、核心与战技的分支、条件和当前效果。共享路线减少重复选择，也可为个人保留不同路线。
+• 棱彩锻造：分解闲置遗物、定向打造、重铸铭文，完成悬赏获取材料。
+• 三种主题试炼、无尽试炼、遗迹远征和可选挑战规则。
+• 构筑面板、健康状态与效果记录，查看已叠层数、成长进度，以及实际伤害、治疗和护盾吸收。
+
+开始使用
+
+打开底部“海克斯”面板，使用选卡券。个人卡领取时指定殖民者；遗物送到殖民者附近，作为可穿戴物品使用。普通选卡每张候选默认可刷新两次；星图直接选择分支。
+
+默认每 5 天获得一张通用选卡券。战功选卡需同时达到 12 点有效击杀贡献、750 点敌人基础战力、1 场战斗和 3 天奖励间隔。各项可在设置中调整。囚犯、普通动物、倒地补刀与反复复活目标不计入战功。
+
+流派来源满足要求后，在构筑面板查看进化。星图将首次解锁、下一阶和已有节点的精进分开显示；具体条件、材料与当前倍率见节点详情。各人的效果与冷却独立，遗物仍需各自完成成长与首阶材料。
+
+主动战技默认手动施放，支持的战技可开启自动施放。普通袭击的额外挑战规则默认关闭，可单独开启。特效与遗物外观可在设置中调整。
+
+预览与反馈
+
+这是一个偏向强力构筑的娱乐模组，已进行多轮数值调整。欢迎分享构筑，反馈强弱、成长节奏和不清楚的操作。
+
+反馈 Bug 时请说明版本、相关卡牌或遗物、操作经过，以及预期和实际结果；附上启用的模组、Player.log 或截图，有助于复现。试用预览版前，建议保留存档备份。
+
+支持 RimWorld 1.6 / 1.7，需要 Harmony，无需额外 DLC。内置简体中文和英文，随游戏语言切换。
+
+RimHex
+
+Choose permanent augments for your colony or individual colonists, collect relics and combine paths, evolutions and abilities. Pick one of three cards and build toward stronger combat or colony work.
+
+Content
+
+• 297 base augments, 192 equipment specialization cards, 64 relics and 12 paths.
+• Evolutions, fusions, ultimates, relic awakenings, cores, branches and team cards.
+• A progression atlas with branches, requirements and current effects for paths, relics, cores and abilities. Share a colony route to reduce repeated choices, or keep a separate personal route.
+• Prismatic forging: salvage spare relics, craft specific equipment and reroll inscriptions. Bounties provide extra materials.
+• Three trial themes, endless trials, ruin expeditions and optional challenge rules.
+• Build panels, health entries and effect records show stacks, growth, actual damage, healing and shield absorption.
+
+Getting started
+
+Open RimHex along the bottom of the screen and spend a draft ticket. Assign a colonist when claiming a personal card. Relics arrive nearby as wearable items. Ordinary drafts give each candidate two base rerolls; atlas branches are chosen directly.
+
+A flexible ticket arrives every 5 days by default. Combat tickets require all four conditions: 12 eligible kill contributions, 750 enemy base combat power, one battle and a three-day reward interval. Adjust these in settings. Prisoners, ordinary animals, finishing blows on downed targets and repeated resurrection kills do not count.
+
+Once a path has enough sources, view its evolution in the build panel. The atlas distinguishes first unlocks, later stages and refinement of existing nodes. Check node details for requirements, materials and current multipliers. Effects and cooldowns remain individual; each relic still needs its own growth and first-stage materials.
+
+Abilities are manual by default. Supported abilities can use autocast. Extra rules for ordinary raids are off by default and have a separate switch. Visual effects and relic appearances can be adjusted in settings.
+
+Preview and feedback
+
+RimHex is made for powerful builds and has had several balance passes. Share your builds and report awkward progression, excessive or weak effects, and unclear controls.
+
+For bugs, include the version, card or relic, steps, expected result and actual result. Your active mods, Player.log or screenshots help reproduce the problem. Keep a save backup before trying a preview.
+
+Requires RimWorld 1.6 or 1.7 and Harmony. No DLC required. English and Simplified Chinese follow the game language.
+</description>
+</ModMetaData>

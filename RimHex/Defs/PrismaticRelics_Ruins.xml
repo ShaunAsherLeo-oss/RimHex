@@ -1,0 +1,165 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Defs>
+  <ApparelLayerDef>
+    <defName>RHA_RuinLayer_FurnaceGrip</defName>
+    <label>furnace grip</label>
+    <drawOrder>701</drawOrder>
+  </ApparelLayerDef>
+  <ThingDef ParentName="RHA_RelicBase">
+    <defName>RHA_RUIN_FurnaceGrip</defName>
+    <label>furnace grip</label>
+    <description>Grants +70% damage against enemies and +80% global work speed. Every fourth valid direct hit releases a 6-cell furnace pulse: up to 8 standing enemies take 180 + 75% of the direct hit as additional damage and receive 2 burn levels. Cooldown: 3 seconds. Found in abandoned foundry. Recovered through exploration; not available from ordinary drafts or directed forging. Copied damage uses its resolved value; flat bonus damage can still be amplified.</description>
+    <graphicData>
+      <texPath>RimHex/Relics/FurnaceGrip</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <apparel>
+      <layers>
+        <li>RHA_RuinLayer_FurnaceGrip</li>
+      </layers>
+    </apparel>
+    <comps>
+      <li Class="RimHex.CompProperties_Prismatic">
+        <power>FurnaceGrip</power>
+        <ruinTheme>RHA_Ruin_Forge</ruinTheme>
+        <visualStyle>Fire</visualStyle>
+        <visualColor>(0.73,0.54,0.35)</visualColor>
+      </li>
+    </comps>
+  </ThingDef>
+  <ApparelLayerDef>
+    <defName>RHA_RuinLayer_HeatReservoir</defName>
+    <label>heat reservoir</label>
+    <drawOrder>702</drawOrder>
+  </ApparelLayerDef>
+  <ThingDef ParentName="RHA_RelicBase">
+    <defName>RHA_RUIN_HeatReservoir</defName>
+    <label>heat reservoir</label>
+    <description>Grants +120% body health and restores 2.5 points of ordinary injury each second. After taking damage, gain a shield equal to 300 + three times the damage taken for 8 seconds. Cooldown: 4 seconds. The shield does not absorb the hit that creates it. Found in abandoned foundry. Recovered through exploration; not available from ordinary drafts or directed forging.</description>
+    <graphicData>
+      <texPath>RimHex/Relics/HeatReservoir</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <apparel>
+      <layers>
+        <li>RHA_RuinLayer_HeatReservoir</li>
+      </layers>
+    </apparel>
+    <comps>
+      <li Class="RimHex.CompProperties_Prismatic">
+        <power>HeatReservoir</power>
+        <ruinTheme>RHA_Ruin_Forge</ruinTheme>
+        <visualStyle>Fire</visualStyle>
+        <visualColor>(0.73,0.54,0.35)</visualColor>
+      </li>
+    </comps>
+  </ThingDef>
+  <ApparelLayerDef>
+    <defName>RHA_RuinLayer_RefractionLens</defName>
+    <label>refraction lens</label>
+    <drawOrder>703</drawOrder>
+  </ApparelLayerDef>
+  <ThingDef ParentName="RHA_RelicBase">
+    <defName>RHA_RUIN_RefractionLens</defName>
+    <label>refraction lens</label>
+    <description>Grants +60% damage against enemies, +35 percentage points of critical chance and +150% research speed. Every third valid direct hit, if the target is at least 10 cells away, refracts into up to 4 standing enemies within 12 cells of the impact. Each takes 160 + the direct hit as additional damage and is slowed. Cooldown: 4 seconds. Found in lost research station. Recovered through exploration; not available from ordinary drafts or directed forging. Copied damage uses its resolved value; flat bonus damage can still be amplified.</description>
+    <graphicData>
+      <texPath>RimHex/Relics/RefractionLens</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <apparel>
+      <layers>
+        <li>RHA_RuinLayer_RefractionLens</li>
+      </layers>
+    </apparel>
+    <comps>
+      <li Class="RimHex.CompProperties_Prismatic">
+        <power>RefractionLens</power>
+        <ruinTheme>RHA_Ruin_Archive</ruinTheme>
+        <visualStyle>Frost</visualStyle>
+        <visualColor>(0.48,0.68,0.75)</visualColor>
+      </li>
+    </comps>
+  </ThingDef>
+  <ApparelLayerDef>
+    <defName>RHA_RuinLayer_FieldInjector</defName>
+    <label>field injector</label>
+    <drawOrder>704</drawOrder>
+  </ApparelLayerDef>
+  <ThingDef ParentName="RHA_RelicBase">
+    <defName>RHA_RUIN_FieldInjector</defName>
+    <label>field injector</label>
+    <description>Grants +100% body health and restores 4 points of ordinary injury each second. Every 5 seconds, treat the most injured allied free colonist within 10 cells, restoring up to 100 points of ordinary injury and granting a 160-point shield for 8 seconds. Includes the wearer. Does not activate without a treatable injury; does not regrow missing body parts. Found in lost research station. Recovered through exploration; not available from ordinary drafts or directed forging.</description>
+    <graphicData>
+      <texPath>RimHex/Relics/FieldInjector</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <apparel>
+      <layers>
+        <li>RHA_RuinLayer_FieldInjector</li>
+      </layers>
+    </apparel>
+    <comps>
+      <li Class="RimHex.CompProperties_Prismatic">
+        <power>FieldInjector</power>
+        <ruinTheme>RHA_Ruin_Archive</ruinTheme>
+        <visualStyle>Frost</visualStyle>
+        <visualColor>(0.48,0.68,0.75)</visualColor>
+      </li>
+    </comps>
+  </ThingDef>
+  <ApparelLayerDef>
+    <defName>RHA_RuinLayer_BreachBow</defName>
+    <label>breach bow</label>
+    <drawOrder>705</drawOrder>
+  </ApparelLayerDef>
+  <ThingDef ParentName="RHA_RelicBase">
+    <defName>RHA_RUIN_BreachBow</defName>
+    <label>breach bow</label>
+    <description>Grants +100% damage against enemies and halves aiming time before other modifiers. Every fifth valid direct hit fires a piercing bolt through the target and up to 16 cells beyond it, within 2 cells of the firing line. Up to 6 standing enemies take 500 + the direct hit as additional damage. Respects walls and line of sight. Cooldown: 4 seconds. Found in sealed armory. Recovered through exploration; not available from ordinary drafts or directed forging. Copied damage uses its resolved value; flat bonus damage can still be amplified.</description>
+    <graphicData>
+      <texPath>RimHex/Relics/BreachBow</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <apparel>
+      <layers>
+        <li>RHA_RuinLayer_BreachBow</li>
+      </layers>
+    </apparel>
+    <comps>
+      <li Class="RimHex.CompProperties_Prismatic">
+        <power>BreachBow</power>
+        <ruinTheme>RHA_Ruin_Vault</ruinTheme>
+        <visualStyle>Arcane</visualStyle>
+        <visualColor>(0.72,0.64,0.43)</visualColor>
+      </li>
+    </comps>
+  </ThingDef>
+  <ApparelLayerDef>
+    <defName>RHA_RuinLayer_EscortSeal</defName>
+    <label>escort seal</label>
+    <drawOrder>706</drawOrder>
+  </ApparelLayerDef>
+  <ThingDef ParentName="RHA_RelicBase">
+    <defName>RHA_RUIN_EscortSeal</defName>
+    <label>escort seal</label>
+    <description>Grants +100% body health and adds 0.7 to the damage reduction divisor. Each 200 points of actual shield absorption releases a rally pulse: heal up to 6 allied free colonists within 10 cells for 80 ordinary injury points and deal 240 additional damage to up to 8 standing enemies within 8 cells. Cooldown: 3 seconds. Stores at most 400 absorption points. Found in sealed armory. Recovered through exploration; not available from ordinary drafts or directed forging.</description>
+    <graphicData>
+      <texPath>RimHex/Relics/EscortSeal</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <apparel>
+      <layers>
+        <li>RHA_RuinLayer_EscortSeal</li>
+      </layers>
+    </apparel>
+    <comps>
+      <li Class="RimHex.CompProperties_Prismatic">
+        <power>EscortSeal</power>
+        <ruinTheme>RHA_Ruin_Vault</ruinTheme>
+        <visualStyle>Arcane</visualStyle>
+        <visualColor>(0.72,0.64,0.43)</visualColor>
+      </li>
+    </comps>
+  </ThingDef>
+</Defs>

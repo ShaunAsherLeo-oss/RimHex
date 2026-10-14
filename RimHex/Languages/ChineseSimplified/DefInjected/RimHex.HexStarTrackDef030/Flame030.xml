@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_STAR_Path_Flame.nodes.0.label>初火</RHA_STAR_Path_Flame.nodes.0.label>
+  <RHA_STAR_Path_Flame.nodes.0.description>沿用已选烈焰进化。精进：传播灼烧伤害或引爆额外增伤；被引爆的剩余灼烧仍按原额结算。 精进初始 ×1，终值：伤害 ×50。</RHA_STAR_Path_Flame.nodes.0.description>
+  <RHA_STAR_Path_Flame.nodes.1.label>烙火</RHA_STAR_Path_Flame.nodes.1.label>
+  <RHA_STAR_Path_Flame.nodes.1.description>6秒内普通命中3次，在最后命中的敌人身上留下6秒烙印，最多保留2个。本人之后普通命中该敌人时消费烙印，追加50点伤害。烙印生成间隔3秒；追加伤害不会自行生成烙印。精进：追加伤害。 基础收益：伤害 50。 精进初始 ×1，终值：伤害 ×50。</RHA_STAR_Path_Flame.nodes.1.description>
+  <RHA_STAR_Path_Flame.nodes.2.label>炉心</RHA_STAR_Path_Flame.nodes.2.label>
+  <RHA_STAR_Path_Flame.nodes.2.description>每两次普通命中积累1点炉热，积热间隔0.5秒，最多3点，10秒未续热则消散。存满后下一次普通命中消费3点，对该敌人追加75点伤害。放热后冷却3秒，期间不积热；额外伤害不积热。精进：追加伤害。 基础收益：伤害 75。 精进初始 ×1，终值：伤害 ×50。</RHA_STAR_Path_Flame.nodes.2.description>
+  <RHA_STAR_Path_Flame.nodes.3.label>追焰</RHA_STAR_Path_Flame.nodes.3.label>
+  <RHA_STAR_Path_Flame.nodes.3.description>烙火追加伤害实际命中后，在该敌人身上留6秒火引。本人烈焰战技命中它时消费火引，追加75点伤害；最多保留2个火引，同目标间隔1秒。精进：追加伤害。 基础收益：伤害 75。 精进初始 ×1，终值：伤害 ×50。</RHA_STAR_Path_Flame.nodes.3.description>
+  <RHA_STAR_Path_Flame.nodes.4.label>飞炭</RHA_STAR_Path_Flame.nodes.4.label>
+  <RHA_STAR_Path_Flame.nodes.4.description>烙火追加伤害实际命中后，向目标3格内另一名敌人溅射50点伤害，间隔2秒。没有其他敌人时不浪费此次溅射机会。精进：追加伤害。 基础收益：伤害 50。 精进初始 ×1，终值：伤害 ×50。</RHA_STAR_Path_Flame.nodes.4.description>
+  <RHA_STAR_Path_Flame.nodes.5.label>喷火口</RHA_STAR_Path_Flame.nodes.5.label>
+  <RHA_STAR_Path_Flame.nodes.5.description>炉心放热实际命中后，对该目标3格内最多两名其他敌人各追加50点伤害，间隔3秒。溅射不积炉热。精进：追加伤害。 基础收益：伤害 50。 精进初始 ×1，终值：伤害 ×50。</RHA_STAR_Path_Flame.nodes.5.description>
+  <RHA_STAR_Path_Flame.nodes.6.label>护炉</RHA_STAR_Path_Flame.nodes.6.label>
+  <RHA_STAR_Path_Flame.nodes.6.description>炉心放热实际命中后，为本人提供50点护盾，持续3秒，间隔3秒。护盾不叠加自身剩余值，也不用于积炉热。精进：护盾量。 基础收益：护盾 50。 精进初始 ×1，终值：护盾 ×20。</RHA_STAR_Path_Flame.nodes.6.description>
+  <RHA_STAR_Path_Flame.nodes.7.label>落烬</RHA_STAR_Path_Flame.nodes.7.label>
+  <RHA_STAR_Path_Flame.nodes.7.description>追焰实际追加伤害后，在命中位置留下火种，1.5秒后对2格内最多两名敌人各造成50点伤害，间隔3秒。火种固定在地面，不追着原目标移动。精进：追加伤害。 基础收益：伤害 50。 精进初始 ×1，终值：伤害 ×50。</RHA_STAR_Path_Flame.nodes.7.description>
+  <RHA_STAR_Path_Flame.nodes.8.label>传火</RHA_STAR_Path_Flame.nodes.8.label>
+  <RHA_STAR_Path_Flame.nodes.8.description>飞炭实际命中的敌人获得4秒余烬。本人普通命中它时消费余烬，追加50点伤害；最多同时记住两名敌人，同目标间隔1秒。余烬不会触发新的烙火或飞炭。精进：追加伤害。 基础收益：伤害 50。 精进初始 ×1，终值：伤害 ×50。</RHA_STAR_Path_Flame.nodes.8.description>
+  <RHA_STAR_Path_Flame.nodes.9.label>炭床</RHA_STAR_Path_Flame.nodes.9.label>
+  <RHA_STAR_Path_Flame.nodes.9.description>喷火口一次放热实际伤到至少两名不同副目标时，在主目标原位置铺一片3秒炭床。本人普通命中炭床2格内敌人时，消费炭床追加75点伤害；一片炭床只兑现一次。精进：追加伤害。 基础收益：伤害 75。 精进初始 ×1，终值：伤害 ×50。</RHA_STAR_Path_Flame.nodes.9.description>
+  <RHA_STAR_Path_Flame.nodes.10.label>回温</RHA_STAR_Path_Flame.nodes.10.label>
+  <RHA_STAR_Path_Flame.nodes.10.description>护炉盾实际吸收敌伤后，记住该攻击者3秒。本人下一次普通命中它时追加最多50点伤害，数值不超过该次护炉盾的实际吸收量，并消费记录。只保留最近一次吸收记录，其他护盾不供能。精进：反击伤害上限，实际吸收量不放大。 基础收益：伤害 50。 精进初始 ×1，终值：伤害 ×50。</RHA_STAR_Path_Flame.nodes.10.description>
+  <RHA_STAR_Path_Flame.nodes.11.label>围炉</RHA_STAR_Path_Flame.nodes.11.label>
+  <RHA_STAR_Path_Flame.nodes.11.description>落烬爆发前，本人从火种3格内移到3格外，下一次普通命中可提前引爆同一火种，保留原范围、目标数与单次结算。精进：提前引爆伤害；正常到时爆发不变，也不新增火种。 精进初始 ×1，终值：伤害 ×50。</RHA_STAR_Path_Flame.nodes.11.description>
+  <RHA_STAR_Path_Flame.nodes.12.label>复燃</RHA_STAR_Path_Flame.nodes.12.label>
+  <RHA_STAR_Path_Flame.nodes.12.description>落烬实际伤到敌人后记住它3秒，最多保留两名敌人。本人烈焰战技再命中它时，在它当前脚下补一次半径1.5格、最多两目标的2点爆发；消费记录，不形成新的落烬。精进：追加伤害。 基础收益：伤害 50。 精进初始 ×1，终值：伤害 ×50。</RHA_STAR_Path_Flame.nodes.12.description>
+  <RHA_STAR_Path_Flame.nodes.13.label>合焰</RHA_STAR_Path_Flame.nodes.13.label>
+  <RHA_STAR_Path_Flame.nodes.13.description>本人3秒内消费两名不同敌人的传火余烬后，获得3秒合焰。下一次普通命中对该目标追加75点伤害，并消费合焰；转火才可准备下一轮。精进：追加伤害。 基础收益：伤害 75。 精进初始 ×1，终值：伤害 ×50。</RHA_STAR_Path_Flame.nodes.13.description>
+  <RHA_STAR_Path_Flame.nodes.14.label>借火</RHA_STAR_Path_Flame.nodes.14.label>
+  <RHA_STAR_Path_Flame.nodes.14.description>传火实际追加伤害后，为4格内伤势最重的其他殖民者修复最多40点非永久伤势，间隔4秒。没有可治疗者时不消耗冷却，治疗不会生成余烬。精进：治疗量。 基础收益：治疗 40。 精进初始 ×1，终值：治疗 ×10。</RHA_STAR_Path_Flame.nodes.14.description>
+  <RHA_STAR_Path_Flame.nodes.15.label>封炉</RHA_STAR_Path_Flame.nodes.15.label>
+  <RHA_STAR_Path_Flame.nodes.15.description>炭床存在时，放热冷却不再阻止积热，但仍限制再次放热。转火积回至少1点炉热，让这片炭床延长2秒，仅一次。消费延长后的炭床时，额外花费1点炉热增加1点基准伤害，独立于炭床本体计算精进；炉热不足则只有炭床本体伤害。精进：追加伤害。 基础收益：伤害 25。 精进初始 ×1，终值：伤害 ×50。</RHA_STAR_Path_Flame.nodes.15.description>
+  <RHA_STAR_Path_Flame.nodes.16.label>踏炭</RHA_STAR_Path_Flame.nodes.16.label>
+  <RHA_STAR_Path_Flame.nodes.16.description>消费炭床后记住本人位置3秒。步行离开原位置至少3格，再普通命中另一名敌人，为原炭床位置2格内最多两名己方殖民者各提供2点、持续3秒的护盾；一次兑现；附近无人也会消费这次机会，不要求队友交互。精进：护盾量。 基础收益：护盾 50。 精进初始 ×1，终值：护盾 ×20。</RHA_STAR_Path_Flame.nodes.16.description>
+  <RHA_STAR_Path_Flame.nodes.17.label>压炉</RHA_STAR_Path_Flame.nodes.17.label>
+  <RHA_STAR_Path_Flame.nodes.17.description>回温实际追加伤害后，记录该敌人3秒。本人再次普通命中它，可消费记录推迟它正在进行的下一发普通武器射击0.5秒；仅作用于可识别的武器蓄力，不取消已发弹丸，不影响特殊首领计时。没有合格蓄力时保留记录至到期，只保留最近一名敌人。精进使推迟时长从0.5秒递减增长至趋近0.595秒，按最近的游戏刻取整；3秒记录窗口与单次消费规则不变。 精进初始 ×1，终值：控制时长 ×1.75。</RHA_STAR_Path_Flame.nodes.17.description>
+  <RHA_STAR_Path_Flame.nodes.18.label>余温</RHA_STAR_Path_Flame.nodes.18.label>
+  <RHA_STAR_Path_Flame.nodes.18.description>回温实际追加伤害后，将该次实际伤害的一半化为护盾，最多2点，给予4格内最近的其他殖民者，持续3秒。同层护盾不累加。没有队友则不生成护盾；护盾不能反过来触发回温。精进：护盾量。 精进初始 ×1，终值：护盾 ×20。</RHA_STAR_Path_Flame.nodes.18.description>
+</LanguageData>

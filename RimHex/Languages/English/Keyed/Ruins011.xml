@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_X11_Expeditions>Expeditions</RHA_X11_Expeditions>
+  <RHA_X11_NeedHome>A player home with free colonists is required.</RHA_X11_NeedHome>
+  <RHA_X11_SiteLimit>At most 3 ruins may remain active. Abandon a vacated site from its details.</RHA_X11_SiteLimit>
+  <RHA_X11_SurveyCooldown>Next survey in {0} days.</RHA_X11_SurveyCooldown>
+  <RHA_X11_NeedShards>Requires {0} shards.</RHA_X11_NeedShards>
+  <RHA_X11_NoTile>No suitable nearby cell was found. No shards were spent.</RHA_X11_NoTile>
+  <RHA_X11_Discovered>Coordinates recovered for {0}.</RHA_X11_Discovered>
+  <RHA_X11_TravelHelp>Send a caravan to the ruin on the world map and enter the site. Carry the loot home with the caravan. You can return later and continue your progress.</RHA_X11_TravelHelp>
+  <RHA_X11_Unavailable>This action is no longer available.</RHA_X11_Unavailable>
+  <RHA_X11_NeedOperator>Choose an able free colonist on the ruin map who can manipulate equipment.</RHA_X11_NeedOperator>
+  <RHA_X11_NoPath>Cannot reach this facility.</RHA_X11_NoPath>
+  <RHA_X11_Requirement>Requires: {0}</RHA_X11_Requirement>
+  <RHA_X11_NeedSupplies>Requires {0} {1} in the party inventory or near the facility.</RHA_X11_NeedSupplies>
+  <RHA_X11_NoGuardFaction>No mechanoid faction is available in this world.</RHA_X11_NoGuardFaction>
+  <RHA_X11_PathSources>{1} different sources in the {0} path</RHA_X11_PathSources>
+  <RHA_X11_Or> or </RHA_X11_Or>
+  <RHA_X11_NoRequirement>No skill or path requirement.</RHA_X11_NoRequirement>
+  <RHA_X11_CacheReady>The final lock is released. The equipment cases can now be inspected.</RHA_X11_CacheReady>
+  <RHA_X11_GuardScale>This ruin guardian has {0} times its native body health.</RHA_X11_GuardScale>
+  <RHA_X11_Enter>Explore {0}</RHA_X11_Enter>
+  <RHA_X11_Progress>Difficulty T{0} · {1}/{2} facilities resolved · {3} installations preserved</RHA_X11_Progress>
+  <RHA_X11_Guards>{0} guards can still fight. Defeat them to resolve this encounter.</RHA_X11_Guards>
+  <RHA_X11_ArrivalHelp>Select a ruin facility and open Inspect facility. Choose a colonist and an action; they will walk to the device to carry it out.</RHA_X11_ArrivalHelp>
+  <RHA_X11_Overview>Survey a chosen ruin type for 150 shards at difficulty T1–T6, once every 15 days. Keep up to 3 sites active. Each ruin has 4 branching encounters, with supply rewards multiplied by its tier. Preserve at least 2 installations to choose one relic type and receive one copy per tier; a damaged cache yields 50 gold per tier. From T4, guards can also gain cards or prismatic equipment.</RHA_X11_Overview>
+  <RHA_X11_Risk>Difficulty T{0}</RHA_X11_Risk>
+  <RHA_X11_TierRewards>T{0} rewards: encounter supplies ×{0}; an intact cache grants {0} copies of one chosen relic; a damaged cache grants {1} gold.</RHA_X11_TierRewards>
+  <RHA_X11_SurveyCost>This survey costs {0} shards.</RHA_X11_SurveyCost>
+  <RHA_X11_Survey>Survey location</RHA_X11_Survey>
+  <RHA_X11_SurveyConfirm>Survey {0} at difficulty T{1} for {2} shards? A successful survey starts the 15-day cooldown.</RHA_X11_SurveyConfirm>
+  <RHA_X11_KnownSites>Discovered ruins</RHA_X11_KnownSites>
+  <RHA_X11_NoSites>No ruin coordinates available.</RHA_X11_NoSites>
+  <RHA_X11_WorldMap>World map</RHA_X11_WorldMap>
+  <RHA_X11_Details>View expedition</RHA_X11_Details>
+  <RHA_X11_History>Recent expeditions</RHA_X11_History>
+  <RHA_X11_HistoryEntry>{0} · {1}/4 resolved · {2}</RHA_X11_HistoryEntry>
+  <RHA_X11_RelicRecovered>Intact relic cache opened</RHA_X11_RelicRecovered>
+  <RHA_X11_SalvageRecovered>Expedition closed</RHA_X11_SalvageRecovered>
+  <RHA_X11_AwaitCaravan>No party has arrived. Prepare colonists, food and repair supplies before travelling.</RHA_X11_AwaitCaravan>
+  <RHA_X11_Operator>Operator: {0}</RHA_X11_Operator>
+  <RHA_X11_None>None</RHA_X11_None>
+  <RHA_X11_SupplyHelp>Supplies come from the party inventory on this map, or visible, unforbidden items within 8 cells of the facility with line of sight. Requirements are rechecked when work finishes; costs are paid once.</RHA_X11_SupplyHelp>
+  <RHA_X11_WorkTime>Work time: {0} seconds</RHA_X11_WorkTime>
+  <RHA_X11_Cost>Cost: {0} {1}</RHA_X11_Cost>
+  <RHA_X11_Reward>On-site reward: {0} {1}</RHA_X11_Reward>
+  <RHA_X11_GuardPreview>Wakes {0} guardians with {1} times native body health</RHA_X11_GuardPreview>
+  <RHA_X11_GuardBlocked>The guard exit is blocked. Clear space around the facility and try again. No supplies were spent.</RHA_X11_GuardBlocked>
+  <RHA_X11_RoutePreview>Expedition preparations</RHA_X11_RoutePreview>
+  <RHA_X11_CachePreview>Sealed equipment: preserve at least 2 installations and resolve all 4 facilities to choose one relic type, receiving one copy per difficulty tier.</RHA_X11_CachePreview>
+  <RHA_X11_LosesInsight>This installation is stripped and does not count as preserved.</RHA_X11_LosesInsight>
+  <RHA_X11_GainsInsight>Preserves this installation: +1 preserved installation.</RHA_X11_GainsInsight>
+  <RHA_X11_Assign>Assign work</RHA_X11_Assign>
+  <RHA_X11_ChooseRelic>The equipment is intact. Choose one relic type and receive one copy per difficulty tier. The operator will open its case at the final facility.</RHA_X11_ChooseRelic>
+  <RHA_X11_DamagedCache>Fewer than 2 installations were preserved. The delicate relics are damaged, but 50 gold per risk level can still be recovered.</RHA_X11_DamagedCache>
+  <RHA_X11_TakeRelic>Recover {0}</RHA_X11_TakeRelic>
+  <RHA_X11_TakeSalvage>Recover remaining supplies</RHA_X11_TakeSalvage>
+  <RHA_X11_BringLootHome>The cache is open. Include the loot when reforming your caravan. When you no longer intend to return, abandon this site to free its slot.</RHA_X11_BringLootHome>
+  <RHA_X11_ChoicesMade>Previous choices</RHA_X11_ChoicesMade>
+  <RHA_X11_Abandon>Abandon site</RHA_X11_Abandon>
+  <RHA_X11_AbandonConfirm>Abandon this ruin? Its map, uncollected items and expedition progress will be removed. You cannot abandon a map with remaining player pawns or protected buildings.</RHA_X11_AbandonConfirm>
+  <RHA_X11_PeopleRemain>Pawns, protected buildings or incoming transporters still prevent abandonment.</RHA_X11_PeopleRemain>
+  <RHA_X11_Resolved>This facility has been resolved.</RHA_X11_Resolved>
+  <RHA_X11_Locked>Resolve the previous facility first.</RHA_X11_Locked>
+  <RHA_X11_Interact>Inspect to choose an approach.</RHA_X11_Interact>
+  <RHA_X11_InspectFacility>Inspect facility</RHA_X11_InspectFacility>
+  <RHA_X11_Changed>Conditions changed before completion. This action was not resolved.</RHA_X11_Changed>
+  <RHA_X11_ExplorationOnly>Expedition exclusive: recovered through exploration.</RHA_X11_ExplorationOnly>
+  <RHA_X11_RelicCooldown>Relic trigger cooldown: {0}s</RHA_X11_RelicCooldown>
+  <RHA_X11_HitProgress>Valid hit progress: {0}/{1}</RHA_X11_HitProgress>
+  <RHA_X11_AbsorbProgress>Shield absorption progress: {0}/200</RHA_X11_AbsorbProgress>
+  <RHA_X11_RelicRecords>Additional damage {0} · Actual healing {1} · Shield absorbed {2}</RHA_X11_RelicRecords>
+</LanguageData>

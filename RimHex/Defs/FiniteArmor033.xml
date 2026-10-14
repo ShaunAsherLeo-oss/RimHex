@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <JobDef>
+    <defName>RHA_FiniteArmorPreparation033</defName>
+    <driverClass>RimHex.JobDriver_HexFiniteArmor033</driverClass>
+    <reportString>preparing finite armor; interruptible.</reportString>
+    <casualInterruptible>false</casualInterruptible>
+  </JobDef>
+</Defs>

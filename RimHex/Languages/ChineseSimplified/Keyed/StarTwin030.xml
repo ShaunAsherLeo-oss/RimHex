@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RHA_StarTwin030_Linked>双核连通：攻击一方，另一方准备反击。</RHA_StarTwin030_Linked>
+  <RHA_StarTwin030_Separated>双核断连：正常交战。</RHA_StarTwin030_Separated>
+  <RHA_StarTwin030_Exposed>双核失衡：反击窗口还剩 {0} 秒！</RHA_StarTwin030_Exposed>
+  <RHA_StarTwin030_Peer>{0}：本人伤害 {1}/{2} {3}</RHA_StarTwin030_Peer>
+  <RHA_StarTwin030_Blade>刃核</RHA_StarTwin030_Blade>
+  <RHA_StarTwin030_Lance>枪核</RHA_StarTwin030_Lance>
+  <RHA_StarTwin030_Defeated>（已击败）</RHA_StarTwin030_Defeated>
+  <RHA_StarTwin030_Brief>双核相互连通时减伤25%。攻击一方会为另一方的反击充能。转火打断正在蓄力的一方，或利用距离、掩体切断蓄力时的连线，可让双核在4秒内受到额外25%伤害。两者始终可以受伤；击败一方后不会复活，剩余一方继续使用自己的短距宽幅或长距窄幅轰击。个人伤害、护盾和治疗共用每名敌人的贡献额度，无需操作机关或学习额外技能。</RHA_StarTwin030_Brief>
+</LanguageData>

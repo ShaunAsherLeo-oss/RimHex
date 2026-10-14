@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RHA_Quality037_NoFloor>没有新增保底品质</RHA_Quality037_NoFloor>
+  <RHA_Quality037_Floor>保底品质：{0}</RHA_Quality037_Floor>
+  <RHA_Quality037_Steps>品质＋{0}阶 · 最终最高传奇级{1}</RHA_Quality037_Steps>
+  <RHA_Quality037_SkillCondition> · 实际完工技能至少16级</RHA_Quality037_SkillCondition>
+  <RHA_Quality037_NativeCondition> · 提升前品质至少极佳</RHA_Quality037_NativeCondition>
+  <RHA_Quality037_Minimum>{0} {1}级 · 保底品质 {2} → {3}</RHA_Quality037_Minimum>
+  <RHA_Quality037_NativePreview>提升前品质{0}：现有规则{1} → 再获一层{2}</RHA_Quality037_NativePreview>
+  <RHA_Quality037_Training>当前技能未达到门槛；实际完工所用技能达到16级后，此条件才生效。</RHA_Quality037_Training>
+  <RHA_Quality037_Shop>品质卡</RHA_Quality037_Shop>
+  <RHA_Quality037_Back>返回选卡</RHA_Quality037_Back>
+  <RHA_Quality037_Recipient>个人卡领取者 · {0}</RHA_Quality037_Recipient>
+  <RHA_Quality037_ShopHelp>殖民地规则全员共享，个人规则归当前工匠所有。价格顺序为碎晶／凝核／印记；悬停查看提升前品质对应的收益。</RHA_Quality037_ShopHelp>
+  <RHA_Quality037_Weapon>武器</RHA_Quality037_Weapon>
+  <RHA_Quality037_Apparel>服装</RHA_Quality037_Apparel>
+  <RHA_Quality037_Furniture>家具</RHA_Quality037_Furniture>
+  <RHA_Quality037_Art>艺术</RHA_Quality037_Art>
+  <RHA_Quality037_Buy>兑换一层 · {0}／{1}／{2}</RHA_Quality037_Buy>
+  <RHA_Quality037_Unavailable>当前不可领取</RHA_Quality037_Unavailable>
+  <RHA_Quality037_NeedResources>碎晶、凝核或印记不足。</RHA_Quality037_NeedResources>
+</LanguageData>

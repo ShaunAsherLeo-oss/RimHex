@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RHA_CrownMandate037.label>战功授印</RHA_CrownMandate037.label>
+  <RHA_CrownMandate037.description>五次原装备认可贡献给本人和附近原生健康最低友军授予三次原生命中附伤。八秒期限，各受益者在授予时冻结自己的真实原生伤害基数，源王冠必须仍穿戴。派生伤害不推进次数。</RHA_CrownMandate037.description>
+  <RHA_CrownEdicts037.label>王命御令</RHA_CrownEdicts037.label>
+  <RHA_CrownEdicts037.description>原王冠真正成长后获得最多三层御令，三十秒期限。本人或四格友军实际敌伤至少十五点后消费一层，修复十二点真实伤口并赋予三秒保护；每作者对每受益者保留三秒门。</RHA_CrownEdicts037.description>
+  <RHA_CrownProtection037.label>王命庇护</RHA_CrownProtection037.label>
+  <RHA_CrownProtection037.description>御令消费后，未来三秒原生伤害减免百分之十。同名只生效一层，各作者保存独立来源。原伤先发生，庇护不会倒推防止触发它的伤口。</RHA_CrownProtection037.description>
+</LanguageData>

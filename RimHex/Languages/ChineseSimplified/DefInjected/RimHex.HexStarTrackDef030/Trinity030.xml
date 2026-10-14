@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_STAR_Relic_Trinity.nodes.0.label>三相合流</RHA_STAR_Relic_Trinity.nodes.0.label>
+  <RHA_STAR_Relic_Trinity.nodes.0.description>保留原有伤害、暴击、顺劈、连锁与工作和移动速度。进阶不免费学习战技；后续技能命中指海克斯战技实际伤敌，普通攻击及原有顺劈、连锁不算技能命中。</RHA_STAR_Relic_Trinity.nodes.0.description>
+  <RHA_STAR_Relic_Trinity.nodes.1.label>术后接刃</RHA_STAR_Relic_Trinity.nodes.1.label>
+  <RHA_STAR_Relic_Trinity.nodes.1.description>海克斯战技实际伤敌后，标记该敌人5秒，生成冷却8秒，最多一个标记。本人后续普通命中该敌人消耗标记，追加50点伤害。 基础收益：伤害 50。</RHA_STAR_Relic_Trinity.nodes.1.description>
+  <RHA_STAR_Relic_Trinity.nodes.2.label>刃后引术</RHA_STAR_Relic_Trinity.nodes.2.label>
+  <RHA_STAR_Relic_Trinity.nodes.2.description>普通攻击实际暴击后，标记该敌人5秒，生成冷却8秒，最多一个标记。本人后续海克斯战技实际伤及该敌人时，消耗标记追加75点伤害。 基础收益：伤害 75。</RHA_STAR_Relic_Trinity.nodes.2.description>
+  <RHA_STAR_Relic_Trinity.nodes.3.label>接刃回息</RHA_STAR_Relic_Trinity.nodes.3.label>
+  <RHA_STAR_Relic_Trinity.nodes.3.description>术后接刃的追加伤害实际命中后，治疗本人20点基础可恢复伤势，冷却8秒。不恢复缺失部位或永久伤疤。 基础收益：治疗 20。</RHA_STAR_Relic_Trinity.nodes.3.description>
+  <RHA_STAR_Relic_Trinity.nodes.4.label>接刃成盾</RHA_STAR_Relic_Trinity.nodes.4.label>
+  <RHA_STAR_Relic_Trinity.nodes.4.description>术后接刃的追加伤害实际命中后，为本人提供50点基础护盾，持续3秒，冷却8秒。 基础收益：护盾 50。</RHA_STAR_Relic_Trinity.nodes.4.description>
+  <RHA_STAR_Relic_Trinity.nodes.5.label>引术分光</RHA_STAR_Relic_Trinity.nodes.5.label>
+  <RHA_STAR_Relic_Trinity.nodes.5.description>刃后引术的追加伤害实际命中后，对受击点3格内视线畅通的另一名敌人造成25点伤害，冷却8秒。没有第二名敌人时不重复打击原目标。 基础收益：伤害 25。</RHA_STAR_Relic_Trinity.nodes.5.description>
+  <RHA_STAR_Relic_Trinity.nodes.6.label>引术护友</RHA_STAR_Relic_Trinity.nodes.6.label>
+  <RHA_STAR_Relic_Trinity.nodes.6.description>刃后引术的追加伤害实际命中后，为本人4格内视线畅通、最近的另一名殖民者提供50点基础护盾，持续3秒，冷却8秒。没有合适队友时不转给本人。 基础收益：护盾 50。</RHA_STAR_Relic_Trinity.nodes.6.description>
+</LanguageData>

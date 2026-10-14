@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RHA_Tactic_Invalid>战术配置无效，本场将安全结束。</RHA_Tactic_Invalid>
+  <RHA_Tactic_Phase>战术阶段 {0} · 档位 {1} · 下次变化 {2}秒</RHA_Tactic_Phase>
+  <RHA_Tactic_Role>{0}：{1}</RHA_Tactic_Role>
+  <RHA_Tactic_Window>失衡剩余 {0}秒 · 承伤 +25%</RHA_Tactic_Window>
+  <RHA_Tactic_Frenzy>狂攻剩余 {0}秒 · 攻击加快</RHA_Tactic_Frenzy>
+  <RHA_Tactic_Defended>防御最多减伤20%</RHA_Tactic_Defended>
+  <RHA_Tactic_Hold>固守位置</RHA_Tactic_Hold>
+  <RHA_Tactic_Embers>现存余烬：{0}/{1}</RHA_Tactic_Embers>
+  <RHA_Tactic_Warning>已锁定攻击 · {0}秒后落下</RHA_Tactic_Warning>
+  <RHA_Tactic_Protected>当前保护目标：{0}</RHA_Tactic_Protected>
+  <RHA_Tactic_Result>{0} · 已成功反制 {1}次</RHA_Tactic_Result>
+  <RHA_Tactic_Contribution>敌人 {0}：申请者实际伤害 {1} · 本阶段累计 {2}/{3}</RHA_Tactic_Contribution>
+  <RHA_Tactic_Role0>关联敌人</RHA_Tactic_Role0>
+  <RHA_Tactic_Role1>当前主力</RHA_Tactic_Role1>
+  <RHA_Tactic_Role2>当前协同者</RHA_Tactic_Role2>
+  <RHA_Tactic_Role3>供能者</RHA_Tactic_Role3>
+  <RHA_Tactic_Role4>余烬施放者</RHA_Tactic_Role4>
+  <RHA_Tactic_Role5>负伤狂攻者</RHA_Tactic_Role5>
+  <RHA_Tactic_Role6>阵型支点</RHA_Tactic_Role6>
+  <RHA_Tactic_Role7>凝霜：减伤20% · 移动减慢</RHA_Tactic_Role7>
+  <RHA_Tactic_Role8>解冻：承伤 +25%</RHA_Tactic_Role8>
+  <RHA_Tactic_Role9>锁定方向的架势</RHA_Tactic_Role9>
+  <RHA_Tactic_Role10>压制者</RHA_Tactic_Role10>
+  <RHA_Tactic_Role11>射击者</RHA_Tactic_Role11>
+  <RHA_Tactic_Role12>魂契主力</RHA_Tactic_Role12>
+  <RHA_Tactic_Role13>魂契副手</RHA_Tactic_Role13>
+  <RHA_Tactic_Role14>当前追击威胁</RHA_Tactic_Role14>
+  <RHA_Tactic_Result_feeder>供能已打断</RHA_Tactic_Result_feeder>
+  <RHA_Tactic_Result_ember>旧余烬已消耗，攻击已取消</RHA_Tactic_Result_ember>
+  <RHA_Tactic_Result_interrupt>施放已打断</RHA_Tactic_Result_interrupt>
+  <RHA_Tactic_Result_rage>狂攻暴露弱点</RHA_Tactic_Result_rage>
+  <RHA_Tactic_Result_formation>阵型已崩解</RHA_Tactic_Result_formation>
+  <RHA_Tactic_Result_stance>架势已破坏</RHA_Tactic_Result_stance>
+  <RHA_Tactic_Result_crossfire>压制已解除</RHA_Tactic_Result_crossfire>
+  <RHA_Tactic_Result_pact>魂契保护已断开</RHA_Tactic_Result_pact>
+  <RHA_Tactic_Result_rescue>掩护反击窗口已开启</RHA_Tactic_Result_rescue>
+  <RHA_Tactic_Brief_thunder>威胁：供能者保护关联敌人。应对：集火、击破或控制供能者。收益：关联敌人失衡8秒，承伤提高25%。普通攻击始终能推进。</RHA_Tactic_Brief_thunder>
+  <RHA_Tactic_Brief_flame>威胁：半径2格的余烬持续6秒，每秒造成基础特殊伤害的25%，重叠不重复。应对：将后续锁定攻击引入旧余烬，或控制施放者。收益：消耗余烬并取消攻击，施放者失衡8秒。</RHA_Tactic_Brief_flame>
+  <RHA_Tactic_Brief_blood>威胁：累计实际伤害达到躯干最大生命20%后狂攻8秒，每阶段一次。应对：爆发、承伤反击或控制拖过；五阶狂攻错峰。收益：狂攻期间承伤提高25%。</RHA_Tactic_Brief_blood>
+  <RHA_Tactic_Brief_titan>威胁：近距离且站定的敌人形成最多20%减伤的阵型。应对：移动拆散、控制支点或集中实际伤害。收益：崩解后失衡8秒，承伤提高25%。</RHA_Tactic_Brief_titan>
+  <RHA_Tactic_Brief_frost>威胁：凝霜时防御提高、移动减慢。应对：持续输出或为解冻保留爆发；五阶错峰。收益：解冻承伤提高25%。阶段至少30秒。</RHA_Tactic_Brief_frost>
+  <RHA_Tactic_Brief_blade>威胁：标记朝向的正面防御。应对：侧后攻击或控制。收益：破势失衡8秒，承伤提高25%；本阶段不重建。</RHA_Tactic_Brief_blade>
+  <RHA_Tactic_Brief_marksman>威胁：压制者保护射击者的输出。应对：集火或控制压制者，利用掩体。收益：射击者当前蓄力取消，失衡8秒，承伤提高25%。</RHA_Tactic_Brief_marksman>
+  <RHA_Tactic_Brief_spirit>威胁：副手的魂契保护主力。应对：集火或控制副手。收益：主力失衡8秒，承伤提高25%。只在存活敌人间转移，死亡者不复活。</RHA_Tactic_Brief_spirit>
+  <RHA_Tactic_Brief_guardian>威胁：追击当前保护目标。应对：申请者对威胁的实际伤害、有效治疗或实际护盾吸收。收益：共用阶段阈值，触发8秒反击窗口。单人时保护自己；原报名保护对象须存活。</RHA_Tactic_Brief_guardian>
+</LanguageData>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RHA_Star030_ShieldHelp>Barriers from different sources add together. A node refreshes its own layer instead of stacking repeated casts. Among eligible layers, the earliest expiry is spent first. Range and absorption triggers follow each source's description.</RHA_Star030_ShieldHelp>
+  <RHA_Star030_ShieldLine>{0} ({1}): {2} points, {3} remaining</RHA_Star030_ShieldLine>
+  <RHA_Star030_UnknownAuthor>source unavailable</RHA_Star030_UnknownAuthor>
+  <RHA_Star030_ShieldTotal>Layered barriers: {0} points. See Health for each source and expiry.</RHA_Star030_ShieldTotal>
+  <RHA_Star030_ShieldCombined>Shield {0} · {1} normal + {2} layered</RHA_Star030_ShieldCombined>
+</LanguageData>

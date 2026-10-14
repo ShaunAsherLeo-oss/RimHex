@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Defs>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_A25_parry</defName>
+    <label>Momentary Guard</label>
+    <description>Grants Guard Stance and Riposte. Guard for 2 seconds against one enemy direct hit, blocking up to 12 damage. Existing Hex shields are spent first; remaining damage passes through guard, then armor. A successful block stores one riposte for 4 seconds: deal 10 base ability damage to an enemy within 2 cells. Guard may start once per 12 seconds regardless of haste or cooldown refunds. Damage over time, self or friendly damage, explosions and this mod's secondary damage cannot trigger it. Manual only. These are base-form values; inspect the build panel and health status for the selected branch.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Guard and mines</theme>
+    <weight>100</weight>
+    <maxStacks>1</maxStacks>
+    <iconPath>RimHex/Cards/RHA_A25_parry</iconPath>
+    <grantsSkills>
+      <li>Guard025</li>
+      <li>Counter025</li>
+    </grantsSkills>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_A25_mine</defName>
+    <label>Prismatic Mines</label>
+    <description>Grants Deploy Mine, Detonate Mine and Disarm Mine. Place a temporary device in an empty cell within 12 cells. Arms after 1 second and lasts 30 seconds. Up to 3 per owner and 12 per map; deploy once per 6 seconds regardless of haste or refunds. An enemy within 1.5 cells and clear sight starts a half-second warning, then the blast deals 10 extra base damage to up to 4 enemies within 2 cells. Walls block it. Manually detonate armed mines or disarm untriggered ones; disarming returns no items and resets no cooldown. Removed when the owner dies or leaves the map. These are base-form values; inspect the build panel and health status for the selected branch.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Guard and mines</theme>
+    <weight>100</weight>
+    <maxStacks>1</maxStacks>
+    <iconPath>RimHex/Cards/RHA_A25_mine</iconPath>
+    <grantsSkills>
+      <li>Mine025</li>
+      <li>Trigger025</li>
+      <li>Disarm025</li>
+    </grantsSkills>
+  </RimHex.HexAugmentDef>
+</Defs>

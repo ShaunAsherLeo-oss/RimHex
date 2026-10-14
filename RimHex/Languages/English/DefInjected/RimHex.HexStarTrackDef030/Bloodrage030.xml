@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_STAR_Relic_Bloodrage.nodes.0.label>Bloodied Resolve</RHA_STAR_Relic_Bloodrage.nodes.0.label>
+  <RHA_STAR_Relic_Bloodrage.nodes.0.description>Retains original missing-health damage, health and defense. Later nodes count a wounded hit only when your overall health is 65% or lower at ordinary attack resolution and actual damage is dealt to a standing enemy. They do not drain health or use bleeding rate. Progression stays with the item.</RHA_STAR_Relic_Bloodrage.nodes.0.description>
+  <RHA_STAR_Relic_Bloodrage.nodes.1.label>Wounded Surge</RHA_STAR_Relic_Bloodrage.nodes.1.label>
+  <RHA_STAR_Relic_Bloodrage.nodes.1.description>A wounded hit deals 75 bonus damage, once per 8 seconds. Abilities and secondary damage do not trigger it. Base rewards: damage 75.</RHA_STAR_Relic_Bloodrage.nodes.1.description>
+  <RHA_STAR_Relic_Bloodrage.nodes.2.label>Bloodied Stand</RHA_STAR_Relic_Bloodrage.nodes.2.label>
+  <RHA_STAR_Relic_Bloodrage.nodes.2.description>A wounded hit shields you for 50 base points over 3 seconds, once per 8 seconds. The shield neither raises health percentage nor heals injuries. Base rewards: shield 50.</RHA_STAR_Relic_Bloodrage.nodes.2.description>
+  <RHA_STAR_Relic_Bloodrage.nodes.3.label>Breath in Battle</RHA_STAR_Relic_Bloodrage.nodes.3.label>
+  <RHA_STAR_Relic_Bloodrage.nodes.3.description>After Wounded Surge deals actual bonus damage, heal 20 base points of your recoverable injuries, once per 8 seconds. Permanent scars and missing parts are not restored. Base rewards: healing 20.</RHA_STAR_Relic_Bloodrage.nodes.3.description>
+  <RHA_STAR_Relic_Bloodrage.nodes.4.label>Bloodied Cleave</RHA_STAR_Relic_Bloodrage.nodes.4.label>
+  <RHA_STAR_Relic_Bloodrage.nodes.4.description>After Wounded Surge deals actual bonus damage, strike one other enemy within 3 cells of the impact and clear sight for 25 damage, once per 8 seconds. Never substitutes the original target. Base rewards: damage 25.</RHA_STAR_Relic_Bloodrage.nodes.4.description>
+  <RHA_STAR_Relic_Bloodrage.nodes.5.label>Bloodbound Cover</RHA_STAR_Relic_Bloodrage.nodes.5.label>
+  <RHA_STAR_Relic_Bloodrage.nodes.5.description>A wounded hit also shields the nearest other eligible colonist within 4 cells and clear sight for 50 base points over 3 seconds, once per 8 seconds. Resolves separately and never substitutes you when no ally is eligible. Base rewards: shield 50.</RHA_STAR_Relic_Bloodrage.nodes.5.description>
+  <RHA_STAR_Relic_Bloodrage.nodes.6.label>Unbroken Momentum</RHA_STAR_Relic_Bloodrage.nodes.6.label>
+  <RHA_STAR_Relic_Bloodrage.nodes.6.description>A wounded hit stores one charge of momentum for 5 seconds. A later ordinary hit consumes it for 50 bonus damage, even after recovering above 65% health. One charge maximum, with an 8-second creation cooldown. Base rewards: damage 50.</RHA_STAR_Relic_Bloodrage.nodes.6.description>
+</LanguageData>

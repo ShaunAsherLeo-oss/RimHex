@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_TrialBlessings.label>试炼祝福</RHA_TrialBlessings.label>
+  <RHA_TrialBlessings.description>本场无尽试炼中共同获得的临时强化。移出试炼地图、停止战斗或结束试炼后不生效。</RHA_TrialBlessings.description>
+  <RHA_ColonyEmpowerment.label>殖民地强化</RHA_ColonyEmpowerment.label>
+  <RHA_ColonyEmpowerment.description>共享的殖民地强化正在生效。悬停查看卡牌来源与层数。</RHA_ColonyEmpowerment.description>
+  <RHA_HeroEmpowerment.label>个人强化</RHA_HeroEmpowerment.label>
+  <RHA_HeroEmpowerment.description>属于这名殖民者的永久强化。选择“强化详情”查看完整构筑。</RHA_HeroEmpowerment.description>
+  <RHA_RelicEmpowerment.label>遗物共鸣</RHA_RelicEmpowerment.label>
+  <RHA_RelicEmpowerment.description>当前穿戴的棱彩遗物正在提供力量。脱下遗物会失去对应效果。</RHA_RelicEmpowerment.description>
+  <RHA_ActiveBarrier.label>棱彩护盾</RHA_ActiveBarrier.label>
+  <RHA_ActiveBarrier.description>先于身体承受伤害。剩余点数和持续时间会实时更新，耗尽或到期后消失。</RHA_ActiveBarrier.description>
+  <RHA_StormMark.label>雷暴印记</RHA_StormMark.label>
+  <RHA_StormMark.description>带有施加者的雷暴印记，死亡时可能引发雷暴网络。</RHA_StormMark.description>
+  <RHA_Weakness.label>缩小射线</RHA_Weakness.label>
+  <RHA_Weakness.description>造成的伤害降低。再次施加会刷新持续时间，不改变身体尺寸。</RHA_Weakness.description>
+  <RHA_StackBurn.label>炼狱叠火</RHA_StackBurn.label>
+  <RHA_StackBurn.description>持续命中累积火焰伤害，每秒一次，刷新为六次。每名施加者各自保存伤害与归属。</RHA_StackBurn.description>
+  <RHA_HamstringBleed.label>断筋流血</RHA_HamstringBleed.label>
+  <RHA_HamstringBleed.description>暴击累积的流血每秒造成一次穿甲伤害，持续时减慢移动。</RHA_HamstringBleed.description>
+  <RHA_ReferenceSlow.label>雷击减速</RHA_ReferenceSlow.label>
+  <RHA_ReferenceSlow.description>移动速度降低 30%，持续五秒。</RHA_ReferenceSlow.description>
+  <RHA_Exposure.label>食肉易伤</RHA_Exposure.label>
+  <RHA_Exposure.description>每层多承受 10% 对敌直接伤害，最多十层。</RHA_Exposure.description>
+  <RHA_BattleSkills.label>流派战技</RHA_BattleSkills.label>
+  <RHA_BattleSkills.description>基础进化解锁的招牌战技。悬停查看冷却，在构筑面板设置自动施放。</RHA_BattleSkills.description>
+  <RHA_SkillOverclock.label>天工超载</RHA_SkillOverclock.label>
+  <RHA_SkillOverclock.description>全局工作速度乘 4；研究、采矿和植物工作速度最终乘 16。剩余时间结束或工业流派休眠后移除。</RHA_SkillOverclock.description>
+  <RHA_HexBurn.label>海克斯灼烧</RHA_HexBurn.label>
+  <RHA_HexBurn.description>持续承受棱彩火焰的穿甲伤害，每秒一次。再次命中会刷新为剩余四次；同时存在的灼烧取较强者，不点燃建筑或地面。</RHA_HexBurn.description>
+  <RHA_TrialEnemy.label>试炼幻影</RHA_TrialEnemy.label>
+  <RHA_TrialEnemy.description>由试炼信标凝聚的敌人。能力、难度与首领招式随当前试炼保存。</RHA_TrialEnemy.description>
+</LanguageData>

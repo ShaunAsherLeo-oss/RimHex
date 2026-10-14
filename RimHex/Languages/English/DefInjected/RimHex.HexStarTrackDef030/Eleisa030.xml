@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_STAR_Relic_REF_Eleisa.nodes.0.label>Miracle Inheritance</RHA_STAR_Relic_REF_Eleisa.nodes.0.label>
+  <RHA_STAR_Relic_REF_Eleisa.nodes.0.description>Retains original 3 base recovery per second and increased received RimHex healing and shields as health is lost. Branches count only your own RimHex effects actually restoring your recoverable injuries. Full health, shields, permanent scars, healing from others and node bonus healing do not count. Grants no abilities.</RHA_STAR_Relic_REF_Eleisa.nodes.0.description>
+  <RHA_STAR_Relic_REF_Eleisa.nodes.1.label>Recovery Ward</RHA_STAR_Relic_REF_Eleisa.nodes.1.label>
+  <RHA_STAR_Relic_REF_Eleisa.nodes.1.description>After you actually restore your own recoverable injuries, gain 50 base shield for 3 seconds, once per 8 seconds. The original missing-health bonus applies to this shield. With no actual recovery, no shield is granted. Base rewards: shield 50.</RHA_STAR_Relic_REF_Eleisa.nodes.1.description>
+  <RHA_STAR_Relic_REF_Eleisa.nodes.2.label>Shared Recovery</RHA_STAR_Relic_REF_Eleisa.nodes.2.label>
+  <RHA_STAR_Relic_REF_Eleisa.nodes.2.description>After you actually restore your own recoverable injuries twice within 10 seconds, heal 20 base points on the most injured other colonist within 4 cells and clear sight, once per 8 seconds. With no injured ally, no healing is redirected to you. Base rewards: healing 20.</RHA_STAR_Relic_REF_Eleisa.nodes.2.description>
+  <RHA_STAR_Relic_REF_Eleisa.nodes.3.label>Recovery Reprisal</RHA_STAR_Relic_REF_Eleisa.nodes.3.label>
+  <RHA_STAR_Relic_REF_Eleisa.nodes.3.description>After this relic's Recovery Ward actually absorbs an enemy hit, mark that attacker for 4 seconds, once per 8 seconds, with one mark maximum. Your later ordinary hit on that enemy consumes it for 50 base damage. Other shields and secondary damage do not count. Base rewards: damage 50.</RHA_STAR_Relic_REF_Eleisa.nodes.3.description>
+  <RHA_STAR_Relic_REF_Eleisa.nodes.4.label>Ward Relief</RHA_STAR_Relic_REF_Eleisa.nodes.4.label>
+  <RHA_STAR_Relic_REF_Eleisa.nodes.4.description>After this relic's Recovery Ward actually absorbs an enemy hit, heal 20 base points on the most injured other colonist within 4 cells and clear sight, once per 8 seconds. Other shields, shield generation and attacks that absorb no damage do not count. Base rewards: healing 20.</RHA_STAR_Relic_REF_Eleisa.nodes.4.description>
+  <RHA_STAR_Relic_REF_Eleisa.nodes.5.label>Recovery Comrades</RHA_STAR_Relic_REF_Eleisa.nodes.5.label>
+  <RHA_STAR_Relic_REF_Eleisa.nodes.5.description>After Shared Recovery actually restores extra injuries, shield the nearest other colonist within 4 cells and clear sight for 50 base points over 3 seconds, once per 8 seconds. Never shields you instead. Base rewards: shield 50.</RHA_STAR_Relic_REF_Eleisa.nodes.5.description>
+  <RHA_STAR_Relic_REF_Eleisa.nodes.6.label>Recovery Return</RHA_STAR_Relic_REF_Eleisa.nodes.6.label>
+  <RHA_STAR_Relic_REF_Eleisa.nodes.6.description>After Shared Recovery actually restores extra injuries, shield yourself for 50 base points over 3 seconds, once per 8 seconds. This shield cannot trigger Recovery Ward's reprisal or relief branches. Base rewards: shield 50.</RHA_STAR_Relic_REF_Eleisa.nodes.6.description>
+</LanguageData>

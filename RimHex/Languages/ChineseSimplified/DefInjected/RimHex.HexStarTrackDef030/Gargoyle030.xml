@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_STAR_Relic_REF_Gargoyle.nodes.0.label>石像苏醒</RHA_STAR_Relic_REF_Gargoyle.nodes.0.label>
+  <RHA_STAR_Relic_REF_Gargoyle.nodes.0.description>保留石像鬼石板甲及原主动护盾。进阶不重复增加原属性，也不因开启护盾而获得额外收益。</RHA_STAR_Relic_REF_Gargoyle.nodes.0.description>
+  <RHA_STAR_Relic_REF_Gargoyle.nodes.1.label>蓄势还击</RHA_STAR_Relic_REF_Gargoyle.nodes.1.label>
+  <RHA_STAR_Relic_REF_Gargoyle.nodes.1.description>本人的护盾实际吸收敌人伤害后，储存一次5秒反击机会，冷却8秒。后续普通命中消耗机会，追加75点伤害。最多储存一次，未使用则到期消失。 基础收益：伤害 75。</RHA_STAR_Relic_REF_Gargoyle.nodes.1.description>
+  <RHA_STAR_Relic_REF_Gargoyle.nodes.2.label>守望援手</RHA_STAR_Relic_REF_Gargoyle.nodes.2.label>
+  <RHA_STAR_Relic_REF_Gargoyle.nodes.2.description>本人的护盾实际吸收敌人伤害后，治疗4格内视线畅通、伤势最重的另一名殖民者40点基础伤势，冷却8秒。没有伤势时不治疗，不恢复缺失部位或永久伤疤。 基础收益：治疗 40。</RHA_STAR_Relic_REF_Gargoyle.nodes.2.description>
+  <RHA_STAR_Relic_REF_Gargoyle.nodes.3.label>碎石飞溅</RHA_STAR_Relic_REF_Gargoyle.nodes.3.label>
+  <RHA_STAR_Relic_REF_Gargoyle.nodes.3.description>蓄势还击实际造成追加伤害后，打击受击点3格内视线畅通的另一名敌人，造成25点伤害，冷却8秒。没有第二名敌人时不重复攻击原目标。 基础收益：伤害 25。</RHA_STAR_Relic_REF_Gargoyle.nodes.3.description>
+  <RHA_STAR_Relic_REF_Gargoyle.nodes.4.label>石躯修复</RHA_STAR_Relic_REF_Gargoyle.nodes.4.label>
+  <RHA_STAR_Relic_REF_Gargoyle.nodes.4.description>蓄势还击实际造成追加伤害后，治疗本人20点可恢复伤势，冷却8秒。不恢复缺失部位或永久伤疤。 基础收益：治疗 20。</RHA_STAR_Relic_REF_Gargoyle.nodes.4.description>
+  <RHA_STAR_Relic_REF_Gargoyle.nodes.5.label>守望回护</RHA_STAR_Relic_REF_Gargoyle.nodes.5.label>
+  <RHA_STAR_Relic_REF_Gargoyle.nodes.5.description>守望援手实际治疗队友后，为本人提供25点独立护盾，持续3秒，冷却8秒。空治疗及其他来源治疗不触发。 基础收益：护盾 25。</RHA_STAR_Relic_REF_Gargoyle.nodes.5.description>
+  <RHA_STAR_Relic_REF_Gargoyle.nodes.6.label>翼下庇护</RHA_STAR_Relic_REF_Gargoyle.nodes.6.label>
+  <RHA_STAR_Relic_REF_Gargoyle.nodes.6.description>守望援手实际治疗队友后，为本人4格内视线畅通、最近的另一名殖民者提供50点护盾，持续3秒，冷却8秒。护盾独立选取目标，可能与治疗对象不同。 基础收益：护盾 50。</RHA_STAR_Relic_REF_Gargoyle.nodes.6.description>
+</LanguageData>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_STAR_Relic_Archangel.nodes.0.label>Angelic Inheritance</RHA_STAR_Relic_Archangel.nodes.0.label>
+  <RHA_STAR_Relic_Archangel.nodes.0.description>Retains the staff's regeneration, group healing, health and soul gathering. Later healing nodes require your RimHex effects to restore actual recoverable injuries. Full-health targets, shields, missing parts and permanent scars do not count. Grants no abilities.</RHA_STAR_Relic_Archangel.nodes.0.description>
+  <RHA_STAR_Relic_Archangel.nodes.1.label>Healing Circulation</RHA_STAR_Relic_Archangel.nodes.1.label>
+  <RHA_STAR_Relic_Archangel.nodes.1.description>Heal two different recipients consecutively, no more than 4 seconds apart, to heal 20 base points of recoverable injuries on the most injured other colonist within 4 cells and clear sight, once per 8 seconds. Your original healing may include yourself. Repeated recipients neither count nor extend the timer. Base rewards: healing 20.</RHA_STAR_Relic_Archangel.nodes.1.description>
+  <RHA_STAR_Relic_Archangel.nodes.2.label>Soul-fed Recovery</RHA_STAR_Relic_Archangel.nodes.2.label>
+  <RHA_STAR_Relic_Archangel.nodes.2.description>Actually gaining permanent souls stores one recovery for 10 seconds, once per 8 seconds, with one stored maximum. After you heal another colonist within 4 cells and clear sight, consume it to heal 20 more base point if that recipient still has recoverable injuries. Does not spend permanent souls or pay out from self-healing. Base rewards: healing 20.</RHA_STAR_Relic_Archangel.nodes.2.description>
+  <RHA_STAR_Relic_Archangel.nodes.3.label>Circling Solace</RHA_STAR_Relic_Archangel.nodes.3.label>
+  <RHA_STAR_Relic_Archangel.nodes.3.description>After Healing Circulation actually restores injuries, heal 20 base points of your own recoverable injuries, once per 8 seconds. With no injuries, the healing is not stored. Base rewards: healing 20.</RHA_STAR_Relic_Archangel.nodes.3.description>
+  <RHA_STAR_Relic_Archangel.nodes.4.label>Circling Wings</RHA_STAR_Relic_Archangel.nodes.4.label>
+  <RHA_STAR_Relic_Archangel.nodes.4.description>After Healing Circulation actually restores injuries, shield the nearest other colonist within 4 cells and clear sight for 50 base points over 3 seconds, once per 8 seconds. Never shields you instead. Base rewards: shield 50.</RHA_STAR_Relic_Archangel.nodes.4.description>
+  <RHA_STAR_Relic_Archangel.nodes.5.label>Recovery Aegis</RHA_STAR_Relic_Archangel.nodes.5.label>
+  <RHA_STAR_Relic_Archangel.nodes.5.description>After Soul-fed Recovery actually restores extra injuries, shield yourself for 50 base points over 3 seconds, once per 8 seconds. Gaining souls or storing a recovery grants no shield. Base rewards: shield 50.</RHA_STAR_Relic_Archangel.nodes.5.description>
+  <RHA_STAR_Relic_Archangel.nodes.6.label>Shared Afterglow</RHA_STAR_Relic_Archangel.nodes.6.label>
+  <RHA_STAR_Relic_Archangel.nodes.6.description>After Soul-fed Recovery actually restores extra injuries, heal 20 base points on the most injured other colonist within 4 cells and clear sight, once per 8 seconds. It may be the original recipient, but never heals you. Base rewards: healing 20.</RHA_STAR_Relic_Archangel.nodes.6.description>
+</LanguageData>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <HediffDef>
+    <defName>RHA_StarCadenceCore</defName><label>crossfire core</label>
+    <description>Fires along a locked lane, then sweeps across the original target position. Each beat has its own warning; neither follows your movement. Focus fire or existing control can interrupt the sequence. Interrupting, dodging or fully shielding both beats exposes the core for 4 seconds, increasing damage taken by 25%. If a beat inflicts wounds, the opening lasts 1.5 seconds instead. Ordinary weapons and movement are enough; no machinery or special skill is required. Earn personal damage or actual shield and healing contribution before defeating the core.</description>
+    <hediffClass>RimHex.Hediff_HexStarConduit030</hediffClass><isBad>false</isBad>
+  </HediffDef>
+  <JobDef><defName>RHA_StarCadence</defName><driverClass>RimHex.JobDriver_HexStarCadence030</driverClass><reportString>preparing a two-beat crossfire.</reportString><casualInterruptible>false</casualInterruptible></JobDef>
+</Defs>

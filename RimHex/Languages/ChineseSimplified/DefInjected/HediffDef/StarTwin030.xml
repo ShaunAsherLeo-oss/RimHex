@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<RHA_StarTwinBlade.label>刃核</RHA_StarTwinBlade.label><RHA_StarTwinBlade.description>双核相互连通时减伤25%。攻击一方会为另一方的反击充能。转火打断正在蓄力的一方，或利用距离、掩体切断蓄力时的连线，可让双核在4秒内受到额外25%伤害。两者始终可以受伤；击败一方后不会复活，剩余一方继续使用自己的短距宽幅或长距窄幅轰击。个人伤害、护盾和治疗共用每名敌人的贡献额度，无需操作机关或学习额外技能。</RHA_StarTwinBlade.description>
+<RHA_StarTwinLance.label>枪核</RHA_StarTwinLance.label><RHA_StarTwinLance.description>双核相互连通时减伤25%。攻击一方会为另一方的反击充能。转火打断正在蓄力的一方，或利用距离、掩体切断蓄力时的连线，可让双核在4秒内受到额外25%伤害。两者始终可以受伤；击败一方后不会复活，剩余一方继续使用自己的短距宽幅或长距窄幅轰击。个人伤害、护盾和治疗共用每名敌人的贡献额度，无需操作机关或学习额外技能。</RHA_StarTwinLance.description>
+</LanguageData>

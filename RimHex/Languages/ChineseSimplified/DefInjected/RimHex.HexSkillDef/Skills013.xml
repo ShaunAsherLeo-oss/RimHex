@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_Skill_Spin013.label>环刃突进</RHA_Skill_Spin013.label>
+  <RHA_Skill_Spin013.description>突进到 8 格内的合法位置，旋转攻击周围 3.2 格内最多 16 名敌人，基础伤害 22 点。受伤害加成和护甲影响。</RHA_Skill_Spin013.description>
+  <RHA_Skill_Blink013.label>折跃</RHA_Skill_Blink013.label>
+  <RHA_Skill_Blink013.description>瞬移到视线内 8 格的合法空位。仅由对应强化卡授予。</RHA_Skill_Blink013.description>
+  <RHA_Skill_Hunt013.label>追猎标记</RHA_Skill_Hunt013.label>
+  <RHA_Skill_Hunt013.description>锁定一名可见敌人，跃至 10 格内的相邻空位并攻击，基础物理伤害 32 点。</RHA_Skill_Hunt013.description>
+  <RHA_Skill_Return013.label>归位</RHA_Skill_Return013.label>
+  <RHA_Skill_Return013.description>位移后 3.25 秒内，手动返回 12 格内上一次合法起点。不会跨地图或穿过不透明障碍。</RHA_Skill_Return013.description>
+</LanguageData>

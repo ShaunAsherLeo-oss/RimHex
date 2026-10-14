@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_STAR_Skill_Aid015.nodes.0.label>救护脉动</RHA_STAR_Skill_Aid015.nodes.0.label>
+  <RHA_STAR_Skill_Aid015.nodes.0.description>先通过对应强化卡学会援护脉冲。保留原治疗、护盾、射程和冷却。后续节点只认可这项战技实际治好的可恢复伤势；对健康目标提供原有护盾不会触发。</RHA_STAR_Skill_Aid015.nodes.0.description>
+  <RHA_STAR_Skill_Aid015.nodes.1.label>救护者屏障</RHA_STAR_Skill_Aid015.nodes.1.label>
+  <RHA_STAR_Skill_Aid015.nodes.1.description>援护脉冲实际治疗后，为本人提供50点基础护盾，持续3秒，冷却8秒。保留已有治疗与护盾倍率。 基础收益：护盾 50。</RHA_STAR_Skill_Aid015.nodes.1.description>
+  <RHA_STAR_Skill_Aid015.nodes.2.label>接续救治</RHA_STAR_Skill_Aid015.nodes.2.label>
+  <RHA_STAR_Skill_Aid015.nodes.2.description>援护脉冲实际治疗后，再治疗本人4格内视线畅通、伤势最重的另一名殖民者20点基础伤势，冷却8秒。可以继续治疗尚未痊愈的原患者，不选择本人。 基础收益：治疗 20。</RHA_STAR_Skill_Aid015.nodes.2.description>
+  <RHA_STAR_Skill_Aid015.nodes.3.label>救护反击</RHA_STAR_Skill_Aid015.nodes.3.label>
+  <RHA_STAR_Skill_Aid015.nodes.3.description>援护脉冲实际治疗后，储存一次5秒反击，最多一次，生成冷却8秒。本人后续普通命中消耗反击，追加50点伤害；追加伤害不能重新触发。 基础收益：伤害 50。</RHA_STAR_Skill_Aid015.nodes.3.description>
+  <RHA_STAR_Skill_Aid015.nodes.4.label>并肩救护</RHA_STAR_Skill_Aid015.nodes.4.label>
+  <RHA_STAR_Skill_Aid015.nodes.4.description>援护脉冲实际治疗后，为本人4格内视线畅通、最近的另一名殖民者提供50点基础护盾，持续3秒，冷却8秒。没有合适队友时不转给本人。 基础收益：护盾 50。</RHA_STAR_Skill_Aid015.nodes.4.description>
+  <RHA_STAR_Skill_Aid015.nodes.5.label>互助回补</RHA_STAR_Skill_Aid015.nodes.5.label>
+  <RHA_STAR_Skill_Aid015.nodes.5.description>接续救治实际治好另一名殖民者后，治疗本人20点基础可恢复伤势，冷却8秒。没有后续伤员或没有实际追加治疗时不触发。 基础收益：治疗 20。</RHA_STAR_Skill_Aid015.nodes.5.description>
+  <RHA_STAR_Skill_Aid015.nodes.6.label>救治护身</RHA_STAR_Skill_Aid015.nodes.6.label>
+  <RHA_STAR_Skill_Aid015.nodes.6.description>接续救治实际治好另一名殖民者后，为本人提供50点基础护盾，持续3秒，冷却8秒。仅原战技治疗成功还不够。 基础收益：护盾 50。</RHA_STAR_Skill_Aid015.nodes.6.description>
+</LanguageData>

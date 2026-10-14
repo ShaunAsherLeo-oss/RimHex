@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_Equipment038_Cleared>Cleansed {0} abnormal states</RHA_Equipment038_Cleared>
+  <RHA_Equipment038_NoControl>No abnormal state to cleanse</RHA_Equipment038_NoControl>
+  <RHA_Equipment038_Charge>Charge {0}/100 · discharge ready in {1}s</RHA_Equipment038_Charge>
+  <RHA_Equipment038_CounterReady>Released counter ready</RHA_Equipment038_CounterReady>
+  <RHA_Pair038_Pledged>Pledged to {0}</RHA_Pair038_Pledged>
+  <RHA_Pair038_Partner>Pledged ally: {0}</RHA_Pair038_Partner>
+  <RHA_Pair038_PartnerDormant>Pledged ally: {0} (too far; suspended)</RHA_Pair038_PartnerDormant>
+  <RHA_Pair038_Stasis>Time stasis</RHA_Pair038_Stasis>
+  <RHA_Pair038_StasisBlocked>Cannot act during stasis</RHA_Pair038_StasisBlocked>
+  <RHA_Pair038_Unable>Must be awake and able to act</RHA_Pair038_Unable>
+  <RHA_Pair038_EnemyPending>Paired source enemy admission pending</RHA_Pair038_EnemyPending>
+</LanguageData>

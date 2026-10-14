@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RHA_StarArenaBase.label>试炼地基</RHA_StarArenaBase.label>
+  <RHA_StarArenaBase.description>试炼场的坚固地基，不产出建材。</RHA_StarArenaBase.description>
+  <RHA_StarArenaPaving.label>试炼铺地</RHA_StarArenaPaving.label>
+  <RHA_StarArenaPaving.description>交战通路周围的旧铺地，不产出建材。</RHA_StarArenaPaving.description>
+  <RHA_StarArenaLane.label>试炼通路</RHA_StarArenaLane.label>
+  <RHA_StarArenaLane.description>穿过试炼场的开阔通路，不产出建材。</RHA_StarArenaLane.description>
+</LanguageData>

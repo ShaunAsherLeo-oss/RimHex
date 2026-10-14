@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RHA_TrinityLabor037.label>工学模块</RHA_TrinityLabor037.label>
+  <RHA_TrinityLabor037.description>三相奇点最多保存六个由有效工作获得的模块。普通攻击消耗一个模块，附加穿甲伤害并积累返工工时。实际生产或建造时，返工额外推进当前任务。换装保留个人模块与工时账。</RHA_TrinityLabor037.description>
+</LanguageData>

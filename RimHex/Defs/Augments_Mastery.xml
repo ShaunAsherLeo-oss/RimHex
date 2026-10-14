@@ -1,0 +1,315 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Defs>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_M8_f_thunderfire</defName>
+    <label>Thunderfire calamity</label>
+    <description>Chain hits create at most one thunderfire field per second, with a 3.5-cell radius and a 4-second duration. Each second it deals 29.25 + 6.5 × chain level additional damage and applies burns to up to 16 enemies. Enemies dying with the wearer's burn release a 6-cell thunderburst, hitting up to 12 enemies for 65 + 13 × burn level damage. Thunderburst cooldown: 1 second.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Path fusion</theme>
+    <weight>180</weight>
+    <maxStacks>1</maxStacks>
+    <iconPath>RimHex/Cards/RHA_M8_f_thunderfire</iconPath>
+    <evolutionEffect>m8_f_thunderfire</evolutionEffect>
+    <masterySources>3</masterySources>
+    <ultimate>false</ultimate>
+    <masteryPaths>
+      <li>RHA_Path_Thunder</li>
+      <li>RHA_Path_Flame</li>
+    </masteryPaths>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_M8_f_bloodguard</defName>
+    <label>Bloodforged covenant</label>
+    <description>Actual healing refreshes a shield on the recipient equal to 97.5% of healing dealt, lasting 10 seconds. After absorbing 200 shield damage, heals up to 12 free colonists within 10 cells for 39 ordinary injury points each. Cooldown: 1 second. This healing does not retrigger these healing interactions.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Path fusion</theme>
+    <weight>180</weight>
+    <maxStacks>1</maxStacks>
+    <iconPath>RimHex/Cards/RHA_M8_f_bloodguard</iconPath>
+    <evolutionEffect>m8_f_bloodguard</evolutionEffect>
+    <masterySources>3</masterySources>
+    <ultimate>false</ultimate>
+    <masteryPaths>
+      <li>RHA_Path_Blood</li>
+      <li>RHA_Path_Guardian</li>
+    </masteryPaths>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_M8_f_frostshot</defName>
+    <label>Frozen kill zone</label>
+    <description>Direct hits against frost-slowed or stunned enemies release a 4-cell frost blast at the target, dealing 117 + 48.75% of this hit's direct damage to up to 6 enemies. Cooldown: 3 seconds. Copied damage uses its resolved value; flat bonus damage can still be amplified.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Path fusion</theme>
+    <weight>180</weight>
+    <maxStacks>1</maxStacks>
+    <iconPath>RimHex/Cards/RHA_M8_f_frostshot</iconPath>
+    <evolutionEffect>m8_f_frostshot</evolutionEffect>
+    <masterySources>3</masterySources>
+    <ultimate>false</ultimate>
+    <masteryPaths>
+      <li>RHA_Path_Frost</li>
+      <li>RHA_Path_Marksman</li>
+    </masteryPaths>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_M8_f_soulblade</defName>
+    <label>Soulblade dance</label>
+    <description>Every third valid direct hit releases soulblades at up to 3 enemies within 8 cells of the target. Each deals 52 + 1.3 × soul marks + 19.5% of this hit's direct damage. Cooldown: 2 seconds. Copied damage uses its resolved value; flat bonus damage can still be amplified. Each permanent growth effect retains its full benefit through 100 points, then has diminishing returns.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Path fusion</theme>
+    <weight>180</weight>
+    <maxStacks>1</maxStacks>
+    <iconPath>RimHex/Cards/RHA_M8_f_soulblade</iconPath>
+    <evolutionEffect>m8_f_soulblade</evolutionEffect>
+    <masterySources>3</masterySources>
+    <ultimate>false</ultimate>
+    <masteryPaths>
+      <li>RHA_Path_Blade</li>
+      <li>RHA_Path_Spirit</li>
+    </masteryPaths>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_M8_f_goldforge</defName>
+    <label>Golden foundry</label>
+    <description>Delivers 520 steel, 52 plasteel and 13 gold to the colony each day.</description>
+    <scope>Colony</scope>
+    <tier>Prismatic</tier>
+    <theme>Path fusion</theme>
+    <weight>180</weight>
+    <maxStacks>1</maxStacks>
+    <iconPath>RimHex/Cards/RHA_M8_f_goldforge</iconPath>
+    <evolutionEffect>m8_f_goldforge</evolutionEffect>
+    <masterySources>3</masterySources>
+    <ultimate>false</ultimate>
+    <masteryPaths>
+      <li>RHA_Path_Wealth</li>
+      <li>RHA_Path_Industry</li>
+    </masteryPaths>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_M8_f_lifeforge</defName>
+    <label>Bountiful workshop</label>
+    <description>All colonists gain 130% plant work speed and mining speed. Provides 13 medicine, 78 chemfuel and 26 fine meals each day.</description>
+    <scope>Colony</scope>
+    <tier>Prismatic</tier>
+    <theme>Path fusion</theme>
+    <weight>180</weight>
+    <maxStacks>1</maxStacks>
+    <iconPath>RimHex/Cards/RHA_M8_f_lifeforge</iconPath>
+    <evolutionEffect>m8_f_lifeforge</evolutionEffect>
+    <masterySources>3</masterySources>
+    <ultimate>false</ultimate>
+    <masteryPaths>
+      <li>RHA_Path_Industry</li>
+      <li>RHA_Path_Harvest</li>
+    </masteryPaths>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_M8_u_thunder</defName>
+    <label>Lord of thunder</label>
+    <description>Adds 2.6 chain levels. Every fourth valid direct hit calls lightning onto up to 10 enemies within 18 cells of the target, dealing 130 + 16.25 × chain level additional damage each. Cooldown: 3 seconds.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Ultimate evolution</theme>
+    <weight>180</weight>
+    <maxStacks>1</maxStacks>
+    <iconPath>RimHex/Cards/RHA_M8_u_thunder</iconPath>
+    <evolutionEffect>m8_u_thunder</evolutionEffect>
+    <masterySources>6</masterySources>
+    <ultimate>true</ultimate>
+    <masteryPaths>
+      <li>RHA_Path_Thunder</li>
+    </masteryPaths>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_M8_u_flame</defName>
+    <label>World-burning sun</label>
+    <description>Adds 2.6 burn levels. Every fifth valid direct hit leaves a 6-cell Sunfire field at the target for 6 seconds. Each second it deals 52 + 13 × burn level additional damage and applies burns to up to 16 enemies. Cooldown: 5 seconds.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Ultimate evolution</theme>
+    <weight>180</weight>
+    <maxStacks>1</maxStacks>
+    <iconPath>RimHex/Cards/RHA_M8_u_flame</iconPath>
+    <evolutionEffect>m8_u_flame</evolutionEffect>
+    <masterySources>6</masterySources>
+    <ultimate>true</ultimate>
+    <masteryPaths>
+      <li>RHA_Path_Flame</li>
+    </masteryPaths>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_M8_u_blood</defName>
+    <label>Undying blood emperor</label>
+    <description>Adds 65% direct lifesteal. Every 200 points of actual healing releases a blood tide if enemies are within 8 cells. Deals 130 + 16.25 × the wearer's health multiplier damage to up to 12 enemies and heals up to 12 free colonists within 10 cells for 65 ordinary injury points each. Cooldown: 3 seconds.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Ultimate evolution</theme>
+    <weight>180</weight>
+    <maxStacks>1</maxStacks>
+    <iconPath>RimHex/Cards/RHA_M8_u_blood</iconPath>
+    <evolutionEffect>m8_u_blood</evolutionEffect>
+    <masterySources>6</masterySources>
+    <ultimate>true</ultimate>
+    <masteryPaths>
+      <li>RHA_Path_Blood</li>
+    </masteryPaths>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_M8_u_titan</defName>
+    <label>Earthbreaker</label>
+    <description>Adds 195% health. Every third valid direct hit shakes an 8-cell area around the target, dealing 65 + 39 × the wearer's health multiplier additional damage to up to 16 enemies. Cooldown: 3 seconds.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Ultimate evolution</theme>
+    <weight>180</weight>
+    <maxStacks>1</maxStacks>
+    <iconPath>RimHex/Cards/RHA_M8_u_titan</iconPath>
+    <evolutionEffect>m8_u_titan</evolutionEffect>
+    <masterySources>6</masterySources>
+    <ultimate>true</ultimate>
+    <masteryPaths>
+      <li>RHA_Path_Titan</li>
+    </masteryPaths>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_M8_u_frost</defName>
+    <label>Everwinter throne</label>
+    <description>During combat, every 6 seconds freezes up to 16 enemies within 12 cells, applying frost slow and a 2-second stun. Targets already slowed or stunned take an additional 117 damage.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Ultimate evolution</theme>
+    <weight>180</weight>
+    <maxStacks>1</maxStacks>
+    <iconPath>RimHex/Cards/RHA_M8_u_frost</iconPath>
+    <evolutionEffect>m8_u_frost</evolutionEffect>
+    <masterySources>6</masterySources>
+    <ultimate>true</ultimate>
+    <masteryPaths>
+      <li>RHA_Path_Frost</li>
+    </masteryPaths>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_M8_u_blade</defName>
+    <label>Convergence of blades</label>
+    <description>Adds 1.3 to melee and ranged cooldown divisors. Every fourth valid direct hit delivers up to five extra cuts to the original target, each dealing 52 + 26% of this hit's direct damage. Stops if the target can no longer fight. Cooldown: 2 seconds. Copied damage uses its resolved value; flat bonus damage can still be amplified.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Ultimate evolution</theme>
+    <weight>180</weight>
+    <maxStacks>1</maxStacks>
+    <iconPath>RimHex/Cards/RHA_M8_u_blade</iconPath>
+    <evolutionEffect>m8_u_blade</evolutionEffect>
+    <masterySources>6</masterySources>
+    <ultimate>true</ultimate>
+    <masteryPaths>
+      <li>RHA_Path_Blade</li>
+    </masteryPaths>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_M8_u_marksman</defName>
+    <label>Star-piercing arbalest</label>
+    <description>Every third valid direct hit against a target at least 12 cells away fires a piercing beam. It crosses the target and extends 18 cells behind it, about 4 cells wide, dealing 130 + 130% of this hit's direct damage to enemies struck. Cooldown: 3 seconds. Copied damage uses its resolved value; flat bonus damage can still be amplified.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Ultimate evolution</theme>
+    <weight>180</weight>
+    <maxStacks>1</maxStacks>
+    <iconPath>RimHex/Cards/RHA_M8_u_marksman</iconPath>
+    <evolutionEffect>m8_u_marksman</evolutionEffect>
+    <masterySources>6</masterySources>
+    <ultimate>true</ultimate>
+    <masteryPaths>
+      <li>RHA_Path_Marksman</li>
+    </masteryPaths>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_M8_u_spirit</defName>
+    <label>Crown of the dead</label>
+    <description>Adds 2.6 soul-harvesting levels and 3.9 additional soul marks per kill. Every fifth valid direct hit releases a soul tide at up to 8 enemies within 12 cells of the target, dealing 19.5 + 3.25 × soul marks additional damage each. Cooldown: 3 seconds. Each permanent growth effect retains its full benefit through 100 points, then has diminishing returns.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Ultimate evolution</theme>
+    <weight>180</weight>
+    <maxStacks>1</maxStacks>
+    <iconPath>RimHex/Cards/RHA_M8_u_spirit</iconPath>
+    <evolutionEffect>m8_u_spirit</evolutionEffect>
+    <masterySources>6</masterySources>
+    <ultimate>true</ultimate>
+    <masteryPaths>
+      <li>RHA_Path_Spirit</li>
+    </masteryPaths>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_M8_u_guardian</defName>
+    <label>Shelter of armies</label>
+    <description>Adds 0.65 to the damage-taken divisor. While an enemy is within 30 cells, every 6 seconds refreshes a 195-point shield on up to 12 free colonists within 12 cells, lasting 8 seconds.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Ultimate evolution</theme>
+    <weight>180</weight>
+    <maxStacks>1</maxStacks>
+    <iconPath>RimHex/Cards/RHA_M8_u_guardian</iconPath>
+    <evolutionEffect>m8_u_guardian</evolutionEffect>
+    <masterySources>6</masterySources>
+    <ultimate>true</ultimate>
+    <masteryPaths>
+      <li>RHA_Path_Guardian</li>
+    </masteryPaths>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_M8_u_wealth</defName>
+    <label>Golden age</label>
+    <description>Each day grants 650 silver plus 3.25% of home stockpiles (combined silver payout capped at 13000), 26 gold and 130 shards. Shards are capped at 1000000.</description>
+    <scope>Colony</scope>
+    <tier>Prismatic</tier>
+    <theme>Ultimate evolution</theme>
+    <weight>180</weight>
+    <maxStacks>1</maxStacks>
+    <iconPath>RimHex/Cards/RHA_M8_u_wealth</iconPath>
+    <evolutionEffect>m8_u_wealth</evolutionEffect>
+    <masterySources>6</masterySources>
+    <ultimate>true</ultimate>
+    <masteryPaths>
+      <li>RHA_Path_Wealth</li>
+    </masteryPaths>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_M8_u_industry</defName>
+    <label>Perpetual artisan</label>
+    <description>All colonists gain 260% work speed and research speed. Provides 7 components and 1 advanced components each day.</description>
+    <scope>Colony</scope>
+    <tier>Prismatic</tier>
+    <theme>Ultimate evolution</theme>
+    <weight>180</weight>
+    <maxStacks>1</maxStacks>
+    <iconPath>RimHex/Cards/RHA_M8_u_industry</iconPath>
+    <evolutionEffect>m8_u_industry</evolutionEffect>
+    <masterySources>6</masterySources>
+    <ultimate>true</ultimate>
+    <masteryPaths>
+      <li>RHA_Path_Industry</li>
+    </masteryPaths>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_M8_u_harvest</defName>
+    <label>Ark of life</label>
+    <description>All colonists gain 195% plant harvest yield and 130% health. Each day provides 52 packaged survival meals and 13 medicine, and heals every free colonist for 104 ordinary injury points.</description>
+    <scope>Colony</scope>
+    <tier>Prismatic</tier>
+    <theme>Ultimate evolution</theme>
+    <weight>180</weight>
+    <maxStacks>1</maxStacks>
+    <iconPath>RimHex/Cards/RHA_M8_u_harvest</iconPath>
+    <evolutionEffect>m8_u_harvest</evolutionEffect>
+    <masterySources>6</masterySources>
+    <ultimate>true</ultimate>
+    <masteryPaths>
+      <li>RHA_Path_Harvest</li>
+    </masteryPaths>
+  </RimHex.HexAugmentDef>
+</Defs>

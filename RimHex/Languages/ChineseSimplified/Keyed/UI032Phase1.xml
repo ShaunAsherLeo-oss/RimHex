@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RHA_UI032_NavDraft>强化</RHA_UI032_NavDraft>
+  <RHA_UI032_NavBuild>构筑</RHA_UI032_NavBuild>
+  <RHA_UI032_NavAtlas>星图</RHA_UI032_NavAtlas>
+  <RHA_UI032_NavForge>锻造</RHA_UI032_NavForge>
+  <RHA_UI032_NavChallenges>挑战</RHA_UI032_NavChallenges>
+  <RHA_UI032_NavExpeditions>远征</RHA_UI032_NavExpeditions>
+  <RHA_UI032_NavLibrary>图鉴</RHA_UI032_NavLibrary>
+  <RHA_UI032_BuildOverview>总览</RHA_UI032_BuildOverview>
+  <RHA_UI032_BuildAugments>强化</RHA_UI032_BuildAugments>
+  <RHA_UI032_BuildAbilities>能力</RHA_UI032_BuildAbilities>
+  <RHA_UI032_BuildRecords>记录</RHA_UI032_BuildRecords>
+  <RHA_UI032_ViewBuildOverview>构筑总览</RHA_UI032_ViewBuildOverview>
+  <RHA_UI032_ViewBuildGoals>流派目标</RHA_UI032_ViewBuildGoals>
+  <RHA_UI032_ViewBuildAugments>全部强化</RHA_UI032_ViewBuildAugments>
+  <RHA_UI032_ViewBuildMasteries>融合与终极</RHA_UI032_ViewBuildMasteries>
+  <RHA_UI032_ViewBuildContributions>能力贡献</RHA_UI032_ViewBuildContributions>
+  <RHA_UI032_ViewBuildSkills>流派战技</RHA_UI032_ViewBuildSkills>
+  <RHA_UI032_ViewBuildCombatRecords>实战记录</RHA_UI032_ViewBuildCombatRecords>
+  <RHA_UI032_ViewBuildTriggers>近期触发</RHA_UI032_ViewBuildTriggers>
+  <RHA_UI032_ViewForgeCraft>制作</RHA_UI032_ViewForgeCraft>
+  <RHA_UI032_ViewForgeRunes>符文改造</RHA_UI032_ViewForgeRunes>
+  <RHA_UI032_ViewForgeSalvage>回收</RHA_UI032_ViewForgeSalvage>
+  <RHA_UI032_ViewForgeAwakenings>觉醒</RHA_UI032_ViewForgeAwakenings>
+  <RHA_UI032_ViewChallengeBounties>悬赏</RHA_UI032_ViewChallengeBounties>
+  <RHA_UI032_ViewChallengeTrials>棱彩试炼</RHA_UI032_ViewChallengeTrials>
+  <RHA_UI032_ViewChallengeStarTrials>流派试炼</RHA_UI032_ViewChallengeStarTrials>
+  <RHA_UI032_Back>返回</RHA_UI032_Back>
+  <RHA_UI032_OpenAtlas>打开进阶星图</RHA_UI032_OpenAtlas>
+  <RHA_UI032_NoStarTrial>当前没有进行中的流派试炼。可在星图选择合法进阶并准备挑战。</RHA_UI032_NoStarTrial>
+  <RHA_UI032_ContextChanged>目标或页面已变化，请重新选择目标后操作。</RHA_UI032_ContextChanged>
+  <RHA_UI032_ChooseEquipment>请在列表中选择要操作的装备实例。</RHA_UI032_ChooseEquipment>
+  <RHA_UI032_EquipmentChanged>装备“{0}”已不可操作，请重新选择装备。</RHA_UI032_EquipmentChanged>
+  <RHA_UI032_TaskChanged>原任务已结束或更换，请明确选择当前任务后继续查看。</RHA_UI032_TaskChanged>
+  <RHA_UI032_UseCurrentTask>查看当前任务</RHA_UI032_UseCurrentTask>
+  <RHA_UI032_PawnChanged>角色“{0}”已不可操作，请重新选择角色。</RHA_UI032_PawnChanged>
+  <RHA_UI032_SpaceTooSmall>可用空间不足，请扩大窗口或调低界面缩放。</RHA_UI032_SpaceTooSmall>
+</LanguageData>

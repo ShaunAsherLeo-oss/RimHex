@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RHA_UI032_TraceOn>Recording is enabled.</RHA_UI032_TraceOn>
+  <RHA_UI032_TraceOff>Recording is off; retained history is still available.</RHA_UI032_TraceOff>
+  <RHA_UI032_TraceCost>Event recording has a processing cost. Enable it when you need to inspect events.</RHA_UI032_TraceCost>
+  <RHA_UI032_TraceClearConfirm>Clear the retained recent event history? This cannot be undone.</RHA_UI032_TraceClearConfirm>
+  <RHA_UI032_TraceFilteredEmpty>No retained events match the current colonist and event filters.</RHA_UI032_TraceFilteredEmpty>
+  <RHA_UI032_TraceWaiting>Recording is enabled, but no events have been collected yet.</RHA_UI032_TraceWaiting>
+  <RHA_UI032_TraceNotCollected>Recording is off and no event history has been collected.</RHA_UI032_TraceNotCollected>
+  <RHA_UI032_RecordSources>Event sources</RHA_UI032_RecordSources>
+</LanguageData>

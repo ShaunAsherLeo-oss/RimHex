@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_STAR_Core_brand.nodes.0.label>熔核烙印</RHA_STAR_Core_brand.nodes.0.label>
+  <RHA_STAR_Core_brand.nodes.0.description>需要熔核烙印核心卡。保留施加烙印、由本人命中蓄积、手动引爆及到期爆发；进阶不复制烙印，不重置技能冷却。</RHA_STAR_Core_brand.nodes.0.description>
+  <RHA_STAR_Core_brand.nodes.1.label>聚核坍缩</RHA_STAR_Core_brand.nodes.1.label>
+  <RHA_STAR_Core_brand.nodes.1.description>同时只保留一个烙印。蓄积比例提高至本人实际命中伤害的25%，上限48；爆发基础伤害12，范围缩至1.5格，最多伤及3名敌人。无需另抽分支卡。有未爆发烙印时不能切换分支。</RHA_STAR_Core_brand.nodes.1.description>
+  <RHA_STAR_Core_brand.nodes.2.label>连环引爆</RHA_STAR_Core_brand.nodes.2.label>
+  <RHA_STAR_Core_brand.nodes.2.description>手动引爆会连带触发6格内、视线相通的本人烙印，沿连接最多引爆3枚。每枚基础伤害6，加上70%的蓄积伤害；范围3格，最多伤及8名敌人。无需另抽分支卡。有未爆发烙印时不能切换分支。</RHA_STAR_Core_brand.nodes.2.description>
+  <RHA_STAR_Core_brand.nodes.3.label>熔甲追击</RHA_STAR_Core_brand.nodes.3.label>
+  <RHA_STAR_Core_brand.nodes.3.description>手动引爆实际伤敌后，给一名存活目标留下4秒破口。本人下一次普通命中消耗破口，追加75点伤害。最多保留一个破口，生成冷却6秒；队友、技能和追加伤害不能兑现。 基础收益：伤害 75。</RHA_STAR_Core_brand.nodes.3.description>
+  <RHA_STAR_Core_brand.nodes.4.label>炉心回收</RHA_STAR_Core_brand.nodes.4.label>
+  <RHA_STAR_Core_brand.nodes.4.description>已有蓄积的烙印自然到期爆发并实际伤敌时，为本人提供75点独立护盾，持续4秒，冷却6秒。提前引爆、目标死亡触发的爆炸和空烙印不提供护盾。 基础收益：护盾 75。</RHA_STAR_Core_brand.nodes.4.description>
+  <RHA_STAR_Core_brand.nodes.5.label>溅火</RHA_STAR_Core_brand.nodes.5.label>
+  <RHA_STAR_Core_brand.nodes.5.description>手动引爆实际伤敌后，向受击点3格内视线畅通的另一名敌人追加25点伤害，冷却6秒。不会重复打击这次触发的受击者，也不会凭追加伤害继续蓄积烙印。 基础收益：伤害 25。</RHA_STAR_Core_brand.nodes.5.description>
+  <RHA_STAR_Core_brand.nodes.6.label>余烬归流</RHA_STAR_Core_brand.nodes.6.label>
+  <RHA_STAR_Core_brand.nodes.6.description>已有蓄积的烙印自然到期爆发并实际伤敌时，治疗本人4格内视线畅通、最近一名受伤队友的40点可恢复伤势，冷却6秒。没有合适队友时不治疗本人；不恢复缺失部位或永久伤疤。提前引爆与目标死亡触发的爆炸不提供治疗。 基础收益：治疗 40。</RHA_STAR_Core_brand.nodes.6.description>
+</LanguageData>

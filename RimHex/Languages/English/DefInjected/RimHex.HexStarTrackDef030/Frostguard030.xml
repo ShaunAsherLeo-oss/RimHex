@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_STAR_Relic_Frostguard.nodes.0.label>Rime Heart</RHA_STAR_Relic_Frostguard.nodes.0.label>
+  <RHA_STAR_Relic_Frostguard.nodes.0.description>Retains Frostguard and its original awakening without granting them twice. Every 3 effective ordinary hits grant the current wearer a separate 50-point shield for 4 seconds, on a 6-second cooldown. Hits during cooldown and secondary damage do not count. Progress belongs to this item. Base rewards: shield 50.</RHA_STAR_Relic_Frostguard.nodes.0.description>
+  <RHA_STAR_Relic_Frostguard.nodes.1.label>Rime Reprisal</RHA_STAR_Relic_Frostguard.nodes.1.label>
+  <RHA_STAR_Relic_Frostguard.nodes.1.description>When a shield actually absorbs an enemy hit, mark that attacker for 6 seconds. Your next ordinary hit consumes the mark for 50 bonus damage. One mark at a time, on a 6-second creation cooldown. Accepts Rime Heart and shields from other sources, excluding this tree's ally-cover shield. Base rewards: damage 50.</RHA_STAR_Relic_Frostguard.nodes.1.description>
+  <RHA_STAR_Relic_Frostguard.nodes.2.label>Shared Rime</RHA_STAR_Relic_Frostguard.nodes.2.label>
+  <RHA_STAR_Relic_Frostguard.nodes.2.description>When a shield actually absorbs an enemy hit, grant the nearest other eligible colonist within 4 cells and clear sight a 50-point shield for 3 seconds, once per 6 seconds. With no ally it is not redirected to you. This tree's ally-cover shield cannot trigger another cover from the same tree. Base rewards: shield 50.</RHA_STAR_Relic_Frostguard.nodes.2.description>
+  <RHA_STAR_Relic_Frostguard.nodes.3.label>Splintering Reply</RHA_STAR_Relic_Frostguard.nodes.3.label>
+  <RHA_STAR_Relic_Frostguard.nodes.3.description>After Rime Reprisal deals its bonus damage, strike one other enemy within 3 cells of the impact and clear sight for 25 damage, once per 6 seconds. It never hits the original target again. Base rewards: damage 25.</RHA_STAR_Relic_Frostguard.nodes.3.description>
+  <RHA_STAR_Relic_Frostguard.nodes.4.label>Rime Mending</RHA_STAR_Relic_Frostguard.nodes.4.label>
+  <RHA_STAR_Relic_Frostguard.nodes.4.description>After Rime Reprisal deals bonus damage, heal 20 base points of your recoverable injuries, once per 6 seconds. Prevented bonus damage grants no healing. Missing parts and permanent scars are not restored. Base rewards: healing 20.</RHA_STAR_Relic_Frostguard.nodes.4.description>
+  <RHA_STAR_Relic_Frostguard.nodes.5.label>Cooling Aid</RHA_STAR_Relic_Frostguard.nodes.5.label>
+  <RHA_STAR_Relic_Frostguard.nodes.5.description>After a shield absorbs an enemy hit, heal 20 base points of recoverable injuries on the most injured other eligible colonist within 4 cells and clear sight, once per 6 seconds. Selects its recipient independently of Shared Rime. Base rewards: healing 20.</RHA_STAR_Relic_Frostguard.nodes.5.description>
+  <RHA_STAR_Relic_Frostguard.nodes.6.label>Shattering Echo</RHA_STAR_Relic_Frostguard.nodes.6.label>
+  <RHA_STAR_Relic_Frostguard.nodes.6.description>After a shield absorbs an enemy hit, leave a warning at the attacker's impact position. After 1.5 seconds it deals 25 damage each to up to 2 enemies within 3 cells and clear sight, once per 6 seconds. The pulse remains at that position. Base rewards: damage 25.</RHA_STAR_Relic_Frostguard.nodes.6.description>
+</LanguageData>

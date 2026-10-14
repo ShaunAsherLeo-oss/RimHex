@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_A13_SpinToWin.label>旋转至胜</RHA_A13_SpinToWin.label>
+  <RHA_A13_SpinToWin.description>旋转战技每层获得 19.5% 伤害和 19.5% 技能急速；千刃风暴每层增伤 32.5%。附带学会环刃突进。 最多 4 层。</RHA_A13_SpinToWin.description>
+  <RHA_A13_SpinToWin.theme>战斗技艺</RHA_A13_SpinToWin.theme>
+  <RHA_A13_Dashing.label>全凭身法</RHA_A13_Dashing.label>
+  <RHA_A13_Dashing.description>位移战技每层获得 113.75% 技能急速。附带学会折跃。步行不触发，技能冷却最短 1 秒。 最多 4 层。</RHA_A13_Dashing.description>
+  <RHA_A13_Dashing.theme>战斗技艺</RHA_A13_Dashing.theme>
+  <RHA_A13_OutlawsGrit.label>狂徒豪气</RHA_A13_OutlawsGrit.label>
+  <RHA_A13_OutlawsGrit.description>位移战技成功移动后叠加一层临时防御，最多 5 层，持续 8 秒。每层卡使每层防御增加 9.75%。附带学会折跃。 最多 4 层。</RHA_A13_OutlawsGrit.description>
+  <RHA_A13_OutlawsGrit.theme>战斗技艺</RHA_A13_OutlawsGrit.theme>
+  <RHA_A13_ToothFairy.label>牙仙子</RHA_A13_ToothFairy.label>
+  <RHA_A13_ToothFairy.description>2.5 秒内对合格敌人造成相当于其躯干最大生命 25% 的实际伤害，掉落穿甲碎片；每个目标间隔 4 秒。主人在 2 格内拾取，每层卡获得 0.65 永久成长，零头积累后结算整层。每整层增加 1 个百分点穿甲，最高 200 点。碎片约 42 秒后消失。</RHA_A13_ToothFairy.description>
+  <RHA_A13_ToothFairy.theme>战斗技艺</RHA_A13_ToothFairy.theme>
+  <RHA_A13_EtherealWeapon.label>虚幻武器</RHA_A13_EtherealWeapon.label>
+  <RHA_A13_EtherealWeapon.description>每次施法对每名目标的首次有效命中，以原有效果 65% 的强度触发已拥有的灼烧、生命加伤、有限连锁与吸血，不重复整次普攻。附带学会追猎标记。</RHA_A13_EtherealWeapon.description>
+  <RHA_A13_EtherealWeapon.theme>战斗技艺</RHA_A13_EtherealWeapon.theme>
+  <RHA_A13_Earthwake.label>大地苏醒</RHA_A13_Earthwake.label>
+  <RHA_A13_Earthwake.description>位移战技成功移动后，经过的直线路径在 0.75 秒后炸开，每层造成 11.7 点追加伤害，波及路径旁 2 格内最多 16 名可见敌人。附带学会折跃。 最多 4 层。</RHA_A13_Earthwake.description>
+  <RHA_A13_Earthwake.theme>战斗技艺</RHA_A13_Earthwake.theme>
+  <RHA_A13_ShadowRunner.label>暗影疾行</RHA_A13_ShadowRunner.label>
+  <RHA_A13_ShadowRunner.description>位移战技成功移动后，移动速度每层增加 48%，持续 4 秒。附带学会折跃。 最多 4 层。</RHA_A13_ShadowRunner.description>
+  <RHA_A13_ShadowRunner.theme>战斗技艺</RHA_A13_ShadowRunner.theme>
+  <RHA_A13_SwiftAndSafe.label>迅捷而安全</RHA_A13_SwiftAndSafe.label>
+  <RHA_A13_SwiftAndSafe.description>位移战技成功移动后，每层提供 20 点护盾，持续 4 秒。与已有护盾取较高值。附带学会折跃。 最多 4 层。</RHA_A13_SwiftAndSafe.description>
+  <RHA_A13_SwiftAndSafe.theme>战斗技艺</RHA_A13_SwiftAndSafe.theme>
+  <RHA_A13_Flashbang.label>闪光弹</RHA_A13_Flashbang.label>
+  <RHA_A13_Flashbang.description>位移落点周围 3.5 格内的敌人受到每层 9.1 点追加伤害和 5 秒减速。附带学会折跃。 最多 4 层。</RHA_A13_Flashbang.description>
+  <RHA_A13_Flashbang.theme>战斗技艺</RHA_A13_Flashbang.theme>
+  <RHA_A13_Trailblazer.label>开路先锋</RHA_A13_Trailblazer.label>
+  <RHA_A13_Trailblazer.description>位移落点周围 3.5 格内的敌人叠加灼烧，每层卡提供每跳 1.95 点基础伤害，不点燃建筑。附带学会折跃。 最多 4 层。</RHA_A13_Trailblazer.description>
+  <RHA_A13_Trailblazer.theme>战斗技艺</RHA_A13_Trailblazer.theme>
+  <RHA_A13_MysticPunch.label>秘术冲拳</RHA_A13_MysticPunch.label>
+  <RHA_A13_MysticPunch.description>直接攻击有效命中返还基础卡牌战技每层 0.65 秒冷却，最多每 0.25 秒触发一次。不返还流派终极技或遗物冷却。 最多 4 层。</RHA_A13_MysticPunch.description>
+  <RHA_A13_MysticPunch.theme>战斗技艺</RHA_A13_MysticPunch.theme>
+  <RHA_A13_CriticalMissile.label>暴击飞弹</RHA_A13_CriticalMissile.label>
+  <RHA_A13_CriticalMissile.description>直接攻击或战技暴击时，追加一枚飞弹，造成每层 7.8 点加目标体质 1.95 倍的伤害，最多每 0.25 秒触发一次。飞弹不能再次产生自身。 最多 4 层。</RHA_A13_CriticalMissile.description>
+  <RHA_A13_CriticalMissile.theme>战斗技艺</RHA_A13_CriticalMissile.theme>
+  <RHA_A13_CriticalRhythm.label>暴击律动</RHA_A13_CriticalRhythm.label>
+  <RHA_A13_CriticalRhythm.description>直接攻击暴击获得一层律动，最多 20 层，10 秒未触发后消退。每层卡使每层律动提供 7.8% 攻击急速。 最多 4 层。</RHA_A13_CriticalRhythm.description>
+  <RHA_A13_CriticalRhythm.theme>战斗技艺</RHA_A13_CriticalRhythm.theme>
+  <RHA_A13_CritNCast.label>暴击施法</RHA_A13_CritNCast.label>
+  <RHA_A13_CritNCast.description>每层提供相当于暴击值 65% 的战技急速，不消耗暴击值。</RHA_A13_CritNCast.description>
+  <RHA_A13_CritNCast.theme>战斗技艺</RHA_A13_CritNCast.theme>
+  <RHA_A13_SoulSiphon.label>灵魂虹吸</RHA_A13_SoulSiphon.label>
+  <RHA_A13_SoulSiphon.description>直接攻击或战技造成实际暴击伤害时，每层按伤害的 13% 治疗普通伤势。 最多 4 层。</RHA_A13_SoulSiphon.description>
+  <RHA_A13_SoulSiphon.theme>战斗技艺</RHA_A13_SoulSiphon.theme>
+  <RHA_A13_Erosion.label>侵蚀</RHA_A13_Erosion.label>
+  <RHA_A13_Erosion.description>普攻与战技命中每层卡积累 0.65 层侵蚀，整层施加给本次目标，最多 10 层、持续 10 秒；零头由攻击者保留。每层使目标额外承受 4 个百分点穿甲；无视护甲伤害不享受收益。</RHA_A13_Erosion.description>
+  <RHA_A13_Erosion.theme>战斗技艺</RHA_A13_Erosion.theme>
+  <RHA_A13_ThreadTheNeedle.label>穿针引线</RHA_A13_ThreadTheNeedle.label>
+  <RHA_A13_ThreadTheNeedle.description>直接攻击与进行护甲结算的战技，每层增加 13 个百分点穿透。无视护甲的追加伤害不受影响。 最多 4 层。</RHA_A13_ThreadTheNeedle.description>
+  <RHA_A13_ThreadTheNeedle.theme>战斗技艺</RHA_A13_ThreadTheNeedle.theme>
+  <RHA_A13_EnPassant.label>过路兵</RHA_A13_EnPassant.label>
+  <RHA_A13_EnPassant.description>近身攻击目标标示的弱侧，每层追加目标体质 6.5 倍的伤害，并治疗 6.5 点伤势、加速 22.75%，持续 3 秒。每目标间隔 4 秒。附带学会追猎标记；选中持有者时显示敌人的弱侧。</RHA_A13_EnPassant.description>
+  <RHA_A13_EnPassant.theme>战斗技艺</RHA_A13_EnPassant.theme>
+  <RHA_A13_QuickStep.label>快步流星</RHA_A13_QuickStep.label>
+  <RHA_A13_QuickStep.description>附带学会环刃突进，位移后发动旋转攻击。每层卡将旋转范围增加 0.4 格，最多增加 2 格。 最多 4 层。</RHA_A13_QuickStep.description>
+  <RHA_A13_QuickStep.theme>战斗技艺</RHA_A13_QuickStep.theme>
+  <RHA_A13_NowYouSeeMe.label>来去无踪</RHA_A13_NowYouSeeMe.label>
+  <RHA_A13_NowYouSeeMe.description>学会闪烁与折返。位移后 3.25 秒内，可手动返回同地图 12 格内可见的上次起点。折返不会留下新的折返起点。</RHA_A13_NowYouSeeMe.description>
+  <RHA_A13_NowYouSeeMe.theme>战斗技艺</RHA_A13_NowYouSeeMe.theme>
+  <RHA_A13_NumbToPain.label>痛感迟钝</RHA_A13_NumbToPain.label>
+  <RHA_A13_NumbToPain.description>护甲与护盾结算后，将每层 22.75% 的普通伤势分摊到随后 5 秒，最多延迟 75%。延迟伤势不再受减伤或护盾抵消，可通过治疗争取生存时间。 最多 3 层。</RHA_A13_NumbToPain.description>
+  <RHA_A13_NumbToPain.theme>战斗技艺</RHA_A13_NumbToPain.theme>
+  <RHA_A13_Rejuvenation.label>焕发生机</RHA_A13_Rejuvenation.label>
+  <RHA_A13_Rejuvenation.description>主动战斗战技成功施放后，每层治疗 6 点普通伤势。归位、经济战技、自动追加伤害不触发。 最多 4 层。</RHA_A13_Rejuvenation.description>
+  <RHA_A13_Rejuvenation.theme>战斗技艺</RHA_A13_Rejuvenation.theme>
+  <RHA_A13_Executioner.label>处刑者</RHA_A13_Executioner.label>
+  <RHA_A13_Executioner.description>对健康度不高于 40% 的敌人，直接攻击和战技每层增伤 32.5%。击杀合格敌人返还基础卡牌战技每层 1.95 秒冷却；不会直接处决首领。 最多 4 层。</RHA_A13_Executioner.description>
+  <RHA_A13_Executioner.theme>战斗技艺</RHA_A13_Executioner.theme>
+  <RHA_A13_InfiniteRecursion.label>无限递归</RHA_A13_InfiniteRecursion.label>
+  <RHA_A13_InfiniteRecursion.description>每次合格击杀，每层卡获得 0.65 永久成长。战技急速为累计成长平方根的 10%；重复复活的敌人只计一次。</RHA_A13_InfiniteRecursion.description>
+  <RHA_A13_InfiniteRecursion.theme>战斗技艺</RHA_A13_InfiniteRecursion.theme>
+</LanguageData>

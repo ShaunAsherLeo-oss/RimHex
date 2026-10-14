@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_V27_Mark>{0} · 发起者 {1} · 剩余 {2}</RHA_V27_Mark>
+  <RHA_V27_Ready>等待配合</RHA_V27_Ready>
+  <RHA_V27_Cooldown>恢复中：{0}</RHA_V27_Cooldown>
+  <RHA_V27_Pending>等待接力：{0} · {1}</RHA_V27_Pending>
+  <RHA_V27_Count>已触发 {0} 次</RHA_V27_Count>
+  <RHA_Stack02711_Cards>选卡层数</RHA_Stack02711_Cards>
+  <RHA_Stack02711_Equipment>已装备遗物 · 成长与铭文</RHA_Stack02711_Equipment>
+  <RHA_Stack02711_Growth>战斗成长（与选卡层数分开）</RHA_Stack02711_Growth>
+  <RHA_Stack02711_CardLimit>已选 {0} / {1} 层</RHA_Stack02711_CardLimit>
+  <RHA_Stack02711_CardOpen>已选 {0} 层 · 无选卡层数上限</RHA_Stack02711_CardOpen>
+  <RHA_Stack02711_LayerNote>以上为重复选取次数，不是击杀、命中或佩戴积累。</RHA_Stack02711_LayerNote>
+  <RHA_Stack02711_Active>当前生效</RHA_Stack02711_Active>
+  <RHA_Stack02711_Dormant>暂未生效 · 尚未满足构筑条件</RHA_Stack02711_Dormant>
+  <RHA_Stack02711_NoTarget>未选角色 · 生效状态待确认</RHA_Stack02711_NoTarget>
+  <RHA_Stack02711_PerLayer>每层说明：{0}</RHA_Stack02711_PerLayer>
+  <RHA_Stack02711_OwnedEffect>本卡 {0} 层的基础效果：{1}</RHA_Stack02711_OwnedEffect>
+  <RHA_Stack02711_Dragon>龙魂：{0} / 6 层</RHA_Stack02711_Dragon>
+  <RHA_Stack02711_Next>距下次成长：还需佩戴 {0} 天</RHA_Stack02711_Next>
+  <RHA_Stack02711_Full>已达成长上限</RHA_Stack02711_Full>
+  <RHA_Stack02711_Crown>王冠战绩：累计 {0} 层 · 折算 {1} 层</RHA_Stack02711_Crown>
+  <RHA_Stack02711_Diminish>{0} 层后收益递减；累计记录继续保留。</RHA_Stack02711_Diminish>
+  <RHA_Stack02711_GrowthBonus>仅成长增益：伤害 +{0}% · 生命 +{1}% · 再生 +{2}/秒</RHA_Stack02711_GrowthBonus>
+  <RHA_Stack02711_Work>工作速度 +{0}%</RHA_Stack02711_Work>
+  <RHA_Stack02711_GrowthNote>上述成长增益不含遗物基础属性、觉醒、铭文和其他来源。</RHA_Stack02711_GrowthNote>
+  <RHA_Stack02711_Rune>铭文：{0} · {1} / 3 级</RHA_Stack02711_Rune>
+  <RHA_Stack02711_NoRune>铭文：未铭刻</RHA_Stack02711_NoRune>
+  <RHA_Stack02711_Fixed>无独立成长层数；战斗计数见角色状态。</RHA_Stack02711_Fixed>
+  <RHA_Stack02711_Rolls>累计重塑 {0} 次（次数不是属性层数）</RHA_Stack02711_Rolls>
+  <RHA_Stack02711_Counter>{0}：累计 {1} 层 · 折算 {2} 层</RHA_Stack02711_Counter>
+  <RHA_Stack02711_Steel>钢印</RHA_Stack02711_Steel>
+  <RHA_Stack02711_Feast>盛宴</RHA_Stack02711_Feast>
+  <RHA_Stack02711_Souls>灵魂</RHA_Stack02711_Souls>
+  <RHA_Stack02711_Health>生命 +{0}%</RHA_Stack02711_Health>
+  <RHA_Stack02711_FeastBonus>生命 +{0}% · 伤害 +{1}%</RHA_Stack02711_FeastBonus>
+  <RHA_Stack02711_SoulBonus>伤害 +{0}% · 再生 +{1}/秒</RHA_Stack02711_SoulBonus>
+  <RHA_Stack02711_Empty>尚无战斗成长记录</RHA_Stack02711_Empty>
+  <RHA_Stack02711_NoCards>尚未选择强化卡</RHA_Stack02711_NoCards>
+</LanguageData>

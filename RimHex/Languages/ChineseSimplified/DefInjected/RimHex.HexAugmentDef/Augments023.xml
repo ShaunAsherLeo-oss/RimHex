@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_A23_brand.label>熔核烙印</RHA_A23_brand.label>
+  <RHA_A23_brand.description>获得熔核烙印与提前引爆。对 24 格内的敌人施加持续 8 秒的烙印，冷却 4 秒；每人至多 3 枚，同一目标不能重复施加。烙印积存本人造成的实际伤害的 20%，最多 36 点。到期或目标死亡时，对 3 格内最多 8 名敌人造成 8 点基础伤害加积存伤害，墙壁阻挡。积存部分不再重复获得伤害增幅或暴击。提前引爆消耗选中的烙印；自动引爆等待积存 24 点或剩余 2 秒。烙印爆炸和本轮配套追加伤害不会再次充能。</RHA_A23_brand.description>
+  <RHA_A23_brand.theme>烙印与军团</RHA_A23_brand.theme>
+  <RHA_A23_legion.label>军团号令</RHA_A23_legion.label>
+  <RHA_A23_legion.description>获得召集虫群、军团集结与军团集火。召集虫群沿用现有的两只临时投影与数量上限。一次号令指挥自己的全部普通投影，之后召出的投影也会遵从：集结可守住 24 格内的地点，攻击地点周围 6 格内的敌人；集火令其沿正常道路追击指定敌人。集火目标失效或离主人超过 30 格时改为护卫主人。点击自己的脚下可恢复护卫。共鸣节点、其他殖民者的投影和动物不受指挥。</RHA_A23_legion.description>
+  <RHA_A23_legion.theme>烙印与军团</RHA_A23_legion.theme>
+  <RHA_A23_embers.label>余火迁延</RHA_A23_embers.label>
+  <RHA_A23_embers.description>带有你施加的叠层灼烧的敌人死亡时，将剩余灼烧基础伤害总量的 30% 分给 4 格内最多 2 名敌人，每人最多 40 点，分 3 秒结算。转移的余火不会再次传播；后续新施加的灼烧仍可传播。墙壁阻挡。</RHA_A23_embers.description>
+  <RHA_A23_embers.theme>烙印与军团</RHA_A23_embers.theme>
+  <RHA_A23_fuse.label>引信抢燃</RHA_A23_fuse.label>
+  <RHA_A23_fuse.description>需要熔核烙印。手动或自动提前引爆时，返还施加烙印的剩余冷却的一半，最多返还 3 秒。到期与死亡引爆不返还。每次提前引爆仅结算一次，未积存的伤害不会补偿。</RHA_A23_fuse.description>
+  <RHA_A23_fuse.theme>烙印与军团</RHA_A23_fuse.theme>
+  <RHA_A23_cinders.label>爆裂余烬</RHA_A23_cinders.label>
+  <RHA_A23_cinders.description>需要熔核烙印。烙印引爆后，对实际受到这次爆炸伤害且仍站立的敌人附加余烬：每秒 2 点基础灼烧伤害，持续 3 秒。余烬不能为烙印充能，也不能传播。</RHA_A23_cinders.description>
+  <RHA_A23_cinders.theme>烙印与军团</RHA_A23_cinders.theme>
+  <RHA_A23_pressure.label>热压积聚</RHA_A23_pressure.label>
+  <RHA_A23_pressure.description>连续对同一敌人造成 3 次普通攻击伤害后，附加每秒 2 点基础叠层灼烧，持续 6 秒，每 3 秒最多触发一次。更换目标或超过 5 秒未命中会重置次数；每 0.25 秒最多计一次，连锁与弹片不额外计数。无需熔核烙印也可生效。</RHA_A23_pressure.description>
+  <RHA_A23_pressure.theme>烙印与军团</RHA_A23_pressure.theme>
+  <RHA_A23_hunt.label>协同猎杀</RHA_A23_hunt.label>
+  <RHA_A23_hunt.description>你与自己的普通投影在 3 秒内先后对同一敌人造成普通攻击伤害时，追加 6 点基础伤害，每 2 秒最多一次。任一方都可以先手；连续由同一方命中不会触发。共鸣节点不计入。</RHA_A23_hunt.description>
+  <RHA_A23_hunt.theme>烙印与军团</RHA_A23_hunt.theme>
+  <RHA_A23_swap.label>阵前换位</RHA_A23_swap.label>
+  <RHA_A23_swap.description>获得阵前换位：与 18 格内、视线畅通的自己的普通投影交换位置，冷却 12 秒；双方脚下均需可通行。自己获得 12 点护盾，持续 3 秒，投影获得 3 秒的 25% 减伤。共鸣节点不能换位。仅手动施放，选到本卡才会学会；需要先有普通投影。</RHA_A23_swap.description>
+  <RHA_A23_swap.theme>烙印与军团</RHA_A23_swap.theme>
+  <RHA_A23_bastion.label>近卫屏障</RHA_A23_bastion.label>
+  <RHA_A23_bastion.description>受到敌人的实际普通攻击伤害后，若 4 格内有自己仍在场的普通投影且视线畅通，获得 10 点护盾，持续 4 秒，每 6 秒最多一次。护盾用于抵挡之后的攻击；共鸣节点不计入。</RHA_A23_bastion.description>
+  <RHA_A23_bastion.theme>烙印与军团</RHA_A23_bastion.theme>
+  <RHA_A23_siege.label>围攻战术</RHA_A23_siege.label>
+  <RHA_A23_siege.description>自己的普通投影命中敌人时，若该敌人 3 格内至少有两个自己的普通投影且各自视线畅通，追加 4 点基础伤害，每位主人每 2 秒最多一次。需要投影实际包围目标；共鸣节点不计入。</RHA_A23_siege.description>
+  <RHA_A23_siege.theme>烙印与军团</RHA_A23_siege.theme>
+</LanguageData>

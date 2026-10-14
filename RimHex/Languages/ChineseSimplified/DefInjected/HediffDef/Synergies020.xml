@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_SynergyStatus020.label>联动蓄能</RHA_SynergyStatus020.label>
+  <RHA_SynergyStatus020.description>查看联动卡的实际蓄能与剩余时间。</RHA_SynergyStatus020.description>
+</LanguageData>

@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_GuardianTrial030_root.label>第一班岗</RHA_GuardianTrial030_root.label>
+  <RHA_GuardianTrial030_root.description>主要威胁：明确标记的威胁追击本阶段保护目标。 可用解法：申请者对威胁造成实际伤害，或为保护目标提供有效治疗、实际护盾吸收。 成功收益：三种有效贡献共用该阶段阈值，达到后威胁失衡8秒，承伤提高25%。 忽略代价：忽略威胁会让保护目标持续承压；单人时保护目标就是申请者。
+本关编排：连续攻击；锁定落点。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。沿用原有限敌人编组。</RHA_GuardianTrial030_root.description>
+  <RHA_GuardianTrial030_brace.label>迎住齐射</RHA_GuardianTrial030_brace.label>
+  <RHA_GuardianTrial030_brace.description>主要威胁：明确标记的威胁追击本阶段保护目标。 可用解法：申请者对威胁造成实际伤害，或为保护目标提供有效治疗、实际护盾吸收。 成功收益：三种有效贡献共用该阶段阈值，达到后威胁失衡8秒，承伤提高25%。 忽略代价：忽略威胁会让保护目标持续承压；单人时保护目标就是申请者。
+本关编排：连续攻击；固定射线。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。沿用原有限敌人编组。</RHA_GuardianTrial030_brace.description>
+  <RHA_GuardianTrial030_cover.label>护住后背</RHA_GuardianTrial030_cover.label>
+  <RHA_GuardianTrial030_cover.description>主要威胁：明确标记的威胁追击本阶段保护目标。 可用解法：申请者对威胁造成实际伤害，或为保护目标提供有效治疗、实际护盾吸收。 成功收益：三种有效贡献共用该阶段阈值，达到后威胁失衡8秒，承伤提高25%。 忽略代价：忽略威胁会让保护目标持续承压；单人时保护目标就是申请者。
+本关编排：目标保护；左右连续落点。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。沿用原有限敌人编组。</RHA_GuardianTrial030_cover.description>
+  <RHA_GuardianTrial030_riposte.label>盾后的还击</RHA_GuardianTrial030_riposte.label>
+  <RHA_GuardianTrial030_riposte.description>主要威胁：明确标记的威胁追击本阶段保护目标。 可用解法：申请者对威胁造成实际伤害，或为保护目标提供有效治疗、实际护盾吸收。 成功收益：三种有效贡献共用该阶段阈值，达到后威胁失衡8秒，承伤提高25%。 忽略代价：忽略威胁会让保护目标持续承压；单人时保护目标就是申请者。
+本关编排：支点破防；锁定落点。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。沿用原有限敌人编组。</RHA_GuardianTrial030_riposte.description>
+  <RHA_GuardianTrial030_sidestep.label>让出锋面</RHA_GuardianTrial030_sidestep.label>
+  <RHA_GuardianTrial030_sidestep.description>主要威胁：明确标记的威胁追击本阶段保护目标。 可用解法：申请者对威胁造成实际伤害，或为保护目标提供有效治疗、实际护盾吸收。 成功收益：三种有效贡献共用该阶段阈值，达到后威胁失衡8秒，承伤提高25%。 忽略代价：忽略威胁会让保护目标持续承压；单人时保护目标就是申请者。
+本关编排：追击诱导；空心冲击。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。沿用原有限敌人编组。</RHA_GuardianTrial030_sidestep.description>
+  <RHA_GuardianTrial030_signal.label>指明下一个目标</RHA_GuardianTrial030_signal.label>
+  <RHA_GuardianTrial030_signal.description>主要威胁：明确标记的威胁追击本阶段保护目标。 可用解法：申请者对威胁造成实际伤害，或为保护目标提供有效治疗、实际护盾吸收。 成功收益：三种有效贡献共用该阶段阈值，达到后威胁失衡8秒，承伤提高25%。 忽略代价：忽略威胁会让保护目标持续承压；单人时保护目标就是申请者。
+本关编排：双体联动；锁定落点。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。沿用原有限敌人编组。</RHA_GuardianTrial030_signal.description>
+  <RHA_GuardianTrial030_withdraw.label>留一条归路</RHA_GuardianTrial030_withdraw.label>
+  <RHA_GuardianTrial030_withdraw.description>主要威胁：明确标记的威胁追击本阶段保护目标。 可用解法：申请者对威胁造成实际伤害，或为保护目标提供有效治疗、实际护盾吸收。 成功收益：三种有效贡献共用该阶段阈值，达到后威胁失衡8秒，承伤提高25%。 忽略代价：忽略威胁会让保护目标持续承压；单人时保护目标就是申请者。
+本关编排：目标保护；空心冲击。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。沿用原有限敌人编组。</RHA_GuardianTrial030_withdraw.description>
+  <RHA_GuardianTrial030_opening.label>撬开防线</RHA_GuardianTrial030_opening.label>
+  <RHA_GuardianTrial030_opening.description>主要威胁：明确标记的威胁追击本阶段保护目标。 可用解法：申请者对威胁造成实际伤害，或为保护目标提供有效治疗、实际护盾吸收。 成功收益：三种有效贡献共用该阶段阈值，达到后威胁失衡8秒，承伤提高25%。 忽略代价：忽略威胁会让保护目标持续承压；单人时保护目标就是申请者。
+本关编排：移动支援；固定射线。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。沿用原有限敌人编组。</RHA_GuardianTrial030_opening.description>
+  <RHA_GuardianTrial030_crossing.label>换线迎敌</RHA_GuardianTrial030_crossing.label>
+  <RHA_GuardianTrial030_crossing.description>主要威胁：明确标记的威胁追击本阶段保护目标。 可用解法：申请者对威胁造成实际伤害，或为保护目标提供有效治疗、实际护盾吸收。 成功收益：三种有效贡献共用该阶段阈值，达到后威胁失衡8秒，承伤提高25%。 忽略代价：忽略威胁会让保护目标持续承压；单人时保护目标就是申请者。
+本关编排：追击诱导；固定射线。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。沿用原有限敌人编组。</RHA_GuardianTrial030_crossing.description>
+  <RHA_GuardianTrial030_pincer.label>两侧收拢</RHA_GuardianTrial030_pincer.label>
+  <RHA_GuardianTrial030_pincer.description>主要威胁：明确标记的威胁追击本阶段保护目标。 可用解法：申请者对威胁造成实际伤害，或为保护目标提供有效治疗、实际护盾吸收。 成功收益：三种有效贡献共用该阶段阈值，达到后威胁失衡8秒，承伤提高25%。 忽略代价：忽略威胁会让保护目标持续承压；单人时保护目标就是申请者。
+本关编排：双体联动；固定射线。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。沿用原有限敌人编组。</RHA_GuardianTrial030_pincer.description>
+  <RHA_GuardianTrial030_rally.label>火线整队</RHA_GuardianTrial030_rally.label>
+  <RHA_GuardianTrial030_rally.description>主要威胁：明确标记的威胁追击本阶段保护目标。 可用解法：申请者对威胁造成实际伤害，或为保护目标提供有效治疗、实际护盾吸收。 成功收益：三种有效贡献共用该阶段阈值，达到后威胁失衡8秒，承伤提高25%。 忽略代价：忽略威胁会让保护目标持续承压；单人时保护目标就是申请者。
+本关编排：目标保护；固定射线。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。沿用原有限敌人编组。</RHA_GuardianTrial030_rally.description>
+  <RHA_GuardianTrial030_opening_break.label>沿缺口追击</RHA_GuardianTrial030_opening_break.label>
+  <RHA_GuardianTrial030_opening_break.description>主要威胁：明确标记的威胁追击本阶段保护目标。 可用解法：申请者对威胁造成实际伤害，或为保护目标提供有效治疗、实际护盾吸收。 成功收益：三种有效贡献共用该阶段阈值，达到后威胁失衡8秒，承伤提高25%。 忽略代价：忽略威胁会让保护目标持续承压；单人时保护目标就是申请者。
+本关编排：移动支援；锁定落点。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。五阶固定首领与两名护卫，无补员或复活。</RHA_GuardianTrial030_opening_break.description>
+  <RHA_GuardianTrial030_opening_guard.label>并盾破阵</RHA_GuardianTrial030_opening_guard.label>
+  <RHA_GuardianTrial030_opening_guard.description>主要威胁：明确标记的威胁追击本阶段保护目标。 可用解法：申请者对威胁造成实际伤害，或为保护目标提供有效治疗、实际护盾吸收。 成功收益：三种有效贡献共用该阶段阈值，达到后威胁失衡8秒，承伤提高25%。 忽略代价：忽略威胁会让保护目标持续承压；单人时保护目标就是申请者。
+本关编排：支点破防；空心冲击。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。五阶固定首领与两名护卫，无补员或复活。</RHA_GuardianTrial030_opening_guard.description>
+  <RHA_GuardianTrial030_crossing_chase.label>截住退路</RHA_GuardianTrial030_crossing_chase.label>
+  <RHA_GuardianTrial030_crossing_chase.description>主要威胁：明确标记的威胁追击本阶段保护目标。 可用解法：申请者对威胁造成实际伤害，或为保护目标提供有效治疗、实际护盾吸收。 成功收益：三种有效贡献共用该阶段阈值，达到后威胁失衡8秒，承伤提高25%。 忽略代价：忽略威胁会让保护目标持续承压；单人时保护目标就是申请者。
+本关编排：追击诱导；锁定落点。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。五阶固定首领与两名护卫，无补员或复活。</RHA_GuardianTrial030_crossing_chase.description>
+  <RHA_GuardianTrial030_crossing_return.label>折返接应</RHA_GuardianTrial030_crossing_return.label>
+  <RHA_GuardianTrial030_crossing_return.description>主要威胁：明确标记的威胁追击本阶段保护目标。 可用解法：申请者对威胁造成实际伤害，或为保护目标提供有效治疗、实际护盾吸收。 成功收益：三种有效贡献共用该阶段阈值，达到后威胁失衡8秒，承伤提高25%。 忽略代价：忽略威胁会让保护目标持续承压；单人时保护目标就是申请者。
+本关编排：目标保护；空心冲击。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。五阶固定首领与两名护卫，无补员或复活。</RHA_GuardianTrial030_crossing_return.description>
+  <RHA_GuardianTrial030_pincer_cut.label>夹击另一翼</RHA_GuardianTrial030_pincer_cut.label>
+  <RHA_GuardianTrial030_pincer_cut.description>主要威胁：明确标记的威胁追击本阶段保护目标。 可用解法：申请者对威胁造成实际伤害，或为保护目标提供有效治疗、实际护盾吸收。 成功收益：三种有效贡献共用该阶段阈值，达到后威胁失衡8秒，承伤提高25%。 忽略代价：忽略威胁会让保护目标持续承压；单人时保护目标就是申请者。
+本关编排：双体联动；锁定落点。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。五阶固定首领与两名护卫，无补员或复活。</RHA_GuardianTrial030_pincer_cut.description>
+  <RHA_GuardianTrial030_pincer_cover.label>围中开路</RHA_GuardianTrial030_pincer_cover.label>
+  <RHA_GuardianTrial030_pincer_cover.description>主要威胁：明确标记的威胁追击本阶段保护目标。 可用解法：申请者对威胁造成实际伤害，或为保护目标提供有效治疗、实际护盾吸收。 成功收益：三种有效贡献共用该阶段阈值，达到后威胁失衡8秒，承伤提高25%。 忽略代价：忽略威胁会让保护目标持续承压；单人时保护目标就是申请者。
+本关编排：移动支援；空心冲击。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。五阶固定首领与两名护卫，无补员或复活。</RHA_GuardianTrial030_pincer_cover.description>
+  <RHA_GuardianTrial030_rally_push.label>重返火线</RHA_GuardianTrial030_rally_push.label>
+  <RHA_GuardianTrial030_rally_push.description>主要威胁：明确标记的威胁追击本阶段保护目标。 可用解法：申请者对威胁造成实际伤害，或为保护目标提供有效治疗、实际护盾吸收。 成功收益：三种有效贡献共用该阶段阈值，达到后威胁失衡8秒，承伤提高25%。 忽略代价：忽略威胁会让保护目标持续承压；单人时保护目标就是申请者。
+本关编排：连续攻击；锁定落点。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。五阶固定首领与两名护卫，无补员或复活。</RHA_GuardianTrial030_rally_push.description>
+  <RHA_GuardianTrial030_rally_rescue.label>接应余部</RHA_GuardianTrial030_rally_rescue.label>
+  <RHA_GuardianTrial030_rally_rescue.description>主要威胁：明确标记的威胁追击本阶段保护目标。 可用解法：申请者对威胁造成实际伤害，或为保护目标提供有效治疗、实际护盾吸收。 成功收益：三种有效贡献共用该阶段阈值，达到后威胁失衡8秒，承伤提高25%。 忽略代价：忽略威胁会让保护目标持续承压；单人时保护目标就是申请者。
+本关编排：目标保护；空心冲击。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。五阶固定首领与两名护卫，无补员或复活。</RHA_GuardianTrial030_rally_rescue.description>
+</LanguageData>

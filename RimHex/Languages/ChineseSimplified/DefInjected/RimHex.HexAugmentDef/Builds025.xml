@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_A25_duelist.label>孤锋还击</RHA_A25_duelist.label>
+  <RHA_A25_duelist.description>需要瞬时招架。招架窗口由 2 秒缩为 1 秒，反击改为对选中目标造成 16 点基础战技伤害。仍为一次招架、4 秒反击机会和固定 12 秒恢复。与护阵架势互斥，在构筑面板选择。</RHA_A25_duelist.description>
+  <RHA_A25_duelist.theme>反击与机关</RHA_A25_duelist.theme>
+  <RHA_A25_bulwark.label>护阵架势</RHA_A25_bulwark.label>
+  <RHA_A25_bulwark.description>需要瞬时招架。反击优先命中选中目标，再波及自身 2 格内最多两名敌人，各造成 6 点基础战技伤害；实际受伤者移速降低 25%，持续 2 秒。墙壁阻挡。保持 2 秒招架窗口，与孤锋还击互斥。</RHA_A25_bulwark.description>
+  <RHA_A25_bulwark.theme>反击与机关</RHA_A25_bulwark.theme>
+  <RHA_A25_fragment.label>破片雷阵</RHA_A25_fragment.label>
+  <RHA_A25_fragment.description>需要棱晶布雷。新机关的自动触发范围缩为 1 格，爆破仍为 2 格、最多四名敌人，伤害提高为各 14 点基础追加伤害。半秒预警、部署间隔与数量上限不变。与绊索雷阵互斥。</RHA_A25_fragment.description>
+  <RHA_A25_fragment.theme>反击与机关</RHA_A25_fragment.theme>
+  <RHA_A25_tripwire.label>绊索雷阵</RHA_A25_tripwire.label>
+  <RHA_A25_tripwire.description>需要棱晶布雷。最早两枚已就绪机关在相距不超过 6 格且视线畅通时连成绊索；第三枚待命。敌人靠近连线 0.7 格内会启动半秒预警，随后消耗两端，对线上最多四名敌人各造成 5 点基础追加伤害，并使受伤者移速降低 25%，持续 3 秒。离开连线可以躲过。未成对机关只可手动引爆，范围 2 格，伤害与减速相同。与破片雷阵互斥。</RHA_A25_tripwire.description>
+  <RHA_A25_tripwire.theme>反击与机关</RHA_A25_tripwire.theme>
+  <RHA_A25_rebound.label>借势回身</RHA_A25_rebound.label>
+  <RHA_A25_rebound.description>需要瞬时招架。一次反击造成实际伤害后，为自己获得 4 点基础护盾，持续 3 秒。范围反击命中多人也只触发一次。</RHA_A25_rebound.description>
+  <RHA_A25_rebound.theme>反击与机关</RHA_A25_rebound.theme>
+  <RHA_A25_comrade.label>同袍掩护</RHA_A25_comrade.label>
+  <RHA_A25_comrade.description>需要瞬时招架。成功招架后，为 4 格内视线畅通的最近一名己方人类殖民者提供 4 点基础护盾，持续 3 秒。不能保护自己；没有合适队友时不触发。</RHA_A25_comrade.description>
+  <RHA_A25_comrade.theme>反击与机关</RHA_A25_comrade.theme>
+  <RHA_A25_opening.label>破势追击</RHA_A25_opening.label>
+  <RHA_A25_opening.description>需要瞬时招架。反击使选中敌人实际受伤后，留下 3 秒破绽；本人下一次普攻命中该敌人时消耗破绽，追加 4 点基础伤害。只能保留一个目标，追加伤害不能消耗或重复触发。</RHA_A25_opening.description>
+  <RHA_A25_opening.theme>反击与机关</RHA_A25_opening.theme>
+  <RHA_A25_embers.label>余烬机关</RHA_A25_embers.label>
+  <RHA_A25_embers.description>需要棱晶布雷。机关造成实际伤害后，给存活敌人附加灼烧：每秒 1 点基础持续伤害，共四次。沿用灼烧的刷新规则，不叠加独立燃烧条目，不会再次引爆机关。</RHA_A25_embers.description>
+  <RHA_A25_embers.theme>反击与机关</RHA_A25_embers.theme>
+  <RHA_A25_salvage.label>弹药回收</RHA_A25_salvage.label>
+  <RHA_A25_salvage.description>需要棱晶布雷和棱彩弹匣。机关至少命中一名敌人并造成实际伤害后，为未满的弹匣补充一发；每人每 6 秒最多一次。一次爆破命中多人或引爆一对绊索只补充一发，不刷新原有装填计时。</RHA_A25_salvage.description>
+  <RHA_A25_salvage.theme>反击与机关</RHA_A25_salvage.theme>
+  <RHA_A25_relocate.label>转移阵地</RHA_A25_relocate.label>
+  <RHA_A25_relocate.description>需要棱晶布雷和已学会的回旋、闪现、狩猎冲锋或换位技能。使用这些技能确实改变位置后，3 秒内下一次部署距离增至 16 格；每 8 秒最多准备一次。只消耗一次部署机会，不刷新部署冷却，也不额外授予位移。</RHA_A25_relocate.description>
+  <RHA_A25_relocate.theme>反击与机关</RHA_A25_relocate.theme>
+</LanguageData>

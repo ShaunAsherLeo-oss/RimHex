@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_STAR_Relic_Bloodmail.nodes.0.label>Reforged Bloodmail</RHA_STAR_Relic_Bloodmail.nodes.0.label>
+  <RHA_STAR_Relic_Bloodmail.nodes.0.description>Retains Bloodforged Armor, its original growth and awakening without granting lifesteal, health or defense twice. Later nodes use ordinary hits and actual healing from this tree; empty healing grants no rewards.</RHA_STAR_Relic_Bloodmail.nodes.0.description>
+  <RHA_STAR_Relic_Bloodmail.nodes.1.label>Living Plates</RHA_STAR_Relic_Bloodmail.nodes.1.label>
+  <RHA_STAR_Relic_Bloodmail.nodes.1.description>While you have recoverable injuries, every 3 effective ordinary hits heal 40 base injury points on yourself, once per 8 seconds. Hits during cooldown or without injuries do not count. Missing parts and permanent scars are not restored. Base rewards: healing 40.</RHA_STAR_Relic_Bloodmail.nodes.1.description>
+  <RHA_STAR_Relic_Bloodmail.nodes.2.label>Donor Strike</RHA_STAR_Relic_Bloodmail.nodes.2.label>
+  <RHA_STAR_Relic_Bloodmail.nodes.2.description>Every 3 effective ordinary hits heal 40 base injury points on the most injured other eligible colonist within 4 cells and clear sight, once per 8 seconds. With no injured ally, retain one completed charge for a later ordinary hit; extra charges cannot be stored. Base rewards: healing 40.</RHA_STAR_Relic_Bloodmail.nodes.2.description>
+  <RHA_STAR_Relic_Bloodmail.nodes.3.label>Sealed Plates</RHA_STAR_Relic_Bloodmail.nodes.3.label>
+  <RHA_STAR_Relic_Bloodmail.nodes.3.description>After Living Plates actually heals an injury, gain a separate 50-point shield for 3 seconds, once per 8 seconds. Original lifesteal and healing from other sources cannot trigger it. Base rewards: shield 50.</RHA_STAR_Relic_Bloodmail.nodes.3.description>
+  <RHA_STAR_Relic_Bloodmail.nodes.4.label>Restored Retaliation</RHA_STAR_Relic_Bloodmail.nodes.4.label>
+  <RHA_STAR_Relic_Bloodmail.nodes.4.description>After Living Plates actually heals an injury, store one retaliation opportunity for 5 seconds, once per 8 seconds. Your later ordinary hit on an enemy consumes it for 75 bonus damage. The hit that creates it cannot spend it; at most one is stored. Base rewards: damage 75.</RHA_STAR_Relic_Bloodmail.nodes.4.description>
+  <RHA_STAR_Relic_Bloodmail.nodes.5.label>Donor Shelter</RHA_STAR_Relic_Bloodmail.nodes.5.label>
+  <RHA_STAR_Relic_Bloodmail.nodes.5.description>After Donor Strike actually heals an ally, gain a separate 25-point shield for 3 seconds, once per 8 seconds. Only this tree’s actual injury healing counts; healing a healthy target grants nothing. Base rewards: shield 25.</RHA_STAR_Relic_Bloodmail.nodes.5.description>
+  <RHA_STAR_Relic_Bloodmail.nodes.6.label>Bloodveil Cover</RHA_STAR_Relic_Bloodmail.nodes.6.label>
+  <RHA_STAR_Relic_Bloodmail.nodes.6.description>After Donor Strike actually heals an ally, grant the nearest other eligible colonist within 4 cells and clear sight of you a 50-point shield for 3 seconds, once per 8 seconds. The shield selects its recipient independently of the heal. Base rewards: shield 50.</RHA_STAR_Relic_Bloodmail.nodes.6.description>
+</LanguageData>

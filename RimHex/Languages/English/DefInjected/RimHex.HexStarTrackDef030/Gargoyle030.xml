@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_STAR_Relic_REF_Gargoyle.nodes.0.label>Waking Stone</RHA_STAR_Relic_REF_Gargoyle.nodes.0.label>
+  <RHA_STAR_Relic_REF_Gargoyle.nodes.0.description>Retains Gargoyle Stoneplate and its original active shield. Advancement does not grant its stats twice or reward simply activating a shield.</RHA_STAR_Relic_REF_Gargoyle.nodes.0.description>
+  <RHA_STAR_Relic_REF_Gargoyle.nodes.1.label>Stored Retort</RHA_STAR_Relic_REF_Gargoyle.nodes.1.label>
+  <RHA_STAR_Relic_REF_Gargoyle.nodes.1.description>When your shield actually absorbs enemy damage, store one retaliation for 5 seconds, once per 8 seconds. A later ordinary hit consumes it for 75 bonus damage. Store at most one; unused retaliation expires. Base rewards: damage 75.</RHA_STAR_Relic_REF_Gargoyle.nodes.1.description>
+  <RHA_STAR_Relic_REF_Gargoyle.nodes.2.label>Stonewatch Aid</RHA_STAR_Relic_REF_Gargoyle.nodes.2.label>
+  <RHA_STAR_Relic_REF_Gargoyle.nodes.2.description>When your shield actually absorbs enemy damage, heal 40 base injury points on the most injured other eligible colonist within 4 cells and clear sight, once per 8 seconds. Healthy targets, missing parts and permanent scars grant no healing. Base rewards: healing 40.</RHA_STAR_Relic_REF_Gargoyle.nodes.2.description>
+  <RHA_STAR_Relic_REF_Gargoyle.nodes.3.label>Stone Splinters</RHA_STAR_Relic_REF_Gargoyle.nodes.3.label>
+  <RHA_STAR_Relic_REF_Gargoyle.nodes.3.description>After Stored Retort deals its bonus damage, strike one other enemy within 3 cells of the impact and clear sight for 25 damage, once per 8 seconds. It cannot hit the original target again. Base rewards: damage 25.</RHA_STAR_Relic_REF_Gargoyle.nodes.3.description>
+  <RHA_STAR_Relic_REF_Gargoyle.nodes.4.label>Stone Mending</RHA_STAR_Relic_REF_Gargoyle.nodes.4.label>
+  <RHA_STAR_Relic_REF_Gargoyle.nodes.4.description>After Stored Retort deals its bonus damage, heal 20 base points of your own recoverable injuries, once per 8 seconds. Missing parts and permanent scars are not restored. Base rewards: healing 20.</RHA_STAR_Relic_REF_Gargoyle.nodes.4.description>
+  <RHA_STAR_Relic_REF_Gargoyle.nodes.5.label>Watchful Bastion</RHA_STAR_Relic_REF_Gargoyle.nodes.5.label>
+  <RHA_STAR_Relic_REF_Gargoyle.nodes.5.description>After Stonewatch Aid actually heals an ally, gain a separate 25-point shield for 3 seconds, once per 8 seconds. Empty healing or healing from other sources cannot trigger it. Base rewards: shield 25.</RHA_STAR_Relic_REF_Gargoyle.nodes.5.description>
+  <RHA_STAR_Relic_REF_Gargoyle.nodes.6.label>Sheltering Wings</RHA_STAR_Relic_REF_Gargoyle.nodes.6.label>
+  <RHA_STAR_Relic_REF_Gargoyle.nodes.6.description>After Stonewatch Aid actually heals an ally, grant the nearest other eligible colonist within 4 cells of you and clear sight a 50-point shield for 3 seconds, once per 8 seconds. Shield and healing recipients are selected independently. Base rewards: shield 50.</RHA_STAR_Relic_REF_Gargoyle.nodes.6.description>
+</LanguageData>

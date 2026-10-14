@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_ThunderTrial030_net_fence.label>穿网猎群</RHA_ThunderTrial030_net_fence.label>
+  <RHA_ThunderTrial030_net_fence.description>主要威胁：供能者为关联敌人提供保护。 可用解法：击破、控制供能者，或用实际伤害打断供能。 成功收益：关联敌人失衡8秒，承受伤害提高25%。 忽略代价：忽略供能时关联敌人最多减伤20%。
+本关编排：目标保护；左右连续落点。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。沿用原有限敌人编组。</RHA_ThunderTrial030_net_fence.description>
+  <RHA_ThunderTrial030_net_fence_c.label>合围风暴</RHA_ThunderTrial030_net_fence_c.label>
+  <RHA_ThunderTrial030_net_fence_c.description>主要威胁：供能者为关联敌人提供保护。 可用解法：击破、控制供能者，或用实际伤害打断供能。 成功收益：关联敌人失衡8秒，承受伤害提高25%。 忽略代价：忽略供能时关联敌人最多减伤20%。
+本关编排：目标保护；锁定落点。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。五阶固定首领与两名护卫，无补员或复活。</RHA_ThunderTrial030_net_fence_c.description>
+  <RHA_ThunderTrial030_focus_pin.label>定点破垒</RHA_ThunderTrial030_focus_pin.label>
+  <RHA_ThunderTrial030_focus_pin.description>主要威胁：供能者为关联敌人提供保护。 可用解法：击破、控制供能者，或用实际伤害打断供能。 成功收益：关联敌人失衡8秒，承受伤害提高25%。 忽略代价：忽略供能时关联敌人最多减伤20%。
+本关编排：支点破防；固定射线。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。沿用原有限敌人编组。</RHA_ThunderTrial030_focus_pin.description>
+  <RHA_ThunderTrial030_focus_pin_c.label>贯穿炮阵</RHA_ThunderTrial030_focus_pin_c.label>
+  <RHA_ThunderTrial030_focus_pin_c.description>主要威胁：供能者为关联敌人提供保护。 可用解法：击破、控制供能者，或用实际伤害打断供能。 成功收益：关联敌人失衡8秒，承受伤害提高25%。 忽略代价：忽略供能时关联敌人最多减伤20%。
+本关编排：支点破防；锁定落点。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。五阶固定首领与两名护卫，无补员或复活。</RHA_ThunderTrial030_focus_pin_c.description>
+  <RHA_ThunderTrial030_focus_cut.label>断流追猎</RHA_ThunderTrial030_focus_cut.label>
+  <RHA_ThunderTrial030_focus_cut.description>主要威胁：供能者为关联敌人提供保护。 可用解法：击破、控制供能者，或用实际伤害打断供能。 成功收益：关联敌人失衡8秒，承受伤害提高25%。 忽略代价：忽略供能时关联敌人最多减伤20%。
+本关编排：追击诱导；左右连续落点。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。沿用原有限敌人编组。</RHA_ThunderTrial030_focus_cut.description>
+  <RHA_ThunderTrial030_focus_cut_c.label>流动回路</RHA_ThunderTrial030_focus_cut_c.label>
+  <RHA_ThunderTrial030_focus_cut_c.description>主要威胁：供能者为关联敌人提供保护。 可用解法：击破、控制供能者，或用实际伤害打断供能。 成功收益：关联敌人失衡8秒，承受伤害提高25%。 忽略代价：忽略供能时关联敌人最多减伤20%。
+本关编排：移动支援；锁定落点。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。五阶固定首领与两名护卫，无补员或复活。</RHA_ThunderTrial030_focus_cut_c.description>
+  <RHA_ThunderTrial030_stride_return.label>折返追击</RHA_ThunderTrial030_stride_return.label>
+  <RHA_ThunderTrial030_stride_return.description>主要威胁：供能者为关联敌人提供保护。 可用解法：击破、控制供能者，或用实际伤害打断供能。 成功收益：关联敌人失衡8秒，承受伤害提高25%。 忽略代价：忽略供能时关联敌人最多减伤20%。
+本关编排：追击诱导；固定射线。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。沿用原有限敌人编组。</RHA_ThunderTrial030_stride_return.description>
+  <RHA_ThunderTrial030_stride_return_c.label>回环猎场</RHA_ThunderTrial030_stride_return_c.label>
+  <RHA_ThunderTrial030_stride_return_c.description>主要威胁：供能者为关联敌人提供保护。 可用解法：击破、控制供能者，或用实际伤害打断供能。 成功收益：关联敌人失衡8秒，承受伤害提高25%。 忽略代价：忽略供能时关联敌人最多减伤20%。
+本关编排：追击诱导；锁定落点。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。五阶固定首领与两名护卫，无补员或复活。</RHA_ThunderTrial030_stride_return_c.description>
+  <RHA_ThunderTrial030_stride_cut.label>折角侧击</RHA_ThunderTrial030_stride_cut.label>
+  <RHA_ThunderTrial030_stride_cut.description>主要威胁：供能者为关联敌人提供保护。 可用解法：击破、控制供能者，或用实际伤害打断供能。 成功收益：关联敌人失衡8秒，承受伤害提高25%。 忽略代价：忽略供能时关联敌人最多减伤20%。
+本关编排：移动支援；左右连续落点。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。沿用原有限敌人编组。</RHA_ThunderTrial030_stride_cut.description>
+  <RHA_ThunderTrial030_stride_cut_c.label>折线交锋</RHA_ThunderTrial030_stride_cut_c.label>
+  <RHA_ThunderTrial030_stride_cut_c.description>主要威胁：供能者为关联敌人提供保护。 可用解法：击破、控制供能者，或用实际伤害打断供能。 成功收益：关联敌人失衡8秒，承受伤害提高25%。 忽略代价：忽略供能时关联敌人最多减伤20%。
+本关编排：双体联动；锁定落点。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。五阶固定首领与两名护卫，无补员或复活。</RHA_ThunderTrial030_stride_cut_c.description>
+  <RHA_ThunderTrial030_ward_counter.label>反击齐射</RHA_ThunderTrial030_ward_counter.label>
+  <RHA_ThunderTrial030_ward_counter.description>主要威胁：供能者为关联敌人提供保护。 可用解法：击破、控制供能者，或用实际伤害打断供能。 成功收益：关联敌人失衡8秒，承受伤害提高25%。 忽略代价：忽略供能时关联敌人最多减伤20%。
+本关编排：连续攻击；固定射线。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。沿用原有限敌人编组。</RHA_ThunderTrial030_ward_counter.description>
+  <RHA_ThunderTrial030_ward_counter_c.label>回敬轰雷</RHA_ThunderTrial030_ward_counter_c.label>
+  <RHA_ThunderTrial030_ward_counter_c.description>主要威胁：供能者为关联敌人提供保护。 可用解法：击破、控制供能者，或用实际伤害打断供能。 成功收益：关联敌人失衡8秒，承受伤害提高25%。 忽略代价：忽略供能时关联敌人最多减伤20%。
+本关编排：连续攻击；锁定落点。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。五阶固定首领与两名护卫，无补员或复活。</RHA_ThunderTrial030_ward_counter_c.description>
+  <RHA_ThunderTrial030_ward_ground.label>引雷撤步</RHA_ThunderTrial030_ward_ground.label>
+  <RHA_ThunderTrial030_ward_ground.description>主要威胁：供能者为关联敌人提供保护。 可用解法：击破、控制供能者，或用实际伤害打断供能。 成功收益：关联敌人失衡8秒，承受伤害提高25%。 忽略代价：忽略供能时关联敌人最多减伤20%。
+本关编排：蓄能打断；交错射线。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。沿用原有限敌人编组。</RHA_ThunderTrial030_ward_ground.description>
+  <RHA_ThunderTrial030_ward_ground_c.label>安全回流</RHA_ThunderTrial030_ward_ground_c.label>
+  <RHA_ThunderTrial030_ward_ground_c.description>主要威胁：供能者为关联敌人提供保护。 可用解法：击破、控制供能者，或用实际伤害打断供能。 成功收益：关联敌人失衡8秒，承受伤害提高25%。 忽略代价：忽略供能时关联敌人最多减伤20%。
+本关编排：蓄能打断；锁定落点。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。五阶固定首领与两名护卫，无补员或复活。</RHA_ThunderTrial030_ward_ground_c.description>
+  <RHA_ThunderTrial030_ward_split.label>分流护盾考核</RHA_ThunderTrial030_ward_split.label>
+  <RHA_ThunderTrial030_ward_split.description>主要威胁：供能者为关联敌人提供保护。 可用解法：击破、控制供能者，或用实际伤害打断供能。 成功收益：关联敌人失衡8秒，承受伤害提高25%。 忽略代价：忽略供能时关联敌人最多减伤20%。
+本关编排：目标保护；左右连续落点。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。沿用原有限敌人编组。</RHA_ThunderTrial030_ward_split.description>
+  <RHA_ThunderTrial030_ward_split_c.label>共振护卫考核</RHA_ThunderTrial030_ward_split_c.label>
+  <RHA_ThunderTrial030_ward_split_c.description>主要威胁：供能者为关联敌人提供保护。 可用解法：击破、控制供能者，或用实际伤害打断供能。 成功收益：关联敌人失衡8秒，承受伤害提高25%。 忽略代价：忽略供能时关联敌人最多减伤20%。
+本关编排：目标保护；锁定落点。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。五阶固定首领与两名护卫，无补员或复活。</RHA_ThunderTrial030_ward_split_c.description>
+  <RHA_ThunderTrial030_ward_rescue.label>救援火花考核</RHA_ThunderTrial030_ward_rescue.label>
+  <RHA_ThunderTrial030_ward_rescue.description>主要威胁：供能者为关联敌人提供保护。 可用解法：击破、控制供能者，或用实际伤害打断供能。 成功收益：关联敌人失衡8秒，承受伤害提高25%。 忽略代价：忽略供能时关联敌人最多减伤20%。
+本关编排：目标保护；前后连续落点。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。沿用原有限敌人编组。</RHA_ThunderTrial030_ward_rescue.description>
+  <RHA_ThunderTrial030_ward_rescue_c.label>存续回路考核</RHA_ThunderTrial030_ward_rescue_c.label>
+  <RHA_ThunderTrial030_ward_rescue_c.description>主要威胁：供能者为关联敌人提供保护。 可用解法：击破、控制供能者，或用实际伤害打断供能。 成功收益：关联敌人失衡8秒，承受伤害提高25%。 忽略代价：忽略供能时关联敌人最多减伤20%。
+本关编排：目标保护；锁定落点。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。五阶固定首领与两名护卫，无补员或复活。</RHA_ThunderTrial030_ward_rescue_c.description>
+  <RHA_ThunderTrial030_stride_exchange.label>移动导体考核</RHA_ThunderTrial030_stride_exchange.label>
+  <RHA_ThunderTrial030_stride_exchange.description>主要威胁：供能者为关联敌人提供保护。 可用解法：击破、控制供能者，或用实际伤害打断供能。 成功收益：关联敌人失衡8秒，承受伤害提高25%。 忽略代价：忽略供能时关联敌人最多减伤20%。
+本关编排：目标保护；交错射线。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。沿用原有限敌人编组。</RHA_ThunderTrial030_stride_exchange.description>
+  <RHA_ThunderTrial030_stride_exchange_c.label>交叉电流考核</RHA_ThunderTrial030_stride_exchange_c.label>
+  <RHA_ThunderTrial030_stride_exchange_c.description>主要威胁：供能者为关联敌人提供保护。 可用解法：击破、控制供能者，或用实际伤害打断供能。 成功收益：关联敌人失衡8秒，承受伤害提高25%。 忽略代价：忽略供能时关联敌人最多减伤20%。
+本关编排：目标保护；锁定落点。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。五阶固定首领与两名护卫，无补员或复活。</RHA_ThunderTrial030_stride_exchange_c.description>
+  <RHA_ThunderTrial030_net_beacon.label>雷针破链考核</RHA_ThunderTrial030_net_beacon.label>
+  <RHA_ThunderTrial030_net_beacon.description>主要威胁：供能者为关联敌人提供保护。 可用解法：击破、控制供能者，或用实际伤害打断供能。 成功收益：关联敌人失衡8秒，承受伤害提高25%。 忽略代价：忽略供能时关联敌人最多减伤20%。
+本关编排：移动支援；交错射线。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。沿用原有限敌人编组。</RHA_ThunderTrial030_net_beacon.description>
+  <RHA_ThunderTrial030_net_beacon_c.label>雷暴锚点考核</RHA_ThunderTrial030_net_beacon_c.label>
+  <RHA_ThunderTrial030_net_beacon_c.description>主要威胁：供能者为关联敌人提供保护。 可用解法：击破、控制供能者，或用实际伤害打断供能。 成功收益：关联敌人失衡8秒，承受伤害提高25%。 忽略代价：忽略供能时关联敌人最多减伤20%。
+本关编排：移动支援；锁定落点。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。五阶固定首领与两名护卫，无补员或复活。</RHA_ThunderTrial030_net_beacon_c.description>
+  <RHA_ThunderTrial030_net_bridge.label>接力破阵考核</RHA_ThunderTrial030_net_bridge.label>
+  <RHA_ThunderTrial030_net_bridge.description>主要威胁：供能者为关联敌人提供保护。 可用解法：击破、控制供能者，或用实际伤害打断供能。 成功收益：关联敌人失衡8秒，承受伤害提高25%。 忽略代价：忽略供能时关联敌人最多减伤20%。
+本关编排：移动支援；前后连续落点。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。沿用原有限敌人编组。</RHA_ThunderTrial030_net_bridge.description>
+  <RHA_ThunderTrial030_net_bridge_c.label>双人回路考核</RHA_ThunderTrial030_net_bridge_c.label>
+  <RHA_ThunderTrial030_net_bridge_c.description>主要威胁：供能者为关联敌人提供保护。 可用解法：击破、控制供能者，或用实际伤害打断供能。 成功收益：关联敌人失衡8秒，承受伤害提高25%。 忽略代价：忽略供能时关联敌人最多减伤20%。
+本关编排：移动支援；锁定落点。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。五阶固定首领与两名护卫，无补员或复活。</RHA_ThunderTrial030_net_bridge_c.description>
+  <RHA_ThunderTrial030_focus_echo.label>延迟交火考核</RHA_ThunderTrial030_focus_echo.label>
+  <RHA_ThunderTrial030_focus_echo.description>主要威胁：供能者为关联敌人提供保护。 可用解法：击破、控制供能者，或用实际伤害打断供能。 成功收益：关联敌人失衡8秒，承受伤害提高25%。 忽略代价：忽略供能时关联敌人最多减伤20%。
+本关编排：连续攻击；交错射线。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。沿用原有限敌人编组。</RHA_ThunderTrial030_focus_echo.description>
+  <RHA_ThunderTrial030_focus_echo_c.label>两拍雷考核</RHA_ThunderTrial030_focus_echo_c.label>
+  <RHA_ThunderTrial030_focus_echo_c.description>主要威胁：供能者为关联敌人提供保护。 可用解法：击破、控制供能者，或用实际伤害打断供能。 成功收益：关联敌人失衡8秒，承受伤害提高25%。 忽略代价：忽略供能时关联敌人最多减伤20%。
+本关编排：连续攻击；锁定落点。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。五阶固定首领与两名护卫，无补员或复活。</RHA_ThunderTrial030_focus_echo_c.description>
+  <RHA_ThunderTrial030_stride_still.label>动静转换考核</RHA_ThunderTrial030_stride_still.label>
+  <RHA_ThunderTrial030_stride_still.description>主要威胁：供能者为关联敌人提供保护。 可用解法：击破、控制供能者，或用实际伤害打断供能。 成功收益：关联敌人失衡8秒，承受伤害提高25%。 忽略代价：忽略供能时关联敌人最多减伤20%。
+本关编排：连续攻击；前后连续落点。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。沿用原有限敌人编组。</RHA_ThunderTrial030_stride_still.description>
+  <RHA_ThunderTrial030_stride_still_c.label>风暴停驻考核</RHA_ThunderTrial030_stride_still_c.label>
+  <RHA_ThunderTrial030_stride_still_c.description>主要威胁：供能者为关联敌人提供保护。 可用解法：击破、控制供能者，或用实际伤害打断供能。 成功收益：关联敌人失衡8秒，承受伤害提高25%。 忽略代价：忽略供能时关联敌人最多减伤20%。
+本关编排：连续攻击；锁定落点。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。五阶固定首领与两名护卫，无补员或复活。</RHA_ThunderTrial030_stride_still_c.description>
+  <RHA_ThunderTrial030_root.label>断裂回路</RHA_ThunderTrial030_root.label>
+  <RHA_ThunderTrial030_root.description>主要威胁：供能者为关联敌人提供保护。 可用解法：击破、控制供能者，或用实际伤害打断供能。 成功收益：关联敌人失衡8秒，承受伤害提高25%。 忽略代价：忽略供能时关联敌人最多减伤20%。
+本关编排：支点破防；锁定落点。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。沿用原有限敌人编组。</RHA_ThunderTrial030_root.description>
+  <RHA_ThunderTrial030_net.label>交错电流</RHA_ThunderTrial030_net.label>
+  <RHA_ThunderTrial030_net.description>主要威胁：供能者为关联敌人提供保护。 可用解法：击破、控制供能者，或用实际伤害打断供能。 成功收益：关联敌人失衡8秒，承受伤害提高25%。 忽略代价：忽略供能时关联敌人最多减伤20%。
+本关编排：双体联动；固定射线。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。沿用原有限敌人编组。</RHA_ThunderTrial030_net.description>
+  <RHA_ThunderTrial030_focus.label>轰击长廊</RHA_ThunderTrial030_focus.label>
+  <RHA_ThunderTrial030_focus.description>主要威胁：供能者为关联敌人提供保护。 可用解法：击破、控制供能者，或用实际伤害打断供能。 成功收益：关联敌人失衡8秒，承受伤害提高25%。 忽略代价：忽略供能时关联敌人最多减伤20%。
+本关编排：支点破防；左右连续落点。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。沿用原有限敌人编组。</RHA_ThunderTrial030_focus.description>
+  <RHA_ThunderTrial030_stride.label>追猎折道</RHA_ThunderTrial030_stride.label>
+  <RHA_ThunderTrial030_stride.description>主要威胁：供能者为关联敌人提供保护。 可用解法：击破、控制供能者，或用实际伤害打断供能。 成功收益：关联敌人失衡8秒，承受伤害提高25%。 忽略代价：忽略供能时关联敌人最多减伤20%。
+本关编排：追击诱导；交错射线。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。沿用原有限敌人编组。</RHA_ThunderTrial030_stride.description>
+  <RHA_ThunderTrial030_ward.label>不稳雷池</RHA_ThunderTrial030_ward.label>
+  <RHA_ThunderTrial030_ward.description>主要威胁：供能者为关联敌人提供保护。 可用解法：击破、控制供能者，或用实际伤害打断供能。 成功收益：关联敌人失衡8秒，承受伤害提高25%。 忽略代价：忽略供能时关联敌人最多减伤20%。
+本关编排：蓄能打断；前后连续落点。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。沿用原有限敌人编组。</RHA_ThunderTrial030_ward.description>
+  <RHA_ThunderTrial030_net_d.label>断链交锋</RHA_ThunderTrial030_net_d.label>
+  <RHA_ThunderTrial030_net_d.description>主要威胁：供能者为关联敌人提供保护。 可用解法：击破、控制供能者，或用实际伤害打断供能。 成功收益：关联敌人失衡8秒，承受伤害提高25%。 忽略代价：忽略供能时关联敌人最多减伤20%。
+本关编排：双体联动；锁定落点。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。沿用原有限敌人编组。</RHA_ThunderTrial030_net_d.description>
+  <RHA_ThunderTrial030_focus_d.label>炮垒缺口</RHA_ThunderTrial030_focus_d.label>
+  <RHA_ThunderTrial030_focus_d.description>主要威胁：供能者为关联敌人提供保护。 可用解法：击破、控制供能者，或用实际伤害打断供能。 成功收益：关联敌人失衡8秒，承受伤害提高25%。 忽略代价：忽略供能时关联敌人最多减伤20%。
+本关编排：支点破防；锁定落点。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。沿用原有限敌人编组。</RHA_ThunderTrial030_focus_d.description>
+  <RHA_ThunderTrial030_stride_d.label>回环追猎</RHA_ThunderTrial030_stride_d.label>
+  <RHA_ThunderTrial030_stride_d.description>主要威胁：供能者为关联敌人提供保护。 可用解法：击破、控制供能者，或用实际伤害打断供能。 成功收益：关联敌人失衡8秒，承受伤害提高25%。 忽略代价：忽略供能时关联敌人最多减伤20%。
+本关编排：追击诱导；锁定落点。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。沿用原有限敌人编组。</RHA_ThunderTrial030_stride_d.description>
+  <RHA_ThunderTrial030_ward_d.label>泄压长廊</RHA_ThunderTrial030_ward_d.label>
+  <RHA_ThunderTrial030_ward_d.description>主要威胁：供能者为关联敌人提供保护。 可用解法：击破、控制供能者，或用实际伤害打断供能。 成功收益：关联敌人失衡8秒，承受伤害提高25%。 忽略代价：忽略供能时关联敌人最多减伤20%。
+本关编排：蓄能打断；锁定落点。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。沿用原有限敌人编组。</RHA_ThunderTrial030_ward_d.description>
+  <RHA_ThunderTrial030_net_fork.label>双路馈电考核</RHA_ThunderTrial030_net_fork.label>
+  <RHA_ThunderTrial030_net_fork.description>主要威胁：供能者为关联敌人提供保护。 可用解法：击破、控制供能者，或用实际伤害打断供能。 成功收益：关联敌人失衡8秒，承受伤害提高25%。 忽略代价：忽略供能时关联敌人最多减伤20%。
+本关编排：双体联动；固定射线。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。沿用原有限敌人编组。</RHA_ThunderTrial030_net_fork.description>
+  <RHA_ThunderTrial030_net_fork_c.label>四向风暴考核</RHA_ThunderTrial030_net_fork_c.label>
+  <RHA_ThunderTrial030_net_fork_c.description>主要威胁：供能者为关联敌人提供保护。 可用解法：击破、控制供能者，或用实际伤害打断供能。 成功收益：关联敌人失衡8秒，承受伤害提高25%。 忽略代价：忽略供能时关联敌人最多减伤20%。
+本关编排：双体联动；锁定落点。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。五阶固定首领与两名护卫，无补员或复活。</RHA_ThunderTrial030_net_fork_c.description>
+  <RHA_ThunderTrial030_focus_trade.label>危险电压考核</RHA_ThunderTrial030_focus_trade.label>
+  <RHA_ThunderTrial030_focus_trade.description>主要威胁：供能者为关联敌人提供保护。 可用解法：击破、控制供能者，或用实际伤害打断供能。 成功收益：关联敌人失衡8秒，承受伤害提高25%。 忽略代价：忽略供能时关联敌人最多减伤20%。
+本关编排：蓄能打断；前后连续落点。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。沿用原有限敌人编组。</RHA_ThunderTrial030_focus_trade.description>
+  <RHA_ThunderTrial030_focus_trade_c.label>临界放电考核</RHA_ThunderTrial030_focus_trade_c.label>
+  <RHA_ThunderTrial030_focus_trade_c.description>主要威胁：供能者为关联敌人提供保护。 可用解法：击破、控制供能者，或用实际伤害打断供能。 成功收益：关联敌人失衡8秒，承受伤害提高25%。 忽略代价：忽略供能时关联敌人最多减伤20%。
+本关编排：蓄能打断；锁定落点。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。五阶固定首领与两名护卫，无补员或复活。</RHA_ThunderTrial030_focus_trade_c.description>
+</LanguageData>

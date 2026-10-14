@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_STAR_Path_Blade.nodes.0.label>入刃</RHA_STAR_Path_Blade.nodes.0.label>
+  <RHA_STAR_Path_Blade.nodes.0.description>沿用已选锋刃进化。精进：进化追加伤害。 精进初始 ×1，终值：伤害 ×50。</RHA_STAR_Path_Blade.nodes.0.description>
+  <RHA_STAR_Path_Blade.nodes.1.label>锁刃</RHA_STAR_Path_Blade.nodes.1.label>
+  <RHA_STAR_Path_Blade.nodes.1.description>对同一敌人累计3次2格内普通命中，留下5秒刃痕，最多保留1名目标，间隔3秒。换目标或相邻有效命中间隔达到4秒重新计数；远处命中、追加伤害和战技不累计。精进：刃痕持续时间。 精进初始 ×1，终值：标记时长 ×1.5。</RHA_STAR_Path_Blade.nodes.1.description>
+  <RHA_STAR_Path_Blade.nodes.2.label>交锋</RHA_STAR_Path_Blade.nodes.2.label>
+  <RHA_STAR_Path_Blade.nodes.2.description>4秒内在2格内普通命中两名不同敌人，为本人提供50点独立护盾、持续3秒，间隔4秒。重复命中同一目标不推进，也不延长计数期限。精进：护盾量。 基础收益：护盾 50。 精进初始 ×1，终值：护盾 ×20。</RHA_STAR_Path_Blade.nodes.2.description>
+  <RHA_STAR_Path_Blade.nodes.3.label>收锋</RHA_STAR_Path_Blade.nodes.3.label>
+  <RHA_STAR_Path_Blade.nodes.3.description>锋刃战技命中带刃痕的敌人时消耗标记，追加75点伤害，每名目标间隔1秒。后续脉冲没有标记便不再追加。精进：追加伤害。 基础收益：伤害 75。 精进初始 ×1，终值：伤害 ×50。</RHA_STAR_Path_Blade.nodes.3.description>
+  <RHA_STAR_Path_Blade.nodes.4.label>虚招</RHA_STAR_Path_Blade.nodes.4.label>
+  <RHA_STAR_Path_Blade.nodes.4.description>2格内普通命中带刃痕敌人，消耗标记并记住双方位置3秒。本人实际步行绕过旧目标位置的分界线，再在2格内普通命中原敌人，追加50点伤害。站在分界线上不算绕到另一侧；目标移动不改变分界线，瞬移取消机会。每枚刃痕一次，新机会替换旧机会。精进：追加伤害。 基础收益：伤害 50。 精进初始 ×1，终值：伤害 ×50。</RHA_STAR_Path_Blade.nodes.4.description>
+  <RHA_STAR_Path_Blade.nodes.5.label>刃背</RHA_STAR_Path_Blade.nodes.5.label>
+  <RHA_STAR_Path_Blade.nodes.5.description>交锋盾实际吸收敌伤后记住最近攻击者3秒。2格内普通命中该敌人时返还最近一击实际吸收量、最多50点伤害，每轮一次。后续挡伤会更换攻击者和返伤量，不延长首次挡伤开启的3秒期限。精进：返伤上限，实际吸收量不放大。 基础收益：伤害 50。 精进初始 ×1，终值：伤害 ×50。</RHA_STAR_Path_Blade.nodes.5.description>
+  <RHA_STAR_Path_Blade.nodes.6.label>并刃</RHA_STAR_Path_Blade.nodes.6.label>
+  <RHA_STAR_Path_Blade.nodes.6.description>交锋实际授盾后3秒内，下一次2格内普通命中留下3秒接击标记。另一名己方殖民者普通命中该敌人，获得基础1点盾、持续3秒；每轮一次，原持有者不能领取，新交锋替换未完成的旧轮次。精进：护盾量。 精进初始 ×1，终值：护盾 ×20。</RHA_STAR_Path_Blade.nodes.6.description>
+  <RHA_STAR_Path_Blade.nodes.7.label>回刃</RHA_STAR_Path_Blade.nodes.7.label>
+  <RHA_STAR_Path_Blade.nodes.7.description>收锋实际追加伤害后留下4秒转火机会。本人在2格内普通命中另一敌人，直接为其留下5秒刃痕，每轮一次。始终只保留一名标记目标，新刃痕替换旧标记，不重置锁刃累计和冷却。精进：刃痕持续时间。 精进初始 ×1，终值：标记时长 ×1.5。</RHA_STAR_Path_Blade.nodes.7.description>
+  <RHA_STAR_Path_Blade.nodes.8.label>侧锋</RHA_STAR_Path_Blade.nodes.8.label>
+  <RHA_STAR_Path_Blade.nodes.8.description>虚招实际伤害后，记住原敌人30秒。下一次锋刃战技实际命中该敌人，追加50点伤害并消耗机会；离开或失去目标不转移奖励。精进：追加伤害。 基础收益：伤害 50。 精进初始 ×1，终值：伤害 ×50。</RHA_STAR_Path_Blade.nodes.8.description>
+  <RHA_STAR_Path_Blade.nodes.9.label>续战</RHA_STAR_Path_Blade.nodes.9.label>
+  <RHA_STAR_Path_Blade.nodes.9.description>刃背实际返伤后留下3秒机会。本人实际步行至少一步，再在2格内普通命中原攻击者，修复本人非永久伤势，基础治疗量20点，受治疗增减效果影响，每轮一次。满血不消耗机会、不续时；瞬移取消机会。精进：治疗量。 基础收益：治疗 20。 精进初始 ×1，终值：治疗 ×10。</RHA_STAR_Path_Blade.nodes.9.description>
+  <RHA_STAR_Path_Blade.nodes.10.label>夹击</RHA_STAR_Path_Blade.nodes.10.label>
+  <RHA_STAR_Path_Blade.nodes.10.description>并刃授出的队友盾实际挡伤后留下3秒机会。本人近身普通命中接击标记的原敌人，追加50点伤害；只认该队友的这一层盾，每轮一次。精进：追加伤害。 基础收益：伤害 50。 精进初始 ×1，终值：伤害 ×50。</RHA_STAR_Path_Blade.nodes.10.description>
+  <RHA_STAR_Path_Blade.nodes.11.label>余锋护身</RHA_STAR_Path_Blade.nodes.11.label>
+  <RHA_STAR_Path_Blade.nodes.11.description>回刃留下的刃痕被收锋实际消费并造成伤害后，为本人提供50点护盾、持续3秒；每枚转移标记一次，不用普通锁刃标记冒领。精进：护盾量。 基础收益：护盾 50。 精进初始 ×1，终值：护盾 ×20。</RHA_STAR_Path_Blade.nodes.11.description>
+  <RHA_STAR_Path_Blade.nodes.12.label>接锋</RHA_STAR_Path_Blade.nodes.12.label>
+  <RHA_STAR_Path_Blade.nodes.12.description>回刃刃痕被收锋消费并造成伤害后，开启3秒机会。本人步行至少两步、净位移达到2格，再在2格内普通命中另一敌人，追加50点伤害；每枚标记一次，接锋本身不生成新刃痕，瞬移取消机会。精进：追加伤害。 基础收益：伤害 50。 精进初始 ×1，终值：伤害 ×50。</RHA_STAR_Path_Blade.nodes.12.description>
+  <RHA_STAR_Path_Blade.nodes.13.label>追锋</RHA_STAR_Path_Blade.nodes.13.label>
+  <RHA_STAR_Path_Blade.nodes.13.description>侧锋实际追加伤害后记住受害者位置3秒。本人实际步行离开该位置2格范围，再在2格内普通命中另一敌人，追加50点伤害，每轮一次。原目标移动不改变范围，瞬移取消机会。精进：追加伤害。 基础收益：伤害 50。 精进初始 ×1，终值：伤害 ×50。</RHA_STAR_Path_Blade.nodes.13.description>
+  <RHA_STAR_Path_Blade.nodes.14.label>藏锋</RHA_STAR_Path_Blade.nodes.14.label>
+  <RHA_STAR_Path_Blade.nodes.14.description>侧锋实际追加伤害后，为3格内最近的其他殖民者提供基础50点护盾、持续3秒。附近无人则只给本人基础1点；每轮一次，不能由后续脉冲反复授盾。精进：护盾量。 基础收益：护盾 25/50。 精进初始 ×1，终值：护盾 ×20。</RHA_STAR_Path_Blade.nodes.14.description>
+  <RHA_STAR_Path_Blade.nodes.15.label>护住缺口</RHA_STAR_Path_Blade.nodes.15.label>
+  <RHA_STAR_Path_Blade.nodes.15.description>续战实际治疗后，为本人提供基础50点独立护盾、持续3秒，每轮一次；新盾不能重新开启刃背。精进：护盾量。 基础收益：护盾 50。 精进初始 ×1，终值：护盾 ×20。</RHA_STAR_Path_Blade.nodes.15.description>
+  <RHA_STAR_Path_Blade.nodes.16.label>换手</RHA_STAR_Path_Blade.nodes.16.label>
+  <RHA_STAR_Path_Blade.nodes.16.description>续战实际治疗后留下3秒转火机会。本人在2格内普通命中另一敌人，为4格内受伤最重的其他殖民者治疗，基础量20点，受治疗增减效果影响，每轮一次。无人可治疗时保留原期限，不续时。精进：治疗量。 基础收益：治疗 20。 精进初始 ×1，终值：治疗 ×10。</RHA_STAR_Path_Blade.nodes.16.description>
+  <RHA_STAR_Path_Blade.nodes.17.label>合围</RHA_STAR_Path_Blade.nodes.17.label>
+  <RHA_STAR_Path_Blade.nodes.17.description>夹击实际伤害后，为并刃原队友提供2点新盾、持续3秒；每轮一次，新盾不重新开启夹击。精进：护盾量。 基础收益：护盾 50。 精进初始 ×1，终值：护盾 ×20。</RHA_STAR_Path_Blade.nodes.17.description>
+  <RHA_STAR_Path_Blade.nodes.18.label>换翼</RHA_STAR_Path_Blade.nodes.18.label>
+  <RHA_STAR_Path_Blade.nodes.18.description>夹击实际伤害后记住原队友当时的位置3秒。本人实际步行走出该位置2格范围，再在2格内普通命中另一敌人，治疗4格内伤势最重的另一名殖民者，基础量1点，排除原队友和本人；每轮一次。无人可治疗时不消费、不续时；瞬移取消机会。精进：治疗量。 基础收益：治疗 20。 精进初始 ×1，终值：治疗 ×10。</RHA_STAR_Path_Blade.nodes.18.description>
+</LanguageData>

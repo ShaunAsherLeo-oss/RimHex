@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Defs>
+  <RimHex.HexSkillDef>
+    <defName>RHA_Skill_Spin021</defName>
+    <label>Storm Spin</label>
+    <description>Start spinning. The first 3 seconds are free; later pulses spend 8 shield every 0.5 seconds, up to 12 seconds total. Movement does not interrupt it; standing still grows its radius.</description>
+    <cardKey>Spin021</cardKey>
+    <aim>Self</aim>
+    <range>0</range>
+    <radius>3</radius>
+    <cooldown>900</cooldown>
+    <visual>Flurry</visual>
+    <autoRule>Threat</autoRule>
+    <minEnemies>1</minEnemies>
+    <iconPath>RimHex/Skills/Spin021</iconPath>
+  </RimHex.HexSkillDef>
+  <RimHex.HexSkillDef>
+    <defName>RHA_Skill_Finish021</defName>
+    <label>Wind-down Strike</label>
+    <description>Manually end the spin and strike one enemy. Damage increases with completed pulses, up to 44 base ability damage.</description>
+    <cardKey>Finish021</cardKey>
+    <aim>Enemy</aim>
+    <range>10</range>
+    <radius>0</radius>
+    <cooldown>60</cooldown>
+    <visual>Cleave</visual>
+    <autoRule>Threat</autoRule>
+    <minEnemies>1</minEnemies>
+    <iconPath>RimHex/Skills/Finish021</iconPath>
+  </RimHex.HexSkillDef>
+  <RimHex.HexSkillDef>
+    <defName>RHA_Skill_Salvo021</defName>
+    <label>Empty the Magazine</label>
+    <description>Spend all prismatic rounds for 7 base ability damage each. Requires a ranged weapon. Autocast waits for a full magazine.</description>
+    <cardKey>Salvo021</cardKey>
+    <aim>Enemy</aim>
+    <range>28</range>
+    <radius>0</radius>
+    <cooldown>480</cooldown>
+    <visual>Lance</visual>
+    <autoRule>Threat</autoRule>
+    <minEnemies>1</minEnemies>
+    <iconPath>RimHex/Skills/Salvo021</iconPath>
+  </RimHex.HexSkillDef>
+  <RimHex.HexSkillDef>
+    <defName>RHA_Skill_Node021</defName>
+    <label>Deploy Node</label>
+    <description>Choose an empty cell for a stationary projection, or choose your own summon as a relay. One designated relay per owner; projections last 30 seconds.</description>
+    <cardKey>Node021</cardKey>
+    <aim>Ground</aim>
+    <range>12</range>
+    <radius>0</radius>
+    <cooldown>300</cooldown>
+    <visual>Portal</visual>
+    <autoRule>Threat</autoRule>
+    <minEnemies>1</minEnemies>
+    <iconPath>RimHex/Skills/Node021</iconPath>
+  </RimHex.HexSkillDef>
+  <RimHex.HexSkillDef>
+    <defName>RHA_Skill_Relay021</defName>
+    <label>Resonance Pulse</label>
+    <description>Cast a pulse from a linked relay or yourself for 14 base ability damage. The first pulse within 6 seconds of recalling a node deals 21 instead.</description>
+    <cardKey>Relay021</cardKey>
+    <aim>Enemy</aim>
+    <range>12</range>
+    <radius>0</radius>
+    <cooldown>360</cooldown>
+    <visual>Lance</visual>
+    <autoRule>Threat</autoRule>
+    <minEnemies>1</minEnemies>
+    <iconPath>RimHex/Skills/Relay021</iconPath>
+  </RimHex.HexSkillDef>
+  <RimHex.HexSkillDef>
+    <defName>RHA_Skill_Recall021</defName>
+    <label>Recall Node</label>
+    <description>Manually consume the designated summon, gain 16 shield, reset Resonance Pulse cooldown and strengthen its next cast within 6 seconds. Recall can be used once per 6 seconds, regardless of haste or cooldown refunds.</description>
+    <cardKey>Recall021</cardKey>
+    <aim>Self</aim>
+    <range>0</range>
+    <radius>0</radius>
+    <cooldown>300</cooldown>
+    <visual>Soul</visual>
+    <autoRule>Threat</autoRule>
+    <minEnemies>1</minEnemies>
+    <iconPath>RimHex/Skills/Recall021</iconPath>
+  </RimHex.HexSkillDef>
+</Defs>

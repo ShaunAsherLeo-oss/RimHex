@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_A14_FanTheHammer.label>连拨击锤</RHA_A14_FanTheHammer.label>
+  <RHA_A14_FanTheHammer.description>每 1.5 秒一次，直接命中后连续追加三发飞弹，每发每层造成 5.2 点基础追加伤害。 最多 4 层。</RHA_A14_FanTheHammer.description>
+  <RHA_A14_FanTheHammer.theme>施法技艺</RHA_A14_FanTheHammer.theme>
+  <RHA_A14_SpellSplit.label>咒语裂变</RHA_A14_SpellSplit.label>
+  <RHA_A14_SpellSplit.description>棱晶飞矢命中后向 6 格内至多两名其他敌人分裂，每枚每层以本次实际伤害的 26% 为基础造成追加伤害。分裂不会再分裂。 附带学会棱晶飞矢。 最多 4 层。 复制伤害沿用原结算值；固定追加部分仍可增幅。</RHA_A14_SpellSplit.description>
+  <RHA_A14_SpellSplit.theme>施法技艺</RHA_A14_SpellSplit.theme>
+  <RHA_A14_EchoCast.label>回响施放</RHA_A14_EchoCast.label>
+  <RHA_A14_EchoCast.description>每次战技对每个敌人首次有效命中后，0.75 秒后重现该次伤害的回响。每层以实际伤害的 29.25% 为基础造成追加伤害，不重放位移、治疗或产物，也不触发新一轮施法联动。 附带学会棱晶飞矢。 最多 4 层。 复制伤害沿用原结算值；固定追加部分仍可增幅。</RHA_A14_EchoCast.description>
+  <RHA_A14_EchoCast.theme>施法技艺</RHA_A14_EchoCast.theme>
+  <RHA_A14_TwinFire.label>双生火焰</RHA_A14_TwinFire.label>
+  <RHA_A14_TwinFire.description>每层增加 6.825% 暴击值。每次战技对每个敌人首次有效命中后追加两发飞弹，每发每层造成 6.5 点基础追加伤害。 附带学会棱晶飞矢。 最多 4 层。</RHA_A14_TwinFire.description>
+  <RHA_A14_TwinFire.theme>施法技艺</RHA_A14_TwinFire.theme>
+  <RHA_A14_WildFire.label>野火</RHA_A14_WildFire.label>
+  <RHA_A14_WildFire.description>征召且能行动时，每 4 秒自动攻击 14 格内可见敌人；随后在相距 5 格内的不同敌人间跳转至多两次。每跳每层造成 14.3 点基础追加伤害。没有敌人时不消耗间隔。 附带学会棱晶飞矢。 最多 4 层。</RHA_A14_WildFire.description>
+  <RHA_A14_WildFire.theme>施法技艺</RHA_A14_WildFire.theme>
+  <RHA_A14_AcceleratingSorcery.label>加速巫术</RHA_A14_AcceleratingSorcery.label>
+  <RHA_A14_AcceleratingSorcery.description>每次成功施放战斗技能获得一层巫术，最多 20 层，停手 15 秒后清空。每层巫术每层卡增加 5.2% 技能急速。自动飞弹与回响不计为施法。 附带学会棱晶飞矢。 最多 4 层。</RHA_A14_AcceleratingSorcery.description>
+  <RHA_A14_AcceleratingSorcery.theme>施法技艺</RHA_A14_AcceleratingSorcery.theme>
+  <RHA_A14_Archmage.label>大法师</RHA_A14_Archmage.label>
+  <RHA_A14_Archmage.description>成功施放战斗技能后，每层卡返还其他已记录的个人战技 0.65 秒冷却。不会返还刚刚施放的技能，最早下一刻才能再次施放。 附带学会棱晶飞矢。 最多 4 层。</RHA_A14_Archmage.description>
+  <RHA_A14_Archmage.theme>施法技艺</RHA_A14_Archmage.theme>
+  <RHA_A14_UltimateAwakening.label>终极唤醒</RHA_A14_UltimateAwakening.label>
+  <RHA_A14_UltimateAwakening.description>施放个人流派战技后刷新基础战技，随后 8 秒内基础战技每层卡增加 65% 技能急速。该唤醒独立间隔 15 秒；殖民地技能不触发。 附带学会棱晶飞矢。 最多 4 层。</RHA_A14_UltimateAwakening.description>
+  <RHA_A14_UltimateAwakening.theme>施法技艺</RHA_A14_UltimateAwakening.theme>
+  <RHA_A14_Multishot.label>多重射击</RHA_A14_Multishot.label>
+  <RHA_A14_Multishot.description>晶矢在战斗中命中积累共享熟练度。达到 20/40 点后，向目标 7 格内额外一名/两名敌人发射晶矢，额外晶矢基础伤害为原来的 65%。熟练度每秒至多增加一次，受成长加成影响且存档保留。附带学会晶矢。</RHA_A14_Multishot.description>
+  <RHA_A14_Multishot.theme>施法技艺</RHA_A14_Multishot.theme>
+  <RHA_A14_PursuitOfPower.label>威能之追求</RHA_A14_PursuitOfPower.label>
+  <RHA_A14_PursuitOfPower.description>棱晶飞矢实战命中积累共用熟练度。达到 40／80 点，每层卡使飞矢伤害增加 48.75%／97.5%。每秒最多积累一次，受成长加成影响，读档保留。 附带学会棱晶飞矢。 最多 4 层。</RHA_A14_PursuitOfPower.description>
+  <RHA_A14_PursuitOfPower.theme>施法技艺</RHA_A14_PursuitOfPower.theme>
+  <RHA_A14_PursuitOfHaste.label>急速之追求</RHA_A14_PursuitOfHaste.label>
+  <RHA_A14_PursuitOfHaste.description>棱晶飞矢实战命中积累共用熟练度。达到 40／80 点，每层卡使飞矢技能急速增加 32.5%／65%。每秒最多积累一次，受成长加成影响，冷却最短 1 秒。 附带学会棱晶飞矢。 最多 4 层。</RHA_A14_PursuitOfHaste.description>
+  <RHA_A14_PursuitOfHaste.theme>施法技艺</RHA_A14_PursuitOfHaste.theme>
+  <RHA_A14_TriggeredInferno.label>扳机炼狱</RHA_A14_TriggeredInferno.label>
+  <RHA_A14_TriggeredInferno.description>交替进行直接命中与成功施放战斗技能，累积六步连招后引爆周围 7 格内敌人，每层造成 45.5 点基础追加伤害并施加 灼烧（每次脉冲 3.25 点基础伤害）。相同步骤不累加，停手 8 秒清空；爆发间隔 10 秒。 附带学会棱晶飞矢。 最多 4 层。</RHA_A14_TriggeredInferno.description>
+  <RHA_A14_TriggeredInferno.theme>施法技艺</RHA_A14_TriggeredInferno.theme>
+</LanguageData>

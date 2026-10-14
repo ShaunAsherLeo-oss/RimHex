@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Defs>
+  <RimHex.HexEnemySourceDef037>
+    <defName>RHA_EnemySource038_RHA_038_Fulmination</defName>
+    <label>RHA_038_Fulmination</label>
+    <description>Original owned equipment/card source; localized identity and effect mirror its definition.</description>
+    <equipmentDefName>RHA_038_Fulmination</equipmentDefName>
+    <hediffClass>RimHex.Hediff_HexEnemySource037</hediffClass>
+    <isBad>false</isBad>
+    <scenarioCanAdd>false</scenarioCanAdd>
+  </RimHex.HexEnemySourceDef037>
+  <RimHex.HexEnemySourceDef037>
+    <defName>RHA_EnemySource038_RHA_038_Quicksilver</defName>
+    <label>RHA_038_Quicksilver</label>
+    <description>Original owned equipment/card source; localized identity and effect mirror its definition.</description>
+    <equipmentDefName>RHA_038_Quicksilver</equipmentDefName>
+    <hediffClass>RimHex.Hediff_HexEnemySource037</hediffClass>
+    <isBad>false</isBad>
+    <scenarioCanAdd>false</scenarioCanAdd>
+  </RimHex.HexEnemySourceDef037>
+  <RimHex.HexEnemySourceDef037>
+    <defName>RHA_EnemySource038_RHA_REX61A</defName>
+    <label>RHA_REX61A</label>
+    <description>Original owned equipment/card source; localized identity and effect mirror its definition.</description>
+    <cardDefName>RHA_REX61A</cardDefName>
+    <hediffClass>RimHex.Hediff_HexEnemySource037</hediffClass>
+    <isBad>false</isBad>
+    <scenarioCanAdd>false</scenarioCanAdd>
+  </RimHex.HexEnemySourceDef037>
+  <RimHex.HexEnemySourceDef037>
+    <defName>RHA_EnemySource038_RHA_REX61B</defName>
+    <label>RHA_REX61B</label>
+    <description>Original owned equipment/card source; localized identity and effect mirror its definition.</description>
+    <cardDefName>RHA_REX61B</cardDefName>
+    <hediffClass>RimHex.Hediff_HexEnemySource037</hediffClass>
+    <isBad>false</isBad>
+    <scenarioCanAdd>false</scenarioCanAdd>
+  </RimHex.HexEnemySourceDef037>
+  <RimHex.HexEnemySourceDef037>
+    <defName>RHA_EnemySource038_RHA_REX61C</defName>
+    <label>RHA_REX61C</label>
+    <description>Original owned equipment/card source; localized identity and effect mirror its definition.</description>
+    <cardDefName>RHA_REX61C</cardDefName>
+    <hediffClass>RimHex.Hediff_HexEnemySource037</hediffClass>
+    <isBad>false</isBad>
+    <scenarioCanAdd>false</scenarioCanAdd>
+  </RimHex.HexEnemySourceDef037>
+  <RimHex.HexEnemySourceDef037>
+    <defName>RHA_EnemySource038_RHA_REX62A</defName>
+    <label>RHA_REX62A</label>
+    <description>Original owned equipment/card source; localized identity and effect mirror its definition.</description>
+    <cardDefName>RHA_REX62A</cardDefName>
+    <hediffClass>RimHex.Hediff_HexEnemySource037</hediffClass>
+    <isBad>false</isBad>
+    <scenarioCanAdd>false</scenarioCanAdd>
+  </RimHex.HexEnemySourceDef037>
+  <RimHex.HexEnemySourceDef037>
+    <defName>RHA_EnemySource038_RHA_REX62B</defName>
+    <label>RHA_REX62B</label>
+    <description>Original owned equipment/card source; localized identity and effect mirror its definition.</description>
+    <cardDefName>RHA_REX62B</cardDefName>
+    <hediffClass>RimHex.Hediff_HexEnemySource037</hediffClass>
+    <isBad>false</isBad>
+    <scenarioCanAdd>false</scenarioCanAdd>
+  </RimHex.HexEnemySourceDef037>
+  <RimHex.HexEnemySourceDef037>
+    <defName>RHA_EnemySource038_RHA_REX62C</defName>
+    <label>RHA_REX62C</label>
+    <description>Original owned equipment/card source; localized identity and effect mirror its definition.</description>
+    <cardDefName>RHA_REX62C</cardDefName>
+    <hediffClass>RimHex.Hediff_HexEnemySource037</hediffClass>
+    <isBad>false</isBad>
+    <scenarioCanAdd>false</scenarioCanAdd>
+  </RimHex.HexEnemySourceDef037>
+</Defs>

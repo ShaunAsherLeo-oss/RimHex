@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_MarksmanTrial030_root.label>找准射程</RHA_MarksmanTrial030_root.label>
+  <RHA_MarksmanTrial030_root.description>主要威胁：压制者保护射击者，射击者锁定射界后开火。 可用解法：用实际伤害或控制打断压制，击破压制者，或利用掩体。 成功收益：射击者失去保护和当前蓄力，失衡8秒，承伤提高25%。 忽略代价：忽略压制会保留最多20%的射击者减伤和安全输出。
+本关编排：追击诱导；正前锁定射线。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。沿用原有限敌人编组。</RHA_MarksmanTrial030_root.description>
+  <RHA_MarksmanTrial030_sight.label>稳住准星</RHA_MarksmanTrial030_sight.label>
+  <RHA_MarksmanTrial030_sight.description>主要威胁：压制者保护射击者，射击者锁定射界后开火。 可用解法：用实际伤害或控制打断压制，击破压制者，或利用掩体。 成功收益：射击者失去保护和当前蓄力，失衡8秒，承伤提高25%。 忽略代价：忽略压制会保留最多20%的射击者减伤和安全输出。
+本关编排：连续攻击；右侧锁定射线。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。沿用原有限敌人编组。</RHA_MarksmanTrial030_sight.description>
+  <RHA_MarksmanTrial030_shift.label>转移准星</RHA_MarksmanTrial030_shift.label>
+  <RHA_MarksmanTrial030_shift.description>主要威胁：压制者保护射击者，射击者锁定射界后开火。 可用解法：用实际伤害或控制打断压制，击破压制者，或利用掩体。 成功收益：射击者失去保护和当前蓄力，失衡8秒，承伤提高25%。 忽略代价：忽略压制会保留最多20%的射击者减伤和安全输出。
+本关编排：双体联动；左右连续射线。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。沿用原有限敌人编组。</RHA_MarksmanTrial030_shift.description>
+  <RHA_MarksmanTrial030_pierce.label>射穿缺口</RHA_MarksmanTrial030_pierce.label>
+  <RHA_MarksmanTrial030_pierce.description>主要威胁：压制者保护射击者，射击者锁定射界后开火。 可用解法：用实际伤害或控制打断压制，击破压制者，或利用掩体。 成功收益：射击者失去保护和当前蓄力，失衡8秒，承伤提高25%。 忽略代价：忽略压制会保留最多20%的射击者减伤和安全输出。
+本关编排：支点破防；正前锁定射线。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。沿用原有限敌人编组。</RHA_MarksmanTrial030_pierce.description>
+  <RHA_MarksmanTrial030_pin.label>压住枪口</RHA_MarksmanTrial030_pin.label>
+  <RHA_MarksmanTrial030_pin.description>主要威胁：压制者保护射击者，射击者锁定射界后开火。 可用解法：用实际伤害或控制打断压制，击破压制者，或利用掩体。 成功收益：射击者失去保护和当前蓄力，失衡8秒，承伤提高25%。 忽略代价：忽略压制会保留最多20%的射击者减伤和安全输出。
+本关编排：连续攻击；左侧锁定射线。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。沿用原有限敌人编组。</RHA_MarksmanTrial030_pin.description>
+  <RHA_MarksmanTrial030_retreat.label>退步还击</RHA_MarksmanTrial030_retreat.label>
+  <RHA_MarksmanTrial030_retreat.description>主要威胁：压制者保护射击者，射击者锁定射界后开火。 可用解法：用实际伤害或控制打断压制，击破压制者，或利用掩体。 成功收益：射击者失去保护和当前蓄力，失衡8秒，承伤提高25%。 忽略代价：忽略压制会保留最多20%的射击者减伤和安全输出。
+本关编排：追击诱导；正前锁定射线。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。沿用原有限敌人编组。</RHA_MarksmanTrial030_retreat.description>
+  <RHA_MarksmanTrial030_relay.label>接替火力</RHA_MarksmanTrial030_relay.label>
+  <RHA_MarksmanTrial030_relay.description>主要威胁：压制者保护射击者，射击者锁定射界后开火。 可用解法：用实际伤害或控制打断压制，击破压制者，或利用掩体。 成功收益：射击者失去保护和当前蓄力，失衡8秒，承伤提高25%。 忽略代价：忽略压制会保留最多20%的射击者减伤和安全输出。
+本关编排：移动支援；左侧锁定射线。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。沿用原有限敌人编组。</RHA_MarksmanTrial030_relay.description>
+  <RHA_MarksmanTrial030_lane.label>看住两线</RHA_MarksmanTrial030_lane.label>
+  <RHA_MarksmanTrial030_lane.description>主要威胁：压制者保护射击者，射击者锁定射界后开火。 可用解法：用实际伤害或控制打断压制，击破压制者，或利用掩体。 成功收益：射击者失去保护和当前蓄力，失衡8秒，承伤提高25%。 忽略代价：忽略压制会保留最多20%的射击者减伤和安全输出。
+本关编排：双体联动；右侧锁定射线。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。沿用原有限敌人编组。</RHA_MarksmanTrial030_lane.description>
+  <RHA_MarksmanTrial030_interrupt.label>截住齐射</RHA_MarksmanTrial030_interrupt.label>
+  <RHA_MarksmanTrial030_interrupt.description>主要威胁：压制者保护射击者，射击者锁定射界后开火。 可用解法：用实际伤害或控制打断压制，击破压制者，或利用掩体。 成功收益：射击者失去保护和当前蓄力，失衡8秒，承伤提高25%。 忽略代价：忽略压制会保留最多20%的射击者减伤和安全输出。
+本关编排：连续攻击；右侧锁定射线。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。沿用原有限敌人编组。</RHA_MarksmanTrial030_interrupt.description>
+  <RHA_MarksmanTrial030_return.label>回到射位</RHA_MarksmanTrial030_return.label>
+  <RHA_MarksmanTrial030_return.description>主要威胁：压制者保护射击者，射击者锁定射界后开火。 可用解法：用实际伤害或控制打断压制，击破压制者，或利用掩体。 成功收益：射击者失去保护和当前蓄力，失衡8秒，承伤提高25%。 忽略代价：忽略压制会保留最多20%的射击者减伤和安全输出。
+本关编排：追击诱导；右侧锁定射线。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。沿用原有限敌人编组。</RHA_MarksmanTrial030_return.description>
+  <RHA_MarksmanTrial030_cover.label>掩护后撤</RHA_MarksmanTrial030_cover.label>
+  <RHA_MarksmanTrial030_cover.description>主要威胁：压制者保护射击者，射击者锁定射界后开火。 可用解法：用实际伤害或控制打断压制，击破压制者，或利用掩体。 成功收益：射击者失去保护和当前蓄力，失衡8秒，承伤提高25%。 忽略代价：忽略压制会保留最多20%的射击者减伤和安全输出。
+本关编排：目标保护；右侧锁定射线。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。沿用原有限敌人编组。</RHA_MarksmanTrial030_cover.description>
+  <RHA_MarksmanTrial030_lane_split.label>拆开交火</RHA_MarksmanTrial030_lane_split.label>
+  <RHA_MarksmanTrial030_lane_split.description>主要威胁：压制者保护射击者，射击者锁定射界后开火。 可用解法：用实际伤害或控制打断压制，击破压制者，或利用掩体。 成功收益：射击者失去保护和当前蓄力，失衡8秒，承伤提高25%。 忽略代价：忽略压制会保留最多20%的射击者减伤和安全输出。
+本关编排：双体联动；正前锁定射线。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。五阶固定首领与两名护卫，无补员或复活。</RHA_MarksmanTrial030_lane_split.description>
+  <RHA_MarksmanTrial030_lane_cover.label>掩护缺口</RHA_MarksmanTrial030_lane_cover.label>
+  <RHA_MarksmanTrial030_lane_cover.description>主要威胁：压制者保护射击者，射击者锁定射界后开火。 可用解法：用实际伤害或控制打断压制，击破压制者，或利用掩体。 成功收益：射击者失去保护和当前蓄力，失衡8秒，承伤提高25%。 忽略代价：忽略压制会保留最多20%的射击者减伤和安全输出。
+本关编排：移动支援；左侧锁定射线。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。五阶固定首领与两名护卫，无补员或复活。</RHA_MarksmanTrial030_lane_cover.description>
+  <RHA_MarksmanTrial030_interrupt_chain.label>截断回击</RHA_MarksmanTrial030_interrupt_chain.label>
+  <RHA_MarksmanTrial030_interrupt_chain.description>主要威胁：压制者保护射击者，射击者锁定射界后开火。 可用解法：用实际伤害或控制打断压制，击破压制者，或利用掩体。 成功收益：射击者失去保护和当前蓄力，失衡8秒，承伤提高25%。 忽略代价：忽略压制会保留最多20%的射击者减伤和安全输出。
+本关编排：双体联动；正前锁定射线。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。五阶固定首领与两名护卫，无补员或复活。</RHA_MarksmanTrial030_interrupt_chain.description>
+  <RHA_MarksmanTrial030_interrupt_guard.label>稳枪迎击</RHA_MarksmanTrial030_interrupt_guard.label>
+  <RHA_MarksmanTrial030_interrupt_guard.description>主要威胁：压制者保护射击者，射击者锁定射界后开火。 可用解法：用实际伤害或控制打断压制，击破压制者，或利用掩体。 成功收益：射击者失去保护和当前蓄力，失衡8秒，承伤提高25%。 忽略代价：忽略压制会保留最多20%的射击者减伤和安全输出。
+本关编排：连续攻击；左侧锁定射线。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。五阶固定首领与两名护卫，无补员或复活。</RHA_MarksmanTrial030_interrupt_guard.description>
+  <RHA_MarksmanTrial030_return_follow.label>再取射角</RHA_MarksmanTrial030_return_follow.label>
+  <RHA_MarksmanTrial030_return_follow.description>主要威胁：压制者保护射击者，射击者锁定射界后开火。 可用解法：用实际伤害或控制打断压制，击破压制者，或利用掩体。 成功收益：射击者失去保护和当前蓄力，失衡8秒，承伤提高25%。 忽略代价：忽略压制会保留最多20%的射击者减伤和安全输出。
+本关编排：追击诱导；正前锁定射线。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。五阶固定首领与两名护卫，无补员或复活。</RHA_MarksmanTrial030_return_follow.description>
+  <RHA_MarksmanTrial030_return_share.label>接应续战</RHA_MarksmanTrial030_return_share.label>
+  <RHA_MarksmanTrial030_return_share.description>主要威胁：压制者保护射击者，射击者锁定射界后开火。 可用解法：用实际伤害或控制打断压制，击破压制者，或利用掩体。 成功收益：射击者失去保护和当前蓄力，失衡8秒，承伤提高25%。 忽略代价：忽略压制会保留最多20%的射击者减伤和安全输出。
+本关编排：目标保护；左侧锁定射线。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。五阶固定首领与两名护卫，无补员或复活。</RHA_MarksmanTrial030_return_share.description>
+  <RHA_MarksmanTrial030_cover_close.label>补上火力缺口</RHA_MarksmanTrial030_cover_close.label>
+  <RHA_MarksmanTrial030_cover_close.description>主要威胁：压制者保护射击者，射击者锁定射界后开火。 可用解法：用实际伤害或控制打断压制，击破压制者，或利用掩体。 成功收益：射击者失去保护和当前蓄力，失衡8秒，承伤提高25%。 忽略代价：忽略压制会保留最多20%的射击者减伤和安全输出。
+本关编排：目标保护；正前锁定射线。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。五阶固定首领与两名护卫，无补员或复活。</RHA_MarksmanTrial030_cover_close.description>
+  <RHA_MarksmanTrial030_cover_shift.label>交叉接应</RHA_MarksmanTrial030_cover_shift.label>
+  <RHA_MarksmanTrial030_cover_shift.description>主要威胁：压制者保护射击者，射击者锁定射界后开火。 可用解法：用实际伤害或控制打断压制，击破压制者，或利用掩体。 成功收益：射击者失去保护和当前蓄力，失衡8秒，承伤提高25%。 忽略代价：忽略压制会保留最多20%的射击者减伤和安全输出。
+本关编排：移动支援；左侧锁定射线。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。五阶固定首领与两名护卫，无补员或复活。</RHA_MarksmanTrial030_cover_shift.description>
+</LanguageData>

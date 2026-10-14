@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_V22_Title>Engine branches</RHA_V22_Title>
+  <RHA_V22_Base>Base form</RHA_V22_Base>
+  <RHA_V22_Rules>Draft branch cards for a colonist who owns the core. Each core uses one branch at a time. Switch freely after undrafting, stopping the spin and spending 10 seconds without attacks, casts or enemy hits. Ammo and cooldowns are retained.</RHA_V22_Rules>
+  <RHA_V22_Requires>Requires: {0}</RHA_V22_Requires>
+  <RHA_V22_Unavailable>This colonist cannot change their build now</RHA_V22_Unavailable>
+  <RHA_V22_CombatLock>Undraft and remain out of combat for 10 seconds before switching</RHA_V22_CombatLock>
+  <RHA_V22_CanSwitch>Switching is available. Other acquired branches are kept.</RHA_V22_CanSwitch>
+  <RHA_V22_Form>{0}: {1}</RHA_V22_Form>
+  <RHA_V22_Links>Linked nodes: {0}/2; one cast per ability</RHA_V22_Links>
+  <RHA_V22_Following>Escorting: {0}</RHA_V22_Following>
+  <RHA_V22_ChooseEscort>Choose escort target</RHA_V22_ChooseEscort>
+  <RHA_V22_EscortHint>Choose a friendly humanlike colonist on this map. The projection follows normal paths. Relay coverage pauses outside its short link range.</RHA_V22_EscortHint>
+  <RHA_V22_AmmoStatus>Magazine: {0}/{1}; reload in {2}s; walking progress {3}/{4} cells</RHA_V22_AmmoStatus>
+  <RHA_V22_UseBase>Use base form</RHA_V22_UseBase>
+  <RHA_V22_Selected>Active</RHA_V22_Selected>
+  <RHA_V22_Select>Activate</RHA_V22_Select>
+  <RHA_V22_NotDrawn>Not acquired</RHA_V22_NotDrawn>
+</LanguageData>

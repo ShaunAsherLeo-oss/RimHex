@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_B_Boss>首领韧性</RHA_B_Boss>
+  <RHA_B_Veteran>精英战备</RHA_B_Veteran>
+  <RHA_B_Projector>屏障卫士</RHA_B_Projector>
+  <RHA_B_Artillery>蓄能炮手</RHA_B_Artillery>
+  <RHA_B_Suppressor>抑制卫士</RHA_B_Suppressor>
+  <RHA_B_Commander>战地指挥</RHA_B_Commander>
+  <RHA_B_Broken>破势</RHA_B_Broken>
+  <RHA_B_Stats>额外生命 ×{0}；额外伤害 ×{1}。</RHA_B_Stats>
+  <RHA_B_BossHelp>拥有有限屏障。连续控制会递减，但可积累破势；破势后受到伤害增加25%，特殊技能暂停4秒，随后有6秒稳固期。第一阶段未破势时，斩杀改为破盾与破势，每2秒一次；进入第二阶段或破势后可正常斩杀。灵魂护卫的保护仍需解除。</RHA_B_BossHelp>
+  <RHA_B_ProjectorHelp>为8格内最多两名同队友军分担伤害，需要视线畅通。屏障不保护自身或其他屏障卫士，击破后需12秒充能。击杀、眩晕或破势卫士可以中断保护。</RHA_B_ProjectorHelp>
+  <RHA_B_ArtilleryHelp>锁定地面后蓄力3秒，攻击半径2.5格；每12秒最多发射一次。移动或在蓄力时打断炮手可以避开攻击。</RHA_B_ArtilleryHelp>
+  <RHA_B_SuppressorHelp>每14秒展开一次9格抑制场，持续6秒，需要视线畅通。场内海克斯治疗和新获得的海克斯护盾减少35%。离开范围或控制、击杀来源可解除压制。</RHA_B_SuppressorHelp>
+  <RHA_B_CommanderHelp>使10格内、视线畅通的同队友军伤害增加15%。不作用于自身，同类指挥效果不叠加；眩晕或破势会中断指挥。</RHA_B_CommanderHelp>
+  <RHA_B_Barrier>屏障：{0} / {1}</RHA_B_Barrier>
+  <RHA_B_Poise>破势积累：{0} / 100；剩余虚弱：{1}秒。重复眩晕在10秒内递减，破势结束后6秒内不能再次积累。</RHA_B_Poise>
+  <RHA_B_Credit>击败贡献 {0} · 基础战力 {1}。成长在有效击杀时结算一次。</RHA_B_Credit>
+  <RHA_B_BarrierBroken>屏障破裂</RHA_B_BarrierBroken>
+  <RHA_B_ExecuteBreak>斩杀冲击：破势</RHA_B_ExecuteBreak>
+  <RHA_B_Charging>蓄能中 · 可打断</RHA_B_Charging>
+  <RHA_B_Warning>冲击 {0}秒</RHA_B_Warning>
+  <RHA_B_SettingsTitle>战斗与精英挑战</RHA_B_SettingsTitle>
+  <RHA_B_EnableRules>新试炼与遗迹战斗采用精英挑战规则</RHA_B_EnableRules>
+  <RHA_B_Intensity>挑战强度：×{0}</RHA_B_Intensity>
+  <RHA_B_EnableRaids>同时强化普通袭击（默认关闭）</RHA_B_EnableRaids>
+  <RHA_B_ExternalCompressor>已启用“{0}”，由它处理普通袭击压缩。海克斯规则仍用于试炼和遗迹。</RHA_B_ExternalCompressor>
+  <RHA_B_CompressThreshold>超过此人数开始压缩：{0}</RHA_B_CompressThreshold>
+  <RHA_B_PopulationLimit>普通袭击人数上限：{0}</RHA_B_PopulationLimit>
+  <RHA_B_Compression>超出部分的压缩倍率：{0}</RHA_B_Compression>
+  <RHA_B_SettingsHelp>强度与人数分开设置，对下一场战斗生效。任务指定袭击和自带生成逻辑的事件沿用原规则。压缩后每种兵种至少保留一人，因此可能超过人数上限；生成预算另有上限。</RHA_B_SettingsHelp>
+  <RHA_B_ContributionHelp>战功需同时满足贡献、基础战力、场次和等待时间。压缩精英折算更多贡献，击杀数另记；召唤物不提供压缩奖励。</RHA_B_ContributionHelp>
+  <RHA_B_ActualKills>本轮实际击杀：{0}</RHA_B_ActualKills>
+  <RHA_B_TrialPreview>精英挑战 · 强度×{0}。有限屏障、控制递减与破势；场上同时蓄力的敌人受到限制。低阶敌人仍可被强构筑迅速击败。</RHA_B_TrialPreview>
+  <RHA_B_LegacyRules>经典规则：保留原有试炼数值与控制交互。</RHA_B_LegacyRules>
+  <RHA_B_RaidReport>袭击编组：{0}人调整为{1}人，其中{2}名精英。挑战强度×{3}。精英职责可在健康页查看。</RHA_B_RaidReport>
+  <RHA_B_BudgetCapped>此次袭击已达到生成预算上限。</RHA_B_BudgetCapped>
+  <RHA_B_DiversityPreserved>为保留各类兵种，本次人数高于压缩目标。</RHA_B_DiversityPreserved>
+  <RHA_B_RuinPreview>精英挑战×{0}：部分守卫具有屏障、蓄力炮击或恢复抑制能力。技能与物资解法仍可使用。</RHA_B_RuinPreview>
+</LanguageData>

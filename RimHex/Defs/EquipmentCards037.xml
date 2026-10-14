@@ -1,0 +1,2904 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Defs>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX01A</defName>
+    <label>Molted scales</label>
+    <description>After actual hostile damage, gain a Dragonheart shield for 5 seconds, once per 12 seconds. Budget is 100 × your native HealthScale × (4% + 1% per item growth stage), fixed at 10% at six stages. Only the shield that actually wins the original stronger-value comparison belongs to this card. When it naturally expires, heal 30% of its unused owned remainder as real injury repair. Exhausted or replaced shields give no refund. Removing the Dragonheart removes only its remaining portion; cooldown stays earned.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>1</relicIndex>
+    <band>0</band>
+    <equipmentDefName>RHA_Dragonheart</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards/RHA_REX01A</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX01B</defName>
+    <label>Six-chamber breath</label>
+    <description>Every six native direct hits, breathe fire on the victim and up to two other enemies within 2 cells. Each takes max(12, W × (12% + 2% per Dragonheart growth stage)) burn damage. Apply an ember for 3 seconds: your next native direct hit on that target consumes it for max(10, 10% of the snapshotted W) burn damage. Derived fire does not advance the counter or update W. Each card has one executor; duplicate copies provide no benefit.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>1</relicIndex>
+    <band>1</band>
+    <equipmentDefName>RHA_Dragonheart</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards/RHA_REX01B</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX01C</defName>
+    <label>Judgment's embers</label>
+    <description>After an actual successful original execution for which a six-stage Dragonheart's own20% threshold was sufficient, bank10% of the victim's100×HealthScale budget, limited to max(40, 0.5W), for8 seconds. Your next native direct hit consumes it as burn damage on the victim, or as a5-second shield if your native summary health was below50% when that hit began. Keep the stronger earned spark and refresh time; removing the Dragonheart or leaving the map clears it. Spark damage never banks another spark.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>1</relicIndex>
+    <band>2</band>
+    <equipmentDefName>RHA_Dragonheart</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards/RHA_REX01C</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX02A</defName>
+    <label>Forked trace</label>
+    <description>After an original chain round actually hits at least two distinct enemies, fork once from its last actual impact to the nearest enemy within4 cells not hit by that round. Deal max(20, 60% of the round's highest actual single-target injury damage) as electrical burn. If no new enemy exists, grant the wearer a20-point shield for4 seconds. Secondary forks never count as another original chain round.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>2</relicIndex>
+    <band>0</band>
+    <equipmentDefName>RHA_Runecarver</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards/RHA_REX02A</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX02B</defName>
+    <label>Monopole capacitor</label>
+    <description>An original chain round that actually hits exactly one enemy leaves your capacitor on it for6 seconds. Freeze its charge unit at max(8, 10% of your W when created). Each later native direct hit charges it once; the third charge or expiry releases the full stored electrical burn. A new isolated chain refreshes expiry without erasing energy or changing the frozen unit. Source removal, target death or map departure clears it. Stored charge roots remain in the discharge ancestry.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>2</relicIndex>
+    <band>1</band>
+    <equipmentDefName>RHA_Runecarver</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards/RHA_REX02B</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX02C</defName>
+    <label>Grounding runes</label>
+    <description>Each original chain round earns up to three runes from distinct enemies actually injured; replenish to at most3 and refresh6 seconds. After actual hostile injury, you or an eligible ally within4 cells spends one of your runes for an18-point source-owned shield lasting3 seconds. Each recipient may receive one per second from each author; the earliest actual injury settles first. Different authors keep independent rune budgets and shield layers. Removing the Runecarver cancels unspent runes.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>2</relicIndex>
+    <band>2</band>
+    <equipmentDefName>RHA_Runecarver</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards/RHA_REX02C</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX03A</defName>
+    <label>Outer-ring fragments</label>
+    <description>After an original Orb blast, strike at most two nearest visible enemies farther than4.5 and no farther than7 cells from its original center. Each takes max(18, 30% of the round's highest actual single-target injury damage) cut damage. Never reselect inner-ring targets, allies or enemies hidden by walls. Fragments are secondary damage.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>3</relicIndex>
+    <band>0</band>
+    <equipmentDefName>RHA_DetonationOrb</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards/RHA_REX03A</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX03B</defName>
+    <label>Instant concussion</label>
+    <description>The Orb's original explosion keeps its full damage. After it damages an enemy, a second blast immediately strikes up to four nearest visible standing enemies within 2.5 cells of the center. Each extra hit has base blunt damage equal to 40% of the original explosion's highest actual damage to one enemy, at least 25. Requires this personal card and a worn Orb.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>3</relicIndex>
+    <band>1</band>
+    <equipmentDefName>RHA_DetonationOrb</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards/RHA_REX03B</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX03C</defName>
+    <label>Compressed epicenter</label>
+    <description>Before the original Orb blast, count living standing enemies with clear sight inside4.5 cells. If exactly one exists and that enemy takes actual original injury damage, deal max(40, 50% of its actual blast damage) additional explosive damage and lower its sharp armor by12 percentage points for4 seconds. Same-author fracture refreshes only; different authors stay separate. Two or more eligible enemies leave the blast unchanged.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>3</relicIndex>
+    <band>2</band>
+    <equipmentDefName>RHA_DetonationOrb</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards/RHA_REX03C</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX04A</defName>
+    <label>Merit mandate</label>
+    <description>Every five accepted original Crown contribution settlements grant the wearer and the lowest native-health other ally within 5 cells a three-hit mandate for 8 seconds. Each positive native direct hit spends one charge for normal-armor Blunt damage, max(8, 10% of that recipient's last native injury damage), frozen when granted. Fractional contribution counts once per settlement; original item renown and its post 20 diminishing growth stay unchanged. Same-author refresh restores 3 charges and 8 seconds; source removal ends remaining charges. Friendly animal beneficiaries are supported.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>4</relicIndex>
+    <band>0</band>
+    <equipmentDefName>RHA_Crown</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards/RHA_REX04A</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX04B</defName>
+    <label>Shared renown</label>
+    <description>Each time your Demon crown gains renown, gain an additional 50% of its health and damage growth as permanent personal bonuses.
+These bonuses apply while you own this card and wear the Demon crown.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>4</relicIndex>
+    <band>1</band>
+    <equipmentDefName>RHA_Crown</equipmentDefName>
+    <enemyEligible>false</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards/RHA_REX04B</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX04C</defName>
+    <label>Royal shelter</label>
+    <description>An original settlement that actually increases Crown renown earns one edict, capped 3, refreshing 30 seconds. After the wearer or a same-faction ally within 4 cells suffers at least 15 actual enemy injury damage, consume one edict to repair up to 12 points of real wounds and grant 10% incoming damage reduction for 3 seconds. Each source can protect a given beneficiary once every 3 seconds. The original injury occurs before repair and protection; protection does not multiply with another Crown author's same named effect. Removing its source ends only its own temporary authority; saved recipient cooldowns remain.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>4</relicIndex>
+    <band>2</band>
+    <equipmentDefName>RHA_Crown</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards/RHA_REX04C</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX05A</defName>
+    <label>Announced judgment</label>
+    <description>If the Scythe's original third strike deals actual damage without downing its victim, mark that victim for4 seconds. Your next native direct hit on that marked victim consumes your mark and adds5 percentage points only to that hit's original execution check. Existing execution eligibility and protection still apply. A mark created by that same third strike cannot be consumed by its producing direct hit. Removing the Scythe clears your marks.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>5</relicIndex>
+    <band>0</band>
+    <equipmentDefName>RHA_Reaper</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards/RHA_REX05A</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX05B</defName>
+    <label>Arc of the scythe</label>
+    <description>After the original third strike, strike the nearest two other enemies within2 cells of its actual impact for max(15, 35% of that original strike's payload before recipient reductions) cut damage each. The corpse's impact position stays valid. With no other eligible enemy, slow the surviving original victim's movement by15% for3 seconds. The same author refreshes only; other authors remain distinct. Cut branches are secondary damage and do not duplicate third strikes or other attached effects.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>5</relicIndex>
+    <band>1</band>
+    <equipmentDefName>RHA_Reaper</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards/RHA_REX05B</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX05C</defName>
+    <label>Stored overkill</label>
+    <description>Store the actual post-armor excess injury damage over the struck body part's pre-hit remaining health from native direct hits and the Scythe's original third strike. The first deposit freezes capacity at max(60, 0.6W). Later deposits fill that same capacity and refresh 8 seconds. Your next native direct hit consumes the old pool for 50% of its value as additional cut damage, before banking new excess from that hit. Execution removal and generic secondary damage do not count. The pool ends on expiry, source removal or leaving the map. Each depositing event retains its ancestry; the combined payload is applied once.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>5</relicIndex>
+    <band>2</band>
+    <equipmentDefName>RHA_Reaper</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards/RHA_REX05C</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX06A</defName>
+    <label>Sealed blood reserve</label>
+    <description>Store half of genuine unused Bloodmail native lifesteal in a reserve capped at20% of your health budget. After actual enemy injury, withdraw at most60% of that injury to replenish your four-second shield, capped at12% of your health budget, once per second. The reserve does not decay. Removing Bloodmail clears its reserve and shield. Duplicate cards grant no extra reserve or executor.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>6</relicIndex>
+    <band>0</band>
+    <equipmentDefName>RHA_Bloodmail</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards/RHA_REX06A</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX06B</defName>
+    <label>Sanguine transfusion</label>
+    <description>Once per second, redirect30% of Bloodmail's original available lifesteal healing to the lowest-health living ally within five cells whose native health is below70% and who has recoverable injuries. The rest heals you. Without an eligible ally, keep all original healing. Genuine unused redirected healing returns to you. Animals are eligible. Duplicate cards do not split the same budget again.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>6</relicIndex>
+    <band>1</band>
+    <equipmentDefName>RHA_Bloodmail</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards/RHA_REX06B</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX06C</defName>
+    <label>Pressure recoil</label>
+    <description>Actual enemy injury reaching20% of your health budget within a rolling four-second window prepares one recoil for six seconds. Your next native direct hit spends it for blunt damage on the primary target and nearest two other enemies within two cells:25% of the recorded window injury, capped per target at the greater of35 or half the creation-time native damage snapshot. Release starts a ten-second cooldown without new accumulation. Transferred and deferred injury do not count. Duplicate cards do not add another recoil.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>6</relicIndex>
+    <band>2</band>
+    <equipmentDefName>RHA_Bloodmail</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards/RHA_REX06C</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX07A</defName>
+    <label>锻钢护片</label>
+    <description>每次获得装备原生钢铁印记时，自动获得1片护片，最多3片，持续12秒。接下来每次受到敌方实际伤害后，消耗1片护片并获得12点护盾，持续3秒。若该次原生印记由近战命中获得，新增护片还使穿戴者的下一次原生直接命中额外造成W的12%锐器伤害，最低8点，附伤效果只保存一次。
+机制唯一；护片刷新总持续时间；附伤不可累计多份。</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>7</relicIndex>
+    <band>0</band>
+    <equipmentDefName>RHA_Darksteel</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards/RHA_REX07A</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX07B</defName>
+    <label>淬火裂甲</label>
+    <description>获取钢铁印记的那次原生有效命中，额外在受击目标身上留下1层淬裂，持续8秒，每层令其锐器护甲降低8个百分点，最多3层。该目标受到穿戴者下一次原生直接命中时，如果已有3层淬裂，自动引爆为W的35%锐器伤害，最低24点并清除全部层数。本卡不缩短原有2秒印记间隔。
+机制唯一；同来源新层刷新8秒，不同穿戴者各自记录。</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>7</relicIndex>
+    <band>1</band>
+    <equipmentDefName>RHA_Darksteel</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards/RHA_REX07B</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX07C</defName>
+    <label>Battleforged Steel</label>
+    <description>While wearing this equipment, its successful native steel growth grants an extra50%. The original trigger interval is unchanged; no crafting is required. Old earned preforms each add another50% once, one per event. Fractional growth is retained. One effect per card.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>7</relicIndex>
+    <band>2</band>
+    <equipmentDefName>RHA_Darksteel</equipmentDefName>
+    <enemyEligible>false</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards/RHA_REX07C</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX08A</defName>
+    <label>Sanctuary pulse</label>
+    <description>When the talisman's original block actually protects against a hostile source, give the two lowest-health other living same-faction allies within4 cells an18-point shield for5 seconds. Animals qualify; the wearer does not. With no eligible ally, instead convert genuine unused healing from that same original35-point repair into a self shield, capped at25 for5 seconds. One pulse per original block. Same-source shields take the stronger amount and refresh, without adding together. Other eligible effects retain their events.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>8</relicIndex>
+    <band>0</band>
+    <equipmentDefName>RHA_Talisman</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards/RHA_REX08A</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX08B</defName>
+    <label>Deferred injury contract</label>
+    <description>For4 seconds after the original hostile-damage block, divert30% of actual protected native injury into one debt pool; excess over its frozen25% of100x native HealthScale capacity remains immediate injury. Shares with other injury reducers use the same original budget. Beginning one second after the window ends, pay eight equal one-second installments of saved native injury. Each entry retains damage definition, body-part identity and ancestry; a missing part falls back to its nearest intact parent. Debt does not pass armor, shields, transfer, deferral or instant-kill protection again. Removing the gear or leaving the map does not erase owed injury; death clears it. An unpaid pool prevents a new one.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>8</relicIndex>
+    <band>1</band>
+    <equipmentDefName>RHA_Talisman</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards/RHA_REX08B</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX08C</defName>
+    <label>Renewal rewind</label>
+    <description>If at least20 points of genuine unused healing remain after the original talisman's35-point repair, shorten that cycle's next block cooldown by6 seconds and store one renewal mark for10 seconds. A later actual injury crossing from at least50% native health to below50% consumes it to repair15 injury points. One rewind and mark per original block; a new mark replaces the old one. Renewal healing never rewinds the block again. Removing the gear clears the mark without resetting the original cooldown.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>8</relicIndex>
+    <band>2</band>
+    <equipmentDefName>RHA_Talisman</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards/RHA_REX08C</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX09A</defName>
+    <label>熔流结节</label>
+    <description>Every third positive original Sunfire aura result on each enemy leaves a fixed four-second knot at that original impact cell. Every second, hit the nearest two current enemies within1.5 cells for native burn damage max(6,8% of creation-time native W). Keep at most two knots; newer knots replace the oldest. Derived knot damage cannot count as original aura. Removing the source cancels knots; per-enemy personal remainders pause until valid wear resumes.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>9</relicIndex>
+    <band>0</band>
+    <equipmentDefName>RHA_Embertide</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards/RHA_REX09A</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX09B</defName>
+    <label>燃料回收</label>
+    <description>An actual enemy death within six cells carrying your tagged original equipment burn earns one fuel, at most three. Every corpse identity supplies once. Fuel lasts eight seconds after its latest gain. The next original aura round with positive actual damage spends all fuel before callbacks: each actually hit enemy receives max(8,10% of frozen W) native burn per fuel and you receive6 real injury repair per fuel. Empty rounds retain fuel; own release-chain deaths do not refuel it.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>9</relicIndex>
+    <band>1</band>
+    <equipmentDefName>RHA_Embertide</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards/RHA_REX09B</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX09C</defName>
+    <label>焦土禁生</label>
+    <description>Your tagged original equipment burn that actually hurts an enemy creates a four-second scorched source. Native recoverable wound healing is reduced once by30%; only genuinely suppressed repair becomes heat, capped per source at max(30,50% of creation-time native W). Refresh preserves stored heat and frozen capacity. Multiple active authors share one named reduction and divide its real suppressed budget, without duplicating it. Expiry spends stored heat as one native burn payload; source removal or target loss cancels it. Permanent or cancelled repair creates no heat.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>9</relicIndex>
+    <band>2</band>
+    <equipmentDefName>RHA_Embertide</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards/RHA_REX09C</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX10A</defName>
+    <label>Ice-mirror echo</label>
+    <description>After the Frostguard's original passive hits, leave a fixed ice mirror at that enemy's impact cell. One second later, hit at most three nearest enemies currently within2 cells for max(16, 20% of snapshotted W) blunt damage and slow their movement20% for3 seconds. Same-name chill never multiplies with extra authors. Mirror generation has a3-second cooldown retained across rewear; removing the Frostguard cancels pending mirrors.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>10</relicIndex>
+    <band>0</band>
+    <equipmentDefName>RHA_Frostguard</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards/RHA_REX10A</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX10B</defName>
+    <label>Frostvein escort</label>
+    <description>The original Frost passive grants you and the lowest native summary-health ally within4 cells frostvein for5 seconds. The next actual hostile native melee injury consumes it and slows that attacker's attack speed20% for3 seconds. Ranged and secondary injury cannot spend it. Each author grants a new frostvein to a recipient once per6 seconds; an existing live source only refreshes expiry. Multiple authors retain their own sources inside one named status and do not multiply the attack-speed penalty.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>10</relicIndex>
+    <band>1</band>
+    <equipmentDefName>RHA_Frostguard</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards/RHA_REX10B</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX10C</defName>
+    <label>Borrowed warmth</label>
+    <description>The enemy hit by original Frost owes a cold debt for8 seconds. Its next native direct injury against you loses25% after original armor and instant-kill protection, sharing a maximum20-point reduction across that original attack's body-part injuries. Your next effective native direct hit on that enemy returns150% of the recorded reduction as blunt damage, then consumes the debt. New Frost only refreshes expiry, retaining the earned amount and every loan root. Source removal, map departure, target death or faction change cancels the debt.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>10</relicIndex>
+    <band>2</band>
+    <equipmentDefName>RHA_Frostguard</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards/RHA_REX10C</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX11A</defName>
+    <label>Barbed reckoning</label>
+    <description>An enemy actually hurt by your original Thornshell retaliation receives a6-second reckoning mark. When that enemy next deals native direct injury to another same-faction ally, even a fatal injury, consume the mark and deal max(20, 25% of your snapshotted W) cut damage. Attacks against you leave the mark intact. Create at most one new mark per enemy every4 seconds; later original retaliation only refreshes an existing mark without repricing it. Each holder records marks independently. Removing Thornshell clears marks but retains earned creation gates. W is your latest actual native direct-hit damage.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>11</relicIndex>
+    <band>0</band>
+    <equipmentDefName>RHA_Thornshell</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards/RHA_REX11A</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX11B</defName>
+    <label>Thornseed incubation</label>
+    <description>Three actual original Thornshell retaliations to the same enemy within5 seconds create a fixed thornseed at its impact cell and clear the count. For4 seconds, pulse once per second against the nearest two enemies within1.5 cells for max(5, 6% of snapshotted W) cut damage. Each enemy actually hurt by that seed receives max(8, 10% of the same snapshot) additional cut damage after its first native attack attempt during that field's lifetime finishes; the current attack is not interrupted. Hold at most two seeds, replacing the oldest. Derived thorns never count as original retaliation. Removing Thornshell clears seeds. W is your latest actual native direct-hit damage.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>11</relicIndex>
+    <band>1</band>
+    <equipmentDefName>RHA_Thornshell</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards/RHA_REX11B</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX11C</defName>
+    <label>Symbiotic briars</label>
+    <description>When another living same-faction ally within4 cells takes actual native melee direct injury from an enemy hostile to you, deal max(12, 15% of your snapshotted W) cut damage to that attacker and grant the injured ally an independent8-point shield for3 seconds. Animals qualify; you do not. Respond at most once every2 seconds, in actual injury order, retaining earned cooldown across rewear. Every legal holder responds independently. Ranged injury, self-injury and a chain already containing your own source do not trigger this response. W is your latest actual native direct-hit damage.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>11</relicIndex>
+    <band>2</band>
+    <equipmentDefName>RHA_Thornshell</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards/RHA_REX11C</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX12A</defName>
+    <label>Moonlight diversion</label>
+    <description>After a complete original Moonstone group-healing round, recover50% of all recipients' genuine unused healing budget, capped at30 effective injury points. Give that conserved budget to the two lowest-health other injured allies within8 cells: fill the first one's recoverable wounds, then send the remainder to the second. Unused moonlight dissipates immediately. Cancelled treatment is not overheal. Derived diversion retains original ancestry and cannot recycle itself; other eligible healing effects still receive normal measured-heal events.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>12</relicIndex>
+    <band>0</band>
+    <equipmentDefName>RHA_Moonstone</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards/RHA_REX12A</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX12B</defName>
+    <label>Moonphase return stitch</label>
+    <description>An ally actually repaired for at least5 injury points by original Moonstone group healing receives a6-second return stitch. Its first actual hostile injury starts a2-second countdown, then repairs40% of that original effective healing, capped at18 injury points. Each author grants at most one stitch per recipient every8 seconds; later healing cannot overwrite a started countdown. Untriggered stitches expire, and death, map departure or source removal cancels pending repair. Return-stitch healing does not create another stitch; other eligible healing effects keep their normal events.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>12</relicIndex>
+    <band>1</band>
+    <equipmentDefName>RHA_Moonstone</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards/RHA_REX12B</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX12C</defName>
+    <label>Full-moon ensemble</label>
+    <description>When an original group-healing round actually repairs at least three distinct friendly recipients, give its three lowest-health recipients a6-second ensemble. Their next effective native direct hit consumes the named effect and repairs8 injury points on themselves and the lowest-health other ally within3 cells. Each author grants at most one ensemble per recipient every6 seconds. Multiple authors share one named echo, retain independent source expiry and combine all eligible ancestry when consumed. No effective damage leaves it intact; derived healing cannot reenter the same source along its own chain. Original targeting and attack choice remain unchanged.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>12</relicIndex>
+    <band>2</band>
+    <equipmentDefName>RHA_Moonstone</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards/RHA_REX12C</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX13A</defName>
+    <label>Side-head pounce</label>
+    <description>After an original cleave round actually injures a secondary enemy, fork once from the actual victim farthest from the primary impact. Select the nearest enemy within2 cells not hit by that original round and excluding its primary victim. Deal max(18, 50% of the round's highest actual single-target injury damage) cut damage. With no new target, end without returning to a previous victim. Side-head damage never counts as another original cleave round.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>13</relicIndex>
+    <band>0</band>
+    <equipmentDefName>RHA_Hydra</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards/RHA_REX13A</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX13B</defName>
+    <label>Solitary bite</label>
+    <description>If an original cleave round actually injures no secondary enemy, bite its surviving primary victim for max(20, 30% of W) cut damage, once per3 seconds. Leave a4-second rip: only your next native direct hit uses sharp armor15 percentage points lower during that hit's native armor calculation, then consumes your rip. Other attackers and secondary damage do not use or spend it; persistent armor stats stay unchanged. Removing the Hydra clears its rip and retains the earned cooldown.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>13</relicIndex>
+    <band>1</band>
+    <equipmentDefName>RHA_Hydra</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards/RHA_REX13B</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX13C</defName>
+    <label>Many-throated draught</label>
+    <description>After the original cleave round, heal15% of its secondary victims' total actual injury damage, with a20-point budget per round. If native summary health is already full, replenish your own shield layer by that budget instead, up to20 points for4 seconds. Settle once per round; side-head, bite and primary-victim damage are excluded. Unrelated shields remain independent. Removing the Hydra clears its own shield; each replenishment retains its original event ancestry.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>13</relicIndex>
+    <band>2</band>
+    <equipmentDefName>RHA_Hydra</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards/RHA_REX13C</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX14A</defName>
+    <label>Victorious edge</label>
+    <description>While wearing the Gambler's coin, gain +0.25 damage bonus and +0.10 critical value.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>14</relicIndex>
+    <band>0</band>
+    <equipmentDefName>RHA_Gambler</equipmentDefName>
+    <enemyEligible>false</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards/RHA_REX14A</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX14B</defName>
+    <label>Fortune guard</label>
+    <description>While wearing the Gambler's coin, gain +0.30 health and defense bonuses.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>14</relicIndex>
+    <band>1</band>
+    <equipmentDefName>RHA_Gambler</equipmentDefName>
+    <enemyEligible>false</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards/RHA_REX14B</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX14C</defName>
+    <label>Luck calibration</label>
+    <description>After three eligible native direct hits in succession fail to critically strike, your next eligible native direct hit guarantees the original critical result and clears the counter. Natural critical hits also clear it. Derived damage does not participate. The original critical multiplier stays unchanged. Owned progress persists while unequipped, but calibration can only activate with the coin actually worn. Duplicate copies do not reduce the three-miss requirement.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>14</relicIndex>
+    <band>2</band>
+    <equipmentDefName>RHA_Gambler</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards/RHA_REX14C</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX15A</defName>
+    <label>群魂伴行</label>
+    <description>Each new integer mark attributed to the representative Soul vessel can earn an accompanying spirit, at most three. Freeze electrical inputs at earning: max(12,18% W) on the primary, max(8,12% W) on its nearest other enemy within3, or max(4,6% W) extra on the primary if alone. A later positive native direct hit spends one older spirit, at least one second apart. New gains refresh twelve seconds without repricing older spirits. Same earning hit cannot spend its new spirit; unequip clears the pool, not the earned gate.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>15</relicIndex>
+    <band>0</band>
+    <equipmentDefName>RHA_Soulreaver</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards/RHA_REX15A</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX15B</defName>
+    <label>离体回声</label>
+    <description>First positive native direct hit establishes a six-second echo and records nothing. Later actual primary DamageResults store15%, capped at max(40,60% of creation-time W); at most three targets. Expiry spends the saved amount as native electrical damage. Actual early death transfers half to the nearest other enemy within4 of its captured death cell; a fatal native direct result is measured before its share and transfer settle. End starts a four-second same-target gate. Derived echo damage does not record itself or transfer itself again.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>15</relicIndex>
+    <band>1</band>
+    <equipmentDefName>RHA_Soulreaver</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards/RHA_REX15B</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX15C</defName>
+    <label>守魂契约</label>
+    <description>Every five new source-attributed integer equipment marks store one guardian, at most two. Original soul balance is unchanged; skill/spirit-reap marks and pre-purchase balance do not count. Actual hostile injury crossing from at least20% native health to below20% spends one guardian before callbacks: a six-second15% native-scale source shield and three one-second10-point injury-healing budgets. Thirty-second activation gate, stock and remainder save. Unequip pauses earning/triggering; already paid finite healing finishes. Death/map departure cancels pending local treatment.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>15</relicIndex>
+    <band>2</band>
+    <equipmentDefName>RHA_Soulreaver</equipmentDefName>
+    <enemyEligible>false</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards/RHA_REX15C</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX16A</defName>
+    <label>Long-range preaim</label>
+    <description>A native ordinary ranged weapon hit at least12 cells away earns one preaim for6 seconds. The4-second gate controls both creation and refresh. Your next distinct accepted ordinary weapon warmup spends it to subtract30% of its already-adjusted integer aiming ticks, at most30, leaving at least1. Zero reduction keeps the reserve. Cancelled or missed attacks after valid consumption do not refund it. Removing the source clears preaim, preserving the earning gate.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>16</relicIndex>
+    <band>0</band>
+    <equipmentDefName>RHA_Ballista</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards/RHA_REX16A</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX16B</defName>
+    <label>桩弩校射</label>
+    <description>对4格之外同一敌人连续造成原生远程直接命中时，每次获得1层只针对该敌人的校射，最多3层，持续6秒。穿戴者下次射击该敌人时，每层令此次命中的锐器护甲计算降低10个百分点；若已经3层，该次命中后清空层数，并对目标施加持续3秒的20%攻击速度降低。
+机制唯一；每次命中后刷新6秒；同卡不增加校射层数。</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>16</relicIndex>
+    <band>1</band>
+    <equipmentDefName>RHA_Ballista</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards/RHA_REX16B</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX16C</defName>
+    <label>缆矢压制</label>
+    <description>每第3次原生远程直接命中，在主目标身上留下持续5秒的缆矢，并重置本卡计数。目标每自然移动累计1格时受到W的8%锐器伤害，最低6点，整枚缆矢最多结算4次移动伤害；若在持续期内完全没有移动，则到期时受到W的24%锐器伤害，最低16点。缆矢不强制移动、不改变寻路，也不会阻止目标正常攻击。
+机制唯一；同来源新缆矢替换旧缆矢，旧矢不提前结算。</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>16</relicIndex>
+    <band>2</band>
+    <equipmentDefName>RHA_Ballista</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards/RHA_REX16C</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX17A</defName>
+    <label>剑圈契约</label>
+    <description>穿戴者首次原生直接命中3格内敌人后，自动与其建立持续6秒的剑圈。剑圈存在时，该敌人以外的敌人对穿戴者造成的直接伤害降低12%；穿戴者对剑圈目标每第3次原生直接命中追加W的20%锐器伤害，最低15点。目标死亡或离开8格时契约结束，下一次合格命中自然建立新契约。
+机制唯一；同一时间仅一个剑圈，重复卡不叠减伤。</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>17</relicIndex>
+    <band>0</band>
+    <equipmentDefName>RHA_Duelist</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards/RHA_REX17A</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX17B</defName>
+    <label>破招回锋</label>
+    <description>受到敌方近战直接伤害后，记录该次实际失血的50%，最多20点，保留2秒。穿戴者在窗口内下一次对任意3格内敌人造成原生直接命中时，自动恢复记录数值，并令本次主目标的攻击速度降低20%，持续2秒。窗口开启后3秒内不再接收新记录，未回击则到期失效。本卡全程随原有战斗行为自动结算。
+机制唯一；同时只有一份记录，不累计多次承伤。</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>17</relicIndex>
+    <band>1</band>
+    <equipmentDefName>RHA_Duelist</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards/RHA_REX17B</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX17C</defName>
+    <label>一招收式</label>
+    <description>对3格内敌人的原生直接命中每累计4次，自动将本次原生吸血可治疗量的50%改为收式护盾，持续4秒，剩余治疗照常结算；同时令主目标下一次普通攻击的准备时间增加30%，效果最多保留3秒。若本次没有可用吸血治疗量，仍获得固定10点护盾，且不会凭空生成治疗。
+机制唯一；本人收式盾最多30点，新盾补充并刷新。</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>17</relicIndex>
+    <band>2</band>
+    <equipmentDefName>RHA_Duelist</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards/RHA_REX17C</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX18A</defName>
+    <label>血线缓冲</label>
+    <description>敌方伤害首次使穿戴者从35%以上生命跌到35%或以下时，自动进入持续3秒的缓冲状态。缓冲期间每次敌方直接伤害在其他减伤后，将其中35%转入伤债，剩余立即承受；状态结束后伤债分5次、每秒支付一次。伤债最多为最大生命的20%，本卡两次触发至少间隔20秒。
+机制唯一；同卡重复不提高延期比例；已有伤债时不再次开缓冲。</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>18</relicIndex>
+    <band>0</band>
+    <equipmentDefName>RHA_Bloodrage</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards/RHA_REX18A</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX18B</defName>
+    <label>狂怒外溢</label>
+    <description>穿戴者每累计损失最大生命10%的实际敌方伤害，获得1层怒火，最多5层，保留6秒。下一次原生直接命中时自动消耗全部怒火，对主目标周围2格内最近的3名其他敌人各造成每层W的8%钝器伤害，最低每层6点；没有副目标时，主目标承受每层W的6%附伤，最低每层4点。每次怒火释放后2秒内不积累新怒火。
+机制唯一；新怒火刷新6秒；不足10%的剩余失血保留至窗口到期。</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>18</relicIndex>
+    <band>1</band>
+    <equipmentDefName>RHA_Bloodrage</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards/RHA_REX18B</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX18C</defName>
+    <label>怒血记忆</label>
+    <description>穿戴者接受治疗后，在接下来的4秒内，暴君之握的缺血增伤计算采用治疗前后两个生命比例中较低者；多次治疗只保留本窗口内最低比例，且不刷新最初4秒的结束时间。窗口结束后立即恢复当前真实生命比例计算，至少间隔2秒后才可由新的有效治疗再次建立记忆。
+机制唯一；仅重写本装备缺血增伤的输入，不复制或提高其原生最高500%上限。</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>18</relicIndex>
+    <band>2</band>
+    <equipmentDefName>RHA_Bloodrage</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards/RHA_REX18C</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX19A</defName>
+    <label>余秒留存</label>
+    <description>本装备原生临时连击层数因超时即将归零时，自动保存其中一半的层数，向下取整且最多保存8层，保留6秒。穿戴者在此期间下一次原生直接命中时恢复这些层数，再照常处理本次原生加层；到期未攻击则清空。恢复层只延续原有层数序号，不重获前20层的足额成长区间。
+机制唯一；一次断招只暂存一次，恢复层不能立即再次被留存。</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>19</relicIndex>
+    <band>0</band>
+    <equipmentDefName>RHA_Chronoblade</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards/RHA_REX19A</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX19B</defName>
+    <label>双刻残像</label>
+    <description>每累计5次原生直接命中，记录第5次对主目标实际造成的伤害，并在0.7秒后向该主目标释放一次残像打击，造成记录伤害30%的同类型伤害，最低15点。若原目标已死亡，则残像改为给穿戴者15点护盾，持续3秒；若目标仍活着但离开地图，则本次残像直接失效。本卡全程随原有战斗行为自动结算。
+机制唯一；各次五击分别计时，但本人同时最多2次待结算残像。</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>19</relicIndex>
+    <band>1</band>
+    <equipmentDefName>RHA_Chronoblade</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards/RHA_REX19B</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX19C</defName>
+    <label>时砂借位</label>
+    <description>每累计4次装备原生临时连击加层，获得1份时砂，最多保存2份。若穿戴者存在正在冷却、原始冷却不少于5秒的主动技能，自动消耗1份时砂，将剩余冷却最长的一项缩短1秒；两次借位至少间隔8秒。没有合格技能时保留时砂，等技能自然进入冷却后再自动检查。
+机制唯一；同卡重复不降低八秒间隔；并列技能按稳定技能ID选择。</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>19</relicIndex>
+    <band>2</band>
+    <equipmentDefName>RHA_Chronoblade</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards/RHA_REX19C</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX20A</defName>
+    <label>折光散射</label>
+    <description>本装备原生单次承伤上限实际阻止伤害时，把被阻止数值的25%存为星屑，容量为W的100%，最低75点，保留8秒。下一次原生直接命中自动消耗星屑，对主目标及其3格内最近的2名敌人均分等量电击伤害。只有主目标时由其承受全部星屑伤害；触发该次攻击前新增的星屑才参与本次消费。
+机制唯一；新星屑刷新8秒，不改变原生承伤上限公式。</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>20</relicIndex>
+    <band>0</band>
+    <equipmentDefName>RHA_Starward</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards/RHA_REX20A</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX20B</defName>
+    <label>Starbound Bulwark</label>
+    <description>While wearing Astral bulwark, add35 percentage points to health bonus and25 to defense bonus. One effect per card.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>20</relicIndex>
+    <band>1</band>
+    <equipmentDefName>RHA_Starward</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards/RHA_REX20B</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX20C</defName>
+    <label>星环隔绝</label>
+    <description>在任意2秒窗口内，本装备原生单次承伤上限实际截断了3次来自敌人的不同直接伤害事件后，立即获得持续0.6秒的星环，期间免除新的敌方直接生命伤害。星环出现后进入12秒冷却，冷却期间不记录截断次数；第三次触发伤害仍按原生上限正常结算，不会被追溯取消。
+机制唯一；重复卡不延长星环或缩短冷却；同一原攻击多部位伤害只计一个事件。</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>20</relicIndex>
+    <band>2</band>
+    <equipmentDefName>RHA_Starward</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards/RHA_REX20C</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX21A</defName>
+    <label>孤点折叠</label>
+    <description>每次普通攻击主命中结算时，检查本装备原有的一个顺劈分支与一个弹射分支。若某分支因没有合法敌人而未发出，便折回主目标，额外造成40点穿甲伤害；两分支均空闲时分别折回。已经发出的分支即使落空也不能折回，分支搜敌距离沿用原装备规则。折回只利用本装备的两个基础名额，不回收其他卡或武器的分支。
+个人持有并实际穿戴本装备才生效；A/B/C 可并存。同名规则执行器只启用一次。每额外一层：每个空闲分支的折回伤害 +20；空闲分支识别不重复运行。</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>0</maxStacks>
+    <relicIndex>21</relicIndex>
+    <band>0</band>
+    <equipmentDefName>RHA_Trinity</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards/RHA_REX21A</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX21B</defName>
+    <label>Warcraft Translation</label>
+    <description>Every 60 seconds of actual productive, construction or research work earns one engineering module, up to six. The next ordinary hostile-combat attack consumes one module for 30 piercing damage. Only if that additional hit deals positive actual damage does the wearer gain 100 base Crafting XP. Native passion, learning factors and daily learning rules apply; feedback shows actual XP received. Personal ownership and wearing this equipment are required; A/B/C coexist. One executor. Each extra layer adds 15 module damage and 50 base XP, without another module bank. No rework credit or extra job advancement; old unused time grants no XP.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>0</maxStacks>
+    <relicIndex>21</relicIndex>
+    <band>1</band>
+    <equipmentDefName>RHA_Trinity</equipmentDefName>
+    <enemyEligible>false</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards/RHA_REX21B</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX21C</defName>
+    <label>三相仲裁</label>
+    <description>每第三次普通攻击主命中，追加一枚60点仲裁冲击。冲击分别读取目标对钝击、刺伤、灼伤的当前防护倍率，只采用预计结算伤害最高的一种；它仍正常接受该类防护和伤害减免，不视为无视护甲。计数按持有者累积，不要求连续攻击同一敌人，离战保留余数；三类结算相同时依次优先钝击、刺伤、灼伤。
+个人持有并实际穿戴本装备才生效；A/B/C 可并存。同名规则执行器只启用一次。每额外一层：仲裁冲击基础伤害 +30；三次计数和择优规则只运行一份。</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>0</maxStacks>
+    <relicIndex>21</relicIndex>
+    <band>2</band>
+    <equipmentDefName>RHA_Trinity</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards/RHA_REX21C</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX22A</defName>
+    <label>Craft Mastery</label>
+    <description>While holding this card and wearing its equipment: work speed bonus +25 percentage points, movement speed bonus +10 percentage points. One effect per card; existing bonus rules apply. Previously earned saved benefits retain their original settlement.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>22</relicIndex>
+    <band>0</band>
+    <equipmentDefName>RHA_Worldforge</equipmentDefName>
+    <enemyEligible>false</enemyEligible>
+    <economyOnly>true</economyOnly>
+    <iconPath>RimHex/Cards/RHA_REX22A</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX22B</defName>
+    <label>Hot meal supply</label>
+    <description>A formal meal you manufacture grants its actual colonist eater eight game hours of supply only after it restores nutrition. Production, construction and research advance12% faster, plus6 percentage points per extra layer. Each actual meal quantity can be consumed once; later qualifying meals refresh one status instead of adding timers. Native assisted feeding qualifies. Full food need, raw food, drugs, corpses and ordinary nutrient-paste production do not qualify. The cook must still own this card and wear the Worldforge when granting supply; an earned status keeps its original finite deadline.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>0</maxStacks>
+    <relicIndex>22</relicIndex>
+    <band>1</band>
+    <equipmentDefName>RHA_Worldforge</equipmentDefName>
+    <enemyEligible>false</enemyEligible>
+    <economyOnly>true</economyOnly>
+    <iconPath>RimHex/Cards/RHA_REX22B</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX22C</defName>
+    <label>Research and Fabrication</label>
+    <description>While holding this card and wearing its equipment: research speed bonus +35 percentage points, work speed bonus +15 percentage points. One effect per card; existing bonus rules apply. Previously earned saved benefits retain their original settlement.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>22</relicIndex>
+    <band>2</band>
+    <equipmentDefName>RHA_Worldforge</equipmentDefName>
+    <enemyEligible>false</enemyEligible>
+    <economyOnly>true</economyOnly>
+    <iconPath>RimHex/Cards/RHA_REX22C</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX23A</defName>
+    <label>Emergency Confluence</label>
+    <description>During this Archangel's original group healing, redirect at most half of its own effective healing contribution to the eligible friendly colonist with the greatest missing-health budget. Keep the original eight-tile range and twelve-patient limit; other healing sources keep their shares. Ties prefer downed patients, then nearer patients. Transfer only what ordinary injuries can use; return unused transfer to the same healing round before its final healing observations.
+Requires personal ownership and this equipment actually worn. A/B/C coexist. This rule applies once; duplicate A is unavailable.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>23</relicIndex>
+    <band>0</band>
+    <equipmentDefName>RHA_Archangel</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards/RHA_REX23A</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX23B</defName>
+    <label>Angelic Bulwark</label>
+    <description>While wearing this equipment, gain35 percentage points of health bonus and25 of defense bonus. One effect per card, using existing bonus rules. No new wound debt is created. Previously deferred wounds retain their original due time and treatment settlement.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>23</relicIndex>
+    <band>1</band>
+    <equipmentDefName>RHA_Archangel</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards/RHA_REX23B</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX23C</defName>
+    <label>Field Lessons</label>
+    <description>After this equipment’s proven original healing share actually repairs 80 points of one ally’s ordinary hostile-battle wounds, award the healer 300 base Medicine XP once for that patient in the original battle. Native passion, learning factors and daily learning rules apply; feedback shows actual XP received. Self-inflicted, nonhostile, disease, debt and unproven healing do not qualify. Personal ownership and wearing this equipment are required; A/B/C coexist. One executor. Each extra layer adds 150 base XP. Saved or merged battle eligibility cannot pay again. Old recovery states grant no retroactive XP or work efficiency.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>0</maxStacks>
+    <relicIndex>23</relicIndex>
+    <band>2</band>
+    <equipmentDefName>RHA_Archangel</equipmentDefName>
+    <enemyEligible>false</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards/RHA_REX23C</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX24A</defName>
+    <label>Focused Assault</label>
+    <description>While personally holding this card and wearing its equipment: damage bonus +30 percentage points, critical rating +8 percentage points. One effect per card. Existing caps, additive bonuses and inverse-cooldown rules apply.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>24</relicIndex>
+    <band>0</band>
+    <equipmentDefName>RHA_Infinity</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards/RHA_REX24A</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX24B</defName>
+    <label>Prism Overload</label>
+    <description>An original ordinary critical hit gains another 50% of its critical damage increment immediately. Each extra layer adds 25 percentage points. The original hit, later flat damage, damage factors and armor apply in their normal order. Personal ownership and this item worn are required; A/B/C coexist and each rule runs once.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>0</maxStacks>
+    <relicIndex>24</relicIndex>
+    <band>1</band>
+    <equipmentDefName>RHA_Infinity</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards/RHA_REX24B</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX24C</defName>
+    <label>Focused Assault</label>
+    <description>While personally holding this card and wearing its equipment: damage bonus +20 percentage points, movement speed bonus +20 percentage points. One effect per card. Existing caps, additive bonuses and inverse-cooldown rules apply.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>24</relicIndex>
+    <band>2</band>
+    <equipmentDefName>RHA_Infinity</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards/RHA_REX24C</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX25A</defName>
+    <label>Molten Edge</label>
+    <description>While wearing the matching equipment: Damage bonus +25%, defense bonus +15%.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>25</relicIndex>
+    <band>0</band>
+    <equipmentDefName>RHA_REF_MoltenStone</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards038/RHA_REX25A</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX25B</defName>
+    <label>Bloodbound</label>
+    <description>While personally holding this card and wearing its equipment: health bonus +25 percentage points, lifesteal strength +15 percentage points. One effect per card. Existing caps, additive bonuses and inverse-cooldown rules apply.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>25</relicIndex>
+    <band>1</band>
+    <equipmentDefName>RHA_REF_MoltenStone</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards038/RHA_REX25B</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX25C</defName>
+    <label>Rapid Assault</label>
+    <description>While personally holding this card and wearing its equipment: melee inverse-cooldown bonus +25 percentage points, ranged inverse-cooldown bonus +25 percentage points, movement speed bonus +10 percentage points. One effect per card. Existing caps, additive bonuses and inverse-cooldown rules apply.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>25</relicIndex>
+    <band>2</band>
+    <equipmentDefName>RHA_REF_MoltenStone</equipmentDefName>
+    <enemyEligible>false</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards038/RHA_REX25C</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX26A</defName>
+    <label>Starry Shelter</label>
+    <description>While wearing the matching equipment: Health bonus +30%, defense bonus +25%.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>26</relicIndex>
+    <band>0</band>
+    <equipmentDefName>RHA_REF_StarryNight</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards038/RHA_REX26A</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX26B</defName>
+    <label>Night Ward</label>
+    <description>After this item actually mitigates hostile special damage, gain shield equal to50% of the mitigated amount for300 ticks. Each extra layer adds25 percentage points. Triggers at most once per120 ticks. The shield is granted after the triggering damage resolves and cannot absorb that hit. Personal ownership and this item worn are required; A/B/C coexist and each rule runs once.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>0</maxStacks>
+    <relicIndex>26</relicIndex>
+    <band>1</band>
+    <equipmentDefName>RHA_REF_StarryNight</equipmentDefName>
+    <enemyEligible>false</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards038/RHA_REX26B</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX26C</defName>
+    <label>Starry Strikes</label>
+    <description>While wearing the matching equipment: Damage bonus +20%, melee and ranged cooldown speed +25%.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>26</relicIndex>
+    <band>2</band>
+    <equipmentDefName>RHA_REF_StarryNight</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards038/RHA_REX26C</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX27A</defName>
+    <label>Divine Edge</label>
+    <description>While wearing the matching equipment: Damage bonus +25%, critical rating +10%.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>27</relicIndex>
+    <band>0</band>
+    <equipmentDefName>RHA_REF_DivineSword</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards038/RHA_REX27A</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX27B</defName>
+    <label>Divine Siphon</label>
+    <description>While wearing the matching equipment: Health bonus +25%, direct lifesteal +15%.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>27</relicIndex>
+    <band>1</band>
+    <equipmentDefName>RHA_REF_DivineSword</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards038/RHA_REX27B</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX27C</defName>
+    <label>Divine Renewal</label>
+    <description>While wearing the matching equipment: Health bonus +30%, regeneration +2 per second.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>27</relicIndex>
+    <band>2</band>
+    <equipmentDefName>RHA_REF_DivineSword</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards038/RHA_REX27C</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX28A</defName>
+    <label>Entropy Edge</label>
+    <description>While holding this card and wearing its equipment: damage bonus +30 percentage points, critical rating +8 percentage points. One effect per card; existing bonus rules apply. Previously earned saved benefits retain their original settlement.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>28</relicIndex>
+    <band>0</band>
+    <equipmentDefName>RHA_REF_Entropy</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards038/RHA_REX28A</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX28B</defName>
+    <label>Entropy rush</label>
+    <description>While wearing Force Of Entropy, gain +0.10 damage bonus and +0.25 melee and ranged cooldown speed bonuses.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>28</relicIndex>
+    <band>1</band>
+    <equipmentDefName>RHA_REF_Entropy</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards038/RHA_REX28B</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX28C</defName>
+    <label>Disintegration edge</label>
+    <description>While wearing Force Of Entropy, gain +0.35 damage bonus and +0.15 critical value. Duplicate cards do not stack.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>28</relicIndex>
+    <band>2</band>
+    <equipmentDefName>RHA_REF_Entropy</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards038/RHA_REX28C</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX29A</defName>
+    <label>Bloodgift Assault</label>
+    <description>While wearing the matching equipment: Damage bonus +20%, direct lifesteal +15%.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>29</relicIndex>
+    <band>0</band>
+    <equipmentDefName>RHA_REF_SanguineGift</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards038/RHA_REX29A</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX29B</defName>
+    <label>Bloodgift Bulwark</label>
+    <description>While wearing the matching equipment: Health bonus +30%, defense bonus +25%.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>29</relicIndex>
+    <band>1</band>
+    <equipmentDefName>RHA_REF_SanguineGift</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards038/RHA_REX29B</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX29C</defName>
+    <label>Bloodgift Stride</label>
+    <description>While wearing the matching equipment: Health bonus +25%, movement speed +0.2.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>29</relicIndex>
+    <band>2</band>
+    <equipmentDefName>RHA_REF_SanguineGift</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards038/RHA_REX29C</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX30A</defName>
+    <label>Miracle Edge</label>
+    <description>While wearing the matching equipment: Damage bonus +25%, critical rating +10%.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>30</relicIndex>
+    <band>0</band>
+    <equipmentDefName>RHA_REF_Eleisa</equipmentDefName>
+    <enemyEligible>false</enemyEligible>
+    <economyOnly>true</economyOnly>
+    <iconPath>RimHex/Cards038/RHA_REX30A</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX30B</defName>
+    <label>Miracle Renewal</label>
+    <description>While wearing the matching equipment: Health bonus +25%, regeneration +2 per second.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>30</relicIndex>
+    <band>1</band>
+    <equipmentDefName>RHA_REF_Eleisa</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards038/RHA_REX30B</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX30C</defName>
+    <label>Miracle Guard</label>
+    <description>While wearing the matching equipment: Health bonus +30%, defense bonus +25%.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>30</relicIndex>
+    <band>2</band>
+    <equipmentDefName>RHA_REF_Eleisa</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards038/RHA_REX30C</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX31A</defName>
+    <label>Ascendant Edge</label>
+    <description>While holding this card and wearing its equipment: damage bonus +25 percentage points, critical rating +10 percentage points. One effect per card; existing bonus rules apply. Previously earned saved benefits retain their original settlement.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>31</relicIndex>
+    <band>0</band>
+    <equipmentDefName>RHA_REF_Ascension</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards038/RHA_REX31A</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX31B</defName>
+    <label>Ascendant Scholarship</label>
+    <description>While holding this card and wearing its equipment: research speed bonus +35 percentage points, work speed bonus +15 percentage points. One effect per card; existing bonus rules apply. Previously earned saved benefits retain their original settlement.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>31</relicIndex>
+    <band>1</band>
+    <equipmentDefName>RHA_REF_Ascension</equipmentDefName>
+    <enemyEligible>false</enemyEligible>
+    <economyOnly>true</economyOnly>
+    <iconPath>RimHex/Cards038/RHA_REX31B</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX31C</defName>
+    <label>Ascendant Resilience</label>
+    <description>While holding this card and wearing its equipment: health bonus +35 percentage points, defense bonus +25 percentage points. One effect per card; existing bonus rules apply. Previously earned saved benefits retain their original settlement.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>31</relicIndex>
+    <band>2</band>
+    <equipmentDefName>RHA_REF_Ascension</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards038/RHA_REX31C</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX32A</defName>
+    <label>Bloodletting Edge</label>
+    <description>While wearing Hamstringer, add20 percentage points to damage bonus and15 to lifesteal coefficient. Native healing repairs actual wounds only. One effect per card.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>32</relicIndex>
+    <band>0</band>
+    <equipmentDefName>RHA_REF_Hamstringer</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards038/RHA_REX32A</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX32B</defName>
+    <label>Lethal Pulse</label>
+    <description>While wearing Hamstringer, add25 percentage points to damage bonus and20 to critical rating. Original cap and overcap rules apply. One effect per card.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>32</relicIndex>
+    <band>1</band>
+    <equipmentDefName>RHA_REF_Hamstringer</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards038/RHA_REX32B</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX32C</defName>
+    <label>Deepened Wounds</label>
+    <description>When your original Hamstring bleed pulse deals actual damage, add 24 bleed damage once. Each additional layer adds 12 damage. Requires your personal card and the same worn Hamstringer. The original bleed pulses, stacks and expiry remain unchanged.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>0</maxStacks>
+    <relicIndex>32</relicIndex>
+    <band>2</band>
+    <equipmentDefName>RHA_REF_Hamstringer</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards038/RHA_REX32C</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX33A</defName>
+    <label>Wagering Edge</label>
+    <description>While wearing Gambler's Blade, add30 percentage points to damage bonus and10 to critical rating. Original cap and overcap rules apply. One effect per card.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>33</relicIndex>
+    <band>0</band>
+    <equipmentDefName>RHA_REF_GamblersBlade</equipmentDefName>
+    <enemyEligible>false</enemyEligible>
+    <economyOnly>true</economyOnly>
+    <iconPath>RimHex/Cards/RHA_REX33A</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX33B</defName>
+    <label>Chipguard</label>
+    <description>While wearing Gambler's Blade, add30 percentage points to both health and defense bonuses. One effect per card.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>33</relicIndex>
+    <band>1</band>
+    <equipmentDefName>RHA_REF_GamblersBlade</equipmentDefName>
+    <enemyEligible>false</enemyEligible>
+    <economyOnly>true</economyOnly>
+    <iconPath>RimHex/Cards/RHA_REX33B</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX33C</defName>
+    <label>Bounty Lessons</label>
+    <description>When the original item cashes out its bank, gain 1 base Social XP per silver credited, including its 75% refund when downed. Each extra layer adds 0.5 base XP per silver. Native learning limits apply. Personal ownership and this item worn are required; A/B/C coexist and each rule runs once.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>0</maxStacks>
+    <relicIndex>33</relicIndex>
+    <band>2</band>
+    <equipmentDefName>RHA_REF_GamblersBlade</equipmentDefName>
+    <enemyEligible>false</enemyEligible>
+    <economyOnly>true</economyOnly>
+    <iconPath>RimHex/Cards/RHA_REX33C</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX34A</defName>
+    <label>Focused Assault</label>
+    <description>While personally holding this card and wearing its equipment: damage bonus +20 percentage points, lifesteal strength +15 percentage points. One effect per card. Existing caps, additive bonuses and inverse-cooldown rules apply.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>34</relicIndex>
+    <band>0</band>
+    <equipmentDefName>RHA_REF_Hemomancer</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards/RHA_REX34A</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX34B</defName>
+    <label>Steady Recovery</label>
+    <description>While personally holding this card and wearing its equipment: health bonus +30 percentage points, regeneration +2. One effect per card. Existing caps, additive bonuses and inverse-cooldown rules apply.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>34</relicIndex>
+    <band>1</band>
+    <equipmentDefName>RHA_REF_Hemomancer</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards/RHA_REX34B</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX34C</defName>
+    <label>Swift Aid</label>
+    <description>While personally holding this card and wearing its equipment: movement speed bonus +20 percentage points, melee inverse-cooldown bonus +17.6 percentage points, ranged inverse-cooldown bonus +17.6 percentage points. One effect per card. Existing caps, additive bonuses and inverse-cooldown rules apply.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>34</relicIndex>
+    <band>2</band>
+    <equipmentDefName>RHA_REF_Hemomancer</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards/RHA_REX34C</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX35A</defName>
+    <label>追魂名单</label>
+    <description>持有者普通攻击命中一个仍处于暗夜收割者冷却中的敌人时，自动搜索该目标六格内另一名对此持有者尚可触发收割的敌人。若找到，向其发出一次原装备收割并正常记入那名敌人的独立冷却；不要求持有者改换攻击目标。代发每四秒最多一次，优先最近的合法目标，射线仍受墙体与不可攻击状态限制，不对同一敌人绕开冷却。
+个人持有并实际穿戴本装备才生效；A/B/C 可并存。同名规则执行器只启用一次。每额外一层：代发搜索半径 +3 格；一次代发与独立四秒冷却执行器不复制。</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>0</maxStacks>
+    <relicIndex>35</relicIndex>
+    <band>0</band>
+    <equipmentDefName>RHA_REF_NightHarvester</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards/RHA_REX35A</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX35B</defName>
+    <label>冷却抵押</label>
+    <description>持有者对同一敌人的普通攻击主命中发生时，若原收割效果仍在冷却，便把该目标剩余收割冷却提前一秒。每个主攻击事件只抵押一次，多段附伤、顺劈与弹射不重复抵押；冷却因此归零时不立即免费引爆，而是在下一次原本合法的命中时正常触发。装备急速先确定基础冷却，本卡随后只扣实际剩余时间。
+个人持有并实际穿戴本装备才生效；A/B/C 可并存。同名规则执行器只启用一次。每额外一层：每次主命中提前时间 +0.5 秒；同一攻击只登记一笔抵押，不增加攻击执行器。</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>0</maxStacks>
+    <relicIndex>35</relicIndex>
+    <band>1</band>
+    <equipmentDefName>RHA_REF_NightHarvester</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards/RHA_REX35B</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX35C</defName>
+    <label>Soul Finish</label>
+    <description>After the original harvest hits, a surviving enemy below25% native health receives75 piercing damage immediately. If the original harvest itself kills, instead gain75 shield for240 ticks. Each extra layer adds37.5 damage or shield. Later unrelated kills grant no shield. Personal ownership and this item worn are required; A/B/C coexist and each rule runs once.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>0</maxStacks>
+    <relicIndex>35</relicIndex>
+    <band>2</band>
+    <equipmentDefName>RHA_REF_NightHarvester</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards/RHA_REX35C</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX36A</defName>
+    <label>Demonic Edge</label>
+    <description>While holding this card and wearing its equipment: damage bonus +25 percentage points, critical rating +10 percentage points. One effect per card; existing bonus rules apply. Previously earned saved benefits retain their original settlement.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>36</relicIndex>
+    <band>0</band>
+    <equipmentDefName>RHA_REF_DemonicEmbrace</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards/RHA_REX36A</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX36B</defName>
+    <label>Bloodbound</label>
+    <description>While personally holding this card and wearing its equipment: health bonus +25 percentage points, lifesteal strength +15 percentage points. One effect per card. Existing caps, additive bonuses and inverse-cooldown rules apply.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>36</relicIndex>
+    <band>1</band>
+    <equipmentDefName>RHA_REF_DemonicEmbrace</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards/RHA_REX36B</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX36C</defName>
+    <label>Pain Fuel</label>
+    <description>After an enemy ordinary attack deals actual wound damage, multiply final ordinary attack damage by 1.30 and increase attack speed by 15% for 360 ticks. Each additional layer adds 0.15 to the damage multiplier and 5 percentage points to attack speed. Further accepted wounds refresh the same state. Requires your personal card and the same worn Demonic Embrace. Fully blocked, derived, friendly or unwounding damage grants nothing; original missing-health damage and movement remain.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>0</maxStacks>
+    <relicIndex>36</relicIndex>
+    <band>2</band>
+    <equipmentDefName>RHA_REF_DemonicEmbrace</equipmentDefName>
+    <enemyEligible>false</enemyEligible>
+    <economyOnly>true</economyOnly>
+    <iconPath>RimHex/Cards/RHA_REX36C</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX37A</defName>
+    <label>Unbroken Crown</label>
+    <description>While wearing Crown of the Shattered Queen, add40 percentage points to health bonus and25 to defense bonus. One effect per card.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>37</relicIndex>
+    <band>0</band>
+    <equipmentDefName>RHA_REF_ShatteredQueen</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards/RHA_REX37A</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX37B</defName>
+    <label>Shattered Edge</label>
+    <description>While wearing Crown of the Shattered Queen, add35 percentage points to damage bonus and10 to critical rating. Original cap and overcap rules apply. One effect per card.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>37</relicIndex>
+    <band>1</band>
+    <equipmentDefName>RHA_REF_ShatteredQueen</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards/RHA_REX37B</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX37C</defName>
+    <label>Courtly Advance</label>
+    <description>While wearing Crown of the Shattered Queen, add20 percentage points to health and movement-speed bonuses. One effect per card.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>37</relicIndex>
+    <band>2</band>
+    <equipmentDefName>RHA_REF_ShatteredQueen</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards/RHA_REX37C</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX38A</defName>
+    <label>Rending Edge</label>
+    <description>While personally holding this card and wearing its equipment: damage bonus +25 percentage points, critical rating +10 percentage points. One effect per card. Existing caps, additive bonuses and inverse-cooldown rules apply.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>38</relicIndex>
+    <band>0</band>
+    <equipmentDefName>RHA_REF_DivineSunderer</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards/RHA_REX38A</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX38B</defName>
+    <label>Bloodbound</label>
+    <description>While personally holding this card and wearing its equipment: health bonus +25 percentage points, lifesteal strength +15 percentage points. One effect per card. Existing caps, additive bonuses and inverse-cooldown rules apply.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>38</relicIndex>
+    <band>1</band>
+    <equipmentDefName>RHA_REF_DivineSunderer</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards/RHA_REX38B</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX38C</defName>
+    <label>Rapid Assault</label>
+    <description>While personally holding this card and wearing its equipment: melee inverse-cooldown bonus +25 percentage points, ranged inverse-cooldown bonus +25 percentage points, movement speed bonus +10 percentage points. One effect per card. Existing caps, additive bonuses and inverse-cooldown rules apply.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>38</relicIndex>
+    <band>2</band>
+    <equipmentDefName>RHA_REF_DivineSunderer</equipmentDefName>
+    <enemyEligible>false</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards/RHA_REX38C</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX39A</defName>
+    <label>Relentless Assault</label>
+    <description>While personally holding this card and wearing its equipment: damage bonus +25 percentage points, melee inverse-cooldown bonus +11.1 percentage points, ranged inverse-cooldown bonus +11.1 percentage points. One effect per card. Existing caps, additive bonuses and inverse-cooldown rules apply.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>39</relicIndex>
+    <band>0</band>
+    <equipmentDefName>RHA_REF_Everfrost</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards/RHA_REX39A</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX39B</defName>
+    <label>Enduring Vitality</label>
+    <description>While personally holding this card and wearing its equipment: health bonus +30 percentage points, defense bonus +25 percentage points. One effect per card. Existing caps, additive bonuses and inverse-cooldown rules apply.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>39</relicIndex>
+    <band>1</band>
+    <equipmentDefName>RHA_REF_Everfrost</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards/RHA_REX39B</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX39C</defName>
+    <label>Productive Stride</label>
+    <description>While personally holding this card and wearing its equipment: work speed bonus +35 percentage points, movement speed bonus +15 percentage points. One effect per card. Existing caps, additive bonuses and inverse-cooldown rules apply.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>39</relicIndex>
+    <band>2</band>
+    <equipmentDefName>RHA_REF_Everfrost</equipmentDefName>
+    <enemyEligible>false</enemyEligible>
+    <economyOnly>true</economyOnly>
+    <iconPath>RimHex/Cards/RHA_REX39C</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX40A</defName>
+    <label>Focused Assault</label>
+    <description>While personally holding this card and wearing its equipment: damage bonus +20 percentage points, lifesteal strength +15 percentage points. One effect per card. Existing caps, additive bonuses and inverse-cooldown rules apply.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>40</relicIndex>
+    <band>0</band>
+    <equipmentDefName>RHA_REF_RadiantVirtue</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards/RHA_REX40A</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX40B</defName>
+    <label>Steady Recovery</label>
+    <description>While personally holding this card and wearing its equipment: health bonus +30 percentage points, regeneration +2. One effect per card. Existing caps, additive bonuses and inverse-cooldown rules apply.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>40</relicIndex>
+    <band>1</band>
+    <equipmentDefName>RHA_REF_RadiantVirtue</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards/RHA_REX40B</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX40C</defName>
+    <label>Redemption Lessons</label>
+    <description>When this item repairs ordinary wounds caused by enemies, gain 5 base Medical XP per repaired point. Each extra layer adds 2.5 base XP. Each original healing batch grants XP once immediately, including the original follow-up batches. Native learning limits apply. Personal ownership and this item worn are required; A/B/C coexist and each rule runs once.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>0</maxStacks>
+    <relicIndex>40</relicIndex>
+    <band>2</band>
+    <equipmentDefName>RHA_REF_RadiantVirtue</equipmentDefName>
+    <enemyEligible>false</enemyEligible>
+    <economyOnly>true</economyOnly>
+    <iconPath>RimHex/Cards/RHA_REX40C</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX41A</defName>
+    <label>Stonebreaker</label>
+    <description>While wearing Gargoyle Stoneplate, gain +25% damage bonus and +15% defense bonus.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>41</relicIndex>
+    <band>0</band>
+    <equipmentDefName>RHA_REF_Gargoyle</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards/RHA_REX41A</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX41B</defName>
+    <label>Stonebound Bulwark</label>
+    <description>While wearing Gargoyle Stoneplate, gain +35% health bonus and +25% defense bonus.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>41</relicIndex>
+    <band>1</band>
+    <equipmentDefName>RHA_REF_Gargoyle</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards/RHA_REX41B</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX41C</defName>
+    <label>Mobile Bastion</label>
+    <description>While wearing Gargoyle Stoneplate, gain +20% health bonus and +20% movement speed bonus.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>41</relicIndex>
+    <band>2</band>
+    <equipmentDefName>RHA_REF_Gargoyle</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards/RHA_REX41C</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX42A</defName>
+    <label>Heavenly Edge</label>
+    <description>While wearing Empyrean Promise, gain +25% damage bonus and +10% critical rating.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>42</relicIndex>
+    <band>0</band>
+    <equipmentDefName>RHA_REF_Empyrean</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards/RHA_REX42A</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX42B</defName>
+    <label>Bloodbound Promise</label>
+    <description>While wearing Empyrean Promise, gain +25% health bonus and +15% lifesteal.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>42</relicIndex>
+    <band>1</band>
+    <equipmentDefName>RHA_REF_Empyrean</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards/RHA_REX42B</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX42C</defName>
+    <label>Swift Promise</label>
+    <description>While wearing Empyrean Promise, gain +25% melee and ranged cooldown speed, and +10% movement speed bonus.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>42</relicIndex>
+    <band>2</band>
+    <equipmentDefName>RHA_REF_Empyrean</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards/RHA_REX42C</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX43A</defName>
+    <label>Cruel Edge</label>
+    <description>While wearing Cruelty, gain +25% damage bonus and +10% critical rating.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>43</relicIndex>
+    <band>0</band>
+    <equipmentDefName>RHA_REF_Cruelty</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards/RHA_REX43A</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX43B</defName>
+    <label>Bloodfeast</label>
+    <description>While wearing Cruelty, gain +25% health bonus and +15% lifesteal.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>43</relicIndex>
+    <band>1</band>
+    <equipmentDefName>RHA_REF_Cruelty</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards/RHA_REX43B</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX43C</defName>
+    <label>Relentless Assault</label>
+    <description>While wearing Cruelty, gain +25% melee and ranged cooldown speed, and +10% movement speed bonus.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>43</relicIndex>
+    <band>2</band>
+    <equipmentDefName>RHA_REF_Cruelty</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards/RHA_REX43C</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX44A</defName>
+    <label>Rending Edge</label>
+    <description>While personally holding this card and wearing its equipment: damage bonus +25 percentage points, critical rating +10 percentage points. One effect per card. Existing caps, additive bonuses and inverse-cooldown rules apply.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>44</relicIndex>
+    <band>0</band>
+    <equipmentDefName>RHA_REF_Moonflair</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards/RHA_REX44A</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX44B</defName>
+    <label>Bloodbound</label>
+    <description>While personally holding this card and wearing its equipment: health bonus +25 percentage points, lifesteal strength +15 percentage points. One effect per card. Existing caps, additive bonuses and inverse-cooldown rules apply.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>44</relicIndex>
+    <band>1</band>
+    <equipmentDefName>RHA_REF_Moonflair</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards/RHA_REX44B</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX44C</defName>
+    <label>Rapid Assault</label>
+    <description>While personally holding this card and wearing its equipment: melee inverse-cooldown bonus +25 percentage points, ranged inverse-cooldown bonus +25 percentage points, movement speed bonus +10 percentage points. One effect per card. Existing caps, additive bonuses and inverse-cooldown rules apply.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>44</relicIndex>
+    <band>2</band>
+    <equipmentDefName>RHA_REF_Moonflair</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards/RHA_REX44C</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX45A</defName>
+    <label>Fortified Edge</label>
+    <description>While personally holding this card and wearing its equipment: damage bonus +25 percentage points, defense bonus +15 percentage points. One effect per card. Existing caps, additive bonuses and inverse-cooldown rules apply.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>45</relicIndex>
+    <band>0</band>
+    <equipmentDefName>RHA_REF_Overlord</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards/RHA_REX45A</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX45B</defName>
+    <label>Enduring Vitality</label>
+    <description>While personally holding this card and wearing its equipment: health bonus +35 percentage points, defense bonus +25 percentage points. One effect per card. Existing caps, additive bonuses and inverse-cooldown rules apply.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>45</relicIndex>
+    <band>1</band>
+    <equipmentDefName>RHA_REF_Overlord</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards/RHA_REX45B</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX45C</defName>
+    <label>Steady Recovery</label>
+    <description>While personally holding this card and wearing its equipment: health bonus +20 percentage points, regeneration +2. One effect per card. Existing caps, additive bonuses and inverse-cooldown rules apply.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>45</relicIndex>
+    <band>2</band>
+    <equipmentDefName>RHA_REF_Overlord</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards/RHA_REX45C</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX46A</defName>
+    <label>Rending Edge</label>
+    <description>While personally holding this card and wearing its equipment: damage bonus +25 percentage points, critical rating +10 percentage points. One effect per card. Existing caps, additive bonuses and inverse-cooldown rules apply.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>46</relicIndex>
+    <band>0</band>
+    <equipmentDefName>RHA_REF_Flesheater</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards/RHA_REX46A</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX46B</defName>
+    <label>Bloodbound</label>
+    <description>While personally holding this card and wearing its equipment: health bonus +25 percentage points, lifesteal strength +15 percentage points. One effect per card. Existing caps, additive bonuses and inverse-cooldown rules apply.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>46</relicIndex>
+    <band>1</band>
+    <equipmentDefName>RHA_REF_Flesheater</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards/RHA_REX46B</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX46C</defName>
+    <label>Rapid Assault</label>
+    <description>While personally holding this card and wearing its equipment: melee inverse-cooldown bonus +25 percentage points, ranged inverse-cooldown bonus +25 percentage points, movement speed bonus +10 percentage points. One effect per card. Existing caps, additive bonuses and inverse-cooldown rules apply.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>46</relicIndex>
+    <band>2</band>
+    <equipmentDefName>RHA_REF_Flesheater</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards/RHA_REX46C</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX47A</defName>
+    <label>Rending Edge</label>
+    <description>While personally holding this card and wearing its equipment: damage bonus +25 percentage points, critical rating +10 percentage points. One effect per card. Existing caps, additive bonuses and inverse-cooldown rules apply.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>47</relicIndex>
+    <band>0</band>
+    <equipmentDefName>RHA_REF_LightningRod</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards/RHA_REX47A</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX47B</defName>
+    <label>Bloodbound</label>
+    <description>While personally holding this card and wearing its equipment: health bonus +25 percentage points, lifesteal strength +15 percentage points. One effect per card. Existing caps, additive bonuses and inverse-cooldown rules apply.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>47</relicIndex>
+    <band>1</band>
+    <equipmentDefName>RHA_REF_LightningRod</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards/RHA_REX47B</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX47C</defName>
+    <label>Rapid Assault</label>
+    <description>While personally holding this card and wearing its equipment: melee inverse-cooldown bonus +25 percentage points, ranged inverse-cooldown bonus +25 percentage points, movement speed bonus +10 percentage points. One effect per card. Existing caps, additive bonuses and inverse-cooldown rules apply.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>47</relicIndex>
+    <band>2</band>
+    <equipmentDefName>RHA_REF_LightningRod</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards/RHA_REX47C</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX48A</defName>
+    <label>Focused Assault</label>
+    <description>While personally holding this card and wearing its equipment: damage bonus +30 percentage points, critical rating +8 percentage points. One effect per card. Existing caps, additive bonuses and inverse-cooldown rules apply.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>48</relicIndex>
+    <band>0</band>
+    <equipmentDefName>RHA_REF_DiamondSpear</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards/RHA_REX48A</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX48B</defName>
+    <label>Close Denial</label>
+    <description>After an ordinary hit deals damage within 4 cells, deal an additional 260 damage of the same type, slow the enemy by 40% for 2 seconds, and gain 160 shield for 4 seconds. Each enemy has a separate 10-second cooldown. Each additional layer adds 130 damage and 80 shield.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>48</relicIndex>
+    <band>1</band>
+    <equipmentDefName>RHA_REF_DiamondSpear</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards/RHA_REX48B</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX48C</defName>
+    <label>Focused Assault</label>
+    <description>While personally holding this card and wearing its equipment: damage bonus +20 percentage points, movement speed bonus +20 percentage points. One effect per card. Existing caps, additive bonuses and inverse-cooldown rules apply.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>48</relicIndex>
+    <band>2</band>
+    <equipmentDefName>RHA_REF_DiamondSpear</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards/RHA_REX48C</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX49A</defName>
+    <label>Rending Edge</label>
+    <description>While personally holding this card and wearing its equipment: damage bonus +25 percentage points, critical rating +10 percentage points. One effect per card. Existing caps, additive bonuses and inverse-cooldown rules apply.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>49</relicIndex>
+    <band>0</band>
+    <equipmentDefName>RHA_RUIN_FurnaceGrip</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards/RHA_REX49A</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX49B</defName>
+    <label>Bloodbound</label>
+    <description>While personally holding this card and wearing its equipment: health bonus +25 percentage points, lifesteal strength +15 percentage points. One effect per card. Existing caps, additive bonuses and inverse-cooldown rules apply.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>49</relicIndex>
+    <band>1</band>
+    <equipmentDefName>RHA_RUIN_FurnaceGrip</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards/RHA_REX49B</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX49C</defName>
+    <label>Rapid Assault</label>
+    <description>While personally holding this card and wearing its equipment: melee inverse-cooldown bonus +25 percentage points, ranged inverse-cooldown bonus +25 percentage points, movement speed bonus +10 percentage points. One effect per card. Existing caps, additive bonuses and inverse-cooldown rules apply.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>49</relicIndex>
+    <band>2</band>
+    <equipmentDefName>RHA_RUIN_FurnaceGrip</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards/RHA_REX49C</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX50A</defName>
+    <label>Relentless Assault</label>
+    <description>While personally holding this card and wearing its equipment: damage bonus +25 percentage points, melee inverse-cooldown bonus +11.1 percentage points, ranged inverse-cooldown bonus +11.1 percentage points. One effect per card. Existing caps, additive bonuses and inverse-cooldown rules apply.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>50</relicIndex>
+    <band>0</band>
+    <equipmentDefName>RHA_RUIN_HeatReservoir</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards/RHA_REX50A</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX50B</defName>
+    <label>Enduring Vitality</label>
+    <description>While personally holding this card and wearing its equipment: health bonus +30 percentage points, defense bonus +25 percentage points. One effect per card. Existing caps, additive bonuses and inverse-cooldown rules apply.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>50</relicIndex>
+    <band>1</band>
+    <equipmentDefName>RHA_RUIN_HeatReservoir</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards/RHA_REX50B</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX50C</defName>
+    <label>Productive Stride</label>
+    <description>While personally holding this card and wearing its equipment: work speed bonus +35 percentage points, movement speed bonus +15 percentage points. One effect per card. Existing caps, additive bonuses and inverse-cooldown rules apply.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>50</relicIndex>
+    <band>2</band>
+    <equipmentDefName>RHA_RUIN_HeatReservoir</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards/RHA_REX50C</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX51A</defName>
+    <label>Rending Edge</label>
+    <description>While personally holding this card and wearing its equipment: damage bonus +25 percentage points, critical rating +10 percentage points. One effect per card. Existing caps, additive bonuses and inverse-cooldown rules apply.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>51</relicIndex>
+    <band>0</band>
+    <equipmentDefName>RHA_RUIN_RefractionLens</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards/RHA_REX51A</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX51B</defName>
+    <label>Bloodbound</label>
+    <description>While personally holding this card and wearing its equipment: health bonus +25 percentage points, lifesteal strength +15 percentage points. One effect per card. Existing caps, additive bonuses and inverse-cooldown rules apply.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>51</relicIndex>
+    <band>1</band>
+    <equipmentDefName>RHA_RUIN_RefractionLens</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards/RHA_REX51B</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX51C</defName>
+    <label>Rapid Assault</label>
+    <description>While personally holding this card and wearing its equipment: melee inverse-cooldown bonus +25 percentage points, ranged inverse-cooldown bonus +25 percentage points, movement speed bonus +10 percentage points. One effect per card. Existing caps, additive bonuses and inverse-cooldown rules apply.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>51</relicIndex>
+    <band>2</band>
+    <equipmentDefName>RHA_RUIN_RefractionLens</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards/RHA_REX51C</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX52A</defName>
+    <label>Focused Assault</label>
+    <description>While personally holding this card and wearing its equipment: damage bonus +20 percentage points, lifesteal strength +15 percentage points. One effect per card. Existing caps, additive bonuses and inverse-cooldown rules apply.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>52</relicIndex>
+    <band>0</band>
+    <equipmentDefName>RHA_RUIN_FieldInjector</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards/RHA_REX52A</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX52B</defName>
+    <label>Steady Recovery</label>
+    <description>While personally holding this card and wearing its equipment: health bonus +30 percentage points, regeneration +2. One effect per card. Existing caps, additive bonuses and inverse-cooldown rules apply.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>52</relicIndex>
+    <band>1</band>
+    <equipmentDefName>RHA_RUIN_FieldInjector</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards/RHA_REX52B</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX52C</defName>
+    <label>Rapid aftercare</label>
+    <description>When the Field injector repairs at least 60 injury points in one treatment, grant that patient 160 additional shield for 8 seconds.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>52</relicIndex>
+    <band>2</band>
+    <equipmentDefName>RHA_RUIN_FieldInjector</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards/RHA_REX52C</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX53A</defName>
+    <label>Focused Assault</label>
+    <description>While personally holding this card and wearing its equipment: damage bonus +30 percentage points, critical rating +8 percentage points. One effect per card. Existing caps, additive bonuses and inverse-cooldown rules apply.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>53</relicIndex>
+    <band>0</band>
+    <equipmentDefName>RHA_RUIN_BreachBow</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards/RHA_REX53A</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX53B</defName>
+    <label>Relentless Assault</label>
+    <description>While personally holding this card and wearing its equipment: damage bonus +10 percentage points, melee inverse-cooldown bonus +25 percentage points, ranged inverse-cooldown bonus +25 percentage points. One effect per card. Existing caps, additive bonuses and inverse-cooldown rules apply.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>53</relicIndex>
+    <band>1</band>
+    <equipmentDefName>RHA_RUIN_BreachBow</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards/RHA_REX53B</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX53C</defName>
+    <label>Focused Assault</label>
+    <description>While personally holding this card and wearing its equipment: damage bonus +20 percentage points, movement speed bonus +20 percentage points. One effect per card. Existing caps, additive bonuses and inverse-cooldown rules apply.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>53</relicIndex>
+    <band>2</band>
+    <equipmentDefName>RHA_RUIN_BreachBow</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards/RHA_REX53C</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX54A</defName>
+    <label>Focused Assault</label>
+    <description>While personally holding this card and wearing its equipment: damage bonus +20 percentage points, lifesteal strength +15 percentage points. One effect per card. Existing caps, additive bonuses and inverse-cooldown rules apply.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>54</relicIndex>
+    <band>0</band>
+    <equipmentDefName>RHA_RUIN_EscortSeal</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards/RHA_REX54A</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX54B</defName>
+    <label>Steady Recovery</label>
+    <description>While personally holding this card and wearing its equipment: health bonus +30 percentage points, regeneration +2. One effect per card. Existing caps, additive bonuses and inverse-cooldown rules apply.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>54</relicIndex>
+    <band>1</band>
+    <equipmentDefName>RHA_RUIN_EscortSeal</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards/RHA_REX54B</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX54C</defName>
+    <label>Swift Aid</label>
+    <description>While personally holding this card and wearing its equipment: movement speed bonus +20 percentage points, melee inverse-cooldown bonus +17.6 percentage points, ranged inverse-cooldown bonus +17.6 percentage points. One effect per card. Existing caps, additive bonuses and inverse-cooldown rules apply.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>54</relicIndex>
+    <band>2</band>
+    <equipmentDefName>RHA_RUIN_EscortSeal</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards/RHA_REX54C</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX55A</defName>
+    <label>Focused Assault</label>
+    <description>While personally holding this card and wearing its equipment: damage bonus +30 percentage points, critical rating +8 percentage points. One effect per card. Existing caps, additive bonuses and inverse-cooldown rules apply.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>55</relicIndex>
+    <band>0</band>
+    <equipmentDefName>RHA_TRIAL_StormPike</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards/RHA_REX55A</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX55B</defName>
+    <label>Relentless Assault</label>
+    <description>While personally holding this card and wearing its equipment: damage bonus +10 percentage points, melee inverse-cooldown bonus +25 percentage points, ranged inverse-cooldown bonus +25 percentage points. One effect per card. Existing caps, additive bonuses and inverse-cooldown rules apply.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>55</relicIndex>
+    <band>1</band>
+    <equipmentDefName>RHA_TRIAL_StormPike</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards/RHA_REX55B</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX55C</defName>
+    <label>Storm aftershock</label>
+    <description>After a Storm pike storm, strike up to four nearby visible standing enemies damaged by that storm for 160 extra electric damage. Enemies damaged by the extra strike lose 20% movement speed for 2 seconds.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>55</relicIndex>
+    <band>2</band>
+    <equipmentDefName>RHA_TRIAL_StormPike</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards/RHA_REX55C</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX56A</defName>
+    <label>Close discharge</label>
+    <description>After a Storm aegis discharge deals damage, strike up to four visible standing enemies within 3 tiles of the discharge position for 160 extra electric damage. Enemies damaged by the extra strike lose 20% movement speed for 2 seconds.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>56</relicIndex>
+    <band>0</band>
+    <equipmentDefName>RHA_TRIAL_StormAegis</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards/RHA_REX56A</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX56B</defName>
+    <label>Enduring Vitality</label>
+    <description>While personally holding this card and wearing its equipment: health bonus +35 percentage points, defense bonus +25 percentage points. One effect per card. Existing caps, additive bonuses and inverse-cooldown rules apply.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>56</relicIndex>
+    <band>1</band>
+    <equipmentDefName>RHA_TRIAL_StormAegis</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards/RHA_REX56B</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX56C</defName>
+    <label>Steady Recovery</label>
+    <description>While personally holding this card and wearing its equipment: health bonus +20 percentage points, regeneration +2. One effect per card. Existing caps, additive bonuses and inverse-cooldown rules apply.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>56</relicIndex>
+    <band>2</band>
+    <equipmentDefName>RHA_TRIAL_StormAegis</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards/RHA_REX56C</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX57A</defName>
+    <label>Rending Edge</label>
+    <description>While personally holding this card and wearing its equipment: damage bonus +25 percentage points, critical rating +10 percentage points. One effect per card. Existing caps, additive bonuses and inverse-cooldown rules apply.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>57</relicIndex>
+    <band>0</band>
+    <equipmentDefName>RHA_TRIAL_FurnaceHammer</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards/RHA_REX57A</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX57B</defName>
+    <label>Bloodbound</label>
+    <description>While personally holding this card and wearing its equipment: health bonus +25 percentage points, lifesteal strength +15 percentage points. One effect per card. Existing caps, additive bonuses and inverse-cooldown rules apply.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>57</relicIndex>
+    <band>1</band>
+    <equipmentDefName>RHA_TRIAL_FurnaceHammer</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards/RHA_REX57B</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX57C</defName>
+    <label>Rapid Assault</label>
+    <description>While personally holding this card and wearing its equipment: melee inverse-cooldown bonus +25 percentage points, ranged inverse-cooldown bonus +25 percentage points, movement speed bonus +10 percentage points. One effect per card. Existing caps, additive bonuses and inverse-cooldown rules apply.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>57</relicIndex>
+    <band>2</band>
+    <equipmentDefName>RHA_TRIAL_FurnaceHammer</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards/RHA_REX57C</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX58A</defName>
+    <label>Fortified Edge</label>
+    <description>While personally holding this card and wearing its equipment: damage bonus +25 percentage points, defense bonus +15 percentage points. One effect per card. Existing caps, additive bonuses and inverse-cooldown rules apply.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>58</relicIndex>
+    <band>0</band>
+    <equipmentDefName>RHA_TRIAL_FurnacePlate</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards/RHA_REX58A</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX58B</defName>
+    <label>Enduring Vitality</label>
+    <description>While personally holding this card and wearing its equipment: health bonus +35 percentage points, defense bonus +25 percentage points. One effect per card. Existing caps, additive bonuses and inverse-cooldown rules apply.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>58</relicIndex>
+    <band>1</band>
+    <equipmentDefName>RHA_TRIAL_FurnacePlate</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards/RHA_REX58B</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX58C</defName>
+    <label>Steady Recovery</label>
+    <description>While personally holding this card and wearing its equipment: health bonus +20 percentage points, regeneration +2. One effect per card. Existing caps, additive bonuses and inverse-cooldown rules apply.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>58</relicIndex>
+    <band>2</band>
+    <equipmentDefName>RHA_TRIAL_FurnacePlate</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards/RHA_REX58C</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX59A</defName>
+    <label>Relentless Assault</label>
+    <description>While personally holding this card and wearing its equipment: damage bonus +25 percentage points, melee inverse-cooldown bonus +11.1 percentage points, ranged inverse-cooldown bonus +11.1 percentage points. One effect per card. Existing caps, additive bonuses and inverse-cooldown rules apply.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>59</relicIndex>
+    <band>0</band>
+    <equipmentDefName>RHA_TRIAL_SoulLantern</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards/RHA_REX59A</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX59B</defName>
+    <label>Enduring Vitality</label>
+    <description>While personally holding this card and wearing its equipment: health bonus +30 percentage points, defense bonus +25 percentage points. One effect per card. Existing caps, additive bonuses and inverse-cooldown rules apply.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>59</relicIndex>
+    <band>1</band>
+    <equipmentDefName>RHA_TRIAL_SoulLantern</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards/RHA_REX59B</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX59C</defName>
+    <label>Productive Stride</label>
+    <description>While personally holding this card and wearing its equipment: work speed bonus +35 percentage points, movement speed bonus +15 percentage points. One effect per card. Existing caps, additive bonuses and inverse-cooldown rules apply.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>59</relicIndex>
+    <band>2</band>
+    <equipmentDefName>RHA_TRIAL_SoulLantern</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards/RHA_REX59C</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX60A</defName>
+    <label>Focused Assault</label>
+    <description>While personally holding this card and wearing its equipment: damage bonus +20 percentage points, lifesteal strength +15 percentage points. One effect per card. Existing caps, additive bonuses and inverse-cooldown rules apply.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>60</relicIndex>
+    <band>0</band>
+    <equipmentDefName>RHA_TRIAL_SoulSeal</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards/RHA_REX60A</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX60B</defName>
+    <label>Steady Recovery</label>
+    <description>While personally holding this card and wearing its equipment: health bonus +30 percentage points, regeneration +2. One effect per card. Existing caps, additive bonuses and inverse-cooldown rules apply.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>60</relicIndex>
+    <band>1</band>
+    <equipmentDefName>RHA_TRIAL_SoulSeal</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards/RHA_REX60B</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+  <RimHex.HexEquipmentCardDef037>
+    <defName>RHA_REX60C</defName>
+    <label>Swift Aid</label>
+    <description>While personally holding this card and wearing its equipment: movement speed bonus +20 percentage points, melee inverse-cooldown bonus +17.6 percentage points, ranged inverse-cooldown bonus +17.6 percentage points. One effect per card. Existing caps, additive bonuses and inverse-cooldown rules apply.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Equipment specialization</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <relicIndex>60</relicIndex>
+    <band>2</band>
+    <equipmentDefName>RHA_TRIAL_SoulSeal</equipmentDefName>
+    <enemyEligible>true</enemyEligible>
+    <economyOnly>false</economyOnly>
+    <iconPath>RimHex/Cards/RHA_REX60C</iconPath>
+  </RimHex.HexEquipmentCardDef037>
+</Defs>

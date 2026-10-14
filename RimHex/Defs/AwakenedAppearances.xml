@@ -1,0 +1,123 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Defs>
+  <RimHex.HexAwakenedAppearanceDef>
+    <defName>RHA_Look_aw8_pike_pierce</defName>
+    <label>Heavenpiercer</label>
+    <relic>RHA_TRIAL_StormPike</relic>
+    <branch>aw8_pike_pierce</branch>
+    <texturePath>RimHex/Awakened/aw8_pike_pierce</texturePath>
+    <emissionPath>RimHex/AwakenedGlow/aw8_pike_pierce</emissionPath>
+    <visual>AwPierce</visual>
+    <color>(0.4745,0.6627,0.7059)</color>
+  </RimHex.HexAwakenedAppearanceDef>
+  <RimHex.HexAwakenedAppearanceDef>
+    <defName>RHA_Look_aw8_pike_storm</defName>
+    <label>Spreading storm</label>
+    <relic>RHA_TRIAL_StormPike</relic>
+    <branch>aw8_pike_storm</branch>
+    <texturePath>RimHex/Awakened/aw8_pike_storm</texturePath>
+    <emissionPath>RimHex/AwakenedGlow/aw8_pike_storm</emissionPath>
+    <visual>AwStorm</visual>
+    <color>(0.4745,0.6627,0.7059)</color>
+  </RimHex.HexAwakenedAppearanceDef>
+  <RimHex.HexAwakenedAppearanceDef>
+    <defName>RHA_Look_aw8_aegis_fortress</defName>
+    <label>Storm fortress</label>
+    <relic>RHA_TRIAL_StormAegis</relic>
+    <branch>aw8_aegis_fortress</branch>
+    <texturePath>RimHex/Awakened/aw8_aegis_fortress</texturePath>
+    <emissionPath>RimHex/AwakenedGlow/aw8_aegis_fortress</emissionPath>
+    <visual>AwFortress</visual>
+    <color>(0.4745,0.6627,0.7059)</color>
+  </RimHex.HexAwakenedAppearanceDef>
+  <RimHex.HexAwakenedAppearanceDef>
+    <defName>RHA_Look_aw8_aegis_judgement</defName>
+    <label>Thunder judgment</label>
+    <relic>RHA_TRIAL_StormAegis</relic>
+    <branch>aw8_aegis_judgement</branch>
+    <texturePath>RimHex/Awakened/aw8_aegis_judgement</texturePath>
+    <emissionPath>RimHex/AwakenedGlow/aw8_aegis_judgement</emissionPath>
+    <visual>AwJudgement</visual>
+    <color>(0.4745,0.6627,0.7059)</color>
+  </RimHex.HexAwakenedAppearanceDef>
+  <RimHex.HexAwakenedAppearanceDef>
+    <defName>RHA_Look_aw8_hammer_crush</defName>
+    <label>Starbreaker</label>
+    <relic>RHA_TRIAL_FurnaceHammer</relic>
+    <branch>aw8_hammer_crush</branch>
+    <texturePath>RimHex/Awakened/aw8_hammer_crush</texturePath>
+    <emissionPath>RimHex/AwakenedGlow/aw8_hammer_crush</emissionPath>
+    <visual>AwCrush</visual>
+    <color>(0.7333,0.5412,0.3451)</color>
+  </RimHex.HexAwakenedAppearanceDef>
+  <RimHex.HexAwakenedAppearanceDef>
+    <defName>RHA_Look_aw8_hammer_lava</defName>
+    <label>Molten aftershock</label>
+    <relic>RHA_TRIAL_FurnaceHammer</relic>
+    <branch>aw8_hammer_lava</branch>
+    <texturePath>RimHex/Awakened/aw8_hammer_lava</texturePath>
+    <emissionPath>RimHex/AwakenedGlow/aw8_hammer_lava</emissionPath>
+    <visual>AwLava</visual>
+    <color>(0.7333,0.5412,0.3451)</color>
+  </RimHex.HexAwakenedAppearanceDef>
+  <RimHex.HexAwakenedAppearanceDef>
+    <defName>RHA_Look_aw8_plate_shelter</defName>
+    <label>Furnace shelter</label>
+    <relic>RHA_TRIAL_FurnacePlate</relic>
+    <branch>aw8_plate_shelter</branch>
+    <texturePath>RimHex/Awakened/aw8_plate_shelter</texturePath>
+    <emissionPath>RimHex/AwakenedGlow/aw8_plate_shelter</emissionPath>
+    <visual>AwShelter</visual>
+    <color>(0.7333,0.5412,0.3451)</color>
+  </RimHex.HexAwakenedAppearanceDef>
+  <RimHex.HexAwakenedAppearanceDef>
+    <defName>RHA_Look_aw8_plate_revenge</defName>
+    <label>Furnace vengeance</label>
+    <relic>RHA_TRIAL_FurnacePlate</relic>
+    <branch>aw8_plate_revenge</branch>
+    <texturePath>RimHex/Awakened/aw8_plate_revenge</texturePath>
+    <emissionPath>RimHex/AwakenedGlow/aw8_plate_revenge</emissionPath>
+    <visual>AwRevenge</visual>
+    <color>(0.7333,0.5412,0.3451)</color>
+  </RimHex.HexAwakenedAppearanceDef>
+  <RimHex.HexAwakenedAppearanceDef>
+    <defName>RHA_Look_aw8_lantern_gather</defName>
+    <label>Undying soulflame</label>
+    <relic>RHA_TRIAL_SoulLantern</relic>
+    <branch>aw8_lantern_gather</branch>
+    <texturePath>RimHex/Awakened/aw8_lantern_gather</texturePath>
+    <emissionPath>RimHex/AwakenedGlow/aw8_lantern_gather</emissionPath>
+    <visual>AwGather</visual>
+    <color>(0.4431,0.5647,0.4745)</color>
+  </RimHex.HexAwakenedAppearanceDef>
+  <RimHex.HexAwakenedAppearanceDef>
+    <defName>RHA_Look_aw8_lantern_legion</defName>
+    <label>Soul barrage</label>
+    <relic>RHA_TRIAL_SoulLantern</relic>
+    <branch>aw8_lantern_legion</branch>
+    <texturePath>RimHex/Awakened/aw8_lantern_legion</texturePath>
+    <emissionPath>RimHex/AwakenedGlow/aw8_lantern_legion</emissionPath>
+    <visual>AwLegion</visual>
+    <color>(0.5882,0.5647,0.6588)</color>
+  </RimHex.HexAwakenedAppearanceDef>
+  <RimHex.HexAwakenedAppearanceDef>
+    <defName>RHA_Look_aw8_seal_tide</defName>
+    <label>Returning tide</label>
+    <relic>RHA_TRIAL_SoulSeal</relic>
+    <branch>aw8_seal_tide</branch>
+    <texturePath>RimHex/Awakened/aw8_seal_tide</texturePath>
+    <emissionPath>RimHex/AwakenedGlow/aw8_seal_tide</emissionPath>
+    <visual>AwTide</visual>
+    <color>(0.4431,0.5647,0.4745)</color>
+  </RimHex.HexAwakenedAppearanceDef>
+  <RimHex.HexAwakenedAppearanceDef>
+    <defName>RHA_Look_aw8_seal_judgement</defName>
+    <label>Sacred verdict</label>
+    <relic>RHA_TRIAL_SoulSeal</relic>
+    <branch>aw8_seal_judgement</branch>
+    <texturePath>RimHex/Awakened/aw8_seal_judgement</texturePath>
+    <emissionPath>RimHex/AwakenedGlow/aw8_seal_judgement</emissionPath>
+    <visual>AwVerdict</visual>
+    <color>(0.702,0.6314,0.4314)</color>
+  </RimHex.HexAwakenedAppearanceDef>
+</Defs>

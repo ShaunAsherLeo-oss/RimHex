@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_StarRisk030_Title>战斗取舍</RHA_StarRisk030_Title>
+  <RHA_StarRisk030_Help>选择此人如何使用危险电压。征召中或刚经历战斗时不能切换；切换保留冷却与已准备的效果。</RHA_StarRisk030_Help>
+  <RHA_StarRisk030_CanSwitch>现在可以切换模式。</RHA_StarRisk030_CanSwitch>
+  <RHA_StarRisk030_Missing>此人尚无生效的危险电压节点。</RHA_StarRisk030_Missing>
+  <RHA_StarRisk030_Values>健康低于 {0}%：追加 {1} 点伤害或修复最多 {2} 点伤口。共用恢复：{3} 秒。</RHA_StarRisk030_Values>
+  <RHA_StarRisk030_Heal>当前：修复伤口 · 点击切换</RHA_StarRisk030_Heal>
+  <RHA_StarRisk030_Damage>当前：追加伤害 · 点击切换</RHA_StarRisk030_Damage>
+  <RHA_StarRisk030_Changed>所选角色或节点状态已变化，请重新打开面板。</RHA_StarRisk030_Changed>
+</LanguageData>

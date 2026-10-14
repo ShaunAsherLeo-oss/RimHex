@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_Skill_Guard025.label>架势</RHA_Skill_Guard025.label>
+  <RHA_Skill_Guard025.description>开启 2 秒招架窗口；成功抵挡一次直接攻击后可反击。固定恢复间隔 12 秒，仅手动。 以上为基础形态；已选分支的变化可在构筑面板和健康状态中查看。</RHA_Skill_Guard025.description>
+  <RHA_Skill_Counter025.label>借势反击</RHA_Skill_Counter025.label>
+  <RHA_Skill_Counter025.description>消耗成功招架留下的一次反击，对 2 格内一名敌人造成 10 点基础战技伤害。机会持续 4 秒，仅手动。 以上为基础形态；已选分支的变化可在构筑面板和健康状态中查看。</RHA_Skill_Counter025.description>
+  <RHA_Skill_Mine025.label>部署机关</RHA_Skill_Mine025.label>
+  <RHA_Skill_Mine025.description>部署一枚 1 秒后就绪、存在 30 秒的临时机关。每人 3 枚，每地图 12 枚；固定部署间隔 6 秒。仅手动。 以上为基础形态；已选分支的变化可在构筑面板和健康状态中查看。</RHA_Skill_Mine025.description>
+  <RHA_Skill_Trigger025.label>引爆机关</RHA_Skill_Trigger025.label>
+  <RHA_Skill_Trigger025.description>选择自己一枚已就绪的机关立即引爆，造成范围追加伤害。仅手动。 以上为基础形态；已选分支的变化可在构筑面板和健康状态中查看。</RHA_Skill_Trigger025.description>
+  <RHA_Skill_Disarm025.label>回收机关</RHA_Skill_Disarm025.label>
+  <RHA_Skill_Disarm025.description>移除自己一枚尚未触发的机关。不返还资源，不刷新部署间隔；预警中的机关无法回收。仅手动。 以上为基础形态；已选分支的变化可在构筑面板和健康状态中查看。</RHA_Skill_Disarm025.description>
+</LanguageData>

@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_TeamMark027.label>接力机会</RHA_TeamMark027.label>
+  <RHA_TeamMark027.description>队友可接上的进攻或掩护机会。持卡者离场、倒地或失去卡牌后失效。</RHA_TeamMark027.description>
+  <RHA_TeamStatus027.label>团队接力</RHA_TeamStatus027.label>
+  <RHA_TeamStatus027.description>查看接力目标、剩余时间、恢复间隔和累计触发次数。护盾与其他普通护盾取较高值，不相加；新增伤害不受伤害加成放大，护盾不受治疗增幅放大。</RHA_TeamStatus027.description>
+</LanguageData>

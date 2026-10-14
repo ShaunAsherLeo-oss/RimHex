@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_STAR_Relic_REF_Entropy.nodes.0.label>熵锤承袭</RHA_STAR_Relic_REF_Entropy.nodes.0.label>
+  <RHA_STAR_Relic_REF_Entropy.nodes.0.description>保留原有生命、暴击值和眩晕暴击倍率：眩晕按暴击概率翻倍，最长10秒。分支只计本人实际延长仍站立敌人的眩晕；免疫、无延长、友军与追加效果不计。不附送控制技能。</RHA_STAR_Relic_REF_Entropy.nodes.0.description>
+  <RHA_STAR_Relic_REF_Entropy.nodes.1.label>定身留痕</RHA_STAR_Relic_REF_Entropy.nodes.1.label>
+  <RHA_STAR_Relic_REF_Entropy.nodes.1.description>本人实际延长敌人的眩晕时，留下4秒熵痕，最多保留一个，生成冷却8秒。本人随后普通命中该敌人时消耗熵痕，追加50点基础伤害；技能和追加伤害不会兑现。 基础收益：伤害 50。</RHA_STAR_Relic_REF_Entropy.nodes.1.description>
+  <RHA_STAR_Relic_REF_Entropy.nodes.2.label>错步余震</RHA_STAR_Relic_REF_Entropy.nodes.2.label>
+  <RHA_STAR_Relic_REF_Entropy.nodes.2.description>4秒内实际延长两名不同敌人的眩晕，在第二名敌人附近3格内，对视线畅通的另一名敌人追加50点基础伤害，冷却8秒。重复控制同一敌人不计数，也不延长窗口。 基础收益：伤害 50。</RHA_STAR_Relic_REF_Entropy.nodes.2.description>
+  <RHA_STAR_Relic_REF_Entropy.nodes.3.label>破印回息</RHA_STAR_Relic_REF_Entropy.nodes.3.label>
+  <RHA_STAR_Relic_REF_Entropy.nodes.3.description>定身留痕的追加伤害实际生效后，治疗本人20点基础可恢复伤势，冷却8秒。不恢复缺失部位或永久伤疤。 基础收益：治疗 20。</RHA_STAR_Relic_REF_Entropy.nodes.3.description>
+  <RHA_STAR_Relic_REF_Entropy.nodes.4.label>破印掩护</RHA_STAR_Relic_REF_Entropy.nodes.4.label>
+  <RHA_STAR_Relic_REF_Entropy.nodes.4.description>定身留痕的追加伤害实际生效后，为本人4格内视线畅通、最近的另一名殖民者提供50点基础护盾，持续3秒，冷却8秒。没有合适队友时不转给本人。 基础收益：护盾 50。</RHA_STAR_Relic_REF_Entropy.nodes.4.description>
+  <RHA_STAR_Relic_REF_Entropy.nodes.5.label>余震固甲</RHA_STAR_Relic_REF_Entropy.nodes.5.label>
+  <RHA_STAR_Relic_REF_Entropy.nodes.5.description>错步余震实际造成伤害后，为本人提供50点基础护盾，持续3秒，冷却8秒。无伤害的控制不会直接提供护盾。 基础收益：护盾 50。</RHA_STAR_Relic_REF_Entropy.nodes.5.description>
+  <RHA_STAR_Relic_REF_Entropy.nodes.6.label>余震回荡</RHA_STAR_Relic_REF_Entropy.nodes.6.label>
+  <RHA_STAR_Relic_REF_Entropy.nodes.6.description>错步余震实际造成伤害后，在余震受击格留下固定震点。1秒后对其2格内视线畅通的至多两名敌人各造成25点基础伤害，冷却8秒。震点不追踪敌人。 基础收益：伤害 25。</RHA_STAR_Relic_REF_Entropy.nodes.6.description>
+</LanguageData>

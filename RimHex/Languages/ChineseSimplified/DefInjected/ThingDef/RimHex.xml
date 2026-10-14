@@ -1,0 +1,113 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_Dragonheart.label>龙心</RHA_Dragonheart.label>
+  <RHA_Dragonheart.description>体质 +60%，对敌直接伤害 +40%，每秒恢复 0.8 点普通伤势。每穿戴两天成长一次，最多六次；每次再增加 25% 体质、20% 伤害和每秒 0.6 点恢复。满六次后增加 20 个百分点处决阈值。</RHA_Dragonheart.description>
+  <RHA_Runecarver.label>符文雕刻者</RHA_Runecarver.label>
+  <RHA_Runecarver.description>连锁等级 +1.5；对敌直接伤害 +50%；移速 +25%。 每三次有效直接命中触发连锁，范围沿用全局连锁设置。 复制伤害沿用原结算值；固定追加部分仍可增幅。</RHA_Runecarver.description>
+  <RHA_DetonationOrb.label>爆炸之球</RHA_DetonationOrb.label>
+  <RHA_DetonationOrb.description>爆发等级 +1.5；对敌直接伤害 +40%。 每四次有效直接命中，在目标周围 4.5 格内爆发。 复制伤害沿用原结算值；固定追加部分仍可增幅。</RHA_DetonationOrb.description>
+  <RHA_Crown.label>魔王之冕</RHA_Crown.label>
+  <RHA_Crown.description>体质、对敌直接伤害与全局工作速度各 +50%。击败合格敌人，按参战份额积累战绩；每点有效战绩再增加 4% 体质、4% 伤害和 3% 工作速度。前 20 点战绩全额生效，之后收益递减。已有战绩不扣除，随装备保留。 战绩成长与其他永久印记分别计算。 成长按近 30 秒的参战贡献分给持有同类能力的角色，各用自己的成长倍率。伤敌、延长眩晕、海克斯治疗和护盾吸收计入；治疗须对应近期敌伤。有伤敌者时，支援份额最多 25%。普通动物、囚犯、倒地补刀及旁观者不计。</RHA_Crown.description>
+  <RHA_Reaper.label>收割者之镰</RHA_Reaper.label>
+  <RHA_Reaper.description>处决阈值 +15%；远程冷却除数 +1；近战冷却除数 +1。 每三次有效直接命中追加 25＋目标体质倍率×14 点伤害。</RHA_Reaper.description>
+  <RHA_Bloodmail.label>血铸战甲</RHA_Bloodmail.label>
+  <RHA_Bloodmail.description>直接伤害吸血 +35%；体质 +120%；承伤除数 +0.5。</RHA_Bloodmail.description>
+  <RHA_Darksteel.label>黑钢利爪</RHA_Darksteel.label>
+  <RHA_Darksteel.description>钢印成长等级 +1.5；体质 +80%；承伤除数 +0.5。 有效直接命中每 2 秒最多积累一次钢印。 各项永久成长的前 100 点保留全额收益，之后递减。</RHA_Darksteel.description>
+  <RHA_Talisman.label>不朽护符</RHA_Talisman.label>
+  <RHA_Talisman.description>承伤除数 +0.6；每秒普通伤势恢复 +2.5；移速 +35%。 每 30 秒最多抵消一次伤害，并恢复 35 点普通伤势。</RHA_Talisman.description>
+  <RHA_Embertide.label>日炎圣盾</RHA_Embertide.label>
+  <RHA_Embertide.description>日炎等级 +2；灼烧等级 +1.5；体质 +70%。</RHA_Embertide.description>
+  <RHA_Frostguard.label>永霜之心</RHA_Frostguard.label>
+  <RHA_Frostguard.description>永霜等级 +1.5；承伤除数 +0.7；体质 +80%。</RHA_Frostguard.description>
+  <RHA_Thornshell.label>荆棘之甲</RHA_Thornshell.label>
+  <RHA_Thornshell.description>荆棘等级 +2.5；体质 +150%；承伤除数 +0.4。</RHA_Thornshell.description>
+  <RHA_Moonstone.label>月华织机</RHA_Moonstone.label>
+  <RHA_Moonstone.description>群体治疗等级 +2.5；每秒普通伤势恢复 +2.5。</RHA_Moonstone.description>
+  <RHA_Hydra.label>贪欲九头蛇</RHA_Hydra.label>
+  <RHA_Hydra.description>顺劈等级 +2；对敌直接伤害 +70%；直接伤害吸血 +20%。 复制伤害沿用原结算值；固定追加部分仍可增幅。</RHA_Hydra.description>
+  <RHA_Gambler.label>赌徒金币</RHA_Gambler.label>
+  <RHA_Gambler.description>每次合格击杀白银 +100；暴击值 +50%；移速 +30%。</RHA_Gambler.description>
+  <RHA_Soulreaver.label>摄魂法器</RHA_Soulreaver.label>
+  <RHA_Soulreaver.description>收魂等级 +2；对敌直接伤害 +60%；每秒普通伤势恢复 +1.2。 各项永久成长的前 100 点保留全额收益，之后递减。</RHA_Soulreaver.description>
+  <RHA_Ballista.label>破城巨弩</RHA_Ballista.label>
+  <RHA_Ballista.description>狙击每格伤害加成 +10%；对敌直接伤害 +60%；瞄准时间除数 +1.5。 狙击加成计算超过 4 格的距离，最多计算 25 格。</RHA_Ballista.description>
+  <RHA_Duelist.label>决斗之锋</RHA_Duelist.label>
+  <RHA_Duelist.description>3 格内直接伤害 +120%；直接伤害吸血 +25%；近战冷却除数 +1.2。</RHA_Duelist.description>
+  <RHA_Bloodrage.label>暴君之握</RHA_Bloodrage.label>
+  <RHA_Bloodrage.description>损失健康带来的最高伤害加成 +500%；体质 +120%；承伤除数 +0.7。</RHA_Bloodrage.description>
+  <RHA_Chronoblade.label>时光之刃</RHA_Chronoblade.label>
+  <RHA_Chronoblade.description>热诚等级 +2；近战冷却除数 +1.2；远程冷却除数 +1.2。 前 20 层临时连击收益不变，之后收益递减。</RHA_Chronoblade.description>
+  <RHA_Starward.label>星界壁垒</RHA_Starward.label>
+  <RHA_Starward.description>星界等级 +1.2；体质 +120%；承伤除数 +0.7。 减伤后单次生命伤害上限为 15÷总星界等级，最低 1 点；多段伤害分别结算。</RHA_Starward.description>
+  <RHA_Trinity.label>三相奇点</RHA_Trinity.label>
+  <RHA_Trinity.description>对敌直接伤害 +80%；暴击值 +35%；顺劈等级 +1；连锁等级 +1；移速 +40%；全局工作速度 +40%。 复制伤害沿用原结算值；固定追加部分仍可增幅。</RHA_Trinity.description>
+  <RHA_Worldforge.label>万象熔炉</RHA_Worldforge.label>
+  <RHA_Worldforge.description>每秒普通伤势恢复 +2；全局工作速度 +150%；建造速度 +150%；普通工作速度 +150%；学习速度 +150%。</RHA_Worldforge.description>
+  <RHA_Archangel.label>大天使之杖</RHA_Archangel.label>
+  <RHA_Archangel.description>每秒普通伤势恢复 +3；群体治疗等级 +1.5；体质 +100%；收魂等级 +1。 各项永久成长的前 100 点保留全额收益，之后递减。</RHA_Archangel.description>
+  <RHA_Infinity.label>无尽之刃</RHA_Infinity.label>
+  <RHA_Infinity.description>暴击值 +100%；对敌直接伤害 +60%。 超过 100% 的暴击值继续提高暴击倍率。</RHA_Infinity.description>
+  <RHA_REF_MoltenStone.label>熔石之盾</RHA_REF_MoltenStone.label>
+  <RHA_REF_MoltenStone.description>体质 +70%，承伤除数 +0.7；受到外部伤害时有 25% 概率格挡整段伤害。</RHA_REF_MoltenStone.description>
+  <RHA_REF_StarryNight.label>星夜斗篷</RHA_REF_StarryNight.label>
+  <RHA_REF_StarryNight.description>承伤除数 +0.7；子弹、割伤、刺伤和钝伤以外的伤害再除以 3。</RHA_REF_StarryNight.description>
+  <RHA_REF_DivineSword.label>神圣之剑</RHA_REF_DivineSword.label>
+  <RHA_REF_DivineSword.description>暴击值 +60%，直接伤害 +40%。直接暴击额外随机增加 0.3～1.5 倍暴击倍率。</RHA_REF_DivineSword.description>
+  <RHA_REF_Entropy.label>熵之力</RHA_REF_Entropy.label>
+  <RHA_REF_Entropy.description>体质 +100%，暴击值 +40%。造成眩晕时按暴击值判定，成功则持续时间翻倍，最高 10 秒。</RHA_REF_Entropy.description>
+  <RHA_REF_SanguineGift.label>血色赠礼</RHA_REF_SanguineGift.label>
+  <RHA_REF_SanguineGift.description>增加 40% 直接伤害。每次有效直接命中储存实际伤害的 30%；储血达到 60 时消耗 60，分别治疗自己和 12 格内最近一名其他殖民者 60 点伤势，每次命中最多结算一次。</RHA_REF_SanguineGift.description>
+  <RHA_REF_Eleisa.label>艾莉莎的奇迹</RHA_REF_Eleisa.label>
+  <RHA_REF_Eleisa.description>每秒恢复 3 点普通伤势。每损失 10% 总体健康度，自身获得的海克斯治疗与护盾提高 15%，最高 150%。</RHA_REF_Eleisa.description>
+  <RHA_REF_Ascension.label>飞升护符</RHA_REF_Ascension.label>
+  <RHA_REF_Ascension.description>每天可主动重掷两次伤害、体质、减伤、移速和攻速。各项基础值为 35%～125%，乘以（1＋有效重掷次数×8%）；前 10 次全额计入，之后递减。伤害、体质和减伤增益超过 200%，移速和攻速增益超过 100% 后，最终收益也递减。新结果替换旧结果，已有计数保留。</RHA_REF_Ascension.description>
+  <RHA_REF_Hamstringer.label>断筋者</RHA_REF_Hamstringer.label>
+  <RHA_REF_Hamstringer.description>增加 50% 暴击值。有效直接暴击使目标每秒流血伤害增加 8 点，刷新为六次；流血期间移速降低 30%。与易损搭配可使流血本身暴击。</RHA_REF_Hamstringer.description>
+  <RHA_REF_GamblersBlade.label>投机者之刃</RHA_REF_GamblersBlade.label>
+  <RHA_REF_GamblersBlade.description>增加 40% 移速。每次有效命中有 25% 概率存入 45 白银；击杀站立敌人时取出全部存款，倒地时取出 75% 并损失其余部分。存款随英雄保存，转交装备不转移存款。</RHA_REF_GamblersBlade.description>
+  <RHA_REF_Hemomancer.label>血术师之盔</RHA_REF_Hemomancer.label>
+  <RHA_REF_Hemomancer.description>体质 +120%。对敌直接伤害与海克斯追加伤害各有 20% 吸血，只治疗普通伤势。</RHA_REF_Hemomancer.description>
+  <RHA_REF_NightHarvester.label>暗夜收割者</RHA_REF_NightHarvester.label>
+  <RHA_REF_NightHarvester.description>增加 50% 直接伤害、35% 移速。有效命中对该目标追加 75 点穿甲伤害，每名敌人独立冷却 20 秒，受装备急速影响。</RHA_REF_NightHarvester.description>
+  <RHA_REF_DemonicEmbrace.label>恶魔之拥</RHA_REF_DemonicEmbrace.label>
+  <RHA_REF_DemonicEmbrace.description>体质 +100%。每损失 10% 总体健康度增加 40% 直接伤害，最高 400%；按缺失健康比例增加移速，最高 30%。约每 4.2 秒更新。</RHA_REF_DemonicEmbrace.description>
+  <RHA_REF_ShatteredQueen.label>破碎王后之冕</RHA_REF_ShatteredQueen.label>
+  <RHA_REF_ShatteredQueen.description>连续 5 秒未受攻击后，下次受击开启 1.25 秒的 90% 减伤窗口；每次受击都重置脱战等待。承伤除数另增加 0.6。</RHA_REF_ShatteredQueen.description>
+  <RHA_REF_DivineSunderer.label>神圣分离者</RHA_REF_DivineSunderer.label>
+  <RHA_REF_DivineSunderer.description>增加 60% 直接伤害。有效命中追加 20＋12×目标总体系数点穿甲伤害，并治疗自己 25 点伤势；冷却 2 秒，受装备急速影响。</RHA_REF_DivineSunderer.description>
+  <RHA_REF_Everfrost.label>永霜</RHA_REF_Everfrost.label>
+  <RHA_REF_Everfrost.description>主动：向指定方向释放 14 格扇形寒潮，对可见站立敌人造成 65 点穿甲伤害；中央目标眩晕 3 秒，两侧 1 秒，最多 20 个目标。冷却 20 秒，受装备急速影响。</RHA_REF_Everfrost.description>
+  <RHA_REF_RadiantVirtue.label>辉耀美德</RHA_REF_RadiantVirtue.label>
+  <RHA_REF_RadiantVirtue.description>主动：立即治疗 12 格内至多 12 名殖民者各 45 点伤势，自身体质增加 100% 持续 10 秒；期间约每 4.2 秒再群疗 30 点。冷却 20 秒，受装备急速影响。</RHA_REF_RadiantVirtue.description>
+  <RHA_REF_Gargoyle.label>石像鬼石板甲</RHA_REF_Gargoyle.label>
+  <RHA_REF_Gargoyle.description>体质 +120%，承伤除数 +0.7。主动获得 180×（1＋海克斯体质加成）点护盾，持续 6 秒，冷却 20 秒；受装备急速影响，护盾取较强值。</RHA_REF_Gargoyle.description>
+  <RHA_REF_Empyrean.label>至高天诺言</RHA_REF_Empyrean.label>
+  <RHA_REF_Empyrean.description>主动：传送到同地图 40 格内另一名殖民者附近，为双方各提供 160 点护盾持续 10 秒，并治疗对方 40 点伤势；可援助倒地者。冷却 30 秒，受装备急速影响。 另每秒恢复 2 点普通伤势。</RHA_REF_Empyrean.description>
+  <RHA_REF_Cruelty.label>残忍</RHA_REF_Cruelty.label>
+  <RHA_REF_Cruelty.description>增加 50% 直接伤害。成功眩晕后立即对目标 4.5 格内至多 16 名站立敌人追加 80 点穿甲伤害。冷却 6 秒，受装备急速影响；控制收益每秒至多一次。</RHA_REF_Cruelty.description>
+  <RHA_REF_Moonflair.label>月华咒刃</RHA_REF_Moonflair.label>
+  <RHA_REF_Moonflair.description>海克斯追加伤害命中后 3 秒内，近战与远程冷却除数各增加 1.4。有效直接命中缩短穿戴的主动装备剩余冷却 0.5 秒。</RHA_REF_Moonflair.description>
+  <RHA_REF_Overlord.label>霸王血铠</RHA_REF_Overlord.label>
+  <RHA_REF_Overlord.description>体质 +180%；海克斯体质加成的 17.5% 转为直接伤害加成。每缺失 10% 总体健康度再增加 20% 直接伤害，最高 200%。</RHA_REF_Overlord.description>
+  <RHA_REF_Flesheater.label>食肉斧剑</RHA_REF_Flesheater.label>
+  <RHA_REF_Flesheater.description>增加 50% 直接伤害。有效命中使目标易伤，五秒内每层易伤多承受 10% 直接伤害，最多十层；击杀站立敌人使自己再增加 15% 直接伤害，10 秒不直接命中后清空击杀增益。 前 20 层临时连击收益不变，之后收益递减。</RHA_REF_Flesheater.description>
+  <RHA_REF_LightningRod.label>闪电杖</RHA_REF_LightningRod.label>
+  <RHA_REF_LightningRod.description>站立时约每 8.3 秒向 7 格内至多 16 名站立敌人放电，各造成 30＋8×目标总体系数点穿甲伤害，并降低其 30% 移速五秒；命中至少一人时为自己提供 60 点护盾。冷却受装备急速影响，按约 4.2 秒的检查间隔结算。 另增加 80% 体质。</RHA_REF_LightningRod.description>
+  <RHA_REF_DiamondSpear.label>钻头长矛</RHA_REF_DiamondSpear.label>
+  <RHA_REF_DiamondSpear.description>远程射程 +8 格。与敌人距离超过 4 格的部分，每格增加 10% 直接伤害，最多计算 25 格。</RHA_REF_DiamondSpear.description>
+  <RHA_TRIAL_StormPike.label>霆王之矛</RHA_TRIAL_StormPike.label>
+  <RHA_TRIAL_StormPike.description>增加 100% 对敌伤害与 3 连锁等级。每第 3 次有效直接命中，在目标位置引发半径 4 格雷暴，对最多 8 名站立敌人造成 120＋本次直接伤害 50% 的追加伤害；雷暴冷却 1 秒。 来自雷霆穹顶试炼。 复制伤害沿用原结算值；固定追加部分仍可增幅。</RHA_TRIAL_StormPike.description>
+  <RHA_TRIAL_StormAegis.label>雷幕壁垒</RHA_TRIAL_StormAegis.label>
+  <RHA_TRIAL_StormAegis.description>增加 150% 体质，承伤除数增加 0.6。24 格内有站立敌人时，每约 5 秒获得 120 点护盾、持续 6 秒。护盾吸收伤害时，向 10 格内最多 4 名敌人放电，每名受到 80＋本次吸收量 30% 的追加伤害；放电冷却 1 秒。 来自雷霆穹顶试炼。 复制伤害沿用原结算值；固定追加部分仍可增幅。</RHA_TRIAL_StormAegis.description>
+  <RHA_TRIAL_FurnaceHammer.label>熔星重锤</RHA_TRIAL_FurnaceHammer.label>
+  <RHA_TRIAL_FurnaceHammer.description>增加 140% 对敌伤害、80% 体质与 2 灼烧等级。每第 4 次有效直接命中震击目标周围 5 格，对最多 10 名站立敌人造成 100＋穿戴者当前体质倍率×25 的追加伤害，并施加 3 级灼烧；震击冷却 1.5 秒。 来自熔炉深庭试炼。</RHA_TRIAL_FurnaceHammer.description>
+  <RHA_TRIAL_FurnacePlate.label>炉心战铠</RHA_TRIAL_FurnacePlate.label>
+  <RHA_TRIAL_FurnacePlate.description>增加 200% 体质，每秒恢复 3 点普通伤势。受到敌人的直接伤害后获得 200＋当前体质倍率×10 点护盾，持续 10 秒；冷却 3 秒。护盾无法抵消触发它的那次伤害。 来自熔炉深庭试炼。</RHA_TRIAL_FurnacePlate.description>
+  <RHA_TRIAL_SoulLantern.label>万魂提灯</RHA_TRIAL_SoulLantern.label>
+  <RHA_TRIAL_SoulLantern.description>增加 3 收魂等级，每秒恢复 2.5 点普通伤势。击杀站立敌人时，从其位置寻找 12 格内最多 3 名敌人，释放魂矢，每名受到 60＋穿戴者魂印数×3 的追加伤害；冷却 2 秒。魂矢不会递归触发自身。 来自群魂回廊试炼。 各项永久成长的前 100 点保留全额收益，之后递减。</RHA_TRIAL_SoulLantern.description>
+  <RHA_TRIAL_SoulSeal.label>归魂圣印</RHA_TRIAL_SoulSeal.label>
+  <RHA_TRIAL_SoulSeal.description>增加 150% 体质，每秒恢复 3 点普通伤势。通过强化或遗物累计恢复 120 点真实伤势后，为自身周围 12 格内最多 4 名自由殖民者各施加 180 点护盾，持续 10 秒；冷却 2 秒，溢出治疗不计入进度。 来自群魂回廊试炼。</RHA_TRIAL_SoulSeal.description>
+  <RHA_TrialBeacon.label>棱彩试炼信标</RHA_TrialBeacon.label>
+  <RHA_TrialBeacon.description>在家园主动开启三轮棱彩试炼。建在露天位置，周围 18–30 格需要可抵达的空地。每轮结束可以领取奖励离场；敌人会真实进攻家园，角色伤势正常保留。信标不受伤害，仍可卸载或拆除。</RHA_TrialBeacon.description>
+</LanguageData>

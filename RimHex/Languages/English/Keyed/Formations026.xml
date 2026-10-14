@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_F026_Role1>Splitshield guard</RHA_F026_Role1>
+  <RHA_F026_Role2>Repair anchor</RHA_F026_Role2>
+  <RHA_F026_Role3>Spotter</RHA_F026_Role3>
+  <RHA_F026_Help1>Absorbs 70% of non-explosive damage within a 120-degree frontal arc, using a finite shield that does not regenerate. Flanks, rear attacks and explosions bypass it. Stun and broken poise disable it. Short lines mark the arc; the long line previews a turn that completes after 1.5 seconds.</RHA_F026_Help1>
+  <RHA_F026_Help2>Three repairs per deployment. Channels for 3 seconds to repair up to 30 injury points on a visible ally within 10 cells from the same encounter. Cannot repair other anchors, dead or downed units. Stun, broken poise, blocked sight and range can interrupt it.</RHA_F026_Help2>
+  <RHA_F026_Help3>Locks a visible colonist location within 30 cells, then strikes a 2.5-cell area after 3 seconds. Move out of the yellow ring to evade. Stun, broken poise, blocked sight and departure interrupt the charge.</RHA_F026_Help3>
+  <RHA_F026_Shield>Shield remaining: {0}; {1}</RHA_F026_Shield>
+  <RHA_F026_Turning>turning</RHA_F026_Turning>
+  <RHA_F026_Facing>facing held</RHA_F026_Facing>
+  <RHA_F026_Charges>Repairs remaining: {0}</RHA_F026_Charges>
+  <RHA_F026_Countdown>Charge: {0}s remaining</RHA_F026_Countdown>
+  <RHA_F026_Aiming>Sighting</RHA_F026_Aiming>
+  <RHA_F026_Preview>With challenge rules enabled, tier 3–5 trials and ruins deploy shield advances or anchor escorts. Flanking, explosives, interrupts and attacking support units can break these formations.</RHA_F026_Preview>
+</LanguageData>

@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_TitanTrial030_root.label>站稳脚跟</RHA_TitanTrial030_root.label>
+  <RHA_TitanTrial030_root.description>主要威胁：近距离且站定的敌人围绕支点形成防御阵型。 可用解法：引导移动拆散阵型、控制支点，或把实际伤害集中到支点。 成功收益：阵型崩解，关联敌人失衡8秒，承伤提高25%。 忽略代价：完整阵型最多减伤20%；集中普通攻击仍可推进。
+本关编排：支点破防；锁定落点。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。沿用原有限敌人编组。</RHA_TitanTrial030_root.description>
+  <RHA_TitanTrial030_impact.label>迎上冲锋</RHA_TitanTrial030_impact.label>
+  <RHA_TitanTrial030_impact.description>主要威胁：近距离且站定的敌人围绕支点形成防御阵型。 可用解法：引导移动拆散阵型、控制支点，或把实际伤害集中到支点。 成功收益：阵型崩解，关联敌人失衡8秒，承伤提高25%。 忽略代价：完整阵型最多减伤20%；集中普通攻击仍可推进。
+本关编排：追击诱导；固定射线。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。沿用原有限敌人编组。</RHA_TitanTrial030_impact.description>
+  <RHA_TitanTrial030_brace.label>炮火下的立足点</RHA_TitanTrial030_brace.label>
+  <RHA_TitanTrial030_brace.description>主要威胁：近距离且站定的敌人围绕支点形成防御阵型。 可用解法：引导移动拆散阵型、控制支点，或把实际伤害集中到支点。 成功收益：阵型崩解，关联敌人失衡8秒，承伤提高25%。 忽略代价：完整阵型最多减伤20%；集中普通攻击仍可推进。
+本关编排：连续攻击；左右连续落点。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。沿用原有限敌人编组。</RHA_TitanTrial030_brace.description>
+  <RHA_TitanTrial030_hammer.label>压断枪线</RHA_TitanTrial030_hammer.label>
+  <RHA_TitanTrial030_hammer.description>主要威胁：近距离且站定的敌人围绕支点形成防御阵型。 可用解法：引导移动拆散阵型、控制支点，或把实际伤害集中到支点。 成功收益：阵型崩解，关联敌人失衡8秒，承伤提高25%。 忽略代价：完整阵型最多减伤20%；集中普通攻击仍可推进。
+本关编排：支点破防；锁定落点。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。沿用原有限敌人编组。</RHA_TitanTrial030_hammer.description>
+  <RHA_TitanTrial030_sweep.label>横断队列</RHA_TitanTrial030_sweep.label>
+  <RHA_TitanTrial030_sweep.description>主要威胁：近距离且站定的敌人围绕支点形成防御阵型。 可用解法：引导移动拆散阵型、控制支点，或把实际伤害集中到支点。 成功收益：阵型崩解，关联敌人失衡8秒，承伤提高25%。 忽略代价：完整阵型最多减伤20%；集中普通攻击仍可推进。
+本关编排：移动支援；空心冲击。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。沿用原有限敌人编组。</RHA_TitanTrial030_sweep.description>
+  <RHA_TitanTrial030_counter.label>回敬一击</RHA_TitanTrial030_counter.label>
+  <RHA_TitanTrial030_counter.description>主要威胁：近距离且站定的敌人围绕支点形成防御阵型。 可用解法：引导移动拆散阵型、控制支点，或把实际伤害集中到支点。 成功收益：阵型崩解，关联敌人失衡8秒，承伤提高25%。 忽略代价：完整阵型最多减伤20%；集中普通攻击仍可推进。
+本关编排：双体联动；锁定落点。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。沿用原有限敌人编组。</RHA_TitanTrial030_counter.description>
+  <RHA_TitanTrial030_cover.label>护住侧翼</RHA_TitanTrial030_cover.label>
+  <RHA_TitanTrial030_cover.description>主要威胁：近距离且站定的敌人围绕支点形成防御阵型。 可用解法：引导移动拆散阵型、控制支点，或把实际伤害集中到支点。 成功收益：阵型崩解，关联敌人失衡8秒，承伤提高25%。 忽略代价：完整阵型最多减伤20%；集中普通攻击仍可推进。
+本关编排：目标保护；空心冲击。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。沿用原有限敌人编组。</RHA_TitanTrial030_cover.description>
+  <RHA_TitanTrial030_breach.label>撬开裂口</RHA_TitanTrial030_breach.label>
+  <RHA_TitanTrial030_breach.description>主要威胁：近距离且站定的敌人围绕支点形成防御阵型。 可用解法：引导移动拆散阵型、控制支点，或把实际伤害集中到支点。 成功收益：阵型崩解，关联敌人失衡8秒，承伤提高25%。 忽略代价：完整阵型最多减伤20%；集中普通攻击仍可推进。
+本关编排：支点破防；固定射线。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。沿用原有限敌人编组。</RHA_TitanTrial030_breach.description>
+  <RHA_TitanTrial030_fault.label>脱离断层</RHA_TitanTrial030_fault.label>
+  <RHA_TitanTrial030_fault.description>主要威胁：近距离且站定的敌人围绕支点形成防御阵型。 可用解法：引导移动拆散阵型、控制支点，或把实际伤害集中到支点。 成功收益：阵型崩解，关联敌人失衡8秒，承伤提高25%。 忽略代价：完整阵型最多减伤20%；集中普通攻击仍可推进。
+本关编排：连续攻击；固定射线。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。沿用原有限敌人编组。</RHA_TitanTrial030_fault.description>
+  <RHA_TitanTrial030_rhythm.label>两面应敌</RHA_TitanTrial030_rhythm.label>
+  <RHA_TitanTrial030_rhythm.description>主要威胁：近距离且站定的敌人围绕支点形成防御阵型。 可用解法：引导移动拆散阵型、控制支点，或把实际伤害集中到支点。 成功收益：阵型崩解，关联敌人失衡8秒，承伤提高25%。 忽略代价：完整阵型最多减伤20%；集中普通攻击仍可推进。
+本关编排：双体联动；固定射线。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。沿用原有限敌人编组。</RHA_TitanTrial030_rhythm.description>
+  <RHA_TitanTrial030_rally.label>补上缺口</RHA_TitanTrial030_rally.label>
+  <RHA_TitanTrial030_rally.description>主要威胁：近距离且站定的敌人围绕支点形成防御阵型。 可用解法：引导移动拆散阵型、控制支点，或把实际伤害集中到支点。 成功收益：阵型崩解，关联敌人失衡8秒，承伤提高25%。 忽略代价：完整阵型最多减伤20%；集中普通攻击仍可推进。
+本关编排：目标保护；固定射线。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。沿用原有限敌人编组。</RHA_TitanTrial030_rally.description>
+  <RHA_TitanTrial030_breach_pin.label>压住这一枪</RHA_TitanTrial030_breach_pin.label>
+  <RHA_TitanTrial030_breach_pin.description>主要威胁：近距离且站定的敌人围绕支点形成防御阵型。 可用解法：引导移动拆散阵型、控制支点，或把实际伤害集中到支点。 成功收益：阵型崩解，关联敌人失衡8秒，承伤提高25%。 忽略代价：完整阵型最多减伤20%；集中普通攻击仍可推进。
+本关编排：支点破防；锁定落点。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。五阶固定首领与两名护卫，无补员或复活。</RHA_TitanTrial030_breach_pin.description>
+  <RHA_TitanTrial030_breach_mend.label>夺回阵地</RHA_TitanTrial030_breach_mend.label>
+  <RHA_TitanTrial030_breach_mend.description>主要威胁：近距离且站定的敌人围绕支点形成防御阵型。 可用解法：引导移动拆散阵型、控制支点，或把实际伤害集中到支点。 成功收益：阵型崩解，关联敌人失衡8秒，承伤提高25%。 忽略代价：完整阵型最多减伤20%；集中普通攻击仍可推进。
+本关编排：追击诱导；空心冲击。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。五阶固定首领与两名护卫，无补员或复活。</RHA_TitanTrial030_breach_mend.description>
+  <RHA_TitanTrial030_fault_join.label>双线合拢</RHA_TitanTrial030_fault_join.label>
+  <RHA_TitanTrial030_fault_join.description>主要威胁：近距离且站定的敌人围绕支点形成防御阵型。 可用解法：引导移动拆散阵型、控制支点，或把实际伤害集中到支点。 成功收益：阵型崩解，关联敌人失衡8秒，承伤提高25%。 忽略代价：完整阵型最多减伤20%；集中普通攻击仍可推进。
+本关编排：双体联动；锁定落点。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。五阶固定首领与两名护卫，无补员或复活。</RHA_TitanTrial030_fault_join.description>
+  <RHA_TitanTrial030_fault_guard.label>掩护穿越</RHA_TitanTrial030_fault_guard.label>
+  <RHA_TitanTrial030_fault_guard.description>主要威胁：近距离且站定的敌人围绕支点形成防御阵型。 可用解法：引导移动拆散阵型、控制支点，或把实际伤害集中到支点。 成功收益：阵型崩解，关联敌人失衡8秒，承伤提高25%。 忽略代价：完整阵型最多减伤20%；集中普通攻击仍可推进。
+本关编排：目标保护；空心冲击。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。五阶固定首领与两名护卫，无补员或复活。</RHA_TitanTrial030_fault_guard.description>
+  <RHA_TitanTrial030_rhythm_return.label>两击之间</RHA_TitanTrial030_rhythm_return.label>
+  <RHA_TitanTrial030_rhythm_return.description>主要威胁：近距离且站定的敌人围绕支点形成防御阵型。 可用解法：引导移动拆散阵型、控制支点，或把实际伤害集中到支点。 成功收益：阵型崩解，关联敌人失衡8秒，承伤提高25%。 忽略代价：完整阵型最多减伤20%；集中普通攻击仍可推进。
+本关编排：连续攻击；锁定落点。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。五阶固定首领与两名护卫，无补员或复活。</RHA_TitanTrial030_rhythm_return.description>
+  <RHA_TitanTrial030_rhythm_share.label>两人的壁垒</RHA_TitanTrial030_rhythm_share.label>
+  <RHA_TitanTrial030_rhythm_share.description>主要威胁：近距离且站定的敌人围绕支点形成防御阵型。 可用解法：引导移动拆散阵型、控制支点，或把实际伤害集中到支点。 成功收益：阵型崩解，关联敌人失衡8秒，承伤提高25%。 忽略代价：完整阵型最多减伤20%；集中普通攻击仍可推进。
+本关编排：目标保护；空心冲击。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。五阶固定首领与两名护卫，无补员或复活。</RHA_TitanTrial030_rhythm_share.description>
+  <RHA_TitanTrial030_rally_turn.label>绕开护阵</RHA_TitanTrial030_rally_turn.label>
+  <RHA_TitanTrial030_rally_turn.description>主要威胁：近距离且站定的敌人围绕支点形成防御阵型。 可用解法：引导移动拆散阵型、控制支点，或把实际伤害集中到支点。 成功收益：阵型崩解，关联敌人失衡8秒，承伤提高25%。 忽略代价：完整阵型最多减伤20%；集中普通攻击仍可推进。
+本关编排：移动支援；锁定落点。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。五阶固定首领与两名护卫，无补员或复活。</RHA_TitanTrial030_rally_turn.description>
+  <RHA_TitanTrial030_rally_resolve.label>带同伴回来</RHA_TitanTrial030_rally_resolve.label>
+  <RHA_TitanTrial030_rally_resolve.description>主要威胁：近距离且站定的敌人围绕支点形成防御阵型。 可用解法：引导移动拆散阵型、控制支点，或把实际伤害集中到支点。 成功收益：阵型崩解，关联敌人失衡8秒，承伤提高25%。 忽略代价：完整阵型最多减伤20%；集中普通攻击仍可推进。
+本关编排：目标保护；空心冲击。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。五阶固定首领与两名护卫，无补员或复活。</RHA_TitanTrial030_rally_resolve.description>
+</LanguageData>

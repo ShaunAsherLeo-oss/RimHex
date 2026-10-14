@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_StarBodyguard030_Selected>保护对象：{0}</RHA_StarBodyguard030_Selected>
+  <RHA_StarBodyguard030_Status>保护：{0} · 波次 {1}/{2} · 剩余追击者：{3}</RHA_StarBodyguard030_Status>
+  <RHA_StarBodyguard030_Brief>追击者锁定名单中首位已选协助者，单人时锁定申请者。出发前显示姓名，报名后不更换。拦截追击者或移动目标脱险；击杀追击者使统领破防三秒、额外受到25%伤害，击杀统领停止后续增援。保护对象活着留在本地图，清理全部已出场敌人即可完成。协助者倒地可救援或背走，但追击者会追向搬运者。本人通过实际伤害、治疗和护盾取得贡献，协助者可补刀。</RHA_StarBodyguard030_Brief>
+  <RHA_StarTravel030_ProtectedLost>保护对象死亡、离开战场或不再属于己方自由殖民者。离开前仍可救援队员、收回遗体与物品。</RHA_StarTravel030_ProtectedLost>
+</LanguageData>

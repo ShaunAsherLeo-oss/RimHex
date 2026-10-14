@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_StarEscort030_Linked>Supply links: {0}/2 · Core damage reduction: {1}%</RHA_StarEscort030_Linked>
+  <RHA_StarEscort030_Exposed>Supply broken: core takes 25% extra damage · {0}s</RHA_StarEscort030_Exposed>
+  <RHA_StarEscort030_Finish>Blade core defeated. Finish the remaining guards.</RHA_StarEscort030_Finish>
+  <RHA_StarEscort030_Brief>Attack the supply guards to break their protection, or attack the blade core directly. Each standing, unstunned guard within 10 cells and clear sight reduces damage to the core by 20%. Killing a guard interrupts all protection for 4 seconds and makes the core take 25% extra damage. Guards never respawn. Walls, distance and existing control can also cut an individual link. Defeat all three enemies with personal damage or actual shield and healing contribution; helpers may finish them.</RHA_StarEscort030_Brief>
+</LanguageData>

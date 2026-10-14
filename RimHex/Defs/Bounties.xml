@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Defs>
+  <RimHex.HexBountyDef>
+    <defName>RHA_Bounty_Border</defName>
+    <label>Border clearance</label>
+    <description>Defeat enemies eligible for combat credit across at least two separate battles.</description>
+    <kills>12</kills>
+    <threat>1000</threat>
+    <encounters>2</encounters>
+    <shards>200</shards>
+    <cores>1</cores>
+  </RimHex.HexBountyDef>
+  <RimHex.HexBountyDef>
+    <defName>RHA_Bounty_Raiders</defName>
+    <label>Raider's end</label>
+    <description>Only hostile armed adults count.</description>
+    <kind>Human</kind>
+    <kills>24</kills>
+    <threat>2000</threat>
+    <encounters>3</encounters>
+    <shards>350</shards>
+    <cores>2</cores>
+  </RimHex.HexBountyDef>
+  <RimHex.HexBountyDef>
+    <defName>RHA_Bounty_Machines</defName>
+    <label>Steel hunt</label>
+    <description>Only hostile mechanoids count.</description>
+    <kind>Mech</kind>
+    <kills>12</kills>
+    <threat>2200</threat>
+    <encounters>2</encounters>
+    <shards>400</shards>
+    <cores>2</cores>
+  </RimHex.HexBountyDef>
+  <RimHex.HexBountyDef>
+    <defName>RHA_Bounty_Hive</defName>
+    <label>Hive reckoning</label>
+    <description>Only hostile large insects eligible for combat credit count.</description>
+    <kind>Insect</kind>
+    <kills>20</kills>
+    <threat>1600</threat>
+    <encounters>2</encounters>
+    <shards>300</shards>
+    <cores>2</cores>
+  </RimHex.HexBountyDef>
+  <RimHex.HexBountyDef>
+    <defName>RHA_Bounty_Giants</defName>
+    <label>Giant hunter's oath</label>
+    <description>Only enemies with at least 180 base combat power count.</description>
+    <kills>8</kills>
+    <threat>2400</threat>
+    <encounters>2</encounters>
+    <minimumThreat>180</minimumThreat>
+    <shards>450</shards>
+    <cores>3</cores>
+  </RimHex.HexBountyDef>
+  <RimHex.HexBountyDef>
+    <defName>RHA_Bounty_Thunder</defName>
+    <label>Thunder expedition</label>
+    <description>The killer must have at least 3 distinct Thunder path sources at the time of the kill.</description>
+    <path>RHA_Path_Thunder</path>
+    <kills>15</kills>
+    <threat>1600</threat>
+    <encounters>2</encounters>
+    <shards>350</shards>
+    <cores>2</cores>
+  </RimHex.HexBountyDef>
+  <RimHex.HexBountyDef>
+    <defName>RHA_Bounty_Flame</defName>
+    <label>Worldfire pact</label>
+    <description>The killer must have at least 3 distinct Flame path sources at the time of the kill.</description>
+    <path>RHA_Path_Flame</path>
+    <kills>18</kills>
+    <threat>1800</threat>
+    <encounters>2</encounters>
+    <shards>350</shards>
+    <cores>2</cores>
+  </RimHex.HexBountyDef>
+  <RimHex.HexBountyDef>
+    <defName>RHA_Bounty_Blood</defName>
+    <label>Crimson campaign</label>
+    <description>The killer must have at least 3 distinct Blood path sources at the time of the kill.</description>
+    <path>RHA_Path_Blood</path>
+    <kills>20</kills>
+    <threat>2000</threat>
+    <encounters>3</encounters>
+    <shards>400</shards>
+    <cores>3</cores>
+  </RimHex.HexBountyDef>
+  <RimHex.HexBountyDef>
+    <defName>RHA_Bounty_Vanguard</defName>
+    <label>Fearless vanguard</label>
+    <description>Complete a demanding hunt across several battles.</description>
+    <kills>40</kills>
+    <threat>5000</threat>
+    <encounters>4</encounters>
+    <days>45</days>
+    <shards>700</shards>
+    <cores>4</cores>
+  </RimHex.HexBountyDef>
+  <RimHex.HexBountyDef>
+    <defName>RHA_Bounty_Legend</defName>
+    <label>Undying record</label>
+    <description>A long-term challenge for an established build.</description>
+    <kills>70</kills>
+    <threat>10000</threat>
+    <encounters>5</encounters>
+    <days>60</days>
+    <shards>1000</shards>
+    <cores>6</cores>
+  </RimHex.HexBountyDef>
+  <RimHex.HexBountyDef>
+    <defName>RHA_Bounty_Steel</defName>
+    <label>Steel contract</label>
+    <description>Deliver 1,200 steel from the current home map. Delivered supplies are consumed. Forbidden or fogged supplies do not count.</description>
+    <kind>Supply</kind>
+    <resource>Steel</resource>
+    <count>1200</count>
+    <shards>180</shards>
+    <cores>1</cores>
+    <days>20</days>
+  </RimHex.HexBountyDef>
+  <RimHex.HexBountyDef>
+    <defName>RHA_Bounty_Components</defName>
+    <label>Precision order</label>
+    <description>Deliver 30 components from the current home map. Delivered supplies are consumed. Forbidden or fogged supplies do not count.</description>
+    <kind>Supply</kind>
+    <resource>ComponentIndustrial</resource>
+    <count>30</count>
+    <shards>300</shards>
+    <cores>2</cores>
+    <days>25</days>
+  </RimHex.HexBountyDef>
+</Defs>

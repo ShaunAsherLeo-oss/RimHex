@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Defs>
+  <HediffDef>
+    <defName>RHA_ChallengeEnemy</defName>
+    <hediffClass>RimHex.Hediff_HexChallenge</hediffClass>
+    <label>elite readiness</label>
+    <description>This enemy’s combat role, barrier and control state.</description>
+    <isBad>true</isBad>
+    <scenarioCanAdd>false</scenarioCanAdd>
+  </HediffDef>
+  <HediffDef>
+    <defName>RHA_ChallengeSuppression</defName>
+    <hediffClass>RimHex.Hediff_HexSuppression</hediffClass>
+    <label>recovery dampened</label>
+    <description>A nearby field reduces RimHex healing and newly granted RimHex barriers by 35%. Leave its range, break line of sight or disable its source.</description>
+    <isBad>true</isBad>
+    <scenarioCanAdd>false</scenarioCanAdd>
+  </HediffDef>
+</Defs>

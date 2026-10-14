@@ -1,0 +1,914 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_UI_00380625c0>护盾吸收</RHA_UI_00380625c0>
+  <RHA_UI_0097799fff> 另有 {0} 项来源未展开。</RHA_UI_0097799fff>
+  <RHA_UI_00fe8dda1f> 秒</RHA_UI_00fe8dda1f>
+  <RHA_UI_015ef50f66>海克斯 / 棱彩：{0}{1}{2}</RHA_UI_015ef50f66>
+  <RHA_UI_01cd7e35d5>触发就绪</RHA_UI_01cd7e35d5>
+  <RHA_UI_0250a05a0a>连锁等级</RHA_UI_0250a05a0a>
+  <RHA_UI_026e3348e9>保留基础能力，成长从零开始</RHA_UI_026e3348e9>
+  <RHA_UI_02d2e56daf>炼狱爆发</RHA_UI_02d2e56daf>
+  <RHA_UI_0318510d0d>战斗结算</RHA_UI_0318510d0d>
+  <RHA_UI_032f088d3f>共 6 轮</RHA_UI_032f088d3f>
+  <RHA_UI_03dda7f372>当前状态 · {0}</RHA_UI_03dda7f372>
+  <RHA_UI_0413d679fd>选中殖民者时显示构筑战斗状态条</RHA_UI_0413d679fd>
+  <RHA_UI_0430e73861> · 个人战技</RHA_UI_0430e73861>
+  <RHA_UI_049a5c21a1>查看能力贡献</RHA_UI_049a5c21a1>
+  <RHA_UI_05729cdd57>流派融合</RHA_UI_05729cdd57>
+  <RHA_UI_05dcaf02bf>觉醒分支 {0}</RHA_UI_05dcaf02bf>
+  <RHA_UI_0602b4c8d2>下一轮已到期，等待游戏结算。</RHA_UI_0602b4c8d2>
+  <RHA_UI_066d0540d0>目标优先：首领／强敌</RHA_UI_066d0540d0>
+  <RHA_UI_068833eafc>每件 400 碎晶 + 1 凝核</RHA_UI_068833eafc>
+  <RHA_UI_06b187dc3f>已分解「{0}」，获得 100 棱彩碎晶。</RHA_UI_06b187dc3f>
+  <RHA_UI_06f6d081cd>击杀站立敌人</RHA_UI_06f6d081cd>
+  <RHA_UI_073d08366a>构筑总览</RHA_UI_073d08366a>
+  <RHA_UI_074a27a41a>铭文重铸</RHA_UI_074a27a41a>
+  <RHA_UI_07ae51eea6>伤害只计试炼敌人，灼烧计入追加伤害；治疗和护盾计试炼期间同地图的海克斯效果。</RHA_UI_07ae51eea6>
+  <RHA_UI_07ceba8cfb>本卡每日{0} {1} → {2}</RHA_UI_07ceba8cfb>
+  <RHA_UI_07e9c30d11>信标：{0} {1}</RHA_UI_07e9c30d11>
+  <RHA_UI_086884133c>升至 {0} 阶 · {1} 碎晶 + {2} 凝核</RHA_UI_086884133c>
+  <RHA_UI_08dc93976d>来源不足，暂时休眠</RHA_UI_08dc93976d>
+  <RHA_UI_08e441a95a>物资</RHA_UI_08e441a95a>
+  <RHA_UI_08e9894120>分裂等级 {0}</RHA_UI_08e9894120>
+  <RHA_UI_090ef18cc0>厚甲阵列：敌人受到的伤害降低 25%</RHA_UI_090ef18cc0>
+  <RHA_UI_092eaf561a>伤害 ×{0}</RHA_UI_092eaf561a>
+  <RHA_UI_0954b0901a>范围内没有其他站立敌人。</RHA_UI_0954b0901a>
+  <RHA_UI_096096500e>暗夜收割</RHA_UI_096096500e>
+  <RHA_UI_09e3becab9>记录近期机制触发（最多 256 条，仅保留本次会话）</RHA_UI_09e3becab9>
+  <RHA_UI_09e9b2088f>个人</RHA_UI_09e9b2088f>
+  <RHA_UI_0a0f61c31d>作用于当前地图。</RHA_UI_0a0f61c31d>
+  <RHA_UI_0a1c01910a>无尽试炼的阶段祝福，仅在本轮试炼战斗中对参与者生效。等级随本轮祝福选择累加，离开本轮试炼后不保留。</RHA_UI_0a1c01910a>
+  <RHA_UI_0a5a89baa5>\n上次放电：{0}（{1} 秒前）</RHA_UI_0a5a89baa5>
+  <RHA_UI_0a73adc166>：满足来源条件，可进入候选池</RHA_UI_0a73adc166>
+  <RHA_UI_0a84185319>荆棘等级</RHA_UI_0a84185319>
+  <RHA_UI_0b01202411>试炼场地不可用</RHA_UI_0b01202411>
+  <RHA_UI_0b221bca27> · 已满足候选条件</RHA_UI_0b221bca27>
+  <RHA_UI_0b916b3b91> · 成长中</RHA_UI_0b916b3b91>
+  <RHA_UI_0c7060742a>生产加速累计覆盖 {0} 人次</RHA_UI_0c7060742a>
+  <RHA_UI_0c8abadacd>吸血</RHA_UI_0c8abadacd>
+  <RHA_UI_0c92ac9ae7>觉醒联动已生效：{0}</RHA_UI_0c92ac9ae7>
+  <RHA_UI_0cbb0ffe05>\n施加者：{0}</RHA_UI_0cbb0ffe05>
+  <RHA_UI_0ce225800b>此记录未指向单独的卡牌或遗物。</RHA_UI_0ce225800b>
+  <RHA_UI_0d4e59df33>选择一名殖民者后可查看个人收益。</RHA_UI_0d4e59df33>
+  <RHA_UI_0d994752eb>结束本场试炼？当前轮次不计奖励，已完成轮次的材料和遗物资格保留。</RHA_UI_0d994752eb>
+  <RHA_UI_0dd2105aa8>可选择进化</RHA_UI_0dd2105aa8>
+  <RHA_UI_0df622a60e>遗物轻微悬浮与符文转动</RHA_UI_0df622a60e>
+  <RHA_UI_0e44662d2e>连锁 · 未启用</RHA_UI_0e44662d2e>
+  <RHA_UI_0e59bff2b8>当前未穿戴此形态，保留历史贡献</RHA_UI_0e59bff2b8>
+  <RHA_UI_0ea32c4b59>收益对比</RHA_UI_0ea32c4b59>
+  <RHA_UI_0ef170f9b5>结算后没有造成实际伤害。</RHA_UI_0ef170f9b5>
+  <RHA_UI_0f34766332>当前世界缺少试炼所需的机械族阵营。</RHA_UI_0f34766332>
+  <RHA_UI_0f6986f785>领取累计奖励并离场</RHA_UI_0f6986f785>
+  <RHA_UI_0f7d7b0649>试炼战士</RHA_UI_0f7d7b0649>
+  <RHA_UI_0f89ace2ae>收益预览：</RHA_UI_0f89ace2ae>
+  <RHA_UI_0fc3d74077>敌人强度累计：{0}</RHA_UI_0fc3d74077>
+  <RHA_UI_0fd6c4e659>作用半径 {0} 格。</RHA_UI_0fd6c4e659>
+  <RHA_UI_101d5aa7c6>敌人基础战力采用游戏的兵种评分，不包含装备、基因等带来的实时实力变化。\n契约只记录站立的武装成年敌人、机械族及大型敌对虫族，基础战力至少 50。囚犯、奴隶、普通动物及重复复活目标不计入。</RHA_UI_101d5aa7c6>
+  <RHA_UI_107f82c239>传送倒计时 {0} 秒</RHA_UI_107f82c239>
+  <RHA_UI_108629c090>开启三轮试炼「</RHA_UI_108629c090>
+  <RHA_UI_10e653df97>施放者：{0}\n\n{1}\n\n冷却：{2}{3}\n{4}\n\n自动施放条件在“我的构筑 → 流派战技”设置。</RHA_UI_10e653df97>
+  <RHA_UI_10f2d15fa0>{0} · 难度 {1}</RHA_UI_10f2d15fa0>
+  <RHA_UI_1168a59e18>试炼首领 · 第二阶段</RHA_UI_1168a59e18>
+  <RHA_UI_1171f092bb>30 秒后敌人将在信标附近出现并进攻家园。</RHA_UI_1171f092bb>
+  <RHA_UI_1188b5a3c2>无尽试炼已开启，请先选择本场祝福。</RHA_UI_1188b5a3c2>
+  <RHA_UI_119e82a70e>雷霆护盾</RHA_UI_119e82a70e>
+  <RHA_UI_11a79960ff>伤害：实际扣除的生命。治疗：修复的非永久伤势，不含溢出。\n护盾增加：新获得的盾量。护盾吸收：已经挡下的伤害。常规护盾取较强值并更新期限；溢出治疗转盾另有累加上限。\n时间按游戏内 60 刻＝1 秒计算。</RHA_UI_11a79960ff>
+  <RHA_UI_11f656f79b>需要选择对应基础进化，并保持至少 3 种流派来源。</RHA_UI_11f656f79b>
+  <RHA_UI_12002938e4>\n冷却仍剩余 {0}。</RHA_UI_12002938e4>
+  <RHA_UI_125fa88e72>全部范围</RHA_UI_125fa88e72>
+  <RHA_UI_127c4cc62c>刷新次数 +{0}</RHA_UI_127c4cc62c>
+  <RHA_UI_134ab083f1>不同战斗次数：{0}</RHA_UI_134ab083f1>
+  <RHA_UI_13debf7cf2>承伤</RHA_UI_13debf7cf2>
+  <RHA_UI_13e0eb2067>\n恢复流派来源条件后会自动生效。</RHA_UI_13e0eb2067>
+  <RHA_UI_13edee6ff7>永霜</RHA_UI_13edee6ff7>
+  <RHA_UI_143626d204>没有符合条件的战技。可清空搜索或切换至全部战技。</RHA_UI_143626d204>
+  <RHA_UI_14605889ff>对 14 格内最多 16 名敌人造成 450 点伤害并眩晕 2 秒。</RHA_UI_14605889ff>
+  <RHA_UI_1476893263>找到 {0} 项 · {1}</RHA_UI_1476893263>
+  <RHA_UI_14869898c7>觉醒联动：穿戴已觉醒的「{0}」可强化此战技。</RHA_UI_14869898c7>
+  <RHA_UI_1488ec0052>冷却结束且满足施放条件时使用；攻击战技仍需有可见敌人。</RHA_UI_1488ec0052>
+  <RHA_UI_148aa5719b>{0} 项生效 · {1} 项休眠</RHA_UI_148aa5719b>
+  <RHA_UI_159a01257c>来源详情</RHA_UI_159a01257c>
+  <RHA_UI_15b90e990c>地图上需要至少一名能够行动的自由殖民者。</RHA_UI_15b90e990c>
+  <RHA_UI_15dec50795>个人</RHA_UI_15dec50795>
+  <RHA_UI_166b99b9ee>遗物附加效果</RHA_UI_166b99b9ee>
+  <RHA_UI_171e46ae51>第一轮 {0} 名敌人；首领体质倍率 {1}</RHA_UI_171e46ae51>
+  <RHA_UI_172bde5a85>完成悬赏 {0} 次    碎晶 {1}    凝核 {2}</RHA_UI_172bde5a85>
+  <RHA_UI_1731d7da2d>\n自动恢复 </RHA_UI_1731d7da2d>
+  <RHA_UI_17a5577df0>交付并消耗物资</RHA_UI_17a5577df0>
+  <RHA_UI_17d625cf9d>结束本次试炼？敌方幻影会消散；当前轮次没有奖励，已经通过轮次的材料保留。</RHA_UI_17d625cf9d>
+  <RHA_UI_17dff1851e>有效命中 {0}/3，还需 {1} 次。</RHA_UI_17dff1851e>
+  <RHA_UI_18364ed822>永久成长</RHA_UI_18364ed822>
+  <RHA_UI_185005a348>花费 100 碎晶生成 3 个不同的铭文候选。\n铭文共 12 种，每件装备同时保留一种；最多 3 阶，效果按阶数累加。</RHA_UI_185005a348>
+  <RHA_UI_189e3ba88b> · 缺少精粹</RHA_UI_189e3ba88b>
+  <RHA_UI_18f184af8d>鲜血疗愈</RHA_UI_18f184af8d>
+  <RHA_UI_1928814707>进化效果需要维持流派来源；不足时休眠，补齐后恢复。</RHA_UI_1928814707>
+  <RHA_UI_1933c0d0ec>对施放者 12 格内最多 16 名敌人造成 600 点伤害。</RHA_UI_1933c0d0ec>
+  <RHA_UI_196dfff612>3 种不同来源解锁；每个流派二选一。殖民地流派由全体共同组成。</RHA_UI_196dfff612>
+  <RHA_UI_19e5b77f1b>{0}；间隔 {1}。第一轮在施放时结算；后续轮次重新检查实际目标。</RHA_UI_19e5b77f1b>
+  <RHA_UI_1a56844d15>前往选卡</RHA_UI_1a56844d15>
+  <RHA_UI_1a5d1e0ff4>持续效果 · 暂无</RHA_UI_1a5d1e0ff4>
+  <RHA_UI_1a5efbb088>{0}：贡献 {1}/{2} · 基础战力 {3}/{4} · 战斗 {5}/{6} · 等待 {7} 天</RHA_UI_1a5efbb088>
+  <RHA_UI_1a6bf9d034>承伤 ÷{0}</RHA_UI_1a6bf9d034>
+  <RHA_UI_1a743de775>目标优先：最近敌人</RHA_UI_1a743de775>
+  <RHA_UI_1abc09d85d>伤员血量低于门槛</RHA_UI_1abc09d85d>
+  <RHA_UI_1ac1ac2d42>传送区域被阻挡，本轮取消</RHA_UI_1ac1ac2d42>
+  <RHA_UI_1b648bb93c>查看当前构筑、生效条件和成长进度。</RHA_UI_1b648bb93c>
+  <RHA_UI_1b738e0cb2>当前未处于有效的无尽试炼战斗。</RHA_UI_1b738e0cb2>
+  <RHA_UI_1b7867dcc8>{0} 层</RHA_UI_1b7867dcc8>
+  <RHA_UI_1b9b921756>效果记录未开启。开启后记录伤害、治疗、护盾及未触发原因。</RHA_UI_1b9b921756>
+  <RHA_UI_1c015d8a4f>已持有进化可生效：{0}</RHA_UI_1c015d8a4f>
+  <RHA_UI_1c84048223>铭文已达 3 阶</RHA_UI_1c84048223>
+  <RHA_UI_1d609cda3a>直接命中 · 暴击</RHA_UI_1d609cda3a>
+  <RHA_UI_1d991dc0d7>范围内没有其他站立敌人</RHA_UI_1d991dc0d7>
+  <RHA_UI_1df7b0a3e7>休眠 · </RHA_UI_1df7b0a3e7>
+  <RHA_UI_1e4b643fce>外观：隐藏</RHA_UI_1e4b643fce>
+  <RHA_UI_1eb1a61ef4>每轮灼烧追加 160 点伤害，施放时自身获得 800 点护盾，持续 12 秒。</RHA_UI_1eb1a61ef4>
+  <RHA_UI_1f4eb60ac0>融合与终极能力</RHA_UI_1f4eb60ac0>
+  <RHA_UI_1f73e4c619>再来一轮</RHA_UI_1f73e4c619>
+  <RHA_UI_1ffbf74eb9>信标凝聚的战斗幻影。</RHA_UI_1ffbf74eb9>
+  <RHA_UI_20231848ec>暴击值 {0}%</RHA_UI_20231848ec>
+  <RHA_UI_205fe10639>斩杀：命中后，目标健康比例严格低于合计斩杀门槛时追加伤害；门槛最高 65%，并非直接删除目标。</RHA_UI_205fe10639>
+  <RHA_UI_209d4a34c1>尚未刻入铭文。</RHA_UI_209d4a34c1>
+  <RHA_UI_20debdccae> · 休眠</RHA_UI_20debdccae>
+  <RHA_UI_21217d055a>分解 1 件遗物获得 100 棱彩碎晶。\n该件装备、成长、铭文和觉醒会一并消失。\n正在穿戴、已锁定或有未选重铸候选的遗物不能分解。</RHA_UI_21217d055a>
+  <RHA_UI_2141a70f01>{0} · 三选一    剩余刷新 {1} 次</RHA_UI_2141a70f01>
+  <RHA_UI_218f4ae525>目标健康比例 {0}%；需要低于 {1}%。</RHA_UI_218f4ae525>
+  <RHA_UI_21b3083257>当前生效。</RHA_UI_21b3083257>
+  <RHA_UI_21e39b5e5f>挑战与奖励</RHA_UI_21e39b5e5f>
+  <RHA_UI_21f01dfff3>流派来源与已有效果没有变化。</RHA_UI_21f01dfff3>
+  <RHA_UI_21fb84ae31>移动雷环</RHA_UI_21fb84ae31>
+  <RHA_UI_221f691296>缚魂近卫</RHA_UI_221f691296>
+  <RHA_UI_2298887fb3>新祝福</RHA_UI_2298887fb3>
+  <RHA_UI_229fa80616>{0}\n{1}\n\n点击「收益对比」查看完整变化、生效条件和奖励说明。</RHA_UI_229fa80616>
+  <RHA_UI_22b7f2a5ef>流派战技</RHA_UI_22b7f2a5ef>
+  <RHA_UI_22d2b4c871>残虐爆发</RHA_UI_22d2b4c871>
+  <RHA_UI_22dfc95141>穿戴后在健康页查看触发进度。</RHA_UI_22dfc95141>
+  <RHA_UI_22efaa42b7>按此人当前装备、铭文、成长与临时效果计算海克斯修正。最终伤害还受武器、防护与其他效果影响。</RHA_UI_22efaa42b7>
+  <RHA_UI_22fc4c1ecb>远距增伤／格</RHA_UI_22fc4c1ecb>
+  <RHA_UI_2333f96666>直接伤害</RHA_UI_2333f96666>
+  <RHA_UI_235f8bb609>战斗贡献要求：{0}</RHA_UI_235f8bb609>
+  <RHA_UI_23ac858930>本阶段完成！可以领取累计奖励，或选择新祝福继续下一阶段。</RHA_UI_23ac858930>
+  <RHA_UI_245fe44579>绝境增伤最高 +{0}%</RHA_UI_245fe44579>
+  <RHA_UI_24f49ebd03>此战技只能在玩家基地施放。</RHA_UI_24f49ebd03>
+  <RHA_UI_250bf9d563>触发</RHA_UI_250bf9d563>
+  <RHA_UI_2553e3091e>额外重击范围内最强敌人，造成 800＋120×体质伤害并眩晕 3 秒。</RHA_UI_2553e3091e>
+  <RHA_UI_2562e6ee64>命中灼烧</RHA_UI_2562e6ee64>
+  <RHA_UI_257e11ef05>休眠能力</RHA_UI_257e11ef05>
+  <RHA_UI_2601f76c6a>\n已保存 3 个重铸候选，在棱彩锻造中选择。</RHA_UI_2601f76c6a>
+  <RHA_UI_2684055f39>\n\n流派「{0}」：已有 {1} / {2} 种来源。重复叠层不增加种类。</RHA_UI_2684055f39>
+  <RHA_UI_268a422e4b>鲜血疗愈：有效命中积攒治疗池，达到 60 后消耗 60，治疗自身及 12 格内一名其他殖民者。</RHA_UI_268a422e4b>
+  <RHA_UI_26965d94af>持续 0 · 受创 0</RHA_UI_26965d94af>
+  <RHA_UI_26e839f9dd>{0}剩余 {1} 轮{2}</RHA_UI_26e839f9dd>
+  <RHA_UI_2709367301> · 未指定殖民者</RHA_UI_2709367301>
+  <RHA_UI_2786359fa0>（个人）</RHA_UI_2786359fa0>
+  <RHA_UI_279e8d7251>生效：</RHA_UI_279e8d7251>
+  <RHA_UI_2811810598>\n进化 · </RHA_UI_2811810598>
+  <RHA_UI_282f25e939>本场祝福</RHA_UI_282f25e939>
+  <RHA_UI_2944494c56>生产战技需要选择“就绪时”触发条件。</RHA_UI_2944494c56>
+  <RHA_UI_2969822f65>范围：此人</RHA_UI_2969822f65>
+  <RHA_UI_296e52fe5f>灼烧 {0}/秒</RHA_UI_296e52fe5f>
+  <RHA_UI_29a3c28b60> · 指定殖民者</RHA_UI_29a3c28b60>
+  <RHA_UI_29d037755b>处于有效命中的 10 刻间隔内，本次不推进连锁等计数。</RHA_UI_29d037755b>
+  <RHA_UI_29d55e5796>\n试炼遗物 · {0}</RHA_UI_29d55e5796>
+  <RHA_UI_2a3c32019c>命中触发条件</RHA_UI_2a3c32019c>
+  <RHA_UI_2aae656a8c>选中 {0} 名敌人</RHA_UI_2aae656a8c>
+  <RHA_UI_2ab5d35cb3>{0} 件生效</RHA_UI_2ab5d35cb3>
+  <RHA_UI_2ab8e617c0>{0}升至 {1} 级。第 {2} 阶段即将开始。</RHA_UI_2ab8e617c0>
+  <RHA_UI_2abb93ca9d>可转交 · 无耐久损耗\n不同遗物可同时穿戴</RHA_UI_2abb93ca9d>
+  <RHA_UI_2bd0202c1d>每次接取一项，仅计接取后的进度。领奖后等待 7 天；失败或放弃后等待 3 天。已完成的奖励保留。</RHA_UI_2bd0202c1d>
+  <RHA_UI_2c28e25630>非征召时也可自动施放</RHA_UI_2c28e25630>
+  <RHA_UI_2c5273cf90>击杀 {0}/{1}    基础战力 {2}/{3}    战斗 {4}/{5}</RHA_UI_2c5273cf90>
+  <RHA_UI_2c7536f439>试炼地图已移除</RHA_UI_2c7536f439>
+  <RHA_UI_2c8a7426d7>贯穿追击</RHA_UI_2c8a7426d7>
+  <RHA_UI_2c9b41638f>已接取「{0}」。从现在开始计算进度，限时 {1} 天。</RHA_UI_2c9b41638f>
+  <RHA_UI_2cc26e8f81>{0} · 基础形态</RHA_UI_2cc26e8f81>
+  <RHA_UI_2d1175a1a6>（殖民地共享）</RHA_UI_2d1175a1a6>
+  <RHA_UI_2d38759d64>流派进化</RHA_UI_2d38759d64>
+  <RHA_UI_2de0f2adc3>（生效） · {0}</RHA_UI_2de0f2adc3>
+  <RHA_UI_2ded972376>群疗等级</RHA_UI_2ded972376>
+  <RHA_UI_2e27f420ee>{0} · {1} 天</RHA_UI_2e27f420ee>
+  <RHA_UI_2eb9171d14>{0} {1}/{2} 种 · {3}</RHA_UI_2eb9171d14>
+  <RHA_UI_2edce57be5>全部内容</RHA_UI_2edce57be5>
+  <RHA_UI_2f0baebfe7>待解锁</RHA_UI_2f0baebfe7>
+  <RHA_UI_2f3711463d>已选择基础进化</RHA_UI_2f3711463d>
+  <RHA_UI_2f531d5fa9>自动施放已关闭。</RHA_UI_2f531d5fa9>
+  <RHA_UI_2f8d06afce>\n永久邪恶 </RHA_UI_2f8d06afce>
+  <RHA_UI_30b6a32238>魔王战绩：{0} 次击杀{1}{2}</RHA_UI_30b6a32238>
+  <RHA_UI_30e1196888>伤害</RHA_UI_30e1196888>
+  <RHA_UI_3121bedbd5>优先者无法行动或不在此图时，自动选择本地图的施放者。</RHA_UI_3121bedbd5>
+  <RHA_UI_3187034948>每次叠钢</RHA_UI_3187034948>
+  <RHA_UI_329cdfd4c7>基础进化正在休眠：恢复至少 3 种流派来源后，战技自动恢复。</RHA_UI_329cdfd4c7>
+  <RHA_UI_32d4097eac>施放战技</RHA_UI_32d4097eac>
+  <RHA_UI_33ed7d6deb> 种强化，请在强化详情中查看。\n</RHA_UI_33ed7d6deb>
+  <RHA_UI_33ef2b3dd4>\n\n倒计时随游戏时间推进，暂停时停止。点击查看此人的构筑。</RHA_UI_33ef2b3dd4>
+  <RHA_UI_343328861b>体质 ×{0}</RHA_UI_343328861b>
+  <RHA_UI_34855884cc>标准阵列</RHA_UI_34855884cc>
+  <RHA_UI_3489d67fe6>本场祝福：{0}</RHA_UI_3489d67fe6>
+  <RHA_UI_351210c03f>灼烧光环</RHA_UI_351210c03f>
+  <RHA_UI_35497bb51d>每三轮为一个阶段；阶段之间三选一祝福，重复选择可以升级。仅本场生效，失败保留已完成轮次奖励。</RHA_UI_35497bb51d>
+  <RHA_UI_35a5f6ce7a>半血·游走雷环：以施法时的位置为中心，雷环每秒向外移动 2 格，共 5 次。环内侧及外侧可躲避。</RHA_UI_35a5f6ce7a>
+  <RHA_UI_36492548d9>{0}没有血量 ≤ {1}% 且可治疗的伤势。</RHA_UI_36492548d9>
+  <RHA_UI_36a035d121>战斗特效与符文亮度：{0}</RHA_UI_36a035d121>
+  <RHA_UI_36a7bc0624>需要家园中可用的己方试炼信标。</RHA_UI_36a7bc0624>
+  <RHA_UI_36f9e2204d>   体质 ×</RHA_UI_36f9e2204d>
+  <RHA_UI_373405c812>基础对敌伤害 ×</RHA_UI_373405c812>
+  <RHA_UI_381e955369>离开地图期间暂停结算，返回后从下一轮继续。</RHA_UI_381e955369>
+  <RHA_UI_383268b45b>首领 · {0}</RHA_UI_383268b45b>
+  <RHA_UI_385ac8a296>外观：显示</RHA_UI_385ac8a296>
+  <RHA_UI_3861717463>\n追加伤害吸血 </RHA_UI_3861717463>
+  <RHA_UI_38bbdcd684>施放成功，冷却开始。</RHA_UI_38bbdcd684>
+  <RHA_UI_38de55b702>显示穿戴遗物的悬浮外观</RHA_UI_38de55b702>
+  <RHA_UI_38e46ea979>搜索名称、主题或效果，例如灼烧、恢复、成长。</RHA_UI_38e46ea979>
+  <RHA_UI_396b6c05fc> 层</RHA_UI_396b6c05fc>
+  <RHA_UI_3976523ab4>{0} · 等待结算</RHA_UI_3976523ab4>
+  <RHA_UI_3981682bec>当前没有可强化的殖民者</RHA_UI_3981682bec>
+  <RHA_UI_3a064010f4>战功契约</RHA_UI_3a064010f4>
+  <RHA_UI_3a10bae5e1>手动就绪</RHA_UI_3a10bae5e1>
+  <RHA_UI_3a4a6bfc32>：「{0}」加入战斗。</RHA_UI_3a4a6bfc32>
+  <RHA_UI_3a7ac35e43>尚无可预览的殖民者</RHA_UI_3a7ac35e43>
+  <RHA_UI_3ac9b552ff>可施放；指向战技仍需选择有效目标。</RHA_UI_3ac9b552ff>
+  <RHA_UI_3b3228d849>请先结束并结算当前试炼。</RHA_UI_3b3228d849>
+  <RHA_UI_3ba696500f>领取奖励并离场</RHA_UI_3ba696500f>
+  <RHA_UI_3c42b5d28d>{0} · 本模组总增益</RHA_UI_3c42b5d28d>
+  <RHA_UI_3c66763e70>{0} {1}级</RHA_UI_3c66763e70>
+  <RHA_UI_3dae01fc3d>记录如何计数</RHA_UI_3dae01fc3d>
+  <RHA_UI_3e083e0da6>\n需在后续选卡中获得；当前尚未拥有。</RHA_UI_3e083e0da6>
+  <RHA_UI_3ea198c68f>已建立强化档案。</RHA_UI_3ea198c68f>
+  <RHA_UI_3ebba256bb>收割</RHA_UI_3ebba256bb>
+  <RHA_UI_3ed2176fe6>恢复 {0}/秒</RHA_UI_3ed2176fe6>
+  <RHA_UI_3f4ebc4aad>已选择</RHA_UI_3f4ebc4aad>
+  <RHA_UI_3f54bda959>殖民地收入、发电、研究奖励等作用于整个殖民地。\n</RHA_UI_3f54bda959>
+  <RHA_UI_404075ef7a>当前条件不满足，查看详情了解原因</RHA_UI_404075ef7a>
+  <RHA_UI_4042f2152e>搜索范围内没有可见、站立且敌对的目标。</RHA_UI_4042f2152e>
+  <RHA_UI_404ca152f7>领取后待投放的{2}：{0} → {1} 份。</RHA_UI_404ca152f7>
+  <RHA_UI_4074b82432>试炼护盾</RHA_UI_4074b82432>
+  <RHA_UI_41000ef912>{0}券 ×{1}</RHA_UI_41000ef912>
+  <RHA_UI_4108e555c9>分解与保护</RHA_UI_4108e555c9>
+  <RHA_UI_4163584976>已获得（含休眠）</RHA_UI_4163584976>
+  <RHA_UI_41e2019900>顺劈</RHA_UI_41e2019900>
+  <RHA_UI_428ac54e5f>当前未拥有，保留历史贡献</RHA_UI_428ac54e5f>
+  <RHA_UI_42ae2bd471>\n分支切换还需 {0} 天</RHA_UI_42ae2bd471>
+  <RHA_UI_436803dca3>棱彩锻造</RHA_UI_436803dca3>
+  <RHA_UI_4394d092d9>当前生效的合计增益\n</RHA_UI_4394d092d9>
+  <RHA_UI_44088e9eaf>   盛宴 </RHA_UI_44088e9eaf>
+  <RHA_UI_440af6d48f>当前地图可交付 {0} / {1}</RHA_UI_440af6d48f>
+  <RHA_UI_4435e39843>群体疗愈：有效命中后治疗自身 8 格内最多 12 名殖民者，间隔至少 60 刻。只修复非永久伤势。</RHA_UI_4435e39843>
+  <RHA_UI_44400948e5>保留现状 · 不退本次重铸费用</RHA_UI_44400948e5>
+  <RHA_UI_445749d79f>获得钢印</RHA_UI_445749d79f>
+  <RHA_UI_447d979c12>信标周围 18–30 格内需要已揭露、可行走且可抵达的传送区域。</RHA_UI_447d979c12>
+  <RHA_UI_44ce7ae909>搜索</RHA_UI_44ce7ae909>
+  <RHA_UI_45049fe373>赏金 {0}/击杀</RHA_UI_45049fe373>
+  <RHA_UI_451d14e7ff>持续结算</RHA_UI_451d14e7ff>
+  <RHA_UI_45ddd90ef0>远距离命中</RHA_UI_45ddd90ef0>
+  <RHA_UI_45fb119fb2>此地图没有可行动的施放者。</RHA_UI_45fb119fb2>
+  <RHA_UI_462fcf538d>范围：全体</RHA_UI_462fcf538d>
+  <RHA_UI_469db1ac81>控制疗愈</RHA_UI_469db1ac81>
+  <RHA_UI_474d5d4783>先刻入一种铭文</RHA_UI_474d5d4783>
+  <RHA_UI_483b36591f>常规护盾 · 暂无</RHA_UI_483b36591f>
+  <RHA_UI_4842676fb3>{0} · 剩余 {1} 轮 · 最长 {2} 秒</RHA_UI_4842676fb3>
+  <RHA_UI_48789c7238>英雄机制记录</RHA_UI_48789c7238>
+  <RHA_UI_48848fea37>分解「{0}」？\n将永久失去这件装备及其全部成长、铭文和觉醒，获得 100 碎晶。</RHA_UI_48848fea37>
+  <RHA_UI_48b1b81ec6>选择祝福并挑战下一阶段</RHA_UI_48b1b81ec6>
+  <RHA_UI_48c82a33cb>装备联动</RHA_UI_48c82a33cb>
+  <RHA_UI_48e294edd6>等待结算</RHA_UI_48e294edd6>
+  <RHA_UI_49cc1687ef>铭文随遗物转交，可在健康页和装备详情查看。重铸只更换铭文。</RHA_UI_49cc1687ef>
+  <RHA_UI_49e19b699e>群体护盾</RHA_UI_49e19b699e>
+  <RHA_UI_4a052d3c23>\n永久属性·</RHA_UI_4a052d3c23>
+  <RHA_UI_4a31541372>尚未选择基础进化</RHA_UI_4a31541372>
+  <RHA_UI_4ab72d953c>棱彩试炼</RHA_UI_4ab72d953c>
+  <RHA_UI_4bb186bf14>    可选择进化</RHA_UI_4bb186bf14>
+  <RHA_UI_4c57ec2407>主题定义暂不可用。</RHA_UI_4c57ec2407>
+  <RHA_UI_4c6980caae>{0}\n每轮基础伤害 {1}；实际扣血受伤害修正与防护影响。\n{2}\n每次结算后间隔 1 秒，剩余轮数减少 1。{3}</RHA_UI_4c6980caae>
+  <RHA_UI_4c822e1161>强化对象：</RHA_UI_4c822e1161>
+  <RHA_UI_4c8ce55a0f>体质</RHA_UI_4c8ce55a0f>
+  <RHA_UI_4ce9f1ab99>等待搜索范围内出现可见、站立的敌人。</RHA_UI_4ce9f1ab99>
+  <RHA_UI_4d02aa5342>选择一项强化</RHA_UI_4d02aa5342>
+  <RHA_UI_4d2cf89499>下一轮：{0}</RHA_UI_4d2cf89499>
+  <RHA_UI_4d9f3ab457>{0}\n达成全部战功条件后获得一张个人选卡券。通用券默认每 5 天发放，可在设置中调整。\n关闭面板会保留候选与刷新次数。</RHA_UI_4d9f3ab457>
+  <RHA_UI_4dda7e0bf9>获得融合卡、终极卡或穿戴试炼遗物后，在这里查看每项能力的实际贡献。</RHA_UI_4dda7e0bf9>
+  <RHA_UI_4e1ce3a617>棱彩碎晶 {0}    凝核 {1}    · 材料由殖民地共享，随存档保存</RHA_UI_4e1ce3a617>
+  <RHA_UI_4e6cbad878>终极进化</RHA_UI_4e6cbad878>
+  <RHA_UI_4eb859c0f5>尚无信标：建筑 → 杂项 → 棱彩试炼信标</RHA_UI_4eb859c0f5>
+  <RHA_UI_4f634520e8>殖民地</RHA_UI_4f634520e8>
+  <RHA_UI_4f9682a896>只计入站立的武装成年敌人、机械族及大型敌对虫族，战力至少 50；囚犯、奴隶、普通动物和重复复活目标不计入。不同敌方作战群各算一场，无作战群的敌人按地图、阵营及日期合并。</RHA_UI_4f9682a896>
+  <RHA_UI_4fb51c8dff>共同构成该流派的已穿戴遗物：{0}</RHA_UI_4fb51c8dff>
+  <RHA_UI_50f35aff50>选择战技查看效果、冷却与贡献；基础进化解锁，自动施放默认关闭。</RHA_UI_50f35aff50>
+  <RHA_UI_510492d83f>无法行动</RHA_UI_510492d83f>
+  <RHA_UI_511aa4142a>暂无可行动人选</RHA_UI_511aa4142a>
+  <RHA_UI_51886aa9d4>叠层灼烧：同一施加者、同一目标的伤害累加；刷新为 6 次，每秒一次，伤害上限 100 万；不同施加者独立，单目标最多 16 份叠层持续伤害。</RHA_UI_51886aa9d4>
+  <RHA_UI_51d2e919ec>恢复默认间隔：5 天</RHA_UI_51d2e919ec>
+  <RHA_UI_51fa2da899>启用战功契约奖励</RHA_UI_51fa2da899>
+  <RHA_UI_52366f9f7f>层数 {0}{1}</RHA_UI_52366f9f7f>
+  <RHA_UI_523fb6184d>{0} 秒</RHA_UI_523fb6184d>
+  <RHA_UI_5245f5a74f>远距 +{0}%/格</RHA_UI_5245f5a74f>
+  <RHA_UI_52b8e44f1c>击杀</RHA_UI_52b8e44f1c>
+  <RHA_UI_53775b2143>已穿戴 ×{0} · 生效</RHA_UI_53775b2143>
+  <RHA_UI_53d9646559>当前休眠：流派来源条件尚未满足。</RHA_UI_53d9646559>
+  <RHA_UI_53f113088b>{0} · 最长 {1} · {2}</RHA_UI_53f113088b>
+  <RHA_UI_543fe32afc>可首次觉醒</RHA_UI_543fe32afc>
+  <RHA_UI_54a223a5c8>尚无触发记录</RHA_UI_54a223a5c8>
+  <RHA_UI_54be03f87d>当前没有生效的强化。</RHA_UI_54be03f87d>
+  <RHA_UI_54c0162c30>连锁：每 3 次有效命中，从命中点寻找 {0} 格内的其他站立敌人；此来源单独提供时最多 {1} 个目标。同一攻击者每 10 刻最多推进一次有效命中计数。</RHA_UI_54c0162c30>
+  <RHA_UI_54ec6f781e>难度：{0} / 5</RHA_UI_54ec6f781e>
+  <RHA_UI_551baab02d>领取后待加入的殖民者：{0} → {1} 名；需有可接收的己方地图。</RHA_UI_551baab02d>
+  <RHA_UI_5588a15ead>正在记录 · 关闭</RHA_UI_5588a15ead>
+  <RHA_UI_55efc40cf9>永霜眩晕 {0} 秒</RHA_UI_55efc40cf9>
+  <RHA_UI_5629e20a86>试炼</RHA_UI_5629e20a86>
+  <RHA_UI_57219515b6>雷霆过载</RHA_UI_57219515b6>
+  <RHA_UI_57226eecb2>（记录中的分支）</RHA_UI_57226eecb2>
+  <RHA_UI_57ced08e11>当前休眠</RHA_UI_57ced08e11>
+  <RHA_UI_58b6df1059> · 已完成</RHA_UI_58b6df1059>
+  <RHA_UI_592808f1cf>殖民者：{0}  ▾</RHA_UI_592808f1cf>
+  <RHA_UI_594b763109>\n永久钢印 </RHA_UI_594b763109>
+  <RHA_UI_5953597713>仅检查自身可治疗伤势；附近仍需有可见敌人。</RHA_UI_5953597713>
+  <RHA_UI_59d499d937>暴击</RHA_UI_59d499d937>
+  <RHA_UI_59de6e7192>\n狂怒 </RHA_UI_59de6e7192>
+  <RHA_UI_59e37bb948>传送区域已被阻挡，请清理信标周围的通路。</RHA_UI_59e37bb948>
+  <RHA_UI_59ea0aa51d>冷却 {0} 秒</RHA_UI_59ea0aa51d>
+  <RHA_UI_5a1559f2f3>挑战进行中</RHA_UI_5a1559f2f3>
+  <RHA_UI_5a772e6165>领取后待投放的赏金白银：{0} → {1}。</RHA_UI_5a772e6165>
+  <RHA_UI_5a7883acf7>连击等级</RHA_UI_5a7883acf7>
+  <RHA_UI_5a7df9cb7d>暗夜收割：同一目标基础间隔 20 秒，受装备急速缩短。</RHA_UI_5a7df9cb7d>
+  <RHA_UI_5aa1a00081>\n铭文 · {0} {1} 阶\n{2}（当前为每阶效果 ×{3}）</RHA_UI_5aa1a00081>
+  <RHA_UI_5acd76c5b5>挑战悬赏</RHA_UI_5acd76c5b5>
+  <RHA_UI_5ae9316459>实际贡献</RHA_UI_5ae9316459>
+  <RHA_UI_5dbb4f625f>通用券 ×{0} · 可用于以上三类，每次只消耗一券</RHA_UI_5dbb4f625f>
+  <RHA_UI_5e157615b8>沿用原始造型。觉醒的成长要求、材料和分支效果可在装备觉醒页查看。</RHA_UI_5e157615b8>
+  <RHA_UI_5ea1858b84>施放时为 12 格内自由殖民者提供 500 点护盾，持续 12 秒。</RHA_UI_5ea1858b84>
+  <RHA_UI_5eb4549e36>尚未成型</RHA_UI_5eb4549e36>
+  <RHA_UI_5edfc94551>\n飞升重掷 {0} 次；今日余 {1}\n伤害 +{2}% · 体质 +{3}% · 承伤除数 +{4}\n移速 +{5}% · 攻击冷却除数 +{6}</RHA_UI_5edfc94551>
+  <RHA_UI_5efbc9e6de>试炼领域</RHA_UI_5efbc9e6de>
+  <RHA_UI_5fe0f4bf16>难度 {0}</RHA_UI_5fe0f4bf16>
+  <RHA_UI_5fec3a30e5>选择试炼主题和难度，查看当前进度与战斗结算。</RHA_UI_5fec3a30e5>
+  <RHA_UI_609eb6a485>/秒</RHA_UI_609eb6a485>
+  <RHA_UI_60cad7da2b>命中、距离、低血量、场景和概率效果按下方卡牌说明触发；没有折算为常驻伤害或每秒伤害。</RHA_UI_60cad7da2b>
+  <RHA_UI_60d3cc5afc>试炼信标必须建在露天位置。</RHA_UI_60d3cc5afc>
+  <RHA_UI_61366b3ff8>基础值{0}{1} 后</RHA_UI_61366b3ff8>
+  <RHA_UI_615f76b111>施放与范围</RHA_UI_615f76b111>
+  <RHA_UI_62069c9789>首领「{0}」</RHA_UI_62069c9789>
+  <RHA_UI_6208250168>触发、范围与结算</RHA_UI_6208250168>
+  <RHA_UI_622a8124e8>下一轮完成后累计：{0} 碎晶 / {1} 凝核。</RHA_UI_622a8124e8>
+  <RHA_UI_62893c676e>已进入选卡候选</RHA_UI_62893c676e>
+  <RHA_UI_62ae8b778c>当前未穿戴此遗物。</RHA_UI_62ae8b778c>
+  <RHA_UI_62b7d70502>目标不在射程或视野内、受到遮挡，或目标类型不符合要求。</RHA_UI_62b7d70502>
+  <RHA_UI_62dcac7955>遗物</RHA_UI_62dcac7955>
+  <RHA_UI_634f2159f1>顺劈：每 2 次有效命中，对命中点 3.5 格内最多 8 名其他敌人结算。</RHA_UI_634f2159f1>
+  <RHA_UI_63a6047f07>今日重掷已用完，或穿戴者无法行动。</RHA_UI_63a6047f07>
+  <RHA_UI_63bd204363>请选择有效的主题和难度。</RHA_UI_63bd204363>
+  <RHA_UI_63c4b797dc>第 {0} 轮完成。{1}</RHA_UI_63c4b797dc>
+  <RHA_UI_648067d08a>伤害÷{0}</RHA_UI_648067d08a>
+  <RHA_UI_65746c9720>{0} · {1}/{2} 种不同来源\n已拥有：{3}{4}</RHA_UI_65746c9720>
+  <RHA_UI_657fd79be9>列出触发时共同生效的来源。结果包含共享加成，无法拆分为每张卡牌或遗物的贡献。</RHA_UI_657fd79be9>
+  <RHA_UI_65856e1b2b>以施放者自身为中心。</RHA_UI_65856e1b2b>
+  <RHA_UI_65d70a73ab>直接命中</RHA_UI_65d70a73ab>
+  <RHA_UI_65ecebf2ff>遗物外观大小：{0} 倍</RHA_UI_65ecebf2ff>
+  <RHA_UI_65f99ed31c>仅看未触发</RHA_UI_65f99ed31c>
+  <RHA_UI_661e68bbbb>护盾吸收 {0}/200 · </RHA_UI_661e68bbbb>
+  <RHA_UI_662501be2c>范围：全部</RHA_UI_662501be2c>
+  <RHA_UI_6669128318>流派条件</RHA_UI_6669128318>
+  <RHA_UI_668d4f3af4>每轮上限增至 12 人、范围增至 12 格，并追加 160 点伤害。</RHA_UI_668d4f3af4>
+  <RHA_UI_66faa2d157>本轮完成</RHA_UI_66faa2d157>
+  <RHA_UI_67d2c4a2a7>施放者需要在地图上清醒且能够行动。</RHA_UI_67d2c4a2a7>
+  <RHA_UI_6839aa3ee2>斩杀</RHA_UI_6839aa3ee2>
+  <RHA_UI_691c57491f>悬赏已到期，3 天后可接取下一项；没有装备或卡牌惩罚。</RHA_UI_691c57491f>
+  <RHA_UI_695594dcec>觉醒为「{0}」</RHA_UI_695594dcec>
+  <RHA_UI_6a4ca29f1b>命中吸血</RHA_UI_6a4ca29f1b>
+  <RHA_UI_6b1671c369>{0}\n\n{1}\n\n达标后用对应选卡券抽取。来源不足时效果休眠，补齐后恢复。</RHA_UI_6b1671c369>
+  <RHA_UI_6b258bd0f4>{0} 层 · </RHA_UI_6b258bd0f4>
+  <RHA_UI_6b380e9ab5>   直接吸血 </RHA_UI_6b380e9ab5>
+  <RHA_UI_6b7fd04911>没有卡牌层数上限。</RHA_UI_6b7fd04911>
+  <RHA_UI_6bc3bb3e5e>选择一项悬赏，先看清条件，再开始挑战。</RHA_UI_6bc3bb3e5e>
+  <RHA_UI_6bc3d825dd>命中回春</RHA_UI_6bc3d825dd>
+  <RHA_UI_6c6cdca8c0>自动施放：关</RHA_UI_6c6cdca8c0>
+  <RHA_UI_6cd21ad232>连锁电击 · {0} 个目标</RHA_UI_6cd21ad232>
+  <RHA_UI_6d079d23bd>试炼难度 {0} · 第 {1} 阶段 · 第 {2} 轮\n体质 ×{3}\n{4}{5}\n击败或倒地后消散，不掉落装备、尸体，也不提供普通战功与悬赏进度。</RHA_UI_6d079d23bd>
+  <RHA_UI_6d16acf649>强化详情</RHA_UI_6d16acf649>
+  <RHA_UI_6d80405309>「{0}」已开启，30 秒后第一轮敌人从标记区域出现。</RHA_UI_6d80405309>
+  <RHA_UI_6d94bd212b>已在图鉴禁用</RHA_UI_6d94bd212b>
+  <RHA_UI_6e52ee9814> · 剩余 </RHA_UI_6e52ee9814>
+  <RHA_UI_6e7178a9bb>形态对照</RHA_UI_6e7178a9bb>
+  <RHA_UI_6ee39d7610>持续领域</RHA_UI_6ee39d7610>
+  <RHA_UI_6ef6850398>获得棱彩遗物「{0}」。它已出现在殖民者附近，右键穿戴即可生效。</RHA_UI_6ef6850398>
+  <RHA_UI_6efa9b9e2d>锻造材料余额已满，请先使用一些材料。</RHA_UI_6efa9b9e2d>
+  <RHA_UI_6eff2b0bdb>完成「{0}」，获得 {1} 棱彩碎晶、{2} 凝核。7 天后可接取下一项。</RHA_UI_6eff2b0bdb>
+  <RHA_UI_6f373591cf>血量 ≤ {0}%</RHA_UI_6f373591cf>
+  <RHA_UI_6f67b320ab>命中吸血按主攻击实际伤害治疗；秘术吸血也计算追加伤害。</RHA_UI_6f67b320ab>
+  <RHA_UI_6f96901507> · 个人冷却</RHA_UI_6f96901507>
+  <RHA_UI_6fa69bc127>{0} {1} → {2}/{3} 种 · {4}</RHA_UI_6fa69bc127>
+  <RHA_UI_6fd939a3e8>物理双修</RHA_UI_6fd939a3e8>
+  <RHA_UI_6fe8e8ad0e> 白银</RHA_UI_6fe8e8ad0e>
+  <RHA_UI_703af1bf2f>当前卡池没有可选卡牌，请在图鉴或设置中启用更多卡牌。选卡券已保留。</RHA_UI_703af1bf2f>
+  <RHA_UI_703eb2de44>常规护盾</RHA_UI_703eb2de44>
+  <RHA_UI_705a8e2f68>和一件专属遗物，解锁已通关主题的定向打造</RHA_UI_705a8e2f68>
+  <RHA_UI_707daec824>本场已达到记录上限，请结算奖励。</RHA_UI_707daec824>
+  <RHA_UI_70ef5684c9>战功奖励已关闭</RHA_UI_70ef5684c9>
+  <RHA_UI_70f1c01384>候选铭文已保存。确认前继续使用原铭文；关闭面板保留候选。</RHA_UI_70f1c01384>
+  <RHA_UI_720cd63b70>{0}：获得 {1} 碎晶、{2} 凝核、{3} 试炼精粹{4}。信标恢复 1 天。</RHA_UI_720cd63b70>
+  <RHA_UI_72277bc2b8>暴击值</RHA_UI_72277bc2b8>
+  <RHA_UI_7235b2548d>每轮共享刷新次数：{0}</RHA_UI_7235b2548d>
+  <RHA_UI_723b59035c>流派：{0}</RHA_UI_723b59035c>
+  <RHA_UI_72c3d0914d>{0} / {1}    {2} / {3} 种{4}</RHA_UI_72c3d0914d>
+  <RHA_UI_72db5c129f>生效范围</RHA_UI_72db5c129f>
+  <RHA_UI_72e1653e89>当前护盾 {0} · 永久邪恶 {1} · 待结算存款 {2} · 储血 {3}\n随机属性：伤害 +{4}% · 体质 +{5}% · 移速 +{6}% · 攻击冷却除数 +{7}</RHA_UI_72e1653e89>
+  <RHA_UI_730ecadfe2>没有符合名称的遗物。清空搜索可查看全部。</RHA_UI_730ecadfe2>
+  <RHA_UI_736369966b>{0}\n{1}\n试炼护盾仅在无尽试炼战斗中抵挡本场试炼敌人的攻击；两类护盾独立计时、独立消耗。</RHA_UI_736369966b>
+  <RHA_UI_738ef0fd5b>已获得／已穿戴</RHA_UI_738ef0fd5b>
+  <RHA_UI_73a514c643>命中灼烧：每秒一次，共 4 次。每个目标保留一份较强灼烧；刷新不会推迟下一次结算。</RHA_UI_73a514c643>
+  <RHA_UI_73dc955200>地面或敌人战技将进入游戏的瞄准状态。右键取消，不消耗冷却。</RHA_UI_73dc955200>
+  <RHA_UI_7482a97ff5>实战记录</RHA_UI_7482a97ff5>
+  <RHA_UI_7492a101f6>全体共同构筑</RHA_UI_7492a101f6>
+  <RHA_UI_74aa59b726>本轮祝福等级 {0}</RHA_UI_74aa59b726>
+  <RHA_UI_754d27b246>{0}\n{1}{2}\n\n当前 → 选取后（本模组总增益）\n{3}\n\n流派与装备联动\n{4}\n\n生效条件\n{5}\n\n卡牌说明\n{6}</RHA_UI_754d27b246>
+  <RHA_UI_7551400cbf>觉醒还需 {0} 试炼精粹</RHA_UI_7551400cbf>
+  <RHA_UI_755254296d>第二阶段</RHA_UI_755254296d>
+  <RHA_UI_7597c25975>爆发等级 {0}</RHA_UI_7597c25975>
+  <RHA_UI_75f381587b>   暴击值 </RHA_UI_75f381587b>
+  <RHA_UI_7621176bcf>选择这张</RHA_UI_7621176bcf>
+  <RHA_UI_765857f216>爆裂</RHA_UI_765857f216>
+  <RHA_UI_77a4b0bb3f>第 {0} 轮敌人已抵达{1}</RHA_UI_77a4b0bb3f>
+  <RHA_UI_77f0c3f6c9>附近出现符合条件的可见敌人时施放。</RHA_UI_77f0c3f6c9>
+  <RHA_UI_787391b050>没有可修复的非永久伤势。溢出治疗不计入治疗量。</RHA_UI_787391b050>
+  <RHA_UI_78b04dfc71> · 追加伤害 +</RHA_UI_78b04dfc71>
+  <RHA_UI_78d5b8cd77>爆发等级</RHA_UI_78d5b8cd77>
+  <RHA_UI_791ac3f6f3>龙魂：{0} / 6（穿戴累计每 2 天成长一次）{1}{2}</RHA_UI_791ac3f6f3>
+  <RHA_UI_79b7c05730>尚无预览对象</RHA_UI_79b7c05730>
+  <RHA_UI_7a040f3e7f>实际伤害</RHA_UI_7a040f3e7f>
+  <RHA_UI_7ac30562c4>边缘海克斯</RHA_UI_7ac30562c4>
+  <RHA_UI_7ace8b3704>附加效果</RHA_UI_7ace8b3704>
+  <RHA_UI_7af8ee8e1e>殖民地 {0} 层 · 个人 {1} 层\n{2}</RHA_UI_7af8ee8e1e>
+  <RHA_UI_7b4fed04bc>{0} · 无尽通过 {1} 阶段</RHA_UI_7b4fed04bc>
+  <RHA_UI_7b8008f0a0>绝境增伤上限</RHA_UI_7b8008f0a0>
+  <RHA_UI_7b871220b3> /秒</RHA_UI_7b871220b3>
+  <RHA_UI_7cbcda4c9e>模式：三轮试炼</RHA_UI_7cbcda4c9e>
+  <RHA_UI_7cd6aae548>通关：{0} 碎晶 / {1} 凝核\n{2} 试炼精粹 · 遗物二选一\n解锁两件遗物的锻造</RHA_UI_7cd6aae548>
+  <RHA_UI_7e06b7da51>流派相关</RHA_UI_7e06b7da51>
+  <RHA_UI_7e0e151519>实际治疗</RHA_UI_7e0e151519>
+  <RHA_UI_7e3852581c>{0} 种 · {1} 层</RHA_UI_7e3852581c>
+  <RHA_UI_7e7c2918a3>\n另有 {0} 项；可在健康栏逐项查看。</RHA_UI_7e7c2918a3>
+  <RHA_UI_7e95b03d36>选定祝福后开始 30 秒准备。每三轮进入新阶段，敌人逐步增强。</RHA_UI_7e95b03d36>
+  <RHA_UI_7ed361707f>\n护盾 </RHA_UI_7ed361707f>
+  <RHA_UI_7ede032c27>成功眩晕</RHA_UI_7ede032c27>
+  <RHA_UI_7f6d836391>基础形态</RHA_UI_7f6d836391>
+  <RHA_UI_7f890ee811>选择下一阶段的祝福，或结算离场。</RHA_UI_7f890ee811>
+  <RHA_UI_7f8e1e596f>首领传送失败，本轮取消</RHA_UI_7f8e1e596f>
+  <RHA_UI_7fc427e2ec>连锁等级 {0} · 目标周围 {1} 格 · 每 3 次有效命中</RHA_UI_7fc427e2ec>
+  <RHA_UI_80a6ad02fb>永霜等级</RHA_UI_80a6ad02fb>
+  <RHA_UI_80eca4d332>模式：无尽试炼</RHA_UI_80eca4d332>
+  <RHA_UI_81020a0fc7>密集战斗时自动精简次要光效</RHA_UI_81020a0fc7>
+  <RHA_UI_8186088b05>等待征召施放者。</RHA_UI_8186088b05>
+  <RHA_UI_81957c6901>棱彩</RHA_UI_81957c6901>
+  <RHA_UI_8198077a7e>全部品级</RHA_UI_8198077a7e>
+  <RHA_UI_8230cd71dd>{0} 进化为「{1}」。</RHA_UI_8230cd71dd>
+  <RHA_UI_8297cc7631>{0} · 形态对照</RHA_UI_8297cc7631>
+  <RHA_UI_82ef13a0c7>战技施放</RHA_UI_82ef13a0c7>
+  <RHA_UI_830302e601>结算一场试炼后，这里会保存最近 12 场记录。战斗中的即时数据也可以在挑战页查看。</RHA_UI_830302e601>
+  <RHA_UI_8334982ab1>交付并消耗 {0} {1}？</RHA_UI_8334982ab1>
+  <RHA_UI_835b700e02>通用</RHA_UI_835b700e02>
+  <RHA_UI_83d8ac4dbe>开启试炼</RHA_UI_83d8ac4dbe>
+  <RHA_UI_83f16bb481>无尽 · 第 {0} 阶段 · </RHA_UI_83f16bb481>
+  <RHA_UI_84524785eb>自然恢复</RHA_UI_84524785eb>
+  <RHA_UI_847d9f1ac8>试炼精粹 {0} · 进度随装备转交，切换分支间隔 1 天。</RHA_UI_847d9f1ac8>
+  <RHA_UI_84965eea6b>连锁电击 · 触发状态</RHA_UI_84965eea6b>
+  <RHA_UI_854340c58f>分裂等级</RHA_UI_854340c58f>
+  <RHA_UI_85a73a5b9c>「{0}」刻入「{1}」{2} 阶，成长和觉醒保留。</RHA_UI_85a73a5b9c>
+  <RHA_UI_85c04db019>阶段预告</RHA_UI_85c04db019>
+  <RHA_UI_85db1da05e>当前构筑涉及的全部流派</RHA_UI_85db1da05e>
+  <RHA_UI_868fa058a6>荆棘等级 {0}</RHA_UI_868fa058a6>
+  <RHA_UI_86a00cf742>效果</RHA_UI_86a00cf742>
+  <RHA_UI_86d3bbd779>敌人数按实际命中范围计算，排除墙后与范围外敌人。</RHA_UI_86d3bbd779>
+  <RHA_UI_87772cf624>可以结算离场，或继续挑战下一轮。</RHA_UI_87772cf624>
+  <RHA_UI_87db0b04ab>追加伤害</RHA_UI_87db0b04ab>
+  <RHA_UI_8822ab6b5d>结算本次试炼</RHA_UI_8822ab6b5d>
+  <RHA_UI_882de9ae65>每击杀盛宴</RHA_UI_882de9ae65>
+  <RHA_UI_88364de0de>已结算 {0} 轮</RHA_UI_88364de0de>
+  <RHA_UI_887b46d587> · 殖民地卡作用于全体，各人的最终收益可不同</RHA_UI_887b46d587>
+  <RHA_UI_8888f8a867>暂无家园殖民者</RHA_UI_8888f8a867>
+  <RHA_UI_88d1576f59>来源不足，休眠</RHA_UI_88d1576f59>
+  <RHA_UI_88d34d178d>连锁电击范围：被击中目标周围 {0} 格（每 3 次有效命中；只连锁其他站立敌人）</RHA_UI_88d34d178d>
+  <RHA_UI_88dcad18da>自动等待</RHA_UI_88dcad18da>
+  <RHA_UI_88ed94f69c>家园库存</RHA_UI_88ed94f69c>
+  <RHA_UI_894a9388da>近距增伤</RHA_UI_894a9388da>
+  <RHA_UI_89696021a2>试炼：{0} · 已通过 {1} 轮\n{2}</RHA_UI_89696021a2>
+  <RHA_UI_8a14a0cca3>已放弃当前悬赏，3 天后可重新接取。</RHA_UI_8a14a0cca3>
+  <RHA_UI_8a1e9f992d>敌人数达到门槛</RHA_UI_8a1e9f992d>
+  <RHA_UI_8ab15443bb>白银</RHA_UI_8ab15443bb>
+  <RHA_UI_8abc77b9fb>共 3 轮</RHA_UI_8abc77b9fb>
+  <RHA_UI_8b70fb83b7>殖民地共享能力 · 距每日结算 {0} 天</RHA_UI_8b70fb83b7>
+  <RHA_UI_8c38553558>{0}持续 {1} · 受创 {2}</RHA_UI_8c38553558>
+  <RHA_UI_8c52f0930d>生效 · </RHA_UI_8c52f0930d>
+  <RHA_UI_8c6d4d2473>信标或家园已不可用</RHA_UI_8c6d4d2473>
+  <RHA_UI_8cbf2f303b>{0} · 难度 {1} · 第 {2} / 3 轮</RHA_UI_8cbf2f303b>
+  <RHA_UI_8d0151f504>放弃当前悬赏及进度，等待 3 天后重新接取？</RHA_UI_8d0151f504>
+  <RHA_UI_8d1dc8dc02>尚未获得此卡。</RHA_UI_8d1dc8dc02>
+  <RHA_UI_8d544e1549>已生效</RHA_UI_8d544e1549>
+  <RHA_UI_8d80b1f458>移速</RHA_UI_8d80b1f458>
+  <RHA_UI_8d98ded02d> · 殖民地共享</RHA_UI_8d98ded02d>
+  <RHA_UI_8d999455ce>领域已满</RHA_UI_8d999455ce>
+  <RHA_UI_8df2e10004>\n主动技能：{0}</RHA_UI_8df2e10004>
+  <RHA_UI_8e8021bc10>自身</RHA_UI_8e8021bc10>
+  <RHA_UI_8e861a9a07>终止试炼并撤回幻影</RHA_UI_8e861a9a07>
+  <RHA_UI_8f0283c7ea>本次会话保留最近 256 条；每刻最多 64 条，已省略 {0} 条。\n伤害、治疗和吸收记实际结算；护盾增加单独记录。</RHA_UI_8f0283c7ea>
+  <RHA_UI_8f0a8ecce5>当前没有自己的持续战技、领域或生效的生产超频。</RHA_UI_8f0a8ecce5>
+  <RHA_UI_8f0f24e487>刷新此卡</RHA_UI_8f0f24e487>
+  <RHA_UI_8f58d8da21>点击上方选卡券，开始一次三选一。\n\n殖民地卡强化所有己方人类殖民者；英雄卡永久赋予指定殖民者。\n棱彩遗物会作为可穿戴物品送到殖民者附近，不同遗物可以同时装备。</RHA_UI_8f58d8da21>
+  <RHA_UI_904dd029c7>环境</RHA_UI_904dd029c7>
+  <RHA_UI_905e31f73e>休眠</RHA_UI_905e31f73e>
+  <RHA_UI_919e57e71f>斩杀线 {0}%</RHA_UI_919e57e71f>
+  <RHA_UI_91c0dee894>连锁电击</RHA_UI_91c0dee894>
+  <RHA_UI_9264f24148>万魂齐发</RHA_UI_9264f24148>
+  <RHA_UI_92b70e6585>控制护盾</RHA_UI_92b70e6585>
+  <RHA_UI_92d87b13e7>信标恢复中，还需 {0} 天。</RHA_UI_92d87b13e7>
+  <RHA_UI_938718641a>{0}：当前 {1}/{2} 种不同来源。重复层数不增加来源种类。</RHA_UI_938718641a>
+  <RHA_UI_9407d93e2a>定位信标</RHA_UI_9407d93e2a>
+  <RHA_UI_9417fa4563>实际治疗 {0} · 护盾吸收 {1}</RHA_UI_9417fa4563>
+  <RHA_UI_9428ecebd5> · 剩余 {0} 天</RHA_UI_9428ecebd5>
+  <RHA_UI_94975c467f>敌人未进入可施放距离或目标受到遮挡。</RHA_UI_94975c467f>
+  <RHA_UI_949dc9c212>已计入当前成长速率；未来命中与击杀获得的层数不计入当前属性。</RHA_UI_949dc9c212>
+  <RHA_UI_9505f3cab4>叠层灼烧</RHA_UI_9505f3cab4>
+  <RHA_UI_9507b7bd2c>殖民地 ×{0}</RHA_UI_9507b7bd2c>
+  <RHA_UI_954a2b4c2c>至少命中 {0} 名敌人</RHA_UI_954a2b4c2c>
+  <RHA_UI_95a0ae1873>累计施放 {0} 次</RHA_UI_95a0ae1873>
+  <RHA_UI_95c1d0bc0f> · 第二阶段</RHA_UI_95c1d0bc0f>
+  <RHA_UI_960536f631>以后新开启的选卡轮次增加 {0} 次刷新；当前候选的剩余次数保持原值。</RHA_UI_960536f631>
+  <RHA_UI_961f3a5cde>护盾变化</RHA_UI_961f3a5cde>
+  <RHA_UI_962db29ce1>\n距离、生命、控制等条件效果在满足条件时结算。\n点击“强化详情”可查看每张卡牌与遗物。</RHA_UI_962db29ce1>
+  <RHA_UI_9630b9b14f>尚未获得</RHA_UI_9630b9b14f>
+  <RHA_UI_96ce0020cd>定期选卡间隔：{0} 天（60 天 = 1 年；每次只给 1 张通用券）</RHA_UI_96ce0020cd>
+  <RHA_UI_97141db55e>完整机制详情  ›</RHA_UI_97141db55e>
+  <RHA_UI_97d712eea5>尚未获得强化。领取选卡券后，可在这里查看构筑。</RHA_UI_97d712eea5>
+  <RHA_UI_981c4e3f33>触发条件：{0}  ▾</RHA_UI_981c4e3f33>
+  <RHA_UI_9835f4f522>实际吸收</RHA_UI_9835f4f522>
+  <RHA_UI_9849e440ec>\n本地图自动施放者：{0}。所有殖民者共用冷却。</RHA_UI_9849e440ec>
+  <RHA_UI_984ca9fd40>选择一项替换铭文，保留现有阶数、成长与觉醒。候选已保存。</RHA_UI_984ca9fd40>
+  <RHA_UI_995c904572>自动就绪</RHA_UI_995c904572>
+  <RHA_UI_99f32a95e5>第 {0} 阶段 · </RHA_UI_99f32a95e5>
+  <RHA_UI_9a20bd55b9>领取后待结算研究奖励：{0} → {1}；按卡牌说明结算到研究项目。</RHA_UI_9a20bd55b9>
+  <RHA_UI_9a26a14418>继续本阶段下一轮</RHA_UI_9a26a14418>
+  <RHA_UI_9a6c2b9621>{0} · 基础冷却 {1}\n{2}{3}{4}\n攻击目标必须敌对、站立、未被迷雾隐藏，并满足对应视线条件；受伤条件只统计非永久伤势。</RHA_UI_9a6c2b9621>
+  <RHA_UI_9b6a1b09d2>斩杀线</RHA_UI_9b6a1b09d2>
+  <RHA_UI_9bb690616b>我的构筑</RHA_UI_9bb690616b>
+  <RHA_UI_9bb8350608>群疗 {0}/次</RHA_UI_9bb8350608>
+  <RHA_UI_9bea7beb56>全部战技</RHA_UI_9bea7beb56>
+  <RHA_UI_9c1054070d>暴击流血</RHA_UI_9c1054070d>
+  <RHA_UI_9c77445060>融合 · </RHA_UI_9c77445060>
+  <RHA_UI_9cca74cc41>无尽最高通过 {0} 阶段</RHA_UI_9cca74cc41>
+  <RHA_UI_9d68e8fc00>交付 {0} {1}</RHA_UI_9d68e8fc00>
+  <RHA_UI_9dbcfac4d6> · 殖民地累计</RHA_UI_9dbcfac4d6>
+  <RHA_UI_9e563a1244>清空近期记录</RHA_UI_9e563a1244>
+  <RHA_UI_9f054fffb5> · 最高抵达 {0} 阶段</RHA_UI_9f054fffb5>
+  <RHA_UI_9f2f25a0c6>荆棘反击</RHA_UI_9f2f25a0c6>
+  <RHA_UI_9fecb923ba>主动撤退</RHA_UI_9fecb923ba>
+  <RHA_UI_a065f38d8a>海克斯基础增益：伤害 ×{0}    体质 ×{1}    承伤 ÷{2}    吸血 {3}%\n永久叠钢 {4}    盛宴 {5}    魂印 {6}    击杀 {7}    待投放赏金 {8}</RHA_UI_a065f38d8a>
+  <RHA_UI_a086454266>{0} 点 · {1}</RHA_UI_a086454266>
+  <RHA_UI_a0ab1790da>试炼祝福的独立护盾池，仅抵挡本轮试炼敌人。</RHA_UI_a0ab1790da>
+  <RHA_UI_a0d190588f>铭文重铸 · 100 碎晶</RHA_UI_a0d190588f>
+  <RHA_UI_a18d183675>等待主动开启棱彩试炼；需要露天位置与可抵达的传送区域。</RHA_UI_a18d183675>
+  <RHA_UI_a19e85c07b>三轮挑战，逐轮决定是否继续。失败或撤退保留已通过轮次的材料奖励；角色受到的伤害正常保留。结算后信标恢复 1 天。</RHA_UI_a19e85c07b>
+  <RHA_UI_a1da1f8f51>\n觉醒进度：{0} / {1} · {2}{3}</RHA_UI_a1da1f8f51>
+  <RHA_UI_a219f72ef6>炎阳等级</RHA_UI_a219f72ef6>
+  <RHA_UI_a2e83aebaa>当前海克斯加成：伤害 ×{0} · 体质 ×{1} · 承伤 ÷{2}\n选择右侧条目，可查看进化条件和休眠原因。</RHA_UI_a2e83aebaa>
+  <RHA_UI_a36f0f8d79>已有更强护盾，仅更新期限，盾量未增加。</RHA_UI_a36f0f8d79>
+  <RHA_UI_a38427065e>接收：{0}</RHA_UI_a38427065e>
+  <RHA_UI_a3e68bc03a>已有护盾达到转换上限，本次没有增加。</RHA_UI_a3e68bc03a>
+  <RHA_UI_a429989b8b>全部强化</RHA_UI_a429989b8b>
+  <RHA_UI_a42e40e41c>选择遗物外观</RHA_UI_a42e40e41c>
+  <RHA_UI_a480d94043>{0} · {1} 秒</RHA_UI_a480d94043>
+  <RHA_UI_a484f59c52>每个候选位的棱彩概率：{0}%</RHA_UI_a484f59c52>
+  <RHA_UI_a488e93d69>来源</RHA_UI_a488e93d69>
+  <RHA_UI_a5113c7461>完成战功契约获得 1 张个人选卡券；奖励后，贡献、战力与场次重新累计。</RHA_UI_a5113c7461>
+  <RHA_UI_a542603461>选择这件遗物</RHA_UI_a542603461>
+  <RHA_UI_a5ae7a3710>先组成流派并选择基础进化；融合通常需要两个流派，终极需要 6 种不同来源。</RHA_UI_a5ae7a3710>
+  <RHA_UI_a61898b045>“流派相关”列出该流派的来源卡牌、进化卡、精通卡和代表装备，包括尚未获得的内容。</RHA_UI_a61898b045>
+  <RHA_UI_a62d513fa8>这个定义已不在当前版本中。可刷新其他候选，或取回无效的一轮选卡券。</RHA_UI_a62d513fa8>
+  <RHA_UI_a635be7bcb>已记录的累计贡献，单项最多显示 100 万。</RHA_UI_a635be7bcb>
+  <RHA_UI_a64798e9da> · 当前不可选</RHA_UI_a64798e9da>
+  <RHA_UI_a647ef5241>其中灼烧</RHA_UI_a647ef5241>
+  <RHA_UI_a656ba96a0>当前未穿戴</RHA_UI_a656ba96a0>
+  <RHA_UI_a68c86c977>尚无效果记录。</RHA_UI_a68c86c977>
+  <RHA_UI_a6a690ed8b>神圣分离</RHA_UI_a6a690ed8b>
+  <RHA_UI_a7106fb8e3>有效治疗</RHA_UI_a7106fb8e3>
+  <RHA_UI_a748cc074f>查看详情</RHA_UI_a748cc074f>
+  <RHA_UI_a7cec5b825>定向打造</RHA_UI_a7cec5b825>
+  <RHA_UI_a7e3e918da>有效治疗 {0}/200 · </RHA_UI_a7e3e918da>
+  <RHA_UI_a8328fbe5a>棱彩遗物</RHA_UI_a8328fbe5a>
+  <RHA_UI_a8913b6acb>本次范围内没有符合敌对、站立和视线条件的目标。</RHA_UI_a8913b6acb>
+  <RHA_UI_a89cd05765>辉耀疗愈</RHA_UI_a89cd05765>
+  <RHA_UI_a8c3698b5b>已停用</RHA_UI_a8c3698b5b>
+  <RHA_UI_a8dd16585f>\n尚未选择觉醒分支</RHA_UI_a8dd16585f>
+  <RHA_UI_a9008c767b>棱彩遗物 装备</RHA_UI_a9008c767b>
+  <RHA_UI_a9aa3e7243>机制 {0} 层；{1}</RHA_UI_a9aa3e7243>
+  <RHA_UI_a9bc2bb12e>找不到此来源的定义。下方保留触发时的名称与结果。</RHA_UI_a9bc2bb12e>
+  <RHA_UI_a9e5a4740f>殖民者</RHA_UI_a9e5a4740f>
+  <RHA_UI_aa4448d333> · 生效</RHA_UI_aa4448d333>
+  <RHA_UI_aa9baf1b32>检查范围内的殖民者</RHA_UI_aa9baf1b32>
+  <RHA_UI_ab0dfda013>试炼护盾 · 暂无</RHA_UI_ab0dfda013>
+  <RHA_UI_ab2d189afe>记录近期触发的效果。只保留开启记录后发生的事件。</RHA_UI_ab2d189afe>
+  <RHA_UI_ab44241f25>尚未穿戴可觉醒遗物。\n可觉醒：{0}。穿戴后查看成长与分支。</RHA_UI_ab44241f25>
+  <RHA_UI_ab7e26edb0>已耗尽</RHA_UI_ab7e26edb0>
+  <RHA_UI_abc6d03783>秘术吸血</RHA_UI_abc6d03783>
+  <RHA_UI_abfee14b3e>{0} · 奖励 {1} 碎晶 / {2} 凝核 / {3} 试炼精粹</RHA_UI_abfee14b3e>
+  <RHA_UI_ac351c199c>\n附近的群魂领主受到的伤害降低 55%；击败近卫即可解除。</RHA_UI_ac351c199c>
+  <RHA_UI_ac7a4dca16>炎阳等级 {0}</RHA_UI_ac7a4dca16>
+  <RHA_UI_ac83c533b8>{0}。已通过轮次的奖励保留，打开棱彩试炼结算。</RHA_UI_ac83c533b8>
+  <RHA_UI_ac8945fb44>{0} 奖励：{1} 碎晶 + {2} 凝核。</RHA_UI_ac8945fb44>
+  <RHA_UI_ac9b3fff59>成长条件尚未达成</RHA_UI_ac9b3fff59>
+  <RHA_UI_acb5e86ff3>可能已达叠层上限、被停用，或缺少进阶来源及奖励资格。查看选择按钮的条件提示。</RHA_UI_acb5e86ff3>
+  <RHA_UI_acb943d689>半血·缚魂近卫：召唤两名不会自行到期的近卫。附近近卫使首领额外减伤 55%，击败它们可立即解除庇护。</RHA_UI_acb943d689>
+  <RHA_UI_ad216d570c>灼烧等级</RHA_UI_ad216d570c>
+  <RHA_UI_ae35fbe209> · 已锁定</RHA_UI_ae35fbe209>
+  <RHA_UI_af1c94e1c8>尚未选择祝福。选择后，当前试炼地图上的自由殖民者在战斗中共同获得效果。</RHA_UI_af1c94e1c8>
+  <RHA_UI_af45f25ee9>相同机制的强度合并结算；触发计数与间隔共享。</RHA_UI_af45f25ee9>
+  <RHA_UI_af6ed555d1>{0}第 {1} / 3 轮</RHA_UI_af6ed555d1>
+  <RHA_UI_af72db3359>不朽庇护</RHA_UI_af72db3359>
+  <RHA_UI_b0203ca8d3>雷霆护盾：基础间隔 500 刻，受装备急速缩短；检查自身 7 格内最多 16 名敌人，有目标时获得护盾并反击。</RHA_UI_b0203ca8d3>
+  <RHA_UI_b02568d093>物资/材料入账 {0}    额外魂印 {1}</RHA_UI_b02568d093>
+  <RHA_UI_b073db9c0b>就绪</RHA_UI_b073db9c0b>
+  <RHA_UI_b0b7412494>战功契约完成：有效击杀、敌人强度、不同战斗与领取间隔均已达成，获得一张英雄选卡券。</RHA_UI_b0b7412494>
+  <RHA_UI_b0d5a60875>距可再次切换还有 {0} 天</RHA_UI_b0d5a60875>
+  <RHA_UI_b0fc3de1dd>至少需要 10 枚魂印，且技能冷却完成。</RHA_UI_b0fc3de1dd>
+  <RHA_UI_b198b2bc30>需要一名自由殖民者查看构筑状态。也可以切换全部内容，或指定流派浏览。</RHA_UI_b198b2bc30>
+  <RHA_UI_b226896f52>试炼祝福护盾</RHA_UI_b226896f52>
+  <RHA_UI_b228e73663>奖励 {0} 碎晶 + {1} 凝核</RHA_UI_b228e73663>
+  <RHA_UI_b252830f55>卡池中可以单独停用卡牌。所有刷新结果、未领取的券、卡牌层数与成长记录随存档保存。</RHA_UI_b252830f55>
+  <RHA_UI_b26ce46d17>觉醒 · {0}{1}</RHA_UI_b26ce46d17>
+  <RHA_UI_b2bb3cccf5>逐人贡献</RHA_UI_b2bb3cccf5>
+  <RHA_UI_b2db54b67e>条件触发就绪</RHA_UI_b2db54b67e>
+  <RHA_UI_b336a174cd>暂无</RHA_UI_b336a174cd>
+  <RHA_UI_b35910ffa6>\n当前战斗光效已关闭，伤害仍会结算。</RHA_UI_b35910ffa6>
+  <RHA_UI_b36bd81e85> · 共享</RHA_UI_b36bd81e85>
+  <RHA_UI_b396984092>施放距离 {0} 格。</RHA_UI_b396984092>
+  <RHA_UI_b419a84339>第 {0} 阶段 · {1} 级祝福</RHA_UI_b419a84339>
+  <RHA_UI_b44836d168>按遗物名称搜索；清空后显示全部。</RHA_UI_b44836d168>
+  <RHA_UI_b47277dd4b>；首领半血进入第二阶段。</RHA_UI_b47277dd4b>
+  <RHA_UI_b475eac1f5>个人构筑</RHA_UI_b475eac1f5>
+  <RHA_UI_b4c4ba82dc>显示 · </RHA_UI_b4c4ba82dc>
+  <RHA_UI_b4f6cb7a23>优先施放者：{0}  ▾</RHA_UI_b4f6cb7a23>
+  <RHA_UI_b556e7c9ba>{0} 游戏小时</RHA_UI_b556e7c9ba>
+  <RHA_UI_b5a91a5f1b>精简粒子（保留主要效果，适合大规模战斗）</RHA_UI_b5a91a5f1b>
+  <RHA_UI_b5acbd8078>读档后提醒待选卡牌（每次加载一次）</RHA_UI_b5acbd8078>
+  <RHA_UI_b5d17b7aac>{0} 获得「{1}」 · 第 {2} 层</RHA_UI_b5d17b7aac>
+  <RHA_UI_b65b6e3a2e>护盾</RHA_UI_b65b6e3a2e>
+  <RHA_UI_b66b681582>同尺寸展示基础形态与两个觉醒分支。在觉醒页选择分支后，装备外观会随之变化。</RHA_UI_b66b681582>
+  <RHA_UI_b6bf2aee35> · 离图暂停</RHA_UI_b6bf2aee35>
+  <RHA_UI_b78a713ee3>目标不是站立敌人；中立动物、友方或已倒地目标不累计有效命中。</RHA_UI_b78a713ee3>
+  <RHA_UI_b7d2d100e3>本轮持续效果范围内没有符合敌对、站立和视线条件的目标。</RHA_UI_b7d2d100e3>
+  <RHA_UI_b7f5d94a5f>穿戴后提供遗物效果。共同机制合并强度，共享其计数和间隔；觉醒分支仅当前选择的一条生效。\n具体数值与主动效果见上方说明。</RHA_UI_b7f5d94a5f>
+  <RHA_UI_b8086ae255>熔火区</RHA_UI_b8086ae255>
+  <RHA_UI_b87a34448f>需要基地</RHA_UI_b87a34448f>
+  <RHA_UI_b8899a864d>星界守护等级</RHA_UI_b8899a864d>
+  <RHA_UI_b89f4695d5>接取悬赏</RHA_UI_b89f4695d5>
+  <RHA_UI_b8c5f3d2ac>施加时未记录来源，可能发生在读档前或记录关闭期间。</RHA_UI_b8c5f3d2ac>
+  <RHA_UI_b93b9f6189>分解保护：未锁定</RHA_UI_b93b9f6189>
+  <RHA_UI_b94ca626a1> · 可觉醒</RHA_UI_b94ca626a1>
+  <RHA_UI_b97c7c8d0d>记录 {0} / {1} · {2} · 难度 {3}{4}</RHA_UI_b97c7c8d0d>
+  <RHA_UI_b983edd291>冷却剩余 {0}</RHA_UI_b983edd291>
+  <RHA_UI_b9bf7958a2>：已持有的休眠能力重新生效</RHA_UI_b9bf7958a2>
+  <RHA_UI_ba07d99f75>搜索战技名称、流派或效果说明；清空可显示全部。</RHA_UI_ba07d99f75>
+  <RHA_UI_ba1e87d0e7>试炼首领</RHA_UI_ba1e87d0e7>
+  <RHA_UI_ba6403d228>冷却中</RHA_UI_ba6403d228>
+  <RHA_UI_ba76430188>当前使用手动施放；开启自动后可设置触发条件。</RHA_UI_ba76430188>
+  <RHA_UI_badfcc5ad2>奖励接收者：{0}</RHA_UI_badfcc5ad2>
+  <RHA_UI_baeeaa3325>冷却 {0}</RHA_UI_baeeaa3325>
+  <RHA_UI_bafc037ece>需要家园殖民者</RHA_UI_bafc037ece>
+  <RHA_UI_bb69afab35>法术双修</RHA_UI_bb69afab35>
+  <RHA_UI_bbb72f61f1>黄金</RHA_UI_bbb72f61f1>
+  <RHA_UI_bbcd9d3fbf>{0}\n手动：{1}\n自动：{2}</RHA_UI_bbcd9d3fbf>
+  <RHA_UI_bc0195530e>每击杀魂印</RHA_UI_bc0195530e>
+  <RHA_UI_bc083d7cb4>暴击流血：暴击命中施加，每秒一次，共 6 次；同一施加者可叠层并刷新，规则同叠层灼烧。</RHA_UI_bc083d7cb4>
+  <RHA_UI_bcb7bece35>连锁等级 {0} · 有效命中 {1}/3 · 还需 {2} 次\n被击中目标周围 {3} 格，最多 {4} 名其他站立敌人。普通中立动物和训练靶不触发。</RHA_UI_bcb7bece35>
+  <RHA_UI_bcf16aa5e9>状态说明</RHA_UI_bcf16aa5e9>
+  <RHA_UI_bd6c22c940> · 通过 {0} 轮</RHA_UI_bd6c22c940>
+  <RHA_UI_bd8525e59f>半血·迁移熔潮：沿目标所在方向依次引爆三个熔火区，各自持续 5 秒；地面会预告位置和倒计时。</RHA_UI_bd8525e59f>
+  <RHA_UI_bd94f8d558>共享战技由「{0}」负责自动施放。</RHA_UI_bd94f8d558>
+  <RHA_UI_bd9a49a6bb>没有可确定的即时属性变化。</RHA_UI_bd9a49a6bb>
+  <RHA_UI_be627f295d>{0}\n{1}\n战斗目标沿用战功资格规则；囚犯、普通动物、倒地补刀与重复复活目标不计。流派铭文不算进化所需的卡牌或遗物来源。</RHA_UI_be627f295d>
+  <RHA_UI_be964ee5da>连锁每 3 次有效直接命中触发，寻找目标周围 {0} 格内的其他站立敌人；普通中立动物与训练靶不计数。</RHA_UI_be964ee5da>
+  <RHA_UI_bec799071c>暂无殖民者</RHA_UI_bec799071c>
+  <RHA_UI_bf49fc267f>预览对象：{0}</RHA_UI_bf49fc267f>
+  <RHA_UI_bfa50d17d6>\n投机存款 </RHA_UI_bfa50d17d6>
+  <RHA_UI_bfbbf14f53>连锁 {0}/3 · </RHA_UI_bfbbf14f53>
+  <RHA_UI_bfd605397b> / 60（每次命中最多消耗一份）</RHA_UI_bfd605397b>
+  <RHA_UI_bfe0ce72df>\n可切换觉醒分支</RHA_UI_bfe0ce72df>
+  <RHA_UI_c0cd72fc51>基础冷却 {0}</RHA_UI_c0cd72fc51>
+  <RHA_UI_c164e7acf0>近距增伤 +{0}%</RHA_UI_c164e7acf0>
+  <RHA_UI_c17f90a709>开启无尽试炼「</RHA_UI_c17f90a709>
+  <RHA_UI_c180045664>大变活人：{0} 加入了殖民地。</RHA_UI_c180045664>
+  <RHA_UI_c1e8cbd0c9>本轮超过 1 天时限</RHA_UI_c1e8cbd0c9>
+  <RHA_UI_c25c4e7aa2>当前没有待结算的伤害。</RHA_UI_c25c4e7aa2>
+  <RHA_UI_c3a3a0fc0c>本场试炼祝福（仅当前试炼地图战斗中生效）\n{0}\n有效命中 {1} · 远程命中 {2}\n移动蓄力 {3} / 8 · 魂阵击杀 {4} / 3\n血潮蓄力 {5} / 100 · 余震蓄力 {6} / 150\n{7} · 狂潮剩余 {8} 秒</RHA_UI_c3a3a0fc0c>
+  <RHA_UI_c3faf13a28>吸血治疗量（含溢出）</RHA_UI_c3faf13a28>
+  <RHA_UI_c4440e9511>未触发</RHA_UI_c4440e9511>
+  <RHA_UI_c4455a7997>脱战护盾</RHA_UI_c4455a7997>
+  <RHA_UI_c49d8bb973>定期强化已到达</RHA_UI_c49d8bb973>
+  <RHA_UI_c49e9dd826>继续第 {0} 轮</RHA_UI_c49e9dd826>
+  <RHA_UI_c4f6e15b87>持续效果 · {0} 项生效</RHA_UI_c4f6e15b87>
+  <RHA_UI_c52ac20965>近期触发</RHA_UI_c52ac20965>
+  <RHA_UI_c5b373b210>精英前锋：所有普通敌人携带精英能力</RHA_UI_c5b373b210>
+  <RHA_UI_c5b8e8a600>刻入「{0}」</RHA_UI_c5b8e8a600>
+  <RHA_UI_c5cd7d174c>获得一张通用选卡券，可选择殖民地、英雄或遗物卡池。打开底部“海克斯”领取。</RHA_UI_c5cd7d174c>
+  <RHA_UI_c5cfbd1049>当前地图的持续战技已达上限。</RHA_UI_c5cfbd1049>
+  <RHA_UI_c62351fc6f>叠钢 +{0}  /  {1}</RHA_UI_c62351fc6f>
+  <RHA_UI_c692f9e590>显示心之钢、暴击等战斗浮字</RHA_UI_c692f9e590>
+  <RHA_UI_c6f661b16a>疾攻阵列：敌人伤害 +25%，技能间隔缩短 20%</RHA_UI_c6f661b16a>
+  <RHA_UI_c6f8784544>进化卡已停用</RHA_UI_c6f8784544>
+  <RHA_UI_c6fb24b1fc>仅征召时自动施放</RHA_UI_c6fb24b1fc>
+  <RHA_UI_c720d3a331>踢踏</RHA_UI_c720d3a331>
+  <RHA_UI_c74bace108>：来源条件满足，卡池中仍已停用</RHA_UI_c74bace108>
+  <RHA_UI_c7c26b7c9b>流派构成</RHA_UI_c7c26b7c9b>
+  <RHA_UI_c7cad990a5>累计追加伤害、有效治疗和护盾吸收。属性加成与共享灼烧不单列，每项最多记录 100 万。</RHA_UI_c7cad990a5>
+  <RHA_UI_c81995fafd>治疗</RHA_UI_c81995fafd>
+  <RHA_UI_c82a052419>分解并回收 100 碎晶</RHA_UI_c82a052419>
+  <RHA_UI_c848d9d4c6>触发次数</RHA_UI_c848d9d4c6>
+  <RHA_UI_c85e40eb8d>   魂印 </RHA_UI_c85e40eb8d>
+  <RHA_UI_c907d96b42>{0} · 点击查看定义</RHA_UI_c907d96b42>
+  <RHA_UI_c98ce1ebe0>隐藏 · </RHA_UI_c98ce1ebe0>
+  <RHA_UI_c994f9940f>\n储血 </RHA_UI_c994f9940f>
+  <RHA_UI_c997444643>生效</RHA_UI_c997444643>
+  <RHA_UI_c9a23ceafa>叠层效果保留历次施加来源；未记录或超过显示上限的部分无法完整展开。</RHA_UI_c9a23ceafa>
+  <RHA_UI_c9ace55ddd>脱战护盾：受伤后等待至少 300 刻，周期检查时刷新护盾，持续 500 刻。</RHA_UI_c9ace55ddd>
+  <RHA_UI_ca440bdf1b>爆裂：每 4 次有效命中，在命中点 4.5 格内最多结算 20 名敌人。</RHA_UI_ca440bdf1b>
+  <RHA_UI_cab1db678f>触发时的来源 · {0} 项  ›</RHA_UI_cab1db678f>
+  <RHA_UI_cb14f172c8>本次没有造成实际伤害。</RHA_UI_cb14f172c8>
+  <RHA_UI_cb4dfe6597>条件满足，等待下一次自动检查（最多约 1 秒）。</RHA_UI_cb4dfe6597>
+  <RHA_UI_cb93855de4>群体护盾：每 750 刻检查一次冷却，为 10 格内最多 12 名殖民者刷新护盾，持续 750 刻。</RHA_UI_cb93855de4>
+  <RHA_UI_cbab3b3ea9> · 殖民地共享冷却</RHA_UI_cbab3b3ea9>
+  <RHA_UI_cbaf00002f>冷却除数</RHA_UI_cbaf00002f>
+  <RHA_UI_cbd420ca40>查看基础形态与双分支觉醒外观</RHA_UI_cbd420ca40>
+  <RHA_UI_cbe3ea512f>精英能力：{0}</RHA_UI_cbe3ea512f>
+  <RHA_UI_cc24d74847>当前装备形态</RHA_UI_cc24d74847>
+  <RHA_UI_cd72aa2227>魔法飞弹</RHA_UI_cd72aa2227>
+  <RHA_UI_cdb0da18b9>已选 {0} 张    击败 {1} 名敌人{2}下轮选卡 {3} 天</RHA_UI_cdb0da18b9>
+  <RHA_UI_cdb65d0422>落雷半径扩大至 10 格。</RHA_UI_cdb65d0422>
+  <RHA_UI_cde91b8478>传送失败，本轮取消</RHA_UI_cde91b8478>
+  <RHA_UI_ce8b25617d>每轮额外重击范围内最强敌人 600 点。</RHA_UI_ce8b25617d>
+  <RHA_UI_cf79dbe2a4>\n\n正在承受的持续伤害：\n{0}</RHA_UI_cf79dbe2a4>
+  <RHA_UI_cfbf7806e8>还需 {0} 种来源</RHA_UI_cfbf7806e8>
+  <RHA_UI_cfdc2d497a>{0} 的「{1}」可以觉醒了，打开海克斯构筑面板选择分支。</RHA_UI_cfdc2d497a>
+  <RHA_UI_cfdc74bd41>交响</RHA_UI_cfdc74bd41>
+  <RHA_UI_d1260f7e4a>保留现有铭文；本次重铸费用不退还。</RHA_UI_d1260f7e4a>
+  <RHA_UI_d164a30704>普通敌人</RHA_UI_d164a30704>
+  <RHA_UI_d18556ff08>有效命中 {0} / {1} · </RHA_UI_d18556ff08>
+  <RHA_UI_d249826b96>确认结算离场</RHA_UI_d249826b96>
+  <RHA_UI_d293521dd1>遗物  /  {0}</RHA_UI_d293521dd1>
+  <RHA_UI_d342b2ea7c>{0} · {1} 级</RHA_UI_d342b2ea7c>
+  <RHA_UI_d34629250d>连锁 · {0}/3 命中 · {1} 格</RHA_UI_d34629250d>
+  <RHA_UI_d3747fd83c>实际伤害 {0}</RHA_UI_d3747fd83c>
+  <RHA_UI_d428e7ca73>碎晶 {0}   凝核 {1}   试炼精粹 {2}</RHA_UI_d428e7ca73>
+  <RHA_UI_d45aeafaa0>需要范围内存在可治疗伤势且血量低于门槛的殖民者。</RHA_UI_d45aeafaa0>
+  <RHA_UI_d4ad7fe948>边缘海克斯</RHA_UI_d4ad7fe948>
+  <RHA_UI_d4e6744d5c>每日物资 +{0}</RHA_UI_d4e6744d5c>
+  <RHA_UI_d52a0a1e0d>尚未穿戴棱彩遗物</RHA_UI_d52a0a1e0d>
+  <RHA_UI_d5be729240>留下半径 8 格的熔海，每秒造成 160＋40×体质伤害，共 4 轮。</RHA_UI_d5be729240>
+  <RHA_UI_d5c0eeafaa>\n基础承伤 ÷</RHA_UI_d5c0eeafaa>
+  <RHA_UI_d5c451dd78>没有新的候选卡可换，刷新次数已保留。</RHA_UI_d5c451dd78>
+  <RHA_UI_d5de9db2b4>此页展示来源定义。选择殖民者后从图鉴或战技页打开，可查看当前穿戴、层数或施放状态。</RHA_UI_d5de9db2b4>
+  <RHA_UI_d60387c236>打造 · 400 碎晶 + 1 凝核</RHA_UI_d60387c236>
+  <RHA_UI_d615752e50>放弃 · 等待 3 天</RHA_UI_d615752e50>
+  <RHA_UI_d62e64a050>清空筛选</RHA_UI_d62e64a050>
+  <RHA_UI_d633181fb2>分解保护：已锁定</RHA_UI_d633181fb2>
+  <RHA_UI_d6a754e3c1>群体疗愈</RHA_UI_d6a754e3c1>
+  <RHA_UI_d6e099a9b2>殖民地共享冷却</RHA_UI_d6e099a9b2>
+  <RHA_UI_d6f2f1ffbf>\n已觉醒：{0} — {1}</RHA_UI_d6f2f1ffbf>
+  <RHA_UI_d70c98b6bd>暂无可操作遗物。\n显示家园地面上未禁用的遗物，以及家园殖民者穿戴的遗物。</RHA_UI_d70c98b6bd>
+  <RHA_UI_d79b1d0e5c>已结束</RHA_UI_d79b1d0e5c>
+  <RHA_UI_d7c50cf70d>基础伤害</RHA_UI_d7c50cf70d>
+  <RHA_UI_d7ccbd1816>显示战斗粒子、连锁、技能光效与护盾</RHA_UI_d7ccbd1816>
+  <RHA_UI_d81a8453a1>尚未解锁：通关对应试炼后可制作</RHA_UI_d81a8453a1>
+  <RHA_UI_d842c82450>候选落点或射线的实际命中人数不足 {0} 人。</RHA_UI_d842c82450>
+  <RHA_UI_d85db25732>团队护盾基础值增至 900，覆盖半径增至 18 格。</RHA_UI_d85db25732>
+  <RHA_UI_d908d3fd58>品级：全部</RHA_UI_d908d3fd58>
+  <RHA_UI_d9fee01525>暂无已持有或满足候选条件的进阶能力</RHA_UI_d9fee01525>
+  <RHA_UI_da5dbaa78c>生效流派</RHA_UI_da5dbaa78c>
+  <RHA_UI_db07851896>领取已通过轮次的材料并结束本场。只有完成整个阶段才有遗物奖励。</RHA_UI_db07851896>
+  <RHA_UI_db4517d744>专属进化请在流派进化页选择。</RHA_UI_db4517d744>
+  <RHA_UI_db5b02dba3>融合与终极</RHA_UI_db5b02dba3>
+  <RHA_UI_db60d1fd20>此卡牌定义已不可用。</RHA_UI_db60d1fd20>
+  <RHA_UI_db74849eb9>分裂命中目标</RHA_UI_db74849eb9>
+  <RHA_UI_db7a6f4849>{0} 的龙心觉醒了第 {1} 层龙魂。</RHA_UI_db7a6f4849>
+  <RHA_UI_db9773faa3>自动选择</RHA_UI_db9773faa3>
+  <RHA_UI_dbfad0f243>传送区域被阻挡，请先清理通路。</RHA_UI_dbfad0f243>
+  <RHA_UI_dc7a2b8283>\n还需 {0} 种；可补充：{1}</RHA_UI_dc7a2b8283>
+  <RHA_UI_dc89fbcedd>盛宴恢复</RHA_UI_dc89fbcedd>
+  <RHA_UI_dc97bd2bf6>生效与叠加</RHA_UI_dc97bd2bf6>
+  <RHA_UI_dccdd8d73c>护盾增加量；吸收伤害后另记护盾吸收。</RHA_UI_dccdd8d73c>
+  <RHA_UI_dcd00b9ab6>剩余敌人 {0} · 本轮剩余 {1} 天</RHA_UI_dcd00b9ab6>
+  <RHA_UI_dd53057bb9>已找到连锁目标，逐个结算伤害。</RHA_UI_dd53057bb9>
+  <RHA_UI_ddbb7bdf73>尚未满足条件</RHA_UI_ddbb7bdf73>
+  <RHA_UI_ddd6fa9105>未觉醒</RHA_UI_ddd6fa9105>
+  <RHA_UI_de3c9fbb1a>每次连击冷却除数 +{0}</RHA_UI_de3c9fbb1a>
+  <RHA_UI_df7a0b83fe>自动施放：开</RHA_UI_df7a0b83fe>
+  <RHA_UI_dfa2971883>守军无法继续战斗</RHA_UI_dfa2971883>
+  <RHA_UI_dfb802238b>已启用</RHA_UI_dfb802238b>
+  <RHA_UI_dfce60e268>辉耀体质</RHA_UI_dfce60e268>
+  <RHA_UI_dfd7c383ab>有效治疗 {0}/120 · </RHA_UI_dfd7c383ab>
+  <RHA_UI_dfeb36ab56>卡牌统计殖民地与所选殖民者；装备统计当前穿戴。停用只影响后续抽取。</RHA_UI_dfeb36ab56>
+  <RHA_UI_dff74742a6>另有 </RHA_UI_dff74742a6>
+  <RHA_UI_e010f4eec9>可补充：{0}</RHA_UI_e010f4eec9>
+  <RHA_UI_e0466e937e>附近出现敌人</RHA_UI_e0466e937e>
+  <RHA_UI_e0534b8a4e>恢复</RHA_UI_e0534b8a4e>
+  <RHA_UI_e0d4ae93dc>飞升！</RHA_UI_e0d4ae93dc>
+  <RHA_UI_e1450b9285>溢出治疗转护盾</RHA_UI_e1450b9285>
+  <RHA_UI_e14ec1f4c9>15 秒后开始第 {0} 轮。</RHA_UI_e14ec1f4c9>
+  <RHA_UI_e1a27cfe53>启用近期记录</RHA_UI_e1a27cfe53>
+  <RHA_UI_e1c88a657a>每击杀赏金</RHA_UI_e1c88a657a>
+  <RHA_UI_e22f158822>流派：当前构筑</RHA_UI_e22f158822>
+  <RHA_UI_e2680759a5>食肉成长</RHA_UI_e2680759a5>
+  <RHA_UI_e2b29327eb>目标、叠层上限或奖励卡池不满足要求。请更换目标或刷新候选。</RHA_UI_e2b29327eb>
+  <RHA_UI_e2c4c69327>（来源不足，休眠）</RHA_UI_e2c4c69327>
+  <RHA_UI_e3a72f9999>\n另有 {0} 项持续效果；状态条已计入全部数量。</RHA_UI_e3a72f9999>
+  <RHA_UI_e3cd2b2169>娱乐向预览版。强化可叠加，欢迎反馈构筑强度与成长节奏。</RHA_UI_e3cd2b2169>
+  <RHA_UI_e3da6bea14>定向打造「{0}」完成，已送到 {1} 附近。</RHA_UI_e3da6bea14>
+  <RHA_UI_e3fe0228ca>两次奖励最少间隔：{0} 天（首次也需等待）</RHA_UI_e3fe0228ca>
+  <RHA_UI_e43f3c910f>定义暂时不可用；层数保留在存档中。</RHA_UI_e43f3c910f>
+  <RHA_UI_e458a72f51>下轮 {0}</RHA_UI_e458a72f51>
+  <RHA_UI_e48162b986>魂印 +{0}/击杀</RHA_UI_e48162b986>
+  <RHA_UI_e4d1e567b8>休眠：</RHA_UI_e4d1e567b8>
+  <RHA_UI_e514a00599>神圣分离：有效命中触发伤害和治疗，基础间隔 2 秒，受装备急速缩短。</RHA_UI_e514a00599>
+  <RHA_UI_e5693a08ac>治疗增至 450，并为全图自由殖民者提供 500 点护盾，持续 12 秒。</RHA_UI_e5693a08ac>
+  <RHA_UI_e5eedf8021>已穿戴遗物的觉醒</RHA_UI_e5eedf8021>
+  <RHA_UI_e63d47eac6>显示全部结果</RHA_UI_e63d47eac6>
+  <RHA_UI_e63f8a23c0>主动结算</RHA_UI_e63f8a23c0>
+  <RHA_UI_e64a73768e>（生效）</RHA_UI_e64a73768e>
+  <RHA_UI_e67ac2b3df>试炼幻影</RHA_UI_e67ac2b3df>
+  <RHA_UI_e68f71cae3>射线宽度 3 格，长度 36 格；最多命中 16 名敌人。</RHA_UI_e68f71cae3>
+  <RHA_UI_e6fc16c9cd>三轮通关</RHA_UI_e6fc16c9cd>
+  <RHA_UI_e71a74c0c6>选择首个试炼祝福后，30 秒准备时间才会开始。</RHA_UI_e71a74c0c6>
+  <RHA_UI_e770a61a34>触发、成长或奖励效果 · 点击查看详情</RHA_UI_e770a61a34>
+  <RHA_UI_e79ea3031f>选择本场祝福 · 尚未开始传送倒计时</RHA_UI_e79ea3031f>
+  <RHA_UI_e7d9e09a1f>溢出治疗转化的护盾增加量，不计为治疗。</RHA_UI_e7d9e09a1f>
+  <RHA_UI_e85766a957>领取材料与所选遗物</RHA_UI_e85766a957>
+  <RHA_UI_e8892fab50>\n对站立敌人造成直接伤害才计数；约 0.17 秒内至多计数一次。</RHA_UI_e8892fab50>
+  <RHA_UI_e895645d4f>装备觉醒</RHA_UI_e895645d4f>
+  <RHA_UI_e89ed53342>\n首次觉醒需要 {0} 试炼精粹，现有 {1}</RHA_UI_e89ed53342>
+  <RHA_UI_e8f2a86dd3>试炼精英 · {0}</RHA_UI_e8f2a86dd3>
+  <RHA_UI_e93ee3c13b>英雄：{0}</RHA_UI_e93ee3c13b>
+  <RHA_UI_ea27870821>\n分解保护：已锁定</RHA_UI_ea27870821>
+  <RHA_UI_eab6b4fad8>连锁命中</RHA_UI_eab6b4fad8>
+  <RHA_UI_eaddc46783>消耗 10–50 枚魂印，向 16 格内最多 16 名敌人释放每枚魂印 30 点伤害。冷却 10 秒。</RHA_UI_eaddc46783>
+  <RHA_UI_eaf9296c35>进入游戏后可选择强化。</RHA_UI_eaf9296c35>
+  <RHA_UI_eb07f9ad60>技能冷却中，或穿戴者无法行动。</RHA_UI_eb07f9ad60>
+  <RHA_UI_eb3ac97524>累计可领：{0} 碎晶 / {1} 凝核 / {2} 试炼精粹。通过 {3} 阶段；历史最高通过 {4} 阶段。</RHA_UI_eb3ac97524>
+  <RHA_UI_eb5248a435>灼烧伤害</RHA_UI_eb5248a435>
+  <RHA_UI_eb64eb372e>悬赏「{0}」已完成，前往挑战悬赏领取材料。</RHA_UI_eb64eb372e>
+  <RHA_UI_ebbc499fc3>领取材料</RHA_UI_ebbc499fc3>
+  <RHA_UI_ec38ffb281>已拥有：{0}</RHA_UI_ec38ffb281>
+  <RHA_UI_ec3949abb5>有效击杀 {0} · 基础战力 {1} · 不同战斗 {2}</RHA_UI_ec3949abb5>
+  <RHA_UI_ec394ce96b>{0} 秒前{1}</RHA_UI_ec394ce96b>
+  <RHA_UI_ec607bad90>当前觉醒</RHA_UI_ec607bad90>
+  <RHA_UI_ecb3d554ce>{0} 时</RHA_UI_ecb3d554ce>
+  <RHA_UI_ed118205a7>显示自由发卡按钮（随时再来一轮）</RHA_UI_ed118205a7>
+  <RHA_UI_ed93ade7e8>每次叠钢 +{0}</RHA_UI_ed93ade7e8>
+  <RHA_UI_ee004193e5>已通过 {0} 轮，可领取 {1} 碎晶、{2} 凝核、{3} 试炼精粹。\n继续挑战会保留已赚取的材料；结算后发放一次。</RHA_UI_ee004193e5>
+  <RHA_UI_ef48d32a37>黄金敕令的剩余物资暂存待交付清单，基地出现空位后自动送达。</RHA_UI_ef48d32a37>
+  <RHA_UI_ef677c24e0>卡牌图鉴</RHA_UI_ef677c24e0>
+  <RHA_UI_ef8175241a>就绪即用</RHA_UI_ef8175241a>
+  <RHA_UI_f03b436a5c>含随机属性、额外抽卡或整组选取奖励。预览只计算本卡可确定的部分，附加收益在领取时产生。</RHA_UI_f03b436a5c>
+  <RHA_UI_f0f77eae7c>已移除的卡牌</RHA_UI_f0f77eae7c>
+  <RHA_UI_f100d3baf5>生产战技仅在玩家基地自动施放。</RHA_UI_f100d3baf5>
+  <RHA_UI_f1460dc61b>缺少的卡牌与装备：悬停查看完整清单。</RHA_UI_f1460dc61b>
+  <RHA_UI_f16922661c>选择强化</RHA_UI_f16922661c>
+  <RHA_UI_f18501ebe9>已交付白银 {0} · 黄金 {1}</RHA_UI_f18501ebe9>
+  <RHA_UI_f2a55b3bf5>坚毅恢复</RHA_UI_f2a55b3bf5>
+  <RHA_UI_f3555fef9c>需要一个有殖民者的己方地图来接收遗物。选卡已保留。</RHA_UI_f3555fef9c>
+  <RHA_UI_f35c0451ef>最多 {0} 层。</RHA_UI_f35c0451ef>
+  <RHA_UI_f3890b2771>{0} · {1} · 难度 {2}</RHA_UI_f3890b2771>
+  <RHA_UI_f3a781ff28>有效命中 {0}/{1} · </RHA_UI_f3a781ff28>
+  <RHA_UI_f3e3807df9>每名殖民者最多显示 {0} 件遗物外观（全部穿戴效果仍生效）</RHA_UI_f3e3807df9>
+  <RHA_UI_f42e8f0fd5>终极 · </RHA_UI_f42e8f0fd5>
+  <RHA_UI_f4cb8b9e46>{0}{1} · 第 {2} 轮 · {3} 名敌人\n敌种：{4}；精英：{5}\n{6}\n{7}体质 ×{8}{9}\n通过本轮累计：{10} 碎晶 / {11} 凝核 / {12} 试炼精粹</RHA_UI_f4cb8b9e46>
+  <RHA_UI_f55733da9a>物资已交付，悬赏完成，可领取材料。</RHA_UI_f55733da9a>
+  <RHA_UI_f589c62d4f>吸血 {0}%</RHA_UI_f589c62d4f>
+  <RHA_UI_f5aeecb1c5>没有匹配内容。可清空筛选，或选择其他殖民者、流派。休眠筛选只列出已获得但未满足来源条件的卡牌。</RHA_UI_f5aeecb1c5>
+  <RHA_UI_f5ffdd383d>升级至 {0} 级</RHA_UI_f5ffdd383d>
+  <RHA_UI_f66683a34b>本轮完成，可以继续或结算</RHA_UI_f66683a34b>
+  <RHA_UI_f6814fea99>当前生效</RHA_UI_f6814fea99>
+  <RHA_UI_f6ead54c97>{0} · {1}强化\n{2}{3}</RHA_UI_f6ead54c97>
+  <RHA_UI_f7e09c0164>可选择进化</RHA_UI_f7e09c0164>
+  <RHA_UI_f7fceef31d>来源说明  ›</RHA_UI_f7fceef31d>
+  <RHA_UI_f8022ab9ce>「{0}」升至 {1} 阶，每阶效果累加。</RHA_UI_f8022ab9ce>
+  <RHA_UI_f88a7fd436>月华攻速</RHA_UI_f88a7fd436>
+  <RHA_UI_f892a8c170>能力贡献</RHA_UI_f892a8c170>
+  <RHA_UI_f8caee7f66>每轮最多结算 16 名敌人。</RHA_UI_f8caee7f66>
+  <RHA_UI_f938e2ced5>个人 ×{0}</RHA_UI_f938e2ced5>
+  <RHA_UI_f9ed75c850>选择一件主题遗物并领取奖励。</RHA_UI_f9ed75c850>
+  <RHA_UI_fa42bb39d6>搜索范围内有效敌人 {0}/{1}；尚未达到人数门槛。</RHA_UI_fa42bb39d6>
+  <RHA_UI_fac263d815>选择「{0}」的基础进化，并维持 {1} 种来源。\n当前 {2}/{3} 种；可在“流派进化”查看缺少的来源。</RHA_UI_fac263d815>
+  <RHA_UI_fb84ee67eb>{0}{1}」难度 {2}？\n{3}每轮可结算离场；当前伤势正常保留。</RHA_UI_fb84ee67eb>
+  <RHA_UI_fb8be06b1a>施放时额外获得 30 枚魂印，立即参与本次伤害计算。</RHA_UI_fb8be06b1a>
+  <RHA_UI_fbdc35f1d3>连锁命中目标</RHA_UI_fbdc35f1d3>
+  <RHA_UI_fbf3951a8e>个人冷却</RHA_UI_fbf3951a8e>
+  <RHA_UI_fca329a7e5>选择祝福</RHA_UI_fca329a7e5>
+  <RHA_UI_fca5aea84d>暂不可施放</RHA_UI_fca5aea84d>
+  <RHA_UI_fcd90615aa>为这名殖民者穿戴拥有分支觉醒的遗物，使用后会累计成长。</RHA_UI_fcd90615aa>
+  <RHA_UI_fcda9133fa>移动恢复</RHA_UI_fcda9133fa>
+  <RHA_UI_fce1880f7b>暂无可觉醒的已穿戴遗物</RHA_UI_fce1880f7b>
+  <RHA_UI_fd81420018>单次承伤上限 {0}</RHA_UI_fd81420018>
+  <RHA_UI_fd896e92a0>需要一名自由殖民者查看战技。</RHA_UI_fd896e92a0>
+  <RHA_UI_fd960fbe99>构筑状态 · {0}</RHA_UI_fd960fbe99>
+  <RHA_UI_fe201ce3e0>每击杀成长 +{0}</RHA_UI_fe201ce3e0>
+  <RHA_UI_fecac3fff3>选择「{0}」</RHA_UI_fecac3fff3>
+  <RHA_UI_fed895a557>该主题的定义暂时缺失，奖励保留。</RHA_UI_fed895a557>
+  <RHA_UI_ff80260113>其余遗物请在强化详情中查看。\n</RHA_UI_ff80260113>
+  <RHA_UI_ff8b41c0b4>    尚未成型</RHA_UI_ff8b41c0b4>
+  <RHA_UI_ffdcf6bcb5>下次接取还需 {0} 天</RHA_UI_ffdcf6bcb5>
+</LanguageData>

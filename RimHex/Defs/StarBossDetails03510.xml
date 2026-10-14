@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <HediffDef>
+    <defName>RHA_StarBossDetail03510_thunder</defName><label>thunder commander marking</label>
+    <description>A cosmetic commander marking. It does not change the mechanoid's combat properties.</description>
+    <hediffClass>Hediff</hediffClass><initialSeverity>1</initialSeverity><isBad>false</isBad>
+    <tendable>false</tendable><everCurableByItem>false</everCurableByItem><scenarioCanAdd>false</scenarioCanAdd>
+    <priceImpact>false</priceImpact><forceRenderTreeRecache>true</forceRenderTreeRecache>
+    <renderNodeProperties><li Class="RimHex.HexStarBossAttachmentProperties03510">
+      <nodeClass>RimHex.HexStarBossMarkerNode03510</nodeClass>
+      <workerClass>RimHex.HexStarBossMarkerWorker03510</workerClass>
+      <parentTagDef>Body</parentTagDef><baseLayer>1</baseLayer>
+      <texPath>Pawns/StarBosses03510/thunder/v4-power-r1/Front</texPath>
+      <pairedTexPath>Pawns/StarBosses03510/thunder/v4-power-r1/Rear</pairedTexPath>
+      <drawSize>(1, 1)</drawSize><overrideMeshSize>(1, 1)</overrideMeshSize>
+    </li><li Class="RimHex.HexStarBossAttachmentProperties03510">
+      <nodeClass>RimHex.HexStarBossMarkerNode03510</nodeClass>
+      <workerClass>RimHex.HexStarBossMarkerWorker03510</workerClass>
+      <parentTagDef>Body</parentTagDef><baseLayer>-1</baseLayer>
+      <texPath>Pawns/StarBosses03510/thunder/v4-power-r1/Rear</texPath>
+      <pairedTexPath>Pawns/StarBosses03510/thunder/v4-power-r1/Front</pairedTexPath>
+      <drawSize>(1, 1)</drawSize><overrideMeshSize>(1, 1)</overrideMeshSize>
+    </li></renderNodeProperties>
+  </HediffDef>
+  <HediffDef>
+    <defName>RHA_StarBossDetail03510_flame</defName><label>flame commander marking</label>
+    <description>A cosmetic commander marking. It does not change the mechanoid's combat properties.</description>
+    <hediffClass>Hediff</hediffClass><initialSeverity>1</initialSeverity><isBad>false</isBad>
+    <tendable>false</tendable><everCurableByItem>false</everCurableByItem><scenarioCanAdd>false</scenarioCanAdd>
+    <priceImpact>false</priceImpact><forceRenderTreeRecache>true</forceRenderTreeRecache>
+    <renderNodeProperties>
+      <li Class="RimHex.HexStarBossAttachmentProperties03510">
+        <nodeClass>RimHex.HexStarBossMarkerNode03510</nodeClass>
+        <workerClass>RimHex.HexStarBossMarkerWorker03510</workerClass>
+        <parentTagDef>Body</parentTagDef><baseLayer>1</baseLayer>
+        <texPath>Pawns/StarBosses03510/flame/v4-final-r1/Front</texPath>
+        <pairedTexPath>Pawns/StarBosses03510/flame/v4-final-r1/Rear</pairedTexPath>
+        <drawSize>(1, 1)</drawSize><overrideMeshSize>(1, 1)</overrideMeshSize>
+      </li>
+      <li Class="RimHex.HexStarBossAttachmentProperties03510">
+        <nodeClass>RimHex.HexStarBossMarkerNode03510</nodeClass>
+        <workerClass>RimHex.HexStarBossMarkerWorker03510</workerClass>
+        <parentTagDef>Body</parentTagDef><baseLayer>-1</baseLayer>
+        <texPath>Pawns/StarBosses03510/flame/v4-final-r1/Rear</texPath>
+        <pairedTexPath>Pawns/StarBosses03510/flame/v4-final-r1/Front</pairedTexPath>
+        <drawSize>(1, 1)</drawSize><overrideMeshSize>(1, 1)</overrideMeshSize>
+      </li>
+    </renderNodeProperties>
+  </HediffDef>
+  <HediffDef>
+    <defName>RHA_StarBossDetail03510_blood</defName><label>blood commander marking</label>
+    <description>A cosmetic commander marking. It does not change the mechanoid's combat properties.</description>
+    <hediffClass>Hediff</hediffClass><initialSeverity>1</initialSeverity><isBad>false</isBad>
+    <tendable>false</tendable><everCurableByItem>false</everCurableByItem><scenarioCanAdd>false</scenarioCanAdd>
+    <priceImpact>false</priceImpact><forceRenderTreeRecache>true</forceRenderTreeRecache>
+    <renderNodeProperties>
+      <li Class="RimHex.HexStarBossAttachmentProperties03510">
+        <nodeClass>RimHex.HexStarBossMarkerNode03510</nodeClass>
+        <workerClass>RimHex.HexStarBossMarkerWorker03510</workerClass>
+        <parentTagDef>Body</parentTagDef><baseLayer>1</baseLayer>
+        <texPath>Pawns/StarBosses03510/blood/v4-final-r1/Front</texPath>
+        <pairedTexPath>Pawns/StarBosses03510/blood/v4-final-r1/Rear</pairedTexPath>
+        <drawSize>(1, 1)</drawSize><overrideMeshSize>(1, 1)</overrideMeshSize>
+      </li>
+      <li Class="RimHex.HexStarBossAttachmentProperties03510">
+        <nodeClass>RimHex.HexStarBossMarkerNode03510</nodeClass>
+        <workerClass>RimHex.HexStarBossMarkerWorker03510</workerClass>
+        <parentTagDef>Body</parentTagDef><baseLayer>-1</baseLayer>
+        <texPath>Pawns/StarBosses03510/blood/v4-final-r1/Rear</texPath>
+        <pairedTexPath>Pawns/StarBosses03510/blood/v4-final-r1/Front</pairedTexPath>
+        <drawSize>(1, 1)</drawSize><overrideMeshSize>(1, 1)</overrideMeshSize>
+      </li>
+    </renderNodeProperties>
+  </HediffDef>
+  <HediffDef>
+    <defName>RHA_StarBossDetail03510_titan</defName><label>titan commander marking</label>
+    <description>A cosmetic commander marking. It does not change the mechanoid's combat properties.</description>
+    <hediffClass>Hediff</hediffClass><initialSeverity>1</initialSeverity><isBad>false</isBad>
+    <tendable>false</tendable><everCurableByItem>false</everCurableByItem><scenarioCanAdd>false</scenarioCanAdd>
+    <priceImpact>false</priceImpact><forceRenderTreeRecache>true</forceRenderTreeRecache>
+    <renderNodeProperties>
+      <li Class="RimHex.HexStarBossAttachmentProperties03510">
+        <nodeClass>RimHex.HexStarBossMarkerNode03510</nodeClass>
+        <workerClass>RimHex.HexStarBossMarkerWorker03510</workerClass>
+        <parentTagDef>Body</parentTagDef><baseLayer>1</baseLayer>
+        <texPath>Pawns/StarBosses03510/titan/v4-r6/Front</texPath>
+        <pairedTexPath>Pawns/StarBosses03510/titan/v4-r6/Rear</pairedTexPath>
+        <drawSize>(1, 1)</drawSize><overrideMeshSize>(1, 1)</overrideMeshSize>
+      </li>
+      <li Class="RimHex.HexStarBossAttachmentProperties03510">
+        <nodeClass>RimHex.HexStarBossMarkerNode03510</nodeClass>
+        <workerClass>RimHex.HexStarBossMarkerWorker03510</workerClass>
+        <parentTagDef>Body</parentTagDef><baseLayer>-1</baseLayer>
+        <texPath>Pawns/StarBosses03510/titan/v4-r6/Rear</texPath>
+        <pairedTexPath>Pawns/StarBosses03510/titan/v4-r6/Front</pairedTexPath>
+        <drawSize>(1, 1)</drawSize><overrideMeshSize>(1, 1)</overrideMeshSize>
+      </li>
+    </renderNodeProperties>
+  </HediffDef>
+  <HediffDef>
+    <defName>RHA_StarBossDetail03510_frost</defName><label>frost commander marking</label>
+    <description>A cosmetic commander marking. It does not change the mechanoid's combat properties.</description>
+    <hediffClass>Hediff</hediffClass><initialSeverity>1</initialSeverity><isBad>false</isBad>
+    <tendable>false</tendable><everCurableByItem>false</everCurableByItem><scenarioCanAdd>false</scenarioCanAdd>
+    <priceImpact>false</priceImpact><forceRenderTreeRecache>true</forceRenderTreeRecache>
+    <renderNodeProperties>
+      <li Class="RimHex.HexStarBossAttachmentProperties03510">
+        <nodeClass>RimHex.HexStarBossMarkerNode03510</nodeClass>
+        <workerClass>RimHex.HexStarBossMarkerWorker03510</workerClass>
+        <parentTagDef>Body</parentTagDef><baseLayer>1</baseLayer>
+        <texPath>Pawns/StarBosses03510/frost/v4-final-r1/Front</texPath>
+        <pairedTexPath>Pawns/StarBosses03510/frost/v4-final-r1/Rear</pairedTexPath>
+        <drawSize>(1, 1)</drawSize><overrideMeshSize>(1, 1)</overrideMeshSize>
+      </li>
+      <li Class="RimHex.HexStarBossAttachmentProperties03510">
+        <nodeClass>RimHex.HexStarBossMarkerNode03510</nodeClass>
+        <workerClass>RimHex.HexStarBossMarkerWorker03510</workerClass>
+        <parentTagDef>Body</parentTagDef><baseLayer>-1</baseLayer>
+        <texPath>Pawns/StarBosses03510/frost/v4-final-r1/Rear</texPath>
+        <pairedTexPath>Pawns/StarBosses03510/frost/v4-final-r1/Front</pairedTexPath>
+        <drawSize>(1, 1)</drawSize><overrideMeshSize>(1, 1)</overrideMeshSize>
+      </li>
+    </renderNodeProperties>
+  </HediffDef>
+  <HediffDef>
+    <defName>RHA_StarBossDetail03510_blade</defName><label>blade commander marking</label>
+    <description>A cosmetic commander marking. It does not change the mechanoid's combat properties.</description>
+    <hediffClass>Hediff</hediffClass><initialSeverity>1</initialSeverity><isBad>false</isBad>
+    <tendable>false</tendable><everCurableByItem>false</everCurableByItem><scenarioCanAdd>false</scenarioCanAdd>
+    <priceImpact>false</priceImpact><forceRenderTreeRecache>true</forceRenderTreeRecache>
+    <renderNodeProperties>
+      <li Class="RimHex.HexStarBossAttachmentProperties03510">
+        <nodeClass>RimHex.HexStarBossMarkerNode03510</nodeClass>
+        <workerClass>RimHex.HexStarBossMarkerWorker03510</workerClass>
+        <parentTagDef>Body</parentTagDef><baseLayer>1</baseLayer>
+        <texPath>Pawns/StarBosses03510/blade/v4-r6-origin-r1/Front</texPath>
+        <pairedTexPath>Pawns/StarBosses03510/blade/v4-r6-origin-r1/Rear</pairedTexPath>
+        <attachmentOriginContract>blade-front-south-v3-origin-r1</attachmentOriginContract>
+        <drawSize>(1, 1)</drawSize><overrideMeshSize>(1, 1)</overrideMeshSize>
+      </li>
+      <li Class="RimHex.HexStarBossAttachmentProperties03510">
+        <nodeClass>RimHex.HexStarBossMarkerNode03510</nodeClass>
+        <workerClass>RimHex.HexStarBossMarkerWorker03510</workerClass>
+        <parentTagDef>Body</parentTagDef><baseLayer>-1</baseLayer>
+        <texPath>Pawns/StarBosses03510/blade/v4-r6-origin-r1/Rear</texPath>
+        <pairedTexPath>Pawns/StarBosses03510/blade/v4-r6-origin-r1/Front</pairedTexPath>
+        <attachmentOriginContract>blade-front-south-v3-origin-r1</attachmentOriginContract>
+        <drawSize>(1, 1)</drawSize><overrideMeshSize>(1, 1)</overrideMeshSize>
+      </li>
+    </renderNodeProperties>
+  </HediffDef>
+  <HediffDef>
+    <defName>RHA_StarBossDetail03510_marksman</defName><label>marksman commander marking</label>
+    <description>A cosmetic commander marking. It does not change the mechanoid's combat properties.</description>
+    <hediffClass>Hediff</hediffClass><initialSeverity>1</initialSeverity><isBad>false</isBad>
+    <tendable>false</tendable><everCurableByItem>false</everCurableByItem><scenarioCanAdd>false</scenarioCanAdd>
+    <priceImpact>false</priceImpact><forceRenderTreeRecache>true</forceRenderTreeRecache>
+    <renderNodeProperties><li Class="RimHex.HexStarBossAttachmentProperties03510">
+      <nodeClass>RimHex.HexStarBossMarkerNode03510</nodeClass>
+      <workerClass>RimHex.HexStarBossMarkerWorker03510</workerClass>
+      <parentTagDef>Body</parentTagDef><baseLayer>1</baseLayer>
+      <texPath>Pawns/StarBosses03510/marksman/v4-bilateral/Front</texPath>
+      <pairedTexPath>Pawns/StarBosses03510/marksman/v4-bilateral/Rear</pairedTexPath>
+      <drawSize>(1, 1)</drawSize><overrideMeshSize>(1, 1)</overrideMeshSize>
+    </li><li Class="RimHex.HexStarBossAttachmentProperties03510">
+      <nodeClass>RimHex.HexStarBossMarkerNode03510</nodeClass>
+      <workerClass>RimHex.HexStarBossMarkerWorker03510</workerClass>
+      <parentTagDef>Body</parentTagDef><baseLayer>-1</baseLayer>
+      <texPath>Pawns/StarBosses03510/marksman/v4-bilateral/Rear</texPath>
+      <pairedTexPath>Pawns/StarBosses03510/marksman/v4-bilateral/Front</pairedTexPath>
+      <drawSize>(1, 1)</drawSize><overrideMeshSize>(1, 1)</overrideMeshSize>
+    </li></renderNodeProperties>
+  </HediffDef>
+  <HediffDef>
+    <defName>RHA_StarBossDetail03510_spirit</defName><label>spirit commander marking</label>
+    <description>A cosmetic commander marking. It does not change the mechanoid's combat properties.</description>
+    <hediffClass>Hediff</hediffClass><initialSeverity>1</initialSeverity><isBad>false</isBad>
+    <tendable>false</tendable><everCurableByItem>false</everCurableByItem><scenarioCanAdd>false</scenarioCanAdd>
+    <priceImpact>false</priceImpact><forceRenderTreeRecache>true</forceRenderTreeRecache>
+    <renderNodeProperties><li Class="RimHex.HexStarBossAttachmentProperties03510">
+      <nodeClass>RimHex.HexStarBossMarkerNode03510</nodeClass>
+      <workerClass>RimHex.HexStarBossMarkerWorker03510</workerClass>
+      <parentTagDef>Body</parentTagDef><baseLayer>1</baseLayer>
+      <texPath>Pawns/StarBosses03510/spirit/v4-seal-r1/Front</texPath>
+      <pairedTexPath>Pawns/StarBosses03510/spirit/v4-seal-r1/Rear</pairedTexPath>
+      <drawSize>(1, 1)</drawSize><overrideMeshSize>(1, 1)</overrideMeshSize>
+    </li><li Class="RimHex.HexStarBossAttachmentProperties03510">
+      <nodeClass>RimHex.HexStarBossMarkerNode03510</nodeClass>
+      <workerClass>RimHex.HexStarBossMarkerWorker03510</workerClass>
+      <parentTagDef>Body</parentTagDef><baseLayer>-1</baseLayer>
+      <texPath>Pawns/StarBosses03510/spirit/v4-seal-r1/Rear</texPath>
+      <pairedTexPath>Pawns/StarBosses03510/spirit/v4-seal-r1/Front</pairedTexPath>
+      <drawSize>(1, 1)</drawSize><overrideMeshSize>(1, 1)</overrideMeshSize>
+    </li></renderNodeProperties>
+  </HediffDef>
+  <HediffDef>
+    <defName>RHA_StarBossDetail03510_guardian</defName><label>guardian commander marking</label>
+    <description>A cosmetic commander marking. It does not change the mechanoid's combat properties.</description>
+    <hediffClass>Hediff</hediffClass><initialSeverity>1</initialSeverity><isBad>false</isBad>
+    <tendable>false</tendable><everCurableByItem>false</everCurableByItem><scenarioCanAdd>false</scenarioCanAdd>
+    <priceImpact>false</priceImpact><forceRenderTreeRecache>true</forceRenderTreeRecache>
+    <renderNodeProperties>
+      <li Class="RimHex.HexStarBossAttachmentProperties03510">
+        <nodeClass>RimHex.HexStarBossMarkerNode03510</nodeClass>
+        <workerClass>RimHex.HexStarBossMarkerWorker03510</workerClass>
+        <parentTagDef>Body</parentTagDef><baseLayer>1</baseLayer>
+        <texPath>Pawns/StarBosses03510/guardian/v4-final-r1/Front</texPath>
+        <pairedTexPath>Pawns/StarBosses03510/guardian/v4-final-r1/Rear</pairedTexPath>
+        <drawSize>(1, 1)</drawSize><overrideMeshSize>(1, 1)</overrideMeshSize>
+      </li>
+      <li Class="RimHex.HexStarBossAttachmentProperties03510">
+        <nodeClass>RimHex.HexStarBossMarkerNode03510</nodeClass>
+        <workerClass>RimHex.HexStarBossMarkerWorker03510</workerClass>
+        <parentTagDef>Body</parentTagDef><baseLayer>-1</baseLayer>
+        <texPath>Pawns/StarBosses03510/guardian/v4-final-r1/Rear</texPath>
+        <pairedTexPath>Pawns/StarBosses03510/guardian/v4-final-r1/Front</pairedTexPath>
+        <drawSize>(1, 1)</drawSize><overrideMeshSize>(1, 1)</overrideMeshSize>
+      </li>
+    </renderNodeProperties>
+  </HediffDef>
+</Defs>

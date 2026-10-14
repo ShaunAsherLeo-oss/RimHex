@@ -1,0 +1,562 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Defs>
+  <RimHex.HexRuinEventDef>
+    <defName>RHA_RuinEvent_Forge1</defName>
+    <label>Power cabinet</label>
+    <description>The factory is dark, but the backup circuit still carries a faint charge.</description>
+    <choices>
+      <li>
+        <label>Repair the circuit</label>
+        <description>Replace the burnt contacts and restore controlled power.</description>
+        <outcome>The work is complete. Recovered supplies have been placed beside the facility.</outcome>
+        <skill>Construction</skill>
+        <skillLevel>8</skillLevel>
+        <path>RHA_Path_Industry</path>
+        <cost>ComponentIndustrial</cost>
+        <costCount>2</costCount>
+        <reward>Steel</reward>
+        <rewardCount>120</rewardCount>
+        <guards>0</guards>
+        <workTicks>1200</workTicks>
+        <salvage>false</salvage>
+      </li>
+      <li>
+        <label>Bridge the safety relay</label>
+        <description>Power returns at once. The security machines will wake with it.</description>
+        <outcome>The security machines are active. Defeat them to secure the supplies.</outcome>
+        <skillLevel>0</skillLevel>
+        <costCount>0</costCount>
+        <reward>Steel</reward>
+        <rewardCount>200</rewardCount>
+        <guards>2</guards>
+        <workTicks>1200</workTicks>
+        <salvage>false</salvage>
+      </li>
+      <li>
+        <label>Strip the wiring</label>
+        <description>Take the copper and leave the cabinet dead.</description>
+        <outcome>The work is complete. Recovered supplies have been placed beside the facility.</outcome>
+        <skillLevel>0</skillLevel>
+        <costCount>0</costCount>
+        <reward>Steel</reward>
+        <rewardCount>90</rewardCount>
+        <guards>0</guards>
+        <workTicks>600</workTicks>
+        <salvage>true</salvage>
+      </li>
+    </choices>
+  </RimHex.HexRuinEventDef>
+  <RimHex.HexRuinEventDef>
+    <defName>RHA_RuinEvent_Forge2</defName>
+    <label>Pressure manifold</label>
+    <description>Hot coolant knocks against a bank of jammed valves.</description>
+    <choices>
+      <li>
+        <label>Bleed and reseal</label>
+        <description>Fit new seals and recover the metal caught in the filters.</description>
+        <outcome>The work is complete. Recovered supplies have been placed beside the facility.</outcome>
+        <skill>Crafting</skill>
+        <skillLevel>10</skillLevel>
+        <path>RHA_Path_Flame</path>
+        <cost>Steel</cost>
+        <costCount>40</costCount>
+        <reward>Steel</reward>
+        <rewardCount>300</rewardCount>
+        <guards>0</guards>
+        <workTicks>1200</workTicks>
+        <salvage>false</salvage>
+      </li>
+      <li>
+        <label>Run an overpressure cycle</label>
+        <description>Force the line to flush itself. Its maintenance guard will treat you as an obstruction.</description>
+        <outcome>The security machines are active. Defeat them to secure the supplies.</outcome>
+        <skillLevel>0</skillLevel>
+        <costCount>0</costCount>
+        <reward>Plasteel</reward>
+        <rewardCount>60</rewardCount>
+        <guards>3</guards>
+        <workTicks>1200</workTicks>
+        <salvage>false</salvage>
+      </li>
+      <li>
+        <label>Drain the coolant</label>
+        <description>Bottle what remains. The dry manifold will seize permanently.</description>
+        <outcome>The work is complete. Recovered supplies have been placed beside the facility.</outcome>
+        <skillLevel>0</skillLevel>
+        <costCount>0</costCount>
+        <reward>Chemfuel</reward>
+        <rewardCount>90</rewardCount>
+        <guards>0</guards>
+        <workTicks>600</workTicks>
+        <salvage>true</salvage>
+      </li>
+    </choices>
+  </RimHex.HexRuinEventDef>
+  <RimHex.HexRuinEventDef>
+    <defName>RHA_RuinEvent_Forge3</defName>
+    <label>Assembly arm</label>
+    <description>A heavy manipulator hangs over an unfinished alloy casting.</description>
+    <choices>
+      <li>
+        <label>Rebuild the actuator</label>
+        <description>Restore the arm and let it finish its last assembly order.</description>
+        <outcome>The work is complete. Recovered supplies have been placed beside the facility.</outcome>
+        <skill>Construction</skill>
+        <skillLevel>12</skillLevel>
+        <path>RHA_Path_Titan</path>
+        <cost>ComponentIndustrial</cost>
+        <costCount>3</costCount>
+        <reward>ComponentIndustrial</reward>
+        <rewardCount>8</rewardCount>
+        <guards>0</guards>
+        <workTicks>1200</workTicks>
+        <salvage>false</salvage>
+      </li>
+      <li>
+        <label>Feed the emergency hopper</label>
+        <description>Feed fresh steel into the line. The restarting foundry will summon its guards.</description>
+        <outcome>The security machines are active. Defeat them to secure the supplies.</outcome>
+        <skillLevel>0</skillLevel>
+        <cost>Steel</cost>
+        <costCount>80</costCount>
+        <reward>Plasteel</reward>
+        <rewardCount>90</rewardCount>
+        <guards>2</guards>
+        <workTicks>1200</workTicks>
+        <salvage>false</salvage>
+      </li>
+      <li>
+        <label>Cut down the arm</label>
+        <description>Recover its frame as scrap. The casting cannot be completed.</description>
+        <outcome>The work is complete. Recovered supplies have been placed beside the facility.</outcome>
+        <skillLevel>0</skillLevel>
+        <costCount>0</costCount>
+        <reward>Steel</reward>
+        <rewardCount>160</rewardCount>
+        <guards>0</guards>
+        <workTicks>600</workTicks>
+        <salvage>true</salvage>
+      </li>
+    </choices>
+  </RimHex.HexRuinEventDef>
+  <RimHex.HexRuinEventDef>
+    <defName>RHA_RuinEvent_Forge4</defName>
+    <label>Furnace regulator</label>
+    <description>The regulator controls the sealed compartment beneath the furnace.</description>
+    <choices>
+      <li>
+        <label>Fit a new regulator</label>
+        <description>Replace the corroded contacts and open the compartment without a surge.</description>
+        <outcome>The work is complete. Recovered supplies have been placed beside the facility.</outcome>
+        <skill>Crafting</skill>
+        <skillLevel>12</skillLevel>
+        <path>RHA_Path_Industry</path>
+        <cost>Gold</cost>
+        <costCount>40</costCount>
+        <reward>Gold</reward>
+        <rewardCount>80</rewardCount>
+        <guards>0</guards>
+        <workTicks>1200</workTicks>
+        <salvage>false</salvage>
+      </li>
+      <li>
+        <label>Override the furnace lock</label>
+        <description>Release the lock. The remaining security detail will converge here.</description>
+        <outcome>The security machines are active. Defeat them to secure the supplies.</outcome>
+        <skillLevel>0</skillLevel>
+        <costCount>0</costCount>
+        <reward>Gold</reward>
+        <rewardCount>120</rewardCount>
+        <guards>5</guards>
+        <workTicks>1200</workTicks>
+        <salvage>false</salvage>
+      </li>
+      <li>
+        <label>Cut out the regulator</label>
+        <description>Take its components. The sealed instruments will lose their calibration.</description>
+        <outcome>The work is complete. Recovered supplies have been placed beside the facility.</outcome>
+        <skillLevel>0</skillLevel>
+        <costCount>0</costCount>
+        <reward>ComponentIndustrial</reward>
+        <rewardCount>12</rewardCount>
+        <guards>0</guards>
+        <workTicks>600</workTicks>
+        <salvage>true</salvage>
+      </li>
+    </choices>
+  </RimHex.HexRuinEventDef>
+  <RimHex.HexRuinEventDef>
+    <defName>RHA_RuinEvent_Archive1</defName>
+    <label>Damaged terminal</label>
+    <description>The screen repeats a request for credentials that no longer exist.</description>
+    <choices>
+      <li>
+        <label>Reconstruct the credentials</label>
+        <description>Repair the damaged memory and recover a valid access record.</description>
+        <outcome>The work is complete. Recovered supplies have been placed beside the facility.</outcome>
+        <skill>Intellectual</skill>
+        <skillLevel>8</skillLevel>
+        <path>RHA_Path_Spirit</path>
+        <cost>ComponentIndustrial</cost>
+        <costCount>2</costCount>
+        <reward>MedicineIndustrial</reward>
+        <rewardCount>6</rewardCount>
+        <guards>0</guards>
+        <workTicks>1200</workTicks>
+        <salvage>false</salvage>
+      </li>
+      <li>
+        <label>Restart the security network</label>
+        <description>A full restart restores access and wakes the machines watching it.</description>
+        <outcome>The security machines are active. Defeat them to secure the supplies.</outcome>
+        <skillLevel>0</skillLevel>
+        <costCount>0</costCount>
+        <reward>Plasteel</reward>
+        <rewardCount>40</rewardCount>
+        <guards>2</guards>
+        <workTicks>1200</workTicks>
+        <salvage>false</salvage>
+      </li>
+      <li>
+        <label>Erase the access controller</label>
+        <description>Strip the terminal for saleable parts. Its access records are lost.</description>
+        <outcome>The work is complete. Recovered supplies have been placed beside the facility.</outcome>
+        <skillLevel>0</skillLevel>
+        <costCount>0</costCount>
+        <reward>Silver</reward>
+        <rewardCount>160</rewardCount>
+        <guards>0</guards>
+        <workTicks>600</workTicks>
+        <salvage>true</salvage>
+      </li>
+    </choices>
+  </RimHex.HexRuinEventDef>
+  <RimHex.HexRuinEventDef>
+    <defName>RHA_RuinEvent_Archive2</defName>
+    <label>Medical chamber</label>
+    <description>The chamber still has power. Its instruments have not been sterilized in years.</description>
+    <choices>
+      <li>
+        <label>Sterilize and recalibrate</label>
+        <description>Use fresh medicine to clean the chamber and recover the sealed supplies.</description>
+        <outcome>The work is complete. Recovered supplies have been placed beside the facility.</outcome>
+        <skill>Medicine</skill>
+        <skillLevel>10</skillLevel>
+        <path>RHA_Path_Harvest</path>
+        <cost>MedicineIndustrial</cost>
+        <costCount>4</costCount>
+        <reward>MedicineUltratech</reward>
+        <rewardCount>6</rewardCount>
+        <guards>0</guards>
+        <workTicks>1200</workTicks>
+        <salvage>false</salvage>
+      </li>
+      <li>
+        <label>Trigger the emergency release</label>
+        <description>Open every compartment. The contaminated-equipment alarm will call the guards.</description>
+        <outcome>The security machines are active. Defeat them to secure the supplies.</outcome>
+        <skillLevel>0</skillLevel>
+        <costCount>0</costCount>
+        <reward>MedicineUltratech</reward>
+        <rewardCount>9</rewardCount>
+        <guards>3</guards>
+        <workTicks>1200</workTicks>
+        <salvage>false</salvage>
+      </li>
+      <li>
+        <label>Drain the reserve tanks</label>
+        <description>Recover fuel from the service tanks and abandon the medical instruments.</description>
+        <outcome>The work is complete. Recovered supplies have been placed beside the facility.</outcome>
+        <skillLevel>0</skillLevel>
+        <costCount>0</costCount>
+        <reward>Chemfuel</reward>
+        <rewardCount>60</rewardCount>
+        <guards>0</guards>
+        <workTicks>600</workTicks>
+        <salvage>true</salvage>
+      </li>
+    </choices>
+  </RimHex.HexRuinEventDef>
+  <RimHex.HexRuinEventDef>
+    <defName>RHA_RuinEvent_Archive3</defName>
+    <label>Crystal instrument</label>
+    <description>Several misaligned lenses split the instrument beam across the room.</description>
+    <choices>
+      <li>
+        <label>Align the crystal array</label>
+        <description>Replace the worn conductors and bring the readings back into focus.</description>
+        <outcome>The work is complete. Recovered supplies have been placed beside the facility.</outcome>
+        <skill>Intellectual</skill>
+        <skillLevel>12</skillLevel>
+        <path>RHA_Path_Frost</path>
+        <cost>Gold</cost>
+        <costCount>30</costCount>
+        <reward>ComponentSpacer</reward>
+        <rewardCount>4</rewardCount>
+        <guards>0</guards>
+        <workTicks>1200</workTicks>
+        <salvage>false</salvage>
+      </li>
+      <li>
+        <label>Rebuild the lens mount</label>
+        <description>A steady hand can restore the optics without disturbing the stored data.</description>
+        <outcome>The work is complete. Recovered supplies have been placed beside the facility.</outcome>
+        <skill>Crafting</skill>
+        <skillLevel>10</skillLevel>
+        <path>RHA_Path_Marksman</path>
+        <cost>ComponentIndustrial</cost>
+        <costCount>3</costCount>
+        <reward>ComponentSpacer</reward>
+        <rewardCount>3</rewardCount>
+        <guards>0</guards>
+        <workTicks>1200</workTicks>
+        <salvage>false</salvage>
+      </li>
+      <li>
+        <label>Break down the instrument</label>
+        <description>Take the alloy casing. The measurements will be lost.</description>
+        <outcome>The work is complete. Recovered supplies have been placed beside the facility.</outcome>
+        <skillLevel>0</skillLevel>
+        <costCount>0</costCount>
+        <reward>Plasteel</reward>
+        <rewardCount>80</rewardCount>
+        <guards>0</guards>
+        <workTicks>600</workTicks>
+        <salvage>true</salvage>
+      </li>
+    </choices>
+  </RimHex.HexRuinEventDef>
+  <RimHex.HexRuinEventDef>
+    <defName>RHA_RuinEvent_Archive4</defName>
+    <label>Sealed archive</label>
+    <description>The final storage array is isolated behind an independent security system.</description>
+    <choices>
+      <li>
+        <label>Restore the archive index</label>
+        <description>Repair the storage controller and recover the intact inventory records.</description>
+        <outcome>The work is complete. Recovered supplies have been placed beside the facility.</outcome>
+        <skill>Intellectual</skill>
+        <skillLevel>14</skillLevel>
+        <path>RHA_Path_Spirit</path>
+        <cost>ComponentSpacer</cost>
+        <costCount>2</costCount>
+        <reward>Silver</reward>
+        <rewardCount>900</rewardCount>
+        <guards>0</guards>
+        <workTicks>1200</workTicks>
+        <salvage>false</salvage>
+      </li>
+      <li>
+        <label>Challenge the security system</label>
+        <description>Bypass the lock and defeat the archive guardians.</description>
+        <outcome>The security machines are active. Defeat them to secure the supplies.</outcome>
+        <skillLevel>0</skillLevel>
+        <costCount>0</costCount>
+        <reward>ComponentSpacer</reward>
+        <rewardCount>8</rewardCount>
+        <guards>4</guards>
+        <workTicks>1200</workTicks>
+        <salvage>false</salvage>
+      </li>
+      <li>
+        <label>Salvage the storage array</label>
+        <description>Sellable parts remain, but the records will not survive removal.</description>
+        <outcome>The work is complete. Recovered supplies have been placed beside the facility.</outcome>
+        <skillLevel>0</skillLevel>
+        <costCount>0</costCount>
+        <reward>Silver</reward>
+        <rewardCount>600</rewardCount>
+        <guards>0</guards>
+        <workTicks>600</workTicks>
+        <salvage>true</salvage>
+      </li>
+    </choices>
+  </RimHex.HexRuinEventDef>
+  <RimHex.HexRuinEventDef>
+    <defName>RHA_RuinEvent_Vault1</defName>
+    <label>Armored entrance</label>
+    <description>A twisted locking bar holds the armory doors shut.</description>
+    <choices>
+      <li>
+        <label>Replace the locking bar</label>
+        <description>Brace the frame and remove the jammed mechanism.</description>
+        <outcome>The work is complete. Recovered supplies have been placed beside the facility.</outcome>
+        <skill>Construction</skill>
+        <skillLevel>9</skillLevel>
+        <path>RHA_Path_Titan</path>
+        <cost>Steel</cost>
+        <costCount>80</costCount>
+        <reward>Silver</reward>
+        <rewardCount>200</rewardCount>
+        <guards>0</guards>
+        <workTicks>1200</workTicks>
+        <salvage>false</salvage>
+      </li>
+      <li>
+        <label>Force the entrance</label>
+        <description>The door will open. Its intrusion alarm is still working.</description>
+        <outcome>The security machines are active. Defeat them to secure the supplies.</outcome>
+        <skillLevel>0</skillLevel>
+        <costCount>0</costCount>
+        <reward>Steel</reward>
+        <rewardCount>240</rewardCount>
+        <guards>3</guards>
+        <workTicks>1200</workTicks>
+        <salvage>false</salvage>
+      </li>
+      <li>
+        <label>Strip the outer lockers</label>
+        <description>Take what is accessible and destroy the door controls.</description>
+        <outcome>The work is complete. Recovered supplies have been placed beside the facility.</outcome>
+        <skillLevel>0</skillLevel>
+        <costCount>0</costCount>
+        <reward>Silver</reward>
+        <rewardCount>120</rewardCount>
+        <guards>0</guards>
+        <workTicks>600</workTicks>
+        <salvage>true</salvage>
+      </li>
+    </choices>
+  </RimHex.HexRuinEventDef>
+  <RimHex.HexRuinEventDef>
+    <defName>RHA_RuinEvent_Vault2</defName>
+    <label>Quartermaster terminal</label>
+    <description>An automated quartermaster offers to settle a very old supply account.</description>
+    <choices>
+      <li>
+        <label>Negotiate a settlement</label>
+        <description>Pay a reduced fee and obtain a valid supply receipt.</description>
+        <outcome>The work is complete. Recovered supplies have been placed beside the facility.</outcome>
+        <skill>Social</skill>
+        <skillLevel>10</skillLevel>
+        <path>RHA_Path_Wealth</path>
+        <cost>Silver</cost>
+        <costCount>350</costCount>
+        <reward>Gold</reward>
+        <rewardCount>70</rewardCount>
+        <guards>0</guards>
+        <workTicks>1200</workTicks>
+        <salvage>false</salvage>
+      </li>
+      <li>
+        <label>Repair the account reader</label>
+        <description>Recover an unexpired requisition from the damaged reader.</description>
+        <outcome>The work is complete. Recovered supplies have been placed beside the facility.</outcome>
+        <skill>Intellectual</skill>
+        <skillLevel>10</skillLevel>
+        <path>RHA_Path_Industry</path>
+        <cost>ComponentIndustrial</cost>
+        <costCount>3</costCount>
+        <reward>Gold</reward>
+        <rewardCount>55</rewardCount>
+        <guards>0</guards>
+        <workTicks>1200</workTicks>
+        <salvage>false</salvage>
+      </li>
+      <li>
+        <label>Empty the service racks</label>
+        <description>Take the structural steel and abandon the supply account.</description>
+        <outcome>The work is complete. Recovered supplies have been placed beside the facility.</outcome>
+        <skillLevel>0</skillLevel>
+        <costCount>0</costCount>
+        <reward>Steel</reward>
+        <rewardCount>120</rewardCount>
+        <guards>0</guards>
+        <workTicks>600</workTicks>
+        <salvage>true</salvage>
+      </li>
+    </choices>
+  </RimHex.HexRuinEventDef>
+  <RimHex.HexRuinEventDef>
+    <defName>RHA_RuinEvent_Vault3</defName>
+    <label>Containment station</label>
+    <description>The work station is covered in a chemical residue. A security patrol is docked beside it.</description>
+    <choices>
+      <li>
+        <label>Decontaminate the station</label>
+        <description>Clean the controls and recover the sealed emergency supplies.</description>
+        <outcome>The work is complete. Recovered supplies have been placed beside the facility.</outcome>
+        <skill>Medicine</skill>
+        <skillLevel>10</skillLevel>
+        <path>RHA_Path_Blood</path>
+        <cost>MedicineIndustrial</cost>
+        <costCount>3</costCount>
+        <reward>MedicineUltratech</reward>
+        <rewardCount>5</rewardCount>
+        <guards>0</guards>
+        <workTicks>1200</workTicks>
+        <salvage>false</salvage>
+      </li>
+      <li>
+        <label>Activate the patrol exercise</label>
+        <description>Defeat the patrol to obtain its clearance.</description>
+        <outcome>The security machines are active. Defeat them to secure the supplies.</outcome>
+        <skillLevel>0</skillLevel>
+        <costCount>0</costCount>
+        <reward>Plasteel</reward>
+        <rewardCount>120</rewardCount>
+        <guards>4</guards>
+        <workTicks>1200</workTicks>
+        <salvage>false</salvage>
+      </li>
+      <li>
+        <label>Cut the station feed</label>
+        <description>Take the power components and leave the station inert.</description>
+        <outcome>The work is complete. Recovered supplies have been placed beside the facility.</outcome>
+        <skillLevel>0</skillLevel>
+        <costCount>0</costCount>
+        <reward>ComponentIndustrial</reward>
+        <rewardCount>6</rewardCount>
+        <guards>0</guards>
+        <workTicks>600</workTicks>
+        <salvage>true</salvage>
+      </li>
+    </choices>
+  </RimHex.HexRuinEventDef>
+  <RimHex.HexRuinEventDef>
+    <defName>RHA_RuinEvent_Vault4</defName>
+    <label>Inner armory</label>
+    <description>Two sealed equipment cases remain behind the last inspection gate.</description>
+    <choices>
+      <li>
+        <label>Service the inspection gate</label>
+        <description>Repair the contacts and preserve the cases in their original condition.</description>
+        <outcome>The work is complete. Recovered supplies have been placed beside the facility.</outcome>
+        <skill>Crafting</skill>
+        <skillLevel>14</skillLevel>
+        <path>RHA_Path_Blade</path>
+        <cost>Gold</cost>
+        <costCount>50</costCount>
+        <reward>ComponentSpacer</reward>
+        <rewardCount>6</rewardCount>
+        <guards>0</guards>
+        <workTicks>1200</workTicks>
+        <salvage>false</salvage>
+      </li>
+      <li>
+        <label>Break the security cordon</label>
+        <description>The final guard squad must be defeated before the cases can be opened.</description>
+        <outcome>The security machines are active. Defeat them to secure the supplies.</outcome>
+        <skillLevel>0</skillLevel>
+        <costCount>0</costCount>
+        <reward>Gold</reward>
+        <rewardCount>150</rewardCount>
+        <guards>6</guards>
+        <workTicks>1200</workTicks>
+        <salvage>false</salvage>
+      </li>
+      <li>
+        <label>Cut through the storage racks</label>
+        <description>Recover the racks as alloy. The delicate contents may not survive.</description>
+        <outcome>The work is complete. Recovered supplies have been placed beside the facility.</outcome>
+        <skillLevel>0</skillLevel>
+        <costCount>0</costCount>
+        <reward>Plasteel</reward>
+        <rewardCount>120</rewardCount>
+        <guards>0</guards>
+        <workTicks>600</workTicks>
+        <salvage>true</salvage>
+      </li>
+    </choices>
+  </RimHex.HexRuinEventDef>
+</Defs>

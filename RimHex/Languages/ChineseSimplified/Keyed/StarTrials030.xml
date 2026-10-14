@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_StarTrial030_Done>已完成</RHA_StarTrial030_Done>
+  <RHA_StarTrial030_Current>由申请者操作</RHA_StarTrial030_Current>
+  <RHA_StarTrial030_Locked>先完成上一项目标</RHA_StarTrial030_Locked>
+  <RHA_StarTrial030_Operate>操作试炼终端</RHA_StarTrial030_Operate>
+  <RHA_StarTrial030_FailureChanged>申请者、装备或试炼状态发生变化，请核对队伍后再尝试。</RHA_StarTrial030_FailureChanged>
+  <RHA_StarTrial030_FailureApplicantDowned>申请者倒地，本次试炼结束。仍可救回队伍。</RHA_StarTrial030_FailureApplicantDowned>
+  <RHA_StarTrial030_FailureApplicantDead>申请者死亡。仍可救回队伍并带回遗体。</RHA_StarTrial030_FailureApplicantDead>
+  <RHA_StarTrial030_FailureTimeout>&lt;color=#F1AEAE&gt;挑战时间已耗尽。&lt;/color&gt;</RHA_StarTrial030_FailureTimeout>
+  <RHA_StarTrial030_FailureLeft>申请者离开了试炼地图。</RHA_StarTrial030_FailureLeft>
+  <RHA_StarTrial030_FailureContribution>申请者的个人战斗或支援贡献不足。</RHA_StarTrial030_FailureContribution>
+  <RHA_StarTrial030_FailureWardLost>守护的中枢已被摧毁。</RHA_StarTrial030_FailureWardLost>
+  <RHA_StarTrial030_FailureProtectedLost>受保护的殖民者死亡、离场或不再属于殖民地。</RHA_StarTrial030_FailureProtectedLost>
+</LanguageData>

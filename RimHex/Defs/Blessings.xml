@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Defs>
+  <RimHex.HexBlessingDef>
+    <defName>RHA_B9_Echo</defName>
+    <label>Thunder echo</label>
+    <description>After chain damage hits a trial enemy, marks its position. After 1 second, lightning deals 120 additional damage to up to 12 enemies within 3 cells. Cooldown: 2 seconds. Each level adds 120 damage. Values scale with the current blessing level. Charge and temporary shields reset between waves; blessing levels remain.</description>
+    <effect>Echo</effect>
+    <iconPath>RimHex/Blessings/Echo</iconPath>
+  </RimHex.HexBlessingDef>
+  <RimHex.HexBlessingDef>
+    <defName>RHA_B9_Stride</defName>
+    <label>Thunderfoot</label>
+    <description>Every 8 cells moved during combat releases a shockwave if trial enemies are nearby. Deals 90 additional damage to up to 12 enemies within 6 cells. Cooldown: 3 seconds. Each level adds 90 damage. Teleportation does not build charge. Values scale with the current blessing level. Charge and temporary shields reset between waves; blessing levels remain.</description>
+    <effect>Stride</effect>
+    <iconPath>RimHex/Blessings/Stride</iconPath>
+  </RimHex.HexBlessingDef>
+  <RimHex.HexBlessingDef>
+    <defName>RHA_B9_Frenzy</defName>
+    <label>Killing frenzy</label>
+    <description>Killing a trial enemy grants 50% direct attack damage for 8 seconds. Further kills extend the duration by 8 seconds, up to 30 seconds remaining. Each level adds 50% damage without changing the duration. Values scale with the current blessing level. Charge and temporary shields reset between waves; blessing levels remain.</description>
+    <effect>Frenzy</effect>
+    <iconPath>RimHex/Blessings/Frenzy</iconPath>
+  </RimHex.HexBlessingDef>
+  <RimHex.HexBlessingDef>
+    <defName>RHA_B9_Bulwark</defName>
+    <label>Unyielding bulwark</label>
+    <description>At each wave's start and every 10 seconds in combat, grants a 150-point blessing shield for 8 seconds. It only absorbs trial enemy damage. Each level adds 150 points. Refreshes keep the stronger value rather than adding together. Values scale with the current blessing level. Charge and temporary shields reset between waves; blessing levels remain.</description>
+    <effect>Bulwark</effect>
+    <iconPath>RimHex/Blessings/Bulwark</iconPath>
+  </RimHex.HexBlessingDef>
+  <RimHex.HexBlessingDef>
+    <defName>RHA_B9_Blood</defName>
+    <label>Blood resonance</label>
+    <description>Every 100 points of actual healing releases a blood surge if trial enemies are nearby. Deals 150 additional damage to up to 12 enemies within 10 cells. Cooldown: 3 seconds. Each level adds 150 damage. Excess healing and healing caused by blessings do not build charge. Values scale with the current blessing level. Charge and temporary shields reset between waves; blessing levels remain.</description>
+    <effect>Blood</effect>
+    <iconPath>RimHex/Blessings/Blood</iconPath>
+  </RimHex.HexBlessingDef>
+  <RimHex.HexBlessingDef>
+    <defName>RHA_B9_Ember</defName>
+    <label>Searing embers</label>
+    <description>Every fourth valid direct hit leaves an ember field at the target for 4 seconds, with a 4-cell radius. Deals 35 additional damage per second to up to 12 trial enemies. Cooldown: 3 seconds. Each level adds 35 damage per second. Values scale with the current blessing level. Charge and temporary shields reset between waves; blessing levels remain.</description>
+    <effect>Ember</effect>
+    <iconPath>RimHex/Blessings/Ember</iconPath>
+  </RimHex.HexBlessingDef>
+  <RimHex.HexBlessingDef>
+    <defName>RHA_B9_Crystal</defName>
+    <label>Frost prism</label>
+    <description>Directly hitting a slowed or stunned trial enemy fires frost shards at up to 3 enemies within 6 cells of the target. Each takes 90 additional damage and is slowed. Cooldown: 4 seconds. Each level adds 90 damage. Values scale with the current blessing level. Charge and temporary shields reset between waves; blessing levels remain.</description>
+    <effect>Crystal</effect>
+    <iconPath>RimHex/Blessings/Crystal</iconPath>
+  </RimHex.HexBlessingDef>
+  <RimHex.HexBlessingDef>
+    <defName>RHA_B9_Star</defName>
+    <label>Star-seeking arrow</label>
+    <description>Every third direct hit against a trial enemy more than 10 cells away fires a piercing arrow. Its path is 4 cells wide and extends from the attacker to 18 cells behind the target. Enemies in its path take 180 additional damage. Cooldown: 3 seconds. Each level adds 180 damage. Values scale with the current blessing level. Charge and temporary shields reset between waves; blessing levels remain.</description>
+    <effect>Star</effect>
+    <iconPath>RimHex/Blessings/Star</iconPath>
+  </RimHex.HexBlessingDef>
+  <RimHex.HexBlessingDef>
+    <defName>RHA_B9_Souls</defName>
+    <label>Soulward circle</label>
+    <description>Every 3 trial enemy kills heals free colonists within 10 cells for 60 points and grants the killer a 100-point blessing shield for 8 seconds. Cooldown: 3 seconds. Each level adds 60 healing and 100 shield points. Values scale with the current blessing level. Charge and temporary shields reset between waves; blessing levels remain.</description>
+    <effect>Souls</effect>
+    <iconPath>RimHex/Blessings/Souls</iconPath>
+  </RimHex.HexBlessingDef>
+  <RimHex.HexBlessingDef>
+    <defName>RHA_B9_Breaker</defName>
+    <label>Siegebreaker</label>
+    <description>Direct attack damage against trial elites, bosses and soulbound guards increases by 40%. Each level adds another 40%. Adds together with Killing frenzy. Values scale with the current blessing level. Charge and temporary shields reset between waves; blessing levels remain.</description>
+    <effect>Breaker</effect>
+    <iconPath>RimHex/Blessings/Breaker</iconPath>
+  </RimHex.HexBlessingDef>
+  <RimHex.HexBlessingDef>
+    <defName>RHA_B9_Spring</defName>
+    <label>Restorative spring</label>
+    <description>Every 6 seconds during combat, heals 40 injury points on each free colonist. Each level adds 40 healing. Only heals actual injuries; cannot resurrect or regrow missing parts. Values scale with the current blessing level. Charge and temporary shields reset between waves; blessing levels remain.</description>
+    <effect>Spring</effect>
+    <iconPath>RimHex/Blessings/Spring</iconPath>
+  </RimHex.HexBlessingDef>
+  <RimHex.HexBlessingDef>
+    <defName>RHA_B9_Aftershock</defName>
+    <label>Cataclysmic aftershock</label>
+    <description>Every 150 actual damage absorbed by shields releases an aftershock if trial enemies are nearby. Deals 180 additional damage to up to 12 enemies within 8 cells. Cooldown: 3 seconds. Each level adds 180 damage. Values scale with the current blessing level. Charge and temporary shields reset between waves; blessing levels remain.</description>
+    <effect>Aftershock</effect>
+    <iconPath>RimHex/Blessings/Aftershock</iconPath>
+  </RimHex.HexBlessingDef>
+  <HediffDef>
+    <defName>RHA_TrialBlessings</defName>
+    <label>Trial blessings</label>
+    <description>Temporary augments shared during this endless trial. Inactive outside the trial map, between combat waves or after the trial ends.</description>
+    <hediffClass>RimHex.Hediff_HexTrialBlessing</hediffClass>
+    <isBad>false</isBad>
+    <scenarioCanAdd>false</scenarioCanAdd>
+    <initialSeverity>1</initialSeverity>
+  </HediffDef>
+</Defs>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<RHA_StarWard030_Status>Ward: {0}/{1} · Wave {2}/{3} · Raiders remaining: {4}</RHA_StarWard030_Status>
+<RHA_StarWard030_CutOff>Commander defeated — reinforcements cut off.</RHA_StarWard030_CutOff>
+<RHA_StarWard030_Exposed>Commander exposed: +25% damage · {0}s</RHA_StarWard030_Exposed>
+<RHA_StarWard030_Brief>Protect the ward while defeating the commander and every raider already on the field. Raiders attack the ward directly. Killing a raider exposes the commander for 3 seconds, increasing damage taken by 25%. Killing the commander stops future reinforcements. Waves are finite. You cannot repair or move the ward, and no machinery interaction is needed. Deal meaningful personal damage, or protect and heal your fellow participants to earn contribution. Helpers may finish enemies, but cannot replace all applicant participation.</RHA_StarWard030_Brief>
+<RHA_StarTravel030_WardLost>The ward was lost. Recover your party and belongings before leaving.</RHA_StarTravel030_WardLost>
+</LanguageData>

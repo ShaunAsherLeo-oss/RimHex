@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <!-- Infrastructure; production tree availability is gated in StarTracks030. -->
+  <MapGeneratorDef>
+    <defName>RHA_StarTrialMap030</defName>
+    <genSteps><li>ElevationFertility</li><li>RHA_StarTrialFloor030</li><li>FindPlayerStartSpot</li></genSteps>
+  </MapGeneratorDef>
+  <GenStepDef>
+    <defName>RHA_StarTrialFloor030</defName><order>200</order>
+    <genStep Class="RimHex.GenStep_HexStarFloor030"/>
+  </GenStepDef>
+  <WorldObjectDef ParentName="StaticWorldObjectBase">
+    <defName>RHA_StarTrialSite030</defName><label>ascension trial</label>
+    <description>A separate trial ground. Its contents remain until the expedition has recovered its people and belongings.</description>
+    <worldObjectClass>RimHex.HexStarTrialSite030</worldObjectClass><canHaveMap>true</canHaveMap><canBePlayerHome>false</canBePlayerHome>
+    <texture>RimHex/Ruins/Archive</texture><expandingIcon>true</expandingIcon><expandingIconTexture>RimHex/Ruins/Archive</expandingIconTexture>
+    <blockExitGridUntilBattleIsWon>false</blockExitGridUntilBattleIsWon><mapGenerator>RHA_StarTrialMap030</mapGenerator>
+    <comps><li Class="WorldObjectCompProperties_FormCaravan"/></comps>
+  </WorldObjectDef>
+  <ThingDef ParentName="BuildingBase">
+    <defName>RHA_StarTrialTerminal</defName><label>trial terminal</label>
+    <description>The trial applicant must operate this terminal. Helpers cannot complete the personal assessment.</description>
+    <thingClass>RimHex.Building_HexStarTerminal030</thingClass><size>(1,1)</size><rotatable>false</rotatable>
+    <altitudeLayer>Building</altitudeLayer><passability>PassThroughOnly</passability><fillPercent>0.2</fillPercent>
+    <useHitPoints>false</useHitPoints><destroyable>false</destroyable>
+    <graphicData><texPath>RimHex/Ruins/ConsoleArchive</texPath><graphicClass>Graphic_Single</graphicClass><drawSize>(1.2,1.2)</drawSize></graphicData>
+    <statBases><Mass>30</Mass><Flammability>0</Flammability><MarketValue>0</MarketValue></statBases>
+    <building><deconstructible>false</deconstructible></building>
+  </ThingDef>
+  <ThingDef ParentName="BuildingBase">
+    <defName>RHA_StarTrialGate</defName><label>trial gateway</label>
+    <description>During combat, gather beside the gateway to retreat. After completion, failure or cancellation, return people, bodies and supplies from anywhere on the trial map; carried contents and inventory travel with their owner.</description>
+    <thingClass>RimHex.Building_HexStarGate030</thingClass><size>(1,1)</size><rotatable>false</rotatable>
+    <altitudeLayer>Building</altitudeLayer><passability>PassThroughOnly</passability><fillPercent>0.2</fillPercent>
+    <useHitPoints>false</useHitPoints><destroyable>false</destroyable>
+    <graphicData><texPath>RimHex/Trial/Beacon</texPath><graphicClass>Graphic_Single</graphicClass><drawSize>(1.6,1.6)</drawSize></graphicData>
+    <statBases><Mass>30</Mass><Flammability>0</Flammability><MarketValue>0</MarketValue></statBases>
+    <building><deconstructible>false</deconstructible></building>
+  </ThingDef>
+  <JobDef><defName>RHA_StarOperate030</defName><driverClass>RimHex.JobDriver_HexStarTerminal030</driverClass><reportString>operating trial terminal.</reportString></JobDef>
+</Defs>

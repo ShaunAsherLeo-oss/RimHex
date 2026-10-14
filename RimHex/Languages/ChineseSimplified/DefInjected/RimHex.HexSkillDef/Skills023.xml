@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_Skill_Brand023.label>熔核烙印</RHA_Skill_Brand023.label>
+  <RHA_Skill_Brand023.description>在敌人身上留下 8 秒烙印；积存自己实际伤害的 20%，最多 36。到期或死亡时爆炸。</RHA_Skill_Brand023.description>
+  <RHA_Skill_Detonate023.label>提前引爆</RHA_Skill_Detonate023.label>
+  <RHA_Skill_Detonate023.description>引爆指定的自己的烙印。自动施放等待积存 24 点或剩余 2 秒。</RHA_Skill_Detonate023.description>
+  <RHA_Skill_Rally023.label>军团集结</RHA_Skill_Rally023.label>
+  <RHA_Skill_Rally023.description>全部普通投影守卫指定地点，攻击周围 6 格内的敌人。点击自己脚下恢复护卫。仅手动施放。</RHA_Skill_Rally023.description>
+  <RHA_Skill_Focus023.label>军团集火</RHA_Skill_Focus023.label>
+  <RHA_Skill_Focus023.description>全部普通投影追击指定敌人，目标失效或离主人超过 30 格后恢复护卫。仅手动施放。</RHA_Skill_Focus023.description>
+  <RHA_Skill_Swap023.label>阵前换位</RHA_Skill_Swap023.label>
+  <RHA_Skill_Swap023.description>与自己的普通投影换位。获得 12 点护盾，投影获得 25% 减伤，均持续 3 秒。仅手动施放。</RHA_Skill_Swap023.description>
+</LanguageData>

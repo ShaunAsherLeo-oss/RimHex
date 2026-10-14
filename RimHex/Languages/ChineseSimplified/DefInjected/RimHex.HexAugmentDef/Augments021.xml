@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_A21_flywheel.label>风暴飞轮</RHA_A21_flywheel.label>
+  <RHA_A21_flywheel.description>获得风暴旋转与收势反击。旋转每 0.5 秒对附近最多 8 名敌人造成 3.5 点基础战技伤害。启动时获得 24 点护盾，每 8 秒最多获得一次，不受急速或技能冷却返还影响。前 3 秒不耗盾，之后每次旋转消耗 8 点护盾，最多持续 12 秒。可设置保留 0/10/25/50 点护盾，默认 10 点。旋转时可以移动；停留时范围由 3 格逐渐增至 4.5 格。收势立即停止旋转，对一名敌人造成 8＋已旋转次数×1.5 点基础伤害，最高 44 点。已有旋转战技也能启动飞轮，但不能叠加或刷新正在运行的飞轮。</RHA_A21_flywheel.description>
+  <RHA_A21_flywheel.theme>构筑核心</RHA_A21_flywheel.theme>
+  <RHA_A21_magazine.label>棱彩弹匣</RHA_A21_magazine.label>
+  <RHA_A21_magazine.description>储存 5 发棱彩弹药。普通远程攻击实际伤害敌人时消耗 1 发，追加 6 点基础伤害；最后一发追加 10 点。每 0.25 秒最多消耗一次，弹片和连锁不会额外消耗；致命命中仍会耗弹。停止耗弹 3 秒后补充 1 发，之后每 2 秒补充 1 发。普通移动累计 6 格可补充 1 发，每 2 秒最多一次，位移战技不计。获得倾泻弹匣：消耗全部剩余弹药，每发造成 7 点基础战技伤害；需要装备远程武器。自动倾泻只在满弹时施放。</RHA_A21_magazine.description>
+  <RHA_A21_magazine.theme>构筑核心</RHA_A21_magazine.theme>
+  <RHA_A21_relay.label>共鸣节点</RHA_A21_relay.label>
+  <RHA_A21_relay.description>获得部署节点、共鸣脉冲与回收节点。可在 12 格内放置一个持续 30 秒的静止投影，或指定自己的召唤物作为中继。中继需在主人 18 格内且视线畅通。共鸣脉冲、棱晶飞矢和援护脉冲从有效中继的位置释放，范围与视线从中继计算；其余技能不受影响。中继断开时从本人施放。共鸣脉冲造成 14 点基础伤害。回收会消耗指定召唤物，获得 16 点护盾并使 6 秒内下次共鸣脉冲造成 21 点基础伤害。回收仅手动施放，每 6 秒最多一次，不受急速或技能冷却返还影响。</RHA_A21_relay.description>
+  <RHA_A21_relay.theme>构筑核心</RHA_A21_relay.theme>
+</LanguageData>

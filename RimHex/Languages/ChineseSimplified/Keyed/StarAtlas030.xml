@@ -1,0 +1,173 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_StarAtlas030_Title>进阶星图</RHA_StarAtlas030_Title>
+  <RHA_StarAtlas030_ChoosePawn>选择殖民者</RHA_StarAtlas030_ChoosePawn>
+  <RHA_StarAtlas030_ChooseTrack>选择路线，查看节点效果与进阶条件。</RHA_StarAtlas030_ChooseTrack>
+  <RHA_StarAtlas030_Category0>全部路线</RHA_StarAtlas030_Category0>
+  <RHA_StarAtlas030_Category1>流派</RHA_StarAtlas030_Category1>
+  <RHA_StarAtlas030_Category2>遗物</RHA_StarAtlas030_Category2>
+  <RHA_StarAtlas030_Category3>核心</RHA_StarAtlas030_Category3>
+  <RHA_StarAtlas030_Category4>战技</RHA_StarAtlas030_Category4>
+  <RHA_StarAtlas030_InDevelopment>尚未开放</RHA_StarAtlas030_InDevelopment>
+  <RHA_StarAtlas030_Unworn>尚未穿戴</RHA_StarAtlas030_Unworn>
+  <RHA_StarAtlas030_Colony>殖民地共享</RHA_StarAtlas030_Colony>
+  <RHA_StarAtlas030_Personal>角色专属</RHA_StarAtlas030_Personal>
+  <RHA_StarAtlas030_Locked>尚未习得</RHA_StarAtlas030_Locked>
+  <RHA_StarAtlas030_Owned>已生效</RHA_StarAtlas030_Owned>
+  <RHA_StarAtlas030_Pending>待挑战</RHA_StarAtlas030_Pending>
+  <RHA_StarAtlas030_Candidate>可进阶</RHA_StarAtlas030_Candidate>
+  <RHA_StarAtlas030_NextStep>下一阶</RHA_StarAtlas030_NextStep>
+  <RHA_StarAtlas030_NeedPrevious>先完成当前路径的前置节点。</RHA_StarAtlas030_NeedPrevious>
+  <RHA_StarAtlas030_DifferentBranch>这是另一条分支。想改走这条路线，需要从分叉处重修。</RHA_StarAtlas030_DifferentBranch>
+  <RHA_StarAtlas030_SharedBranchLocked>殖民地路线选择了另一条分支。切换为个人路线后可自行选择。</RHA_StarAtlas030_SharedBranchLocked>
+  <RHA_StarAtlas030_FinishPending>先完成已选节点，再选择其他节点。</RHA_StarAtlas030_FinishPending>
+  <RHA_StarAtlas030_ReturnPending>查看已选节点</RHA_StarAtlas030_ReturnPending>
+  <RHA_StarAtlas030_UnlockNode>解锁此节点</RHA_StarAtlas030_UnlockNode>
+  <RHA_StarAtlas030_SelectBranch>选择此分支</RHA_StarAtlas030_SelectBranch>
+  <RHA_StarAtlas030_MigrationChoice>迁移预览</RHA_StarAtlas030_MigrationChoice>
+  <RHA_StarAtlas030_MigrationProgress>待迁移 {0} 阶</RHA_StarAtlas030_MigrationProgress>
+  <RHA_StarAtlas030_NoMatches>没有符合筛选条件的路线。</RHA_StarAtlas030_NoMatches>
+  <RHA_StarAtlas030_InvalidGraph>这条路线无法显示，请查看游戏日志中的定义错误。</RHA_StarAtlas030_InvalidGraph>
+  <RHA_StarAtlas030_Fit>适应视野</RHA_StarAtlas030_Fit>
+  <RHA_StarAtlas030_Focus>定位节点</RHA_StarAtlas030_Focus>
+  <RHA_StarAtlas030_Expand>展开支线</RHA_StarAtlas030_Expand>
+  <RHA_StarAtlas030_Fold>折叠未选支线</RHA_StarAtlas030_Fold>
+  <RHA_StarAtlas030_Controls>点击节点查看效果，亮起的节点可进阶。\n滚轮缩放 · 拖动平移</RHA_StarAtlas030_Controls>
+  <RHA_StarAtlas030_ControlsShort>点击节点查看效果\n滚轮缩放 · 拖动平移</RHA_StarAtlas030_ControlsShort>
+  <RHA_StarAtlas030_Stage>阶级</RHA_StarAtlas030_Stage>
+  <RHA_StarAtlas030_Effect>节点效果</RHA_StarAtlas030_Effect>
+  <RHA_StarAtlas030_Requires>前置：</RHA_StarAtlas030_Requires>
+  <RHA_StarAtlas030_RecoveryTime>距下次进阶还有 {0} 天。</RHA_StarAtlas030_RecoveryTime>
+  <RHA_StarAtlas030_ActiveRoute>当前生效路线</RHA_StarAtlas030_ActiveRoute>
+  <RHA_StarAtlas030_MigrationHelp>已通过 {0} 阶。按前置选择新路线后确认；确认前原有效果继续生效，已通过的阶级无需再次挑战。</RHA_StarAtlas030_MigrationHelp>
+  <RHA_StarAtlas030_OldEffects>原有效果</RHA_StarAtlas030_OldEffects>
+  <RHA_StarAtlas030_NewEffects>拟迁入路线</RHA_StarAtlas030_NewEffects>
+  <RHA_StarAtlas030_Challenge>进阶挑战</RHA_StarAtlas030_Challenge>
+  <RHA_StarAtlas030_Pressure>殖民地通过次数：{0} · 挑战压力：{1}/4</RHA_StarAtlas030_Pressure>
+  <RHA_StarAtlas030_TimeLimit>挑战时限：{0} 分钟。</RHA_StarAtlas030_TimeLimit>
+  <RHA_StarAtlas030_Choose>选择</RHA_StarAtlas030_Choose>
+  <RHA_StarAtlas030_Refresh>刷新（{0}）</RHA_StarAtlas030_Refresh>
+  <RHA_StarAtlas030_ResetPreview>重选预览</RHA_StarAtlas030_ResetPreview>
+  <RHA_StarAtlas030_CommitMigration>确认迁入此路线</RHA_StarAtlas030_CommitMigration>
+  <RHA_StarAtlas030_LegacyChoice>选择首阶进化</RHA_StarAtlas030_LegacyChoice>
+  <RHA_StarAtlas030_Respec>重修路线…</RHA_StarAtlas030_Respec>
+  <RHA_StarAtlas030_RespecStage>从第 {0} 阶重修</RHA_StarAtlas030_RespecStage>
+  <RHA_StarAtlas030_RespecConfirm>撤回这些节点？\n\n{0}\n\n消耗：棱彩碎晶 ×{1}、凝核 ×{2}。撤回效果立即失效，新分支需重新挑战。恢复时间与殖民地挑战压力保留。</RHA_StarAtlas030_RespecConfirm>
+  <RHA_StarAtlas030_Changed>角色或路线状态已变化，请重新核对后重试。</RHA_StarAtlas030_Changed>
+  <RHA_StarAtlas030_Expedition>管理试炼队伍</RHA_StarAtlas030_Expedition>
+  <RHA_StarAtlas030_NeedBeacon>请先在该角色所在地图建造&lt;color=#E8D09D&gt;可用的试炼信标&lt;/color&gt;。</RHA_StarAtlas030_NeedBeacon>
+  <RHA_StarAtlas030_EnrollHelp>出发前选择协助者并核对挑战。</RHA_StarAtlas030_EnrollHelp>
+  <RHA_StarAtlas030_Enroll>准备挑战</RHA_StarAtlas030_Enroll>
+  <RHA_StarAtlas030_Draft>选择下一阶</RHA_StarAtlas030_Draft>
+  <RHA_StarAtlas030_GateReady>可以继续进阶。</RHA_StarAtlas030_GateReady>
+  <RHA_StarAtlas030_GateInDevelopment>此路线尚未开放。</RHA_StarAtlas030_GateInDevelopment>
+  <RHA_StarAtlas030_GateMissingTrack>找不到这条路线。</RHA_StarAtlas030_GateMissingTrack>
+  <RHA_StarAtlas030_GateWrongOwner>需选择在此地图上、未倒地的殖民者，并拥有对应来源或穿戴此遗物。</RHA_StarAtlas030_GateWrongOwner>
+  <RHA_StarAtlas030_GateMissingSource>缺少路线所需的来源卡牌或已学战技。</RHA_StarAtlas030_GateMissingSource>
+  <RHA_StarAtlas030_GateNeedGrowth>遗物觉醒成长不足。查看成长进度。</RHA_StarAtlas030_GateNeedGrowth>
+  <RHA_StarAtlas030_GateNeedEssence>首阶觉醒所需的试炼精粹不足。</RHA_StarAtlas030_GateNeedEssence>
+  <RHA_StarAtlas030_GateNeedLegacyChoice>先选择首阶进化，再选择进阶节点。</RHA_StarAtlas030_GateNeedLegacyChoice>
+  <RHA_StarAtlas030_GateRecovery>正在等待下次进阶。</RHA_StarAtlas030_GateRecovery>
+  <RHA_StarAtlas030_GateComplete>此路线的全部阶级已完成。</RHA_StarAtlas030_GateComplete>
+  <RHA_StarAtlas030_GatePendingMigration>旧进度待迁移，先选好新路线并确认。</RHA_StarAtlas030_GatePendingMigration>
+  <RHA_StarAtlas030_GateInvalidState>路线状态已变化，请重新打开星图核对。</RHA_StarAtlas030_GateInvalidState>
+  <RHA_StarAtlas030_GateBusy>先完成或结束当前试炼。</RHA_StarAtlas030_GateBusy>
+  <RHA_StarAtlas030_GateCombat>脱战后可重修。</RHA_StarAtlas030_GateCombat>
+  <RHA_StarAtlas030_GateNoMaterials>棱彩碎晶或凝核不足，无法重修所选阶级。</RHA_StarAtlas030_GateNoMaterials>
+  <RHA_StarAtlas030_ConfirmDirect>确认进阶</RHA_StarAtlas030_ConfirmDirect>
+  <RHA_StarAtlas030_DirectHelp>满足来源与成长条件后，脱战确认进阶。每阶间隔两天。</RHA_StarAtlas030_DirectHelp>
+  <RHA_StarAtlas030_DirectCost>&lt;color=#F1AEAE&gt;觉醒消耗：{0} 试炼精粹&lt;/color&gt;</RHA_StarAtlas030_DirectCost>
+  <RHA_StarAtlas030_PendingDirect>待确认</RHA_StarAtlas030_PendingDirect>
+  <RHA_StarAtlas030_ShowChoices>查看可选分支</RHA_StarAtlas030_ShowChoices>
+  <RHA_StarAtlas030_RespecDirectConfirm>撤回这些节点？\n\n{0}\n\n消耗：棱彩碎晶 ×{1}、凝核 ×{2}。撤回效果立即失效，新分支可直接选择。恢复时间保留。</RHA_StarAtlas030_RespecDirectConfirm>
+  <RHA_StarAtlas030_RouteShared>跟随殖民地路线</RHA_StarAtlas030_RouteShared>
+  <RHA_StarAtlas030_RoutePersonal>个人路线</RHA_StarAtlas030_RoutePersonal>
+  <RHA_StarAtlas030_RouteColony>殖民地共同进阶</RHA_StarAtlas030_RouteColony>
+  <RHA_StarAtlas030_RoutePublish>设为殖民地路线</RHA_StarAtlas030_RoutePublish>
+  <RHA_StarAtlas030_RouteHelp>殖民地路线共享已解锁的分支选择。各人满足来源、脱战并结束恢复期后逐阶继承，效果与冷却独立。遗物还需各自完成成长并支付首阶材料。分支不同时先重修；发布路线只能延续现有共享分支。</RHA_StarAtlas030_RouteHelp>
+  <RHA_StarAtlas030_RouteColonyHelp>此路线由全殖民地共同进阶，经营收益结算一份。</RHA_StarAtlas030_RouteColonyHelp>
+  <RHA_StarAtlas030_RouteRespecPersonal>此次重修改用个人路线，殖民地路线保留。撤回节点后可自行选择分支。</RHA_StarAtlas030_RouteRespecPersonal>
+  <RHA_StarAtlas030_Refine>再次挑战此节点</RHA_StarAtlas030_Refine>
+  <RHA_StarAtlas030_RefinementHelp>节点正文列基础值，精进倍率只作用于节点注明的项目，不与前置节点倍率连乘。首次解锁即可使用完整机制。再次完成挑战提高倍率，增幅逐次递减；目标、次数、范围、消耗和冷却仍按节点规则执行。</RHA_StarAtlas030_RefinementHelp>
+  <RHA_StarAtlas030_RefinementNumbers>精进 {0} 层\n最高效果倍率 {1}% → T1 参考 {2}%\n下次挑战强度 {3} 倍</RHA_StarAtlas030_RefinementNumbers>
+  <RHA_StarAtlas030_RefinementLimit>数值已达精进上限，继续挑战不会再提高。</RHA_StarAtlas030_RefinementLimit>
+  <RHA_StarAtlas030_EconomyRefinementNumbers>精进 {0} 层\n当前收益倍率 {1}% → 下次 {2}%</RHA_StarAtlas030_EconomyRefinementNumbers>
+  <RHA_StarAtlas030_TradeDividendRates>当前分红：{0}%
+下次精进后：{1}%</RHA_StarAtlas030_TradeDividendRates>
+  <RHA_StarAtlas030_TradeCreditRates>当前额度积累：{0}%
+下次精进后：{1}%
+采购支出可返还：{2}%</RHA_StarAtlas030_TradeCreditRates>
+  <RHA_StarAtlas030_TradeAccount>殖民地交易账本
+白银净收入：{0}
+历史最高值：{1}
+待凑整分红：{2}
+采购额度：{3}</RHA_StarAtlas030_TradeAccount>
+  <RHA_StarAtlas030_EconomyChallengePending>经营考核待开发</RHA_StarAtlas030_EconomyChallengePending>
+  <RHA_StarAtlas030_ShipmentRates>每 {0} 白银新净收入生成一张运费凭据
+当前每张价值：{1} 白银
+下次精进后：{2} 白银</RHA_StarAtlas030_ShipmentRates>
+  <RHA_StarAtlas030_ShipmentAccount>下一张凭据进度：{0}
+待后续盈利交易兑现：{1} 张
+这些凭据已固定的价值：{2} 白银</RHA_StarAtlas030_ShipmentAccount>
+  <RHA_StarAtlas030_AssortmentRates>凑齐 {0} 种货品开出联单
+当前积累比例：{1}%；每张上限：{2} 白银
+下次精进：{3}%；上限：{4} 白银</RHA_StarAtlas030_AssortmentRates>
+  <RHA_StarAtlas030_AssortmentCollecting>正在积累：{0} 种货品，已计入 {1} 白银</RHA_StarAtlas030_AssortmentCollecting>
+  <RHA_StarAtlas030_AssortmentPending>联单已就绪（{0} 种货品），固定价值：{1} 白银
+下次出售未列在此处的货品，并获得新净收入时兑现。</RHA_StarAtlas030_AssortmentPending>
+  <RHA_StarAtlas030_ShipmentCashRates>新运费立即兑现。
+新凭据结算加成：{0}%；下次精进：{1}%
+旧凭据不补发结算加成。</RHA_StarAtlas030_ShipmentCashRates>
+  <RHA_StarAtlas030_ShipmentRotationRates>换货补贴：兑现运费的 {0}%；下次精进：{1}%</RHA_StarAtlas030_ShipmentRotationRates>
+  <RHA_StarAtlas030_ShipmentLastGoods>上一批凭据生成时出售的货品：</RHA_StarAtlas030_ShipmentLastGoods>
+  <RHA_StarAtlas030_CircuitRates>订单价值：联单的 {0}%；下次精进：{1}%</RHA_StarAtlas030_CircuitRates>
+  <RHA_StarAtlas030_CircuitNone>暂无商路订单，完成新联单即可建立。</RHA_StarAtlas030_CircuitNone>
+  <RHA_StarAtlas030_CircuitAway>原商家：{0}
+订单价值：{1} 白银；剩余 {2} 天
+下一步：向另一商家出售货品并获得新净收入。</RHA_StarAtlas030_CircuitAway>
+  <RHA_StarAtlas030_CircuitReturn>返回商家：{0}
+订单价值：{1} 白银；剩余 {2} 天
+向原商家出售货品并获得新净收入即可结算。</RHA_StarAtlas030_CircuitReturn>
+  <RHA_StarAtlas030_CircuitExpired>与 {0} 的订单已过期，完成新联单后可建立新订单。</RHA_StarAtlas030_CircuitExpired>
+  <RHA_StarAtlas030_JointRates>联合订单收益：原商路的 {0}%；下次精进：{1}%</RHA_StarAtlas030_JointRates>
+  <RHA_StarAtlas030_JointNone>暂无联合订单，完成往返商路即可获得。</RHA_StarAtlas030_JointNone>
+  <RHA_StarAtlas030_JointStatus>固定收益：{0} 白银；剩余 {1} 天</RHA_StarAtlas030_JointStatus>
+  <RHA_StarAtlas030_JointExpired>联合订单已过期，完成新的往返商路后可建立新订单。</RHA_StarAtlas030_JointExpired>
+  <RHA_StarAtlas030_JointDelivered>已交付 — {0}：{1}</RHA_StarAtlas030_JointDelivered>
+  <RHA_StarAtlas030_JointNeeded>待交付 — {0}：{1}</RHA_StarAtlas030_JointNeeded>
+  <RHA_StarAtlas030_FreightProcurementRates>运费转采购额度：{0}%；下次精进：{1}%
+合格工业采购最多返还实际净支出的10%。</RHA_StarAtlas030_FreightProcurementRates>
+  <RHA_StarAtlas030_SupplyExchangeRates>补给额度：商路收益的 {0}%；下次精进：{1}%
+只补给实际买到的可堆叠物资，价值不超过白银净支出的10%。</RHA_StarAtlas030_SupplyExchangeRates>
+  <RHA_StarAtlas030_PurchaseCredit>剩余采购额度：{0} 白银价值</RHA_StarAtlas030_PurchaseCredit>
+  <RHA_StarAtlas030_WorkshopRates>已登记耗材补回比例：{0}%；下次精进：{1}%
+登记每件原料扣除其成交价5%的采购额度，旧订单的补料预算不重新加价。</RHA_StarAtlas030_WorkshopRates>
+  <RHA_StarAtlas030_WorkshopStock>{0}：登记数量 {1}，剩余补料预算 {2}，已积累不足整件的部分 {3}</RHA_StarAtlas030_WorkshopStock>
+  <RHA_StarAtlas030_WorkshopRelayRates>接力比例：{0}% → 下次 {1}%。</RHA_StarAtlas030_WorkshopRelayRates>
+  <RHA_StarAtlas030_WorkshopRelayEmpty>暂无接力单。完成制造并消耗已登记原料后开启。</RHA_StarAtlas030_WorkshopRelayEmpty>
+  <RHA_StarAtlas030_WorkshopRelayPending>等待另一名殖民者完成不同配方。上一单：{0} · {1}。已固定的补料：</RHA_StarAtlas030_WorkshopRelayPending>
+  <RHA_StarAtlas030_WorkshopRawRates>额外原料：{0}% → 下次 {1}%。</RHA_StarAtlas030_WorkshopRawRates>
+  <RHA_StarAtlas030_WorkshopSparesRates>备件价值折算：{0}% → 下次 {1}%。</RHA_StarAtlas030_WorkshopSparesRates>
+  <RHA_StarAtlas030_WorkshopRelayFraction>已赚取结余 · {0}：{1} / 1</RHA_StarAtlas030_WorkshopRelayFraction>
+  <RHA_StarAtlas030_PantryRates>民生补给比例：{0}% → 下次 {1}%。</RHA_StarAtlas030_PantryRates>
+  <RHA_StarAtlas030_PantryRotationRates>轮换补给：{0}% → 下次 {1}%。</RHA_StarAtlas030_PantryRotationRates>
+  <RHA_StarAtlas030_PantryMealRates>口粮营养折算：{0}% → 下次 {1}%。</RHA_StarAtlas030_PantryMealRates>
+  <RHA_StarAtlas030_PantryMedicineRates>额外药品：{0}% → 下次 {1}%。</RHA_StarAtlas030_PantryMedicineRates>
+  <RHA_StarAtlas030_PantryRotationWait0>等待首次消耗已登记物资。</RHA_StarAtlas030_PantryRotationWait0>
+  <RHA_StarAtlas030_PantryRotationWait1>上次为食物，等待真实消耗登记药品。</RHA_StarAtlas030_PantryRotationWait1>
+  <RHA_StarAtlas030_PantryRotationWait2>上次为药品，等待真实消耗登记食物。</RHA_StarAtlas030_PantryRotationWait2>
+  <RHA_StarAtlas030_PantryRotationFrozen>下次轮换已固定：补给 {0}%，口粮折算 {1}%，额外药品 {2}%。</RHA_StarAtlas030_PantryRotationFrozen>
+  <RHA_StarAtlas030_RouteRetrain>重修共享路线：从第 {0} 阶开始</RHA_StarAtlas030_RouteRetrain>
+  <RHA_StarAtlas030_RouteRetrainConfirm>撤回共享节点：{0}
+
+{1} 名跟随者将退回该分叉前。个人路线不变。
+共消耗 {2} 棱彩碎晶、{3} 凝核，只收取一次。
+
+保留恢复时间、已选觉醒、全局挑战胜场与精进等级。重新选择后，符合条件的跟随者会按各自进度继承。</RHA_StarAtlas030_RouteRetrainConfirm>
+  <RHA_StarAtlas030_RouteRelicRetrainConfirm>撤回遗物共享节点：{0}
+
+{1} 件遗物将退回此分支之前，包括暂未穿戴的遗物。个人路线保持不变。
+全殖民地合计消耗 {2} 棱彩碎晶、{3} 凝核。
+
+保留原有觉醒、成长和恢复时间。重新选择后，符合条件且已穿戴的遗物会按各自进度继承。</RHA_StarAtlas030_RouteRelicRetrainConfirm>
+</LanguageData>

@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_FlameTrial030_root.label>初次破阵</RHA_FlameTrial030_root.label>
+  <RHA_FlameTrial030_root.description>主要威胁：锁定攻击留下半径2格、持续6秒的余烬。 可用解法：把下一次锁定攻击引入旧余烬，或控制施放者；锁定后可以移动。 成功收益：消耗旧余烬并取消该次攻击，施放者失衡8秒，承伤提高25%。 忽略代价：余烬每秒造成基础特殊攻击25%的伤害；重叠不重复。
+本关编排：支点破防；正前锁定余烬。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。沿用原有限敌人编组。</RHA_FlameTrial030_root.description>
+  <RHA_FlameTrial030_brand.label>回身迎敌</RHA_FlameTrial030_brand.label>
+  <RHA_FlameTrial030_brand.description>主要威胁：锁定攻击留下半径2格、持续6秒的余烬。 可用解法：把下一次锁定攻击引入旧余烬，或控制施放者；锁定后可以移动。 成功收益：消耗旧余烬并取消该次攻击，施放者失衡8秒，承伤提高25%。 忽略代价：余烬每秒造成基础特殊攻击25%的伤害；重叠不重复。
+本关编排：追击诱导；右侧锁定余烬。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。沿用原有限敌人编组。</RHA_FlameTrial030_brand.description>
+  <RHA_FlameTrial030_furnace.label>压断火线</RHA_FlameTrial030_furnace.label>
+  <RHA_FlameTrial030_furnace.description>主要威胁：锁定攻击留下半径2格、持续6秒的余烬。 可用解法：把下一次锁定攻击引入旧余烬，或控制施放者；锁定后可以移动。 成功收益：消耗旧余烬并取消该次攻击，施放者失衡8秒，承伤提高25%。 忽略代价：余烬每秒造成基础特殊攻击25%的伤害；重叠不重复。
+本关编排：支点破防；左右连续余烬。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。沿用原有限敌人编组。</RHA_FlameTrial030_furnace.description>
+  <RHA_FlameTrial030_pursuit.label>应火</RHA_FlameTrial030_pursuit.label>
+  <RHA_FlameTrial030_pursuit.description>主要威胁：锁定攻击留下半径2格、持续6秒的余烬。 可用解法：把下一次锁定攻击引入旧余烬，或控制施放者；锁定后可以移动。 成功收益：消耗旧余烬并取消该次攻击，施放者失衡8秒，承伤提高25%。 忽略代价：余烬每秒造成基础特殊攻击25%的伤害；重叠不重复。
+本关编排：双体联动；正前锁定余烬。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。沿用原有限敌人编组。</RHA_FlameTrial030_pursuit.description>
+  <RHA_FlameTrial030_spread.label>拆开火阵</RHA_FlameTrial030_spread.label>
+  <RHA_FlameTrial030_spread.description>主要威胁：锁定攻击留下半径2格、持续6秒的余烬。 可用解法：把下一次锁定攻击引入旧余烬，或控制施放者；锁定后可以移动。 成功收益：消耗旧余烬并取消该次攻击，施放者失衡8秒，承伤提高25%。 忽略代价：余烬每秒造成基础特殊攻击25%的伤害；重叠不重复。
+本关编排：移动支援；左侧锁定余烬。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。沿用原有限敌人编组。</RHA_FlameTrial030_spread.description>
+  <RHA_FlameTrial030_burst.label>炮火之间</RHA_FlameTrial030_burst.label>
+  <RHA_FlameTrial030_burst.description>主要威胁：锁定攻击留下半径2格、持续6秒的余烬。 可用解法：把下一次锁定攻击引入旧余烬，或控制施放者；锁定后可以移动。 成功收益：消耗旧余烬并取消该次攻击，施放者失衡8秒，承伤提高25%。 忽略代价：余烬每秒造成基础特殊攻击25%的伤害；重叠不重复。
+本关编排：连续攻击；正前锁定余烬。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。沿用原有限敌人编组。</RHA_FlameTrial030_burst.description>
+  <RHA_FlameTrial030_warmth.label>守火</RHA_FlameTrial030_warmth.label>
+  <RHA_FlameTrial030_warmth.description>主要威胁：锁定攻击留下半径2格、持续6秒的余烬。 可用解法：把下一次锁定攻击引入旧余烬，或控制施放者；锁定后可以移动。 成功收益：消耗旧余烬并取消该次攻击，施放者失衡8秒，承伤提高25%。 忽略代价：余烬每秒造成基础特殊攻击25%的伤害；重叠不重复。
+本关编排：支点破防；左侧锁定余烬。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。沿用原有限敌人编组。</RHA_FlameTrial030_warmth.description>
+  <RHA_FlameTrial030_trail.label>离开落点</RHA_FlameTrial030_trail.label>
+  <RHA_FlameTrial030_trail.description>主要威胁：锁定攻击留下半径2格、持续6秒的余烬。 可用解法：把下一次锁定攻击引入旧余烬，或控制施放者；锁定后可以移动。 成功收益：消耗旧余烬并取消该次攻击，施放者失衡8秒，承伤提高25%。 忽略代价：余烬每秒造成基础特殊攻击25%的伤害；重叠不重复。
+本关编排：连续攻击；右侧锁定余烬。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。沿用原有限敌人编组。</RHA_FlameTrial030_trail.description>
+  <RHA_FlameTrial030_relay.label>交替轰击</RHA_FlameTrial030_relay.label>
+  <RHA_FlameTrial030_relay.description>主要威胁：锁定攻击留下半径2格、持续6秒的余烬。 可用解法：把下一次锁定攻击引入旧余烬，或控制施放者；锁定后可以移动。 成功收益：消耗旧余烬并取消该次攻击，施放者失衡8秒，承伤提高25%。 忽略代价：余烬每秒造成基础特殊攻击25%的伤害；重叠不重复。
+本关编排：双体联动；右侧锁定余烬。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。沿用原有限敌人编组。</RHA_FlameTrial030_relay.description>
+  <RHA_FlameTrial030_bed.label>打开炉膛</RHA_FlameTrial030_bed.label>
+  <RHA_FlameTrial030_bed.description>主要威胁：锁定攻击留下半径2格、持续6秒的余烬。 可用解法：把下一次锁定攻击引入旧余烬，或控制施放者；锁定后可以移动。 成功收益：消耗旧余烬并取消该次攻击，施放者失衡8秒，承伤提高25%。 忽略代价：余烬每秒造成基础特殊攻击25%的伤害；重叠不重复。
+本关编排：支点破防；右侧锁定余烬。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。沿用原有限敌人编组。</RHA_FlameTrial030_bed.description>
+  <RHA_FlameTrial030_return.label>掩护回身</RHA_FlameTrial030_return.label>
+  <RHA_FlameTrial030_return.description>主要威胁：锁定攻击留下半径2格、持续6秒的余烬。 可用解法：把下一次锁定攻击引入旧余烬，或控制施放者；锁定后可以移动。 成功收益：消耗旧余烬并取消该次攻击，施放者失衡8秒，承伤提高25%。 忽略代价：余烬每秒造成基础特殊攻击25%的伤害；重叠不重复。
+本关编排：目标保护；右侧锁定余烬。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。沿用原有限敌人编组。</RHA_FlameTrial030_return.description>
+  <RHA_FlameTrial030_trail_lure.label>引出火线</RHA_FlameTrial030_trail_lure.label>
+  <RHA_FlameTrial030_trail_lure.description>主要威胁：锁定攻击留下半径2格、持续6秒的余烬。 可用解法：把下一次锁定攻击引入旧余烬，或控制施放者；锁定后可以移动。 成功收益：消耗旧余烬并取消该次攻击，施放者失衡8秒，承伤提高25%。 忽略代价：余烬每秒造成基础特殊攻击25%的伤害；重叠不重复。
+本关编排：连续攻击；正前锁定余烬。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。五阶固定首领与两名护卫，无补员或复活。</RHA_FlameTrial030_trail_lure.description>
+  <RHA_FlameTrial030_trail_echo.label>第二轮炮火</RHA_FlameTrial030_trail_echo.label>
+  <RHA_FlameTrial030_trail_echo.description>主要威胁：锁定攻击留下半径2格、持续6秒的余烬。 可用解法：把下一次锁定攻击引入旧余烬，或控制施放者；锁定后可以移动。 成功收益：消耗旧余烬并取消该次攻击，施放者失衡8秒，承伤提高25%。 忽略代价：余烬每秒造成基础特殊攻击25%的伤害；重叠不重复。
+本关编排：连续攻击；左侧锁定余烬。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。五阶固定首领与两名护卫，无补员或复活。</RHA_FlameTrial030_trail_echo.description>
+  <RHA_FlameTrial030_relay_merge.label>双线交锋</RHA_FlameTrial030_relay_merge.label>
+  <RHA_FlameTrial030_relay_merge.description>主要威胁：锁定攻击留下半径2格、持续6秒的余烬。 可用解法：把下一次锁定攻击引入旧余烬，或控制施放者；锁定后可以移动。 成功收益：消耗旧余烬并取消该次攻击，施放者失衡8秒，承伤提高25%。 忽略代价：余烬每秒造成基础特殊攻击25%的伤害；重叠不重复。
+本关编排：双体联动；正前锁定余烬。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。五阶固定首领与两名护卫，无补员或复活。</RHA_FlameTrial030_relay_merge.description>
+  <RHA_FlameTrial030_relay_rescue.label>带同伴突围</RHA_FlameTrial030_relay_rescue.label>
+  <RHA_FlameTrial030_relay_rescue.description>主要威胁：锁定攻击留下半径2格、持续6秒的余烬。 可用解法：把下一次锁定攻击引入旧余烬，或控制施放者；锁定后可以移动。 成功收益：消耗旧余烬并取消该次攻击，施放者失衡8秒，承伤提高25%。 忽略代价：余烬每秒造成基础特殊攻击25%的伤害；重叠不重复。
+本关编排：目标保护；左侧锁定余烬。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。五阶固定首领与两名护卫，无补员或复活。</RHA_FlameTrial030_relay_rescue.description>
+  <RHA_FlameTrial030_bed_bank.label>蓄势破阵</RHA_FlameTrial030_bed_bank.label>
+  <RHA_FlameTrial030_bed_bank.description>主要威胁：锁定攻击留下半径2格、持续6秒的余烬。 可用解法：把下一次锁定攻击引入旧余烬，或控制施放者；锁定后可以移动。 成功收益：消耗旧余烬并取消该次攻击，施放者失衡8秒，承伤提高25%。 忽略代价：余烬每秒造成基础特殊攻击25%的伤害；重叠不重复。
+本关编排：支点破防；正前锁定余烬。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。五阶固定首领与两名护卫，无补员或复活。</RHA_FlameTrial030_bed_bank.description>
+  <RHA_FlameTrial030_bed_walk.label>踏破护阵</RHA_FlameTrial030_bed_walk.label>
+  <RHA_FlameTrial030_bed_walk.description>主要威胁：锁定攻击留下半径2格、持续6秒的余烬。 可用解法：把下一次锁定攻击引入旧余烬，或控制施放者；锁定后可以移动。 成功收益：消耗旧余烬并取消该次攻击，施放者失衡8秒，承伤提高25%。 忽略代价：余烬每秒造成基础特殊攻击25%的伤害；重叠不重复。
+本关编排：移动支援；左侧锁定余烬。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。五阶固定首领与两名护卫，无补员或复活。</RHA_FlameTrial030_bed_walk.description>
+  <RHA_FlameTrial030_return_lock.label>压住炮火</RHA_FlameTrial030_return_lock.label>
+  <RHA_FlameTrial030_return_lock.description>主要威胁：锁定攻击留下半径2格、持续6秒的余烬。 可用解法：把下一次锁定攻击引入旧余烬，或控制施放者；锁定后可以移动。 成功收益：消耗旧余烬并取消该次攻击，施放者失衡8秒，承伤提高25%。 忽略代价：余烬每秒造成基础特殊攻击25%的伤害；重叠不重复。
+本关编排：支点破防；正前锁定余烬。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。五阶固定首领与两名护卫，无补员或复活。</RHA_FlameTrial030_return_lock.description>
+  <RHA_FlameTrial030_return_share.label>破阵相护</RHA_FlameTrial030_return_share.label>
+  <RHA_FlameTrial030_return_share.description>主要威胁：锁定攻击留下半径2格、持续6秒的余烬。 可用解法：把下一次锁定攻击引入旧余烬，或控制施放者；锁定后可以移动。 成功收益：消耗旧余烬并取消该次攻击，施放者失衡8秒，承伤提高25%。 忽略代价：余烬每秒造成基础特殊攻击25%的伤害；重叠不重复。
+本关编排：目标保护；左侧锁定余烬。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。五阶固定首领与两名护卫，无补员或复活。</RHA_FlameTrial030_return_share.description>
+</LanguageData>

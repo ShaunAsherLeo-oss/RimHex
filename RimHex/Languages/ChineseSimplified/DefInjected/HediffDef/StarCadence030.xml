@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RHA_StarCadenceCore.label>双拍交火核心</RHA_StarCadenceCore.label>
+  <RHA_StarCadenceCore.description>先沿锁定方向开火，再横扫原目标位置。两拍分别预警，都不会追随移动。集火造成足够伤害或使用已有控制可以打断整段连招。打断、躲开或完全以护盾挡住两拍后，核心失衡4秒，所受伤害增加25%；若攻击造成伤势，失衡仅持续1.5秒。普通武器与走位即可应对，无需操作机关或特定战技。本人通过实际伤害、护盾吸收或治疗本场伤势取得贡献，再击败核心。</RHA_StarCadenceCore.description>
+</LanguageData>

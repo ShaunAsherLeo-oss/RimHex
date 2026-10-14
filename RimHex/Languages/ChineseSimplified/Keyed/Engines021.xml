@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_V21_Recovery>节点回收尚需 {0} 秒</RHA_V21_Recovery>
+  <RHA_V21_FuelSpent>飞轮耗盾</RHA_V21_FuelSpent>
+  <RHA_V21_AlreadySpinning>飞轮正在运转</RHA_V21_AlreadySpinning>
+  <RHA_V21_NotSpinning>需要先启动旋转</RHA_V21_NotSpinning>
+  <RHA_V21_NoAmmo>需要棱彩弹药和远程武器</RHA_V21_NoAmmo>
+  <RHA_V21_NoNode>未指定有效节点</RHA_V21_NoNode>
+  <RHA_V21_NoTarget>等待有效目标</RHA_V21_NoTarget>
+  <RHA_V21_ManualControl>这项操作仅限手动施放</RHA_V21_ManualControl>
+  <RHA_V21_WaitFull>等待弹匣装满</RHA_V21_WaitFull>
+  <RHA_V21_NodeExists>已有节点；可手动重新部署或绑定</RHA_V21_NodeExists>
+  <RHA_V21_SpentOnKill>致命命中消耗弹药</RHA_V21_SpentOnKill>
+  <RHA_V21_SpinStatus>飞轮：{0}；保留护盾 {1}，当前护盾 {2}</RHA_V21_SpinStatus>
+  <RHA_V21_Spinning>已旋转 {0} 次，最长剩余 {1} 秒</RHA_V21_Spinning>
+  <RHA_V21_Idle>未运转</RHA_V21_Idle>
+  <RHA_V21_AmmoStatus>弹匣：{0}/5；下次装填 {1} 秒；移动积累 {2}/6 格</RHA_V21_AmmoStatus>
+  <RHA_V21_NodeStatus>节点：{0}；{1}</RHA_V21_NodeStatus>
+  <RHA_V21_Linked>已连接；脉冲、棱晶飞矢与援护脉冲由节点释放</RHA_V21_Linked>
+  <RHA_V21_LocalCast>未连接；支持的技能由本人释放</RHA_V21_LocalCast>
+  <RHA_V21_Reserve>保留护盾：{0}</RHA_V21_Reserve>
+  <RHA_V21_ReserveDesc>点击切换飞轮保留护盾：0、10、25、50。护盾不足以支付下一次旋转并保留该数值时，飞轮自动停止。</RHA_V21_ReserveDesc>
+  <RHA_V21_Status>构筑核心</RHA_V21_Status>
+  <RHA_V21_StatusDesc>飞轮、棱彩弹药与共鸣节点的当前状态。</RHA_V21_StatusDesc>
+</LanguageData>

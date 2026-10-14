@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_STAR_Core_relay.nodes.0.label>Resonance Relay</RHA_STAR_Core_relay.nodes.0.label>
+  <RHA_STAR_Core_relay.nodes.0.description>Requires the Resonance Relay core card. Retains deployment, relayed pulses and recall. Advancement creates no node, resets no cooldown and copies no summons or escort target.</RHA_STAR_Core_relay.nodes.0.description>
+  <RHA_STAR_Core_relay.nodes.1.label>Twin Resonance</RHA_STAR_Core_relay.nodes.1.label>
+  <RHA_STAR_Core_relay.nodes.1.description>Bind two nodes and relay pulses from a suitable node for each target. Base pulse damage falls from 14 to 11, recalled pulse damage from 21 to 16, and recall shielding from 16 to 12. No extra branch card required. Adopting an existing twin-node branch preserves its projections.</RHA_STAR_Core_relay.nodes.1.description>
+  <RHA_STAR_Core_relay.nodes.2.label>Mobile Escort</RHA_STAR_Core_relay.nodes.2.label>
+  <RHA_STAR_Core_relay.nodes.2.description>The projection walks after your chosen ally, or you if none is selected. Owner-to-node distance must be within 8 cells with clear sight, and node-to-escort distance within 4 cells. A pulse or aid cast through the node grants its escort 6 shielding for 6 seconds, on a 6-second cooldown. Ordinary summons are detached and retain their roles. No extra branch card required.</RHA_STAR_Core_relay.nodes.2.description>
+  <RHA_STAR_Core_relay.nodes.3.label>Crossed Signals</RHA_STAR_Core_relay.nodes.3.label>
+  <RHA_STAR_Core_relay.nodes.3.description>Two consecutive damaging pulses relayed through remote nodes, against different enemies within 8 seconds, mark the second enemy for 6 seconds. Your later ordinary hit consumes the opening for 75 damage. One mark at a time, with a 6-second creation cooldown. Pulses cast from your own cell do not count. Base rewards: damage 75.</RHA_STAR_Core_relay.nodes.3.description>
+  <RHA_STAR_Core_relay.nodes.4.label>Signal Spill</RHA_STAR_Core_relay.nodes.4.label>
+  <RHA_STAR_Core_relay.nodes.4.description>A damaging remote-node pulse deals 25 damage to one other enemy within 3 cells of its impact and clear sight, once per 6 seconds. It cannot strike the original target again and requires another enemy. Base rewards: damage 25.</RHA_STAR_Core_relay.nodes.4.description>
+  <RHA_STAR_Core_relay.nodes.5.label>Return-line Aid</RHA_STAR_Core_relay.nodes.5.label>
+  <RHA_STAR_Core_relay.nodes.5.description>A damaging remote-node pulse heals 2 recoverable injury points on the nearest injured ally within 4 cells of you and clear sight, once per 6 seconds. With no eligible ally it does not heal you instead. It cannot restore missing parts or permanent scars. Base rewards: healing 40.</RHA_STAR_Core_relay.nodes.5.description>
+  <RHA_STAR_Core_relay.nodes.6.label>Return-line Cover</RHA_STAR_Core_relay.nodes.6.label>
+  <RHA_STAR_Core_relay.nodes.6.description>A damaging remote-node pulse grants the nearest other eligible colonist within 4 cells of you and clear sight a separate 50-point shield for 3 seconds, once per 6 seconds. With no eligible ally it does not shield you instead. This is separate from the escort branch shield. Base rewards: shield 50.</RHA_STAR_Core_relay.nodes.6.description>
+</LanguageData>

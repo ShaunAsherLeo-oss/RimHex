@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RHA_Modes036_Title>本存档内容模式</RHA_Modes036_Title>
+  <RHA_Modes036_NeedGame>进入存档后可选择内容模式。旧档和新档默认完整版。</RHA_Modes036_NeedGame>
+  <RHA_Modes036_Full>完整版</RHA_Modes036_Full>
+  <RHA_Modes036_ColonyEconomy>殖民地经营</RHA_Modes036_ColonyEconomy>
+  <RHA_Modes036_Combat>战斗</RHA_Modes036_Combat>
+  <RHA_Modes036_Equipment>仅装备</RHA_Modes036_Equipment>
+  <RHA_Modes036_SingleTree>指定流派树</RHA_Modes036_SingleTree>
+  <RHA_Modes036_Mode>内容模式：{0}</RHA_Modes036_Mode>
+  <RHA_Modes036_Tree>选择流派树：{0}</RHA_Modes036_Tree>
+  <RHA_Modes036_ChooseTree>尚未选择树</RHA_Modes036_ChooseTree>
+  <RHA_Modes036_TreeHelp>按星图的真实来源与必要前置筛选。跨树融合卡不进入指定树池；仅能通过试炼或遗迹取得起点的树没有普通候选。</RHA_Modes036_TreeHelp>
+  <RHA_Modes036_Help>只影响后续选卡批次，已获得强化保留。当前待选批次、其刷新与随机额外卡沿用原模式，切换不会免费重抽。</RHA_Modes036_Help>
+  <RHA_Modes036_ScopeHelp>模式筛选普通候选与随机额外卡，不删除内容。已有星图成长及试炼、遗迹的指定奖励沿用原规则；不改变费用与稀有度设置。</RHA_Modes036_ScopeHelp>
+  <RHA_Modes036_PoolCounts>可进入此模式的定义：共享 {0}／个人 {1}／装备 {2}（仍需满足前置、叠层与启用状态）。</RHA_Modes036_PoolCounts>
+  <RHA_Modes036_Pending>待生效：当前批次 {0}；下一批 {1}。</RHA_Modes036_Pending>
+  <RHA_Modes036_DraftMode>选卡模式：{0}（存档设置）</RHA_Modes036_DraftMode>
+  <RHA_Modes036_NoOrdinarySource>无普通起点</RHA_Modes036_NoOrdinarySource>
+  <RHA_Modes036_UnavailableTree>此树当前没有可用普通候选，请选择其他树或模式。不会回退完整版卡池，票券保留。</RHA_Modes036_UnavailableTree>
+  <RHA_Modes036_EmptyPool>当前模式没有可领取候选；票券保留。可检查前置、叠层、稀有度和禁用项，或更换下一批模式。</RHA_Modes036_EmptyPool>
+  <RHA_Modes036_EmptyRefresh>本批次原模式没有其他合法候选，未消耗刷新次数。</RHA_Modes036_EmptyRefresh>
+  <RHA_Modes036_ShortBatch>本批次只有 {0} 张合法候选，已全部显示。</RHA_Modes036_ShortBatch>
+  <RHA_Modes036_Available>下一批：可抽</RHA_Modes036_Available>
+  <RHA_Modes036_Excluded>下一批：此模式排除</RHA_Modes036_Excluded>
+  <RHA_Modes036_Disabled>下一批：已禁用</RHA_Modes036_Disabled>
+  <RHA_Modes036_Requirements>下一批：前置／生成对象／叠层／稀有度受限</RHA_Modes036_Requirements>
+  <RHA_Modes036_SeparateRoute>通过星图／专属奖励获得</RHA_Modes036_SeparateRoute>
+</LanguageData>

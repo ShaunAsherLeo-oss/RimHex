@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RHA_UI032_TraceOn>事件采集已开启。</RHA_UI032_TraceOn>
+  <RHA_UI032_TraceOff>事件采集已关闭；已有历史仍可查看。</RHA_UI032_TraceOff>
+  <RHA_UI032_TraceCost>采集事件会增加处理开销，请在需要查看事件时开启。</RHA_UI032_TraceCost>
+  <RHA_UI032_TraceClearConfirm>清空已有的近期事件历史？此操作无法撤销。</RHA_UI032_TraceClearConfirm>
+  <RHA_UI032_TraceFilteredEmpty>已有历史，但当前角色与事件筛选没有匹配结果。</RHA_UI032_TraceFilteredEmpty>
+  <RHA_UI032_TraceWaiting>采集已开启，暂时还没有事件。</RHA_UI032_TraceWaiting>
+  <RHA_UI032_TraceNotCollected>采集未开启，暂无已采集的事件历史。</RHA_UI032_TraceNotCollected>
+  <RHA_UI032_RecordSources>事件来源</RHA_UI032_RecordSources>
+</LanguageData>

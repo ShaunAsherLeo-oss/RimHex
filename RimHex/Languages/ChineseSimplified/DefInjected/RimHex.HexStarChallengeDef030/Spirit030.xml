@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_SpiritTrial030_root.label>灯下试步</RHA_SpiritTrial030_root.label>
+  <RHA_SpiritTrial030_root.description>主要威胁：副手通过可见魂契保护主力。 可用解法：击破、控制副手，或用实际伤害打断魂契。 成功收益：主力失去保护并失衡8秒，承伤提高25%。 忽略代价：未处理魂契时主力最多减伤20%；死亡者不复活。
+本关编排：追击诱导；锁定落点。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。沿用原有限敌人编组。</RHA_SpiritTrial030_root.description>
+  <RHA_SpiritTrial030_focus.label>守住心念</RHA_SpiritTrial030_focus.label>
+  <RHA_SpiritTrial030_focus.description>主要威胁：副手通过可见魂契保护主力。 可用解法：击破、控制副手，或用实际伤害打断魂契。 成功收益：主力失去保护并失衡8秒，承伤提高25%。 忽略代价：未处理魂契时主力最多减伤20%；死亡者不复活。
+本关编排：连续攻击；固定射线。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。沿用原有限敌人编组。</RHA_SpiritTrial030_focus.description>
+  <RHA_SpiritTrial030_echo.label>双声应答</RHA_SpiritTrial030_echo.label>
+  <RHA_SpiritTrial030_echo.description>主要威胁：副手通过可见魂契保护主力。 可用解法：击破、控制副手，或用实际伤害打断魂契。 成功收益：主力失去保护并失衡8秒，承伤提高25%。 忽略代价：未处理魂契时主力最多减伤20%；死亡者不复活。
+本关编排：双体联动；左右连续落点。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。沿用原有限敌人编组。</RHA_SpiritTrial030_echo.description>
+  <RHA_SpiritTrial030_rend.label>裂开外壳</RHA_SpiritTrial030_rend.label>
+  <RHA_SpiritTrial030_rend.description>主要威胁：副手通过可见魂契保护主力。 可用解法：击破、控制副手，或用实际伤害打断魂契。 成功收益：主力失去保护并失衡8秒，承伤提高25%。 忽略代价：未处理魂契时主力最多减伤20%；死亡者不复活。
+本关编排：支点破防；锁定落点。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。沿用原有限敌人编组。</RHA_SpiritTrial030_rend.description>
+  <RHA_SpiritTrial030_anchor.label>定住落脚点</RHA_SpiritTrial030_anchor.label>
+  <RHA_SpiritTrial030_anchor.description>主要威胁：副手通过可见魂契保护主力。 可用解法：击破、控制副手，或用实际伤害打断魂契。 成功收益：主力失去保护并失衡8秒，承伤提高25%。 忽略代价：未处理魂契时主力最多减伤20%；死亡者不复活。
+本关编排：追击诱导；空心冲击。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。沿用原有限敌人编组。</RHA_SpiritTrial030_anchor.description>
+  <RHA_SpiritTrial030_recall.label>牵开护卫</RHA_SpiritTrial030_recall.label>
+  <RHA_SpiritTrial030_recall.description>主要威胁：副手通过可见魂契保护主力。 可用解法：击破、控制副手，或用实际伤害打断魂契。 成功收益：主力失去保护并失衡8秒，承伤提高25%。 忽略代价：未处理魂契时主力最多减伤20%；死亡者不复活。
+本关编排：移动支援；锁定落点。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。沿用原有限敌人编组。</RHA_SpiritTrial030_recall.description>
+  <RHA_SpiritTrial030_offering.label>护住提灯人</RHA_SpiritTrial030_offering.label>
+  <RHA_SpiritTrial030_offering.description>主要威胁：副手通过可见魂契保护主力。 可用解法：击破、控制副手，或用实际伤害打断魂契。 成功收益：主力失去保护并失衡8秒，承伤提高25%。 忽略代价：未处理魂契时主力最多减伤20%；死亡者不复活。
+本关编排：目标保护；空心冲击。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。沿用原有限敌人编组。</RHA_SpiritTrial030_offering.description>
+  <RHA_SpiritTrial030_fracture.label>拆开回声</RHA_SpiritTrial030_fracture.label>
+  <RHA_SpiritTrial030_fracture.description>主要威胁：副手通过可见魂契保护主力。 可用解法：击破、控制副手，或用实际伤害打断魂契。 成功收益：主力失去保护并失衡8秒，承伤提高25%。 忽略代价：未处理魂契时主力最多减伤20%；死亡者不复活。
+本关编排：双体联动；固定射线。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。沿用原有限敌人编组。</RHA_SpiritTrial030_fracture.description>
+  <RHA_SpiritTrial030_circle.label>绕阵归来</RHA_SpiritTrial030_circle.label>
+  <RHA_SpiritTrial030_circle.description>主要威胁：副手通过可见魂契保护主力。 可用解法：击破、控制副手，或用实际伤害打断魂契。 成功收益：主力失去保护并失衡8秒，承伤提高25%。 忽略代价：未处理魂契时主力最多减伤20%；死亡者不复活。
+本关编排：追击诱导；固定射线。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。沿用原有限敌人编组。</RHA_SpiritTrial030_circle.description>
+  <RHA_SpiritTrial030_pact.label>接过同伴的目标</RHA_SpiritTrial030_pact.label>
+  <RHA_SpiritTrial030_pact.description>主要威胁：副手通过可见魂契保护主力。 可用解法：击破、控制副手，或用实际伤害打断魂契。 成功收益：主力失去保护并失衡8秒，承伤提高25%。 忽略代价：未处理魂契时主力最多减伤20%；死亡者不复活。
+本关编排：移动支援；固定射线。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。沿用原有限敌人编组。</RHA_SpiritTrial030_pact.description>
+  <RHA_SpiritTrial030_ferry.label>接应归路</RHA_SpiritTrial030_ferry.label>
+  <RHA_SpiritTrial030_ferry.description>主要威胁：副手通过可见魂契保护主力。 可用解法：击破、控制副手，或用实际伤害打断魂契。 成功收益：主力失去保护并失衡8秒，承伤提高25%。 忽略代价：未处理魂契时主力最多减伤20%；死亡者不复活。
+本关编排：目标保护；固定射线。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。沿用原有限敌人编组。</RHA_SpiritTrial030_ferry.description>
+  <RHA_SpiritTrial030_fracture_chain.label>打散回击</RHA_SpiritTrial030_fracture_chain.label>
+  <RHA_SpiritTrial030_fracture_chain.description>主要威胁：副手通过可见魂契保护主力。 可用解法：击破、控制副手，或用实际伤害打断魂契。 成功收益：主力失去保护并失衡8秒，承伤提高25%。 忽略代价：未处理魂契时主力最多减伤20%；死亡者不复活。
+本关编排：双体联动；锁定落点。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。五阶固定首领与两名护卫，无补员或复活。</RHA_SpiritTrial030_fracture_chain.description>
+  <RHA_SpiritTrial030_fracture_shelter.label>裂隙中的掩护</RHA_SpiritTrial030_fracture_shelter.label>
+  <RHA_SpiritTrial030_fracture_shelter.description>主要威胁：副手通过可见魂契保护主力。 可用解法：击破、控制副手，或用实际伤害打断魂契。 成功收益：主力失去保护并失衡8秒，承伤提高25%。 忽略代价：未处理魂契时主力最多减伤20%；死亡者不复活。
+本关编排：支点破防；空心冲击。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。五阶固定首领与两名护卫，无补员或复活。</RHA_SpiritTrial030_fracture_shelter.description>
+  <RHA_SpiritTrial030_circle_exit.label>留出退路</RHA_SpiritTrial030_circle_exit.label>
+  <RHA_SpiritTrial030_circle_exit.description>主要威胁：副手通过可见魂契保护主力。 可用解法：击破、控制副手，或用实际伤害打断魂契。 成功收益：主力失去保护并失衡8秒，承伤提高25%。 忽略代价：未处理魂契时主力最多减伤20%；死亡者不复活。
+本关编排：追击诱导；锁定落点。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。五阶固定首领与两名护卫，无补员或复活。</RHA_SpiritTrial030_circle_exit.description>
+  <RHA_SpiritTrial030_circle_peace.label>留出喘息</RHA_SpiritTrial030_circle_peace.label>
+  <RHA_SpiritTrial030_circle_peace.description>主要威胁：副手通过可见魂契保护主力。 可用解法：击破、控制副手，或用实际伤害打断魂契。 成功收益：主力失去保护并失衡8秒，承伤提高25%。 忽略代价：未处理魂契时主力最多减伤20%；死亡者不复活。
+本关编排：目标保护；空心冲击。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。五阶固定首领与两名护卫，无补员或复活。</RHA_SpiritTrial030_circle_peace.description>
+  <RHA_SpiritTrial030_pact_answer.label>回敬一击</RHA_SpiritTrial030_pact_answer.label>
+  <RHA_SpiritTrial030_pact_answer.description>主要威胁：副手通过可见魂契保护主力。 可用解法：击破、控制副手，或用实际伤害打断魂契。 成功收益：主力失去保护并失衡8秒，承伤提高25%。 忽略代价：未处理魂契时主力最多减伤20%；死亡者不复活。
+本关编排：连续攻击；锁定落点。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。五阶固定首领与两名护卫，无补员或复活。</RHA_SpiritTrial030_pact_answer.description>
+  <RHA_SpiritTrial030_pact_guard.label>靠拢护持</RHA_SpiritTrial030_pact_guard.label>
+  <RHA_SpiritTrial030_pact_guard.description>主要威胁：副手通过可见魂契保护主力。 可用解法：击破、控制副手，或用实际伤害打断魂契。 成功收益：主力失去保护并失衡8秒，承伤提高25%。 忽略代价：未处理魂契时主力最多减伤20%；死亡者不复活。
+本关编排：目标保护；空心冲击。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。五阶固定首领与两名护卫，无补员或复活。</RHA_SpiritTrial030_pact_guard.description>
+  <RHA_SpiritTrial030_ferry_hunt.label>接力追击</RHA_SpiritTrial030_ferry_hunt.label>
+  <RHA_SpiritTrial030_ferry_hunt.description>主要威胁：副手通过可见魂契保护主力。 可用解法：击破、控制副手，或用实际伤害打断魂契。 成功收益：主力失去保护并失衡8秒，承伤提高25%。 忽略代价：未处理魂契时主力最多减伤20%；死亡者不复活。
+本关编排：移动支援；锁定落点。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。五阶固定首领与两名护卫，无补员或复活。</RHA_SpiritTrial030_ferry_hunt.description>
+  <RHA_SpiritTrial030_ferry_share.label>一同归来</RHA_SpiritTrial030_ferry_share.label>
+  <RHA_SpiritTrial030_ferry_share.description>主要威胁：副手通过可见魂契保护主力。 可用解法：击破、控制副手，或用实际伤害打断魂契。 成功收益：主力失去保护并失衡8秒，承伤提高25%。 忽略代价：未处理魂契时主力最多减伤20%；死亡者不复活。
+本关编排：目标保护；空心冲击。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。五阶固定首领与两名护卫，无补员或复活。</RHA_SpiritTrial030_ferry_share.description>
+</LanguageData>

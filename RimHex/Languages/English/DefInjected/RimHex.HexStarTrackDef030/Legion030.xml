@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_STAR_Core_legion.nodes.0.label>Legion Command</RHA_STAR_Core_legion.nodes.0.label>
+  <RHA_STAR_Core_legion.nodes.0.description>Requires the Legion Command core card. Retains rally, focus and swap orders; other cards must supply the summons. Advancement neither creates summons nor extends their lifetime or resets order cooldowns.</RHA_STAR_Core_legion.nodes.0.description>
+  <RHA_STAR_Core_legion.nodes.1.label>Concentrated Guard</RHA_STAR_Core_legion.nodes.1.label>
+  <RHA_STAR_Core_legion.nodes.1.description>Allow only one ordinary summon, occupying two summon slots. New summons gain twice their health factor and 50% more damage factor, subject to the existing caps. Relay nodes are unaffected. No separate branch card required; ordinary summons must be gone before switching branches.</RHA_STAR_Core_legion.nodes.1.description>
+  <RHA_STAR_Core_legion.nodes.2.label>Rotating Assault</RHA_STAR_Core_legion.nodes.2.label>
+  <RHA_STAR_Core_legion.nodes.2.description>After fighting, an ordinary summon can rest for 2 seconds within 4 cells of its owner and clear sight under the rest order. Its next commanded ordinary hit spends this readiness for 6 bonus damage, with an 8-second owner-wide cooldown. No separate branch card required; ordinary summons prevent switching branches.</RHA_STAR_Core_legion.nodes.2.description>
+  <RHA_STAR_Core_legion.nodes.3.label>Guarded Opening</RHA_STAR_Core_legion.nodes.3.label>
+  <RHA_STAR_Core_legion.nodes.3.description>A damaging summon hit under a rally or focus order marks its victim for 4 seconds. The owner’s next ordinary hit consumes the opening for 75 bonus damage. One mark with a 6-second creation cooldown; summons cannot spend it for the owner. Base rewards: damage 75.</RHA_STAR_Core_legion.nodes.3.description>
+  <RHA_STAR_Core_legion.nodes.4.label>Guard Cover</RHA_STAR_Core_legion.nodes.4.label>
+  <RHA_STAR_Core_legion.nodes.4.description>A damaging commanded summon hit grants the nearest other colonist within 4 cells of the owner and clear sight a separate 50-point shield for 3 seconds, once per 6 seconds. With no eligible ally it does not shield the owner instead. Base rewards: shield 50.</RHA_STAR_Core_legion.nodes.4.description>
+  <RHA_STAR_Core_legion.nodes.5.label>Rotating Flank</RHA_STAR_Core_legion.nodes.5.label>
+  <RHA_STAR_Core_legion.nodes.5.description>When a summon actually spends its rotation readiness for a bonus attack, deal 50 damage to another enemy within 3 cells of the impact and clear sight, once per 8 seconds. Ordinary hits, unused readiness and hits during the rotation cooldown do not trigger this effect. Base rewards: damage 50.</RHA_STAR_Core_legion.nodes.5.description>
+  <RHA_STAR_Core_legion.nodes.6.label>Rotating Relief</RHA_STAR_Core_legion.nodes.6.label>
+  <RHA_STAR_Core_legion.nodes.6.description>When a summon actually spends its rotation readiness for a bonus attack, heal 2 recoverable injury points on the nearest injured ally within 4 cells of its owner and clear sight, once per 8 seconds. No self-heal fallback, missing-part restoration or scar healing. Base rewards: healing 40.</RHA_STAR_Core_legion.nodes.6.description>
+</LanguageData>

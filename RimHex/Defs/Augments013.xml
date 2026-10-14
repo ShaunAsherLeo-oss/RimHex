@@ -1,0 +1,448 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Defs>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_A13_SpinToWin</defName>
+    <label>Spin To Win</label>
+    <description>Each stack grants spinning abilities 19.5% damage and 19.5% ability haste; Thousand Blades gains 32.5% damage. Teaches Ringblade Rush. Draft limit: 4 stacks.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Combat craft</theme>
+    <weight>100</weight>
+    <maxStacks>4</maxStacks>
+    <iconPath>RimHex/Cards/RHA_A13_SpinToWin</iconPath>
+    <mechanics>
+      <li>
+        <key>spin013</key>
+        <amount>0.65</amount>
+      </li>
+    </mechanics>
+    <grantsSkills>
+      <li>Spin013</li>
+    </grantsSkills>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_A13_Dashing</defName>
+    <label>Dashing</label>
+    <description>Each stack grants movement abilities 113.75% ability haste. Teaches Blink. Walking does not count; cooldowns remain at least 1 second. Draft limit: 4 stacks.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Combat craft</theme>
+    <weight>100</weight>
+    <maxStacks>4</maxStacks>
+    <iconPath>RimHex/Cards/RHA_A13_Dashing</iconPath>
+    <mechanics>
+      <li>
+        <key>dashing013</key>
+        <amount>0.65</amount>
+      </li>
+    </mechanics>
+    <grantsSkills>
+      <li>Blink013</li>
+    </grantsSkills>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_A13_OutlawsGrit</defName>
+    <label>Outlaw’s Grit</label>
+    <description>A successful movement ability grants a defensive stack for 8 seconds, up to 5. Each card stack adds 9.75% defense per defensive stack. Teaches Blink. Draft limit: 4 stacks.</description>
+    <scope>Hero</scope>
+    <tier>Gold</tier>
+    <theme>Combat craft</theme>
+    <weight>100</weight>
+    <maxStacks>4</maxStacks>
+    <iconPath>RimHex/Cards/RHA_A13_OutlawsGrit</iconPath>
+    <mechanics>
+      <li>
+        <key>outlaw013</key>
+        <amount>0.65</amount>
+      </li>
+    </mechanics>
+    <grantsSkills>
+      <li>Blink013</li>
+    </grantsSkills>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_A13_ToothFairy</defName>
+    <label>Tooth Fairy</label>
+    <description>Deal 25% of an eligible enemy core part's maximum health as actual damage within 2.5 seconds to drop a piercing fragment, once per target every 4 seconds. Collect within 2 cells for 0.65 permanent growth per card stack; fractions accumulate into whole stacks. Each whole stack adds 1 percentage point of penetration, capped at 200 points. Fragments last about 42 seconds.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Combat craft</theme>
+    <weight>100</weight>
+    <maxStacks>4</maxStacks>
+    <iconPath>RimHex/Cards/RHA_A13_ToothFairy</iconPath>
+    <mechanics>
+      <li>
+        <key>tooth013</key>
+        <amount>0.65</amount>
+      </li>
+    </mechanics>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_A13_EtherealWeapon</defName>
+    <label>Ethereal Weapon</label>
+    <description>The first effective ability hit on each target per cast triggers owned burn, health-based damage, bounded chains and lifesteal at 65% of their usual strength. Does not repeat an entire attack. Teaches Pursuit Mark.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Combat craft</theme>
+    <weight>100</weight>
+    <maxStacks>1</maxStacks>
+    <iconPath>RimHex/Cards/RHA_A13_EtherealWeapon</iconPath>
+    <mechanics>
+      <li>
+        <key>ethereal013</key>
+        <amount>1</amount>
+      </li>
+    </mechanics>
+    <grantsSkills>
+      <li>Hunt013</li>
+    </grantsSkills>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_A13_Earthwake</defName>
+    <label>Earthwake</label>
+    <description>After a movement ability, its straight path erupts after 0.75 seconds, dealing 11.7 secondary damage per stack to up to 16 visible enemies within 2 cells of the path. Teaches Blink. Draft limit: 4 stacks.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Combat craft</theme>
+    <weight>100</weight>
+    <maxStacks>4</maxStacks>
+    <iconPath>RimHex/Cards/RHA_A13_Earthwake</iconPath>
+    <mechanics>
+      <li>
+        <key>earthwake013</key>
+        <amount>0.65</amount>
+      </li>
+    </mechanics>
+    <grantsSkills>
+      <li>Blink013</li>
+    </grantsSkills>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_A13_ShadowRunner</defName>
+    <label>Shadow Runner</label>
+    <description>After a movement ability, gain 48% movement speed per stack for 4 seconds. Teaches Blink. Draft limit: 4 stacks.</description>
+    <scope>Hero</scope>
+    <tier>Silver</tier>
+    <theme>Combat craft</theme>
+    <weight>100</weight>
+    <maxStacks>4</maxStacks>
+    <iconPath>RimHex/Cards/RHA_A13_ShadowRunner</iconPath>
+    <mechanics>
+      <li>
+        <key>shadow013</key>
+        <amount>0.8</amount>
+      </li>
+    </mechanics>
+    <grantsSkills>
+      <li>Blink013</li>
+    </grantsSkills>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_A13_SwiftAndSafe</defName>
+    <label>Swift and Safe</label>
+    <description>After a movement ability, gain a 20-point shield per stack for 4 seconds. Refreshes to the stronger shield value. Teaches Blink. Draft limit: 4 stacks.</description>
+    <scope>Hero</scope>
+    <tier>Gold</tier>
+    <theme>Combat craft</theme>
+    <weight>100</weight>
+    <maxStacks>4</maxStacks>
+    <iconPath>RimHex/Cards/RHA_A13_SwiftAndSafe</iconPath>
+    <mechanics>
+      <li>
+        <key>swift013</key>
+        <amount>0.8</amount>
+      </li>
+    </mechanics>
+    <grantsSkills>
+      <li>Blink013</li>
+    </grantsSkills>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_A13_Flashbang</defName>
+    <label>Flashbang</label>
+    <description>Enemies within 3.5 cells of your movement destination take 9.1 secondary damage per stack and are slowed for 5 seconds. Teaches Blink. Draft limit: 4 stacks.</description>
+    <scope>Hero</scope>
+    <tier>Gold</tier>
+    <theme>Combat craft</theme>
+    <weight>100</weight>
+    <maxStacks>4</maxStacks>
+    <iconPath>RimHex/Cards/RHA_A13_Flashbang</iconPath>
+    <mechanics>
+      <li>
+        <key>flash013</key>
+        <amount>0.65</amount>
+      </li>
+    </mechanics>
+    <grantsSkills>
+      <li>Blink013</li>
+    </grantsSkills>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_A13_Trailblazer</defName>
+    <label>Trailblazer</label>
+    <description>After a movement ability, burn enemies within 3.5 cells of the destination. Each card stack adds 1.95 base damage per pulse. Does not ignite buildings. Teaches Blink. Draft limit: 4 stacks.</description>
+    <scope>Hero</scope>
+    <tier>Gold</tier>
+    <theme>Combat craft</theme>
+    <weight>100</weight>
+    <maxStacks>4</maxStacks>
+    <iconPath>RimHex/Cards/RHA_A13_Trailblazer</iconPath>
+    <mechanics>
+      <li>
+        <key>trail013</key>
+        <amount>0.65</amount>
+      </li>
+    </mechanics>
+    <grantsSkills>
+      <li>Blink013</li>
+    </grantsSkills>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_A13_MysticPunch</defName>
+    <label>Mystic Punch</label>
+    <description>Effective direct attacks refund 0.65 second of card-granted basic ability cooldown per stack, at most once every 0.25 seconds. Does not refund path ultimates or relic cooldowns. Draft limit: 4 stacks.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Combat craft</theme>
+    <weight>100</weight>
+    <maxStacks>4</maxStacks>
+    <iconPath>RimHex/Cards/RHA_A13_MysticPunch</iconPath>
+    <mechanics>
+      <li>
+        <key>mystic013</key>
+        <amount>0.65</amount>
+      </li>
+    </mechanics>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_A13_CriticalMissile</defName>
+    <label>Critical Missile</label>
+    <description>A direct attack or ability critical hit fires a bonus missile for (7.8 + 1.95 × target health scale) damage per stack, at most once every 0.25 seconds. Missiles cannot generate more copies of themselves. Draft limit: 4 stacks.</description>
+    <scope>Hero</scope>
+    <tier>Gold</tier>
+    <theme>Combat craft</theme>
+    <weight>100</weight>
+    <maxStacks>4</maxStacks>
+    <iconPath>RimHex/Cards/RHA_A13_CriticalMissile</iconPath>
+    <mechanics>
+      <li>
+        <key>critMissile013</key>
+        <amount>0.65</amount>
+      </li>
+    </mechanics>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_A13_CriticalRhythm</defName>
+    <label>Critical Rhythm</label>
+    <description>Direct attack critical hits grant rhythm stacks, up to 20, expiring after 10 seconds without another trigger. Each card stack adds 7.8% attack haste per rhythm stack. Draft limit: 4 stacks.</description>
+    <scope>Hero</scope>
+    <tier>Gold</tier>
+    <theme>Combat craft</theme>
+    <weight>100</weight>
+    <maxStacks>4</maxStacks>
+    <iconPath>RimHex/Cards/RHA_A13_CriticalRhythm</iconPath>
+    <mechanics>
+      <li>
+        <key>rhythm013</key>
+        <amount>0.65</amount>
+      </li>
+    </mechanics>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_A13_CritNCast</defName>
+    <label>Crit ’n Cast</label>
+    <description>Each stack grants ability haste equal to 65% of your critical value. Critical value is not consumed.</description>
+    <scope>Hero</scope>
+    <tier>Gold</tier>
+    <theme>Combat craft</theme>
+    <weight>100</weight>
+    <maxStacks>4</maxStacks>
+    <iconPath>RimHex/Cards/RHA_A13_CritNCast</iconPath>
+    <mechanics>
+      <li>
+        <key>critHaste013</key>
+        <amount>0.65</amount>
+      </li>
+    </mechanics>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_A13_SoulSiphon</defName>
+    <label>Soul Siphon</label>
+    <description>Direct attack and ability critical hits heal ordinary injuries for 13% of actual damage per stack. Draft limit: 4 stacks.</description>
+    <scope>Hero</scope>
+    <tier>Gold</tier>
+    <theme>Combat craft</theme>
+    <weight>100</weight>
+    <maxStacks>4</maxStacks>
+    <iconPath>RimHex/Cards/RHA_A13_SoulSiphon</iconPath>
+    <mechanics>
+      <li>
+        <key>siphon013</key>
+        <amount>0.65</amount>
+      </li>
+    </mechanics>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_A13_Erosion</defName>
+    <label>Erosion</label>
+    <description>Direct and ability hits accumulate 0.65 erosion per card stack. Whole stacks are applied to the struck target, capped at 10 for 10 seconds; fractional progress is retained by the attacker. Each stack grants 4 percentage points of armor penetration. Armor-ignoring damage gains no benefit.</description>
+    <scope>Hero</scope>
+    <tier>Gold</tier>
+    <theme>Combat craft</theme>
+    <weight>100</weight>
+    <maxStacks>4</maxStacks>
+    <iconPath>RimHex/Cards/RHA_A13_Erosion</iconPath>
+    <mechanics>
+      <li>
+        <key>erosion013</key>
+        <amount>0.65</amount>
+      </li>
+    </mechanics>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_A13_ThreadTheNeedle</defName>
+    <label>Thread the Needle</label>
+    <description>Direct attacks and armor-checked abilities gain 13 percentage points of armor penetration per stack. Armor-ignoring secondary damage is unaffected. Draft limit: 4 stacks.</description>
+    <scope>Hero</scope>
+    <tier>Gold</tier>
+    <theme>Combat craft</theme>
+    <weight>100</weight>
+    <maxStacks>4</maxStacks>
+    <iconPath>RimHex/Cards/RHA_A13_ThreadTheNeedle</iconPath>
+    <mechanics>
+      <li>
+        <key>needle013</key>
+        <amount>0.65</amount>
+      </li>
+    </mechanics>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_A13_EnPassant</defName>
+    <label>En Passant</label>
+    <description>Hit the marked flank within 3 cells to deal 6.5 × target health scale bonus damage per stack, heal 6.5 injury points and gain 22.75% movement speed for 3 seconds. Each target can trigger once per 4 seconds. Teaches Pursuit Mark; selecting the owner shows enemy flanks.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Combat craft</theme>
+    <weight>100</weight>
+    <maxStacks>1</maxStacks>
+    <iconPath>RimHex/Cards/RHA_A13_EnPassant</iconPath>
+    <mechanics>
+      <li>
+        <key>passant013</key>
+        <amount>0.65</amount>
+      </li>
+    </mechanics>
+    <grantsSkills>
+      <li>Hunt013</li>
+    </grantsSkills>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_A13_QuickStep</defName>
+    <label>Quick Step</label>
+    <description>Teaches Ringblade Rush: move, then strike in a circle. Each stack expands its radius by 0.4 cells, up to 2 extra cells. Draft limit: 4 stacks.</description>
+    <scope>Hero</scope>
+    <tier>Gold</tier>
+    <theme>Combat craft</theme>
+    <weight>100</weight>
+    <maxStacks>4</maxStacks>
+    <iconPath>RimHex/Cards/RHA_A13_QuickStep</iconPath>
+    <mechanics>
+      <li>
+        <key>quick013</key>
+        <amount>0.8</amount>
+      </li>
+    </mechanics>
+    <grantsSkills>
+      <li>Spin013</li>
+    </grantsSkills>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_A13_NowYouSeeMe</defName>
+    <label>Now You See Me</label>
+    <description>Teaches Blink and Return. Within 3.25 seconds of moving, manually return to the previous origin within 12 visible cells on the same map. Returning does not create another origin.</description>
+    <scope>Hero</scope>
+    <tier>Gold</tier>
+    <theme>Combat craft</theme>
+    <weight>100</weight>
+    <maxStacks>1</maxStacks>
+    <iconPath>RimHex/Cards/RHA_A13_NowYouSeeMe</iconPath>
+    <mechanics>
+      <li>
+        <key>return013</key>
+        <amount>1</amount>
+      </li>
+    </mechanics>
+    <grantsSkills>
+      <li>Blink013</li>
+      <li>Return013</li>
+    </grantsSkills>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_A13_NumbToPain</defName>
+    <label>Numb to Pain</label>
+    <description>After armor and shields, defer 22.75% of ordinary injury per stack over the next 5 seconds, up to 75%. Deferred injury does not receive another defense or shield reduction; healing can buy time to survive. Draft limit: 3 stacks.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Combat craft</theme>
+    <weight>100</weight>
+    <maxStacks>3</maxStacks>
+    <iconPath>RimHex/Cards/RHA_A13_NumbToPain</iconPath>
+    <mechanics>
+      <li>
+        <key>numb013</key>
+        <amount>0.65</amount>
+      </li>
+    </mechanics>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_A13_Rejuvenation</defName>
+    <label>Rejuvenation</label>
+    <description>Successfully casting a combat ability heals 6 ordinary injury points per stack. Return, economic abilities and passive secondary damage do not trigger it. Draft limit: 4 stacks.</description>
+    <scope>Hero</scope>
+    <tier>Silver</tier>
+    <theme>Combat craft</theme>
+    <weight>100</weight>
+    <maxStacks>4</maxStacks>
+    <iconPath>RimHex/Cards/RHA_A13_Rejuvenation</iconPath>
+    <mechanics>
+      <li>
+        <key>rejuvenate013</key>
+        <amount>1</amount>
+      </li>
+    </mechanics>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_A13_Executioner</defName>
+    <label>Executioner</label>
+    <description>Direct attacks and abilities deal 32.5% extra damage per stack to enemies at 40% health or lower. Eligible kills refund 1.95 seconds of card-granted basic ability cooldown per stack. Does not instantly execute bosses. Draft limit: 4 stacks.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Combat craft</theme>
+    <weight>100</weight>
+    <maxStacks>4</maxStacks>
+    <iconPath>RimHex/Cards/RHA_A13_Executioner</iconPath>
+    <mechanics>
+      <li>
+        <key>executioner013</key>
+        <amount>0.65</amount>
+      </li>
+    </mechanics>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_A13_InfiniteRecursion</defName>
+    <label>Infinite Recursion</label>
+    <description>Each eligible kill grants 0.65 permanent growth per card stack. Ability haste equals 10% of the square root of accumulated growth. Repeatedly resurrected enemies count only once.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Combat craft</theme>
+    <weight>100</weight>
+    <maxStacks>4</maxStacks>
+    <iconPath>RimHex/Cards/RHA_A13_InfiniteRecursion</iconPath>
+    <mechanics>
+      <li>
+        <key>infinite013</key>
+        <amount>0.65</amount>
+      </li>
+    </mechanics>
+  </RimHex.HexAugmentDef>
+</Defs>

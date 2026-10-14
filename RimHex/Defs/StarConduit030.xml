@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <HediffDef>
+    <defName>RHA_StarConduitCore</defName><label>guarded core</label>
+    <description>Defeat the guards to expose the core. The applicant must earn personal contribution through damage, or shields and healing they provide during the fight. Allies may help and finish enemies. Once exposed, everyone can attack the core. Trial enemies grant no normal combat credit, gambler deposits, permanent-growth teeth or butchery materials.</description>
+    <hediffClass>RimHex.Hediff_HexStarConduit030</hediffClass><isBad>false</isBad>
+  </HediffDef>
+  <HediffDef>
+    <defName>RHA_StarCoreGuard</defName><label>core guard</label>
+    <description>This guard maintains the core's protection. The applicant must deal damage equal to 20% of its core health before it falls to earn participation credit. Allies can help and land the final blow. Trial enemies do not grant ordinary combat rewards.</description>
+    <hediffClass>RimHex.Hediff_HexStarConduit030</hediffClass><isBad>false</isBad>
+  </HediffDef>
+  <JobDef>
+    <defName>RHA_StarChargedBarrage</defName>
+    <driverClass>RimHex.JobDriver_HexStarCharge030</driverClass>
+    <reportString>charging a barrage.</reportString>
+    <casualInterruptible>false</casualInterruptible>
+  </JobDef>
+  <JobDef>
+    <defName>RHA_StarSealedCore</defName>
+    <driverClass>RimHex.JobDriver_HexStarSealedCore030</driverClass>
+    <reportString>projecting a shielded bombardment.</reportString>
+    <casualInterruptible>false</casualInterruptible>
+  </JobDef>
+</Defs>

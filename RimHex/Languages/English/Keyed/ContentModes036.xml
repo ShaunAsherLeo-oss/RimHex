@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RHA_Modes036_Title>Content mode for this save</RHA_Modes036_Title>
+  <RHA_Modes036_NeedGame>Load a game to choose its content mode. Existing and new saves default to Full.</RHA_Modes036_NeedGame>
+  <RHA_Modes036_Full>Full</RHA_Modes036_Full>
+  <RHA_Modes036_ColonyEconomy>Colony economy</RHA_Modes036_ColonyEconomy>
+  <RHA_Modes036_Combat>Combat</RHA_Modes036_Combat>
+  <RHA_Modes036_Equipment>Equipment only</RHA_Modes036_Equipment>
+  <RHA_Modes036_SingleTree>Single tree</RHA_Modes036_SingleTree>
+  <RHA_Modes036_Mode>Content mode: {0}</RHA_Modes036_Mode>
+  <RHA_Modes036_Tree>Select tree: {0}</RHA_Modes036_Tree>
+  <RHA_Modes036_ChooseTree>Choose a tree</RHA_Modes036_ChooseTree>
+  <RHA_Modes036_TreeHelp>Uses the tree’s actual sources and required prerequisites. Cross-tree fusion cards are excluded. Trees sourced only from trials or ruins have no ordinary offers.</RHA_Modes036_TreeHelp>
+  <RHA_Modes036_Help>Affects future draft batches; acquired upgrades remain. The current batch, its rerolls and random bonus cards keep their original mode. Switching never redraws offers for free.</RHA_Modes036_Help>
+  <RHA_Modes036_ScopeHelp>Filters ordinary offers and random bonus cards without removing content. Existing star progression and fixed trial/ruin rewards keep their rules. Costs and rarity settings remain the same.</RHA_Modes036_ScopeHelp>
+  <RHA_Modes036_PoolCounts>Definitions in this mode: colony {0} / personal {1} / equipment {2} (prerequisites, stack limits and enabled status still apply).</RHA_Modes036_PoolCounts>
+  <RHA_Modes036_Pending>Pending: current batch {0}; next batch {1}.</RHA_Modes036_Pending>
+  <RHA_Modes036_DraftMode>Draft mode: {0} (save setting)</RHA_Modes036_DraftMode>
+  <RHA_Modes036_NoOrdinarySource>No ordinary source</RHA_Modes036_NoOrdinarySource>
+  <RHA_Modes036_UnavailableTree>This tree has no ordinary offers. Choose another tree or mode. The pool does not fall back to Full; tickets are retained.</RHA_Modes036_UnavailableTree>
+  <RHA_Modes036_EmptyPool>No claimable offers in this mode. Your ticket is retained. Check prerequisites, stack limits, rarity and disabled entries, or change the mode for the next batch.</RHA_Modes036_EmptyPool>
+  <RHA_Modes036_EmptyRefresh>No other legal offers remain in this batch’s original mode. No reroll was spent.</RHA_Modes036_EmptyRefresh>
+  <RHA_Modes036_ShortBatch>This batch has only {0} legal offers; all are shown.</RHA_Modes036_ShortBatch>
+  <RHA_Modes036_Available>Next batch: available</RHA_Modes036_Available>
+  <RHA_Modes036_Excluded>Next batch: excluded by mode</RHA_Modes036_Excluded>
+  <RHA_Modes036_Disabled>Next batch: disabled</RHA_Modes036_Disabled>
+  <RHA_Modes036_Requirements>Next batch: prerequisites / generating recipient / stack limit / rarity restricted</RHA_Modes036_Requirements>
+  <RHA_Modes036_SeparateRoute>Obtained through stars / dedicated rewards</RHA_Modes036_SeparateRoute>
+</LanguageData>

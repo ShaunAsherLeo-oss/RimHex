@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_V25_NeedMove>需要先学会回旋、闪现、狩猎冲锋或换位技能</RHA_V25_NeedMove>
+  <RHA_V25_Opening>破绽目标：{0} · {1}</RHA_V25_Opening>
+  <RHA_V25_Shift>远距部署已就绪：16 格 · {0}</RHA_V25_Shift>
+  <RHA_V25_SwitchHint>招架与反击结束后可切换招架分支；自己的机关全部离场后可切换机关分支。恢复间隔保留。</RHA_V25_SwitchHint>
+</LanguageData>

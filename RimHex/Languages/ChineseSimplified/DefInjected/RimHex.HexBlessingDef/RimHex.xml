@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_B9_Echo.label>雷霆回响</RHA_B9_Echo.label>
+  <RHA_B9_Echo.description>连锁命中试炼敌人后，在其位置标记雷击，1 秒后对 3 格内最多 12 名敌人造成 120 点追加伤害。冷却 2 秒；每级 +120 伤害。 所有数值按当前祝福等级计算；跨轮清空蓄力和临时护盾，祝福等级保留。</RHA_B9_Echo.description>
+  <RHA_B9_Stride.label>踏地惊雷</RHA_B9_Stride.label>
+  <RHA_B9_Stride.description>战斗中每累计移动 8 格，在附近有试炼敌人时释放 6 格震击，最多命中 12 人，造成 90 点追加伤害。冷却 3 秒；每级 +90 伤害，传送不蓄力。 所有数值按当前祝福等级计算；跨轮清空蓄力和临时护盾，祝福等级保留。</RHA_B9_Stride.description>
+  <RHA_B9_Frenzy.label>猎杀狂潮</RHA_B9_Frenzy.label>
+  <RHA_B9_Frenzy.description>击杀试炼敌人获得 8 秒狂潮，直接攻击伤害 +50%。继续击杀延长 8 秒，最多保留 30 秒；每级再增加 50% 伤害，持续时间不变。 所有数值按当前祝福等级计算；跨轮清空蓄力和临时护盾，祝福等级保留。</RHA_B9_Frenzy.description>
+  <RHA_B9_Bulwark.label>不屈壁垒</RHA_B9_Bulwark.label>
+  <RHA_B9_Bulwark.description>每轮开始及战斗中每 10 秒获得 150 点祝福护盾，持续 8 秒，只吸收试炼敌人的伤害。每级 +150 护盾；刷新取较高值，不与自身叠加。 所有数值按当前祝福等级计算；跨轮清空蓄力和临时护盾，祝福等级保留。</RHA_B9_Bulwark.description>
+  <RHA_B9_Blood.label>血潮共鸣</RHA_B9_Blood.label>
+  <RHA_B9_Blood.description>每累计 100 点实际治疗，在附近有试炼敌人时释放血潮，对 10 格内最多 12 人造成 150 点追加伤害。冷却 3 秒；每级 +150 伤害。溢出及祝福自身引发的治疗不蓄力。 所有数值按当前祝福等级计算；跨轮清空蓄力和临时护盾，祝福等级保留。</RHA_B9_Blood.description>
+  <RHA_B9_Ember.label>灼热余烬</RHA_B9_Ember.label>
+  <RHA_B9_Ember.description>每第 4 次有效直接命中，在目标位置留下半径 4 格、持续 4 秒的余烬区，每秒对最多 12 名试炼敌人造成 35 点追加伤害。冷却 3 秒；每级 +35 每秒伤害。 所有数值按当前祝福等级计算；跨轮清空蓄力和临时护盾，祝福等级保留。</RHA_B9_Ember.description>
+  <RHA_B9_Crystal.label>寒晶棱镜</RHA_B9_Crystal.label>
+  <RHA_B9_Crystal.description>直接命中减速或眩晕的试炼敌人，向目标 6 格内最多 3 名敌人发射寒晶，各造成 90 点追加伤害并施加减速。冷却 4 秒；每级 +90 伤害。 所有数值按当前祝福等级计算；跨轮清空蓄力和临时护盾，祝福等级保留。</RHA_B9_Crystal.description>
+  <RHA_B9_Star.label>逐星之矢</RHA_B9_Star.label>
+  <RHA_B9_Star.description>每第 3 次对 10 格以外试炼敌人的直接命中，释放贯穿星矢，攻击从自身到目标后方 18 格、宽 4 格的敌人，各造成 180 点追加伤害。冷却 3 秒；每级 +180 伤害。 所有数值按当前祝福等级计算；跨轮清空蓄力和临时护盾，祝福等级保留。</RHA_B9_Star.description>
+  <RHA_B9_Souls.label>万魂护阵</RHA_B9_Souls.label>
+  <RHA_B9_Souls.description>每击杀 3 名试炼敌人，治疗自身 10 格内的自由殖民者 60 点，并为自身提供持续 8 秒的 100 点祝福护盾。冷却 3 秒；每级 +60 治疗、+100 护盾。 所有数值按当前祝福等级计算；跨轮清空蓄力和临时护盾，祝福等级保留。</RHA_B9_Souls.description>
+  <RHA_B9_Breaker.label>破阵重击</RHA_B9_Breaker.label>
+  <RHA_B9_Breaker.description>对试炼精英、首领和缚魂近卫的直接攻击伤害 +40%。每级再增加 40%；与猎杀狂潮的伤害加成相加。 所有数值按当前祝福等级计算；跨轮清空蓄力和临时护盾，祝福等级保留。</RHA_B9_Breaker.description>
+  <RHA_B9_Spring.label>回春圣泉</RHA_B9_Spring.label>
+  <RHA_B9_Spring.description>战斗中每 6 秒自动治疗每名自由殖民者自身的 40 点伤势。每级 +40 治疗；仅恢复实际伤势，不复活、不再生缺失部位。 所有数值按当前祝福等级计算；跨轮清空蓄力和临时护盾，祝福等级保留。</RHA_B9_Spring.description>
+  <RHA_B9_Aftershock.label>灾变余震</RHA_B9_Aftershock.label>
+  <RHA_B9_Aftershock.description>护盾每累计实际吸收 150 点伤害，在附近有试炼敌人时释放 8 格余震，对最多 12 人造成 180 点追加伤害。冷却 3 秒；每级 +180 伤害。 所有数值按当前祝福等级计算；跨轮清空蓄力和临时护盾，祝福等级保留。</RHA_B9_Aftershock.description>
+</LanguageData>

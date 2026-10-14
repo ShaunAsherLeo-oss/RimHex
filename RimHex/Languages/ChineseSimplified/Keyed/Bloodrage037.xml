@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RHA_Equipment037_BloodrageMemory>健康输入 {0}%</RHA_Equipment037_BloodrageMemory>
+  <RHA_Equipment037_BloodrageFury>怒火 {0}/5 · 余量 {1}/{2}</RHA_Equipment037_BloodrageFury>
+  <RHA_Equipment037_BloodrageDebt>欠伤 {0}/{1} · 剩余{2}期</RHA_Equipment037_BloodrageDebt>
+</LanguageData>

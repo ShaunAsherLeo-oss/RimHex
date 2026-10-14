@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RHA_StarWorldforge030_Reclaimed>回收 {0} 个{1}。</RHA_StarWorldforge030_Reclaimed>
+  <RHA_StarWorldforge030_Practice>炉前研习：{0}。</RHA_StarWorldforge030_Practice>
+  <RHA_StarWorldforge030_Repaired>修复{1}的 {0} 点耐久。</RHA_StarWorldforge030_Repaired>
+  <RHA_StarWorldforge030_Sequence>生产进度：{0} / {1}
+上次配方：{2}</RHA_StarWorldforge030_Sequence>
+  <RHA_StarWorldforge030_NoRecipe>暂无</RHA_StarWorldforge030_NoRecipe>
+  <RHA_StarWorldforge030_Fractions>待回收材料：{0}</RHA_StarWorldforge030_Fractions>
+</LanguageData>

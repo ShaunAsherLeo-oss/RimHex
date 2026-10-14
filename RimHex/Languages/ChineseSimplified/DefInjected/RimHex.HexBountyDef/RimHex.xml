@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_Bounty_Border.label>边境肃清</RHA_Bounty_Border.label>
+  <RHA_Bounty_Border.description>击败符合战功规则的敌人，累计两场不同战斗。</RHA_Bounty_Border.description>
+  <RHA_Bounty_Raiders.label>掠夺者终结</RHA_Bounty_Raiders.label>
+  <RHA_Bounty_Raiders.description>目标限定为敌对武装成年人。</RHA_Bounty_Raiders.description>
+  <RHA_Bounty_Machines.label>钢铁猎场</RHA_Bounty_Machines.label>
+  <RHA_Bounty_Machines.description>目标限定为敌对机械族。</RHA_Bounty_Machines.description>
+  <RHA_Bounty_Hive.label>虫巢清算</RHA_Bounty_Hive.label>
+  <RHA_Bounty_Hive.description>目标限定为符合战功要求的敌对大型虫族。</RHA_Bounty_Hive.description>
+  <RHA_Bounty_Giants.label>猎巨誓约</RHA_Bounty_Giants.label>
+  <RHA_Bounty_Giants.description>只计算基础战力至少 180 的敌人。</RHA_Bounty_Giants.description>
+  <RHA_Bounty_Thunder.label>雷霆远征</RHA_Bounty_Thunder.label>
+  <RHA_Bounty_Thunder.description>击杀者必须在击杀时拥有雷霆流派的至少 3 种不同来源。</RHA_Bounty_Thunder.description>
+  <RHA_Bounty_Flame.label>焚世战约</RHA_Bounty_Flame.label>
+  <RHA_Bounty_Flame.description>击杀者必须在击杀时拥有烈焰流派的至少 3 种不同来源。</RHA_Bounty_Flame.description>
+  <RHA_Bounty_Blood.label>猩红征途</RHA_Bounty_Blood.label>
+  <RHA_Bounty_Blood.description>击杀者必须在击杀时拥有鲜血流派的至少 3 种不同来源。</RHA_Bounty_Blood.description>
+  <RHA_Bounty_Vanguard.label>无畏先锋</RHA_Bounty_Vanguard.label>
+  <RHA_Bounty_Vanguard.description>完成一场横跨多次战斗的高强度狩猎。</RHA_Bounty_Vanguard.description>
+  <RHA_Bounty_Legend.label>不朽战绩</RHA_Bounty_Legend.label>
+  <RHA_Bounty_Legend.description>为已经成型的构筑准备的长期挑战。</RHA_Bounty_Legend.description>
+  <RHA_Bounty_Steel.label>千钢铸约</RHA_Bounty_Steel.label>
+  <RHA_Bounty_Steel.description>从当前家园交付 1200 钢铁；交付会实际消耗物资。禁用或迷雾内的物资不计。</RHA_Bounty_Steel.description>
+  <RHA_Bounty_Components.label>精工订单</RHA_Bounty_Components.label>
+  <RHA_Bounty_Components.description>从当前家园交付 30 零部件；交付会实际消耗物资。禁用或迷雾内的物资不计。</RHA_Bounty_Components.description>
+</LanguageData>

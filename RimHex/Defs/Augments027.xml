@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Defs>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_A27_crossfire</defName>
+    <label>Crossfire</label>
+    <description>A damaging basic hit leaves an opening. A teammate's basic hit on that enemy deals 4 extra fixed base damage. 6-second recovery after triggering. The opening lasts 4 seconds; one target per card. Requires a different standing player humanlike colonist within 12 cells and clear sight of the owner. The teammate needs no matching card; summons do not count. Secondary damage cannot complete a relay. Each relay type resolves at most once per hit.</description>
+    <scope>Hero</scope>
+    <tier>Gold</tier>
+    <theme>Team relays</theme>
+    <weight>100</weight>
+    <maxStacks>1</maxStacks>
+    <iconPath>RimHex/Cards/RHA_A27_crossfire</iconPath>
+    <mechanics>
+      <li>
+        <key>crossfire027</key>
+        <amount>1</amount>
+      </li>
+    </mechanics>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_A27_flank</defName>
+    <label>Flanking Strike</label>
+    <description>A damaging basic hit leaves an opening. A teammate's basic hit deals 6 extra fixed base damage if the two colonists form an angle of at least 90 degrees around the enemy. 8-second recovery after triggering. The opening lasts 4 seconds; one target per card. Requires a different standing player humanlike colonist within 12 cells and clear sight of the owner. The teammate needs no matching card; summons do not count. Secondary damage cannot complete a relay. Each relay type resolves at most once per hit.</description>
+    <scope>Hero</scope>
+    <tier>Gold</tier>
+    <theme>Team relays</theme>
+    <weight>100</weight>
+    <maxStacks>1</maxStacks>
+    <iconPath>RimHex/Cards/RHA_A27_flank</iconPath>
+    <mechanics>
+      <li>
+        <key>flank027</key>
+        <amount>1</amount>
+      </li>
+    </mechanics>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_A27_pressure</defName>
+    <label>Rolling Pressure</label>
+    <description>Damaging an enemy with an ability leaves an opening. A teammate's basic hit reduces your longest eligible learned personal combat cooldown by 1 second, without making it immediately ready. Preserves the opening if none is cooling down. Shared abilities, utility skills and fixed recovery timers are unaffected. 8-second recovery after triggering. The opening lasts 4 seconds; one target per card. Requires a different standing player humanlike colonist within 12 cells and clear sight of the owner. The teammate needs no matching card; summons do not count. Secondary damage cannot complete a relay. Each relay type resolves at most once per hit.</description>
+    <scope>Hero</scope>
+    <tier>Gold</tier>
+    <theme>Team relays</theme>
+    <weight>100</weight>
+    <maxStacks>1</maxStacks>
+    <iconPath>RimHex/Cards/RHA_A27_pressure</iconPath>
+    <mechanics>
+      <li>
+        <key>pressure027</key>
+        <amount>1</amount>
+      </li>
+    </mechanics>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_A27_cover</defName>
+    <label>Covering Fire</label>
+    <description>Taking actual damage from an enemy's basic attack while remaining standing marks the attacker. A teammate's basic hit on that enemy grants you 6 shield for 6 seconds. 8-second recovery after triggering. The opening lasts 4 seconds; one target per card. Requires a different standing player humanlike colonist within 12 cells and clear sight of the owner. The teammate needs no matching card; summons do not count. Secondary damage cannot complete a relay. Each relay type resolves at most once per hit.</description>
+    <scope>Hero</scope>
+    <tier>Gold</tier>
+    <theme>Team relays</theme>
+    <weight>100</weight>
+    <maxStacks>1</maxStacks>
+    <iconPath>RimHex/Cards/RHA_A27_cover</iconPath>
+    <mechanics>
+      <li>
+        <key>cover027</key>
+        <amount>1</amount>
+      </li>
+    </mechanics>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_A27_relief</defName>
+    <label>Field Relief</label>
+    <description>Actually healing at least 2 injury points on a teammate with this mod's healing effects prepares a relay. That teammate's damaging basic hit on an enemy grants both of you 4 shield for 4 seconds. Self-healing and overhealing do not count. 8-second recovery after triggering. The opening lasts 4 seconds; one target per card. Requires a different standing player humanlike colonist within 12 cells and clear sight of the owner. The teammate needs no matching card; summons do not count. Secondary damage cannot complete a relay. Each relay type resolves at most once per hit.</description>
+    <scope>Hero</scope>
+    <tier>Gold</tier>
+    <theme>Team relays</theme>
+    <weight>100</weight>
+    <maxStacks>1</maxStacks>
+    <iconPath>RimHex/Cards/RHA_A27_relief</iconPath>
+    <mechanics>
+      <li>
+        <key>relief027</key>
+        <amount>1</amount>
+      </li>
+    </mechanics>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_A27_share</defName>
+    <label>Shared Burden</label>
+    <description>A damaging basic hit leaves an opening. If that enemy's basic attack actually damages another standing teammate, the teammate gains 6 shield and you gain 3 shield, both for 6 seconds. Shields appear after the hit and cannot absorb its damage. 8-second recovery after triggering. The opening lasts 4 seconds; one target per card. Requires a different standing player humanlike colonist within 12 cells and clear sight of the owner. The teammate needs no matching card; summons do not count. Secondary damage cannot complete a relay. Each relay type resolves at most once per hit.</description>
+    <scope>Hero</scope>
+    <tier>Gold</tier>
+    <theme>Team relays</theme>
+    <weight>100</weight>
+    <maxStacks>1</maxStacks>
+    <iconPath>RimHex/Cards/RHA_A27_share</iconPath>
+    <mechanics>
+      <li>
+        <key>share027</key>
+        <amount>1</amount>
+      </li>
+    </mechanics>
+  </RimHex.HexAugmentDef>
+</Defs>

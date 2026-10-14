@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RHA_UI032_EquipmentIdentity>装备实例 #{0}</RHA_UI032_EquipmentIdentity>
+  <RHA_UI032_EquipmentRemoved>装备已拆解或移除。</RHA_UI032_EquipmentRemoved>
+  <RHA_UI032_EquipmentUnlocked>未锁定</RHA_UI032_EquipmentUnlocked>
+  <RHA_UI032_EquipmentChangeRecorded>变化已记录</RHA_UI032_EquipmentChangeRecorded>
+  <RHA_UI032_EquipmentBeforeAfter>操作前
+{0}
+
+操作后
+{1}</RHA_UI032_EquipmentBeforeAfter>
+  <RHA_UI032_EquipmentResourceChange>碎晶：{0} → {1}
+凝核：{2} → {3}
+试炼精粹：{4} → {5}</RHA_UI032_EquipmentResourceChange>
+  <RHA_UI032_ForgeResourceChange>碎片：{0} → {1}
+核心：{2} → {3}</RHA_UI032_ForgeResourceChange>
+  <RHA_UI032_ForgeCreated>锻造完成</RHA_UI032_ForgeCreated>
+  <RHA_UI032_NoEquipmentBefore>尚未锻造该装备。</RHA_UI032_NoEquipmentBefore>
+  <RHA_UI032_ChangeDetails>查看变化</RHA_UI032_ChangeDetails>
+  <RHA_UI032_TrialRunIdentity>核心试炼 #{0}</RHA_UI032_TrialRunIdentity>
+  <RHA_UI032_EndlessRunIdentity>无尽试炼 #{0}</RHA_UI032_EndlessRunIdentity>
+  <RHA_UI032_EndlessChooseNamed>选择祝福 · {0}</RHA_UI032_EndlessChooseNamed>
+  <RHA_UI032_StarRunIdentity>进阶试炼 #{0}</RHA_UI032_StarRunIdentity>
+  <RHA_UI032_EconomicRunIdentity>经济试炼 #{0}</RHA_UI032_EconomicRunIdentity>
+  <RHA_UI032_SiteIdentity>地点 #{0}</RHA_UI032_SiteIdentity>
+  <RHA_UI032_RuinSiteIdentity>遗迹远征 · 地点 #{0}</RHA_UI032_RuinSiteIdentity>
+  <RHA_UI032_SiteUnavailable>地点已不可用</RHA_UI032_SiteUnavailable>
+  <RHA_UI032_AvailableTasks>可接取的委托</RHA_UI032_AvailableTasks>
+  <RHA_UI032_BountyTypeIdentity>委托类型：{0}</RHA_UI032_BountyTypeIdentity>
+  <RHA_UI032_CurrentExpeditions>当前远征</RHA_UI032_CurrentExpeditions>
+  <RHA_UI032_SurveyCatalog>调查新地点</RHA_UI032_SurveyCatalog>
+  <RHA_UI032_LastReturnFailure>无法返程：{0}</RHA_UI032_LastReturnFailure>
+  <RHA_UI032_SearchEquipment>搜索装备…</RHA_UI032_SearchEquipment>
+  <RHA_UI032_TrialContributionsEmpty>尚无贡献记录。</RHA_UI032_TrialContributionsEmpty>
+  <RHA_UI032_LastReturnSuccess>上次返程已完成：人员与动物 {0} · 物品堆 {1}
+目的地：{2} · 地点仍保留</RHA_UI032_LastReturnSuccess>
+</LanguageData>

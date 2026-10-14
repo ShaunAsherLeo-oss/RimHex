@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Defs>
+  <RimHex.HexRelicModelDef>
+    <defName>RHA_Model_Fulmination038</defName>
+    <texturePath>RimHex/EquipmentModels038/Fulmination038</texturePath>
+    <emissionPath>RimHex/EquipmentGlow038/Fulmination038</emissionPath>
+    <drawScale>0.9</drawScale>
+  </RimHex.HexRelicModelDef>
+  <RimHex.HexRelicModelDef>
+    <defName>RHA_Model_Quicksilver038</defName>
+    <texturePath>RimHex/EquipmentModels038/Quicksilver038</texturePath>
+    <emissionPath>RimHex/EquipmentGlow038/Quicksilver038</emissionPath>
+    <drawScale>0.9</drawScale>
+  </RimHex.HexRelicModelDef>
+  <RimHex.HexRelicModelDef>
+    <defName>RHA_Model_KnightsVow038</defName>
+    <texturePath>RimHex/Relics/RefDivineSword</texturePath>
+    <emissionPath>RimHex/RelicGlow/RefDivineSword</emissionPath>
+    <drawScale>.9</drawScale>
+  </RimHex.HexRelicModelDef>
+  <RimHex.HexRelicModelDef>
+    <defName>RHA_Model_Zhonya038</defName>
+    <texturePath>RimHex/Relics/RefAscension</texturePath>
+    <emissionPath>RimHex/RelicGlow/RefAscension</emissionPath>
+    <drawScale>.9</drawScale>
+  </RimHex.HexRelicModelDef>
+</Defs>

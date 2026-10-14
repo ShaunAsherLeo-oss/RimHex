@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_V21_Recovery>Node recall ready in {0}s</RHA_V21_Recovery>
+  <RHA_V21_FuelSpent>Shield spent as flywheel fuel</RHA_V21_FuelSpent>
+  <RHA_V21_AlreadySpinning>Flywheel already active</RHA_V21_AlreadySpinning>
+  <RHA_V21_NotSpinning>Start spinning first</RHA_V21_NotSpinning>
+  <RHA_V21_NoAmmo>Requires prismatic rounds and an equipped ranged weapon</RHA_V21_NoAmmo>
+  <RHA_V21_NoNode>No valid designated node</RHA_V21_NoNode>
+  <RHA_V21_NoTarget>Waiting for a valid target</RHA_V21_NoTarget>
+  <RHA_V21_ManualControl>This control is manual only</RHA_V21_ManualControl>
+  <RHA_V21_WaitFull>Waiting for a full magazine</RHA_V21_WaitFull>
+  <RHA_V21_NodeExists>A node is already designated; manually redeploy or rebind it</RHA_V21_NodeExists>
+  <RHA_V21_SpentOnKill>A lethal impact spent a round</RHA_V21_SpentOnKill>
+  <RHA_V21_SpinStatus>Flywheel: {0}; shield reserve {1}, current shield {2}</RHA_V21_SpinStatus>
+  <RHA_V21_Spinning>{0} pulses; at most {1}s remaining</RHA_V21_Spinning>
+  <RHA_V21_Idle>Idle</RHA_V21_Idle>
+  <RHA_V21_AmmoStatus>Magazine: {0}/5; reload in {1}s; walking progress {2}/6 cells</RHA_V21_AmmoStatus>
+  <RHA_V21_NodeStatus>Node: {0}; {1}</RHA_V21_NodeStatus>
+  <RHA_V21_Linked>Linked; pulse, Crystal bolt and Aid pulse cast from the node</RHA_V21_Linked>
+  <RHA_V21_LocalCast>Unlinked; supported abilities cast from the owner</RHA_V21_LocalCast>
+  <RHA_V21_Reserve>Shield reserve: {0}</RHA_V21_Reserve>
+  <RHA_V21_ReserveDesc>Cycle the flywheel shield reserve: 0, 10, 25 or 50. If a pulse cannot be paid while retaining this reserve, the spin ends.</RHA_V21_ReserveDesc>
+  <RHA_V21_Status>Build engines</RHA_V21_Status>
+  <RHA_V21_StatusDesc>Current flywheel, prismatic ammo and resonance node status.</RHA_V21_StatusDesc>
+</LanguageData>

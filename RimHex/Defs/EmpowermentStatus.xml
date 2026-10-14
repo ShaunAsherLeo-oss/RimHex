@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Defs>
+  <HediffDef Name="RHA_EmpowermentBase" Abstract="True">
+    <hediffClass>RimHex.Hediff_HexEmpowerment</hediffClass>
+    <isBad>false</isBad>
+    <tendable>false</tendable>
+    <makesSickThought>false</makesSickThought>
+    <scenarioCanAdd>false</scenarioCanAdd>
+    <initialSeverity>1</initialSeverity>
+    <maxSeverity>1</maxSeverity>
+  </HediffDef>
+  <HediffDef ParentName="RHA_EmpowermentBase">
+    <defName>RHA_ColonyEmpowerment</defName>
+    <label>Colony augments</label>
+    <description>Shared colony augments are active. Hover to see their cards and stacks.</description>
+    <defaultLabelColor>(0.4,0.9,0.8)</defaultLabelColor>
+  </HediffDef>
+  <HediffDef ParentName="RHA_EmpowermentBase">
+    <defName>RHA_HeroEmpowerment</defName>
+    <label>Personal augments</label>
+    <description>Permanent augments belonging to this colonist. Select Augment details to inspect the full build.</description>
+    <defaultLabelColor>(1,0.8,0.4)</defaultLabelColor>
+  </HediffDef>
+  <HediffDef ParentName="RHA_EmpowermentBase">
+    <defName>RHA_RelicEmpowerment</defName>
+    <label>Relic resonance</label>
+    <description>Equipped prismatic relics are providing their effects. Removing a relic removes its equipment bonuses.</description>
+    <defaultLabelColor>(0.8,0.65,1)</defaultLabelColor>
+  </HediffDef>
+  <HediffDef ParentName="RHA_EmpowermentBase">
+    <defName>RHA_ActiveBarrier</defName>
+    <label>Prismatic shield</label>
+    <hediffClass>RimHex.Hediff_HexBarrier</hediffClass>
+    <description>Absorbs damage before it reaches the body. Shows remaining capacity and duration. Disappears when depleted or expired.</description>
+    <defaultLabelColor>(0.65,0.85,1)</defaultLabelColor>
+  </HediffDef>
+</Defs>

@@ -1,0 +1,129 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Defs>
+  <RimHex.HexAwakeningDef>
+    <defName>RHA_AW8_StormPike</defName>
+    <label>Storm King's spear</label>
+    <relic>RHA_TRIAL_StormPike</relic>
+    <metric>damage</metric>
+    <required>12000</required>
+    <essenceCost>2</essenceCost>
+    <description>Deal 12,000 direct damage to enemies. The first awakening costs 2 trial essence, obtained by claiming rewards after the third trial wave.</description>
+    <branches>
+      <li>aw8_pike_pierce</li>
+      <li>aw8_pike_storm</li>
+    </branches>
+    <names>
+      <li>Heavenpiercer</li>
+      <li>Spreading storm</li>
+    </names>
+    <descriptions>
+      <li>When the Storm King's spear triggers, first strikes the original target for 500 + 200% of this hit's direct damage, then releases its normal storm. Copied actual damage gains no further attacker amplification or critical roll; the flat base still scales.</li>
+      <li>The Storm King's spear storm expands to 8 tiles and up to 16 enemies. Damage and cooldown are unchanged. Copied actual damage gains no further attacker amplification or critical roll; the flat base still scales.</li>
+    </descriptions>
+  </RimHex.HexAwakeningDef>
+  <RimHex.HexAwakeningDef>
+    <defName>RHA_AW8_StormAegis</defName>
+    <label>Stormwall</label>
+    <relic>RHA_TRIAL_StormAegis</relic>
+    <metric>shield</metric>
+    <required>5000</required>
+    <essenceCost>2</essenceCost>
+    <description>Absorb 5,000 actual damage with shields. The first awakening costs 2 trial essence, obtained by claiming rewards after the third trial wave.</description>
+    <branches>
+      <li>aw8_aegis_fortress</li>
+      <li>aw8_aegis_judgement</li>
+    </branches>
+    <names>
+      <li>Storm fortress</li>
+      <li>Thunder judgment</li>
+    </names>
+    <descriptions>
+      <li>Periodic shields increase to 240 points and also refresh 180-point shields on other free colonists within 10 tiles. Shields last 6 seconds. Cooldown remains 5 seconds. Copied actual damage gains no further attacker amplification or critical roll; the flat base still scales.</li>
+      <li>The shield counterattack reaches up to 8 enemies within 14 tiles. Each takes 160 + 80% of the damage just absorbed as additional damage. Cooldown remains 1 second. Copied actual damage gains no further attacker amplification or critical roll; the flat base still scales.</li>
+    </descriptions>
+  </RimHex.HexAwakeningDef>
+  <RimHex.HexAwakeningDef>
+    <defName>RHA_AW8_FurnaceHammer</defName>
+    <label>Starfall maul</label>
+    <relic>RHA_TRIAL_FurnaceHammer</relic>
+    <metric>hits</metric>
+    <required>240</required>
+    <essenceCost>2</essenceCost>
+    <description>Land 240 valid direct hits. The first awakening costs 2 trial essence, obtained by claiming rewards after the third trial wave.</description>
+    <branches>
+      <li>aw8_hammer_crush</li>
+      <li>aw8_hammer_lava</li>
+    </branches>
+    <names>
+      <li>Starbreaker</li>
+      <li>Molten aftershock</li>
+    </names>
+    <descriptions>
+      <li>When the Starfall maul triggers, first strikes the original target for 300 + 80 × the wearer's health multiplier, then releases its normal shockwave.</li>
+      <li>When the Starfall maul triggers, also creates a molten field with a 5-tile radius for 6 seconds. Every second it deals 60 + 15 × the wearer's health multiplier as additional damage and applies burn.</li>
+    </descriptions>
+  </RimHex.HexAwakeningDef>
+  <RimHex.HexAwakeningDef>
+    <defName>RHA_AW8_FurnacePlate</defName>
+    <label>Furnace armor</label>
+    <relic>RHA_TRIAL_FurnacePlate</relic>
+    <metric>shield</metric>
+    <required>6000</required>
+    <essenceCost>2</essenceCost>
+    <description>Absorb 6,000 actual damage with shields. The first awakening costs 2 trial essence, obtained by claiming rewards after the third trial wave.</description>
+    <branches>
+      <li>aw8_plate_shelter</li>
+      <li>aw8_plate_revenge</li>
+    </branches>
+    <names>
+      <li>Furnace shelter</li>
+      <li>Furnace vengeance</li>
+    </names>
+    <descriptions>
+      <li>When the Furnace armor triggers, also refreshes shields of 180 + 10 × the wearer's health multiplier on other free colonists within 10 tiles, lasting 10 seconds.</li>
+      <li>When the Furnace armor triggers, strikes up to 12 enemies within 5 tiles of the wearer for 160 + 40 × the wearer's health multiplier as additional damage.</li>
+    </descriptions>
+  </RimHex.HexAwakeningDef>
+  <RimHex.HexAwakeningDef>
+    <defName>RHA_AW8_SoulLantern</defName>
+    <label>Lantern of souls</label>
+    <relic>RHA_TRIAL_SoulLantern</relic>
+    <metric>kills</metric>
+    <required>60</required>
+    <essenceCost>2</essenceCost>
+    <description>Kill 60 standing enemies. The first awakening costs 2 trial essence, obtained by claiming rewards after the third trial wave.</description>
+    <branches>
+      <li>aw8_lantern_gather</li>
+      <li>aw8_lantern_legion</li>
+    </branches>
+    <names>
+      <li>Undying soulflame</li>
+      <li>Soul barrage</li>
+    </names>
+    <descriptions>
+      <li>Grants 8 additional soul marks per kill, regardless of the soul bolt cooldown. Soul bolts still fire normally. Steel, feast, soul marks and evil power keep their full effect through 100 each. Beyond that, effective growth has diminishing returns; stored counts are preserved.</li>
+      <li>Soul bolts on kill reach up to 6 enemies within 18 tiles. Each takes 120 + 5 × soul marks damage. Cooldown remains 2 seconds. Steel, feast, soul marks and evil power keep their full effect through 100 each. Beyond that, effective growth has diminishing returns; stored counts are preserved.</li>
+    </descriptions>
+  </RimHex.HexAwakeningDef>
+  <RimHex.HexAwakeningDef>
+    <defName>RHA_AW8_SoulSeal</defName>
+    <label>Soulward seal</label>
+    <relic>RHA_TRIAL_SoulSeal</relic>
+    <metric>heal</metric>
+    <required>5000</required>
+    <essenceCost>2</essenceCost>
+    <description>Heal 5,000 actual injury points. The first awakening costs 2 trial essence, obtained by claiming rewards after the third trial wave.</description>
+    <branches>
+      <li>aw8_seal_tide</li>
+      <li>aw8_seal_judgement</li>
+    </branches>
+    <names>
+      <li>Returning tide</li>
+      <li>Sacred verdict</li>
+    </names>
+    <descriptions>
+      <li>When the Soulward seal converts healing into shields, also heals 80 ordinary injury points on each of the up to 4 recipients. This healing does not charge the seal again.</li>
+      <li>When the Soulward seal converts healing into shields, also strikes up to 4 enemies within 12 tiles of the wearer for 240 additional damage each.</li>
+    </descriptions>
+  </RimHex.HexAwakeningDef>
+</Defs>

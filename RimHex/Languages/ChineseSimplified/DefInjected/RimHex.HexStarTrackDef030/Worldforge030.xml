@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_STAR_Relic_Worldforge.nodes.0.label>炉心承袭</RHA_STAR_Relic_Worldforge.nodes.0.label>
+  <RHA_STAR_Relic_Worldforge.nodes.0.description>保留万象熔炉及原有觉醒。后续进阶只认可本人实际完成、消耗材料且产出物品的生产账单；取消、手术和空配方不计。未完成的生产次数不随换人延续，已积累的回收小数跟随装备。</RHA_STAR_Relic_Worldforge.nodes.0.description>
+  <RHA_STAR_Relic_Worldforge.nodes.1.label>连产回炉</RHA_STAR_Relic_Worldforge.nodes.1.label>
+  <RHA_STAR_Relic_Worldforge.nodes.1.description>连续完成3次相同配方，相邻完成间隔不超过1天，返还第3次实际消耗的可堆叠材料的30%。改做其他配方重新计数；不足一个材料的部分累积保存。</RHA_STAR_Relic_Worldforge.nodes.1.description>
+  <RHA_STAR_Relic_Worldforge.nodes.2.label>换线余料</RHA_STAR_Relic_Worldforge.nodes.2.label>
+  <RHA_STAR_Relic_Worldforge.nodes.2.description>连续完成两种不同配方，相邻完成间隔不超过1天，返还第2次实际消耗的可堆叠材料的20%。每两次算一组；重复配方重新从当前账单计数，不足一个材料的部分累积保存。</RHA_STAR_Relic_Worldforge.nodes.2.description>
+  <RHA_STAR_Relic_Worldforge.nodes.3.label>闭环熔炼</RHA_STAR_Relic_Worldforge.nodes.3.label>
+  <RHA_STAR_Relic_Worldforge.nodes.3.description>连产回炉的材料返还提高至10%。只提高之后完成的账单，不重新计算已经积累的回收额。</RHA_STAR_Relic_Worldforge.nodes.3.description>
+  <RHA_STAR_Relic_Worldforge.nodes.4.label>炉前研习</RHA_STAR_Relic_Worldforge.nodes.4.label>
+  <RHA_STAR_Relic_Worldforge.nodes.4.description>每完成一组连产回炉，额外获得该配方劳动技能的400点基础经验，受学习效率影响。没有劳动技能或该技能被禁用时不授予经验。</RHA_STAR_Relic_Worldforge.nodes.4.description>
+  <RHA_STAR_Relic_Worldforge.nodes.5.label>巡炉养护</RHA_STAR_Relic_Worldforge.nodes.5.label>
+  <RHA_STAR_Relic_Worldforge.nodes.5.description>每完成一组换线余料，修复本人6格内视线畅通、最近一座己方建筑的160点耐久。只修复已经受损且有耐久的建筑，没有目标时不储存次数。 基础收益：建筑修复 160。</RHA_STAR_Relic_Worldforge.nodes.5.description>
+  <RHA_STAR_Relic_Worldforge.nodes.6.label>余料分拣</RHA_STAR_Relic_Worldforge.nodes.6.label>
+  <RHA_STAR_Relic_Worldforge.nodes.6.description>换线余料的材料返还提高至7%。只提高之后完成的账单，不重新计算已经积累的回收额。</RHA_STAR_Relic_Worldforge.nodes.6.description>
+</LanguageData>

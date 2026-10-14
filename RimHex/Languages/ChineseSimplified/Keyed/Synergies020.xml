@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_V20_Hint>以 {0} 为预览对象：{1}</RHA_V20_Hint>
+  <RHA_V20_Choose>选择殖民者，查看构筑联动。</RHA_V20_Choose>
+  <RHA_V20_New>开启新路线</RHA_V20_New>
+  <RHA_V20_Link>补强现有路线</RHA_V20_Link>
+  <RHA_V20_Owned>已有来源：{0}</RHA_V20_Owned>
+  <RHA_V20_Missing>{0}：{1}/{2} 个来源；尚缺 {3}</RHA_V20_Missing>
+  <RHA_V20_None>无</RHA_V20_None>
+  <RHA_V20_More>更多来源见构筑面板</RHA_V20_More>
+  <RHA_V20_Status>联动蓄能</RHA_V20_Status>
+  <RHA_V20_StatusDesc>构筑联动的蓄能与剩余时间。</RHA_V20_StatusDesc>
+  <RHA_V20_Charge>{0}：{1}/{2}</RHA_V20_Charge>
+  <RHA_V20_Time>{0}：剩余 {1} 秒</RHA_V20_Time>
+  <RHA_V20_Ready>已就绪</RHA_V20_Ready>
+  <RHA_V20_Waiting>等待触发</RHA_V20_Waiting>
+</LanguageData>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_STAR_Core_mine.nodes.0.label>Prismatic Mines</RHA_STAR_Core_mine.nodes.0.label>
+  <RHA_STAR_Core_mine.nodes.0.description>Requires the Mine core card. Retains deployment, manual detonation and disarming. Mines arm after 1 second and last 30 seconds, with limits of three per owner and twelve per map and a 6-second deployment interval. Advancement resets neither lifetime nor deployment recovery.</RHA_STAR_Core_mine.nodes.0.description>
+  <RHA_STAR_Core_mine.nodes.1.label>Fragment Mine</RHA_STAR_Core_mine.nodes.1.label>
+  <RHA_STAR_Core_mine.nodes.1.description>Automatic trigger radius falls to 1 cell; base blast damage rises to 14. The blast still hits up to four enemies within 2 cells and clear sight. No separate branch card required; your deployed mines prevent branch changes.</RHA_STAR_Core_mine.nodes.1.description>
+  <RHA_STAR_Core_mine.nodes.2.label>Tripwire Mine</RHA_STAR_Core_mine.nodes.2.label>
+  <RHA_STAR_Core_mine.nodes.2.description>The oldest two armed mines pair within 6 cells and clear sight. An enemy crossing the wire triggers a 0.5-second fuse; both mines are consumed, dealing 5 base damage and a 3-second slow to up to four enemies along the wire. Unpaired mines do not trigger automatically but can be detonated manually. No separate branch card required.</RHA_STAR_Core_mine.nodes.2.description>
+  <RHA_STAR_Core_mine.nodes.3.label>Shrapnel Opening</RHA_STAR_Core_mine.nodes.3.label>
+  <RHA_STAR_Core_mine.nodes.3.description>A damaging blast marks one surviving enemy for 4 seconds. The owner’s next ordinary hit consumes the opening for 75 bonus damage. One opening with a 6-second creation cooldown; skills, allies and mines cannot spend it. Base rewards: damage 75.</RHA_STAR_Core_mine.nodes.3.description>
+  <RHA_STAR_Core_mine.nodes.4.label>Flying Shards</RHA_STAR_Core_mine.nodes.4.label>
+  <RHA_STAR_Core_mine.nodes.4.description>A damaging blast deals 25 bonus damage to another enemy within 3 cells of the impact and clear sight, once per 6 seconds. One trigger per blast; the triggering victim cannot be hit again by the bonus. Base rewards: damage 25.</RHA_STAR_Core_mine.nodes.4.description>
+  <RHA_STAR_Core_mine.nodes.5.label>Wire Cover</RHA_STAR_Core_mine.nodes.5.label>
+  <RHA_STAR_Core_mine.nodes.5.description>A damaging paired wire strike grants the nearest other colonist within 4 cells of the owner and clear sight a separate 50-point shield for 3 seconds, once per 6 seconds. Unpaired blasts do not trigger it, and there is no self-shield fallback. Base rewards: shield 50.</RHA_STAR_Core_mine.nodes.5.description>
+  <RHA_STAR_Core_mine.nodes.6.label>Wire Relief</RHA_STAR_Core_mine.nodes.6.label>
+  <RHA_STAR_Core_mine.nodes.6.description>A damaging paired wire strike heals 2 recoverable injury points on the nearest injured ally within 4 cells of the owner and clear sight, once per 6 seconds. Unpaired blasts do not trigger it. No self-heal, missing-part restoration or scar healing. Base rewards: healing 40.</RHA_STAR_Core_mine.nodes.6.description>
+</LanguageData>

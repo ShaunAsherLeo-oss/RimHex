@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_STAR_Skill_Return013.nodes.0.label>归途印记</RHA_STAR_Skill_Return013.nodes.0.label>
+  <RHA_STAR_Skill_Return013.nodes.0.description>先通过对应强化卡学会回返。保留原回返点、有效时间、距离和冷却限制；星图不免费学习技能或生成回返点。</RHA_STAR_Skill_Return013.nodes.0.description>
+  <RHA_STAR_Skill_Return013.nodes.1.label>撤步护身</RHA_STAR_Skill_Return013.nodes.1.label>
+  <RHA_STAR_Skill_Return013.nodes.1.description>成功施放回返后，获得50点独立护盾，持续3秒，冷却8秒。无有效回返点、施放失败或其他位移不会触发。 基础收益：护盾 50。</RHA_STAR_Skill_Return013.nodes.1.description>
+  <RHA_STAR_Skill_Return013.nodes.2.label>喘息之隙</RHA_STAR_Skill_Return013.nodes.2.label>
+  <RHA_STAR_Skill_Return013.nodes.2.description>成功施放回返后，治疗自身40点基础可恢复伤势，冷却8秒。不恢复缺失部位或永久伤疤；无伤势时不产生治疗。 基础收益：治疗 40。</RHA_STAR_Skill_Return013.nodes.2.description>
+  <RHA_STAR_Skill_Return013.nodes.3.label>退中藏锋</RHA_STAR_Skill_Return013.nodes.3.label>
+  <RHA_STAR_Skill_Return013.nodes.3.description>成功回返后储存一次反击，持续5秒，最多一次，生成冷却8秒。之后的普通命中消耗反击，追加50点伤害；额外伤害不能消耗或重新生成反击。 基础收益：伤害 50。</RHA_STAR_Skill_Return013.nodes.3.description>
+  <RHA_STAR_Skill_Return013.nodes.4.label>归阵掩护</RHA_STAR_Skill_Return013.nodes.4.label>
+  <RHA_STAR_Skill_Return013.nodes.4.description>成功回返后，为落点4格内视线畅通、最近的另一名殖民者提供50点护盾，持续3秒，冷却8秒。没有合适队友时不转给本人。 基础收益：护盾 50。</RHA_STAR_Skill_Return013.nodes.4.description>
+  <RHA_STAR_Skill_Return013.nodes.5.label>伤后互援</RHA_STAR_Skill_Return013.nodes.5.label>
+  <RHA_STAR_Skill_Return013.nodes.5.description>喘息之隙实际治好本人的伤势后，治疗本人4格内视线畅通、伤势最重的另一名殖民者20点基础伤势，冷却8秒。本人未得到实际治疗时不触发。 基础收益：治疗 20。</RHA_STAR_Skill_Return013.nodes.5.description>
+  <RHA_STAR_Skill_Return013.nodes.6.label>重整防线</RHA_STAR_Skill_Return013.nodes.6.label>
+  <RHA_STAR_Skill_Return013.nodes.6.description>喘息之隙实际治好本人的伤势后，获得50点独立护盾，持续3秒，冷却8秒。健康时回返不会触发。 基础收益：护盾 50。</RHA_STAR_Skill_Return013.nodes.6.description>
+</LanguageData>

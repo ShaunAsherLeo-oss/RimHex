@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_Ruin_Forge.label>废弃铸造厂</RHA_Ruin_Forge.label>
+  <RHA_Ruin_Forge.description>旧产线仍有余热。修复设备、启动危险工序，或拆走还能用的零件。</RHA_Ruin_Forge.description>
+  <RHA_Ruin_Archive.label>失落研究所</RHA_Ruin_Archive.label>
+  <RHA_Ruin_Archive.description>研究设备与医疗舱仍被锁在安保系统后。保存的数据越多，密封仪器越有可能完好。</RHA_Ruin_Archive.description>
+  <RHA_Ruin_Vault.label>封存军械库</RHA_Ruin_Vault.label>
+  <RHA_Ruin_Vault.description>失效的军需凭证与仍在执行命令的守卫，挡在密封装备箱前。</RHA_Ruin_Vault.description>
+</LanguageData>

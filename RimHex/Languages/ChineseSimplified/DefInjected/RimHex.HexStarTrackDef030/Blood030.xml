@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_STAR_Path_Blood.nodes.0.label>血契</RHA_STAR_Path_Blood.nodes.0.label>
+  <RHA_STAR_Path_Blood.nodes.0.description>沿用已选鲜血进化。精进：溢出治疗转盾比例或击杀治疗量。 精进初始 ×1，终值：治疗 ×10；护盾 ×20。</RHA_STAR_Path_Blood.nodes.0.description>
+  <RHA_STAR_Path_Blood.nodes.1.label>饮刃</RHA_STAR_Path_Blood.nodes.1.label>
+  <RHA_STAR_Path_Blood.nodes.1.description>本人有可治疗伤势时，累计3次普通命中，修复本人最多20点非永久伤势，间隔3秒。相邻有效命中间隔达到4秒会重新计数。满血、只有伤疤及追加伤害不累计。精进：治疗量。 基础收益：治疗 20。 精进初始 ×1，终值：治疗 ×10。</RHA_STAR_Path_Blood.nodes.1.description>
+  <RHA_STAR_Path_Blood.nodes.2.label>分血</RHA_STAR_Path_Blood.nodes.2.label>
+  <RHA_STAR_Path_Blood.nodes.2.description>普通命中后，为4格内另一名可治疗伤势总量最多的己方殖民者修复最多20点伤势，间隔4秒。伤势相同时优先近处；不治疗伤疤，无人可治疗时不消耗冷却。精进：治疗量。 基础收益：治疗 20。 精进初始 ×1，终值：治疗 ×10。</RHA_STAR_Path_Blood.nodes.2.description>
+  <RHA_STAR_Path_Blood.nodes.3.label>开刃</RHA_STAR_Path_Blood.nodes.3.label>
+  <RHA_STAR_Path_Blood.nodes.3.description>饮刃实际治疗后，留下3秒机会：本人下一次普通命中追加50点伤害。仅保留一次机会，不累加、不续时，产生治疗的当次命中不能消费。精进：追加伤害。 基础收益：伤害 50。 精进初始 ×1，终值：伤害 ×50。</RHA_STAR_Path_Blood.nodes.3.description>
+  <RHA_STAR_Path_Blood.nodes.4.label>留血</RHA_STAR_Path_Blood.nodes.4.label>
+  <RHA_STAR_Path_Blood.nodes.4.description>饮刃实际治疗后存下1份血息，最多1份，保留4秒；已有血息不续时。鲜血战技施放时消费血息，为本人提供50点护盾，持续3秒；没有实际治疗不能储存。精进：护盾量。 基础收益：护盾 50。 精进初始 ×1，终值：护盾 ×20。</RHA_STAR_Path_Blood.nodes.4.description>
+  <RHA_STAR_Path_Blood.nodes.5.label>续脉</RHA_STAR_Path_Blood.nodes.5.label>
+  <RHA_STAR_Path_Blood.nodes.5.description>分血实际治疗后记住患者3秒。本人下一次普通命中不同于本次触发的敌人，为该患者提供50点护盾，持续3秒，每次治疗只兑现一次。精进：护盾量。 基础收益：护盾 50。 精进初始 ×1，终值：护盾 ×20。</RHA_STAR_Path_Blood.nodes.5.description>
+  <RHA_STAR_Path_Blood.nodes.6.label>跟护</RHA_STAR_Path_Blood.nodes.6.label>
+  <RHA_STAR_Path_Blood.nodes.6.description>分血实际治疗后留下3秒机会。本人连续步行至少2格，并在患者2格内普通命中敌人，再修复该患者最多20点非永久伤势。瞬移不算，满血时保留原时限内机会。精进：治疗量。 基础收益：治疗 20。 精进初始 ×1，终值：治疗 ×10。</RHA_STAR_Path_Blood.nodes.6.description>
+  <RHA_STAR_Path_Blood.nodes.7.label>血痕</RHA_STAR_Path_Blood.nodes.7.label>
+  <RHA_STAR_Path_Blood.nodes.7.description>开刃追加伤害实际命中后留下4秒血痕，最多2名敌人。本人鲜血战技命中时消费血痕，追加75点伤害；每名目标间隔1秒。精进：血痕追加伤害。 基础收益：伤害 75。 精进初始 ×1，终值：伤害 ×50。</RHA_STAR_Path_Blood.nodes.7.description>
+  <RHA_STAR_Path_Blood.nodes.8.label>回潮</RHA_STAR_Path_Blood.nodes.8.label>
+  <RHA_STAR_Path_Blood.nodes.8.description>留血护盾实际吸收敌伤后记住最近攻击者3秒。本人2格内普通命中该敌人追加50点伤害，每轮护盾限一次，后续挡伤不续时。精进：追加伤害。 基础收益：伤害 50。 精进初始 ×1，终值：伤害 ×50。</RHA_STAR_Path_Blood.nodes.8.description>
+  <RHA_STAR_Path_Blood.nodes.9.label>回赠</RHA_STAR_Path_Blood.nodes.9.label>
+  <RHA_STAR_Path_Blood.nodes.9.description>续脉护盾实际吸收敌伤后留下3秒机会。本人下一次普通命中，为4格内另一名受伤队友修复最多20点伤势，排除该盾原患者；同轮护盾一次，无其他患者时只保留原时限。精进：治疗量。 基础收益：治疗 20。 精进初始 ×1，终值：治疗 ×10。</RHA_STAR_Path_Blood.nodes.9.description>
+  <RHA_STAR_Path_Blood.nodes.10.label>稳住伤口</RHA_STAR_Path_Blood.nodes.10.label>
+  <RHA_STAR_Path_Blood.nodes.10.description>跟护的后续治疗实际生效后，若患者仍低于50%总健康，为该患者提供50点护盾，持续3秒。只检查治疗后的原版健康比例，每次跟护一次。精进：护盾量。 基础收益：护盾 50。 精进初始 ×1，终值：护盾 ×20。</RHA_STAR_Path_Blood.nodes.10.description>
+  <RHA_STAR_Path_Blood.nodes.11.label>换刃</RHA_STAR_Path_Blood.nodes.11.label>
+  <RHA_STAR_Path_Blood.nodes.11.description>鲜血战技消费血痕并实际造成伤害后，留下3秒机会。本人普通命中另一敌人时修复本人最多20点伤势；每次战技只保留一次，不反复续时。精进：治疗量。 基础收益：治疗 20。 精进初始 ×1，终值：治疗 ×10。</RHA_STAR_Path_Blood.nodes.11.description>
+  <RHA_STAR_Path_Blood.nodes.12.label>收血</RHA_STAR_Path_Blood.nodes.12.label>
+  <RHA_STAR_Path_Blood.nodes.12.description>血痕追加伤害实际命中后，修复本人最多20点非永久伤势。若发生实际治疗，再提供25点护盾，持续3秒；同次战技只结算一次。精进：治疗量与护盾量；满血时不触发治疗。 基础收益：护盾 25；治疗 20。 精进初始 ×1，终值：治疗 ×10；护盾 ×20。</RHA_STAR_Path_Blood.nodes.12.description>
+  <RHA_STAR_Path_Blood.nodes.13.label>踏潮</RHA_STAR_Path_Blood.nodes.13.label>
+  <RHA_STAR_Path_Blood.nodes.13.description>回潮实际反击后留下原站位3秒。本人连续步行至少2格且位移达到2格，再近身命中另一敌人，追加50点伤害；每次反击只兑现一次。精进：追加伤害。 基础收益：伤害 50。 精进初始 ×1，终值：伤害 ×50。</RHA_STAR_Path_Blood.nodes.13.description>
+  <RHA_STAR_Path_Blood.nodes.14.label>余温</RHA_STAR_Path_Blood.nodes.14.label>
+  <RHA_STAR_Path_Blood.nodes.14.description>回潮实际反击后，为4格内最近的另一名己方殖民者提供50点护盾，持续3秒。附近无人则修复本人最多20点非永久伤势，不储存延后发放。精进：治疗量与护盾量；满血时不触发治疗。 基础收益：护盾 50；治疗 20。 精进初始 ×1，终值：治疗 ×10；护盾 ×20。</RHA_STAR_Path_Blood.nodes.14.description>
+  <RHA_STAR_Path_Blood.nodes.15.label>归脉</RHA_STAR_Path_Blood.nodes.15.label>
+  <RHA_STAR_Path_Blood.nodes.15.description>回赠实际治疗另一名队友后，为最初的续脉患者提供50点护盾，持续3秒。以原患者身份结算，不能由新盾重新触发回赠。精进：护盾量。 基础收益：护盾 50。 精进初始 ×1，终值：护盾 ×20。</RHA_STAR_Path_Blood.nodes.15.description>
+  <RHA_STAR_Path_Blood.nodes.16.label>同行</RHA_STAR_Path_Blood.nodes.16.label>
+  <RHA_STAR_Path_Blood.nodes.16.description>回赠实际治疗后，记住新患者原位置3秒。本人步行进入其2格内并普通命中敌人，为本人和该患者各提供25点护盾，持续3秒；每次回赠一次。精进：护盾量。 基础收益：护盾 25。 精进初始 ×1，终值：护盾 ×20。</RHA_STAR_Path_Blood.nodes.16.description>
+  <RHA_STAR_Path_Blood.nodes.17.label>守住这一口气</RHA_STAR_Path_Blood.nodes.17.label>
+  <RHA_STAR_Path_Blood.nodes.17.description>稳住伤口的护盾实际吸收敌伤后，本人下一次2格内普通命中可为原患者修复最多20点非永久伤势，限3秒一次。重复挡伤不续时。精进：治疗量。 基础收益：治疗 20。 精进初始 ×1，终值：治疗 ×10。</RHA_STAR_Path_Blood.nodes.17.description>
+  <RHA_STAR_Path_Blood.nodes.18.label>轮护</RHA_STAR_Path_Blood.nodes.18.label>
+  <RHA_STAR_Path_Blood.nodes.18.description>稳住伤口授盾后，记住患者原位置3秒。本人步行离开其2格范围并近身命中另一敌人，为4格内另一名受伤队友修复最多20点伤势，排除原患者，每轮一次。精进：治疗量。 基础收益：治疗 20。 精进初始 ×1，终值：治疗 ×10。</RHA_STAR_Path_Blood.nodes.18.description>
+</LanguageData>

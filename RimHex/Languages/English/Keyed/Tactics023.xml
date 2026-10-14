@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_V23_Requires>Requires Molten Brand</RHA_V23_Requires>
+  <RHA_V23_NoMark>No brand ready to detonate</RHA_V23_NoMark>
+  <RHA_V23_Limit>Brand limit reached</RHA_V23_Limit>
+  <RHA_V23_Manual>This command is manual only</RHA_V23_Manual>
+  <RHA_V23_Waiting>Waiting for brand charge or a valid enemy</RHA_V23_Waiting>
+  <RHA_V23_NoSummon>No ordinary projections available</RHA_V23_NoSummon>
+  <RHA_V23_Brand>Brand {0}s · stored {1}/36</RHA_V23_Brand>
+  <RHA_V23_MarkOwner>Owner: {0}
+{1}</RHA_V23_MarkOwner>
+  <RHA_V23_Status>Brands and legion</RHA_V23_Status>
+  <RHA_V23_StatusDesc>Inspect brand charge, remaining time and the current order for ordinary projections.</RHA_V23_StatusDesc>
+  <RHA_V23_Marks>Active brands: {0}/3</RHA_V23_Marks>
+  <RHA_V23_Guard>Guard owner</RHA_V23_Guard>
+  <RHA_V23_Rally>Defend rally point {0}</RHA_V23_Rally>
+  <RHA_V23_Focus>Focus: {0}</RHA_V23_Focus>
+  <RHA_V23_Army>Ordinary projections: {0}; {1}</RHA_V23_Army>
+  <RHA_V23_MarkStatus>molten brand</RHA_V23_MarkStatus>
+  <RHA_V23_MarkDesc>This brand stores damage and releases it on expiry, death or early detonation.</RHA_V23_MarkDesc>
+  <RHA_V23_Cinder>cinders</RHA_V23_Cinder>
+  <RHA_V23_CinderDesc>Residual heat that cannot spread or charge brands.</RHA_V23_CinderDesc>
+  <RHA_V23_Ward>exchange cover</RHA_V23_Ward>
+  <RHA_V23_WardDesc>Takes 25% less damage.</RHA_V23_WardDesc>
+  <RHA_V23_BurnLeft>Owner: {0}; {1} pulses remaining, {2} base damage each</RHA_V23_BurnLeft>
+</LanguageData>

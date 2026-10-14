@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RHA_StarCadence030_Ready>Crossfire core: regular combat.</RHA_StarCadence030_Ready>
+  <RHA_StarCadence030_Warning>Beat {0}/2 locked · {1}s\nDamage to interrupt: {2}/{3}</RHA_StarCadence030_Warning>
+  <RHA_StarCadence030_Exposed>Core staggered: +25% damage · {0}s</RHA_StarCadence030_Exposed>
+  <RHA_StarCadence030_Brief>Leave the first firing lane, then move out of the crosswise sweep through your original position. Each beat has a separate locked warning. Focus fire or existing control can interrupt the sequence. Interruption, a clean dodge or full shield absorption leaves a 4-second opening with 25% extra damage; if a beat causes wounds, the opening lasts 1.5 seconds. You can keep attacking throughout. Defeat the core with personal damage or actual shield and healing contribution.</RHA_StarCadence030_Brief>
+</LanguageData>

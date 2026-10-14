@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_STAR_Relic_REF_StarryNight.nodes.0.label>Starveil Inheritance</RHA_STAR_Relic_REF_StarryNight.nodes.0.label>
+  <RHA_STAR_Relic_REF_StarryNight.nodes.0.description>Retains original mitigation: +0.7 damage-taken divisor, with other damage than bullets, cuts, stabs and blunt further divided by 3. New nodes count actual injury from ordinary hostile external hits of those other types; fully absorbed, friendly and secondary hits do not count. Progression stays with the item.</RHA_STAR_Relic_REF_StarryNight.nodes.0.description>
+  <RHA_STAR_Relic_REF_StarryNight.nodes.1.label>Gathering Night</RHA_STAR_Relic_REF_StarryNight.nodes.1.label>
+  <RHA_STAR_Relic_REF_StarryNight.nodes.1.description>Take two actual special-type hits from the same enemy, at most 4 seconds apart, to gain 50 base shield points for 3 seconds, once per 8 seconds. Changing attackers restarts the count. Ordinary physical and fully absorbed hits do not count. Base rewards: shield 50.</RHA_STAR_Relic_REF_StarryNight.nodes.1.description>
+  <RHA_STAR_Relic_REF_StarryNight.nodes.2.label>Starveil Reprisal</RHA_STAR_Relic_REF_StarryNight.nodes.2.label>
+  <RHA_STAR_Relic_REF_StarryNight.nodes.2.description>An actual hostile special-type hit marks its attacker for 4 seconds, with one mark maximum, once per 8 seconds. Your later ordinary hit on that enemy consumes the mark for 50 bonus damage. Base rewards: damage 50.</RHA_STAR_Relic_REF_StarryNight.nodes.2.description>
+  <RHA_STAR_Relic_REF_StarryNight.nodes.3.label>Shelter in Night</RHA_STAR_Relic_REF_StarryNight.nodes.3.label>
+  <RHA_STAR_Relic_REF_StarryNight.nodes.3.description>Under Gathering Night’s same-attacker condition, heal 20 base points of recoverable injuries on the most injured other colonist within 4 cells and clear sight, once per 8 seconds. Counts independently. Never heals you instead. Base rewards: healing 20.</RHA_STAR_Relic_REF_StarryNight.nodes.3.description>
+  <RHA_STAR_Relic_REF_StarryNight.nodes.4.label>Stored Starlight</RHA_STAR_Relic_REF_StarryNight.nodes.4.label>
+  <RHA_STAR_Relic_REF_StarryNight.nodes.4.description>Under Gathering Night’s same-attacker condition, independently store one reprisal for 5 seconds, once per 8 seconds. Your later ordinary hit consumes it for 50 bonus damage. Store at most one. Base rewards: damage 50.</RHA_STAR_Relic_REF_StarryNight.nodes.4.description>
+  <RHA_STAR_Relic_REF_StarryNight.nodes.5.label>Scattered Stars</RHA_STAR_Relic_REF_StarryNight.nodes.5.label>
+  <RHA_STAR_Relic_REF_StarryNight.nodes.5.description>After Starveil Reprisal actually deals bonus damage, deal 25 damage to one other enemy within 3 cells of the impact and clear sight, once per 8 seconds. Base rewards: damage 25.</RHA_STAR_Relic_REF_StarryNight.nodes.5.description>
+  <RHA_STAR_Relic_REF_StarryNight.nodes.6.label>Parting Veil</RHA_STAR_Relic_REF_StarryNight.nodes.6.label>
+  <RHA_STAR_Relic_REF_StarryNight.nodes.6.description>After Starveil Reprisal actually deals bonus damage, shield the nearest other colonist within 4 cells and clear sight for 50 base points over 3 seconds, once per 8 seconds. Never shields you instead. Base rewards: shield 50.</RHA_STAR_Relic_REF_StarryNight.nodes.6.description>
+</LanguageData>

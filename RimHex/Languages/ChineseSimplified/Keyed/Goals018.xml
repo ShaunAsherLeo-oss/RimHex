@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_G18_Tab>流派挑战</RHA_G18_Tab>
+  <RHA_G18_Recipient>选择个人挑战对象，或殖民地挑战负责人。接取时固定对象。</RHA_G18_Recipient>
+  <RHA_G18_Intro>每次追踪一条路线。阶段奖励每个存档限领一次；通关后可重试刷新纪录。悬停查看规则。</RHA_G18_Intro>
+  <RHA_G18_Rules>成形：凑齐流派要求的不同来源并选择基础进化。\n运用：个人流派在试炼战斗中施放对应战技 3 次；殖民地流派在家园施放 2 次，任意己方自由殖民者均可计入。只统计领取上一阶段奖励后的施放。\n验收：开战前及第三波清场时，至少拥有 5 个不同来源和基础进化。需重新开始三阶以上标准试炼，开启挑战规则，强度至少 100%；无尽模式不计入。个人挑战需在每一波有试炼敌人时分别施放一次对应战技；殖民地挑战需在开启试炼前额外施放一次对应战技。指定对象须在开战及完成时处于试炼地图、存活且未倒地。\n记录按最高难度及该难度下最快用时保存，计时包括准备与波间等待。放弃会清空当前阶段计数，但已领取阶段和通关记录保留。</RHA_G18_Rules>
+  <RHA_G18_Stage>已领取 {0}/3 阶段</RHA_G18_Stage>
+  <RHA_G18_MissingOwner>指定殖民者已不在；可放弃后重新指定。</RHA_G18_MissingOwner>
+  <RHA_G18_Untracked>尚未追踪</RHA_G18_Untracked>
+  <RHA_G18_Foundation>{0} 个不同流派来源＋基础进化</RHA_G18_Foundation>
+  <RHA_G18_FoundationHint>完成构筑后领取第一阶段奖励。相同卡牌叠层只算一个来源。</RHA_G18_FoundationHint>
+  <RHA_G18_PracticeHero>试炼战斗中施放「{2}」：{0}/{1} 次</RHA_G18_PracticeHero>
+  <RHA_G18_PracticeColony>家园中施放「{2}」：{0}/{1} 次</RHA_G18_PracticeColony>
+  <RHA_G18_FinalHero>重新开启三阶以上标准试炼（挑战强度≥100%）。每波施放一次流派战技，完成时存活且未倒地。</RHA_G18_FinalHero>
+  <RHA_G18_FinalColony>开战前额外施放一次流派战技，再通过三阶以上标准试炼（强度≥100%）。负责人完成时存活且未倒地。</RHA_G18_FinalColony>
+  <RHA_G18_Verified>挑战通过，可以领取阶段奖励。</RHA_G18_Verified>
+  <RHA_G18_TrialProgress>{0} · 已施放战技 {1}/3 波</RHA_G18_TrialProgress>
+  <RHA_G18_ColonyProgress>{0} · 战前施放 {1}/1 次</RHA_G18_ColonyProgress>
+  <RHA_G18_Registered>本轮已登记</RHA_G18_Registered>
+  <RHA_G18_NotRegistered>等待合格的新试炼</RHA_G18_NotRegistered>
+  <RHA_G18_Sources>当前来源 {0} · {1}</RHA_G18_Sources>
+  <RHA_G18_NoEvolution>未选择进化</RHA_G18_NoEvolution>
+  <RHA_G18_Evolved>已选择进化</RHA_G18_Evolved>
+  <RHA_G18_NoRecord>尚无通过记录</RHA_G18_NoRecord>
+  <RHA_G18_Record>通过 {0} 次 · 最高 {1} 阶 · 该阶最快 {2}</RHA_G18_Record>
+  <RHA_G18_ReplayHint>重试更新纪录，阶段奖励仅发放一次。</RHA_G18_ReplayHint>
+  <RHA_G18_Reward>奖励：{0} 碎晶／{1} 凝核／{2} 试炼精粹／{3} 通用券</RHA_G18_Reward>
+  <RHA_G18_Claim>领取阶段奖励</RHA_G18_Claim>
+  <RHA_G18_Abandon>放弃</RHA_G18_Abandon>
+  <RHA_G18_AbandonConfirm>放弃这条挑战？当前阶段的施放计数和未领取的通过凭证将清空。已领取的阶段奖励和通关纪录保留。</RHA_G18_AbandonConfirm>
+  <RHA_G18_Accept>追踪这条路线</RHA_G18_Accept>
+  <RHA_G18_Replay>重试挑战</RHA_G18_Replay>
+  <RHA_G18_Accepted>已追踪 {0}，指定对象：{1}。</RHA_G18_Accepted>
+  <RHA_G18_Abandoned>已放弃当前挑战；已领取阶段和通关纪录保留。</RHA_G18_Abandoned>
+  <RHA_G18_Full>奖励材料达到上限，暂不能领取。奖励仍保留。</RHA_G18_Full>
+  <RHA_G18_Claimed>阶段奖励：{0} 碎晶、{1} 凝核、{2} 试炼精粹、{3} 张通用选卡券。</RHA_G18_Claimed>
+  <RHA_G18_Certified>{0} 挑战通过：{1} 阶，用时 {2}。</RHA_G18_Certified>
+</LanguageData>

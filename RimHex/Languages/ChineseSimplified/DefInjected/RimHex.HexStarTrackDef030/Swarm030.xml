@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_STAR_Skill_Swarm016.nodes.0.label>蜂群呼唤</RHA_STAR_Skill_Swarm016.nodes.0.label>
+  <RHA_STAR_Skill_Swarm016.nodes.0.description>需要通过强化卡学会蜂群呼唤。保留原召唤技能、召唤数量与持续时间，进阶不免费生成单位。后续节点认可本人仍有效的蜂群、镜像和巨熊实际攻击，排除投影节点、额外伤害、友军误伤与倒地补刀。多个召唤物共用主人的节点冷却。</RHA_STAR_Skill_Swarm016.nodes.0.description>
+  <RHA_STAR_Skill_Swarm016.nodes.1.label>围猎破口</RHA_STAR_Skill_Swarm016.nodes.1.label>
+  <RHA_STAR_Skill_Swarm016.nodes.1.description>本人召唤物连续3次实际伤及同一敌人，相邻命中间隔不超过3秒，为该敌人留下6秒破口。本人后续普通命中消耗破口，追加50点伤害。最多一个破口，生成冷却6秒；转火重新计数，多个召唤物可共同蓄积。 基础收益：伤害 50。</RHA_STAR_Skill_Swarm016.nodes.1.description>
+  <RHA_STAR_Skill_Swarm016.nodes.2.label>护主本能</RHA_STAR_Skill_Swarm016.nodes.2.label>
+  <RHA_STAR_Skill_Swarm016.nodes.2.description>本人召唤物实际伤敌后，为本人提供25点独立护盾，持续3秒，冷却6秒。所有召唤物共用一次冷却，召唤和退场本身没有奖励。 基础收益：护盾 25。</RHA_STAR_Skill_Swarm016.nodes.2.description>
+  <RHA_STAR_Skill_Swarm016.nodes.3.label>乘隙扑击</RHA_STAR_Skill_Swarm016.nodes.3.label>
+  <RHA_STAR_Skill_Swarm016.nodes.3.description>本人兑现围猎破口的追加伤害后，向受击点3格内视线畅通的另一名敌人追加25点伤害，冷却6秒。没有其他敌人时不重复打击原目标；必须先实际兑现破口。 基础收益：伤害 25。</RHA_STAR_Skill_Swarm016.nodes.3.description>
+  <RHA_STAR_Skill_Swarm016.nodes.4.label>猎获回补</RHA_STAR_Skill_Swarm016.nodes.4.label>
+  <RHA_STAR_Skill_Swarm016.nodes.4.description>本人兑现围猎破口的追加伤害后，治疗自身20点可恢复伤势，冷却6秒。未实际造成追加伤害则不治疗；不恢复缺失部位或永久伤疤。 基础收益：治疗 20。</RHA_STAR_Skill_Swarm016.nodes.4.description>
+  <RHA_STAR_Skill_Swarm016.nodes.5.label>护主反扑</RHA_STAR_Skill_Swarm016.nodes.5.label>
+  <RHA_STAR_Skill_Swarm016.nodes.5.description>本人的护盾实际吸收敌人伤害时，为攻击者留下6秒反扑标记。本人召唤物随后实际伤及该敌人，消耗标记追加50点伤害。最多保留一个标记，生成冷却6秒；召唤物伤害不能生成新标记。 基础收益：伤害 50。</RHA_STAR_Skill_Swarm016.nodes.5.description>
+  <RHA_STAR_Skill_Swarm016.nodes.6.label>群卫掩护</RHA_STAR_Skill_Swarm016.nodes.6.label>
+  <RHA_STAR_Skill_Swarm016.nodes.6.description>本人召唤物实际伤敌后，为本人4格内视线畅通、最近一名其他殖民者提供50点独立护盾，持续3秒，冷却6秒。没有合适队友时不转给本人；与护主本能分别结算。 基础收益：护盾 50。</RHA_STAR_Skill_Swarm016.nodes.6.description>
+</LanguageData>

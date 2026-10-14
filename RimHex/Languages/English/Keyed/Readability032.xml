@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RHA_Readability032_AffiliationHelp>Affiliation identifies related paths. Counted growth sources depend on this colonist's actual state.</RHA_Readability032_AffiliationHelp>
+  <RHA_Readability032_ColonyPath>{0} (colony)</RHA_Readability032_ColonyPath>
+  <RHA_Readability032_RoleUnclassified>Unclassified</RHA_Readability032_RoleUnclassified>
+  <RHA_Readability032_RolePath>Path</RHA_Readability032_RolePath>
+  <RHA_Readability032_RoleSkill>Ability</RHA_Readability032_RoleSkill>
+  <RHA_Readability032_RoleEquipment>Independent equipment</RHA_Readability032_RoleEquipment>
+  <RHA_Readability032_RoleCore>Core component</RHA_Readability032_RoleCore>
+  <RHA_Readability032_RoleMastery>Mastery</RHA_Readability032_RoleMastery>
+  <RHA_Readability032_RoleEvolution>Evolution branch</RHA_Readability032_RoleEvolution>
+  <RHA_Readability032_RoleSource>Growth source</RHA_Readability032_RoleSource>
+  <RHA_Readability032_RoleGeneric>General augment</RHA_Readability032_RoleGeneric>
+  <RHA_Readability032_RoleIndependent>Independent augment</RHA_Readability032_RoleIndependent>
+  <RHA_Readability032_NotCounted>Not currently counted as a growth source</RHA_Readability032_NotCounted>
+  <RHA_Readability032_CountedIn>Counted source: {0}</RHA_Readability032_CountedIn>
+  <RHA_Readability032_BuildActive>Active build</RHA_Readability032_BuildActive>
+  <RHA_Readability032_BuildDeveloping>Developing</RHA_Readability032_BuildDeveloping>
+  <RHA_Readability032_BuildDormant>Temporarily inactive</RHA_Readability032_BuildDormant>
+  <RHA_Readability032_Shared>General and independent components</RHA_Readability032_Shared>
+  <RHA_Readability032_Components>Components</RHA_Readability032_Components>
+  <RHA_Readability032_NoComponents>No related components yet.</RHA_Readability032_NoComponents>
+  <RHA_Readability032_SelectedBranch>Branch: {0}</RHA_Readability032_SelectedBranch>
+  <RHA_Readability032_NoBranch>No branch selected</RHA_Readability032_NoBranch>
+  <RHA_Readability032_ShowGroup>{0} · Expand</RHA_Readability032_ShowGroup>
+  <RHA_Readability032_HideGroup>{0} · Collapse</RHA_Readability032_HideGroup>
+  <RHA_Readability032_ReturnTo>Return to {0}</RHA_Readability032_ReturnTo>
+  <RHA_Readability032_SourceCounts>Source progress</RHA_Readability032_SourceCounts>
+  <RHA_Readability032_KeyEffects>Key effects</RHA_Readability032_KeyEffects>
+  <RHA_Readability032_ViewComponent>View details</RHA_Readability032_ViewComponent>
+  <RHA_Readability032_KnownEquipment>Worn equipment</RHA_Readability032_KnownEquipment>
+  <RHA_Readability032_KnownCards>Owned cards</RHA_Readability032_KnownCards>
+  <RHA_Readability032_KnownSkills>Known abilities</RHA_Readability032_KnownSkills>
+  <RHA_Readability032_AffiliationTitle>Related paths</RHA_Readability032_AffiliationTitle>
+  <RHA_Readability032_NoActivePath>No path is active yet. Owned components and developing routes are listed below.</RHA_Readability032_NoActivePath>
+  <RHA_Readability032_RuneTitle>Rune</RHA_Readability032_RuneTitle>
+  <RHA_Readability032_CountedSourceTitle>Actual growth contribution</RHA_Readability032_CountedSourceTitle>
+  <RHA_Readability032_FutureUnknown>Future fees become known when that stage can be advanced.</RHA_Readability032_FutureUnknown>
+</LanguageData>

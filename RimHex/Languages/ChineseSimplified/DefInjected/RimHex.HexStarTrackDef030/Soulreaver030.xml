@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_STAR_Relic_Soulreaver.nodes.0.label>缚魂容器</RHA_STAR_Relic_Soulreaver.nodes.0.label>
+  <RHA_STAR_Relic_Soulreaver.nodes.0.description>保留原有灵魂成长、伤害、自愈和觉醒能力。以下节点只在战斗贡献结算后实际增加整数灵魂时触发；未满一份的进度、达到上限和星图追加伤害带来的递归结算不触发。不额外消耗永久灵魂，进阶随装备保存。</RHA_STAR_Relic_Soulreaver.nodes.0.description>
+  <RHA_STAR_Relic_Soulreaver.nodes.1.label>余魂回响</RHA_STAR_Relic_Soulreaver.nodes.1.label>
+  <RHA_STAR_Relic_Soulreaver.nodes.1.description>实际获得灵魂后，储存一份回响，持续5秒；随后普通命中敌人时消耗回响，追加75点伤害。最多一份，生成冷却8秒。一次获得多份灵魂不会增加回响数量。 基础收益：伤害 75。</RHA_STAR_Relic_Soulreaver.nodes.1.description>
+  <RHA_STAR_Relic_Soulreaver.nodes.2.label>封魂护幕</RHA_STAR_Relic_Soulreaver.nodes.2.label>
+  <RHA_STAR_Relic_Soulreaver.nodes.2.description>实际获得灵魂后，为本人提供50点基础护盾，持续3秒，冷却8秒。一次获得多份灵魂仍只提供一次护盾。 基础收益：护盾 50。</RHA_STAR_Relic_Soulreaver.nodes.2.description>
+  <RHA_STAR_Relic_Soulreaver.nodes.3.label>回响分流</RHA_STAR_Relic_Soulreaver.nodes.3.label>
+  <RHA_STAR_Relic_Soulreaver.nodes.3.description>余魂回响实际造成追加伤害后，对受击点3格内视线畅通的另一名敌人追加25点伤害，冷却8秒。没有其他敌人时不重复攻击原目标。 基础收益：伤害 25。</RHA_STAR_Relic_Soulreaver.nodes.3.description>
+  <RHA_STAR_Relic_Soulreaver.nodes.4.label>余魂回补</RHA_STAR_Relic_Soulreaver.nodes.4.label>
+  <RHA_STAR_Relic_Soulreaver.nodes.4.description>余魂回响实际造成追加伤害后，治疗自身20点基础可恢复伤势，冷却8秒。额外伤害被完全阻挡时不治疗；不恢复永久伤疤或缺失部位。 基础收益：治疗 20。</RHA_STAR_Relic_Soulreaver.nodes.4.description>
+  <RHA_STAR_Relic_Soulreaver.nodes.5.label>共守魂灯</RHA_STAR_Relic_Soulreaver.nodes.5.label>
+  <RHA_STAR_Relic_Soulreaver.nodes.5.description>实际获得灵魂后，另为本人4格内视线畅通、最近的另一名殖民者提供50点基础护盾，持续3秒，冷却8秒。没有合适队友时不转给本人，与封魂护幕分别结算。 基础收益：护盾 50。</RHA_STAR_Relic_Soulreaver.nodes.5.description>
+  <RHA_STAR_Relic_Soulreaver.nodes.6.label>归魂续息</RHA_STAR_Relic_Soulreaver.nodes.6.label>
+  <RHA_STAR_Relic_Soulreaver.nodes.6.description>实际获得灵魂后，另治疗自身20点基础可恢复伤势，冷却8秒。与封魂护幕分别结算，满血时不提供额外收益。 基础收益：治疗 20。</RHA_STAR_Relic_Soulreaver.nodes.6.description>
+</LanguageData>

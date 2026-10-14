@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_G18_Tab>Path challenges</RHA_G18_Tab>
+  <RHA_G18_Recipient>Choose the personal challenge recipient or the colony challenge leader. The choice is fixed when accepted.</RHA_G18_Recipient>
+  <RHA_G18_Intro>Track one path at a time. Milestone rewards are once per save; replay to improve records. Hover for rules.</RHA_G18_Intro>
+  <RHA_G18_Rules>Foundation: obtain the required distinct sources and choose a base evolution.\nPractice: personal paths require 3 casts of their path ability during trial combat; colony paths require 2 casts at a player home by any free colonist. Only casts after claiming the previous milestone count.\nCertification: have at least 5 distinct sources and a base evolution at both trial start and the third wave clear. Start a new standard trial at tier 3 or higher, with challenge rules enabled and intensity at least 100%. Endless trials do not count. Personal paths require one path-ability cast while trial enemies remain in EACH wave. Colony paths require one additional cast BEFORE starting. The assigned participant must be alive, standing and on the trial map at start and completion.\nRecords show the highest tier and fastest time at that tier, including preparation and intermissions. Abandoning resets current-stage counts; claimed milestones and victory records remain.</RHA_G18_Rules>
+  <RHA_G18_Stage>{0}/3 milestones claimed</RHA_G18_Stage>
+  <RHA_G18_MissingOwner>Participant missing; abandon to reassign.</RHA_G18_MissingOwner>
+  <RHA_G18_Untracked>Not tracked</RHA_G18_Untracked>
+  <RHA_G18_Foundation>{0} distinct path sources + base evolution</RHA_G18_Foundation>
+  <RHA_G18_FoundationHint>Claim the first milestone once the build is ready. Repeated stacks count as one source.</RHA_G18_FoundationHint>
+  <RHA_G18_PracticeHero>Cast {2} during trial combat: {0}/{1}</RHA_G18_PracticeHero>
+  <RHA_G18_PracticeColony>Cast {2} at a player home: {0}/{1}</RHA_G18_PracticeColony>
+  <RHA_G18_FinalHero>Start a tier 3+ standard trial (rules at 100%+). Cast the path ability in each wave; finish alive and standing.</RHA_G18_FinalHero>
+  <RHA_G18_FinalColony>Cast the path ability once, then start a tier 3+ standard trial (rules at 100%+). The coordinator must finish alive and standing.</RHA_G18_FinalColony>
+  <RHA_G18_Verified>Certified. Milestone reward ready.</RHA_G18_Verified>
+  <RHA_G18_TrialProgress>{0} · Ability used in {1}/3 waves</RHA_G18_TrialProgress>
+  <RHA_G18_ColonyProgress>{0} · Preparation casts {1}/1</RHA_G18_ColonyProgress>
+  <RHA_G18_Registered>Trial registered</RHA_G18_Registered>
+  <RHA_G18_NotRegistered>Awaiting eligible new trial</RHA_G18_NotRegistered>
+  <RHA_G18_Sources>Current sources: {0} · {1}</RHA_G18_Sources>
+  <RHA_G18_NoEvolution>No evolution</RHA_G18_NoEvolution>
+  <RHA_G18_Evolved>Evolution chosen</RHA_G18_Evolved>
+  <RHA_G18_NoRecord>No certified victories</RHA_G18_NoRecord>
+  <RHA_G18_Record>Wins: {0} · Best tier: {1} · Fastest at tier: {2}</RHA_G18_Record>
+  <RHA_G18_ReplayHint>Retries update your record. Stage rewards are paid once.</RHA_G18_ReplayHint>
+  <RHA_G18_Reward>Reward: {0} shards / {1} cores / {2} essence / {3} flexible ticket</RHA_G18_Reward>
+  <RHA_G18_Claim>Claim milestone</RHA_G18_Claim>
+  <RHA_G18_Abandon>Abandon</RHA_G18_Abandon>
+  <RHA_G18_AbandonConfirm>Abandon this challenge? Current-stage casts and unclaimed certification will be lost. Claimed milestones and victory records remain.</RHA_G18_AbandonConfirm>
+  <RHA_G18_Accept>Track this path</RHA_G18_Accept>
+  <RHA_G18_Replay>Replay challenge</RHA_G18_Replay>
+  <RHA_G18_Accepted>Tracking {0}. Assigned participant: {1}.</RHA_G18_Accepted>
+  <RHA_G18_Abandoned>Challenge abandoned. Claimed milestones and victory records retained.</RHA_G18_Abandoned>
+  <RHA_G18_Full>Reward storage is full. The milestone remains claimable.</RHA_G18_Full>
+  <RHA_G18_Claimed>Milestone claimed: {0} shards, {1} cores, {2} essence, {3} flexible tickets.</RHA_G18_Claimed>
+  <RHA_G18_Certified>{0} certified: tier {1}, time {2}.</RHA_G18_Certified>
+</LanguageData>

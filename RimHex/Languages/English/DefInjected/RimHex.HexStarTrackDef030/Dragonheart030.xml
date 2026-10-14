@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_STAR_Relic_Dragonheart.nodes.0.label>Waking Dragonheart</RHA_STAR_Relic_Dragonheart.nodes.0.label>
+  <RHA_STAR_Relic_Dragonheart.nodes.0.description>Advance while wearing Dragonheart. Retains its original six growth stages, wear progress and awakening without granting health, damage, regeneration or execution twice. This tree stops working when the relic is removed; progression stays with the item.</RHA_STAR_Relic_Dragonheart.nodes.0.description>
+  <RHA_STAR_Relic_Dragonheart.nodes.1.label>Pursuing Breath</RHA_STAR_Relic_Dragonheart.nodes.1.label>
+  <RHA_STAR_Relic_Dragonheart.nodes.1.description>Three ordinary hits on the same enemy, no more than 3 seconds apart, strike one other enemy within 3 cells of the impact and clear sight for 50 damage, once per 8 seconds. Changing targets resets the count. Never hits the original target again. Base rewards: damage 50.</RHA_STAR_Relic_Dragonheart.nodes.1.description>
+  <RHA_STAR_Relic_Dragonheart.nodes.2.label>Renewing Scales</RHA_STAR_Relic_Dragonheart.nodes.2.label>
+  <RHA_STAR_Relic_Dragonheart.nodes.2.description>After an enemy primary hit actually injures you, heal 20 base points of your own recoverable injuries, once per 8 seconds. Fully shielded hits, friendly fire and secondary damage do not count. Missing parts and permanent scars are not restored. Base rewards: healing 20.</RHA_STAR_Relic_Dragonheart.nodes.2.description>
+  <RHA_STAR_Relic_Dragonheart.nodes.3.label>Ember Nourishment</RHA_STAR_Relic_Dragonheart.nodes.3.label>
+  <RHA_STAR_Relic_Dragonheart.nodes.3.description>After Pursuing Breath actually damages the second enemy, heal 20 base points of your recoverable injuries, once per 8 seconds. No second target or fully prevented breath damage grants nothing. Base rewards: healing 20.</RHA_STAR_Relic_Dragonheart.nodes.3.description>
+  <RHA_STAR_Relic_Dragonheart.nodes.4.label>Wing Guard</RHA_STAR_Relic_Dragonheart.nodes.4.label>
+  <RHA_STAR_Relic_Dragonheart.nodes.4.description>After Pursuing Breath actually damages the second enemy, shield the nearest other eligible colonist within 4 cells of you and clear sight for 50 base points over 3 seconds, once per 8 seconds. With no eligible ally it does not shield you instead. Base rewards: shield 50.</RHA_STAR_Relic_Dragonheart.nodes.4.description>
+  <RHA_STAR_Relic_Dragonheart.nodes.5.label>Fangs Beneath New Scales</RHA_STAR_Relic_Dragonheart.nodes.5.label>
+  <RHA_STAR_Relic_Dragonheart.nodes.5.description>After Renewing Scales actually heals an injury, store one retaliation for 5 seconds, once per 8 seconds. Your later ordinary hit consumes it for 75 bonus damage. Store at most one; taking damage does not automatically retaliate. Base rewards: damage 75.</RHA_STAR_Relic_Dragonheart.nodes.5.description>
+  <RHA_STAR_Relic_Dragonheart.nodes.6.label>Shed-scale Armor</RHA_STAR_Relic_Dragonheart.nodes.6.label>
+  <RHA_STAR_Relic_Dragonheart.nodes.6.description>After Renewing Scales actually heals an injury, gain a separate 2-base-point shield for 3 seconds, once per 8 seconds. Hits fully absorbed by this shield cannot trigger Renewing Scales again. Base rewards: shield 50.</RHA_STAR_Relic_Dragonheart.nodes.6.description>
+</LanguageData>

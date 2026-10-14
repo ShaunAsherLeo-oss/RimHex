@@ -1,0 +1,111 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_Awake_Runecarver.description>连锁实际伤害命中 60 个次级目标</RHA_Awake_Runecarver.description>
+  <RHA_Awake_Runecarver.names.0>万雷分岔</RHA_Awake_Runecarver.names.0>
+  <RHA_Awake_Runecarver.names.1>裁决电矛</RHA_Awake_Runecarver.names.1>
+  <RHA_Awake_Runecarver.descriptions.0>连锁等级额外 +3。</RHA_Awake_Runecarver.descriptions.0>
+  <RHA_Awake_Runecarver.descriptions.1>每第 3 次有效命中，对原目标额外造成 90 点闪电伤害。</RHA_Awake_Runecarver.descriptions.1>
+  <RHA_Awake_Embertide.description>穿戴时造成 2000 点实际灼烧伤害</RHA_Awake_Embertide.description>
+  <RHA_Awake_Embertide.names.0>焚世冠冕</RHA_Awake_Embertide.names.0>
+  <RHA_Awake_Embertide.names.1>余烬新星</RHA_Awake_Embertide.names.1>
+  <RHA_Awake_Embertide.descriptions.0>灼烧等级额外 +4、炎阳光环等级额外 +3。</RHA_Awake_Embertide.descriptions.0>
+  <RHA_Awake_Embertide.descriptions.1>击杀站立敌人时，在其周围 6 格对最多 16 名站立敌人造成 90 点爆炸伤害。冷却 2 秒，衍生死亡不递归爆炸。</RHA_Awake_Embertide.descriptions.1>
+  <RHA_Awake_Bloodmail.description>穿戴时通过直接攻击产生 1200 点吸血治疗量（包括溢出）</RHA_Awake_Bloodmail.description>
+  <RHA_Awake_Bloodmail.names.0>血海储池</RHA_Awake_Bloodmail.names.0>
+  <RHA_Awake_Bloodmail.names.1>偿血之约</RHA_Awake_Bloodmail.names.1>
+  <RHA_Awake_Bloodmail.descriptions.0>直接吸血额外 +50%；自己的治疗溢出量以 50% 转为受疗者护盾，持续 10 秒，积累上限为 400×体质增益倍数。</RHA_Awake_Bloodmail.descriptions.0>
+  <RHA_Awake_Bloodmail.descriptions.1>受到敌人的直接伤害时积蓄其 3 倍的复仇伤害，加入下一次对敌直接攻击后消耗。</RHA_Awake_Bloodmail.descriptions.1>
+  <RHA_Awake_Darksteel.description>穿戴时累计获得 100 层钢印</RHA_Awake_Darksteel.description>
+  <RHA_Awake_Darksteel.names.0>黑钢巨神</RHA_Awake_Darksteel.names.0>
+  <RHA_Awake_Darksteel.names.1>碎岳重拳</RHA_Awake_Darksteel.names.1>
+  <RHA_Awake_Darksteel.descriptions.0>每次叠钢额外 +3，体质额外 +200%。</RHA_Awake_Darksteel.descriptions.0>
+  <RHA_Awake_Darksteel.descriptions.1>每次对敌直接攻击额外造成 15×自身实际生命尺度的伤害。</RHA_Awake_Darksteel.descriptions.1>
+  <RHA_Awake_Frostguard.description>穿戴时成功眩晕敌人 30 次</RHA_Awake_Frostguard.description>
+  <RHA_Awake_Frostguard.names.0>极寒环城</RHA_Awake_Frostguard.names.0>
+  <RHA_Awake_Frostguard.names.1>碎冰刑斧</RHA_Awake_Frostguard.names.1>
+  <RHA_Awake_Frostguard.descriptions.0>约每 4.2 秒减速 6 格内最近 12 名敌人；每约 8.3 秒获得每名附近敌人 40 点护盾，持续 10 秒。</RHA_Awake_Frostguard.descriptions.0>
+  <RHA_Awake_Frostguard.descriptions.1>成功眩晕敌人时额外对其造成 120 点伤害。冷却 3 秒。</RHA_Awake_Frostguard.descriptions.1>
+  <RHA_Awake_Hydra.description>穿戴时以分裂打击实际伤害命中 80 个次级目标</RHA_Awake_Hydra.description>
+  <RHA_Awake_Hydra.names.0>九首狂宴</RHA_Awake_Hydra.names.0>
+  <RHA_Awake_Hydra.names.1>追猎狂潮</RHA_Awake_Hydra.names.1>
+  <RHA_Awake_Hydra.descriptions.0>分裂等级额外 +4，伤害额外 +100%。</RHA_Awake_Hydra.descriptions.0>
+  <RHA_Awake_Hydra.descriptions.1>击杀站立敌人后恢复 80 点伤势，并在 10 秒内获得移速 +100%、伤害 +100%；再次击杀刷新持续时间。</RHA_Awake_Hydra.descriptions.1>
+  <RHA_Awake_Ballista.description>穿戴时在至少 12 格距离实际命中敌人 60 次</RHA_Awake_Ballista.description>
+  <RHA_Awake_Ballista.names.0>天际重炮</RHA_Awake_Ballista.names.0>
+  <RHA_Awake_Ballista.names.1>穿云棱枪</RHA_Awake_Ballista.names.1>
+  <RHA_Awake_Ballista.descriptions.0>射程额外 +10 格，超过 4 格的每格远距伤害增益额外 +20%，最多计算 25 格。</RHA_Awake_Ballista.descriptions.0>
+  <RHA_Awake_Ballista.descriptions.1>有效命中后向原目标后方延伸 12 格，对直线约 2.5 格宽轨道上的站立敌人造成本次直接伤害 50% 的伤害。</RHA_Awake_Ballista.descriptions.1>
+  <RHA_Awake_Soulreaver.description>穿戴时，击败合格敌人并累计 40 份参战贡献</RHA_Awake_Soulreaver.description>
+  <RHA_Awake_Soulreaver.names.0>万魂收藏家</RHA_Awake_Soulreaver.names.0>
+  <RHA_Awake_Soulreaver.names.1>万魂齐发</RHA_Awake_Soulreaver.names.1>
+  <RHA_Awake_Soulreaver.descriptions.0>每份完整参战贡献额外获得 4 枚永久魂印。</RHA_Awake_Soulreaver.descriptions.0>
+  <RHA_Awake_Soulreaver.descriptions.1>新增主动技能：消耗 10–50 枚魂印，对 16 格内最多 16 名站立敌人造成每枚魂印 30 点伤害。冷却 10 秒。</RHA_Awake_Soulreaver.descriptions.1>
+  <RHA_Awake_Moonstone.description>穿戴时实际治愈自身或队友 1200 点伤势</RHA_Awake_Moonstone.description>
+  <RHA_Awake_Moonstone.names.0>月华庇护</RHA_Awake_Moonstone.names.0>
+  <RHA_Awake_Moonstone.names.1>救赎光束</RHA_Awake_Moonstone.names.1>
+  <RHA_Awake_Moonstone.descriptions.0>群疗等级额外 +3，自己的治疗溢出量以 50% 转为受疗者护盾，持续 10 秒，积累上限为 400×体质增益倍数。</RHA_Awake_Moonstone.descriptions.0>
+  <RHA_Awake_Moonstone.descriptions.1>实际治愈伤势后，对自身 12 格内最近敌人造成本次治疗量 200% 的伤害。冷却 1 秒。</RHA_Awake_Moonstone.descriptions.1>
+  <RHA_Awake_Gambler.description>穿戴时通过基础赏金累计获得 5000 白银</RHA_Awake_Gambler.description>
+  <RHA_Awake_Gambler.names.0>满堂红</RHA_Awake_Gambler.names.0>
+  <RHA_Awake_Gambler.names.1>金身赢家</RHA_Awake_Gambler.names.1>
+  <RHA_Awake_Gambler.descriptions.0>每次击杀的基础赏金额外 +200 白银，暴击值额外 +50%。</RHA_Awake_Gambler.descriptions.0>
+  <RHA_Awake_Gambler.descriptions.1>击杀站立敌人时获得 250 点护盾，持续 10 秒。</RHA_Awake_Gambler.descriptions.1>
+  <RHA_Awake_Worldforge.description>穿戴时累计从事工作 2 天（包括前往工作地点）</RHA_Awake_Worldforge.description>
+  <RHA_Awake_Worldforge.names.0>世界工厂</RHA_Awake_Worldforge.names.0>
+  <RHA_Awake_Worldforge.names.1>战地铸炉</RHA_Awake_Worldforge.names.1>
+  <RHA_Awake_Worldforge.descriptions.0>工作速度额外 +300%，采矿产量额外 +100%。</RHA_Awake_Worldforge.descriptions.0>
+  <RHA_Awake_Worldforge.descriptions.1>征召时，每约 8.3 秒为 8 格内最近 12 名己方人类殖民者提供 160 点护盾，持续 10 秒。</RHA_Awake_Worldforge.descriptions.1>
+  <RHA_Awake_Dragonheart.description>累计穿戴 3 天，远行期间也计时</RHA_Awake_Dragonheart.description>
+  <RHA_Awake_Dragonheart.names.0>远古龙皇</RHA_Awake_Dragonheart.names.0>
+  <RHA_Awake_Dragonheart.names.1>生命龙泉</RHA_Awake_Dragonheart.names.1>
+  <RHA_Awake_Dragonheart.descriptions.0>每一层龙魂额外提供 60% 体质和 60% 伤害，最多额外各 +360%。</RHA_Awake_Dragonheart.descriptions.0>
+  <RHA_Awake_Dragonheart.descriptions.1>每秒恢复额外 +6 点伤势；约每 4.2 秒为 10 格内最近 12 名己方人类殖民者各恢复 30 点伤势。</RHA_Awake_Dragonheart.descriptions.1>
+  <RHA_AW8_StormPike.description>对敌造成 12000 点直接伤害；首次觉醒消耗 2 试炼精粹，通关试炼第三轮后领取。</RHA_AW8_StormPike.description>
+  <RHA_AW8_StormPike.names.0>天罚贯心</RHA_AW8_StormPike.names.0>
+  <RHA_AW8_StormPike.names.1>雷海蔓延</RHA_AW8_StormPike.names.1>
+  <RHA_AW8_StormPike.descriptions.0>霆王之矛触发时，先对原目标追加 500＋本次直接伤害 200% 的贯心雷击，再正常释放雷暴。 已造成伤害的复制部分不再获得施加者增幅或暴击；固定基础部分仍可增幅。</RHA_AW8_StormPike.descriptions.0>
+  <RHA_AW8_StormPike.descriptions.1>霆王之矛的雷暴范围扩大到 8 格，最多命中 16 名敌人，伤害与冷却沿用原效果。 已造成伤害的复制部分不再获得施加者增幅或暴击；固定基础部分仍可增幅。</RHA_AW8_StormPike.descriptions.1>
+  <RHA_AW8_StormAegis.description>实际吸收 5000 点护盾伤害；首次觉醒消耗 2 试炼精粹，通关试炼第三轮后领取。</RHA_AW8_StormAegis.description>
+  <RHA_AW8_StormAegis.names.0>雷幕要塞</RHA_AW8_StormAegis.names.0>
+  <RHA_AW8_StormAegis.names.1>雷霆裁决</RHA_AW8_StormAegis.names.1>
+  <RHA_AW8_StormAegis.descriptions.0>周期护盾提高到 240 点，并为 10 格内其他自由殖民者各刷新 180 点护盾，持续 6 秒；冷却仍为 5 秒。 已造成伤害的复制部分不再获得施加者增幅或暴击；固定基础部分仍可增幅。</RHA_AW8_StormAegis.descriptions.0>
+  <RHA_AW8_StormAegis.descriptions.1>吸收护盾伤害后的反击扩大到 14 格、最多 8 名敌人，每名造成 160＋本次吸收量 80% 的追加伤害；冷却仍为 1 秒。 已造成伤害的复制部分不再获得施加者增幅或暴击；固定基础部分仍可增幅。</RHA_AW8_StormAegis.descriptions.1>
+  <RHA_AW8_FurnaceHammer.description>完成 240 次有效直接命中；首次觉醒消耗 2 试炼精粹，通关试炼第三轮后领取。</RHA_AW8_FurnaceHammer.description>
+  <RHA_AW8_FurnaceHammer.names.0>碎星重击</RHA_AW8_FurnaceHammer.names.0>
+  <RHA_AW8_FurnaceHammer.names.1>熔海余震</RHA_AW8_FurnaceHammer.names.1>
+  <RHA_AW8_FurnaceHammer.descriptions.0>熔星重锤触发时，先对原目标追加 300＋自身体质倍率×80 点震击伤害，再正常发动范围震击。</RHA_AW8_FurnaceHammer.descriptions.0>
+  <RHA_AW8_FurnaceHammer.descriptions.1>熔星重锤触发时额外留下半径 5 格熔岩领域，持续 6 秒，每秒造成 60＋自身体质倍率×15 点追加伤害并施加灼烧。</RHA_AW8_FurnaceHammer.descriptions.1>
+  <RHA_AW8_FurnacePlate.description>实际吸收 6000 点护盾伤害；首次觉醒消耗 2 试炼精粹，通关试炼第三轮后领取。</RHA_AW8_FurnacePlate.description>
+  <RHA_AW8_FurnacePlate.names.0>炉心庇护</RHA_AW8_FurnacePlate.names.0>
+  <RHA_AW8_FurnacePlate.names.1>熔炉复仇</RHA_AW8_FurnacePlate.names.1>
+  <RHA_AW8_FurnacePlate.descriptions.0>炉心战铠触发时，额外为 10 格内其他自由殖民者刷新 180＋自身体质倍率×10 点护盾，持续 10 秒。</RHA_AW8_FurnacePlate.descriptions.0>
+  <RHA_AW8_FurnacePlate.descriptions.1>炉心战铠触发时，震击自身 5 格内最多 12 名敌人，造成 160＋自身体质倍率×40 点追加伤害。</RHA_AW8_FurnacePlate.descriptions.1>
+  <RHA_AW8_SoulLantern.description>击杀 60 名站立敌人；首次觉醒消耗 2 试炼精粹，通关试炼第三轮后领取。</RHA_AW8_SoulLantern.description>
+  <RHA_AW8_SoulLantern.names.0>收魂长明</RHA_AW8_SoulLantern.names.0>
+  <RHA_AW8_SoulLantern.names.1>万魂齐发</RHA_AW8_SoulLantern.names.1>
+  <RHA_AW8_SoulLantern.descriptions.0>击杀时额外获得 8 魂印，不受魂矢冷却限制；仍然正常释放魂矢。 钢印、盛宴、魂印和邪力各自前 100 点收益不变，之后按有效成长计算，收益逐渐递减；已有计数不会扣除。</RHA_AW8_SoulLantern.descriptions.0>
+  <RHA_AW8_SoulLantern.descriptions.1>击杀魂矢扩大到 18 格内最多 6 名敌人，每名造成 120＋魂印数×5 点伤害；冷却仍为 2 秒。 钢印、盛宴、魂印和邪力各自前 100 点收益不变，之后按有效成长计算，收益逐渐递减；已有计数不会扣除。</RHA_AW8_SoulLantern.descriptions.1>
+  <RHA_AW8_SoulSeal.description>恢复 5000 点真实伤势；首次觉醒消耗 2 试炼精粹，通关试炼第三轮后领取。</RHA_AW8_SoulSeal.description>
+  <RHA_AW8_SoulSeal.names.0>归魂潮汐</RHA_AW8_SoulSeal.names.0>
+  <RHA_AW8_SoulSeal.names.1>圣印裁决</RHA_AW8_SoulSeal.names.1>
+  <RHA_AW8_SoulSeal.descriptions.0>归魂圣印转化护盾时，同时为本次受到护盾庇护的最多 4 名殖民者各治疗 80 点普通伤势。该次治疗不再次为圣印充能。</RHA_AW8_SoulSeal.descriptions.0>
+  <RHA_AW8_SoulSeal.descriptions.1>归魂圣印转化护盾时，额外向自身 12 格内最多 4 名敌人释放圣光，每名造成 240 点追加伤害。</RHA_AW8_SoulSeal.descriptions.1>
+  <RHA_Awake_Runecarver.label>符文雕刻者</RHA_Awake_Runecarver.label>
+  <RHA_Awake_Embertide.label>熔日之核</RHA_Awake_Embertide.label>
+  <RHA_Awake_Bloodmail.label>血铸战甲</RHA_Awake_Bloodmail.label>
+  <RHA_Awake_Darksteel.label>黑钢利爪</RHA_Awake_Darksteel.label>
+  <RHA_Awake_Frostguard.label>永霜之心</RHA_Awake_Frostguard.label>
+  <RHA_Awake_Hydra.label>九头蛇之拥</RHA_Awake_Hydra.label>
+  <RHA_Awake_Ballista.label>破城巨弩</RHA_Awake_Ballista.label>
+  <RHA_Awake_Soulreaver.label>摄魂法器</RHA_Awake_Soulreaver.label>
+  <RHA_Awake_Moonstone.label>月华织机</RHA_Awake_Moonstone.label>
+  <RHA_Awake_Gambler.label>赌徒金币</RHA_Awake_Gambler.label>
+  <RHA_Awake_Worldforge.label>万象熔炉</RHA_Awake_Worldforge.label>
+  <RHA_Awake_Dragonheart.label>龙心</RHA_Awake_Dragonheart.label>
+  <RHA_AW8_StormPike.label>霆王之矛</RHA_AW8_StormPike.label>
+  <RHA_AW8_StormAegis.label>雷幕壁垒</RHA_AW8_StormAegis.label>
+  <RHA_AW8_FurnaceHammer.label>熔星重锤</RHA_AW8_FurnaceHammer.label>
+  <RHA_AW8_FurnacePlate.label>炉心战铠</RHA_AW8_FurnacePlate.label>
+  <RHA_AW8_SoulLantern.label>万魂提灯</RHA_AW8_SoulLantern.label>
+  <RHA_AW8_SoulSeal.label>归魂圣印</RHA_AW8_SoulSeal.label>
+</LanguageData>

@@ -1,0 +1,472 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Defs>
+  <RimHex.HexStarEconomicChallengeDef030>
+    <defName>RHA_WealthEconomic030_root</defName>
+    <label>Open the Books assessment</label>
+    <description>After enrollment, complete all objectives within 15 days. Only actual economic activity counts; this node does not need to be unlocked.
+New peak net trade income: 300
+Distinct exported goods: 1</description>
+    <targetTrack>RHA_STAR_Path_Wealth</targetTrack>
+    <targetNode>root</targetNode>
+    <targetStage>1</targetStage>
+    <days>15</days>
+    <objectives>
+      <li>
+        <metric>TradeIncome</metric>
+        <target>300</target>
+      </li>
+      <li>
+        <metric>ExportKinds</metric>
+        <target>1</target>
+      </li>
+    </objectives>
+  </RimHex.HexStarEconomicChallengeDef030>
+  <RimHex.HexStarEconomicChallengeDef030>
+    <defName>RHA_WealthEconomic030_ledger</defName>
+    <label>Trade Dividend assessment</label>
+    <description>After enrollment, complete all objectives within 20 days. Only actual economic activity counts; this node does not need to be unlocked.
+New peak net trade income: 1000
+Distinct exported goods: 2</description>
+    <targetTrack>RHA_STAR_Path_Wealth</targetTrack>
+    <targetNode>ledger</targetNode>
+    <targetStage>2</targetStage>
+    <days>20</days>
+    <objectives>
+      <li>
+        <metric>TradeIncome</metric>
+        <target>1000</target>
+      </li>
+      <li>
+        <metric>ExportKinds</metric>
+        <target>2</target>
+      </li>
+    </objectives>
+  </RimHex.HexStarEconomicChallengeDef030>
+  <RimHex.HexStarEconomicChallengeDef030>
+    <defName>RHA_WealthEconomic030_provision</defName>
+    <label>Procurement Fund assessment</label>
+    <description>After enrollment, complete all objectives within 20 days. Only actual economic activity counts; this node does not need to be unlocked.
+New peak net trade income: 600
+Actual purchase spending: 300
+Distinct purchased goods: 2</description>
+    <targetTrack>RHA_STAR_Path_Wealth</targetTrack>
+    <targetNode>provision</targetNode>
+    <targetStage>2</targetStage>
+    <days>20</days>
+    <objectives>
+      <li>
+        <metric>TradeIncome</metric>
+        <target>600</target>
+      </li>
+      <li>
+        <metric>PaidExpense</metric>
+        <target>300</target>
+      </li>
+      <li>
+        <metric>PurchaseKinds</metric>
+        <target>2</target>
+      </li>
+    </objectives>
+  </RimHex.HexStarEconomicChallengeDef030>
+  <RimHex.HexStarEconomicChallengeDef030>
+    <defName>RHA_WealthEconomic030_bulk</defName>
+    <label>Bulk Dispatch assessment</label>
+    <description>After enrollment, complete all objectives within 25 days. Only actual economic activity counts; this node does not need to be unlocked.
+New peak net trade income: 2200
+Distinct exported goods: 2</description>
+    <targetTrack>RHA_STAR_Path_Wealth</targetTrack>
+    <targetNode>bulk</targetNode>
+    <targetStage>3</targetStage>
+    <days>25</days>
+    <objectives>
+      <li>
+        <metric>TradeIncome</metric>
+        <target>2200</target>
+      </li>
+      <li>
+        <metric>ExportKinds</metric>
+        <target>2</target>
+      </li>
+    </objectives>
+  </RimHex.HexStarEconomicChallengeDef030>
+  <RimHex.HexStarEconomicChallengeDef030>
+    <defName>RHA_WealthEconomic030_assortment</defName>
+    <label>Varied Stock assessment</label>
+    <description>After enrollment, complete all objectives within 25 days. Only actual economic activity counts; this node does not need to be unlocked.
+New peak net trade income: 1400
+Distinct exported goods: 4</description>
+    <targetTrack>RHA_STAR_Path_Wealth</targetTrack>
+    <targetNode>assortment</targetNode>
+    <targetStage>3</targetStage>
+    <days>25</days>
+    <objectives>
+      <li>
+        <metric>TradeIncome</metric>
+        <target>1400</target>
+      </li>
+      <li>
+        <metric>ExportKinds</metric>
+        <target>4</target>
+      </li>
+    </objectives>
+  </RimHex.HexStarEconomicChallengeDef030>
+  <RimHex.HexStarEconomicChallengeDef030>
+    <defName>RHA_WealthEconomic030_workshop</defName>
+    <label>Workshop Supplies assessment</label>
+    <description>After enrollment, complete all objectives within 25 days. Only actual economic activity counts; this node does not need to be unlocked.
+Actual purchase spending: 500
+Units manufactured: 12
+Distinct completed recipes: 2</description>
+    <targetTrack>RHA_STAR_Path_Wealth</targetTrack>
+    <targetNode>workshop</targetNode>
+    <targetStage>3</targetStage>
+    <days>25</days>
+    <objectives>
+      <li>
+        <metric>PaidExpense</metric>
+        <target>500</target>
+      </li>
+      <li>
+        <metric>ManufacturedUnits</metric>
+        <target>12</target>
+      </li>
+      <li>
+        <metric>RecipeKinds</metric>
+        <target>2</target>
+      </li>
+    </objectives>
+  </RimHex.HexStarEconomicChallengeDef030>
+  <RimHex.HexStarEconomicChallengeDef030>
+    <defName>RHA_WealthEconomic030_pantry</defName>
+    <label>Household Reserve assessment</label>
+    <description>After enrollment, complete all objectives within 25 days. Only actual economic activity counts; this node does not need to be unlocked.
+Actual purchase spending: 300
+Nutrition consumed: 30
+Distinct foods: 2</description>
+    <targetTrack>RHA_STAR_Path_Wealth</targetTrack>
+    <targetNode>pantry</targetNode>
+    <targetStage>3</targetStage>
+    <days>25</days>
+    <objectives>
+      <li>
+        <metric>PaidExpense</metric>
+        <target>300</target>
+      </li>
+      <li>
+        <metric>Nutrition</metric>
+        <target>30</target>
+      </li>
+      <li>
+        <metric>FoodKinds</metric>
+        <target>2</target>
+      </li>
+    </objectives>
+  </RimHex.HexStarEconomicChallengeDef030>
+  <RimHex.HexStarEconomicChallengeDef030>
+    <defName>RHA_WealthEconomic030_batch</defName>
+    <label>Rotating Shipments assessment</label>
+    <description>After enrollment, complete all objectives within 30 days. Only actual economic activity counts; this node does not need to be unlocked.
+New peak net trade income: 3500
+Distinct exported goods: 4</description>
+    <targetTrack>RHA_STAR_Path_Wealth</targetTrack>
+    <targetNode>batch</targetNode>
+    <targetStage>4</targetStage>
+    <days>30</days>
+    <objectives>
+      <li>
+        <metric>TradeIncome</metric>
+        <target>3500</target>
+      </li>
+      <li>
+        <metric>ExportKinds</metric>
+        <target>4</target>
+      </li>
+    </objectives>
+  </RimHex.HexStarEconomicChallengeDef030>
+  <RimHex.HexStarEconomicChallengeDef030>
+    <defName>RHA_WealthEconomic030_network</defName>
+    <label>Trade Circuit assessment</label>
+    <description>After enrollment, complete all objectives within 35 days. Only actual economic activity counts; this node does not need to be unlocked.
+New peak net trade income: 2500
+Distinct exported goods: 3
+Qualifying traders: 2</description>
+    <targetTrack>RHA_STAR_Path_Wealth</targetTrack>
+    <targetNode>network</targetNode>
+    <targetStage>4</targetStage>
+    <days>35</days>
+    <objectives>
+      <li>
+        <metric>TradeIncome</metric>
+        <target>2500</target>
+      </li>
+      <li>
+        <metric>ExportKinds</metric>
+        <target>3</target>
+      </li>
+      <li>
+        <metric>TradePartners</metric>
+        <target>2</target>
+      </li>
+    </objectives>
+  </RimHex.HexStarEconomicChallengeDef030>
+  <RimHex.HexStarEconomicChallengeDef030>
+    <defName>RHA_WealthEconomic030_delivery</defName>
+    <label>Supply Relay assessment</label>
+    <description>After enrollment, complete all objectives within 30 days. Only actual economic activity counts; this node does not need to be unlocked.
+Units manufactured: 30
+Distinct completed recipes: 3
+Distinct purchased goods: 3</description>
+    <targetTrack>RHA_STAR_Path_Wealth</targetTrack>
+    <targetNode>delivery</targetNode>
+    <targetStage>4</targetStage>
+    <days>30</days>
+    <objectives>
+      <li>
+        <metric>ManufacturedUnits</metric>
+        <target>30</target>
+      </li>
+      <li>
+        <metric>RecipeKinds</metric>
+        <target>3</target>
+      </li>
+      <li>
+        <metric>PurchaseKinds</metric>
+        <target>3</target>
+      </li>
+    </objectives>
+  </RimHex.HexStarEconomicChallengeDef030>
+  <RimHex.HexStarEconomicChallengeDef030>
+    <defName>RHA_WealthEconomic030_reserve</defName>
+    <label>Stock Rotation assessment</label>
+    <description>After enrollment, complete all objectives within 30 days. Only actual economic activity counts; this node does not need to be unlocked.
+Nutrition consumed: 60
+Distinct foods: 3
+Actual purchase spending: 600</description>
+    <targetTrack>RHA_STAR_Path_Wealth</targetTrack>
+    <targetNode>reserve</targetNode>
+    <targetStage>4</targetStage>
+    <days>30</days>
+    <objectives>
+      <li>
+        <metric>Nutrition</metric>
+        <target>60</target>
+      </li>
+      <li>
+        <metric>FoodKinds</metric>
+        <target>3</target>
+      </li>
+      <li>
+        <metric>PaidExpense</metric>
+        <target>600</target>
+      </li>
+    </objectives>
+  </RimHex.HexStarEconomicChallengeDef030>
+  <RimHex.HexStarEconomicChallengeDef030>
+    <defName>RHA_WealthEconomic030_batch_discount</defName>
+    <label>Freight in Kind assessment</label>
+    <description>After enrollment, complete all objectives within 40 days. Only actual economic activity counts; this node does not need to be unlocked.
+New peak net trade income: 4500
+Actual purchase spending: 1200
+Distinct purchased goods: 4</description>
+    <targetTrack>RHA_STAR_Path_Wealth</targetTrack>
+    <targetNode>batch_discount</targetNode>
+    <targetStage>5</targetStage>
+    <days>40</days>
+    <objectives>
+      <li>
+        <metric>TradeIncome</metric>
+        <target>4500</target>
+      </li>
+      <li>
+        <metric>PaidExpense</metric>
+        <target>1200</target>
+      </li>
+      <li>
+        <metric>PurchaseKinds</metric>
+        <target>4</target>
+      </li>
+    </objectives>
+  </RimHex.HexStarEconomicChallengeDef030>
+  <RimHex.HexStarEconomicChallengeDef030>
+    <defName>RHA_WealthEconomic030_batch_dividend</defName>
+    <label>Cash Settlement assessment</label>
+    <description>After enrollment, complete all objectives within 40 days. Only actual economic activity counts; this node does not need to be unlocked.
+New peak net trade income: 6000
+Distinct exported goods: 4</description>
+    <targetTrack>RHA_STAR_Path_Wealth</targetTrack>
+    <targetNode>batch_dividend</targetNode>
+    <targetStage>5</targetStage>
+    <days>40</days>
+    <objectives>
+      <li>
+        <metric>TradeIncome</metric>
+        <target>6000</target>
+      </li>
+      <li>
+        <metric>ExportKinds</metric>
+        <target>4</target>
+      </li>
+    </objectives>
+  </RimHex.HexStarEconomicChallengeDef030>
+  <RimHex.HexStarEconomicChallengeDef030>
+    <defName>RHA_WealthEconomic030_network_orders</defName>
+    <label>Joint Orders assessment</label>
+    <description>After enrollment, complete all objectives within 40 days. Only actual economic activity counts; this node does not need to be unlocked.
+New peak net trade income: 4000
+Distinct exported goods: 5
+Qualifying traders: 2</description>
+    <targetTrack>RHA_STAR_Path_Wealth</targetTrack>
+    <targetNode>network_orders</targetNode>
+    <targetStage>5</targetStage>
+    <days>40</days>
+    <objectives>
+      <li>
+        <metric>TradeIncome</metric>
+        <target>4000</target>
+      </li>
+      <li>
+        <metric>ExportKinds</metric>
+        <target>5</target>
+      </li>
+      <li>
+        <metric>TradePartners</metric>
+        <target>2</target>
+      </li>
+    </objectives>
+  </RimHex.HexStarEconomicChallengeDef030>
+  <RimHex.HexStarEconomicChallengeDef030>
+    <defName>RHA_WealthEconomic030_network_exchange</defName>
+    <label>Goods Exchange assessment</label>
+    <description>After enrollment, complete all objectives within 40 days. Only actual economic activity counts; this node does not need to be unlocked.
+New peak net trade income: 3000
+Actual purchase spending: 1500
+Distinct purchased goods: 5
+Qualifying traders: 2</description>
+    <targetTrack>RHA_STAR_Path_Wealth</targetTrack>
+    <targetNode>network_exchange</targetNode>
+    <targetStage>5</targetStage>
+    <days>40</days>
+    <objectives>
+      <li>
+        <metric>TradeIncome</metric>
+        <target>3000</target>
+      </li>
+      <li>
+        <metric>PaidExpense</metric>
+        <target>1500</target>
+      </li>
+      <li>
+        <metric>PurchaseKinds</metric>
+        <target>5</target>
+      </li>
+      <li>
+        <metric>TradePartners</metric>
+        <target>2</target>
+      </li>
+    </objectives>
+  </RimHex.HexStarEconomicChallengeDef030>
+  <RimHex.HexStarEconomicChallengeDef030>
+    <defName>RHA_WealthEconomic030_delivery_steel</defName>
+    <label>Raw Material Reserve assessment</label>
+    <description>After enrollment, complete all objectives within 40 days. Only actual economic activity counts; this node does not need to be unlocked.
+Units manufactured: 60
+Distinct completed recipes: 4
+Actual purchase spending: 1000</description>
+    <targetTrack>RHA_STAR_Path_Wealth</targetTrack>
+    <targetNode>delivery_steel</targetNode>
+    <targetStage>5</targetStage>
+    <days>40</days>
+    <objectives>
+      <li>
+        <metric>ManufacturedUnits</metric>
+        <target>60</target>
+      </li>
+      <li>
+        <metric>RecipeKinds</metric>
+        <target>4</target>
+      </li>
+      <li>
+        <metric>PaidExpense</metric>
+        <target>1000</target>
+      </li>
+    </objectives>
+  </RimHex.HexStarEconomicChallengeDef030>
+  <RimHex.HexStarEconomicChallengeDef030>
+    <defName>RHA_WealthEconomic030_delivery_components</defName>
+    <label>Precision Spares assessment</label>
+    <description>After enrollment, complete all objectives within 40 days. Only actual economic activity counts; this node does not need to be unlocked.
+Units manufactured: 40
+Distinct completed recipes: 5
+Distinct purchased goods: 4</description>
+    <targetTrack>RHA_STAR_Path_Wealth</targetTrack>
+    <targetNode>delivery_components</targetNode>
+    <targetStage>5</targetStage>
+    <days>40</days>
+    <objectives>
+      <li>
+        <metric>ManufacturedUnits</metric>
+        <target>40</target>
+      </li>
+      <li>
+        <metric>RecipeKinds</metric>
+        <target>5</target>
+      </li>
+      <li>
+        <metric>PurchaseKinds</metric>
+        <target>4</target>
+      </li>
+    </objectives>
+  </RimHex.HexStarEconomicChallengeDef030>
+  <RimHex.HexStarEconomicChallengeDef030>
+    <defName>RHA_WealthEconomic030_reserve_meals</defName>
+    <label>Meal Rotation assessment</label>
+    <description>After enrollment, complete all objectives within 40 days. Only actual economic activity counts; this node does not need to be unlocked.
+Nutrition consumed: 120
+Distinct foods: 4
+Actual purchase spending: 700</description>
+    <targetTrack>RHA_STAR_Path_Wealth</targetTrack>
+    <targetNode>reserve_meals</targetNode>
+    <targetStage>5</targetStage>
+    <days>40</days>
+    <objectives>
+      <li>
+        <metric>Nutrition</metric>
+        <target>120</target>
+      </li>
+      <li>
+        <metric>FoodKinds</metric>
+        <target>4</target>
+      </li>
+      <li>
+        <metric>PaidExpense</metric>
+        <target>700</target>
+      </li>
+    </objectives>
+  </RimHex.HexStarEconomicChallengeDef030>
+  <RimHex.HexStarEconomicChallengeDef030>
+    <defName>RHA_WealthEconomic030_reserve_medicine</defName>
+    <label>Medical Rotation assessment</label>
+    <description>After enrollment, complete all objectives within 40 days. Only actual economic activity counts; this node does not need to be unlocked.
+Medicine consumed: 4
+Actual purchase spending: 800
+Nutrition consumed: 40</description>
+    <targetTrack>RHA_STAR_Path_Wealth</targetTrack>
+    <targetNode>reserve_medicine</targetNode>
+    <targetStage>5</targetStage>
+    <days>40</days>
+    <objectives>
+      <li>
+        <metric>MedicineUnits</metric>
+        <target>4</target>
+      </li>
+      <li>
+        <metric>PaidExpense</metric>
+        <target>800</target>
+      </li>
+      <li>
+        <metric>Nutrition</metric>
+        <target>40</target>
+      </li>
+    </objectives>
+  </RimHex.HexStarEconomicChallengeDef030>
+</Defs>

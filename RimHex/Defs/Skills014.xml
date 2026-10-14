@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Defs>
+  <RimHex.HexSkillDef>
+    <defName>RHA_Skill_Arc014</defName>
+    <label>Crystal bolt</label>
+    <description>Launch a bolt at a visible enemy within 18 cells. It arrives after 0.2 seconds and deals 36 base physical damage, subject to armor. Base cooldown: 6 seconds. Learnt from relevant cards.</description>
+    <cardKey>Arc014</cardKey>
+    <aim>Enemy</aim>
+    <autoRule>Threat</autoRule>
+    <cooldown>360</cooldown>
+    <range>18</range>
+    <radius>0</radius>
+    <visual>Missile</visual>
+    <iconPath>RimHex/Cards/RHA_A14_Multishot</iconPath>
+  </RimHex.HexSkillDef>
+</Defs>

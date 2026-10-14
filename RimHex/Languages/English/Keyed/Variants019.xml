@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_V19_Name0>Hunting bolt</RHA_V19_Name0>
+  <RHA_V19_Name1>Crossfire beam</RHA_V19_Name1>
+  <RHA_V19_Name2>Overload</RHA_V19_Name2>
+  <RHA_V19_Name3>Amplifier prism</RHA_V19_Name3>
+  <RHA_V19_Name4>Wandering rift</RHA_V19_Name4>
+  <RHA_V19_Name5>Phase reinforcements</RHA_V19_Name5>
+  <RHA_V19_Desc0>Tracks a colonist for 2 seconds, then locks its position for 3 seconds before striking. Move out or interrupt the caster.</RHA_V19_Desc0>
+  <RHA_V19_Desc1>Marks a 3-cell-wide beam and fires after 4 seconds. Step sideways or interrupt the caster.</RHA_V19_Desc1>
+  <RHA_V19_Desc2>Marks a 4-cell-radius blast and charges for 4 seconds. Leave the area or interrupt the caster.</RHA_V19_Desc2>
+  <RHA_V19_Desc3>A prism with 180 hit points boosts trial enemies within 10 cells by 25% damage. Destroy it to remove the boost.</RHA_V19_Desc3>
+  <RHA_V19_Desc4>Marks a rift beneath a colonist. After 4 seconds it pulses three times, 2 seconds apart. Leave its 3-cell radius.</RHA_V19_Desc4>
+  <RHA_V19_Desc5>The caster marks reinforcements arriving in 4 seconds. Each cast calls 2 temporary enemies; at most 6 per wave, lasting 20 seconds. Interruptible.</RHA_V19_Desc5>
+  <RHA_V19_Report>Trial report</RHA_V19_Report>
+  <RHA_V19_Summary>{0} · Tier {1} · {2}/3 waves cleared\n{3}</RHA_V19_Summary>
+  <RHA_V19_Off>Variants were disabled for this run.</RHA_V19_Off>
+  <RHA_V19_Wave>Wave {0}: {1} · {2}</RHA_V19_Wave>
+  <RHA_V19_NoRisk>No extra risk</RHA_V19_NoRisk>
+  <RHA_V19_Cleared>Cleared</RHA_V19_Cleared>
+  <RHA_V19_Pending>Not cleared</RHA_V19_Pending>
+  <RHA_V19_Payout>Claimable / claimed rewards:\nBase: {0} shards, {1} cores, {2} essence\nExtra risk: {3} shards, {4} cores</RHA_V19_Payout>
+  <RHA_V19_LegacyReport>This older trial has no duration or path-certification snapshot. Its original rewards and contributions remain.</RHA_V19_LegacyReport>
+  <RHA_V19_Duration>Duration: {0} (including preparation and intermissions)</RHA_V19_Duration>
+  <RHA_V19_Running>Trial in progress. Certification results are saved when it ends.</RHA_V19_Running>
+  <RHA_V19_Goal>Path: {0} · Assigned participant: {1}</RHA_V19_Goal>
+  <RHA_V19_GoalState>Sources at finish: {0}; waves with a path-ability cast: {1}</RHA_V19_GoalState>
+  <RHA_V19_NoGoal>No path challenge was tracked at trial start.</RHA_V19_NoGoal>
+  <RHA_V19_PracticeGoal>The path was still in foundation or practice at start; this run cannot certify it.</RHA_V19_PracticeGoal>
+  <RHA_V19_GoalChanged>The tracked challenge changed, was abandoned, or its assigned participant is missing.</RHA_V19_GoalChanged>
+  <RHA_V19_GoalRules>Requires a tier 3+ standard trial, challenge rules enabled and at least 100% intensity.</RHA_V19_GoalRules>
+  <RHA_V19_GoalStart>Not registered at start. Track certification beforehand and meet build/presence requirements; colony paths also need their preparation cast.</RHA_V19_GoalStart>
+  <RHA_V19_GoalBuild>The build did not satisfy 5 distinct sources and a base evolution at completion.</RHA_V19_GoalBuild>
+  <RHA_V19_GoalOwner>At completion, the participant must be a free colonist, alive, standing and on the trial map.</RHA_V19_GoalOwner>
+  <RHA_V19_GoalWaves>The assigned colonist did not cast the path ability in each of the three waves.</RHA_V19_GoalWaves>
+  <RHA_V19_GoalIncomplete>All three waves were not completed.</RHA_V19_GoalIncomplete>
+  <RHA_V19_GoalPassed>Path certified. Claim its milestone in Path challenges; replays only update records.</RHA_V19_GoalPassed>
+  <RHA_V19_Contributions>Contributions: damage includes direct and secondary hits. Healing and shields cover effects recorded by this mod, not all vanilla treatment or other mods.</RHA_V19_Contributions>
+  <RHA_V19_Contribution>{0}: damage {1} · healing {2} · absorbed {3}</RHA_V19_Contribution>
+  <RHA_V19_NoContribution>No contributions recorded.</RHA_V19_NoContribution>
+  <RHA_V19_Enabled>Variants: on</RHA_V19_Enabled>
+  <RHA_V19_Disabled>Variants: off</RHA_V19_Disabled>
+  <RHA_V19_StartHint>This run includes one variant. Optionally add a second between waves. Area-strike variants are never combined. Map warnings show incoming attacks; down or stun the caster to cancel.</RHA_V19_StartHint>
+  <RHA_V19_Risk>Add extra risk</RHA_V19_Risk>
+  <RHA_V19_RiskChosen>Risk selected</RHA_V19_RiskChosen>
+  <RHA_V19_RiskHint>Continue without extra risk, or add a variant for the next wave. Clearing it earns {0} extra shards and 1 core, at most twice per run.</RHA_V19_RiskHint>
+  <RHA_V19_Chosen>Wave {1} extra risk: {0}.</RHA_V19_Chosen>
+  <RHA_V19_Warning>{0} · {1}s</RHA_V19_Warning>
+</LanguageData>

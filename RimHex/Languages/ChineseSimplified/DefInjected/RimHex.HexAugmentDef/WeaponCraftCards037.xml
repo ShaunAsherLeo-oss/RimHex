@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RHA_WT_P01.label>精工枪管许可</RHA_WT_P01.label>
+  <RHA_WT_P01.description>本人新制的白名单枪械，武器伤害提高15%。 需要Odyssey；效果保存在新制成品上，三种许可可并存，同名不重复。仅限左轮、栓动步枪、连发霰弹枪、重型冲锋枪、轻机枪、突击步枪、狙击步枪、转轮机枪、充能步枪和充能长枪；原生独特武器、交易品和历史物品不触发。</RHA_WT_P01.description>
+  <RHA_WT_P01.theme>工艺</RHA_WT_P01.theme>
+  <RHA_WT_P02.label>速射机件许可</RHA_WT_P02.label>
+  <RHA_WT_P02.description>本人新制的白名单枪械，射击冷却缩短15%。 需要Odyssey；效果保存在新制成品上，三种许可可并存，同名不重复。仅限左轮、栓动步枪、连发霰弹枪、重型冲锋枪、轻机枪、突击步枪、狙击步枪、转轮机枪、充能步枪和充能长枪；原生独特武器、交易品和历史物品不触发。</RHA_WT_P02.description>
+  <RHA_WT_P02.theme>工艺</RHA_WT_P02.theme>
+  <RHA_WT_P03.label>校准瞄具许可</RHA_WT_P03.label>
+  <RHA_WT_P03.description>本人新制的白名单枪械，各距离武器精度乘以1.10，受原生上限限制。 需要Odyssey；效果保存在新制成品上，三种许可可并存，同名不重复。仅限左轮、栓动步枪、连发霰弹枪、重型冲锋枪、轻机枪、突击步枪、狙击步枪、转轮机枪、充能步枪和充能长枪；原生独特武器、交易品和历史物品不触发。</RHA_WT_P03.description>
+  <RHA_WT_P03.theme>工艺</RHA_WT_P03.theme>
+</LanguageData>

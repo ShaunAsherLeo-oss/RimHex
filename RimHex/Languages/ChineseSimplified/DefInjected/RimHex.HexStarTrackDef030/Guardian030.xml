@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_STAR_Path_Guardian.nodes.0.label>守望</RHA_STAR_Path_Guardian.nodes.0.label>
+  <RHA_STAR_Path_Guardian.nodes.0.description>沿用已选守护进化。精进：反击伤害或庇护盾量。 精进初始 ×1，终值：伤害 ×50；护盾 ×20。</RHA_STAR_Path_Guardian.nodes.0.description>
+  <RHA_STAR_Path_Guardian.nodes.1.label>迎击</RHA_STAR_Path_Guardian.nodes.1.label>
+  <RHA_STAR_Path_Guardian.nodes.1.description>本人护盾实际吸收敌伤后，记住攻击者4秒。普通命中该敌人追加50点伤害，每轮一次，触发间隔4秒。等待期间不更换目标或续期；反伤、技能和追加伤害不领取。精进：追加伤害。 基础收益：伤害 50。 精进初始 ×1，终值：伤害 ×50。</RHA_STAR_Path_Guardian.nodes.1.description>
+  <RHA_STAR_Path_Guardian.nodes.2.label>照应</RHA_STAR_Path_Guardian.nodes.2.label>
+  <RHA_STAR_Path_Guardian.nodes.2.description>本人普通命中敌人时，为3格内距该敌人最近的另一名殖民者提供50点独立护盾，持续3秒，间隔5秒。队友须距敌人6格内；无人符合时不消耗间隔。精进：护盾量。 基础收益：护盾 50。 精进初始 ×1，终值：护盾 ×20。</RHA_STAR_Path_Guardian.nodes.2.description>
+  <RHA_STAR_Path_Guardian.nodes.3.label>盾后还击</RHA_STAR_Path_Guardian.nodes.3.label>
+  <RHA_STAR_Path_Guardian.nodes.3.description>迎击造成实际追加伤害后3秒内，再普通命中同一敌人，追加50点伤害。每轮一次；新迎击不覆盖尚未到期的机会。精进：追加伤害。 基础收益：伤害 50。 精进初始 ×1，终值：伤害 ×50。</RHA_STAR_Path_Guardian.nodes.3.description>
+  <RHA_STAR_Path_Guardian.nodes.4.label>让锋</RHA_STAR_Path_Guardian.nodes.4.label>
+  <RHA_STAR_Path_Guardian.nodes.4.description>迎击造成实际追加伤害后3秒内，步行至少1格离开本人触发迎击时的位置，再普通命中另一敌人，获得50点独立护盾，持续3秒，每轮一次。瞬移取消；机会待领取或获盾后3秒内，新迎击不重置该轮。精进：护盾量。 基础收益：护盾 50。 精进初始 ×1，终值：护盾 ×20。</RHA_STAR_Path_Guardian.nodes.4.description>
+  <RHA_STAR_Path_Guardian.nodes.5.label>指敌</RHA_STAR_Path_Guardian.nodes.5.label>
+  <RHA_STAR_Path_Guardian.nodes.5.description>照应盾首次实际吸收敌伤后，原获盾队友有3秒普通命中该攻击者，追加50点伤害，每轮一次，伤害归施盾者。本人或其他队友不能代领。精进：追加伤害。 基础收益：伤害 50。 精进初始 ×1，终值：伤害 ×50。</RHA_STAR_Path_Guardian.nodes.5.description>
+  <RHA_STAR_Path_Guardian.nodes.6.label>接应归队</RHA_STAR_Path_Guardian.nodes.6.label>
+  <RHA_STAR_Path_Guardian.nodes.6.description>照应盾首次实际吸收敌伤后3秒内，原获盾队友步行至少1格靠近施盾者，并在其2格内普通命中敌人，治疗自己最多20点普通伤势，每轮一次。瞬移取消，伤疤不治疗。精进：非永久伤势治疗量。 基础收益：治疗 20。 精进初始 ×1，终值：治疗 ×10。</RHA_STAR_Path_Guardian.nodes.6.description>
+  <RHA_STAR_Path_Guardian.nodes.7.label>破隙</RHA_STAR_Path_Guardian.nodes.7.label>
+  <RHA_STAR_Path_Guardian.nodes.7.description>盾后还击造成实际伤害后，在该敌人身上留下3秒破隙。首位其他殖民者普通命中它时追加50点伤害，归原作者，每轮一次。本人无法领取，等待期间不换目标或续期。精进：追加伤害。 基础收益：伤害 50。 精进初始 ×1，终值：伤害 ×50。</RHA_STAR_Path_Guardian.nodes.7.description>
+  <RHA_STAR_Path_Guardian.nodes.8.label>换线</RHA_STAR_Path_Guardian.nodes.8.label>
+  <RHA_STAR_Path_Guardian.nodes.8.description>让锋盾首次实际吸收敌伤后3秒内，再步行至少1格，普通命中不同于该次攻击者的敌人，追加50点伤害，每轮一次。瞬移取消；后续吸收不更换目标或延时，新的让锋盾也不覆盖待领取机会。精进：追加伤害。 基础收益：伤害 50。 精进初始 ×1，终值：伤害 ×50。</RHA_STAR_Path_Guardian.nodes.8.description>
+  <RHA_STAR_Path_Guardian.nodes.9.label>合围</RHA_STAR_Path_Guardian.nodes.9.label>
+  <RHA_STAR_Path_Guardian.nodes.9.description>原队友完成指敌追击后，作者有3秒普通命中同一敌人，再对其3格内最近的另一敌人造成50点伤害，每轮一次。没有第二名敌人保留机会但不延时；新的指敌不覆盖待领取机会，追加伤害不派生新的照应。精进：追加伤害。 基础收益：伤害 50。 精进初始 ×1，终值：伤害 ×50。</RHA_STAR_Path_Guardian.nodes.9.description>
+  <RHA_STAR_Path_Guardian.nodes.10.label>再整阵列</RHA_STAR_Path_Guardian.nodes.10.label>
+  <RHA_STAR_Path_Guardian.nodes.10.description>接应归队实际治疗后，作者有3秒普通命中另一敌人，为原患者提供50点独立护盾，持续3秒，每轮一次。患者须在4格内，离场不替换他人；不触发照应分支的吸收奖励。机会待领取或新盾持续期间，后续归队治疗不重置该轮。精进：护盾量。 基础收益：护盾 50。 精进初始 ×1，终值：护盾 ×20。</RHA_STAR_Path_Guardian.nodes.10.description>
+  <RHA_STAR_Path_Guardian.nodes.11.label>追破</RHA_STAR_Path_Guardian.nodes.11.label>
+  <RHA_STAR_Path_Guardian.nodes.11.description>队友实际领取破隙后3秒内，本人普通命中另一敌人，向原破隙敌人追加50点伤害，每轮一次。原敌人须仍在本人6格内；不存在时保留机会但不延时，不改打别人。新的破隙不覆盖待领取机会。精进：追加伤害。 基础收益：伤害 50。 精进初始 ×1，终值：伤害 ×50。</RHA_STAR_Path_Guardian.nodes.11.description>
+  <RHA_STAR_Path_Guardian.nodes.12.label>并盾</RHA_STAR_Path_Guardian.nodes.12.label>
+  <RHA_STAR_Path_Guardian.nodes.12.description>队友实际领取破隙后3秒内，本人步行至少1格靠近该队友，在其2格内普通命中敌人，为双方各提供25点独立护盾，持续3秒，每轮一次。瞬移取消；新的破隙不覆盖待领取机会。双方旧并盾未消退时保留机会但不延时。每面。精进：双方独立的护盾量。 基础收益：护盾 25。 精进初始 ×1，终值：护盾 ×20。</RHA_STAR_Path_Guardian.nodes.12.description>
+  <RHA_STAR_Path_Guardian.nodes.13.label>截击</RHA_STAR_Path_Guardian.nodes.13.label>
+  <RHA_STAR_Path_Guardian.nodes.13.description>换线造成实际伤害后3秒内，再步行至少1格靠近换线目标，普通命中它追加50点伤害，每轮一次。目标移动不重置步行起点；瞬移取消。新的换线不覆盖待领取机会。精进：追加伤害。 基础收益：伤害 50。 精进初始 ×1，终值：伤害 ×50。</RHA_STAR_Path_Guardian.nodes.13.description>
+  <RHA_STAR_Path_Guardian.nodes.14.label>折返护持</RHA_STAR_Path_Guardian.nodes.14.label>
+  <RHA_STAR_Path_Guardian.nodes.14.description>换线造成实际伤害后3秒内，步行返回让锋的起始位置1格内，再普通命中敌人，为3格内普通伤势最重的另一名殖民者治疗最多20点，每轮一次。瞬移取消，伤疤不治疗；无人可治不延时。新的换线不覆盖待领取机会或原让锋起点。精进：非永久伤势治疗量。 基础收益：治疗 20。 精进初始 ×1，终值：治疗 ×10。</RHA_STAR_Path_Guardian.nodes.14.description>
+  <RHA_STAR_Path_Guardian.nodes.15.label>两面夹击</RHA_STAR_Path_Guardian.nodes.15.label>
+  <RHA_STAR_Path_Guardian.nodes.15.description>合围对第二名敌人造成实际伤害后3秒内，原指敌队友普通命中这名敌人，追加50点伤害，归作者，每轮一次。其他人不能领取；追加伤害不再触发合围。新的合围不覆盖尚未领取的原目标、队友或期限。精进：追加伤害。 基础收益：伤害 50。 精进初始 ×1，终值：伤害 ×50。</RHA_STAR_Path_Guardian.nodes.15.description>
+  <RHA_STAR_Path_Guardian.nodes.16.label>围中有隙</RHA_STAR_Path_Guardian.nodes.16.label>
+  <RHA_STAR_Path_Guardian.nodes.16.description>合围对第二名敌人造成实际伤害后3秒内，作者普通命中另一敌人，为4格内的原指敌队友提供50点独立护盾，持续3秒，每轮一次。新盾不触发照应奖励，原队友不被替换。新的合围不覆盖待领取机会或仍持续的新盾来源。精进：护盾量。 基础收益：护盾 50。 精进初始 ×1，终值：护盾 ×20。</RHA_STAR_Path_Guardian.nodes.16.description>
+  <RHA_STAR_Path_Guardian.nodes.17.label>重返前线</RHA_STAR_Path_Guardian.nodes.17.label>
+  <RHA_STAR_Path_Guardian.nodes.17.description>再整阵列盾首次实际吸收敌伤后3秒内，原患者再步行至少1格，并在作者2格范围外普通命中该攻击者，追加50点伤害，归作者，每轮一次。瞬移取消；后续吸收不续期，新一轮挡伤不替换尚未领取的原队友与攻击者。精进：追加伤害。 基础收益：伤害 50。 精进初始 ×1，终值：伤害 ×50。</RHA_STAR_Path_Guardian.nodes.17.description>
+  <RHA_STAR_Path_Guardian.nodes.18.label>余力救援</RHA_STAR_Path_Guardian.nodes.18.label>
+  <RHA_STAR_Path_Guardian.nodes.18.description>再整阵列盾首次实际吸收敌伤后3秒内，作者普通命中另一敌人，为原患者3格内另一名普通伤势最重的殖民者治疗最多20点，每轮一次。排除作者和原患者；无可治队友保留期限，伤疤不治疗。后续吸收不续期，新一轮挡伤不替换待领取机会的原患者与攻击者。精进：非永久伤势治疗量。 基础收益：治疗 20。 精进初始 ×1，终值：治疗 ×10。</RHA_STAR_Path_Guardian.nodes.18.description>
+</LanguageData>

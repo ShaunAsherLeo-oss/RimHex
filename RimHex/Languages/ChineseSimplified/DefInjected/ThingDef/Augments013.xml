@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_PiercingFragment.label>破甲残片</RHA_PiercingFragment.label>
+  <RHA_PiercingFragment.description>暂时留在战场上的破甲残片。触发者靠近到两格内即可拾取，获得永久穿透成长。</RHA_PiercingFragment.description>
+</LanguageData>

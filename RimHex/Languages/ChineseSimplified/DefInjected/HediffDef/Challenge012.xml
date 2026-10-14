@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_ChallengeEnemy.label>精英战备</RHA_ChallengeEnemy.label>
+  <RHA_ChallengeEnemy.description>敌人的战斗职责、屏障与控制状态。</RHA_ChallengeEnemy.description>
+  <RHA_ChallengeSuppression.label>恢复受抑</RHA_ChallengeSuppression.label>
+  <RHA_ChallengeSuppression.description>附近的抑制场使海克斯治疗和新获得的海克斯护盾减少35%。离开范围、遮挡视线或解决来源即可恢复。</RHA_ChallengeSuppression.description>
+</LanguageData>

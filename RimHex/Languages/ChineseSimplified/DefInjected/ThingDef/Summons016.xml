@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_ProjectionRace.label>棱晶构体</RHA_ProjectionRace.label>
+  <RHA_ProjectionRace.description>临时作战构体，消散后不留下残骸。</RHA_ProjectionRace.description>
+  <RHA_ProjectionRace.tools.0.label>晶刃</RHA_ProjectionRace.tools.0.label>
+  <RHA_ProjectionRace.tools.0.labelNoLocation>刃</RHA_ProjectionRace.tools.0.labelNoLocation>
+</LanguageData>

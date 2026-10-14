@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <HediffDef>
+    <defName>RHA_BloodrageMemory037</defName><label>blood memory</label>
+    <description>For the first four-second window, the representative Tyrant's grasp uses the lowest actual health summary observed around real injury repair. Other original damage contributions are unchanged.</description>
+    <hediffClass>RimHex.Hediff_HexBloodrageState037</hediffClass><isBad>false</isBad><initialSeverity>1</initialSeverity><maxSeverity>1</maxSeverity>
+  </HediffDef>
+  <HediffDef>
+    <defName>RHA_BloodrageFury037</defName><label>overflowing fury</label>
+    <description>Actual hostile injury stores a health-scale-denominated remainder and up to five rage charges. The next native hit spends rage once on nearby other enemies or the primary target. The finite window expires after six seconds.</description>
+    <hediffClass>RimHex.Hediff_HexBloodrageState037</hediffClass><isBad>false</isBad><initialSeverity>1</initialSeverity><maxSeverity>1</maxSeverity>
+  </HediffDef>
+  <HediffDef>
+    <defName>RHA_BloodrageDebt037</defName><label>bloodline buffer debt</label>
+    <description>After a genuine downward crossing of35percent native health, later protected direct injuries defer35percent for three seconds. Existing debt remains through unequip and map departure, paid in five one-second real body-part installments without another armor or shield pass.</description>
+    <hediffClass>RimHex.Hediff_HexBloodrageDebt037</hediffClass><isBad>true</isBad><initialSeverity>1</initialSeverity><maxSeverity>1</maxSeverity>
+  </HediffDef>
+</Defs>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <!-- Native wall graphics/physics, with no reusable construction materials. -->
+  <ThingDef ParentName="Wall">
+    <defName>RHA_StarArenaWall</defName><label>trial cover</label>
+    <description>A broken section of the trial's defenses. Blocks movement and fire, but can be destroyed with ordinary weapons. It cannot be claimed or salvaged.</description>
+    <designationCategory IsNull="True" /><costStuffCount>0</costStuffCount><costList Inherit="False" />
+    <noRightClickDraftAttack>false</noRightClickDraftAttack><leaveResourcesWhenKilled>false</leaveResourcesWhenKilled>
+    <comps Inherit="False" />
+    <building><deconstructible>false</deconstructible><claimable>false</claimable><repairable>false</repairable><relatedBuildCommands Inherit="False" /></building>
+  </ThingDef>
+  <TerrainDef ParentName="FloorBase" Name="RHA_StarArenaFloorBase" Abstract="True">
+    <layerable>false</layerable><designationCategory IsNull="True" /><renderPrecedence>230</renderPrecedence>
+    <pathCost>0</pathCost><costList Inherit="False" />
+  </TerrainDef>
+  <TerrainDef ParentName="RHA_StarArenaFloorBase">
+    <defName>RHA_StarArenaBase</defName><label>trial foundation</label>
+    <description>The solid foundation of the trial grounds. It yields no building materials.</description>
+    <texturePath>Terrain/Surfaces/Concrete</texturePath><color>(140,140,140)</color>
+  </TerrainDef>
+  <TerrainDef ParentName="RHA_StarArenaFloorBase">
+    <defName>RHA_StarArenaPaving</defName><label>trial paving</label>
+    <description>Worn paving around the combat lanes. It yields no building materials.</description>
+    <texturePath>Terrain/Surfaces/PavedTile</texturePath><color>(140,140,140)</color>
+  </TerrainDef>
+  <TerrainDef ParentName="RHA_StarArenaFloorBase">
+    <defName>RHA_StarArenaLane</defName><label>trial lane</label>
+    <description>A clear approach through the trial grounds. It yields no building materials.</description>
+    <texturePath>Terrain/Surfaces/GenericFloorTile</texturePath><color>(0.369,0.369,0.369)</color>
+  </TerrainDef>
+</Defs>

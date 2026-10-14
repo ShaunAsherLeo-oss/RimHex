@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_STAR_Relic_Trinity.nodes.0.label>Trinity Confluence</RHA_STAR_Relic_Trinity.nodes.0.label>
+  <RHA_STAR_Relic_Trinity.nodes.0.description>Retains original damage, critical value, cleave, chain, work speed and movement speed. Grants no abilities. Later skill-hit effects require actual damage from a RimHex ability; ordinary attacks and original cleave or chain do not qualify.</RHA_STAR_Relic_Trinity.nodes.0.description>
+  <RHA_STAR_Relic_Trinity.nodes.1.label>Spell to Steel</RHA_STAR_Relic_Trinity.nodes.1.label>
+  <RHA_STAR_Relic_Trinity.nodes.1.description>A damaging RimHex ability hit marks its victim for 5 seconds, once per 8 seconds, with one mark maximum. Your later ordinary hit on that enemy consumes it for 50 bonus damage. Base rewards: damage 50.</RHA_STAR_Relic_Trinity.nodes.1.description>
+  <RHA_STAR_Relic_Trinity.nodes.2.label>Steel to Spell</RHA_STAR_Relic_Trinity.nodes.2.label>
+  <RHA_STAR_Relic_Trinity.nodes.2.description>An actual ordinary critical hit marks its victim for 5 seconds, once per 8 seconds, with one mark maximum. A later damaging RimHex ability hit on that enemy consumes it for 75 bonus damage. Base rewards: damage 75.</RHA_STAR_Relic_Trinity.nodes.2.description>
+  <RHA_STAR_Relic_Trinity.nodes.3.label>Spellblade Respite</RHA_STAR_Relic_Trinity.nodes.3.label>
+  <RHA_STAR_Relic_Trinity.nodes.3.description>After Spell to Steel deals actual bonus damage, heal 20 base points of your recoverable injuries, once per 8 seconds. Missing parts and permanent scars are not restored. Base rewards: healing 20.</RHA_STAR_Relic_Trinity.nodes.3.description>
+  <RHA_STAR_Relic_Trinity.nodes.4.label>Spellblade Guard</RHA_STAR_Relic_Trinity.nodes.4.label>
+  <RHA_STAR_Relic_Trinity.nodes.4.description>After Spell to Steel deals actual bonus damage, shield yourself for 50 base points over 3 seconds, once per 8 seconds. Base rewards: shield 50.</RHA_STAR_Relic_Trinity.nodes.4.description>
+  <RHA_STAR_Relic_Trinity.nodes.5.label>Prismatic Refraction</RHA_STAR_Relic_Trinity.nodes.5.label>
+  <RHA_STAR_Relic_Trinity.nodes.5.description>After Steel to Spell deals actual bonus damage, strike one other enemy within 3 cells of the impact and clear sight for 25 damage, once per 8 seconds. Never hits the original target again. Base rewards: damage 25.</RHA_STAR_Relic_Trinity.nodes.5.description>
+  <RHA_STAR_Relic_Trinity.nodes.6.label>Prismatic Cover</RHA_STAR_Relic_Trinity.nodes.6.label>
+  <RHA_STAR_Relic_Trinity.nodes.6.description>After Steel to Spell deals actual bonus damage, shield the nearest other eligible colonist within 4 cells and clear sight for 50 base points over 3 seconds, once per 8 seconds. Never shields you instead. Base rewards: shield 50.</RHA_STAR_Relic_Trinity.nodes.6.description>
+</LanguageData>

@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Defs>
+  <HediffDef>
+    <defName>RHA_Augments013</defName>
+    <label>combat craft</label>
+    <description>Permanent penetration, ability growth and current temporary effects.</description>
+    <hediffClass>RimHex.Hediff_HexAugments013</hediffClass>
+    <isBad>false</isBad>
+    <initialSeverity>1</initialSeverity>
+  </HediffDef>
+  <HediffDef>
+    <defName>RHA_Erosion013</defName>
+    <label>armor erosion</label>
+    <description>Attackers gain additional armor penetration against this pawn.</description>
+    <hediffClass>RimHex.Hediff_HexErosion013</hediffClass>
+    <isBad>true</isBad>
+    <initialSeverity>1</initialSeverity>
+  </HediffDef>
+  <ThingDef>
+    <defName>RHA_PiercingFragment</defName>
+    <label>piercing fragment</label>
+    <description>A short-lived fragment bound to the fighter who broke it loose. Move within two cells to claim its permanent growth.</description>
+    <thingClass>RimHex.Thing_HexTooth013</thingClass>
+    <category>Item</category>
+    <tickerType>Normal</tickerType>
+    <altitudeLayer>Item</altitudeLayer>
+    <selectable>true</selectable>
+    <useHitPoints>false</useHitPoints>
+    <stackLimit>1</stackLimit>
+    <alwaysHaulable>false</alwaysHaulable>
+    <drawGUIOverlay>false</drawGUIOverlay>
+    <graphicData>
+      <texPath>RimHex/Objects/Tooth013</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(0.65, 0.65)</drawSize>
+    </graphicData>
+    <statBases>
+      <MaxHitPoints>100</MaxHitPoints>
+      <Mass>0</Mass>
+      <Flammability>0</Flammability>
+      <MarketValue>0</MarketValue>
+    </statBases>
+  </ThingDef>
+</Defs>

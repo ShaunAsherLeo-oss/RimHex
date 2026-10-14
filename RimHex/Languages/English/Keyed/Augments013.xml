@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_013_RerollSetting>Base rerolls per candidate: {0}</RHA_013_RerollSetting>
+  <RHA_013_RerollSlot>Reroll this card · {0} left</RHA_013_RerollSlot>
+  <RHA_013_CardGranted>Granted by an augment</RHA_013_CardGranted>
+  <RHA_013_LearnByCard>Choose a granting augment to learn this ability. No separate training is required.</RHA_013_LearnByCard>
+  <RHA_013_NoLanding>No valid combat landing nearby.</RHA_013_NoLanding>
+  <RHA_013_ManualReturn>Return is manual only.</RHA_013_ManualReturn>
+  <RHA_013_DraftedMovement>Automatic movement requires being drafted.</RHA_013_DraftedMovement>
+  <RHA_013_NoReturn>No valid return origin, or the origin is now blocked.</RHA_013_NoReturn>
+  <RHA_013_SkillCritical>Ability critical hit</RHA_013_SkillCritical>
+  <RHA_013_ToothDropped>Piercing fragment dropped</RHA_013_ToothDropped>
+  <RHA_013_ToothClaimed>Collected a piercing fragment: permanent growth gained</RHA_013_ToothClaimed>
+  <RHA_013_DebtDeferred>Final injury deferred after armor</RHA_013_DebtDeferred>
+  <RHA_013_DebtPaid>Deferred injury applied</RHA_013_DebtPaid>
+  <RHA_013_Status>Piercing growth: {0} stacks (+{1} penetration points)\nAbility growth: {2} stacks\nDeferred injury: {3}\nOutlaw’s Grit: {4} stacks\nCritical Rhythm: {5} stacks</RHA_013_Status>
+  <RHA_013_ErosionState>{0} stacks · +{1} penetration points against this target</RHA_013_ErosionState>
+  <RHA_013_ToothOwner>Owner: {0}\nGrowth on collection: {1} stacks</RHA_013_ToothOwner>
+</LanguageData>

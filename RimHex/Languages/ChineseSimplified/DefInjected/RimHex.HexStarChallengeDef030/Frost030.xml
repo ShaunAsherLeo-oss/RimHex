@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_FrostTrial030_root.label>破开初冰</RHA_FrostTrial030_root.label>
+  <RHA_FrostTrial030_root.description>主要威胁：凝霜时敌人最多减伤20%、移动减慢；每30秒转换阶段，起始状态由分支决定。 可用解法：凝霜阶段累计躯干最大生命20%的实际伤害可提前解冻8秒；也可为自然解冻保留爆发。 成功收益：解冻阶段承受伤害提高25%；同类暴露只取较强值。 忽略代价：忽略阶段会把爆发用在防御较高的凝霜期。
+本关编排：支点破防；锁定落点。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。沿用原有限敌人编组。</RHA_FrostTrial030_root.description>
+  <RHA_FrostTrial030_rime.label>两面霜锋</RHA_FrostTrial030_rime.label>
+  <RHA_FrostTrial030_rime.description>主要威胁：凝霜时敌人最多减伤20%、移动减慢；每30秒转换阶段，起始状态由分支决定。 可用解法：凝霜阶段累计躯干最大生命20%的实际伤害可提前解冻8秒；也可为自然解冻保留爆发。 成功收益：解冻阶段承受伤害提高25%；同类暴露只取较强值。 忽略代价：忽略阶段会把爆发用在防御较高的凝霜期。
+本关编排：双体联动；固定射线。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。沿用原有限敌人编组。</RHA_FrostTrial030_rime.description>
+  <RHA_FrostTrial030_shelter.label>霜下掩护</RHA_FrostTrial030_shelter.label>
+  <RHA_FrostTrial030_shelter.description>主要威胁：凝霜时敌人最多减伤20%、移动减慢；每30秒转换阶段，起始状态由分支决定。 可用解法：凝霜阶段累计躯干最大生命20%的实际伤害可提前解冻8秒；也可为自然解冻保留爆发。 成功收益：解冻阶段承受伤害提高25%；同类暴露只取较强值。 忽略代价：忽略阶段会把爆发用在防御较高的凝霜期。
+本关编排：目标保护；左右连续落点。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。沿用原有限敌人编组。</RHA_FrostTrial030_shelter.description>
+  <RHA_FrostTrial030_shatter.label>碎开护卫</RHA_FrostTrial030_shatter.label>
+  <RHA_FrostTrial030_shatter.description>主要威胁：凝霜时敌人最多减伤20%、移动减慢；每30秒转换阶段，起始状态由分支决定。 可用解法：凝霜阶段累计躯干最大生命20%的实际伤害可提前解冻8秒；也可为自然解冻保留爆发。 成功收益：解冻阶段承受伤害提高25%；同类暴露只取较强值。 忽略代价：忽略阶段会把爆发用在防御较高的凝霜期。
+本关编排：支点破防；锁定落点。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。沿用原有限敌人编组。</RHA_FrostTrial030_shatter.description>
+  <RHA_FrostTrial030_pin.label>截断节奏</RHA_FrostTrial030_pin.label>
+  <RHA_FrostTrial030_pin.description>主要威胁：凝霜时敌人最多减伤20%、移动减慢；每30秒转换阶段，起始状态由分支决定。 可用解法：凝霜阶段累计躯干最大生命20%的实际伤害可提前解冻8秒；也可为自然解冻保留爆发。 成功收益：解冻阶段承受伤害提高25%；同类暴露只取较强值。 忽略代价：忽略阶段会把爆发用在防御较高的凝霜期。
+本关编排：连续攻击；空心冲击。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。沿用原有限敌人编组。</RHA_FrostTrial030_pin.description>
+  <RHA_FrostTrial030_reply.label>迎霜反击</RHA_FrostTrial030_reply.label>
+  <RHA_FrostTrial030_reply.description>主要威胁：凝霜时敌人最多减伤20%、移动减慢；每30秒转换阶段，起始状态由分支决定。 可用解法：凝霜阶段累计躯干最大生命20%的实际伤害可提前解冻8秒；也可为自然解冻保留爆发。 成功收益：解冻阶段承受伤害提高25%；同类暴露只取较强值。 忽略代价：忽略阶段会把爆发用在防御较高的凝霜期。
+本关编排：追击诱导；锁定落点。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。沿用原有限敌人编组。</RHA_FrostTrial030_reply.description>
+  <RHA_FrostTrial030_share.label>护住路口</RHA_FrostTrial030_share.label>
+  <RHA_FrostTrial030_share.description>主要威胁：凝霜时敌人最多减伤20%、移动减慢；每30秒转换阶段，起始状态由分支决定。 可用解法：凝霜阶段累计躯干最大生命20%的实际伤害可提前解冻8秒；也可为自然解冻保留爆发。 成功收益：解冻阶段承受伤害提高25%；同类暴露只取较强值。 忽略代价：忽略阶段会把爆发用在防御较高的凝霜期。
+本关编排：目标保护；空心冲击。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。沿用原有限敌人编组。</RHA_FrostTrial030_share.description>
+  <RHA_FrostTrial030_splinters.label>留下冰痕</RHA_FrostTrial030_splinters.label>
+  <RHA_FrostTrial030_splinters.description>主要威胁：凝霜时敌人最多减伤20%、移动减慢；每30秒转换阶段，起始状态由分支决定。 可用解法：凝霜阶段累计躯干最大生命20%的实际伤害可提前解冻8秒；也可为自然解冻保留爆发。 成功收益：解冻阶段承受伤害提高25%；同类暴露只取较强值。 忽略代价：忽略阶段会把爆发用在防御较高的凝霜期。
+本关编排：双体联动；固定射线。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。沿用原有限敌人编组。</RHA_FrostTrial030_splinters.description>
+  <RHA_FrostTrial030_crack.label>踏过裂隙</RHA_FrostTrial030_crack.label>
+  <RHA_FrostTrial030_crack.description>主要威胁：凝霜时敌人最多减伤20%、移动减慢；每30秒转换阶段，起始状态由分支决定。 可用解法：凝霜阶段累计躯干最大生命20%的实际伤害可提前解冻8秒；也可为自然解冻保留爆发。 成功收益：解冻阶段承受伤害提高25%；同类暴露只取较强值。 忽略代价：忽略阶段会把爆发用在防御较高的凝霜期。
+本关编排：追击诱导；固定射线。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。沿用原有限敌人编组。</RHA_FrostTrial030_crack.description>
+  <RHA_FrostTrial030_bank.label>蓄住寒息</RHA_FrostTrial030_bank.label>
+  <RHA_FrostTrial030_bank.description>主要威胁：凝霜时敌人最多减伤20%、移动减慢；每30秒转换阶段，起始状态由分支决定。 可用解法：凝霜阶段累计躯干最大生命20%的实际伤害可提前解冻8秒；也可为自然解冻保留爆发。 成功收益：解冻阶段承受伤害提高25%；同类暴露只取较强值。 忽略代价：忽略阶段会把爆发用在防御较高的凝霜期。
+本关编排：连续攻击；固定射线。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。沿用原有限敌人编组。</RHA_FrostTrial030_bank.description>
+  <RHA_FrostTrial030_link.label>沿寒线前行</RHA_FrostTrial030_link.label>
+  <RHA_FrostTrial030_link.description>主要威胁：凝霜时敌人最多减伤20%、移动减慢；每30秒转换阶段，起始状态由分支决定。 可用解法：凝霜阶段累计躯干最大生命20%的实际伤害可提前解冻8秒；也可为自然解冻保留爆发。 成功收益：解冻阶段承受伤害提高25%；同类暴露只取较强值。 忽略代价：忽略阶段会把爆发用在防御较高的凝霜期。
+本关编排：移动支援；固定射线。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。沿用原有限敌人编组。</RHA_FrostTrial030_link.description>
+  <RHA_FrostTrial030_splinters_spread.label>环道散冰</RHA_FrostTrial030_splinters_spread.label>
+  <RHA_FrostTrial030_splinters_spread.description>主要威胁：凝霜时敌人最多减伤20%、移动减慢；每30秒转换阶段，起始状态由分支决定。 可用解法：凝霜阶段累计躯干最大生命20%的实际伤害可提前解冻8秒；也可为自然解冻保留爆发。 成功收益：解冻阶段承受伤害提高25%；同类暴露只取较强值。 忽略代价：忽略阶段会把爆发用在防御较高的凝霜期。
+本关编排：双体联动；锁定落点。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。五阶固定首领与两名护卫，无补员或复活。</RHA_FrostTrial030_splinters_spread.description>
+  <RHA_FrostTrial030_splinters_guard.label>接住碎冰</RHA_FrostTrial030_splinters_guard.label>
+  <RHA_FrostTrial030_splinters_guard.description>主要威胁：凝霜时敌人最多减伤20%、移动减慢；每30秒转换阶段，起始状态由分支决定。 可用解法：凝霜阶段累计躯干最大生命20%的实际伤害可提前解冻8秒；也可为自然解冻保留爆发。 成功收益：解冻阶段承受伤害提高25%；同类暴露只取较强值。 忽略代价：忽略阶段会把爆发用在防御较高的凝霜期。
+本关编排：目标保护；空心冲击。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。五阶固定首领与两名护卫，无补员或复活。</RHA_FrostTrial030_splinters_guard.description>
+  <RHA_FrostTrial030_crack_turn.label>裂口转锋</RHA_FrostTrial030_crack_turn.label>
+  <RHA_FrostTrial030_crack_turn.description>主要威胁：凝霜时敌人最多减伤20%、移动减慢；每30秒转换阶段，起始状态由分支决定。 可用解法：凝霜阶段累计躯干最大生命20%的实际伤害可提前解冻8秒；也可为自然解冻保留爆发。 成功收益：解冻阶段承受伤害提高25%；同类暴露只取较强值。 忽略代价：忽略阶段会把爆发用在防御较高的凝霜期。
+本关编排：双体联动；锁定落点。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。五阶固定首领与两名护卫，无补员或复活。</RHA_FrostTrial030_crack_turn.description>
+  <RHA_FrostTrial030_crack_return.label>回身踏霜</RHA_FrostTrial030_crack_return.label>
+  <RHA_FrostTrial030_crack_return.description>主要威胁：凝霜时敌人最多减伤20%、移动减慢；每30秒转换阶段，起始状态由分支决定。 可用解法：凝霜阶段累计躯干最大生命20%的实际伤害可提前解冻8秒；也可为自然解冻保留爆发。 成功收益：解冻阶段承受伤害提高25%；同类暴露只取较强值。 忽略代价：忽略阶段会把爆发用在防御较高的凝霜期。
+本关编排：追击诱导；空心冲击。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。五阶固定首领与两名护卫，无补员或复活。</RHA_FrostTrial030_crack_return.description>
+  <RHA_FrostTrial030_bank_storm.label>释出寒息</RHA_FrostTrial030_bank_storm.label>
+  <RHA_FrostTrial030_bank_storm.description>主要威胁：凝霜时敌人最多减伤20%、移动减慢；每30秒转换阶段，起始状态由分支决定。 可用解法：凝霜阶段累计躯干最大生命20%的实际伤害可提前解冻8秒；也可为自然解冻保留爆发。 成功收益：解冻阶段承受伤害提高25%；同类暴露只取较强值。 忽略代价：忽略阶段会把爆发用在防御较高的凝霜期。
+本关编排：连续攻击；锁定落点。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。五阶固定首领与两名护卫，无补员或复活。</RHA_FrostTrial030_bank_storm.description>
+  <RHA_FrostTrial030_bank_cover.label>共守寒幕</RHA_FrostTrial030_bank_cover.label>
+  <RHA_FrostTrial030_bank_cover.description>主要威胁：凝霜时敌人最多减伤20%、移动减慢；每30秒转换阶段，起始状态由分支决定。 可用解法：凝霜阶段累计躯干最大生命20%的实际伤害可提前解冻8秒；也可为自然解冻保留爆发。 成功收益：解冻阶段承受伤害提高25%；同类暴露只取较强值。 忽略代价：忽略阶段会把爆发用在防御较高的凝霜期。
+本关编排：目标保护；空心冲击。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。五阶固定首领与两名护卫，无补员或复活。</RHA_FrostTrial030_bank_cover.description>
+  <RHA_FrostTrial030_link_return.label>接续寒线</RHA_FrostTrial030_link_return.label>
+  <RHA_FrostTrial030_link_return.description>主要威胁：凝霜时敌人最多减伤20%、移动减慢；每30秒转换阶段，起始状态由分支决定。 可用解法：凝霜阶段累计躯干最大生命20%的实际伤害可提前解冻8秒；也可为自然解冻保留爆发。 成功收益：解冻阶段承受伤害提高25%；同类暴露只取较强值。 忽略代价：忽略阶段会把爆发用在防御较高的凝霜期。
+本关编排：目标保护；锁定落点。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。五阶固定首领与两名护卫，无补员或复活。</RHA_FrostTrial030_link_return.description>
+  <RHA_FrostTrial030_link_shift.label>换线支援</RHA_FrostTrial030_link_shift.label>
+  <RHA_FrostTrial030_link_shift.description>主要威胁：凝霜时敌人最多减伤20%、移动减慢；每30秒转换阶段，起始状态由分支决定。 可用解法：凝霜阶段累计躯干最大生命20%的实际伤害可提前解冻8秒；也可为自然解冻保留爆发。 成功收益：解冻阶段承受伤害提高25%；同类暴露只取较强值。 忽略代价：忽略阶段会把爆发用在防御较高的凝霜期。
+本关编排：移动支援；空心冲击。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。五阶固定首领与两名护卫，无补员或复活。</RHA_FrostTrial030_link_shift.description>
+</LanguageData>

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_EnemyFull037_MedicalOnly>Enemy version: retains native health, healing and tending stats; produces and returns no medicine.</RHA_EnemyFull037_MedicalOnly>
+  <RHA_EnemyFull037_CombatOnly>Enemy version: executes the original combat stats and triggers only; does not change colony resources, research or daily production.</RHA_EnemyFull037_CombatOnly>
+  <RHA_EnemyFull037_TrainingCards>Enemy version: immediate encounter damage training. Mind Over Matter adds 3% damage per stack (24% cap); Crash Course adds 5% per stack (40% cap). Grants no permanent skill experience.</RHA_EnemyFull037_TrainingCards>
+  <RHA_EnemyFull037_ExperienceOnly>Enemy version: once this original item’s healing share actually repairs 80 points of one encounter ally’s ordinary wounds, settle once for that patient in this encounter. Each 300 original base medical experience adds 1 wound repair per second (3 cap) for 20 seconds, refreshed by later grants. Does not require colony battle eligibility or award permanent experience.</RHA_EnemyFull037_ExperienceOnly>
+  <RHA_EnemyFull037_BountyOnly>Enemy version: original silver settlement grants encounter shield instead, at most 250 per grant for 10 seconds. Retains original damage, triggers, counters and equipment-card links; grants no loot or colony money.</RHA_EnemyFull037_BountyOnly>
+  <RHA_EnemyFull037_BearDanger>Enemy version: the original death summon triggers when native summary health falls to 35% or less. Retains the 20-second bear lifetime, damage inheritance and once-per-day limit. The bear disappears when its enemy owner retires.</RHA_EnemyFull037_BearDanger>
+  <RHA_EnemyFull037_Shared>Shared by this encounter side. Each owned source contributes once up to the original stack cap. Every ally displays the current total without granting it again.</RHA_EnemyFull037_Shared>
+  <RHA_EnemyFull037_Personal>Personal encounter source. Equipment needs no apparel slot and retains its original combat abilities and live state.</RHA_EnemyFull037_Personal>
+  <RHA_EnemyFull037_AutoSkill>Automatic skill: {0} · {1}</RHA_EnemyFull037_AutoSkill>
+  <RHA_EnemyFull037_TrainingFeedback>Combat training +{0}</RHA_EnemyFull037_TrainingFeedback>
+</LanguageData>

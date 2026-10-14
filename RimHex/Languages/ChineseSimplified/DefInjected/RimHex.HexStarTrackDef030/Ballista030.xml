@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_STAR_Relic_Ballista.nodes.0.label>弩机校准</RHA_STAR_Relic_Ballista.nodes.0.label>
+  <RHA_STAR_Relic_Ballista.nodes.0.description>保留原有伤害、狙击、瞄准时间和觉醒能力。后续节点只认可远程武器对站立敌人造成的实际普通伤害，爆炸、近战、技能与追加伤害不计数。进阶随装备保存。</RHA_STAR_Relic_Ballista.nodes.0.description>
+  <RHA_STAR_Relic_Ballista.nodes.1.label>定点破甲</RHA_STAR_Relic_Ballista.nodes.1.label>
+  <RHA_STAR_Relic_Ballista.nodes.1.description>连续两次远程命中同一敌人，相邻命中不超过5秒，追加75点伤害，冷却8秒。转火重新计数。 基础收益：伤害 75。</RHA_STAR_Relic_Ballista.nodes.1.description>
+  <RHA_STAR_Relic_Ballista.nodes.2.label>移阵架弩</RHA_STAR_Relic_Ballista.nodes.2.label>
+  <RHA_STAR_Relic_Ballista.nodes.2.description>一次有效远程命中记录位置，5秒内移动至少3格后再次远程命中，为本人提供50点基础护盾，持续3秒，冷却8秒。超时重新记录起点。 基础收益：护盾 50。</RHA_STAR_Relic_Ballista.nodes.2.description>
+  <RHA_STAR_Relic_Ballista.nodes.3.label>崩裂弩矢</RHA_STAR_Relic_Ballista.nodes.3.label>
+  <RHA_STAR_Relic_Ballista.nodes.3.description>定点破甲实际造成追加伤害后，对受击点3格内视线畅通的另一名敌人追加25点伤害，冷却8秒。没有其他敌人时不重复击中原目标。 基础收益：伤害 25。</RHA_STAR_Relic_Ballista.nodes.3.description>
+  <RHA_STAR_Relic_Ballista.nodes.4.label>稳固弩座</RHA_STAR_Relic_Ballista.nodes.4.label>
+  <RHA_STAR_Relic_Ballista.nodes.4.description>定点破甲实际造成追加伤害后，为本人提供50点基础护盾，持续3秒，冷却8秒。追加伤害被完全阻挡时不提供护盾。 基础收益：护盾 50。</RHA_STAR_Relic_Ballista.nodes.4.description>
+  <RHA_STAR_Relic_Ballista.nodes.5.label>交替掩护</RHA_STAR_Relic_Ballista.nodes.5.label>
+  <RHA_STAR_Relic_Ballista.nodes.5.description>移阵架弩相同的移动命中条件另为4格内视线畅通、最近的另一名殖民者提供50点基础护盾，持续3秒，冷却8秒。独立计数；没有队友时不转给本人。 基础收益：护盾 50。</RHA_STAR_Relic_Ballista.nodes.5.description>
+  <RHA_STAR_Relic_Ballista.nodes.6.label>转进还击</RHA_STAR_Relic_Ballista.nodes.6.label>
+  <RHA_STAR_Relic_Ballista.nodes.6.description>移阵架弩相同的移动命中条件另储存一枚反击弩矢，持续5秒。随后一次有效远程命中消耗弩矢，追加50点伤害。最多一枚，生成冷却8秒，独立计数。 基础收益：伤害 50。</RHA_STAR_Relic_Ballista.nodes.6.description>
+</LanguageData>

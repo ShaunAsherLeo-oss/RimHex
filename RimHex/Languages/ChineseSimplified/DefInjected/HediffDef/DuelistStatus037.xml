@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RHA_DuelistPreparation037.label>收式迟滞</RHA_DuelistPreparation037.label>
+  <RHA_DuelistPreparation037.description>下一次真正接纳的普通原生攻击准备增加其原整数时长的30%，向下取整；零准备仍为零。记录保留三秒，先消费来源再改变准备时间。</RHA_DuelistPreparation037.description>
+  <RHA_DuelistContract037.label>剑圈契约</RHA_DuelistContract037.label>
+  <RHA_DuelistContract037.description>持有者与此对手建立六秒契约，来自其他敌人的原生直接承伤降低12%；对契约对手每第三次近距原生命中追加锐伤。任一方离开八格即取消契约。</RHA_DuelistContract037.description>
+  <RHA_DuelistCounter037.label>回锋储备</RHA_DuelistCounter037.label>
+  <RHA_DuelistCounter037.description>实际敌方原生近战伤害形成2秒储备，金额为该次实伤50%，最多20。下次3格内造成正值原生直接伤害时消费，实际修复伤口并令主目标攻击速度降低20%，持续2秒。</RHA_DuelistCounter037.description>
+  <RHA_DuelistSlow037.label>破招缓势</RHA_DuelistSlow037.label>
+  <RHA_DuelistSlow037.description>回锋消费后的2秒原生攻速减缓。同名效果只应用一次，不同作者分别保留有限来源；来源结束只清除自身效果。</RHA_DuelistSlow037.description>
+</LanguageData>

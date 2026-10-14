@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RHA_Visual032_Active>Active</RHA_Visual032_Active>
+  <RHA_Visual032_Available>Available</RHA_Visual032_Available>
+  <RHA_Visual032_Pending>Awaiting confirmation</RHA_Visual032_Pending>
+  <RHA_Visual032_Blocked>Requirements missing</RHA_Visual032_Blocked>
+  <RHA_Visual032_Dormant>Inactive</RHA_Visual032_Dormant>
+  <RHA_Visual032_Preview>Review progress</RHA_Visual032_Preview>
+  <RHA_Visual032_Neutral>Details</RHA_Visual032_Neutral>
+  <RHA_Visual032_Equipped>Equipped</RHA_Visual032_Equipped>
+  <RHA_Visual032_Resources>Resources</RHA_Visual032_Resources>
+  <RHA_Visual032_Equipment>Equipment</RHA_Visual032_Equipment>
+  <RHA_Visual032_Effects>Effects</RHA_Visual032_Effects>
+  <RHA_Visual032_Conditions>Requirements</RHA_Visual032_Conditions>
+  <RHA_Visual032_ChooseNamed>Choose · {0}</RHA_Visual032_ChooseNamed>
+  <RHA_Visual032_RecipientNamed>Choose recipient · {0}</RHA_Visual032_RecipientNamed>
+</LanguageData>

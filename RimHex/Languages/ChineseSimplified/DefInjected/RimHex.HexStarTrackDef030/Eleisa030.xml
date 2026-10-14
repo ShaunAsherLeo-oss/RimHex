@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_STAR_Relic_REF_Eleisa.nodes.0.label>奇迹承袭</RHA_STAR_Relic_REF_Eleisa.nodes.0.label>
+  <RHA_STAR_Relic_REF_Eleisa.nodes.0.description>保留原有每秒3点基础恢复和随失去生命提高所受海克斯治疗与护盾的效果。分支只计本人通过海克斯效果实际恢复自身普通伤势；满血、护盾、永久伤疤、队友治疗本人及节点追加治疗不计。不附送战技。</RHA_STAR_Relic_REF_Eleisa.nodes.0.description>
+  <RHA_STAR_Relic_REF_Eleisa.nodes.1.label>回生护持</RHA_STAR_Relic_REF_Eleisa.nodes.1.label>
+  <RHA_STAR_Relic_REF_Eleisa.nodes.1.description>本人实际恢复自身普通伤势后，获得50点基础护盾，持续3秒，冷却8秒。原有缺血增幅照常作用于这面护盾。没有实际恢复时不提供护盾。 基础收益：护盾 50。</RHA_STAR_Relic_REF_Eleisa.nodes.1.description>
+  <RHA_STAR_Relic_REF_Eleisa.nodes.2.label>余生相济</RHA_STAR_Relic_REF_Eleisa.nodes.2.label>
+  <RHA_STAR_Relic_REF_Eleisa.nodes.2.description>10秒内本人两次实际恢复自身普通伤势后，治疗本人4格内视线畅通、伤势最重的另一名殖民者20点基础普通伤势，冷却8秒。没有伤者时不治疗本人。 基础收益：治疗 20。</RHA_STAR_Relic_REF_Eleisa.nodes.2.description>
+  <RHA_STAR_Relic_REF_Eleisa.nodes.3.label>回生反击</RHA_STAR_Relic_REF_Eleisa.nodes.3.label>
+  <RHA_STAR_Relic_REF_Eleisa.nodes.3.description>本件遗物的回生护持护盾实际吸收敌人伤害后，为该敌人留下4秒反击印记，最多保留一个，生成冷却8秒。本人随后普通命中该敌人时消耗印记，追加50点基础伤害；其他护盾和追加伤害不计。 基础收益：伤害 50。</RHA_STAR_Relic_REF_Eleisa.nodes.3.description>
+  <RHA_STAR_Relic_REF_Eleisa.nodes.4.label>护持济伤</RHA_STAR_Relic_REF_Eleisa.nodes.4.label>
+  <RHA_STAR_Relic_REF_Eleisa.nodes.4.description>本件遗物的回生护持护盾实际吸收敌人伤害后，治疗本人4格内视线畅通、伤势最重的另一名殖民者20点基础普通伤势，冷却8秒。其他护盾、护盾生成与没有实际吸收的攻击不计。 基础收益：治疗 20。</RHA_STAR_Relic_REF_Eleisa.nodes.4.description>
+  <RHA_STAR_Relic_REF_Eleisa.nodes.5.label>相济同袍</RHA_STAR_Relic_REF_Eleisa.nodes.5.label>
+  <RHA_STAR_Relic_REF_Eleisa.nodes.5.description>余生相济的额外治疗实际生效后，为本人4格内视线畅通、最近的另一名殖民者提供50点基础护盾，持续3秒，冷却8秒。没有合适队友时不转给本人。 基础收益：护盾 50。</RHA_STAR_Relic_REF_Eleisa.nodes.5.description>
+  <RHA_STAR_Relic_REF_Eleisa.nodes.6.label>相济护身</RHA_STAR_Relic_REF_Eleisa.nodes.6.label>
+  <RHA_STAR_Relic_REF_Eleisa.nodes.6.description>余生相济的额外治疗实际生效后，为本人提供50点基础护盾，持续3秒，冷却8秒。此护盾不能触发回生护持分支的反击或援护。 基础收益：护盾 50。</RHA_STAR_Relic_REF_Eleisa.nodes.6.description>
+</LanguageData>

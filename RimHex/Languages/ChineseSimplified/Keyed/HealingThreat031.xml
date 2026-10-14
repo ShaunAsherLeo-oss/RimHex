@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RHA_031_ThreatHealingCondition>仅所在地图有有效威胁时生效</RHA_031_ThreatHealingCondition>
+  <RHA_031_AidPeacePaused>无威胁，暂停自动治疗</RHA_031_AidPeacePaused>
+  <RHA_031_AidThreatCondition>自动援护仅在所在地图有有效威胁时施放；无威胁时也暂停对倒地患者的自动治疗。手动施放不受此条件限制。</RHA_031_AidThreatCondition>
+  <RHA_031_PeriodicHealingRule>基础再生、坚持、移动治疗、生命泉、自动援护、自动注射器、精进生命线和泉涌祝福仅在所在地图有有效威胁时触发。手动与事件治疗、已施加的有限治疗继续生效。</RHA_031_PeriodicHealingRule>
+</LanguageData>

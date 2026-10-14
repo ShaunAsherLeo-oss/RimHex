@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RHA_Growth026_Effect>参战成长</RHA_Growth026_Effect>
+  <RHA_Growth026_Award>{0}：贡献份额 {1}%</RHA_Growth026_Award>
+  <RHA_Growth026_Readout>参战结算获得的成长</RHA_Growth026_Readout>
+  <RHA_Growth026_Help>持有对应卡牌或遗物时，伤害、实际延长的眩晕、海克斯治疗与有来源的护盾吸收可分摊成长。零碎进度保留。击杀回血和击杀爆炸仍由击杀者触发。</RHA_Growth026_Help>
+  <RHA_Growth026_feast>盛宴</RHA_Growth026_feast>
+  <RHA_Growth026_soul>灵魂</RHA_Growth026_soul>
+  <RHA_Growth026_crown>皇冠</RHA_Growth026_crown>
+  <RHA_Growth026_evo_feast>盛宴进化</RHA_Growth026_evo_feast>
+  <RHA_Growth026_evo_soul>灵魂进化</RHA_Growth026_evo_soul>
+  <RHA_Growth026_awakening>击杀觉醒进度</RHA_Growth026_awakening>
+</LanguageData>

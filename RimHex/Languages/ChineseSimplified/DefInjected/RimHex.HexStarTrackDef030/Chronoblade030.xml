@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_STAR_Relic_Chronoblade.nodes.0.label>时刃节拍</RHA_STAR_Relic_Chronoblade.nodes.0.label>
+  <RHA_STAR_Relic_Chronoblade.nodes.0.description>保留原有狂怒叠加、持续时间和近远程冷却属性。后续节点依靠实际普通命中计数，技能和追加伤害不蓄积，不额外提高狂怒上限。进阶随装备保存。</RHA_STAR_Relic_Chronoblade.nodes.0.description>
+  <RHA_STAR_Relic_Chronoblade.nodes.1.label>疾刃三叠</RHA_STAR_Relic_Chronoblade.nodes.1.label>
+  <RHA_STAR_Relic_Chronoblade.nodes.1.description>连续3次普通命中同一敌人，相邻有效命中不超过1.5秒，追加50点伤害，冷却6秒。转火或间隔过长会重新计数。 基础收益：伤害 50。</RHA_STAR_Relic_Chronoblade.nodes.1.description>
+  <RHA_STAR_Relic_Chronoblade.nodes.2.label>留时斩痕</RHA_STAR_Relic_Chronoblade.nodes.2.label>
+  <RHA_STAR_Relic_Chronoblade.nodes.2.description>连续3次普通命中同一敌人，相邻有效命中不超过3秒，在第三次受击位置留下斩痕。1秒后对该位置2格内视线畅通的至多2名敌人各造成50点伤害。斩痕不追踪目标，最多保留一处，冷却8秒；转火重新计数。 基础收益：伤害 50。</RHA_STAR_Relic_Chronoblade.nodes.2.description>
+  <RHA_STAR_Relic_Chronoblade.nodes.3.label>短息换刃</RHA_STAR_Relic_Chronoblade.nodes.3.label>
+  <RHA_STAR_Relic_Chronoblade.nodes.3.description>疾刃三叠实际造成追加伤害后，治疗自身20点基础可恢复伤势，冷却6秒。不恢复永久伤疤或缺失部位。 基础收益：治疗 20。</RHA_STAR_Relic_Chronoblade.nodes.3.description>
+  <RHA_STAR_Relic_Chronoblade.nodes.4.label>刃间护隙</RHA_STAR_Relic_Chronoblade.nodes.4.label>
+  <RHA_STAR_Relic_Chronoblade.nodes.4.description>疾刃三叠实际造成追加伤害后，为本人提供50点基础护盾，持续3秒，冷却6秒。 基础收益：护盾 50。</RHA_STAR_Relic_Chronoblade.nodes.4.description>
+  <RHA_STAR_Relic_Chronoblade.nodes.5.label>迟来的喘息</RHA_STAR_Relic_Chronoblade.nodes.5.label>
+  <RHA_STAR_Relic_Chronoblade.nodes.5.description>留时斩痕实际造成伤害后，治疗自身20点基础可恢复伤势，冷却8秒。一处斩痕命中多名敌人仍只治疗一次；落空或完全被挡住时不治疗。 基础收益：治疗 20。</RHA_STAR_Relic_Chronoblade.nodes.5.description>
+  <RHA_STAR_Relic_Chronoblade.nodes.6.label>错拍掩护</RHA_STAR_Relic_Chronoblade.nodes.6.label>
+  <RHA_STAR_Relic_Chronoblade.nodes.6.description>留时斩痕实际造成伤害后，为本人4格内视线畅通、最近的另一名殖民者提供50点基础护盾，持续3秒，冷却8秒。每处斩痕至多触发一次；没有合适队友时不转给本人。 基础收益：护盾 50。</RHA_STAR_Relic_Chronoblade.nodes.6.description>
+</LanguageData>

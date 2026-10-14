@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <HediffDef>
+    <defName>RHA_StarShield030</defName>
+    <label>layered barrier</label>
+    <description>Barriers from star nodes. Each source retains its own strength and expiry.</description>
+    <hediffClass>RimHex.Hediff_HexStarShield030</hediffClass>
+    <isBad>false</isBad>
+    <scenarioCanAdd>false</scenarioCanAdd>
+    <defaultLabelColor>(0.6,0.9,1)</defaultLabelColor>
+  </HediffDef>
+</Defs>

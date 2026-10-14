@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_V19_Relay.label>amplifier prism</RHA_V19_Relay.label>
+  <RHA_V19_Relay.description>A prism with 180 hit points boosts trial enemies within 10 cells by 25% damage. Destroy it to remove the boost.</RHA_V19_Relay.description>
+</LanguageData>

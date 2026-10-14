@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_STAR_Relic_REF_DivineSword.nodes.0.label>Divine Inheritance</RHA_STAR_Relic_REF_DivineSword.nodes.0.label>
+  <RHA_STAR_Relic_REF_DivineSword.nodes.0.description>Retains original critical value, direct damage and random critical multiplier. Branches count only your ordinary hits that actually damage enemies; abilities, friendly and secondary hits do not count. Progression stays with the item.</RHA_STAR_Relic_REF_DivineSword.nodes.0.description>
+  <RHA_STAR_Relic_REF_DivineSword.nodes.1.label>Relentless Edge</RHA_STAR_Relic_REF_DivineSword.nodes.1.label>
+  <RHA_STAR_Relic_REF_DivineSword.nodes.1.description>Two ordinary critical hits on the same enemy within 4 seconds add 3 base slash damage to the second hit, once per 8 seconds. A critical hit on another enemy restarts the count. Noncritical hits neither count nor extend the window. Base rewards: damage 75.</RHA_STAR_Relic_REF_DivineSword.nodes.1.description>
+  <RHA_STAR_Relic_REF_DivineSword.nodes.2.label>Tempered Edge</RHA_STAR_Relic_REF_DivineSword.nodes.2.label>
+  <RHA_STAR_Relic_REF_DivineSword.nodes.2.description>An ordinary noncritical hit that damages an enemy stores one edge for 5 seconds, once per 8 seconds. Your later ordinary critical hit consumes it for 2 base slash damage. Store at most one; you may switch targets. Noncritical hits cannot spend it. Base rewards: damage 50.</RHA_STAR_Relic_REF_DivineSword.nodes.2.description>
+  <RHA_STAR_Relic_REF_DivineSword.nodes.3.label>Rest After the Cut</RHA_STAR_Relic_REF_DivineSword.nodes.3.label>
+  <RHA_STAR_Relic_REF_DivineSword.nodes.3.description>After Relentless Edge deals actual bonus damage, heal 20 base points of your recoverable injuries, once per 8 seconds. Cannot restore missing parts or permanent scars. Base rewards: healing 20.</RHA_STAR_Relic_REF_DivineSword.nodes.3.description>
+  <RHA_STAR_Relic_REF_DivineSword.nodes.4.label>Lingering Light</RHA_STAR_Relic_REF_DivineSword.nodes.4.label>
+  <RHA_STAR_Relic_REF_DivineSword.nodes.4.description>After Relentless Edge deals actual bonus damage, leave a light burst at the impact cell. After 0.75 seconds, deal 25 base damage each to up to two enemies within 2 cells and clear sight, once per 8 seconds. The cell is fixed and does not follow enemies. Base rewards: damage 25.</RHA_STAR_Relic_REF_DivineSword.nodes.4.description>
+  <RHA_STAR_Relic_REF_DivineSword.nodes.5.label>Guarding Edge</RHA_STAR_Relic_REF_DivineSword.nodes.5.label>
+  <RHA_STAR_Relic_REF_DivineSword.nodes.5.description>After Tempered Edge deals actual bonus damage, shield the nearest other eligible colonist within 4 cells and clear sight for 50 base points over 3 seconds, once per 8 seconds. Never shields you instead. Base rewards: shield 50.</RHA_STAR_Relic_REF_DivineSword.nodes.5.description>
+  <RHA_STAR_Relic_REF_DivineSword.nodes.6.label>Splintering Light</RHA_STAR_Relic_REF_DivineSword.nodes.6.label>
+  <RHA_STAR_Relic_REF_DivineSword.nodes.6.description>After Tempered Edge deals actual bonus damage, deal 25 base damage to one other enemy within 3 cells of the impact and clear sight, once per 8 seconds. Never hits the original victim again. Base rewards: damage 25.</RHA_STAR_Relic_REF_DivineSword.nodes.6.description>
+</LanguageData>

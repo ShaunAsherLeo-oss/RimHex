@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RHA_Theme032_LightLabel>主题：浅色</RHA_Theme032_LightLabel>
+  <RHA_Theme032_DarkLabel>主题：深色</RHA_Theme032_DarkLabel>
+  <RHA_Theme032_SwitchDark>切换为经典深色，并记住选择。只改变界面配色。</RHA_Theme032_SwitchDark>
+  <RHA_Theme032_SwitchLight>切换为浅色，并记住选择。只改变界面配色。</RHA_Theme032_SwitchLight>
+  <RHA_Theme032_Setting>经典深色界面</RHA_Theme032_Setting>
+  <RHA_Theme032_SettingHelp>关闭为浅色，开启为经典黑灰背景。与模组窗口标题栏的主题按钮共用同一设置；不改变游戏原生界面或字体。</RHA_Theme032_SettingHelp>
+  <RHA_Theme032_SaveFailed>主题设置未能保存，已保留原选择。请检查设置文件是否可写。</RHA_Theme032_SaveFailed>
+</LanguageData>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_STAR_Skill_Return013.nodes.0.label>Return Trail</RHA_STAR_Skill_Return013.nodes.0.label>
+  <RHA_STAR_Skill_Return013.nodes.0.description>Requires Return learned from its augment card. Retains the original return point, lifetime, range and cooldown; the tree neither teaches the skill nor creates a return point.</RHA_STAR_Skill_Return013.nodes.0.description>
+  <RHA_STAR_Skill_Return013.nodes.1.label>Retreat Guard</RHA_STAR_Skill_Return013.nodes.1.label>
+  <RHA_STAR_Skill_Return013.nodes.1.description>After successfully casting Return, gain a separate 50-point shield for 3 seconds, once per 8 seconds. Missing return points, failed casts and other movement do not trigger it. Base rewards: shield 50.</RHA_STAR_Skill_Return013.nodes.1.description>
+  <RHA_STAR_Skill_Return013.nodes.2.label>Breathing Room</RHA_STAR_Skill_Return013.nodes.2.label>
+  <RHA_STAR_Skill_Return013.nodes.2.description>After successfully casting Return, heal 40 base points of your own recoverable injuries, once per 8 seconds. Missing parts and permanent scars are not restored; an uninjured caster receives no healing. Base rewards: healing 40.</RHA_STAR_Skill_Return013.nodes.2.description>
+  <RHA_STAR_Skill_Return013.nodes.3.label>Retreating Edge</RHA_STAR_Skill_Return013.nodes.3.label>
+  <RHA_STAR_Skill_Return013.nodes.3.description>A successful Return stores one counterattack for 5 seconds, at most one, once per 8 seconds. Your next ordinary hit consumes it for 50 bonus damage; secondary damage cannot consume or renew it. Base rewards: damage 50.</RHA_STAR_Skill_Return013.nodes.3.description>
+  <RHA_STAR_Skill_Return013.nodes.4.label>Return Cover</RHA_STAR_Skill_Return013.nodes.4.label>
+  <RHA_STAR_Skill_Return013.nodes.4.description>After a successful Return, shield the nearest other eligible colonist within 4 cells of the landing and clear sight for 50 points over 3 seconds, once per 8 seconds. With no eligible ally it does not shield you instead. Base rewards: shield 50.</RHA_STAR_Skill_Return013.nodes.4.description>
+  <RHA_STAR_Skill_Return013.nodes.5.label>Shared Recovery</RHA_STAR_Skill_Return013.nodes.5.label>
+  <RHA_STAR_Skill_Return013.nodes.5.description>After Breathing Room actually heals your injury, heal 20 base injury points on the most injured other eligible colonist within 4 cells of you and clear sight, once per 8 seconds. No actual self-healing means no ally healing. Base rewards: healing 20.</RHA_STAR_Skill_Return013.nodes.5.description>
+  <RHA_STAR_Skill_Return013.nodes.6.label>Regained Guard</RHA_STAR_Skill_Return013.nodes.6.label>
+  <RHA_STAR_Skill_Return013.nodes.6.description>After Breathing Room actually heals your injury, gain a separate 50-point shield for 3 seconds, once per 8 seconds. Returning while uninjured cannot trigger this shield. Base rewards: shield 50.</RHA_STAR_Skill_Return013.nodes.6.description>
+</LanguageData>

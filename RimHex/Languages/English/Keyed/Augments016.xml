@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_016_Limit>Summon limit or no nearby landing cell (six per owner / 24 per map).</RHA_016_Limit>
+  <RHA_016_NoEnemy>No eligible enemy nearby.</RHA_016_NoEnemy>
+  <RHA_016_Summon>Owner: {0}\nRemaining: {1}\nHealth multiplier: {2}\nDamage multiplier: {3}\nNo loot, economy or owner on-hit inheritance.</RHA_016_Summon>
+  <RHA_016_Status>Summons: {0}/6 (map cap 24)\nSwarm charge: {1}/200\nRescue charge: {2}/40\nRescue cooldown: {3}\nDirect-damage ward: {4}\nDawn pulses: {5}\nBorrowed life: {6}</RHA_016_Status>
+</LanguageData>

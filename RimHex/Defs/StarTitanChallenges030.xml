@@ -1,0 +1,307 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Defs>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_TitanTrial030_root</defName>
+    <label>Find your footing</label>
+    <description>Threat: Nearby stationary enemies form a defensive formation around an anchor. Answer: Pull them apart, control the anchor, or concentrate actual damage on it. Reward: Collapse the formation; linked enemies take 25% more damage for 8 seconds. Cost: An intact formation reduces damage by at most 20%; ordinary attacks still progress.
+Arrangement: Anchor break; Locked impact. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. Existing finite roster retained.</description>
+    <family>titan</family>
+    <mechanism>guardBreak</mechanism>
+    <arena>bastion-v1</arena>
+    <chargedBarrage>false</chargedBarrage>
+    <targetTrack>RHA_STAR_Path_Titan</targetTrack>
+    <targetNode>root</targetNode>
+    <targetStage>1</targetStage>
+    <seconds>180</seconds>
+    <tactic>RHA_Tactics_TitanTrial030_root</tactic>
+    <encounter>RHA_Encounter03510_RHA_TitanTrial030_root</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_TitanTrial030_impact</defName>
+    <label>Meet the charge</label>
+    <description>Threat: Nearby stationary enemies form a defensive formation around an anchor. Answer: Pull them apart, control the anchor, or concentrate actual damage on it. Reward: Collapse the formation; linked enemies take 25% more damage for 8 seconds. Cost: An intact formation reduces damage by at most 20%; ordinary attacks still progress.
+Arrangement: Baited pursuit; Fixed lane. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. Existing finite roster retained.</description>
+    <family>titan</family>
+    <mechanism>pursuit</mechanism>
+    <arena>ring-v1</arena>
+    <chargedBarrage>false</chargedBarrage>
+    <targetTrack>RHA_STAR_Path_Titan</targetTrack>
+    <targetNode>impact</targetNode>
+    <targetStage>2</targetStage>
+    <seconds>240</seconds>
+    <tactic>RHA_Tactics_TitanTrial030_impact</tactic>
+    <encounter>RHA_Encounter03510_RHA_TitanTrial030_impact</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_TitanTrial030_brace</defName>
+    <label>Under fire</label>
+    <description>Threat: Nearby stationary enemies form a defensive formation around an anchor. Answer: Pull them apart, control the anchor, or concentrate actual damage on it. Reward: Collapse the formation; linked enemies take 25% more damage for 8 seconds. Cost: An intact formation reduces damage by at most 20%; ordinary attacks still progress.
+Arrangement: Ordered strikes; Left then right impacts. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. Existing finite roster retained.</description>
+    <family>titan</family>
+    <mechanism>cadence</mechanism>
+    <arena>crossroads-v1</arena>
+    <chargedBarrage>false</chargedBarrage>
+    <targetTrack>RHA_STAR_Path_Titan</targetTrack>
+    <targetNode>brace</targetNode>
+    <targetStage>2</targetStage>
+    <seconds>240</seconds>
+    <tactic>RHA_Tactics_TitanTrial030_brace</tactic>
+    <encounter>RHA_Encounter03510_RHA_TitanTrial030_brace</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_TitanTrial030_hammer</defName>
+    <label>Break the gun line</label>
+    <description>Threat: Nearby stationary enemies form a defensive formation around an anchor. Answer: Pull them apart, control the anchor, or concentrate actual damage on it. Reward: Collapse the formation; linked enemies take 25% more damage for 8 seconds. Cost: An intact formation reduces damage by at most 20%; ordinary attacks still progress.
+Arrangement: Anchor break; Locked impact. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. Existing finite roster retained.</description>
+    <family>titan</family>
+    <mechanism>guardBreak</mechanism>
+    <arena>bastion-v1</arena>
+    <chargedBarrage>true</chargedBarrage>
+    <targetTrack>RHA_STAR_Path_Titan</targetTrack>
+    <targetNode>hammer</targetNode>
+    <targetStage>3</targetStage>
+    <seconds>240</seconds>
+    <tactic>RHA_Tactics_TitanTrial030_hammer</tactic>
+    <encounter>RHA_Encounter03510_RHA_TitanTrial030_hammer</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_TitanTrial030_sweep</defName>
+    <label>Split their ranks</label>
+    <description>Threat: Nearby stationary enemies form a defensive formation around an anchor. Answer: Pull them apart, control the anchor, or concentrate actual damage on it. Reward: Collapse the formation; linked enemies take 25% more damage for 8 seconds. Cost: An intact formation reduces damage by at most 20%; ordinary attacks still progress.
+Arrangement: Moving support; Hollow impact. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. Existing finite roster retained.</description>
+    <family>titan</family>
+    <mechanism>escort</mechanism>
+    <arena>crossroads-v1</arena>
+    <chargedBarrage>false</chargedBarrage>
+    <targetTrack>RHA_STAR_Path_Titan</targetTrack>
+    <targetNode>sweep</targetNode>
+    <targetStage>3</targetStage>
+    <seconds>240</seconds>
+    <tactic>RHA_Tactics_TitanTrial030_sweep</tactic>
+    <encounter>RHA_Encounter03510_RHA_TitanTrial030_sweep</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_TitanTrial030_counter</defName>
+    <label>Return the blow</label>
+    <description>Threat: Nearby stationary enemies form a defensive formation around an anchor. Answer: Pull them apart, control the anchor, or concentrate actual damage on it. Reward: Collapse the formation; linked enemies take 25% more damage for 8 seconds. Cost: An intact formation reduces damage by at most 20%; ordinary attacks still progress.
+Arrangement: Linked peers; Locked impact. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. Existing finite roster retained.</description>
+    <family>titan</family>
+    <mechanism>twinLink</mechanism>
+    <arena>splitCourt-v1</arena>
+    <chargedBarrage>false</chargedBarrage>
+    <targetTrack>RHA_STAR_Path_Titan</targetTrack>
+    <targetNode>counter</targetNode>
+    <targetStage>3</targetStage>
+    <seconds>240</seconds>
+    <tactic>RHA_Tactics_TitanTrial030_counter</tactic>
+    <encounter>RHA_Encounter03510_RHA_TitanTrial030_counter</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_TitanTrial030_cover</defName>
+    <label>Hold their flank</label>
+    <description>Threat: Nearby stationary enemies form a defensive formation around an anchor. Answer: Pull them apart, control the anchor, or concentrate actual damage on it. Reward: Collapse the formation; linked enemies take 25% more damage for 8 seconds. Cost: An intact formation reduces damage by at most 20%; ordinary attacks still progress.
+Arrangement: Protected target; Hollow impact. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. Existing finite roster retained.</description>
+    <family>titan</family>
+    <mechanism>bodyguard</mechanism>
+    <arena>bastion-v1</arena>
+    <chargedBarrage>false</chargedBarrage>
+    <targetTrack>RHA_STAR_Path_Titan</targetTrack>
+    <targetNode>cover</targetNode>
+    <targetStage>3</targetStage>
+    <seconds>240</seconds>
+    <tactic>RHA_Tactics_TitanTrial030_cover</tactic>
+    <encounter>RHA_Encounter03510_RHA_TitanTrial030_cover</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_TitanTrial030_breach</defName>
+    <label>Open the seam</label>
+    <description>Threat: Nearby stationary enemies form a defensive formation around an anchor. Answer: Pull them apart, control the anchor, or concentrate actual damage on it. Reward: Collapse the formation; linked enemies take 25% more damage for 8 seconds. Cost: An intact formation reduces damage by at most 20%; ordinary attacks still progress.
+Arrangement: Anchor break; Fixed lane. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. Existing finite roster retained.</description>
+    <family>titan</family>
+    <mechanism>guardBreak</mechanism>
+    <arena>splitCourt-v1</arena>
+    <chargedBarrage>true</chargedBarrage>
+    <targetTrack>RHA_STAR_Path_Titan</targetTrack>
+    <targetNode>breach</targetNode>
+    <targetStage>4</targetStage>
+    <seconds>300</seconds>
+    <tactic>RHA_Tactics_TitanTrial030_breach</tactic>
+    <encounter>RHA_Encounter03510_RHA_TitanTrial030_breach</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_TitanTrial030_fault</defName>
+    <label>Leave the fault</label>
+    <description>Threat: Nearby stationary enemies form a defensive formation around an anchor. Answer: Pull them apart, control the anchor, or concentrate actual damage on it. Reward: Collapse the formation; linked enemies take 25% more damage for 8 seconds. Cost: An intact formation reduces damage by at most 20%; ordinary attacks still progress.
+Arrangement: Ordered strikes; Fixed lane. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. Existing finite roster retained.</description>
+    <family>titan</family>
+    <mechanism>cadence</mechanism>
+    <arena>crossroads-v1</arena>
+    <chargedBarrage>false</chargedBarrage>
+    <targetTrack>RHA_STAR_Path_Titan</targetTrack>
+    <targetNode>fault</targetNode>
+    <targetStage>4</targetStage>
+    <seconds>300</seconds>
+    <tactic>RHA_Tactics_TitanTrial030_fault</tactic>
+    <encounter>RHA_Encounter03510_RHA_TitanTrial030_fault</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_TitanTrial030_rhythm</defName>
+    <label>Answer both sides</label>
+    <description>Threat: Nearby stationary enemies form a defensive formation around an anchor. Answer: Pull them apart, control the anchor, or concentrate actual damage on it. Reward: Collapse the formation; linked enemies take 25% more damage for 8 seconds. Cost: An intact formation reduces damage by at most 20%; ordinary attacks still progress.
+Arrangement: Linked peers; Fixed lane. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. Existing finite roster retained.</description>
+    <family>titan</family>
+    <mechanism>twinLink</mechanism>
+    <arena>ring-v1</arena>
+    <chargedBarrage>false</chargedBarrage>
+    <targetTrack>RHA_STAR_Path_Titan</targetTrack>
+    <targetNode>rhythm</targetNode>
+    <targetStage>4</targetStage>
+    <seconds>300</seconds>
+    <tactic>RHA_Tactics_TitanTrial030_rhythm</tactic>
+    <encounter>RHA_Encounter03510_RHA_TitanTrial030_rhythm</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_TitanTrial030_rally</defName>
+    <label>Close the gap</label>
+    <description>Threat: Nearby stationary enemies form a defensive formation around an anchor. Answer: Pull them apart, control the anchor, or concentrate actual damage on it. Reward: Collapse the formation; linked enemies take 25% more damage for 8 seconds. Cost: An intact formation reduces damage by at most 20%; ordinary attacks still progress.
+Arrangement: Protected target; Fixed lane. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. Existing finite roster retained.</description>
+    <family>titan</family>
+    <mechanism>bodyguard</mechanism>
+    <arena>crossroads-v1</arena>
+    <chargedBarrage>false</chargedBarrage>
+    <targetTrack>RHA_STAR_Path_Titan</targetTrack>
+    <targetNode>rally</targetNode>
+    <targetStage>4</targetStage>
+    <seconds>300</seconds>
+    <tactic>RHA_Tactics_TitanTrial030_rally</tactic>
+    <encounter>RHA_Encounter03510_RHA_TitanTrial030_rally</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_TitanTrial030_breach_pin</defName>
+    <label>Stop the shot</label>
+    <description>Threat: Nearby stationary enemies form a defensive formation around an anchor. Answer: Pull them apart, control the anchor, or concentrate actual damage on it. Reward: Collapse the formation; linked enemies take 25% more damage for 8 seconds. Cost: An intact formation reduces damage by at most 20%; ordinary attacks still progress.
+Arrangement: Anchor break; Locked impact. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. One boss and two finite guards, no reinforcements or resurrection.</description>
+    <family>titan</family>
+    <mechanism>guardBreak</mechanism>
+    <arena>ring-v1</arena>
+    <chargedBarrage>true</chargedBarrage>
+    <targetTrack>RHA_STAR_Path_Titan</targetTrack>
+    <targetNode>breach_pin</targetNode>
+    <targetStage>5</targetStage>
+    <seconds>420</seconds>
+    <tactic>RHA_Tactics_TitanTrial030_breach_pin</tactic>
+    <encounter>RHA_Encounter03510_RHA_TitanTrial030_breach_pin</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_TitanTrial030_breach_mend</defName>
+    <label>Take back ground</label>
+    <description>Threat: Nearby stationary enemies form a defensive formation around an anchor. Answer: Pull them apart, control the anchor, or concentrate actual damage on it. Reward: Collapse the formation; linked enemies take 25% more damage for 8 seconds. Cost: An intact formation reduces damage by at most 20%; ordinary attacks still progress.
+Arrangement: Baited pursuit; Hollow impact. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. One boss and two finite guards, no reinforcements or resurrection.</description>
+    <family>titan</family>
+    <mechanism>pursuit</mechanism>
+    <arena>bastion-v1</arena>
+    <chargedBarrage>false</chargedBarrage>
+    <targetTrack>RHA_STAR_Path_Titan</targetTrack>
+    <targetNode>breach_mend</targetNode>
+    <targetStage>5</targetStage>
+    <seconds>420</seconds>
+    <tactic>RHA_Tactics_TitanTrial030_breach_mend</tactic>
+    <encounter>RHA_Encounter03510_RHA_TitanTrial030_breach_mend</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_TitanTrial030_fault_join</defName>
+    <label>Two faults meet</label>
+    <description>Threat: Nearby stationary enemies form a defensive formation around an anchor. Answer: Pull them apart, control the anchor, or concentrate actual damage on it. Reward: Collapse the formation; linked enemies take 25% more damage for 8 seconds. Cost: An intact formation reduces damage by at most 20%; ordinary attacks still progress.
+Arrangement: Linked peers; Locked impact. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. One boss and two finite guards, no reinforcements or resurrection.</description>
+    <family>titan</family>
+    <mechanism>twinLink</mechanism>
+    <arena>crossroads-v1</arena>
+    <chargedBarrage>false</chargedBarrage>
+    <targetTrack>RHA_STAR_Path_Titan</targetTrack>
+    <targetNode>fault_join</targetNode>
+    <targetStage>5</targetStage>
+    <seconds>420</seconds>
+    <tactic>RHA_Tactics_TitanTrial030_fault_join</tactic>
+    <encounter>RHA_Encounter03510_RHA_TitanTrial030_fault_join</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_TitanTrial030_fault_guard</defName>
+    <label>Cover the crossing</label>
+    <description>Threat: Nearby stationary enemies form a defensive formation around an anchor. Answer: Pull them apart, control the anchor, or concentrate actual damage on it. Reward: Collapse the formation; linked enemies take 25% more damage for 8 seconds. Cost: An intact formation reduces damage by at most 20%; ordinary attacks still progress.
+Arrangement: Protected target; Hollow impact. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. One boss and two finite guards, no reinforcements or resurrection.</description>
+    <family>titan</family>
+    <mechanism>bodyguard</mechanism>
+    <arena>splitCourt-v1</arena>
+    <chargedBarrage>false</chargedBarrage>
+    <targetTrack>RHA_STAR_Path_Titan</targetTrack>
+    <targetNode>fault_guard</targetNode>
+    <targetStage>5</targetStage>
+    <seconds>420</seconds>
+    <tactic>RHA_Tactics_TitanTrial030_fault_guard</tactic>
+    <encounter>RHA_Encounter03510_RHA_TitanTrial030_fault_guard</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_TitanTrial030_rhythm_return</defName>
+    <label>Between two blows</label>
+    <description>Threat: Nearby stationary enemies form a defensive formation around an anchor. Answer: Pull them apart, control the anchor, or concentrate actual damage on it. Reward: Collapse the formation; linked enemies take 25% more damage for 8 seconds. Cost: An intact formation reduces damage by at most 20%; ordinary attacks still progress.
+Arrangement: Ordered strikes; Locked impact. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. One boss and two finite guards, no reinforcements or resurrection.</description>
+    <family>titan</family>
+    <mechanism>cadence</mechanism>
+    <arena>bastion-v1</arena>
+    <chargedBarrage>false</chargedBarrage>
+    <targetTrack>RHA_STAR_Path_Titan</targetTrack>
+    <targetNode>rhythm_return</targetNode>
+    <targetStage>5</targetStage>
+    <seconds>420</seconds>
+    <tactic>RHA_Tactics_TitanTrial030_rhythm_return</tactic>
+    <encounter>RHA_Encounter03510_RHA_TitanTrial030_rhythm_return</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_TitanTrial030_rhythm_share</defName>
+    <label>A wall for two</label>
+    <description>Threat: Nearby stationary enemies form a defensive formation around an anchor. Answer: Pull them apart, control the anchor, or concentrate actual damage on it. Reward: Collapse the formation; linked enemies take 25% more damage for 8 seconds. Cost: An intact formation reduces damage by at most 20%; ordinary attacks still progress.
+Arrangement: Protected target; Hollow impact. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. One boss and two finite guards, no reinforcements or resurrection.</description>
+    <family>titan</family>
+    <mechanism>bodyguard</mechanism>
+    <arena>bastion-v1</arena>
+    <chargedBarrage>false</chargedBarrage>
+    <targetTrack>RHA_STAR_Path_Titan</targetTrack>
+    <targetNode>rhythm_share</targetNode>
+    <targetStage>5</targetStage>
+    <seconds>420</seconds>
+    <tactic>RHA_Tactics_TitanTrial030_rhythm_share</tactic>
+    <encounter>RHA_Encounter03510_RHA_TitanTrial030_rhythm_share</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_TitanTrial030_rally_turn</defName>
+    <label>Turn their line</label>
+    <description>Threat: Nearby stationary enemies form a defensive formation around an anchor. Answer: Pull them apart, control the anchor, or concentrate actual damage on it. Reward: Collapse the formation; linked enemies take 25% more damage for 8 seconds. Cost: An intact formation reduces damage by at most 20%; ordinary attacks still progress.
+Arrangement: Moving support; Locked impact. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. One boss and two finite guards, no reinforcements or resurrection.</description>
+    <family>titan</family>
+    <mechanism>escort</mechanism>
+    <arena>splitCourt-v1</arena>
+    <chargedBarrage>false</chargedBarrage>
+    <targetTrack>RHA_STAR_Path_Titan</targetTrack>
+    <targetNode>rally_turn</targetNode>
+    <targetStage>5</targetStage>
+    <seconds>420</seconds>
+    <tactic>RHA_Tactics_TitanTrial030_rally_turn</tactic>
+    <encounter>RHA_Encounter03510_RHA_TitanTrial030_rally_turn</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_TitanTrial030_rally_resolve</defName>
+    <label>No one left behind</label>
+    <description>Threat: Nearby stationary enemies form a defensive formation around an anchor. Answer: Pull them apart, control the anchor, or concentrate actual damage on it. Reward: Collapse the formation; linked enemies take 25% more damage for 8 seconds. Cost: An intact formation reduces damage by at most 20%; ordinary attacks still progress.
+Arrangement: Protected target; Hollow impact. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. One boss and two finite guards, no reinforcements or resurrection.</description>
+    <family>titan</family>
+    <mechanism>bodyguard</mechanism>
+    <arena>crossroads-v1</arena>
+    <chargedBarrage>false</chargedBarrage>
+    <targetTrack>RHA_STAR_Path_Titan</targetTrack>
+    <targetNode>rally_resolve</targetNode>
+    <targetStage>5</targetStage>
+    <seconds>420</seconds>
+    <tactic>RHA_Tactics_TitanTrial030_rally_resolve</tactic>
+    <encounter>RHA_Encounter03510_RHA_TitanTrial030_rally_resolve</encounter>
+  </RimHex.HexStarChallengeDef030>
+</Defs>

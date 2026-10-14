@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <HediffDef><defName>RHA_StarOverloadCore</defName><label>overflow core</label><description>The core opens for 3 seconds and takes 30% more damage. Attacks feed heat, making its retaliation wider and stronger, up to three heat levels. When the core closes, the target area locks for a full 1.5-second warning. Move out, use cover or rely on your existing shields. A stun ends both the damage bonus and the retaliation. At high-tier, high-pressure trials, a second area may lock onto a helper. Overlapping areas only hit once. Defeat the core with personal damage or actual shield and healing contribution. No machinery or additional skill is required.</description><hediffClass>RimHex.Hediff_HexStarConduit030</hediffClass><isBad>false</isBad></HediffDef>
+  <JobDef><defName>RHA_StarOverload</defName><driverClass>RimHex.JobDriver_HexStarOverload030</driverClass><reportString>venting an exposed core.</reportString><casualInterruptible>false</casualInterruptible></JobDef>
+</Defs>

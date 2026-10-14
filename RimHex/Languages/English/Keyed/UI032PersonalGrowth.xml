@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_Personal032_Growth>Growth</RHA_Personal032_Growth>
+  <RHA_Personal032_Skills>Battle skills</RHA_Personal032_Skills>
+  <RHA_Personal032_Equipment>Equipment</RHA_Personal032_Equipment>
+  <RHA_Personal032_Details>Details</RHA_Personal032_Details>
+  <RHA_Personal032_InspectPawn>View this character’s growth, skills, and worn equipment.</RHA_Personal032_InspectPawn>
+  <RHA_Personal032_CurrentBuild>Current build</RHA_Personal032_CurrentBuild>
+  <RHA_Personal032_NextSteps>Next steps</RHA_Personal032_NextSteps>
+  <RHA_Personal032_Dormant>Currently inactive</RHA_Personal032_Dormant>
+  <RHA_Personal032_NoBuild>No active path yet. View owned augments below or in Details.</RHA_Personal032_NoBuild>
+  <RHA_Personal032_NoNextSteps>No pending or available upgrade. Explore paths to see progress and missing requirements.</RHA_Personal032_NoNextSteps>
+  <RHA_Personal032_NoEquipment>This person is not wearing prismatic equipment.</RHA_Personal032_NoEquipment>
+  <RHA_Personal032_WornEquipment>Currently worn</RHA_Personal032_WornEquipment>
+  <RHA_Personal032_OwnedCards>Owned augments · {0} types</RHA_Personal032_OwnedCards>
+  <RHA_Personal032_ShowNumbers>Show attributes and permanent growth</RHA_Personal032_ShowNumbers>
+  <RHA_Personal032_HideNumbers>Hide attributes and permanent growth</RHA_Personal032_HideNumbers>
+  <RHA_Personal032_ExplorePaths>Explore personal paths · {0}</RHA_Personal032_ExplorePaths>
+  <RHA_Personal032_HidePaths>Hide personal paths · {0}</RHA_Personal032_HidePaths>
+  <RHA_Personal032_ShowAll>Show all next steps · {0}</RHA_Personal032_ShowAll>
+  <RHA_Personal032_ShowLess>Show the first three</RHA_Personal032_ShowLess>
+  <RHA_Personal032_Expand>Expand description</RHA_Personal032_Expand>
+  <RHA_Personal032_Collapse>Collapse description</RHA_Personal032_Collapse>
+  <RHA_Personal032_ViewConditions>View requirements</RHA_Personal032_ViewConditions>
+  <RHA_Personal032_ChooseAdvance>View advancement</RHA_Personal032_ChooseAdvance>
+  <RHA_Personal032_ReviewProgress>Review legacy progress</RHA_Personal032_ReviewProgress>
+  <RHA_Personal032_ViewEquipment>View equipment</RHA_Personal032_ViewEquipment>
+  <RHA_Personal032_Stage>Stage {0} / {1}</RHA_Personal032_Stage>
+  <RHA_Personal032_Sources>Sources {0} / {1}</RHA_Personal032_Sources>
+  <RHA_Personal032_DormantSources>{0} is inactive: sources {1} / {2}.</RHA_Personal032_DormantSources>
+  <RHA_Personal032_Awakening>Awakening growth {0} / {1} · First awakening costs {2} essence</RHA_Personal032_Awakening>
+  <RHA_Personal032_InactiveBranch>This branch is not currently qualified or another branch is selected.</RHA_Personal032_InactiveBranch>
+  <RHA_Personal032_AllAugments>All augments</RHA_Personal032_AllAugments>
+  <RHA_Personal032_Masteries>Masteries and synergies</RHA_Personal032_Masteries>
+  <RHA_Personal032_Contributions>Effect sources</RHA_Personal032_Contributions>
+  <RHA_Personal032_CombatRecords>Combat records</RHA_Personal032_CombatRecords>
+  <RHA_Personal032_Triggers>Trigger history</RHA_Personal032_Triggers>
+  <RHA_Personal032_GrowthTasks>Growth tasks (reward tasks)</RHA_Personal032_GrowthTasks>
+  <RHA_Personal032_FullReadout>Full attributes and build</RHA_Personal032_FullReadout>
+  <RHA_Personal032_AllRoutes>All routes</RHA_Personal032_AllRoutes>
+  <RHA_Personal032_Related>Related to me</RHA_Personal032_Related>
+  <RHA_Personal032_AllTypes>All types</RHA_Personal032_AllTypes>
+  <RHA_Personal032_ScopeHint>Click to switch between related routes and all routes.</RHA_Personal032_ScopeHint>
+  <RHA_Personal032_ExpandFull>View full effects and requirements</RHA_Personal032_ExpandFull>
+  <RHA_Personal032_CollapseFull>Hide full effects and requirements</RHA_Personal032_CollapseFull>
+  <RHA_Personal032_ViewBuildAugments>All augments</RHA_Personal032_ViewBuildAugments>
+  <RHA_Personal032_ViewBuildMasteries>Masteries and synergies</RHA_Personal032_ViewBuildMasteries>
+  <RHA_Personal032_ViewBuildContributions>Effect sources</RHA_Personal032_ViewBuildContributions>
+  <RHA_Personal032_ViewBuildCombatRecords>Combat records</RHA_Personal032_ViewBuildCombatRecords>
+  <RHA_Personal032_ViewBuildTriggers>Trigger history</RHA_Personal032_ViewBuildTriggers>
+  <RHA_Personal032_EquipmentUnavailable>The selected equipment is no longer worn by this person. Return to Equipment and choose again.</RHA_Personal032_EquipmentUnavailable>
+  <RHA_Personal032_ViewAllEquipment>View all worn equipment</RHA_Personal032_ViewAllEquipment>
+  <RHA_Personal032_PathThunder>Thunder: chain lightning and additional bursts.</RHA_Personal032_PathThunder>
+  <RHA_Personal032_PathFlame>Flame: persistent burning and detonation.</RHA_Personal032_PathFlame>
+  <RHA_Personal032_PathBlood>Blood: lifesteal and health growth.</RHA_Personal032_PathBlood>
+  <RHA_Personal032_PathTitan>Giant: high vitality, shockwaves and protection.</RHA_Personal032_PathTitan>
+  <RHA_Personal032_PathFrost>Frost: slowing, control and shattering ice.</RHA_Personal032_PathFrost>
+  <RHA_Personal032_PathBlade>Blade: rapid attacks, extra strikes and area damage.</RHA_Personal032_PathBlade>
+  <RHA_Personal032_PathMarksman>Sharpshooter: long-range attacks and piercing.</RHA_Personal032_PathMarksman>
+  <RHA_Personal032_PathSpirit>Soul: soul marks and lasting growth.</RHA_Personal032_PathSpirit>
+  <RHA_Personal032_PathGuardian>Guardian: team shields and retaliation.</RHA_Personal032_PathGuardian>
+  <RHA_Personal032_NoEnabledBranch>No enabled branch is available.</RHA_Personal032_NoEnabledBranch>
+  <RHA_Personal032_CoreComponent>Core component</RHA_Personal032_CoreComponent>
+  <RHA_Personal032_SkillComponent>Battle skill</RHA_Personal032_SkillComponent>
+  <RHA_Personal032_SpecialComponent>Special augment</RHA_Personal032_SpecialComponent>
+  <RHA_Personal032_NumbersScope>Attributes include colony and worn equipment bonuses.</RHA_Personal032_NumbersScope>
+  <RHA_Personal032_KeyActive>Key enhancement · Active</RHA_Personal032_KeyActive>
+  <RHA_Personal032_CoreActive>Core branch · Active</RHA_Personal032_CoreActive>
+</LanguageData>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RHA_Perf031_RecordCost>Detailed recording adds processing and memory overhead; complex battles may run less smoothly.</RHA_Perf031_RecordCost>
+  <RHA_Perf031_Recording>Recording enabled</RHA_Perf031_Recording>
+  <RHA_Perf031_NotRecording>Recording disabled — existing records from this session remain available.</RHA_Perf031_NotRecording>
+  <RHA_Perf031_HistoryLanguage>History keeps the text captured at the time of recording. Loading a save starts a new session.</RHA_Perf031_HistoryLanguage>
+</LanguageData>

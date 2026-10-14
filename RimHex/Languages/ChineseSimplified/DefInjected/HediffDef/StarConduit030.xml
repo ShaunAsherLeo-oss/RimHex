@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_StarConduitCore.label>护卫核心</RHA_StarConduitCore.label>
+  <RHA_StarConduitCore.description>击破护卫后，核心短暂暴露。申请者须通过实际输出或自己提供的护盾与治疗完成本人贡献，队友可以补刀。核心破防后，全队均可攻击。试炼敌人不提供普通战功、赌徒下注、永久成长牙齿或屠宰材料。</RHA_StarConduitCore.description>
+  <RHA_StarCoreGuard.label>核心护卫</RHA_StarCoreGuard.label>
+  <RHA_StarCoreGuard.description>这名护卫维持着核心的防护。申请者须对其造成相当于核心部位生命值 20% 的实际伤害；护卫倒下后计入参战，队友可以补刀。试炼敌人不提供普通战斗奖励。</RHA_StarCoreGuard.description>
+</LanguageData>

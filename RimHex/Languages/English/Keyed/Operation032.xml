@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RHA_Operation032_AwakeningProgress>Awakening progress: {0} / {1}</RHA_Operation032_AwakeningProgress>
+  <RHA_Operation032_NeedAwakeningProgress>Awakening progress is below the requirement.</RHA_Operation032_NeedAwakeningProgress>
+  <RHA_Operation032_NeedEssence>Not enough trial essence to awaken.</RHA_Operation032_NeedEssence>
+  <RHA_Operation032_Busy>A current challenge or task has not ended.</RHA_Operation032_Busy>
+  <RHA_Operation032_NeedPawn>Select a character first.</RHA_Operation032_NeedPawn>
+  <RHA_Operation032_OtherTask>Another growth task is active</RHA_Operation032_OtherTask>
+  <RHA_Operation032_Conditions>View conditions</RHA_Operation032_Conditions>
+  <RHA_Operation032_Wait>Wait for recovery</RHA_Operation032_Wait>
+  <RHA_Operation032_NeedProgress>Completion conditions are not met</RHA_Operation032_NeedProgress>
+  <RHA_Operation032_Reward>Rewards: {0}</RHA_Operation032_Reward>
+  <RHA_Operation032_InProgress>In progress</RHA_Operation032_InProgress>
+  <RHA_Operation032_Available>Available</RHA_Operation032_Available>
+  <RHA_Operation032_Ready>Ready to claim</RHA_Operation032_Ready>
+  <RHA_Operation032_ForgeCost>Crafting cost: {0} prismatic shards · {1} core</RHA_Operation032_ForgeCost>
+  <RHA_Operation032_NeedHome>The selected character must be on a home map.</RHA_Operation032_NeedHome>
+  <RHA_Operation032_NeedForgeResources>Not enough prismatic shards or cores.</RHA_Operation032_NeedForgeResources>
+</LanguageData>

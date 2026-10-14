@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_015_Renewal>剩余 {0} 次</RHA_015_Renewal>
+  <RHA_015_NoTarget>没有符合条件的可见目标。</RHA_015_NoTarget>
+  <RHA_015_Status>队友实际治疗：{0}/300\n支援能量：{1}/150（上限 200）\n永久攻势：{2}/200\n临时坚毅：{3}/5\n尖刺蓄能：{4}/40\n风语防御：{5}%\n护盾增伤：{6}\n阶段收益需要持有相应卡牌。</RHA_015_Status>
+</LanguageData>

@@ -1,0 +1,307 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Defs>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_BladeTrial030_root</defName>
+    <label>Meet the charge</label>
+    <description>Threat: An enemy locks a defended facing, reducing frontal damage by at most 20%. Answer: Attack the marked side or rear, or use existing control to break the stance. Reward: It takes 25% more damage for 8 seconds; the stance does not rebuild in that phase. Cost: Frontal attacks still kill, but miss the counter reward.
+Arrangement: Baited pursuit; Locked impact. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. Existing finite roster retained.</description>
+    <family>blade</family>
+    <mechanism>pursuit</mechanism>
+    <arena>ring-v1</arena>
+    <chargedBarrage>false</chargedBarrage>
+    <targetTrack>RHA_STAR_Path_Blade</targetTrack>
+    <targetNode>root</targetNode>
+    <targetStage>1</targetStage>
+    <seconds>180</seconds>
+    <tactic>RHA_Tactics_BladeTrial030_root</tactic>
+    <encounter>RHA_Encounter03510_RHA_BladeTrial030_root</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_BladeTrial030_focus</defName>
+    <label>Hold the opening</label>
+    <description>Threat: An enemy locks a defended facing, reducing frontal damage by at most 20%. Answer: Attack the marked side or rear, or use existing control to break the stance. Reward: It takes 25% more damage for 8 seconds; the stance does not rebuild in that phase. Cost: Frontal attacks still kill, but miss the counter reward.
+Arrangement: Ordered strikes; Fixed lane. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. Existing finite roster retained.</description>
+    <family>blade</family>
+    <mechanism>cadence</mechanism>
+    <arena>bastion-v1</arena>
+    <chargedBarrage>false</chargedBarrage>
+    <targetTrack>RHA_STAR_Path_Blade</targetTrack>
+    <targetNode>focus</targetNode>
+    <targetStage>2</targetStage>
+    <seconds>240</seconds>
+    <tactic>RHA_Tactics_BladeTrial030_focus</tactic>
+    <encounter>RHA_Encounter03510_RHA_BladeTrial030_focus</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_BladeTrial030_cross</defName>
+    <label>Crossed opponents</label>
+    <description>Threat: An enemy locks a defended facing, reducing frontal damage by at most 20%. Answer: Attack the marked side or rear, or use existing control to break the stance. Reward: It takes 25% more damage for 8 seconds; the stance does not rebuild in that phase. Cost: Frontal attacks still kill, but miss the counter reward.
+Arrangement: Linked peers; Left then right impacts. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. Existing finite roster retained.</description>
+    <family>blade</family>
+    <mechanism>twinLink</mechanism>
+    <arena>splitCourt-v1</arena>
+    <chargedBarrage>false</chargedBarrage>
+    <targetTrack>RHA_STAR_Path_Blade</targetTrack>
+    <targetNode>cross</targetNode>
+    <targetStage>2</targetStage>
+    <seconds>240</seconds>
+    <tactic>RHA_Tactics_BladeTrial030_cross</tactic>
+    <encounter>RHA_Encounter03510_RHA_BladeTrial030_cross</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_BladeTrial030_finish</defName>
+    <label>Cut through the guard</label>
+    <description>Threat: An enemy locks a defended facing, reducing frontal damage by at most 20%. Answer: Attack the marked side or rear, or use existing control to break the stance. Reward: It takes 25% more damage for 8 seconds; the stance does not rebuild in that phase. Cost: Frontal attacks still kill, but miss the counter reward.
+Arrangement: Anchor break; Locked impact. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. Existing finite roster retained.</description>
+    <family>blade</family>
+    <mechanism>guardBreak</mechanism>
+    <arena>bastion-v1</arena>
+    <chargedBarrage>true</chargedBarrage>
+    <targetTrack>RHA_STAR_Path_Blade</targetTrack>
+    <targetNode>finish</targetNode>
+    <targetStage>3</targetStage>
+    <seconds>240</seconds>
+    <tactic>RHA_Tactics_BladeTrial030_finish</tactic>
+    <encounter>RHA_Encounter03510_RHA_BladeTrial030_finish</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_BladeTrial030_feint</defName>
+    <label>Draw the blade</label>
+    <description>Threat: An enemy locks a defended facing, reducing frontal damage by at most 20%. Answer: Attack the marked side or rear, or use existing control to break the stance. Reward: It takes 25% more damage for 8 seconds; the stance does not rebuild in that phase. Cost: Frontal attacks still kill, but miss the counter reward.
+Arrangement: Baited pursuit; Hollow impact. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. Existing finite roster retained.</description>
+    <family>blade</family>
+    <mechanism>pursuit</mechanism>
+    <arena>splitCourt-v1</arena>
+    <chargedBarrage>false</chargedBarrage>
+    <targetTrack>RHA_STAR_Path_Blade</targetTrack>
+    <targetNode>feint</targetNode>
+    <targetStage>3</targetStage>
+    <seconds>240</seconds>
+    <tactic>RHA_Tactics_BladeTrial030_feint</tactic>
+    <encounter>RHA_Encounter03510_RHA_BladeTrial030_feint</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_BladeTrial030_counter</defName>
+    <label>Wait for the return</label>
+    <description>Threat: An enemy locks a defended facing, reducing frontal damage by at most 20%. Answer: Attack the marked side or rear, or use existing control to break the stance. Reward: It takes 25% more damage for 8 seconds; the stance does not rebuild in that phase. Cost: Frontal attacks still kill, but miss the counter reward.
+Arrangement: Ordered strikes; Locked impact. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. Existing finite roster retained.</description>
+    <family>blade</family>
+    <mechanism>cadence</mechanism>
+    <arena>ring-v1</arena>
+    <chargedBarrage>false</chargedBarrage>
+    <targetTrack>RHA_STAR_Path_Blade</targetTrack>
+    <targetNode>counter</targetNode>
+    <targetStage>3</targetStage>
+    <seconds>240</seconds>
+    <tactic>RHA_Tactics_BladeTrial030_counter</tactic>
+    <encounter>RHA_Encounter03510_RHA_BladeTrial030_counter</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_BladeTrial030_escort</defName>
+    <label>Blades beside you</label>
+    <description>Threat: An enemy locks a defended facing, reducing frontal damage by at most 20%. Answer: Attack the marked side or rear, or use existing control to break the stance. Reward: It takes 25% more damage for 8 seconds; the stance does not rebuild in that phase. Cost: Frontal attacks still kill, but miss the counter reward.
+Arrangement: Protected target; Hollow impact. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. Existing finite roster retained.</description>
+    <family>blade</family>
+    <mechanism>bodyguard</mechanism>
+    <arena>crossroads-v1</arena>
+    <chargedBarrage>false</chargedBarrage>
+    <targetTrack>RHA_STAR_Path_Blade</targetTrack>
+    <targetNode>escort</targetNode>
+    <targetStage>3</targetStage>
+    <seconds>240</seconds>
+    <tactic>RHA_Tactics_BladeTrial030_escort</tactic>
+    <encounter>RHA_Encounter03510_RHA_BladeTrial030_escort</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_BladeTrial030_rhythm</defName>
+    <label>Pass the opening</label>
+    <description>Threat: An enemy locks a defended facing, reducing frontal damage by at most 20%. Answer: Attack the marked side or rear, or use existing control to break the stance. Reward: It takes 25% more damage for 8 seconds; the stance does not rebuild in that phase. Cost: Frontal attacks still kill, but miss the counter reward.
+Arrangement: Linked peers; Fixed lane. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. Existing finite roster retained.</description>
+    <family>blade</family>
+    <mechanism>twinLink</mechanism>
+    <arena>ring-v1</arena>
+    <chargedBarrage>false</chargedBarrage>
+    <targetTrack>RHA_STAR_Path_Blade</targetTrack>
+    <targetNode>rhythm</targetNode>
+    <targetStage>4</targetStage>
+    <seconds>300</seconds>
+    <tactic>RHA_Tactics_BladeTrial030_rhythm</tactic>
+    <encounter>RHA_Encounter03510_RHA_BladeTrial030_rhythm</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_BladeTrial030_flank</defName>
+    <label>Take the side</label>
+    <description>Threat: An enemy locks a defended facing, reducing frontal damage by at most 20%. Answer: Attack the marked side or rear, or use existing control to break the stance. Reward: It takes 25% more damage for 8 seconds; the stance does not rebuild in that phase. Cost: Frontal attacks still kill, but miss the counter reward.
+Arrangement: Baited pursuit; Fixed lane. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. Existing finite roster retained.</description>
+    <family>blade</family>
+    <mechanism>pursuit</mechanism>
+    <arena>crossroads-v1</arena>
+    <chargedBarrage>false</chargedBarrage>
+    <targetTrack>RHA_STAR_Path_Blade</targetTrack>
+    <targetNode>flank</targetNode>
+    <targetStage>4</targetStage>
+    <seconds>300</seconds>
+    <tactic>RHA_Tactics_BladeTrial030_flank</tactic>
+    <encounter>RHA_Encounter03510_RHA_BladeTrial030_flank</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_BladeTrial030_resolve</defName>
+    <label>Keep fighting</label>
+    <description>Threat: An enemy locks a defended facing, reducing frontal damage by at most 20%. Answer: Attack the marked side or rear, or use existing control to break the stance. Reward: It takes 25% more damage for 8 seconds; the stance does not rebuild in that phase. Cost: Frontal attacks still kill, but miss the counter reward.
+Arrangement: Ordered strikes; Fixed lane. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. Existing finite roster retained.</description>
+    <family>blade</family>
+    <mechanism>cadence</mechanism>
+    <arena>splitCourt-v1</arena>
+    <chargedBarrage>false</chargedBarrage>
+    <targetTrack>RHA_STAR_Path_Blade</targetTrack>
+    <targetNode>resolve</targetNode>
+    <targetStage>4</targetStage>
+    <seconds>300</seconds>
+    <tactic>RHA_Tactics_BladeTrial030_resolve</tactic>
+    <encounter>RHA_Encounter03510_RHA_BladeTrial030_resolve</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_BladeTrial030_pincer</defName>
+    <label>Split the guard</label>
+    <description>Threat: An enemy locks a defended facing, reducing frontal damage by at most 20%. Answer: Attack the marked side or rear, or use existing control to break the stance. Reward: It takes 25% more damage for 8 seconds; the stance does not rebuild in that phase. Cost: Frontal attacks still kill, but miss the counter reward.
+Arrangement: Moving support; Fixed lane. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. Existing finite roster retained.</description>
+    <family>blade</family>
+    <mechanism>escort</mechanism>
+    <arena>splitCourt-v1</arena>
+    <chargedBarrage>false</chargedBarrage>
+    <targetTrack>RHA_STAR_Path_Blade</targetTrack>
+    <targetNode>pincer</targetNode>
+    <targetStage>4</targetStage>
+    <seconds>300</seconds>
+    <tactic>RHA_Tactics_BladeTrial030_pincer</tactic>
+    <encounter>RHA_Encounter03510_RHA_BladeTrial030_pincer</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_BladeTrial030_rhythm_guard</defName>
+    <label>Return to cover</label>
+    <description>Threat: An enemy locks a defended facing, reducing frontal damage by at most 20%. Answer: Attack the marked side or rear, or use existing control to break the stance. Reward: It takes 25% more damage for 8 seconds; the stance does not rebuild in that phase. Cost: Frontal attacks still kill, but miss the counter reward.
+Arrangement: Protected target; Locked impact. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. One boss and two finite guards, no reinforcements or resurrection.</description>
+    <family>blade</family>
+    <mechanism>bodyguard</mechanism>
+    <arena>bastion-v1</arena>
+    <chargedBarrage>false</chargedBarrage>
+    <targetTrack>RHA_STAR_Path_Blade</targetTrack>
+    <targetNode>rhythm_guard</targetNode>
+    <targetStage>5</targetStage>
+    <seconds>420</seconds>
+    <tactic>RHA_Tactics_BladeTrial030_rhythm_guard</tactic>
+    <encounter>RHA_Encounter03510_RHA_BladeTrial030_rhythm_guard</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_BladeTrial030_rhythm_chain</defName>
+    <label>Carry the edge</label>
+    <description>Threat: An enemy locks a defended facing, reducing frontal damage by at most 20%. Answer: Attack the marked side or rear, or use existing control to break the stance. Reward: It takes 25% more damage for 8 seconds; the stance does not rebuild in that phase. Cost: Frontal attacks still kill, but miss the counter reward.
+Arrangement: Linked peers; Hollow impact. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. One boss and two finite guards, no reinforcements or resurrection.</description>
+    <family>blade</family>
+    <mechanism>twinLink</mechanism>
+    <arena>crossroads-v1</arena>
+    <chargedBarrage>false</chargedBarrage>
+    <targetTrack>RHA_STAR_Path_Blade</targetTrack>
+    <targetNode>rhythm_chain</targetNode>
+    <targetStage>5</targetStage>
+    <seconds>420</seconds>
+    <tactic>RHA_Tactics_BladeTrial030_rhythm_chain</tactic>
+    <encounter>RHA_Encounter03510_RHA_BladeTrial030_rhythm_chain</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_BladeTrial030_flank_follow</defName>
+    <label>Pursue the opening</label>
+    <description>Threat: An enemy locks a defended facing, reducing frontal damage by at most 20%. Answer: Attack the marked side or rear, or use existing control to break the stance. Reward: It takes 25% more damage for 8 seconds; the stance does not rebuild in that phase. Cost: Frontal attacks still kill, but miss the counter reward.
+Arrangement: Baited pursuit; Locked impact. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. One boss and two finite guards, no reinforcements or resurrection.</description>
+    <family>blade</family>
+    <mechanism>pursuit</mechanism>
+    <arena>ring-v1</arena>
+    <chargedBarrage>false</chargedBarrage>
+    <targetTrack>RHA_STAR_Path_Blade</targetTrack>
+    <targetNode>flank_follow</targetNode>
+    <targetStage>5</targetStage>
+    <seconds>420</seconds>
+    <tactic>RHA_Tactics_BladeTrial030_flank_follow</tactic>
+    <encounter>RHA_Encounter03510_RHA_BladeTrial030_flank_follow</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_BladeTrial030_flank_fold</defName>
+    <label>Cover from the flank</label>
+    <description>Threat: An enemy locks a defended facing, reducing frontal damage by at most 20%. Answer: Attack the marked side or rear, or use existing control to break the stance. Reward: It takes 25% more damage for 8 seconds; the stance does not rebuild in that phase. Cost: Frontal attacks still kill, but miss the counter reward.
+Arrangement: Protected target; Hollow impact. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. One boss and two finite guards, no reinforcements or resurrection.</description>
+    <family>blade</family>
+    <mechanism>bodyguard</mechanism>
+    <arena>splitCourt-v1</arena>
+    <chargedBarrage>false</chargedBarrage>
+    <targetTrack>RHA_STAR_Path_Blade</targetTrack>
+    <targetNode>flank_fold</targetNode>
+    <targetStage>5</targetStage>
+    <seconds>420</seconds>
+    <tactic>RHA_Tactics_BladeTrial030_flank_fold</tactic>
+    <encounter>RHA_Encounter03510_RHA_BladeTrial030_flank_fold</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_BladeTrial030_resolve_guard</defName>
+    <label>Seal the breach</label>
+    <description>Threat: An enemy locks a defended facing, reducing frontal damage by at most 20%. Answer: Attack the marked side or rear, or use existing control to break the stance. Reward: It takes 25% more damage for 8 seconds; the stance does not rebuild in that phase. Cost: Frontal attacks still kill, but miss the counter reward.
+Arrangement: Anchor break; Locked impact. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. One boss and two finite guards, no reinforcements or resurrection.</description>
+    <family>blade</family>
+    <mechanism>guardBreak</mechanism>
+    <arena>crossroads-v1</arena>
+    <chargedBarrage>true</chargedBarrage>
+    <targetTrack>RHA_STAR_Path_Blade</targetTrack>
+    <targetNode>resolve_guard</targetNode>
+    <targetStage>5</targetStage>
+    <seconds>420</seconds>
+    <tactic>RHA_Tactics_BladeTrial030_resolve_guard</tactic>
+    <encounter>RHA_Encounter03510_RHA_BladeTrial030_resolve_guard</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_BladeTrial030_resolve_turn</defName>
+    <label>Change hands</label>
+    <description>Threat: An enemy locks a defended facing, reducing frontal damage by at most 20%. Answer: Attack the marked side or rear, or use existing control to break the stance. Reward: It takes 25% more damage for 8 seconds; the stance does not rebuild in that phase. Cost: Frontal attacks still kill, but miss the counter reward.
+Arrangement: Linked peers; Hollow impact. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. One boss and two finite guards, no reinforcements or resurrection.</description>
+    <family>blade</family>
+    <mechanism>twinLink</mechanism>
+    <arena>splitCourt-v1</arena>
+    <chargedBarrage>false</chargedBarrage>
+    <targetTrack>RHA_STAR_Path_Blade</targetTrack>
+    <targetNode>resolve_turn</targetNode>
+    <targetStage>5</targetStage>
+    <seconds>420</seconds>
+    <tactic>RHA_Tactics_BladeTrial030_resolve_turn</tactic>
+    <encounter>RHA_Encounter03510_RHA_BladeTrial030_resolve_turn</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_BladeTrial030_pincer_close</defName>
+    <label>Close around an ally</label>
+    <description>Threat: An enemy locks a defended facing, reducing frontal damage by at most 20%. Answer: Attack the marked side or rear, or use existing control to break the stance. Reward: It takes 25% more damage for 8 seconds; the stance does not rebuild in that phase. Cost: Frontal attacks still kill, but miss the counter reward.
+Arrangement: Protected target; Locked impact. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. One boss and two finite guards, no reinforcements or resurrection.</description>
+    <family>blade</family>
+    <mechanism>bodyguard</mechanism>
+    <arena>ring-v1</arena>
+    <chargedBarrage>false</chargedBarrage>
+    <targetTrack>RHA_STAR_Path_Blade</targetTrack>
+    <targetNode>pincer_close</targetNode>
+    <targetStage>5</targetStage>
+    <seconds>420</seconds>
+    <tactic>RHA_Tactics_BladeTrial030_pincer_close</tactic>
+    <encounter>RHA_Encounter03510_RHA_BladeTrial030_pincer_close</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_BladeTrial030_pincer_shift</defName>
+    <label>Change the wing</label>
+    <description>Threat: An enemy locks a defended facing, reducing frontal damage by at most 20%. Answer: Attack the marked side or rear, or use existing control to break the stance. Reward: It takes 25% more damage for 8 seconds; the stance does not rebuild in that phase. Cost: Frontal attacks still kill, but miss the counter reward.
+Arrangement: Moving support; Hollow impact. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. One boss and two finite guards, no reinforcements or resurrection.</description>
+    <family>blade</family>
+    <mechanism>escort</mechanism>
+    <arena>crossroads-v1</arena>
+    <chargedBarrage>false</chargedBarrage>
+    <targetTrack>RHA_STAR_Path_Blade</targetTrack>
+    <targetNode>pincer_shift</targetNode>
+    <targetStage>5</targetStage>
+    <seconds>420</seconds>
+    <tactic>RHA_Tactics_BladeTrial030_pincer_shift</tactic>
+    <encounter>RHA_Encounter03510_RHA_BladeTrial030_pincer_shift</encounter>
+  </RimHex.HexStarChallengeDef030>
+</Defs>

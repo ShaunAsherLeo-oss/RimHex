@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_STAR_Core_brand.nodes.0.label>Molten Brand</RHA_STAR_Core_brand.nodes.0.label>
+  <RHA_STAR_Core_brand.nodes.0.description>Requires the Molten Brand core card. Retains branding, charge from your hits, manual detonation and timed explosions. Advancement neither copies brands nor resets skill cooldowns.</RHA_STAR_Core_brand.nodes.0.description>
+  <RHA_STAR_Core_brand.nodes.1.label>Core Collapse</RHA_STAR_Core_brand.nodes.1.label>
+  <RHA_STAR_Core_brand.nodes.1.description>Keep only one brand. Store 25% of your actual hit damage, up to 48. Base explosion damage is 12, with a 1.5-cell radius and up to three enemies. No separate branch card required. Existing brands prevent branch switching.</RHA_STAR_Core_brand.nodes.1.description>
+  <RHA_STAR_Core_brand.nodes.2.label>Linked Detonation</RHA_STAR_Core_brand.nodes.2.label>
+  <RHA_STAR_Core_brand.nodes.2.description>Manual detonation chains through your brands within 6 cells and clear sight, up to three connected brands. Each deals 6 base damage plus 70% of stored damage in a 3-cell radius, hitting up to eight enemies. No separate branch card required. Existing brands prevent branch switching.</RHA_STAR_Core_brand.nodes.2.description>
+  <RHA_STAR_Core_brand.nodes.3.label>Molten Breach</RHA_STAR_Core_brand.nodes.3.label>
+  <RHA_STAR_Core_brand.nodes.3.description>A damaging manual detonation marks one surviving enemy for 4 seconds. Your next ordinary hit consumes it for 75 bonus damage. One mark, with a 6-second creation cooldown. Allies, skills and secondary damage cannot spend it. Base rewards: damage 75.</RHA_STAR_Core_brand.nodes.3.description>
+  <RHA_STAR_Core_brand.nodes.4.label>Furnace Recovery</RHA_STAR_Core_brand.nodes.4.label>
+  <RHA_STAR_Core_brand.nodes.4.description>When a charged brand expires naturally and damages an enemy, gain a separate 75-point shield for 4 seconds, once per 6 seconds. Manual detonations, death-triggered explosions and uncharged brands grant no shield. Base rewards: shield 75.</RHA_STAR_Core_brand.nodes.4.description>
+  <RHA_STAR_Core_brand.nodes.5.label>Scattered Embers</RHA_STAR_Core_brand.nodes.5.label>
+  <RHA_STAR_Core_brand.nodes.5.description>A damaging manual detonation deals 25 bonus damage to another enemy within 3 cells of the impact and clear sight, once per 6 seconds. It cannot strike the triggering victim again or charge brands through its bonus damage. Base rewards: damage 25.</RHA_STAR_Core_brand.nodes.5.description>
+  <RHA_STAR_Core_brand.nodes.6.label>Returning Embers</RHA_STAR_Core_brand.nodes.6.label>
+  <RHA_STAR_Core_brand.nodes.6.description>When a charged brand expires naturally and damages an enemy, heal 2 recoverable injury points on the nearest injured ally within 4 cells of you and clear sight, once per 6 seconds. No self-heal fallback, missing-part restoration or scar healing. Manual and death-triggered explosions grant no healing. Base rewards: healing 40.</RHA_STAR_Core_brand.nodes.6.description>
+</LanguageData>

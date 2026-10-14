@@ -1,0 +1,123 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Defs>
+  <ThingDef ParentName="BaseMechanoidWalker">
+    <defName>RHA_ProjectionRace</defName>
+    <label>crystal construct</label>
+    <description>A temporary combat construct. It leaves no salvage.</description>
+    <statBases>
+      <MarketValue>0</MarketValue>
+      <MoveSpeed>5</MoveSpeed>
+      <ArmorRating_Sharp>0.1</ArmorRating_Sharp>
+      <ArmorRating_Blunt>0.1</ArmorRating_Blunt>
+    </statBases>
+    <tools Inherit="False">
+      <li>
+        <label>crystal blade</label>
+        <labelNoLocation>blade</labelNoLocation>
+        <power>12</power>
+        <cooldownTime>1.4</cooldownTime>
+        <capacities>
+          <li>Cut</li>
+        </capacities>
+      </li>
+    </tools>
+    <race>
+      <body>Scyther</body>
+      <baseHealthScale>1</baseHealthScale>
+      <detritusLeavings Inherit="False" />
+      <thinkTreeMain>RHA_SummonThink</thinkTreeMain>
+      <thinkTreeConstant>RHA_SummonConstant</thinkTreeConstant>
+    </race>
+    <comps Inherit="False" />
+  </ThingDef>
+  <PawnKindDef ParentName="BaseMechanoidKind">
+    <defName>RHA_SummonSwarm</defName>
+    <label>crystal drone</label>
+    <labelPlural>crystal drones</labelPlural>
+    <description>A temporary player-controlled combat summon.</description>
+    <race>RHA_ProjectionRace</race>
+    <combatPower>0</combatPower>
+    <destroyGearOnDrop>true</destroyGearOnDrop>
+    <canStrip>false</canStrip>
+    <forceDeathOnDowned>true</forceDeathOnDowned>
+    <appearsRandomlyInCombatGroups>false</appearsRandomlyInCombatGroups>
+    <lifeStages Inherit="False">
+      <li MayRequire="Ludeon.RimWorld.Biotech">
+        <bodyGraphicData>
+          <texPath>RimHex/Summons/Swarm</texPath>
+          <graphicClass>Graphic_Multi</graphicClass>
+          <shaderType>Cutout</shaderType>
+          <drawSize>0.75</drawSize>
+        </bodyGraphicData>
+      </li>
+      <li>
+        <bodyGraphicData>
+          <texPath>RimHex/Summons/Swarm</texPath>
+          <graphicClass>Graphic_Multi</graphicClass>
+          <shaderType>Cutout</shaderType>
+          <drawSize>0.75</drawSize>
+        </bodyGraphicData>
+      </li>
+    </lifeStages>
+  </PawnKindDef>
+  <PawnKindDef ParentName="BaseMechanoidKind">
+    <defName>RHA_SummonEcho</defName>
+    <label>combat echo</label>
+    <labelPlural>combat echos</labelPlural>
+    <description>A temporary player-controlled combat summon.</description>
+    <race>RHA_ProjectionRace</race>
+    <combatPower>0</combatPower>
+    <destroyGearOnDrop>true</destroyGearOnDrop>
+    <canStrip>false</canStrip>
+    <forceDeathOnDowned>true</forceDeathOnDowned>
+    <appearsRandomlyInCombatGroups>false</appearsRandomlyInCombatGroups>
+    <lifeStages Inherit="False">
+      <li MayRequire="Ludeon.RimWorld.Biotech">
+        <bodyGraphicData>
+          <texPath>RimHex/Summons/Echo</texPath>
+          <graphicClass>Graphic_Multi</graphicClass>
+          <shaderType>Cutout</shaderType>
+          <drawSize>1.25</drawSize>
+        </bodyGraphicData>
+      </li>
+      <li>
+        <bodyGraphicData>
+          <texPath>RimHex/Summons/Echo</texPath>
+          <graphicClass>Graphic_Multi</graphicClass>
+          <shaderType>Cutout</shaderType>
+          <drawSize>1.25</drawSize>
+        </bodyGraphicData>
+      </li>
+    </lifeStages>
+  </PawnKindDef>
+  <PawnKindDef ParentName="BaseMechanoidKind">
+    <defName>RHA_SummonBear</defName>
+    <label>crystal bear</label>
+    <labelPlural>crystal bears</labelPlural>
+    <description>A temporary player-controlled combat summon.</description>
+    <race>RHA_ProjectionRace</race>
+    <combatPower>0</combatPower>
+    <destroyGearOnDrop>true</destroyGearOnDrop>
+    <canStrip>false</canStrip>
+    <forceDeathOnDowned>true</forceDeathOnDowned>
+    <appearsRandomlyInCombatGroups>false</appearsRandomlyInCombatGroups>
+    <lifeStages Inherit="False">
+      <li MayRequire="Ludeon.RimWorld.Biotech">
+        <bodyGraphicData>
+          <texPath>RimHex/Summons/Bear</texPath>
+          <graphicClass>Graphic_Multi</graphicClass>
+          <shaderType>Cutout</shaderType>
+          <drawSize>1.8</drawSize>
+        </bodyGraphicData>
+      </li>
+      <li>
+        <bodyGraphicData>
+          <texPath>RimHex/Summons/Bear</texPath>
+          <graphicClass>Graphic_Multi</graphicClass>
+          <shaderType>Cutout</shaderType>
+          <drawSize>1.8</drawSize>
+        </bodyGraphicData>
+      </li>
+    </lifeStages>
+  </PawnKindDef>
+</Defs>

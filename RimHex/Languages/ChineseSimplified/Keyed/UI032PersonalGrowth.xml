@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_Personal032_Growth>成长</RHA_Personal032_Growth>
+  <RHA_Personal032_Skills>战技</RHA_Personal032_Skills>
+  <RHA_Personal032_Equipment>装备</RHA_Personal032_Equipment>
+  <RHA_Personal032_Details>详细资料</RHA_Personal032_Details>
+  <RHA_Personal032_InspectPawn>查看当前角色的成长、战技与穿戴装备。</RHA_Personal032_InspectPawn>
+  <RHA_Personal032_CurrentBuild>当前构筑</RHA_Personal032_CurrentBuild>
+  <RHA_Personal032_NextSteps>下一步</RHA_Personal032_NextSteps>
+  <RHA_Personal032_Dormant>暂未生效</RHA_Personal032_Dormant>
+  <RHA_Personal032_NoBuild>尚未激活流派。已有强化可在下方或详细资料中查看。</RHA_Personal032_NoBuild>
+  <RHA_Personal032_NoNextSteps>暂无待确认或可执行的强化。展开探索流派可查看进度和缺少条件。</RHA_Personal032_NoNextSteps>
+  <RHA_Personal032_NoEquipment>此人尚未穿戴棱彩装备。</RHA_Personal032_NoEquipment>
+  <RHA_Personal032_WornEquipment>当前穿戴</RHA_Personal032_WornEquipment>
+  <RHA_Personal032_OwnedCards>已拥有强化 · {0} 种</RHA_Personal032_OwnedCards>
+  <RHA_Personal032_ShowNumbers>展开属性与永久成长</RHA_Personal032_ShowNumbers>
+  <RHA_Personal032_HideNumbers>收起属性与永久成长</RHA_Personal032_HideNumbers>
+  <RHA_Personal032_ExplorePaths>探索个人流派 · {0} 类</RHA_Personal032_ExplorePaths>
+  <RHA_Personal032_HidePaths>收起个人流派 · {0} 类</RHA_Personal032_HidePaths>
+  <RHA_Personal032_ShowAll>查看全部下一步 · {0} 项</RHA_Personal032_ShowAll>
+  <RHA_Personal032_ShowLess>只显示前三项</RHA_Personal032_ShowLess>
+  <RHA_Personal032_Expand>展开说明</RHA_Personal032_Expand>
+  <RHA_Personal032_Collapse>收起说明</RHA_Personal032_Collapse>
+  <RHA_Personal032_ViewConditions>查看条件</RHA_Personal032_ViewConditions>
+  <RHA_Personal032_ChooseAdvance>查看进阶</RHA_Personal032_ChooseAdvance>
+  <RHA_Personal032_ReviewProgress>核对旧进度</RHA_Personal032_ReviewProgress>
+  <RHA_Personal032_ViewEquipment>查看装备</RHA_Personal032_ViewEquipment>
+  <RHA_Personal032_Stage>阶段 {0} / {1}</RHA_Personal032_Stage>
+  <RHA_Personal032_Sources>来源 {0} / {1}</RHA_Personal032_Sources>
+  <RHA_Personal032_DormantSources>{0} 暂未生效：来源 {1} / {2}。</RHA_Personal032_DormantSources>
+  <RHA_Personal032_Awakening>觉醒成长 {0} / {1} · 首次觉醒消耗 {2} 试炼精粹</RHA_Personal032_Awakening>
+  <RHA_Personal032_InactiveBranch>尚未满足此分支的生效条件，或当前选择了其他分支。</RHA_Personal032_InactiveBranch>
+  <RHA_Personal032_AllAugments>全部强化</RHA_Personal032_AllAugments>
+  <RHA_Personal032_Masteries>精通与协同</RHA_Personal032_Masteries>
+  <RHA_Personal032_Contributions>效果来源</RHA_Personal032_Contributions>
+  <RHA_Personal032_CombatRecords>战斗记录</RHA_Personal032_CombatRecords>
+  <RHA_Personal032_Triggers>触发记录</RHA_Personal032_Triggers>
+  <RHA_Personal032_GrowthTasks>成长任务（奖励任务）</RHA_Personal032_GrowthTasks>
+  <RHA_Personal032_FullReadout>完整属性与构筑</RHA_Personal032_FullReadout>
+  <RHA_Personal032_AllRoutes>全部路线</RHA_Personal032_AllRoutes>
+  <RHA_Personal032_Related>与我有关</RHA_Personal032_Related>
+  <RHA_Personal032_AllTypes>所有类型</RHA_Personal032_AllTypes>
+  <RHA_Personal032_ScopeHint>点击切换：与我有关 / 全部路线。</RHA_Personal032_ScopeHint>
+  <RHA_Personal032_ExpandFull>查看完整效果与条件</RHA_Personal032_ExpandFull>
+  <RHA_Personal032_CollapseFull>收起完整效果与条件</RHA_Personal032_CollapseFull>
+  <RHA_Personal032_ViewBuildAugments>全部强化</RHA_Personal032_ViewBuildAugments>
+  <RHA_Personal032_ViewBuildMasteries>精通与协同</RHA_Personal032_ViewBuildMasteries>
+  <RHA_Personal032_ViewBuildContributions>效果来源</RHA_Personal032_ViewBuildContributions>
+  <RHA_Personal032_ViewBuildCombatRecords>战斗记录</RHA_Personal032_ViewBuildCombatRecords>
+  <RHA_Personal032_ViewBuildTriggers>触发记录</RHA_Personal032_ViewBuildTriggers>
+  <RHA_Personal032_EquipmentUnavailable>所选装备已不再由此人穿戴。请返回装备页重新选择。</RHA_Personal032_EquipmentUnavailable>
+  <RHA_Personal032_ViewAllEquipment>查看全部穿戴装备</RHA_Personal032_ViewAllEquipment>
+  <RHA_Personal032_PathThunder>雷霆：连锁闪电与追加爆发。</RHA_Personal032_PathThunder>
+  <RHA_Personal032_PathFlame>烈焰：持续灼烧与引爆。</RHA_Personal032_PathFlame>
+  <RHA_Personal032_PathBlood>鲜血：吸血与生命成长。</RHA_Personal032_PathBlood>
+  <RHA_Personal032_PathTitan>巨人：高体质、震荡与防护。</RHA_Personal032_PathTitan>
+  <RHA_Personal032_PathFrost>寒霜：减速、控制与碎冰。</RHA_Personal032_PathFrost>
+  <RHA_Personal032_PathBlade>利刃：快攻、连击与范围攻击。</RHA_Personal032_PathBlade>
+  <RHA_Personal032_PathMarksman>神射：远距离攻击与穿透。</RHA_Personal032_PathMarksman>
+  <RHA_Personal032_PathSpirit>灵魂：魂印积累与持续成长。</RHA_Personal032_PathSpirit>
+  <RHA_Personal032_PathGuardian>守护：团队护盾与反击。</RHA_Personal032_PathGuardian>
+  <RHA_Personal032_NoEnabledBranch>当前没有可选的已启用分支。</RHA_Personal032_NoEnabledBranch>
+  <RHA_Personal032_CoreComponent>核心分支</RHA_Personal032_CoreComponent>
+  <RHA_Personal032_SkillComponent>战技</RHA_Personal032_SkillComponent>
+  <RHA_Personal032_SpecialComponent>特殊强化</RHA_Personal032_SpecialComponent>
+  <RHA_Personal032_NumbersScope>属性包含殖民地与已穿戴装备的加成。</RHA_Personal032_NumbersScope>
+  <RHA_Personal032_KeyActive>关键强化 · 已生效</RHA_Personal032_KeyActive>
+  <RHA_Personal032_CoreActive>核心分支 · 已生效</RHA_Personal032_CoreActive>
+</LanguageData>

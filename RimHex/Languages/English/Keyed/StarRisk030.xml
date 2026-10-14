@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_StarRisk030_Title>Combat choices</RHA_StarRisk030_Title>
+  <RHA_StarRisk030_Help>Choose how this colonist uses Risk Voltage. Changes are locked while drafted or recently in combat. Switching preserves recovery and prepared effects.</RHA_StarRisk030_Help>
+  <RHA_StarRisk030_CanSwitch>You can change mode now.</RHA_StarRisk030_CanSwitch>
+  <RHA_StarRisk030_Missing>This colonist has no active Risk Voltage node.</RHA_StarRisk030_Missing>
+  <RHA_StarRisk030_Values>Below {0}% health: {1} extra damage or up to {2} injury repair. Shared recovery: {3}s.</RHA_StarRisk030_Values>
+  <RHA_StarRisk030_Heal>Mode: repair injuries · click to change</RHA_StarRisk030_Heal>
+  <RHA_StarRisk030_Damage>Mode: extra damage · click to change</RHA_StarRisk030_Damage>
+  <RHA_StarRisk030_Changed>The character or node has changed. Reopen this panel.</RHA_StarRisk030_Changed>
+</LanguageData>

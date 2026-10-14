@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_StarEscort030_Linked>供盾连线：{0}/2 · 刃核减伤：{1}%</RHA_StarEscort030_Linked>
+  <RHA_StarEscort030_Exposed>供盾中断：刃核额外受到25%伤害 · {0}秒</RHA_StarEscort030_Exposed>
+  <RHA_StarEscort030_Finish>刃核已击败，清理剩余护卫。</RHA_StarEscort030_Finish>
+  <RHA_StarEscort030_Brief>转火供盾护卫打破保护，也可直接攻击刃核。每名10格内、视线相通且未倒地或眩晕的护卫为刃核提供20%减伤。击杀护卫使整条供盾链中断四秒，刃核额外受到25%伤害；护卫不复活。墙体、距离和已有控制也能切断对应连线。击败三名敌人，本人通过实际伤害或护盾、治疗取得贡献，协助者可补刀。</RHA_StarEscort030_Brief>
+</LanguageData>

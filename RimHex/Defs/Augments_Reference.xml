@@ -1,0 +1,1151 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Defs>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_REF_BackToBasics</defName>
+    <label>Back to basics</label>
+    <scope>Colony</scope>
+    <tier>Silver</tier>
+    <theme>General production</theme>
+    <description>Adds 12% global work speed, research speed, mining yield and plant harvest yield per stack. Draft limit: 8 stacks.</description>
+    <stats>
+      <li>
+        <stat>WorkSpeedGlobal</stat>
+        <bonus>0.12</bonus>
+        <inverse>false</inverse>
+        <offset>0</offset>
+      </li>
+      <li>
+        <stat>ResearchSpeed</stat>
+        <bonus>0.12</bonus>
+        <inverse>false</inverse>
+        <offset>0</offset>
+      </li>
+      <li>
+        <stat>MiningYield</stat>
+        <bonus>0.12</bonus>
+        <inverse>false</inverse>
+        <offset>0</offset>
+      </li>
+      <li>
+        <stat>PlantHarvestYield</stat>
+        <bonus>0.12</bonus>
+        <inverse>false</inverse>
+        <offset>0</offset>
+      </li>
+    </stats>
+    <iconPath>RimHex/Cards/RHA_REF_BackToBasics</iconPath>
+    <maxStacks>8</maxStacks>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_REF_CoreOverload</defName>
+    <label>Overload</label>
+    <scope>Colony</scope>
+    <tier>Gold</tier>
+    <theme>Power generation</theme>
+    <description>Adds 65% actual power output per stack to player generators using standard power-generation components. Unfueled, switched-off or broken generators still produce no power. Draft limit: 8 stacks.</description>
+    <mechanics>
+      <li>
+        <key>power</key>
+        <amount>0.65</amount>
+      </li>
+    </mechanics>
+    <iconPath>RimHex/Cards/RHA_REF_CoreOverload</iconPath>
+    <maxStacks>8</maxStacks>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_REF_MoneyMakesMoney</defName>
+    <label>Money makes money</label>
+    <scope>Colony</scope>
+    <tier>Gold</tier>
+    <theme>Interest</theme>
+    <description>Each day earns 0.325% × stacks interest on unforbidden, revealed silver on player home maps. Interest is calculated before other daily income. Combined with Paid work, daily income is capped at 20,000 silver. Draft limit: 8 stacks.</description>
+    <mechanics>
+      <li>
+        <key>interest</key>
+        <amount>0.00325</amount>
+      </li>
+    </mechanics>
+    <iconPath>RimHex/Cards/RHA_REF_MoneyMakesMoney</iconPath>
+    <maxStacks>8</maxStacks>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_REF_PaidWork</defName>
+    <label>Paid work</label>
+    <scope>Colony</scope>
+    <tier>Silver</tier>
+    <theme>Wages</theme>
+    <description>Each free colonist produces 15 × stacks silver per day. Combined with Money makes money, daily income is capped at 20,000 silver. Draft limit: 8 stacks.</description>
+    <mechanics>
+      <li>
+        <key>wage</key>
+        <amount>15</amount>
+      </li>
+    </mechanics>
+    <iconPath>RimHex/Cards/RHA_REF_PaidWork</iconPath>
+    <maxStacks>8</maxStacks>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_REF_StorageRing</defName>
+    <label>Storage ring</label>
+    <scope>Colony</scope>
+    <tier>Silver</tier>
+    <theme>Carrying capacity</theme>
+    <description>All colonists gain 120% carrying capacity per stack. Draft limit: 8 stacks.</description>
+    <stats>
+      <li>
+        <stat>CarryingCapacity</stat>
+        <bonus>1.2</bonus>
+        <inverse>false</inverse>
+        <offset>0</offset>
+      </li>
+    </stats>
+    <iconPath>RimHex/Cards/RHA_REF_StorageRing</iconPath>
+    <maxStacks>8</maxStacks>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_REF_Bloodthirster</defName>
+    <label>Bloodthirster</label>
+    <scope>Colony</scope>
+    <tier>Gold</tier>
+    <theme>Colony lifesteal</theme>
+    <description>All colonists gain 9.1% direct-damage lifesteal against enemies per stack, healing ordinary injuries only. Draft limit: 8 stacks.</description>
+    <vamp>0.091</vamp>
+    <iconPath>RimHex/Cards/RHA_REF_Bloodthirster</iconPath>
+    <maxStacks>8</maxStacks>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_REF_ImprovePop</defName>
+    <label>Unexpected arrival</label>
+    <scope>Colony</scope>
+    <tier>Prismatic</tier>
+    <theme>Recruitment</theme>
+    <description>Each selection recruits one additional colonist near an existing colonist on a player home map. Recruits are queued if no receiving map is available.</description>
+    <mechanics>
+      <li>
+        <key>recruit</key>
+        <amount>1</amount>
+      </li>
+    </mechanics>
+    <iconPath>RimHex/Cards/RHA_REF_ImprovePop</iconPath>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_REF_Genesis</defName>
+    <label>Genesis</label>
+    <scope>Colony</scope>
+    <tier>Gold</tier>
+    <theme>Food stores</theme>
+    <description>Each selection grants 45 packaged survival meals. Each stack adds 0.455 to the food-poisoning chance divisor and 22.75% plant harvest yield. Draft limit: 8 stacks.</description>
+    <mechanics>
+      <li>
+        <key>supplies</key>
+        <amount>45</amount>
+      </li>
+    </mechanics>
+    <stats>
+      <li>
+        <stat>FoodPoisonChance</stat>
+        <bonus>0.455</bonus>
+        <inverse>true</inverse>
+        <offset>0</offset>
+      </li>
+      <li>
+        <stat>PlantHarvestYield</stat>
+        <bonus>0.2275</bonus>
+        <inverse>false</inverse>
+        <offset>0</offset>
+      </li>
+    </stats>
+    <iconPath>RimHex/Cards/RHA_REF_Genesis</iconPath>
+    <maxStacks>8</maxStacks>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_REF_SlowCook</defName>
+    <label>Slow simmer</label>
+    <scope>Colony</scope>
+    <tier>Silver</tier>
+    <theme>Crop yield</theme>
+    <description>All colonists gain 40% plant harvest yield per stack. Draft limit: 8 stacks.</description>
+    <stats>
+      <li>
+        <stat>PlantHarvestYield</stat>
+        <bonus>0.4</bonus>
+        <inverse>false</inverse>
+        <offset>0</offset>
+      </li>
+    </stats>
+    <iconPath>RimHex/Cards/RHA_REF_SlowCook</iconPath>
+    <maxStacks>8</maxStacks>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_REF_MoreFood</defName>
+    <label>Stone cellar harvest</label>
+    <scope>Colony</scope>
+    <tier>Gold</tier>
+    <theme>Food from mining</theme>
+    <description>Whenever a player colonist finishes mining a mineable rock or ore block, grants 1.3 × stacks packaged survival meals, delivered in batches near a colonist. Draft limit: 8 stacks.</description>
+    <mechanics>
+      <li>
+        <key>mineFood</key>
+        <amount>1.3</amount>
+      </li>
+    </mechanics>
+    <iconPath>RimHex/Cards/RHA_REF_MoreFood</iconPath>
+    <maxStacks>8</maxStacks>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_REF_EarthAwakens</defName>
+    <label>Earth awakening</label>
+    <scope>Colony</scope>
+    <tier>Silver</tier>
+    <theme>Mining / Production</theme>
+    <description>Adds 50% mining speed and 12% global work speed per stack. Draft limit: 8 stacks.</description>
+    <stats>
+      <li>
+        <stat>MiningSpeed</stat>
+        <bonus>0.5</bonus>
+        <inverse>false</inverse>
+        <offset>0</offset>
+      </li>
+      <li>
+        <stat>WorkSpeedGlobal</stat>
+        <bonus>0.12</bonus>
+        <inverse>false</inverse>
+        <offset>0</offset>
+      </li>
+    </stats>
+    <iconPath>RimHex/Cards/RHA_REF_EarthAwakens</iconPath>
+    <maxStacks>8</maxStacks>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_REF_DeepVein</defName>
+    <label>Deep veins</label>
+    <scope>Colony</scope>
+    <tier>Gold</tier>
+    <theme>Mineral yield</theme>
+    <description>Adds 40% mining yield per stack. Draft limit: 8 stacks.</description>
+    <stats>
+      <li>
+        <stat>MiningYield</stat>
+        <bonus>0.4</bonus>
+        <inverse>false</inverse>
+        <offset>0</offset>
+      </li>
+    </stats>
+    <iconPath>RimHex/Cards/RHA_REF_DeepVein</iconPath>
+    <maxStacks>8</maxStacks>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_REF_WarFoundry</defName>
+    <label>War foundry</label>
+    <scope>Colony</scope>
+    <tier>Gold</tier>
+    <theme>Arms production</theme>
+    <description>Adds 45.5% general labor speed, 22.75% global work speed and 9.1% damage against enemies per stack. Draft limit: 8 stacks.</description>
+    <stats>
+      <li>
+        <stat>GeneralLaborSpeed</stat>
+        <bonus>0.455</bonus>
+        <inverse>false</inverse>
+        <offset>0</offset>
+      </li>
+      <li>
+        <stat>WorkSpeedGlobal</stat>
+        <bonus>0.2275</bonus>
+        <inverse>false</inverse>
+        <offset>0</offset>
+      </li>
+    </stats>
+    <damage>0.091</damage>
+    <iconPath>RimHex/Cards/RHA_REF_WarFoundry</iconPath>
+    <maxStacks>8</maxStacks>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_REF_FixedLeadTime</defName>
+    <label>Steady production</label>
+    <scope>Colony</scope>
+    <tier>Silver</tier>
+    <theme>Work speed</theme>
+    <description>Adds 20% construction speed, general labor speed and global work speed per stack. Draft limit: 8 stacks.</description>
+    <stats>
+      <li>
+        <stat>ConstructionSpeed</stat>
+        <bonus>0.2</bonus>
+        <inverse>false</inverse>
+        <offset>0</offset>
+      </li>
+      <li>
+        <stat>GeneralLaborSpeed</stat>
+        <bonus>0.2</bonus>
+        <inverse>false</inverse>
+        <offset>0</offset>
+      </li>
+      <li>
+        <stat>WorkSpeedGlobal</stat>
+        <bonus>0.2</bonus>
+        <inverse>false</inverse>
+        <offset>0</offset>
+      </li>
+    </stats>
+    <iconPath>RimHex/Cards/RHA_REF_FixedLeadTime</iconPath>
+    <maxStacks>8</maxStacks>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_REF_MadScientist</defName>
+    <label>Mad scientist</label>
+    <scope>Colony</scope>
+    <tier>Prismatic</tier>
+    <theme>Breakthroughs</theme>
+    <description>Each stack contributes 360 points to the current research project daily. Choosing this card also grants 16% of the current project's progress. If no project is selected, percentage rewards are queued; daily research points are not. Draft limit: 8 stacks.</description>
+    <mechanics>
+      <li>
+        <key>research</key>
+        <amount>360</amount>
+      </li>
+      <li>
+        <key>researchBurst</key>
+        <amount>0.16</amount>
+      </li>
+    </mechanics>
+    <iconPath>RimHex/Cards/RHA_REF_MadScientist</iconPath>
+    <maxStacks>8</maxStacks>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_REF_Eureka</defName>
+    <label>Empirical inquiry</label>
+    <scope>Colony</scope>
+    <tier>Gold</tier>
+    <theme>Eureka</theme>
+    <description>Grants +13.65% research speed. Drafting stores research progress equal to 16% of the active project cost. Without an unfinished project, the stored progress waits for later use. Draft limit: 8 stacks; older excess stacks are preserved.</description>
+    <mechanics>
+      <li>
+        <key>researchBurst</key>
+        <amount>0.16</amount>
+      </li>
+    </mechanics>
+    <stats>
+      <li>
+        <stat>ResearchSpeed</stat>
+        <bonus>0.1365</bonus>
+        <inverse>false</inverse>
+        <offset>0</offset>
+      </li>
+    </stats>
+    <iconPath>RimHex/Cards/RHA_REF_Eureka</iconPath>
+    <maxStacks>8</maxStacks>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_REF_MindOverMatter</defName>
+    <label>Mind over matter</label>
+    <scope>Colony</scope>
+    <tier>Gold</tier>
+    <theme>Skill experience</theme>
+    <description>Each day grants all free colonists 130 × stacks base experience in every enabled skill. The game then applies normal learning modifiers. Draft limit: 8 stacks.</description>
+    <mechanics>
+      <li>
+        <key>dailyXP</key>
+        <amount>130</amount>
+      </li>
+    </mechanics>
+    <iconPath>RimHex/Cards/RHA_REF_MindOverMatter</iconPath>
+    <maxStacks>8</maxStacks>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_REF_HastyScribble</defName>
+    <label>Crash course</label>
+    <scope>Colony</scope>
+    <tier>Silver</tier>
+    <theme>Combat experience</theme>
+    <description>Each day grants all free colonists 1,000 × stacks base experience in both Shooting and Melee. Draft limit: 8 stacks.</description>
+    <mechanics>
+      <li>
+        <key>combatXP</key>
+        <amount>520</amount>
+      </li>
+    </mechanics>
+    <iconPath>RimHex/Cards/RHA_REF_HastyScribble</iconPath>
+    <maxStacks>8</maxStacks>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_REF_DiceManiac</defName>
+    <label>Dice addict</label>
+    <scope>Colony</scope>
+    <tier>Gold</tier>
+    <theme>Random rewards / Rerolls</theme>
+    <description>Each selection immediately grants another random eligible colony card and permanently adds 1 reroll to future drafts. The reward excludes further random-card rewards, Take them all and disabled cards.</description>
+    <mechanics>
+      <li>
+        <key>randomCard</key>
+        <amount>1</amount>
+      </li>
+    </mechanics>
+    <extraRerolls>1</extraRerolls>
+    <iconPath>RimHex/Cards/RHA_REF_DiceManiac</iconPath>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_REF_TakeAll</defName>
+    <label>Take them all</label>
+    <scope>Colony</scope>
+    <tier>Prismatic</tier>
+    <theme>Take all offers</theme>
+    <description>Also grants the other two colony cards in the current draft. Permanently reduces future rerolls by 1, to a minimum of 0. Each of the three cards is resolved once and can trigger its selection rewards.</description>
+    <mechanics>
+      <li>
+        <key>takeAll</key>
+        <amount>1</amount>
+      </li>
+    </mechanics>
+    <iconPath>RimHex/Cards/RHA_REF_TakeAll</iconPath>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_REF_GildedReserve</defName>
+    <label>Vault surge</label>
+    <scope>Colony</scope>
+    <tier>Gold</tier>
+    <theme>Immediate silver</theme>
+    <description>Each selection immediately grants 1,500 × (1 + full game years elapsed) silver, capped at 1,000,000 per selection. Draft limit: 8 stacks.</description>
+    <mechanics>
+      <li>
+        <key>silverBurst</key>
+        <amount>682.5</amount>
+      </li>
+    </mechanics>
+    <iconPath>RimHex/Cards/RHA_REF_GildedReserve</iconPath>
+    <maxStacks>8</maxStacks>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_REF_ProteinShake</defName>
+    <label>Apprentice rations</label>
+    <scope>Colony</scope>
+    <tier>Gold</tier>
+    <theme>Faster learning</theme>
+    <description>All colonists gain 70% learning speed per stack. Draft limit: 8 stacks.</description>
+    <stats>
+      <li>
+        <stat>GlobalLearningFactor</stat>
+        <bonus>0.7</bonus>
+        <inverse>false</inverse>
+        <offset>0</offset>
+      </li>
+    </stats>
+    <iconPath>RimHex/Cards/RHA_REF_ProteinShake</iconPath>
+    <maxStacks>8</maxStacks>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_REF_GlassCannon</defName>
+    <label>Glass cannon</label>
+    <scope>Colony</scope>
+    <tier>Prismatic</tier>
+    <theme>High damage / Vulnerability</theme>
+    <description>All colonists gain 91% direct damage against enemies per stack. Damage taken multiplier increases by 25% per stack. Draft limit: 8 stacks.</description>
+    <mechanics>
+      <li>
+        <key>fragile</key>
+        <amount>0.1625</amount>
+      </li>
+    </mechanics>
+    <damage>0.91</damage>
+    <iconPath>RimHex/Cards/RHA_REF_GlassCannon</iconPath>
+    <maxStacks>8</maxStacks>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_REF_GoldenSpatula</defName>
+    <label>Golden spatula</label>
+    <scope>Colony</scope>
+    <tier>Gold</tier>
+    <theme>Builder's strength</theme>
+    <description>All colonists gain 45.5% construction speed, 45.5% plant work speed and 11.375% movement speed per stack. Draft limit: 8 stacks.</description>
+    <stats>
+      <li>
+        <stat>ConstructionSpeed</stat>
+        <bonus>0.455</bonus>
+        <inverse>false</inverse>
+        <offset>0</offset>
+      </li>
+      <li>
+        <stat>PlantWorkSpeed</stat>
+        <bonus>0.455</bonus>
+        <inverse>false</inverse>
+        <offset>0</offset>
+      </li>
+      <li>
+        <stat>MoveSpeed</stat>
+        <bonus>0.11375</bonus>
+        <inverse>false</inverse>
+        <offset>0</offset>
+      </li>
+    </stats>
+    <iconPath>RimHex/Cards/RHA_REF_GoldenSpatula</iconPath>
+    <maxStacks>8</maxStacks>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_REF_UniversalScope</defName>
+    <label>Universal scope</label>
+    <scope>Colony</scope>
+    <tier>Gold</tier>
+    <theme>Colony range</theme>
+    <description>Adds 3.25 cells of effective ranged attack range to all colonists per stack. Applies to attacks using the game's standard range calculation. Draft limit: 8 stacks.</description>
+    <mechanics>
+      <li>
+        <key>range</key>
+        <amount>3.25</amount>
+      </li>
+    </mechanics>
+    <iconPath>RimHex/Cards/RHA_REF_UniversalScope</iconPath>
+    <maxStacks>8</maxStacks>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_REF_ExtremeSpeed</defName>
+    <label>Tailwind</label>
+    <scope>Colony</scope>
+    <tier>Silver</tier>
+    <theme>Colony movement</theme>
+    <description>All colonists gain 12% movement speed per stack. Draft limit: 8 stacks.</description>
+    <stats>
+      <li>
+        <stat>MoveSpeed</stat>
+        <bonus>0.12</bonus>
+        <inverse>false</inverse>
+        <offset>0</offset>
+      </li>
+    </stats>
+    <iconPath>RimHex/Cards/RHA_REF_ExtremeSpeed</iconPath>
+    <maxStacks>8</maxStacks>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_REF_LoyaltyChorus</defName>
+    <label>United resolve</label>
+    <scope>Colony</scope>
+    <tier>Silver</tier>
+    <theme>Steady morale</theme>
+    <description>All colonists' mental break thresholds are reduced by 0.02275 per stack. Draft limit: 8 stacks.</description>
+    <stats>
+      <li>
+        <stat>MentalBreakThreshold</stat>
+        <bonus>0</bonus>
+        <inverse>false</inverse>
+        <offset>-0.02275</offset>
+      </li>
+    </stats>
+    <iconPath>RimHex/Cards/RHA_REF_LoyaltyChorus</iconPath>
+    <maxStacks>8</maxStacks>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_REF_Warpath</defName>
+    <label>Campaign trail</label>
+    <scope>Colony</scope>
+    <tier>Silver</tier>
+    <theme>War morale</theme>
+    <description>Reduces mental break threshold by 0.01365 and adds 0.2275 to the recreation drain divisor per stack. Draft limit: 8 stacks.</description>
+    <stats>
+      <li>
+        <stat>MentalBreakThreshold</stat>
+        <bonus>0</bonus>
+        <inverse>false</inverse>
+        <offset>-0.01365</offset>
+      </li>
+      <li>
+        <stat>JoyFallRateFactor</stat>
+        <bonus>0.2275</bonus>
+        <inverse>true</inverse>
+        <offset>0</offset>
+      </li>
+    </stats>
+    <iconPath>RimHex/Cards/RHA_REF_Warpath</iconPath>
+    <maxStacks>8</maxStacks>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_REF_CarnivalCore</defName>
+    <label>Carnival core</label>
+    <scope>Colony</scope>
+    <tier>Silver</tier>
+    <theme>Recreation</theme>
+    <description>Each day restores 26% recreation per stack to every free colonist, up to full. Draft limit: 8 stacks.</description>
+    <mechanics>
+      <li>
+        <key>carnival</key>
+        <amount>0.26</amount>
+      </li>
+    </mechanics>
+    <iconPath>RimHex/Cards/RHA_REF_CarnivalCore</iconPath>
+    <maxStacks>8</maxStacks>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_REF_SilkRoad</defName>
+    <label>Silk road</label>
+    <scope>Colony</scope>
+    <tier>Gold</tier>
+    <theme>Trade / Resources</theme>
+    <description>Adds 6.825% trade price improvement and delivers 97 silver daily per stack. Draft limit: 8 stacks.</description>
+    <stats>
+      <li>
+        <stat>TradePriceImprovement</stat>
+        <bonus>0</bonus>
+        <inverse>false</inverse>
+        <offset>0.06825</offset>
+      </li>
+    </stats>
+    <dailyResource>Silver</dailyResource>
+    <dailyCount>97</dailyCount>
+    <iconPath>RimHex/Cards/RHA_REF_SilkRoad</iconPath>
+    <maxStacks>8</maxStacks>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_REF_GoldContract</defName>
+    <label>Golden bargaining</label>
+    <scope>Colony</scope>
+    <tier>Gold</tier>
+    <theme>Negotiation</theme>
+    <description>Adds 0.11375 trade price improvement and 22.75% negotiation ability per stack. Draft limit: 8 stacks.</description>
+    <stats>
+      <li>
+        <stat>TradePriceImprovement</stat>
+        <bonus>0</bonus>
+        <inverse>false</inverse>
+        <offset>0.11375</offset>
+      </li>
+      <li>
+        <stat>NegotiationAbility</stat>
+        <bonus>0.2275</bonus>
+        <inverse>false</inverse>
+        <offset>0</offset>
+      </li>
+    </stats>
+    <iconPath>RimHex/Cards/RHA_REF_GoldContract</iconPath>
+    <maxStacks>8</maxStacks>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_REF_UnboundArmy</defName>
+    <label>Unhindered march</label>
+    <scope>Colony</scope>
+    <tier>Gold</tier>
+    <theme>Ignore terrain delay</theme>
+    <description>While drafted, ignore 65% of movement delay from passable terrain; additional stacks add nothing. Doors, walls and obstacles retain their rules.</description>
+    <mechanics>
+      <li>
+        <key>terrain</key>
+        <amount>1</amount>
+      </li>
+    </mechanics>
+    <iconPath>RimHex/Cards/RHA_REF_UnboundArmy</iconPath>
+    <maxStacks>8</maxStacks>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_REF_Goliath</defName>
+    <label>Goliath</label>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Size / Health</theme>
+    <description>Adds 100% health, 30% damage against enemies and 0.25 to the damage-taken divisor per stack. Does not change body size. Draft limit: 6 stacks.</description>
+    <mechanics>
+      </mechanics>
+    <health>1</health>
+    <damage>0.3</damage>
+    <iconPath>RimHex/Cards/RHA_REF_Goliath</iconPath>
+    <defense>0.25</defense>
+    <maxStacks>6</maxStacks>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_REF_Deft</defName>
+    <label>Deft</label>
+    <scope>Hero</scope>
+    <tier>Silver</tier>
+    <theme>Attack speed</theme>
+    <description>Adds 0.5 to melee and ranged attack cooldown divisors per stack. Draft limit: 6 stacks.</description>
+    <stats>
+      <li>
+        <stat>MeleeCooldownFactor</stat>
+        <bonus>0.5</bonus>
+        <inverse>true</inverse>
+        <offset>0</offset>
+      </li>
+      <li>
+        <stat>RangedCooldownFactor</stat>
+        <bonus>0.5</bonus>
+        <inverse>true</inverse>
+        <offset>0</offset>
+      </li>
+    </stats>
+    <iconPath>RimHex/Cards/RHA_REF_Deft</iconPath>
+    <maxStacks>6</maxStacks>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_REF_BluntForce</defName>
+    <label>Mighty</label>
+    <scope>Hero</scope>
+    <tier>Silver</tier>
+    <theme>Direct damage</theme>
+    <description>Adds 40% direct damage against enemies per stack. Draft limit: 6 stacks.</description>
+    <damage>0.4</damage>
+    <iconPath>RimHex/Cards/RHA_REF_BluntForce</iconPath>
+    <maxStacks>6</maxStacks>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_REF_ItsCritical</defName>
+    <label>Critical edge</label>
+    <scope>Hero</scope>
+    <tier>Gold</tier>
+    <theme>Critical strikes</theme>
+    <description>Adds 40% critical rating per stack. Rating above 100% further increases critical damage. Draft limit: 6 stacks.</description>
+    <critical>0.4</critical>
+    <iconPath>RimHex/Cards/RHA_REF_ItsCritical</iconPath>
+    <maxStacks>6</maxStacks>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_REF_Recursion</defName>
+    <label>Recursion</label>
+    <scope>Hero</scope>
+    <tier>Gold</tier>
+    <theme>Ability cooldown</theme>
+    <description>Each stack grants 65% item haste and 65% ability haste. Existing item benefits are retained. Draft limit: 6 stacks.</description>
+    <mechanics>
+      <li>
+        <key>itemHaste</key>
+        <amount>0.65</amount>
+      </li>
+      <li>
+        <key>skillHaste013</key>
+        <amount>0.65</amount>
+      </li>
+    </mechanics>
+    <iconPath>RimHex/Cards/RHA_REF_Recursion</iconPath>
+    <maxStacks>6</maxStacks>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_REF_ScopiestWeapons</defName>
+    <label>All-purpose scope</label>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Range</theme>
+    <description>Adds 7.8 cells of effective ranged range and 13.65% shooting accuracy per stack, capped at 100% accuracy. Cover and weapon accuracy are still calculated separately. Applies to attacks using standard range calculation. Draft limit: 6 stacks.</description>
+    <mechanics>
+      <li>
+        <key>range</key>
+        <amount>7.8</amount>
+      </li>
+    </mechanics>
+    <stats>
+      <li>
+        <stat>ShootingAccuracyPawn</stat>
+        <bonus>0.1365</bonus>
+        <inverse>false</inverse>
+        <offset>0</offset>
+      </li>
+    </stats>
+    <iconPath>RimHex/Cards/RHA_REF_ScopiestWeapons</iconPath>
+    <maxStacks>6</maxStacks>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_REF_HeavyHitter</defName>
+    <label>Heavy hitter</label>
+    <scope>Hero</scope>
+    <tier>Silver</tier>
+    <theme>Health into damage</theme>
+    <description>Each valid direct attack deals an additional 3.25 × stacks × the wearer's total health scale damage. The scale includes racial health and augment bonuses. Draft limit: 6 stacks.</description>
+    <mechanics>
+      <li>
+        <key>heavy</key>
+        <amount>0.65</amount>
+      </li>
+    </mechanics>
+    <iconPath>RimHex/Cards/RHA_REF_HeavyHitter</iconPath>
+    <maxStacks>6</maxStacks>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_REF_StackosaurusRex</defName>
+    <label>Stackosaurus</label>
+    <scope>Hero</scope>
+    <tier>Silver</tier>
+    <theme>Permanent growth</theme>
+    <description>Each stack increases newly gained Heartsteel, feast, soul marks, Overlord kills and Phenomenal evil growth by 65%. Existing growth is not doubled retroactively. Does not increase card selection stacks. Draft limit: 6 stacks. Each permanent growth effect retains its full benefit through 100 points, then has diminishing returns.</description>
+    <mechanics>
+      <li>
+        <key>stackGain</key>
+        <amount>0.65</amount>
+      </li>
+    </mechanics>
+    <iconPath>RimHex/Cards/RHA_REF_StackosaurusRex</iconPath>
+    <maxStacks>6</maxStacks>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_REF_TapDancer</defName>
+    <label>Tap dancer</label>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>On hit / Movement / Attack speed</theme>
+    <description>Each valid hit gains a dance step. Each step adds 5.2% × card stacks movement speed and the same amount to melee and ranged cooldown divisors. Steps are lost after 10 seconds without a hit. Draft limit: 6 stacks. The first 20 temporary stacks retain their full effect; further stacks have diminishing returns.</description>
+    <mechanics>
+      <li>
+        <key>tap</key>
+        <amount>0.65</amount>
+      </li>
+    </mechanics>
+    <iconPath>RimHex/Cards/RHA_REF_TapDancer</iconPath>
+    <maxStacks>6</maxStacks>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_REF_PhenomenalEvil</defName>
+    <label>Phenomenal Evil</label>
+    <scope>Hero</scope>
+    <tier>Gold</tier>
+    <theme>Spell growth</theme>
+    <description>Effective ability or secondary damage grants 0.65 permanent evil growth per card stack, once per 10 ticks. Each point adds 3% ability and secondary damage. Fractional growth is retained. Each permanent growth effect retains its full benefit through 100 points, then has diminishing returns.</description>
+    <mechanics>
+      <li>
+        <key>evil</key>
+        <amount>0.65</amount>
+      </li>
+    </mechanics>
+    <iconPath>RimHex/Cards/RHA_REF_PhenomenalEvil</iconPath>
+    <maxStacks>6</maxStacks>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_REF_MagicMissile</defName>
+    <label>Magic Missile</label>
+    <scope>Hero</scope>
+    <tier>Gold</tier>
+    <theme>Missiles / Health damage</theme>
+    <description>Every third direct hit fires three missiles. The first effective ability hit on each enemy per cast also fires three. Each missile deals (5.2 + 1.95 × target health scale) secondary damage per stack. Draft limit: 6 stacks.</description>
+    <mechanics>
+      <li>
+        <key>missile</key>
+        <amount>0.65</amount>
+      </li>
+    </mechanics>
+    <iconPath>RimHex/Cards/RHA_REF_MagicMissile</iconPath>
+    <maxStacks>6</maxStacks>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_REF_InfernalConduit</defName>
+    <label>Infernal Conduit</label>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Stacking burn / Cooldown</theme>
+    <description>Direct hits apply stacking burn. Burning refunds item and ability cooldowns at most once per second: 0.325 seconds per card stack, up to 10 seconds per trigger. Ethereal Weapon also lets abilities apply this burn. Draft limit: 6 stacks.</description>
+    <mechanics>
+      <li>
+        <key>conduit</key>
+        <amount>0.65</amount>
+      </li>
+    </mechanics>
+    <iconPath>RimHex/Cards/RHA_REF_InfernalConduit</iconPath>
+    <maxStacks>6</maxStacks>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_REF_Firebrand</defName>
+    <label>Fan the flames</label>
+    <scope>Hero</scope>
+    <tier>Gold</tier>
+    <theme>On hit / Stacking burn</theme>
+    <description>Valid hits add 2.6 × stacks damage per second to the target's burn and refresh it to six pulses. Accumulates in the same attacker's burn as Infernal conduit. Draft limit: 6 stacks.</description>
+    <mechanics>
+      <li>
+        <key>firebrand</key>
+        <amount>0.65</amount>
+      </li>
+    </mechanics>
+    <iconPath>RimHex/Cards/RHA_REF_Firebrand</iconPath>
+    <maxStacks>6</maxStacks>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_REF_Vulnerability</defName>
+    <label>Vulnerability</label>
+    <scope>Hero</scope>
+    <tier>Gold</tier>
+    <theme>Damage-over-time criticals</theme>
+    <description>Adds 18.2% critical rating per stack. Allows RimHex burns, bleeding, missiles and other additional damage to critically strike. Each additional-damage instance rolls once and does not advance chain-hit counters. Draft limit: 6 stacks.</description>
+    <mechanics>
+      <li>
+        <key>vulnerable</key>
+        <amount>1</amount>
+      </li>
+    </mechanics>
+    <critical>0.182</critical>
+    <iconPath>RimHex/Cards/RHA_REF_Vulnerability</iconPath>
+    <maxStacks>6</maxStacks>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_REF_CriticalHealing</defName>
+    <label>Critical Healing</label>
+    <scope>Hero</scope>
+    <tier>Gold</tier>
+    <theme>Healing / Shield criticals</theme>
+    <description>Each stack adds 18.2% critical value. Healing and shields can critically strike using the holder's critical value. The bonus critical healing multiplier is 65% at one stack, capped at 100% with multiple stacks; excess critical value also benefits from this factor.</description>
+    <mechanics>
+      <li>
+        <key>healCrit</key>
+        <amount>1</amount>
+      </li>
+    </mechanics>
+    <critical>0.182</critical>
+    <iconPath>RimHex/Cards/RHA_REF_CriticalHealing</iconPath>
+    <maxStacks>6</maxStacks>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_REF_LightWarden</defName>
+    <label>Lightkeeper</label>
+    <scope>Hero</scope>
+    <tier>Gold</tier>
+    <theme>Group shields</theme>
+    <description>While standing, about every 12.5 seconds grants a 22.75 × stacks shield to up to 12 friendly colonists within 10 cells, including the wearer. Lasts 12.5 seconds. Refreshes retain the stronger shield. Draft limit: 6 stacks.</description>
+    <mechanics>
+      <li>
+        <key>light</key>
+        <amount>0.65</amount>
+      </li>
+    </mechanics>
+    <iconPath>RimHex/Cards/RHA_REF_LightWarden</iconPath>
+    <maxStacks>6</maxStacks>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_REF_CourageoftheColossus</defName>
+    <label>Courage of the colossus</label>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Control / Shield</theme>
+    <description>Successfully stunning an enemy grants a shield of 26 × stacks × (1 + RimHex health bonus), lasting 5 seconds. Control benefits trigger at most once per second. Everfrost can trigger this effect. Draft limit: 6 stacks.</description>
+    <mechanics>
+      <li>
+        <key>colossus</key>
+        <amount>0.65</amount>
+      </li>
+    </mechanics>
+    <iconPath>RimHex/Cards/RHA_REF_CourageoftheColossus</iconPath>
+    <maxStacks>6</maxStacks>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_REF_GuiltyPleasure</defName>
+    <label>Cruel amusement</label>
+    <scope>Hero</scope>
+    <tier>Silver</tier>
+    <theme>Control / Healing</theme>
+    <description>Successfully stunning an enemy heals the wearer for 16.25 × stacks ordinary injury points. Shares the once-per-second trigger interval with other control benefits. Draft limit: 6 stacks.</description>
+    <mechanics>
+      <li>
+        <key>pleasure</key>
+        <amount>0.65</amount>
+      </li>
+    </mechanics>
+    <iconPath>RimHex/Cards/RHA_REF_GuiltyPleasure</iconPath>
+    <maxStacks>6</maxStacks>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_REF_OceanSoul</defName>
+    <label>Ocean soul</label>
+    <scope>Hero</scope>
+    <tier>Silver</tier>
+    <theme>On hit / Healing</theme>
+    <description>Each valid hit heals the wearer for 5.2 × stacks ordinary injury points. Draft limit: 6 stacks.</description>
+    <mechanics>
+      <li>
+        <key>ocean</key>
+        <amount>0.65</amount>
+      </li>
+    </mechanics>
+    <iconPath>RimHex/Cards/RHA_REF_OceanSoul</iconPath>
+    <maxStacks>6</maxStacks>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_REF_MountainSoul</defName>
+    <label>Mountain soul</label>
+    <scope>Hero</scope>
+    <tier>Silver</tier>
+    <theme>Out-of-combat shield</theme>
+    <description>After 5 seconds without being attacked, refreshes a 26 × stacks shield about every 4.2 seconds, lasting about 8.3 seconds. Keeps the stronger capacity. Being attacked stops refreshes until the waiting condition is met again. Draft limit: 6 stacks.</description>
+    <mechanics>
+      <li>
+        <key>mountain</key>
+        <amount>0.65</amount>
+      </li>
+    </mechanics>
+    <iconPath>RimHex/Cards/RHA_REF_MountainSoul</iconPath>
+    <maxStacks>6</maxStacks>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_REF_InfernalSoul</defName>
+    <label>Infernal soul</label>
+    <scope>Hero</scope>
+    <tier>Silver</tier>
+    <theme>On hit / Area burst</theme>
+    <description>Valid hits create a blast within 3.5 cells of the target, dealing 11.7 × stacks armor-piercing damage to up to 12 standing enemies. At most once every 2 seconds. Draft limit: 6 stacks.</description>
+    <mechanics>
+      <li>
+        <key>infernal</key>
+        <amount>0.65</amount>
+      </li>
+    </mechanics>
+    <iconPath>RimHex/Cards/RHA_REF_InfernalSoul</iconPath>
+    <maxStacks>6</maxStacks>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_REF_Homeguard</defName>
+    <label>Homeguard</label>
+    <scope>Hero</scope>
+    <tier>Silver</tier>
+    <theme>Out-of-combat movement</theme>
+    <description>After 5 seconds without being attacked, gains 68.25% × stacks movement speed. Being attacked removes the bonus until another five seconds pass. Draft limit: 6 stacks.</description>
+    <mechanics>
+      <li>
+        <key>homeguard</key>
+        <amount>0.6825</amount>
+      </li>
+    </mechanics>
+    <iconPath>RimHex/Cards/RHA_REF_Homeguard</iconPath>
+    <maxStacks>6</maxStacks>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_REF_RestlessRestoration</defName>
+    <label>Restless recovery</label>
+    <scope>Hero</scope>
+    <tier>Gold</tier>
+    <theme>Movement / Healing</theme>
+    <description>While moving, heals 12 × stacks ordinary injury points about every 4.2 seconds. Stops when stationary. Draft limit: 6 stacks.</description>
+    <mechanics>
+      <li>
+        <key>movingHeal</key>
+        <amount>0.8</amount>
+      </li>
+    </mechanics>
+    <iconPath>RimHex/Cards/RHA_REF_RestlessRestoration</iconPath>
+    <maxStacks>6</maxStacks>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_REF_Perseverance</defName>
+    <label>Perseverance</label>
+    <scope>Hero</scope>
+    <tier>Gold</tier>
+    <theme>Healing / Low health</theme>
+    <description>About every 4.2 seconds, heals 9.6 ordinary injury points per card stack, increased to 40 below 50% overall health. Can heal living downed colonists. Draft limit: 6 stacks; older excess stacks are preserved.</description>
+    <mechanics>
+      <li>
+        <key>perseverance</key>
+        <amount>0.8</amount>
+      </li>
+    </mechanics>
+    <iconPath>RimHex/Cards/RHA_REF_Perseverance</iconPath>
+    <maxStacks>6</maxStacks>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_REF_ApexInventor</defName>
+    <label>Apex inventor</label>
+    <scope>Hero</scope>
+    <tier>Gold</tier>
+    <theme>Item haste</theme>
+    <description>Each stack grants 195 item haste. Applicable item cooldowns are divided by 1 + haste/100. Ascension rerolls per day are unchanged. Draft limit: 6 stacks; older excess stacks are preserved.</description>
+    <mechanics>
+      <li>
+        <key>itemHaste</key>
+        <amount>1.95</amount>
+      </li>
+    </mechanics>
+    <iconPath>RimHex/Cards/RHA_REF_ApexInventor</iconPath>
+    <maxStacks>6</maxStacks>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_REF_ShrinkRay</defName>
+    <label>Shrink ray</label>
+    <scope>Hero</scope>
+    <tier>Gold</tier>
+    <theme>Weaken enemies</theme>
+    <description>Valid hits divide the enemy's damage by (1 + 0.65 × stacks) for 5 seconds. Further hits refresh the duration; stronger sources take priority. Does not change body size. Draft limit: 6 stacks.</description>
+    <mechanics>
+      <li>
+        <key>shrink</key>
+        <amount>0.65</amount>
+      </li>
+    </mechanics>
+    <iconPath>RimHex/Cards/RHA_REF_ShrinkRay</iconPath>
+    <maxStacks>6</maxStacks>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_REF_SymphonyofWar</defName>
+    <label>Symphony of war</label>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Combo / Attack speed / Damage</theme>
+    <description>Each valid hit gains a symphony stack. Each adds 3.9% × card stacks direct damage and 0.078 × card stacks to the attack cooldown divisor. Lost after 10 seconds without a hit. Draft limit: 6 stacks. The first 20 temporary stacks retain their full effect; further stacks have diminishing returns.</description>
+    <mechanics>
+      <li>
+        <key>symphony</key>
+        <amount>0.65</amount>
+      </li>
+    </mechanics>
+    <iconPath>RimHex/Cards/RHA_REF_SymphonyofWar</iconPath>
+    <maxStacks>6</maxStacks>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_REF_Stats</defName>
+    <label>Stats!</label>
+    <scope>Hero</scope>
+    <tier>Silver</tier>
+    <theme>Attribute anvil</theme>
+    <description>Immediately gains two random attribute bonuses. Each grants 39% damage, 39% health, 39% movement speed or +0.39 attack cooldown divisor. Results are permanent and can repeat. In the random-stat pool, damage and health bonuses taper above 200%; move and attack speed bonuses taper above 100%. Stored gains are preserved.</description>
+    <mechanics>
+      <li>
+        <key>anvils</key>
+        <amount>2</amount>
+      </li>
+    </mechanics>
+    <iconPath>RimHex/Cards/RHA_REF_Stats</iconPath>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_REF_StatsOnStats</defName>
+    <label>More stats!</label>
+    <scope>Hero</scope>
+    <tier>Gold</tier>
+    <theme>Attribute anvil</theme>
+    <description>Immediately gains three random attribute bonuses. Each grants 39% damage, 39% health, 39% movement speed or +0.39 attack cooldown divisor. Results are permanent and can repeat. In the random-stat pool, damage and health bonuses taper above 200%; move and attack speed bonuses taper above 100%. Stored gains are preserved.</description>
+    <mechanics>
+      <li>
+        <key>anvils</key>
+        <amount>3</amount>
+      </li>
+    </mechanics>
+    <iconPath>RimHex/Cards/RHA_REF_StatsOnStats</iconPath>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_REF_StatsOnStatsOnStats</defName>
+    <label>Even more stats!</label>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Attribute anvil</theme>
+    <description>Immediately gains four random attribute bonuses. Each grants 39% damage, 39% health, 39% movement speed or +0.39 attack cooldown divisor. Results are permanent and can repeat. In the random-stat pool, damage and health bonuses taper above 200%; move and attack speed bonuses taper above 100%. Stored gains are preserved.</description>
+    <mechanics>
+      <li>
+        <key>anvils</key>
+        <amount>4</amount>
+      </li>
+    </mechanics>
+    <iconPath>RimHex/Cards/RHA_REF_StatsOnStatsOnStats</iconPath>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_REF_TransmutePrismatic</defName>
+    <label>Prismatic transformation</label>
+    <scope>Hero</scope>
+    <tier>Gold</tier>
+    <theme>Random prismatic</theme>
+    <description>Immediately grants one random eligible prismatic personal card. Excludes disabled, capped and further random-card rewards. Existing augments are retained.</description>
+    <mechanics>
+      <li>
+        <key>transmute</key>
+        <amount>1</amount>
+      </li>
+    </mechanics>
+    <iconPath>RimHex/Cards/RHA_REF_TransmutePrismatic</iconPath>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_REF_MasterofDuality</defName>
+    <label>Master of Duality</label>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Direct / Additional damage growth</theme>
+    <description>Direct hits build spell power; ability and secondary damage build attack power. Each temporary stack adds 3.9% ability/secondary damage or direct damage per card stack respectively. Secondary growth is limited to once per 10 ticks; bonuses lapse after 10 seconds without a direct hit. Draft limit: 6 stacks. The first 20 temporary stacks retain their full effect; further stacks have diminishing returns.</description>
+    <mechanics>
+      <li>
+        <key>duality</key>
+        <amount>0.65</amount>
+      </li>
+    </mechanics>
+    <iconPath>RimHex/Cards/RHA_REF_MasterofDuality</iconPath>
+    <maxStacks>6</maxStacks>
+  </RimHex.HexAugmentDef>
+</Defs>

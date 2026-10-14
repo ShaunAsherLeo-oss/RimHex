@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Defs>
+  <HediffDef>
+    <defName>RHA_Weakness</defName>
+    <label>Shrink ray</label>
+    <description>Reduced outgoing damage. Reapplication refreshes the duration; body size is unchanged.</description>
+    <hediffClass>RimHex.Hediff_HexWeakness</hediffClass>
+    <isBad>true</isBad>
+    <scenarioCanAdd>false</scenarioCanAdd>
+    <initialSeverity>1</initialSeverity>
+    <maxSeverity>1</maxSeverity>
+  </HediffDef>
+  <HediffDef>
+    <defName>RHA_StackBurn</defName>
+    <label>Stacking inferno</label>
+    <description>Repeated hits accumulate fire damage, dealt once per second. Reapplication refreshes the effect to six pulses. Each caster's damage and attribution are stored separately.</description>
+    <hediffClass>RimHex.Hediff_HexStackingDot</hediffClass>
+    <isBad>true</isBad>
+    <scenarioCanAdd>false</scenarioCanAdd>
+    <initialSeverity>1</initialSeverity>
+    <maxSeverity>1</maxSeverity>
+    <defaultLabelColor>(1, 0.55, 0.2)</defaultLabelColor>
+  </HediffDef>
+  <HediffDef>
+    <defName>RHA_HamstringBleed</defName>
+    <label>Hamstring bleeding</label>
+    <description>Bleeding built up by critical hits deals armor-piercing damage once per second and slows movement.</description>
+    <hediffClass>RimHex.Hediff_HexStackingDot</hediffClass>
+    <isBad>true</isBad>
+    <scenarioCanAdd>false</scenarioCanAdd>
+    <initialSeverity>1</initialSeverity>
+    <maxSeverity>1</maxSeverity>
+    <stages>
+      <li>
+        <statFactors>
+          <MoveSpeed>0.7</MoveSpeed>
+        </statFactors>
+      </li>
+    </stages>
+  </HediffDef>
+  <HediffDef>
+    <defName>RHA_ReferenceSlow</defName>
+    <label>Lightning slow</label>
+    <description>Movement speed reduced by 30% for 5 seconds.</description>
+    <hediffClass>RimHex.Hediff_HexTimed</hediffClass>
+    <isBad>true</isBad>
+    <scenarioCanAdd>false</scenarioCanAdd>
+    <initialSeverity>1</initialSeverity>
+    <maxSeverity>1</maxSeverity>
+    <stages>
+      <li>
+        <statFactors>
+          <MoveSpeed>0.7</MoveSpeed>
+        </statFactors>
+      </li>
+    </stages>
+  </HediffDef>
+  <HediffDef>
+    <defName>RHA_Exposure</defName>
+    <label>Flesheater vulnerability</label>
+    <description>Each stack increases direct damage taken from enemies by 10%, up to ten stacks.</description>
+    <hediffClass>RimHex.Hediff_HexExposure</hediffClass>
+    <isBad>true</isBad>
+    <scenarioCanAdd>false</scenarioCanAdd>
+    <initialSeverity>1</initialSeverity>
+    <maxSeverity>1</maxSeverity>
+  </HediffDef>
+</Defs>

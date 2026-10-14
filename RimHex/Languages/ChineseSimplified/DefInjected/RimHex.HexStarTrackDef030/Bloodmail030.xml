@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_STAR_Relic_Bloodmail.nodes.0.label>血甲回炉</RHA_STAR_Relic_Bloodmail.nodes.0.label>
+  <RHA_STAR_Relic_Bloodmail.nodes.0.description>保留血铸战甲、原有成长和觉醒，不重复增加吸血、生命或减伤。后续进阶只认可实际普通命中与本树实际治疗，不能靠空治疗领取收益。</RHA_STAR_Relic_Bloodmail.nodes.0.description>
+  <RHA_STAR_Relic_Bloodmail.nodes.1.label>缝合甲片</RHA_STAR_Relic_Bloodmail.nodes.1.label>
+  <RHA_STAR_Relic_Bloodmail.nodes.1.description>本人有可恢复伤势时，每3次有效普通命中治疗本人40点基础伤势，冷却8秒。冷却期间不计数；没有伤势时不蓄积，不恢复缺失部位或永久伤疤。 基础收益：治疗 40。</RHA_STAR_Relic_Bloodmail.nodes.1.description>
+  <RHA_STAR_Relic_Bloodmail.nodes.2.label>输血打击</RHA_STAR_Relic_Bloodmail.nodes.2.label>
+  <RHA_STAR_Relic_Bloodmail.nodes.2.description>每3次有效普通命中，治疗4格内视线畅通、伤势最重的一名其他殖民者40点基础伤势，冷却8秒。没有受伤队友时保留一轮蓄积，后续有效命中再尝试；不叠存多轮。 基础收益：治疗 40。</RHA_STAR_Relic_Bloodmail.nodes.2.description>
+  <RHA_STAR_Relic_Bloodmail.nodes.3.label>血缝封甲</RHA_STAR_Relic_Bloodmail.nodes.3.label>
+  <RHA_STAR_Relic_Bloodmail.nodes.3.description>缝合甲片实际治疗伤势后，为本人提供50点独立护盾，持续3秒，冷却8秒。原有吸血或其他来源的治疗不触发。 基础收益：护盾 50。</RHA_STAR_Relic_Bloodmail.nodes.3.description>
+  <RHA_STAR_Relic_Bloodmail.nodes.4.label>回生反击</RHA_STAR_Relic_Bloodmail.nodes.4.label>
+  <RHA_STAR_Relic_Bloodmail.nodes.4.description>缝合甲片实际治疗伤势后，储存一次5秒反击机会，冷却8秒。本人后续普通命中敌人时消耗机会，追加75点伤害；产生机会的那次命中不能立刻兑现。最多储存一次。 基础收益：伤害 75。</RHA_STAR_Relic_Bloodmail.nodes.4.description>
+  <RHA_STAR_Relic_Bloodmail.nodes.5.label>施援自护</RHA_STAR_Relic_Bloodmail.nodes.5.label>
+  <RHA_STAR_Relic_Bloodmail.nodes.5.description>输血打击实际治疗队友后，为本人提供25点护盾，持续3秒，冷却8秒。只认本树的实际治疗，不因治疗满血目标而触发。 基础收益：护盾 25。</RHA_STAR_Relic_Bloodmail.nodes.5.description>
+  <RHA_STAR_Relic_Bloodmail.nodes.6.label>血幕相护</RHA_STAR_Relic_Bloodmail.nodes.6.label>
+  <RHA_STAR_Relic_Bloodmail.nodes.6.description>输血打击实际治疗队友后，为本人4格内视线畅通、最近的另一名殖民者提供50点护盾，持续3秒，冷却8秒。护盾独立选取目标，可能与接受治疗者不同。 基础收益：护盾 50。</RHA_STAR_Relic_Bloodmail.nodes.6.description>
+</LanguageData>

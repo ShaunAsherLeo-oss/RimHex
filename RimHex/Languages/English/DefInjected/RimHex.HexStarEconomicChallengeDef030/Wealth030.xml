@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_WealthEconomic030_root.label>Open the Books assessment</RHA_WealthEconomic030_root.label>
+  <RHA_WealthEconomic030_root.description>After enrollment, complete all objectives within 15 days. Only actual economic activity counts; this node does not need to be unlocked.
+New peak net trade income: 300
+Distinct exported goods: 1</RHA_WealthEconomic030_root.description>
+  <RHA_WealthEconomic030_ledger.label>Trade Dividend assessment</RHA_WealthEconomic030_ledger.label>
+  <RHA_WealthEconomic030_ledger.description>After enrollment, complete all objectives within 20 days. Only actual economic activity counts; this node does not need to be unlocked.
+New peak net trade income: 1000
+Distinct exported goods: 2</RHA_WealthEconomic030_ledger.description>
+  <RHA_WealthEconomic030_provision.label>Procurement Fund assessment</RHA_WealthEconomic030_provision.label>
+  <RHA_WealthEconomic030_provision.description>After enrollment, complete all objectives within 20 days. Only actual economic activity counts; this node does not need to be unlocked.
+New peak net trade income: 600
+Actual purchase spending: 300
+Distinct purchased goods: 2</RHA_WealthEconomic030_provision.description>
+  <RHA_WealthEconomic030_bulk.label>Bulk Dispatch assessment</RHA_WealthEconomic030_bulk.label>
+  <RHA_WealthEconomic030_bulk.description>After enrollment, complete all objectives within 25 days. Only actual economic activity counts; this node does not need to be unlocked.
+New peak net trade income: 2200
+Distinct exported goods: 2</RHA_WealthEconomic030_bulk.description>
+  <RHA_WealthEconomic030_assortment.label>Varied Stock assessment</RHA_WealthEconomic030_assortment.label>
+  <RHA_WealthEconomic030_assortment.description>After enrollment, complete all objectives within 25 days. Only actual economic activity counts; this node does not need to be unlocked.
+New peak net trade income: 1400
+Distinct exported goods: 4</RHA_WealthEconomic030_assortment.description>
+  <RHA_WealthEconomic030_workshop.label>Workshop Supplies assessment</RHA_WealthEconomic030_workshop.label>
+  <RHA_WealthEconomic030_workshop.description>After enrollment, complete all objectives within 25 days. Only actual economic activity counts; this node does not need to be unlocked.
+Actual purchase spending: 500
+Units manufactured: 12
+Distinct completed recipes: 2</RHA_WealthEconomic030_workshop.description>
+  <RHA_WealthEconomic030_pantry.label>Household Reserve assessment</RHA_WealthEconomic030_pantry.label>
+  <RHA_WealthEconomic030_pantry.description>After enrollment, complete all objectives within 25 days. Only actual economic activity counts; this node does not need to be unlocked.
+Actual purchase spending: 300
+Nutrition consumed: 30
+Distinct foods: 2</RHA_WealthEconomic030_pantry.description>
+  <RHA_WealthEconomic030_batch.label>Rotating Shipments assessment</RHA_WealthEconomic030_batch.label>
+  <RHA_WealthEconomic030_batch.description>After enrollment, complete all objectives within 30 days. Only actual economic activity counts; this node does not need to be unlocked.
+New peak net trade income: 3500
+Distinct exported goods: 4</RHA_WealthEconomic030_batch.description>
+  <RHA_WealthEconomic030_network.label>Trade Circuit assessment</RHA_WealthEconomic030_network.label>
+  <RHA_WealthEconomic030_network.description>After enrollment, complete all objectives within 35 days. Only actual economic activity counts; this node does not need to be unlocked.
+New peak net trade income: 2500
+Distinct exported goods: 3
+Qualifying traders: 2</RHA_WealthEconomic030_network.description>
+  <RHA_WealthEconomic030_delivery.label>Supply Relay assessment</RHA_WealthEconomic030_delivery.label>
+  <RHA_WealthEconomic030_delivery.description>After enrollment, complete all objectives within 30 days. Only actual economic activity counts; this node does not need to be unlocked.
+Units manufactured: 30
+Distinct completed recipes: 3
+Distinct purchased goods: 3</RHA_WealthEconomic030_delivery.description>
+  <RHA_WealthEconomic030_reserve.label>Stock Rotation assessment</RHA_WealthEconomic030_reserve.label>
+  <RHA_WealthEconomic030_reserve.description>After enrollment, complete all objectives within 30 days. Only actual economic activity counts; this node does not need to be unlocked.
+Nutrition consumed: 60
+Distinct foods: 3
+Actual purchase spending: 600</RHA_WealthEconomic030_reserve.description>
+  <RHA_WealthEconomic030_batch_discount.label>Freight in Kind assessment</RHA_WealthEconomic030_batch_discount.label>
+  <RHA_WealthEconomic030_batch_discount.description>After enrollment, complete all objectives within 40 days. Only actual economic activity counts; this node does not need to be unlocked.
+New peak net trade income: 4500
+Actual purchase spending: 1200
+Distinct purchased goods: 4</RHA_WealthEconomic030_batch_discount.description>
+  <RHA_WealthEconomic030_batch_dividend.label>Cash Settlement assessment</RHA_WealthEconomic030_batch_dividend.label>
+  <RHA_WealthEconomic030_batch_dividend.description>After enrollment, complete all objectives within 40 days. Only actual economic activity counts; this node does not need to be unlocked.
+New peak net trade income: 6000
+Distinct exported goods: 4</RHA_WealthEconomic030_batch_dividend.description>
+  <RHA_WealthEconomic030_network_orders.label>Joint Orders assessment</RHA_WealthEconomic030_network_orders.label>
+  <RHA_WealthEconomic030_network_orders.description>After enrollment, complete all objectives within 40 days. Only actual economic activity counts; this node does not need to be unlocked.
+New peak net trade income: 4000
+Distinct exported goods: 5
+Qualifying traders: 2</RHA_WealthEconomic030_network_orders.description>
+  <RHA_WealthEconomic030_network_exchange.label>Goods Exchange assessment</RHA_WealthEconomic030_network_exchange.label>
+  <RHA_WealthEconomic030_network_exchange.description>After enrollment, complete all objectives within 40 days. Only actual economic activity counts; this node does not need to be unlocked.
+New peak net trade income: 3000
+Actual purchase spending: 1500
+Distinct purchased goods: 5
+Qualifying traders: 2</RHA_WealthEconomic030_network_exchange.description>
+  <RHA_WealthEconomic030_delivery_steel.label>Raw Material Reserve assessment</RHA_WealthEconomic030_delivery_steel.label>
+  <RHA_WealthEconomic030_delivery_steel.description>After enrollment, complete all objectives within 40 days. Only actual economic activity counts; this node does not need to be unlocked.
+Units manufactured: 60
+Distinct completed recipes: 4
+Actual purchase spending: 1000</RHA_WealthEconomic030_delivery_steel.description>
+  <RHA_WealthEconomic030_delivery_components.label>Precision Spares assessment</RHA_WealthEconomic030_delivery_components.label>
+  <RHA_WealthEconomic030_delivery_components.description>After enrollment, complete all objectives within 40 days. Only actual economic activity counts; this node does not need to be unlocked.
+Units manufactured: 40
+Distinct completed recipes: 5
+Distinct purchased goods: 4</RHA_WealthEconomic030_delivery_components.description>
+  <RHA_WealthEconomic030_reserve_meals.label>Meal Rotation assessment</RHA_WealthEconomic030_reserve_meals.label>
+  <RHA_WealthEconomic030_reserve_meals.description>After enrollment, complete all objectives within 40 days. Only actual economic activity counts; this node does not need to be unlocked.
+Nutrition consumed: 120
+Distinct foods: 4
+Actual purchase spending: 700</RHA_WealthEconomic030_reserve_meals.description>
+  <RHA_WealthEconomic030_reserve_medicine.label>Medical Rotation assessment</RHA_WealthEconomic030_reserve_medicine.label>
+  <RHA_WealthEconomic030_reserve_medicine.description>After enrollment, complete all objectives within 40 days. Only actual economic activity counts; this node does not need to be unlocked.
+Medicine consumed: 4
+Actual purchase spending: 800
+Nutrition consumed: 40</RHA_WealthEconomic030_reserve_medicine.description>
+</LanguageData>

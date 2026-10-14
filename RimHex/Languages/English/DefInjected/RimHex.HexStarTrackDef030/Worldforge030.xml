@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_STAR_Relic_Worldforge.nodes.0.label>Inherited Furnace</RHA_STAR_Relic_Worldforge.nodes.0.label>
+  <RHA_STAR_Relic_Worldforge.nodes.0.description>Retains Worldforge and its original awakening. Later nodes count your completed production bills only when materials were consumed and an item was produced. Cancelled jobs, surgery and empty recipes do not count. A new wearer starts a fresh production sequence; earned fractional returns stay with the item.</RHA_STAR_Relic_Worldforge.nodes.0.description>
+  <RHA_STAR_Relic_Worldforge.nodes.1.label>Serial Reclamation</RHA_STAR_Relic_Worldforge.nodes.1.label>
+  <RHA_STAR_Relic_Worldforge.nodes.1.description>Complete the same recipe 3 times consecutively, no more than 1 day apart, to reclaim 30% of the third job's actual stackable material consumption. Changing recipes resets the sequence. Fractional returns accumulate.</RHA_STAR_Relic_Worldforge.nodes.1.description>
+  <RHA_STAR_Relic_Worldforge.nodes.2.label>Changeover Returns</RHA_STAR_Relic_Worldforge.nodes.2.label>
+  <RHA_STAR_Relic_Worldforge.nodes.2.description>Complete two different recipes consecutively, no more than 1 day apart, to reclaim 20% of the second job's actual stackable material consumption. Each pair is separate. A repeated recipe restarts the pair from that job. Fractional returns accumulate.</RHA_STAR_Relic_Worldforge.nodes.2.description>
+  <RHA_STAR_Relic_Worldforge.nodes.3.label>Closed-loop Smelting</RHA_STAR_Relic_Worldforge.nodes.3.label>
+  <RHA_STAR_Relic_Worldforge.nodes.3.description>Raises Serial Reclamation to 10%. Applies to future completed jobs without repricing returns already earned.</RHA_STAR_Relic_Worldforge.nodes.3.description>
+  <RHA_STAR_Relic_Worldforge.nodes.4.label>Workshop Practice</RHA_STAR_Relic_Worldforge.nodes.4.label>
+  <RHA_STAR_Relic_Worldforge.nodes.4.description>Each completed Serial Reclamation sequence grants 400 base experience in that recipe's work skill, affected by learning efficiency. Recipes without a work skill and disabled skills grant none.</RHA_STAR_Relic_Worldforge.nodes.4.description>
+  <RHA_STAR_Relic_Worldforge.nodes.5.label>Workshop Maintenance</RHA_STAR_Relic_Worldforge.nodes.5.label>
+  <RHA_STAR_Relic_Worldforge.nodes.5.description>Each completed Changeover Returns pair repairs 160 hit points on the nearest damaged player building within 6 cells and clear sight. Buildings without hit points do not qualify. With no target, the repair is not stored. Base rewards: building repair 160.</RHA_STAR_Relic_Worldforge.nodes.5.description>
+  <RHA_STAR_Relic_Worldforge.nodes.6.label>Sorted Offcuts</RHA_STAR_Relic_Worldforge.nodes.6.label>
+  <RHA_STAR_Relic_Worldforge.nodes.6.description>Raises Changeover Returns to 7%. Applies to future completed jobs without repricing returns already earned.</RHA_STAR_Relic_Worldforge.nodes.6.description>
+</LanguageData>

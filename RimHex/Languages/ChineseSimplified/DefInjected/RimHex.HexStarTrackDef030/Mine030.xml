@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_STAR_Core_mine.nodes.0.label>棱彩地雷</RHA_STAR_Core_mine.nodes.0.label>
+  <RHA_STAR_Core_mine.nodes.0.description>需要地雷核心卡。保留部署、手动引爆和拆除。地雷1秒后就绪，存在30秒，每人最多3枚、每张地图最多12枚；部署间隔6秒。进阶不重置地雷寿命或部署冷却。</RHA_STAR_Core_mine.nodes.0.description>
+  <RHA_STAR_Core_mine.nodes.1.label>破片雷</RHA_STAR_Core_mine.nodes.1.label>
+  <RHA_STAR_Core_mine.nodes.1.description>自动感应范围缩至1格，基础爆炸伤害提高至14。爆炸仍攻击2格内视线畅通的至多4名敌人。无需另抽分支卡；本人还有已部署地雷时不能换分支。</RHA_STAR_Core_mine.nodes.1.description>
+  <RHA_STAR_Core_mine.nodes.2.label>绊线雷</RHA_STAR_Core_mine.nodes.2.label>
+  <RHA_STAR_Core_mine.nodes.2.description>最早就绪的两枚地雷在相距不超过6格且视线畅通时配对。敌人经过连线后，延迟0.5秒触发，消耗两枚地雷，对线上的至多4名敌人造成5点基础伤害并减速3秒。未配对时不自动感应，仍可手动引爆。无需另抽分支卡。</RHA_STAR_Core_mine.nodes.2.description>
+  <RHA_STAR_Core_mine.nodes.3.label>破甲余隙</RHA_STAR_Core_mine.nodes.3.label>
+  <RHA_STAR_Core_mine.nodes.3.description>爆炸实际伤敌后，给一名存活敌人留下4秒破口。主人下一次普通命中消耗破口，追加75点伤害。最多一个破口，生成冷却6秒；技能、队友与地雷不能兑现。 基础收益：伤害 75。</RHA_STAR_Core_mine.nodes.3.description>
+  <RHA_STAR_Core_mine.nodes.4.label>飞散破片</RHA_STAR_Core_mine.nodes.4.label>
+  <RHA_STAR_Core_mine.nodes.4.description>爆炸实际伤敌后，对受击点3格内视线畅通的另一名敌人追加25点伤害，冷却6秒。一轮爆炸至多触发一次，不会重复打击此次触发的受击者。 基础收益：伤害 25。</RHA_STAR_Core_mine.nodes.4.description>
+  <RHA_STAR_Core_mine.nodes.5.label>封线掩护</RHA_STAR_Core_mine.nodes.5.label>
+  <RHA_STAR_Core_mine.nodes.5.description>成对绊线实际伤敌后，为主人4格内视线畅通、最近一名其他殖民者提供50点独立护盾，持续3秒，冷却6秒。未配对地雷的单独爆炸不触发；没有合适队友时不保护主人。 基础收益：护盾 50。</RHA_STAR_Core_mine.nodes.5.description>
+  <RHA_STAR_Core_mine.nodes.6.label>封线援护</RHA_STAR_Core_mine.nodes.6.label>
+  <RHA_STAR_Core_mine.nodes.6.description>成对绊线实际伤敌后，治疗主人4格内视线畅通、最近一名受伤队友的40点可恢复伤势，冷却6秒。未配对地雷的单独爆炸不触发；不治疗主人，不恢复缺失部位或永久伤疤。 基础收益：治疗 40。</RHA_STAR_Core_mine.nodes.6.description>
+</LanguageData>

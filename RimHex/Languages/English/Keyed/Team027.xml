@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_V27_Mark>{0} · Owner {1} · {2} remaining</RHA_V27_Mark>
+  <RHA_V27_Ready>Waiting for a relay</RHA_V27_Ready>
+  <RHA_V27_Cooldown>Recovery: {0}</RHA_V27_Cooldown>
+  <RHA_V27_Pending>Opening: {0} · {1}</RHA_V27_Pending>
+  <RHA_V27_Count>Triggered {0} times</RHA_V27_Count>
+  <RHA_Stack02711_Cards>Draft stacks</RHA_Stack02711_Cards>
+  <RHA_Stack02711_Equipment>Equipped relics · growth and inscriptions</RHA_Stack02711_Equipment>
+  <RHA_Stack02711_Growth>Combat growth (separate from draft stacks)</RHA_Stack02711_Growth>
+  <RHA_Stack02711_CardLimit>Drafted {0} / {1} stacks</RHA_Stack02711_CardLimit>
+  <RHA_Stack02711_CardOpen>Drafted {0} stacks · no draft limit</RHA_Stack02711_CardOpen>
+  <RHA_Stack02711_LayerNote>These are repeat picks, not growth earned from kills, hits or wearing equipment.</RHA_Stack02711_LayerNote>
+  <RHA_Stack02711_Active>Active</RHA_Stack02711_Active>
+  <RHA_Stack02711_Dormant>Inactive · build requirements not met</RHA_Stack02711_Dormant>
+  <RHA_Stack02711_NoTarget>No colonist selected · activity not evaluated</RHA_Stack02711_NoTarget>
+  <RHA_Stack02711_PerLayer>Per-stack description: {0}</RHA_Stack02711_PerLayer>
+  <RHA_Stack02711_OwnedEffect>Base effects from {0} stacks of this card: {1}</RHA_Stack02711_OwnedEffect>
+  <RHA_Stack02711_Dragon>Dragon souls: {0} / 6 stacks</RHA_Stack02711_Dragon>
+  <RHA_Stack02711_Next>Next growth: wear for {0} more days</RHA_Stack02711_Next>
+  <RHA_Stack02711_Full>Growth cap reached</RHA_Stack02711_Full>
+  <RHA_Stack02711_Crown>Crown marks: {0} earned · {1} effective stacks</RHA_Stack02711_Crown>
+  <RHA_Stack02711_Diminish>Diminishing returns after {0} stacks; earned progress is retained.</RHA_Stack02711_Diminish>
+  <RHA_Stack02711_GrowthBonus>Growth bonus only: damage +{0}% · health +{1}% · regeneration +{2}/s</RHA_Stack02711_GrowthBonus>
+  <RHA_Stack02711_Work>Work speed +{0}%</RHA_Stack02711_Work>
+  <RHA_Stack02711_GrowthNote>Growth bonuses above exclude base relic stats, awakenings, inscriptions and other sources.</RHA_Stack02711_GrowthNote>
+  <RHA_Stack02711_Rune>Inscription: {0} · rank {1} / 3</RHA_Stack02711_Rune>
+  <RHA_Stack02711_NoRune>Inscription: none</RHA_Stack02711_NoRune>
+  <RHA_Stack02711_Fixed>No separate growth stacks; combat counters appear in colonist status.</RHA_Stack02711_Fixed>
+  <RHA_Stack02711_Rolls>Reshaped {0} times (not attribute stacks)</RHA_Stack02711_Rolls>
+  <RHA_Stack02711_Counter>{0}: {1} earned · {2} effective stacks</RHA_Stack02711_Counter>
+  <RHA_Stack02711_Steel>Steel marks</RHA_Stack02711_Steel>
+  <RHA_Stack02711_Feast>Feast</RHA_Stack02711_Feast>
+  <RHA_Stack02711_Souls>Souls</RHA_Stack02711_Souls>
+  <RHA_Stack02711_Health>Health +{0}%</RHA_Stack02711_Health>
+  <RHA_Stack02711_FeastBonus>Health +{0}% · damage +{1}%</RHA_Stack02711_FeastBonus>
+  <RHA_Stack02711_SoulBonus>Damage +{0}% · regeneration +{1}/s</RHA_Stack02711_SoulBonus>
+  <RHA_Stack02711_Empty>No combat growth recorded</RHA_Stack02711_Empty>
+  <RHA_Stack02711_NoCards>No augments drafted yet</RHA_Stack02711_NoCards>
+</LanguageData>

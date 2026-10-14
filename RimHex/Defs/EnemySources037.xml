@@ -1,0 +1,129 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Defs>
+  <RimHex.HexEnemySourceDef037>
+    <defName>RHA_EnemySource037_RHA_Infinity</defName>
+    <label>Endless prism</label>
+    <description>critical value +100%; direct damage +60%. Critical value above 100% continues to increase critical damage.</description>
+    <equipmentDefName>RHA_Infinity</equipmentDefName>
+    <hediffClass>RimHex.Hediff_HexEnemySource037</hediffClass>
+    <isBad>false</isBad>
+    <scenarioCanAdd>false</scenarioCanAdd>
+  </RimHex.HexEnemySourceDef037>
+  <RimHex.HexEnemySourceDef037>
+    <defName>RHA_EnemySource037_RHA_Bloodmail</defName>
+    <label>Bloodforged armor</label>
+    <description>direct-hit lifesteal +35%; body health +120%; damage-taken divisor +0.5.</description>
+    <equipmentDefName>RHA_Bloodmail</equipmentDefName>
+    <hediffClass>RimHex.Hediff_HexEnemySource037</hediffClass>
+    <isBad>false</isBad>
+    <scenarioCanAdd>false</scenarioCanAdd>
+  </RimHex.HexEnemySourceDef037>
+  <RimHex.HexEnemySourceDef037>
+    <defName>RHA_EnemySource037_RHA_Darksteel</defName>
+    <label>Blacksteel talons</label>
+    <description>steel growth level +1.5; body health +80%; damage-taken divisor +0.5. Eligible direct hits gain steel marks at most once every 2 seconds. Each permanent growth effect retains its full benefit through 100 points, then has diminishing returns.</description>
+    <equipmentDefName>RHA_Darksteel</equipmentDefName>
+    <hediffClass>RimHex.Hediff_HexEnemySource037</hediffClass>
+    <isBad>false</isBad>
+    <scenarioCanAdd>false</scenarioCanAdd>
+  </RimHex.HexEnemySourceDef037>
+  <RimHex.HexEnemySourceDef037>
+    <defName>RHA_EnemySource037_RHA_Chronoblade</defName>
+    <label>Timeblade</label>
+    <description>rage level +2; melee cooldown divisor +1.2; ranged cooldown divisor +1.2. The first 20 temporary stacks retain their full effect; further stacks have diminishing returns.</description>
+    <equipmentDefName>RHA_Chronoblade</equipmentDefName>
+    <hediffClass>RimHex.Hediff_HexEnemySource037</hediffClass>
+    <isBad>false</isBad>
+    <scenarioCanAdd>false</scenarioCanAdd>
+  </RimHex.HexEnemySourceDef037>
+  <RimHex.HexEnemySourceDef037>
+    <defName>RHA_EnemySource037_RHA_Trinity</defName>
+    <label>Trinity singularity</label>
+    <description>direct damage +80%; critical value +35%; cleave level +1; chain level +1; move speed +40%; global work speed +40%. Copied damage uses its resolved value; flat bonus damage can still be amplified.</description>
+    <equipmentDefName>RHA_Trinity</equipmentDefName>
+    <hediffClass>RimHex.Hediff_HexEnemySource037</hediffClass>
+    <isBad>false</isBad>
+    <scenarioCanAdd>false</scenarioCanAdd>
+  </RimHex.HexEnemySourceDef037>
+  <RimHex.HexEnemySourceDef037>
+    <defName>RHA_EnemySource037_RHA_Talisman</defName>
+    <label>Immortal charm</label>
+    <description>damage-taken divisor +0.6; ordinary injury healed per second +2.5; move speed +35%. Blocks one hit and heals 35 ordinary injury points, at most once every 30 seconds.</description>
+    <equipmentDefName>RHA_Talisman</equipmentDefName>
+    <hediffClass>RimHex.Hediff_HexEnemySource037</hediffClass>
+    <isBad>false</isBad>
+    <scenarioCanAdd>false</scenarioCanAdd>
+  </RimHex.HexEnemySourceDef037>
+  <RimHex.HexEnemySourceDef037>
+    <defName>RHA_EnemySource037_RHA_H_Haste</defName>
+    <label>Fleet-footed</label>
+    <description>Adds 35% movement speed per stack. Draft limit: 6 stacks.</description>
+    <cardDefName>RHA_H_Haste</cardDefName>
+    <hediffClass>RimHex.Hediff_HexEnemySource037</hediffClass>
+    <isBad>false</isBad>
+    <scenarioCanAdd>false</scenarioCanAdd>
+  </RimHex.HexEnemySourceDef037>
+  <RimHex.HexEnemySourceDef037>
+    <defName>RHA_EnemySource037_RHA_H_Crit</defName>
+    <label>Jeweled Gauntlet</label>
+    <description>Each stack grants 25% critical value and allows ability damage to critically strike. Critical value above 100% increases critical damage. Draft limit: 6 stacks.</description>
+    <cardDefName>RHA_H_Crit</cardDefName>
+    <hediffClass>RimHex.Hediff_HexEnemySource037</hediffClass>
+    <isBad>false</isBad>
+    <scenarioCanAdd>false</scenarioCanAdd>
+  </RimHex.HexEnemySourceDef037>
+  <RimHex.HexEnemySourceDef037>
+    <defName>RHA_EnemySource037_RHA_H_Armor</defName>
+    <label>Immovable</label>
+    <description>Adds 30% health per stack. Damage taken is divided by (1 + 0.35 × stacks). Draft limit: 6 stacks.</description>
+    <cardDefName>RHA_H_Armor</cardDefName>
+    <hediffClass>RimHex.Hediff_HexEnemySource037</hediffClass>
+    <isBad>false</isBad>
+    <scenarioCanAdd>false</scenarioCanAdd>
+  </RimHex.HexEnemySourceDef037>
+  <RimHex.HexEnemySourceDef037>
+    <defName>RHA_EnemySource037_RHA_H_Regen</defName>
+    <label>Second wind</label>
+    <description>Heals 1.2 points of ordinary injuries per second per stack, applied about every 4.2 seconds. Does not repair permanent scars or missing body parts. Draft limit: 6 stacks.</description>
+    <cardDefName>RHA_H_Regen</cardDefName>
+    <hediffClass>RimHex.Hediff_HexEnemySource037</hediffClass>
+    <isBad>false</isBad>
+    <scenarioCanAdd>false</scenarioCanAdd>
+  </RimHex.HexEnemySourceDef037>
+  <RimHex.HexEnemySourceDef037>
+    <defName>RHA_EnemySource037_RHA_H_Vamp</defName>
+    <label>Blood feast</label>
+    <description>Heals ordinary injuries for 25% of direct damage dealt to enemies per stack. Stacks with Blood pact and Bloodforged armor. Draft limit: 6 stacks.</description>
+    <cardDefName>RHA_H_Vamp</cardDefName>
+    <hediffClass>RimHex.Hediff_HexEnemySource037</hediffClass>
+    <isBad>false</isBad>
+    <scenarioCanAdd>false</scenarioCanAdd>
+  </RimHex.HexEnemySourceDef037>
+  <RimHex.HexEnemySourceDef037>
+    <defName>RHA_EnemySource037_RHA_H_King</defName>
+    <label>One-person army</label>
+    <description>Adds 90% damage against enemies, 70% health and 20% lifesteal per stack. Draft limit: 6 stacks.</description>
+    <cardDefName>RHA_H_King</cardDefName>
+    <hediffClass>RimHex.Hediff_HexEnemySource037</hediffClass>
+    <isBad>false</isBad>
+    <scenarioCanAdd>false</scenarioCanAdd>
+  </RimHex.HexEnemySourceDef037>
+  <RimHex.HexEnemySourceDef037>
+    <defName>RHA_EnemySource037_RHA_H_Luck</defName>
+    <label>Fortune's favor</label>
+    <description>Each stack adds 60% critical value and 40% direct damage. Critical value above 100% increases critical damage.</description>
+    <cardDefName>RHA_H_Luck</cardDefName>
+    <hediffClass>RimHex.Hediff_HexEnemySource037</hediffClass>
+    <isBad>false</isBad>
+    <scenarioCanAdd>false</scenarioCanAdd>
+  </RimHex.HexEnemySourceDef037>
+  <RimHex.HexEnemySourceDef037>
+    <defName>RHA_EnemySource037_RHA_H_Ascend</defName>
+    <label>Path to ascension</label>
+    <description>Adds 75% damage against enemies and 75% health, and heals 1.8 points of ordinary injuries per second per stack. Draft limit: 6 stacks.</description>
+    <cardDefName>RHA_H_Ascend</cardDefName>
+    <hediffClass>RimHex.Hediff_HexEnemySource037</hediffClass>
+    <isBad>false</isBad>
+    <scenarioCanAdd>false</scenarioCanAdd>
+  </RimHex.HexEnemySourceDef037>
+</Defs>

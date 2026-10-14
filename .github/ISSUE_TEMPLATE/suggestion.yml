@@ -1,0 +1,20 @@
+name: 建议与体验反馈 / Suggestions
+description: 分享构筑、数值体验或改进建议 / Share builds, balance feedback or ideas
+title: "[建议] "
+body:
+  - type: input
+    id: version
+    attributes:
+      label: RimHex 版本 / RimHex version
+      placeholder: "例如 / e.g. 0.37.26"
+  - type: textarea
+    id: feedback
+    attributes:
+      label: 想反馈什么？ / What would you like to share?
+      description: "可以说明相关卡牌、遗物、构筑或操作体验。 / Include relevant cards, relics, builds or controls."
+    validations:
+      required: true
+  - type: textarea
+    id: example
+    attributes:
+      label: 例子、截图或建议方案 / Examples, screenshots or proposed changes

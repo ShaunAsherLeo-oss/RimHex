@@ -1,0 +1,243 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Defs>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_A15_FirstAidKit</defName>
+    <label>First-Aid Kit</label>
+    <description>Each stack adds 20% to healing and shields you apply. Teaches Aid Pulse. Draft limit: 4 stacks.</description>
+    <scope>Hero</scope>
+    <tier>Gold</tier>
+    <theme>Support and control</theme>
+    <weight>100</weight>
+    <maxStacks>4</maxStacks>
+    <iconPath>RimHex/Cards/RHA_A15_FirstAidKit</iconPath>
+    <mechanics>
+      <li>
+        <key>aid015</key>
+        <amount>0.8</amount>
+      </li>
+    </mechanics>
+    <grantsSkills>
+      <li>Aid015</li>
+    </grantsSkills>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_A15_AllForYou</defName>
+    <label>All For You</label>
+    <description>Each stack adds 34% to healing and shields applied to other colonists, not yourself. Adds to First-Aid Kit. Teaches Aid Pulse. Draft limit: 4 stacks.</description>
+    <scope>Hero</scope>
+    <tier>Gold</tier>
+    <theme>Support and control</theme>
+    <weight>100</weight>
+    <maxStacks>4</maxStacks>
+    <iconPath>RimHex/Cards/RHA_A15_AllForYou</iconPath>
+    <mechanics>
+      <li>
+        <key>all015</key>
+        <amount>0.85</amount>
+      </li>
+    </mechanics>
+    <grantsSkills>
+      <li>Aid015</li>
+    </grantsSkills>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_A15_WindspeakersBlessing</defName>
+    <label>Windspeaker's Blessing</label>
+    <description>Actual healing or new shielding on another colonist grants 16.25% defense per card stack for 6 seconds. The strongest blessing applies. Teaches Aid Pulse. Draft limit: 4 stacks.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Support and control</theme>
+    <weight>100</weight>
+    <maxStacks>4</maxStacks>
+    <iconPath>RimHex/Cards/RHA_A15_WindspeakersBlessing</iconPath>
+    <mechanics>
+      <li>
+        <key>wind015</key>
+        <amount>0.65</amount>
+      </li>
+    </mechanics>
+    <grantsSkills>
+      <li>Aid015</li>
+    </grantsSkills>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_A15_SonicBoom</defName>
+    <label>Sonic Boom</label>
+    <description>Actual healing or new shielding on another colonist strikes up to eight enemies within 5 cells of them for 7.8 base secondary damage per stack and slows them. Once per second. Teaches Aid Pulse. Draft limit: 4 stacks.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Support and control</theme>
+    <weight>100</weight>
+    <maxStacks>4</maxStacks>
+    <iconPath>RimHex/Cards/RHA_A15_SonicBoom</iconPath>
+    <mechanics>
+      <li>
+        <key>sonic015</key>
+        <amount>0.65</amount>
+      </li>
+    </mechanics>
+    <grantsSkills>
+      <li>Aid015</li>
+    </grantsSkills>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_A15_HolyFire</defName>
+    <label>Holy Fire</label>
+    <description>Actual healing or new shielding on another colonist applies 1.95 base burn damage per pulse per card stack to up to eight enemies within 5 cells of them. Once per second. Teaches Aid Pulse. Draft limit: 4 stacks.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Support and control</theme>
+    <weight>100</weight>
+    <maxStacks>4</maxStacks>
+    <iconPath>RimHex/Cards/RHA_A15_HolyFire</iconPath>
+    <mechanics>
+      <li>
+        <key>holy015</key>
+        <amount>0.65</amount>
+      </li>
+    </mechanics>
+    <grantsSkills>
+      <li>Aid015</li>
+    </grantsSkills>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_A15_SupportMain</defName>
+    <label>Support Main</label>
+    <description>After 300 actual healing to other colonists, subsequent heals grant five once-per-second heals, each restoring 3 base health per card stack. Progress persists. Renewal does not advance the quest or trigger support effects; only the strongest renewal applies. Teaches Aid Pulse. Draft limit: 4 stacks.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Support and control</theme>
+    <weight>100</weight>
+    <maxStacks>4</maxStacks>
+    <iconPath>RimHex/Cards/RHA_A15_SupportMain</iconPath>
+    <mechanics>
+      <li>
+        <key>support015</key>
+        <amount>1</amount>
+      </li>
+    </mechanics>
+    <grantsSkills>
+      <li>Aid015</li>
+    </grantsSkills>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_A15_MightyShield</defName>
+    <label>Mighty Shield</label>
+    <description>Gaining new shield points grants 19.5% damage per stack for 6 seconds. Refreshing only the duration does not trigger it. Teaches Aid Pulse. Draft limit: 4 stacks.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Support and control</theme>
+    <weight>100</weight>
+    <maxStacks>4</maxStacks>
+    <iconPath>RimHex/Cards/RHA_A15_MightyShield</iconPath>
+    <mechanics>
+      <li>
+        <key>mighty015</key>
+        <amount>0.65</amount>
+      </li>
+    </mechanics>
+    <grantsSkills>
+      <li>Aid015</li>
+    </grantsSkills>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_A15_SpiritBomb</defName>
+    <label>Spirit Bomb</label>
+    <description>Actual healing and new shielding on other colonists store up to 200 energy. An effective support event reaching 150 spends 150 to heal up to eight colonists within 5 cells of the target for 20 base health and grant 24 base shield per stack. 10-second interval; the blast cannot charge itself. Teaches Aid Pulse. Draft limit: 4 stacks.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Support and control</theme>
+    <weight>100</weight>
+    <maxStacks>4</maxStacks>
+    <iconPath>RimHex/Cards/RHA_A15_SpiritBomb</iconPath>
+    <mechanics>
+      <li>
+        <key>bomb015</key>
+        <amount>0.8</amount>
+      </li>
+    </mechanics>
+    <grantsSkills>
+      <li>Aid015</li>
+    </grantsSkills>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_A15_Adamant</defName>
+    <label>Adamant</label>
+    <description>Extending an enemy stun grants a defense stack, up to five, lasting 8 seconds. Each defense stack grants 13% defense per card stack. Control rewards are limited to once per second. Teaches Suppression Pulse. Draft limit: 4 stacks.</description>
+    <scope>Hero</scope>
+    <tier>Gold</tier>
+    <theme>Support and control</theme>
+    <weight>100</weight>
+    <maxStacks>4</maxStacks>
+    <iconPath>RimHex/Cards/RHA_A15_Adamant</iconPath>
+    <mechanics>
+      <li>
+        <key>adamant015</key>
+        <amount>0.65</amount>
+      </li>
+    </mechanics>
+    <grantsSkills>
+      <li>Bind015</li>
+    </grantsSkills>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_A15_SlapAround</defName>
+    <label>Slap Around</label>
+    <description>Extending an eligible enemy stun grants permanent offense, up to 200 stacks, affected by growth bonuses. Each offense stack grants 1.95% damage per card stack. Once per second. Teaches Suppression Pulse. Draft limit: 4 stacks.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Support and control</theme>
+    <weight>100</weight>
+    <maxStacks>4</maxStacks>
+    <iconPath>RimHex/Cards/RHA_A15_SlapAround</iconPath>
+    <mechanics>
+      <li>
+        <key>slap015</key>
+        <amount>0.65</amount>
+      </li>
+    </mechanics>
+    <grantsSkills>
+      <li>Bind015</li>
+    </grantsSkills>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_A15_Tormentor</defName>
+    <label>Tormentor</label>
+    <description>Extending an enemy stun applies 2.6 base burn damage per pulse per card stack. Once per second. Resisted stuns and attempts that do not extend the stun grant nothing. Teaches Suppression Pulse. Draft limit: 4 stacks.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Support and control</theme>
+    <weight>100</weight>
+    <maxStacks>4</maxStacks>
+    <iconPath>RimHex/Cards/RHA_A15_Tormentor</iconPath>
+    <mechanics>
+      <li>
+        <key>torment015</key>
+        <amount>0.65</amount>
+      </li>
+    </mechanics>
+    <grantsSkills>
+      <li>Bind015</li>
+    </grantsSkills>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_A15_Porcupine</defName>
+    <label>Porcupine</label>
+    <description>Actual injury from hostile direct attacks stores spines. At 40, strike up to eight enemies within 5 cells for 20 base secondary damage per stack and slow them. 10-second interval. Shield absorption grants no charge; downed pawns do not retaliate. Teaches Suppression Pulse. Draft limit: 4 stacks.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Support and control</theme>
+    <weight>100</weight>
+    <maxStacks>4</maxStacks>
+    <iconPath>RimHex/Cards/RHA_A15_Porcupine</iconPath>
+    <mechanics>
+      <li>
+        <key>porcupine015</key>
+        <amount>0.8</amount>
+      </li>
+    </mechanics>
+    <grantsSkills>
+      <li>Bind015</li>
+    </grantsSkills>
+  </RimHex.HexAugmentDef>
+</Defs>

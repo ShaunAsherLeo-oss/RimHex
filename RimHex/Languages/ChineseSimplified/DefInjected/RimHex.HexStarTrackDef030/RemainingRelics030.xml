@@ -1,0 +1,381 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_STAR_Relic_REF_GamblersBlade.nodes.0.label>投机者之刃传承</RHA_STAR_Relic_REF_GamblersBlade.nodes.0.label>
+  <RHA_STAR_Relic_REF_GamblersBlade.nodes.0.description>沿用投机者之刃的原有效果与已选觉醒。</RHA_STAR_Relic_REF_GamblersBlade.nodes.0.description>
+  <RHA_STAR_Relic_REF_GamblersBlade.nodes.1.label>押注待发</RHA_STAR_Relic_REF_GamblersBlade.nodes.1.label>
+  <RHA_STAR_Relic_REF_GamblersBlade.nodes.1.description>本件遗物成功存入白银时，每次存入1点私有储备，上限2点，8秒内没有新的存入便失效。本人后续普通命中消耗2点，获得75点基础追加伤害，冷却8秒；本次存入不能立即消费。 基础收益：伤害 75。</RHA_STAR_Relic_REF_GamblersBlade.nodes.1.description>
+  <RHA_STAR_Relic_REF_GamblersBlade.nodes.2.label>余款护身</RHA_STAR_Relic_REF_GamblersBlade.nodes.2.label>
+  <RHA_STAR_Relic_REF_GamblersBlade.nodes.2.description>本件遗物成功存入白银，6秒内累计1次，给本人提供50点独立护盾，持续4秒，冷却8秒。原效果一次惠及多人时分别计数。更强的本节点护盾只刷新时间，不重复计算护盾增量。 基础收益：护盾 50。</RHA_STAR_Relic_REF_GamblersBlade.nodes.2.description>
+  <RHA_STAR_Relic_REF_GamblersBlade.nodes.3.label>余势追账</RHA_STAR_Relic_REF_GamblersBlade.nodes.3.label>
+  <RHA_STAR_Relic_REF_GamblersBlade.nodes.3.description>“押注待发”实际造成追加伤害后，对受击点4格内视线畅通的另一名敌人追加25点基础伤害。没有其他敌人时不重复打击原目标。每8秒最多结算一次。 基础收益：伤害 25。</RHA_STAR_Relic_REF_GamblersBlade.nodes.3.description>
+  <RHA_STAR_Relic_REF_GamblersBlade.nodes.4.label>分润救急</RHA_STAR_Relic_REF_GamblersBlade.nodes.4.label>
+  <RHA_STAR_Relic_REF_GamblersBlade.nodes.4.description>“押注待发”实际造成追加伤害后，治疗4格内视线畅通、伤势最重的另一名殖民者40点基础普通伤势。没有合适伤者时不转给本人。不恢复缺失部位或永久伤疤。每8秒最多结算一次。 基础收益：治疗 40。</RHA_STAR_Relic_REF_GamblersBlade.nodes.4.description>
+  <RHA_STAR_Relic_REF_GamblersBlade.nodes.5.label>余款相助</RHA_STAR_Relic_REF_GamblersBlade.nodes.5.label>
+  <RHA_STAR_Relic_REF_GamblersBlade.nodes.5.description>“余款护身”实际增加护盾后，治疗4格内视线畅通、伤势最重的另一名殖民者40点基础普通伤势。没有合适伤者时不转给本人。不恢复缺失部位或永久伤疤。每8秒最多结算一次。 基础收益：治疗 40。</RHA_STAR_Relic_REF_GamblersBlade.nodes.5.description>
+  <RHA_STAR_Relic_REF_GamblersBlade.nodes.6.label>押金反扑</RHA_STAR_Relic_REF_GamblersBlade.nodes.6.label>
+  <RHA_STAR_Relic_REF_GamblersBlade.nodes.6.description>“余款护身”实际增加护盾后，将本次实际增量的50%存入独立储备，上限2点，15秒未补充便失效。本人后续普通命中消耗2点追加75点基础伤害。本次新存入的量不能立即消费；此前攒够的储备仍可使用。每8秒最多结算一次。 基础收益：伤害 75。</RHA_STAR_Relic_REF_GamblersBlade.nodes.6.description>
+  <RHA_STAR_Relic_REF_Hemomancer.nodes.0.label>血术师之盔传承</RHA_STAR_Relic_REF_Hemomancer.nodes.0.label>
+  <RHA_STAR_Relic_REF_Hemomancer.nodes.0.description>沿用血术师之盔的原有效果与已选觉醒。</RHA_STAR_Relic_REF_Hemomancer.nodes.0.description>
+  <RHA_STAR_Relic_REF_Hemomancer.nodes.1.label>血量回存</RHA_STAR_Relic_REF_Hemomancer.nodes.1.label>
+  <RHA_STAR_Relic_REF_Hemomancer.nodes.1.description>本人普通伤势实际自疗时，按实际量的15%存入私有储备，上限2点，8秒内没有新的存入便失效。本人后续普通命中消耗2点，获得75点基础追加伤害，冷却8秒；本次存入不能立即消费。 基础收益：伤害 75。</RHA_STAR_Relic_REF_Hemomancer.nodes.1.description>
+  <RHA_STAR_Relic_REF_Hemomancer.nodes.2.label>换血援护</RHA_STAR_Relic_REF_Hemomancer.nodes.2.label>
+  <RHA_STAR_Relic_REF_Hemomancer.nodes.2.description>本人实际自疗（追加伤害吸血的嵌套恢复不计），6秒内累计2次，治疗4格内视线畅通、伤势最重的另一名殖民者40点基础普通伤势，冷却8秒。没有伤者时不改为治疗本人，也不计入本节点完成后的回馈。 基础收益：治疗 40。</RHA_STAR_Relic_REF_Hemomancer.nodes.2.description>
+  <RHA_STAR_Relic_REF_Hemomancer.nodes.3.label>回存归身</RHA_STAR_Relic_REF_Hemomancer.nodes.3.label>
+  <RHA_STAR_Relic_REF_Hemomancer.nodes.3.description>“血量回存”实际造成追加伤害后，治疗本人20点基础可恢复伤势。不恢复缺失部位或永久伤疤。每8秒最多结算一次。 基础收益：治疗 20。</RHA_STAR_Relic_REF_Hemomancer.nodes.3.description>
+  <RHA_STAR_Relic_REF_Hemomancer.nodes.4.label>血术留痕</RHA_STAR_Relic_REF_Hemomancer.nodes.4.label>
+  <RHA_STAR_Relic_REF_Hemomancer.nodes.4.description>“血量回存”实际造成追加伤害后，为实际伤及的敌人留下5秒追债标记，最多两名；本人后续普通命中消耗该目标的标记，追加50点基础伤害。技能、持续伤害和追加伤害不兑现。每8秒最多结算一次。 基础收益：伤害 50。</RHA_STAR_Relic_REF_Hemomancer.nodes.4.description>
+  <RHA_STAR_Relic_REF_Hemomancer.nodes.5.label>血衣护持</RHA_STAR_Relic_REF_Hemomancer.nodes.5.label>
+  <RHA_STAR_Relic_REF_Hemomancer.nodes.5.description>“换血援护”实际治疗伤势后，为本人增加75点独立护盾，持续3秒。每8秒最多结算一次。 基础收益：护盾 75。</RHA_STAR_Relic_REF_Hemomancer.nodes.5.description>
+  <RHA_STAR_Relic_REF_Hemomancer.nodes.6.label>援血反击</RHA_STAR_Relic_REF_Hemomancer.nodes.6.label>
+  <RHA_STAR_Relic_REF_Hemomancer.nodes.6.description>“换血援护”实际治疗伤势后，将本次实际增量的50%存入独立储备，上限2点，15秒未补充便失效。本人后续普通命中消耗2点追加75点基础伤害。本次新存入的量不能立即消费；此前攒够的储备仍可使用。每8秒最多结算一次。 基础收益：伤害 75。</RHA_STAR_Relic_REF_Hemomancer.nodes.6.description>
+  <RHA_STAR_Relic_REF_NightHarvester.nodes.0.label>暗夜收割者传承</RHA_STAR_Relic_REF_NightHarvester.nodes.0.label>
+  <RHA_STAR_Relic_REF_NightHarvester.nodes.0.description>沿用暗夜收割者的原有效果与已选觉醒。</RHA_STAR_Relic_REF_NightHarvester.nodes.0.description>
+  <RHA_STAR_Relic_REF_NightHarvester.nodes.1.label>暗夜追猎</RHA_STAR_Relic_REF_NightHarvester.nodes.1.label>
+  <RHA_STAR_Relic_REF_NightHarvester.nodes.1.description>本件遗物的原有效果实际伤敌，留下5秒破口，最多一名目标，生成冷却6秒。本人后续普通命中消耗破口，追加75点基础伤害。同次事件不能立即消耗新破口。 基础收益：伤害 75。</RHA_STAR_Relic_REF_NightHarvester.nodes.1.description>
+  <RHA_STAR_Relic_REF_NightHarvester.nodes.2.label>换猎余刃</RHA_STAR_Relic_REF_NightHarvester.nodes.2.label>
+  <RHA_STAR_Relic_REF_NightHarvester.nodes.2.description>本件遗物原效果实际伤敌，6秒内累计2次命中相邻不同目标，从最后受击点向4格内视线畅通的另外至多2名敌人各追加50点基础伤害，冷却8秒。原受击者不重复受击；同一轮原效果打中多人可以共同计数。 基础收益：伤害 50。</RHA_STAR_Relic_REF_NightHarvester.nodes.2.description>
+  <RHA_STAR_Relic_REF_NightHarvester.nodes.3.label>暗刃接力</RHA_STAR_Relic_REF_NightHarvester.nodes.3.label>
+  <RHA_STAR_Relic_REF_NightHarvester.nodes.3.description>“暗夜追猎”实际造成追加伤害后，对受击点4格内视线畅通的另一名敌人追加25点基础伤害。没有其他敌人时不重复打击原目标。每8秒最多结算一次。 基础收益：伤害 25。</RHA_STAR_Relic_REF_NightHarvester.nodes.3.description>
+  <RHA_STAR_Relic_REF_NightHarvester.nodes.4.label>猎后回息</RHA_STAR_Relic_REF_NightHarvester.nodes.4.label>
+  <RHA_STAR_Relic_REF_NightHarvester.nodes.4.description>“暗夜追猎”实际造成追加伤害后，治疗本人20点基础可恢复伤势。不恢复缺失部位或永久伤疤。每8秒最多结算一次。 基础收益：治疗 20。</RHA_STAR_Relic_REF_NightHarvester.nodes.4.description>
+  <RHA_STAR_Relic_REF_NightHarvester.nodes.5.label>夜幕披身</RHA_STAR_Relic_REF_NightHarvester.nodes.5.label>
+  <RHA_STAR_Relic_REF_NightHarvester.nodes.5.description>“换猎余刃”实际造成追加伤害后，为本人增加75点独立护盾，持续3秒。每8秒最多结算一次。 基础收益：护盾 75。</RHA_STAR_Relic_REF_NightHarvester.nodes.5.description>
+  <RHA_STAR_Relic_REF_NightHarvester.nodes.6.label>余刃留债</RHA_STAR_Relic_REF_NightHarvester.nodes.6.label>
+  <RHA_STAR_Relic_REF_NightHarvester.nodes.6.description>“换猎余刃”实际造成追加伤害后，为实际伤及的敌人留下5秒追债标记，最多两名；本人后续普通命中消耗该目标的标记，追加50点基础伤害。技能、持续伤害和追加伤害不兑现。每8秒最多结算一次。 基础收益：伤害 50。</RHA_STAR_Relic_REF_NightHarvester.nodes.6.description>
+  <RHA_STAR_Relic_REF_DemonicEmbrace.nodes.0.label>恶魔之拥传承</RHA_STAR_Relic_REF_DemonicEmbrace.nodes.0.label>
+  <RHA_STAR_Relic_REF_DemonicEmbrace.nodes.0.description>沿用恶魔之拥的原有效果与已选觉醒。</RHA_STAR_Relic_REF_DemonicEmbrace.nodes.0.description>
+  <RHA_STAR_Relic_REF_DemonicEmbrace.nodes.1.label>伤血怒击</RHA_STAR_Relic_REF_DemonicEmbrace.nodes.1.label>
+  <RHA_STAR_Relic_REF_DemonicEmbrace.nodes.1.description>本人总体健康不高于65%时的普通命中在5秒内实际伤及同一敌人3次，追加75点基础伤害，冷却8秒。非合格事件不计数，准备随穿戴者分开保存。 基础收益：伤害 75。</RHA_STAR_Relic_REF_DemonicEmbrace.nodes.1.description>
+  <RHA_STAR_Relic_REF_DemonicEmbrace.nodes.2.label>积伤还击</RHA_STAR_Relic_REF_DemonicEmbrace.nodes.2.label>
+  <RHA_STAR_Relic_REF_DemonicEmbrace.nodes.2.description>本人实际承受敌方普通攻击伤害时，按实际量的10%存入私有储备，上限4点，8秒内没有新的存入便失效。本人总体健康不高于65%时的后续普通命中消耗4点，获得75点基础追加伤害，冷却8秒；本次存入不能立即消费。 基础收益：伤害 75。</RHA_STAR_Relic_REF_DemonicEmbrace.nodes.2.description>
+  <RHA_STAR_Relic_REF_DemonicEmbrace.nodes.3.label>怒血回流</RHA_STAR_Relic_REF_DemonicEmbrace.nodes.3.label>
+  <RHA_STAR_Relic_REF_DemonicEmbrace.nodes.3.description>“伤血怒击”实际造成追加伤害后，治疗本人20点基础可恢复伤势。不恢复缺失部位或永久伤疤。每8秒最多结算一次。 基础收益：治疗 20。</RHA_STAR_Relic_REF_DemonicEmbrace.nodes.3.description>
+  <RHA_STAR_Relic_REF_DemonicEmbrace.nodes.4.label>恶火残响</RHA_STAR_Relic_REF_DemonicEmbrace.nodes.4.label>
+  <RHA_STAR_Relic_REF_DemonicEmbrace.nodes.4.description>“伤血怒击”实际造成追加伤害后，在原受击点留下1.5秒后爆发的余波，伤及3格内视线畅通的至多两名敌人，各50点基础伤害。敌人可通过离开爆心躲开。每8秒最多结算一次。 基础收益：伤害 50。</RHA_STAR_Relic_REF_DemonicEmbrace.nodes.4.description>
+  <RHA_STAR_Relic_REF_DemonicEmbrace.nodes.5.label>伤血同盟</RHA_STAR_Relic_REF_DemonicEmbrace.nodes.5.label>
+  <RHA_STAR_Relic_REF_DemonicEmbrace.nodes.5.description>“积伤还击”实际造成追加伤害后，给4格内视线畅通的最近一名其他殖民者提供50点独立护盾，持续3秒。没有队友时不转给本人。每8秒最多结算一次。 基础收益：护盾 50。</RHA_STAR_Relic_REF_DemonicEmbrace.nodes.5.description>
+  <RHA_STAR_Relic_REF_DemonicEmbrace.nodes.6.label>积怨飞溅</RHA_STAR_Relic_REF_DemonicEmbrace.nodes.6.label>
+  <RHA_STAR_Relic_REF_DemonicEmbrace.nodes.6.description>“积伤还击”实际造成追加伤害后，对受击点4格内视线畅通的另一名敌人追加25点基础伤害。没有其他敌人时不重复打击原目标。每8秒最多结算一次。 基础收益：伤害 25。</RHA_STAR_Relic_REF_DemonicEmbrace.nodes.6.description>
+  <RHA_STAR_Relic_REF_ShatteredQueen.nodes.0.label>破碎王后之冕传承</RHA_STAR_Relic_REF_ShatteredQueen.nodes.0.label>
+  <RHA_STAR_Relic_REF_ShatteredQueen.nodes.0.description>沿用破碎王后之冕的原有效果与已选觉醒。</RHA_STAR_Relic_REF_ShatteredQueen.nodes.0.description>
+  <RHA_STAR_Relic_REF_ShatteredQueen.nodes.1.label>碎冠还锋</RHA_STAR_Relic_REF_ShatteredQueen.nodes.1.label>
+  <RHA_STAR_Relic_REF_ShatteredQueen.nodes.1.description>实际承受敌方普通攻击伤害，且原王后减伤窗口仍有效，留下5秒破口，最多一名目标，生成冷却6秒。本人后续普通命中消耗破口，追加75点基础伤害。同次事件不能立即消耗新破口。 基础收益：伤害 75。</RHA_STAR_Relic_REF_ShatteredQueen.nodes.1.description>
+  <RHA_STAR_Relic_REF_ShatteredQueen.nodes.2.label>王后余幕</RHA_STAR_Relic_REF_ShatteredQueen.nodes.2.label>
+  <RHA_STAR_Relic_REF_ShatteredQueen.nodes.2.description>实际承受敌方普通攻击伤害，且原王后减伤窗口仍有效，6秒内累计1次，给本人提供75点独立护盾，持续4秒，冷却8秒。原效果一次惠及多人时分别计数。更强的本节点护盾只刷新时间，不重复计算护盾增量。 基础收益：护盾 75。</RHA_STAR_Relic_REF_ShatteredQueen.nodes.2.description>
+  <RHA_STAR_Relic_REF_ShatteredQueen.nodes.3.label>碎冠散刃</RHA_STAR_Relic_REF_ShatteredQueen.nodes.3.label>
+  <RHA_STAR_Relic_REF_ShatteredQueen.nodes.3.description>“碎冠还锋”实际造成追加伤害后，对受击点4格内视线畅通的另一名敌人追加25点基础伤害。没有其他敌人时不重复打击原目标。每8秒最多结算一次。 基础收益：伤害 25。</RHA_STAR_Relic_REF_ShatteredQueen.nodes.3.description>
+  <RHA_STAR_Relic_REF_ShatteredQueen.nodes.4.label>王庭援手</RHA_STAR_Relic_REF_ShatteredQueen.nodes.4.label>
+  <RHA_STAR_Relic_REF_ShatteredQueen.nodes.4.description>“碎冠还锋”实际造成追加伤害后，治疗4格内视线畅通、伤势最重的另一名殖民者40点基础普通伤势。没有合适伤者时不转给本人。不恢复缺失部位或永久伤疤。每8秒最多结算一次。 基础收益：治疗 40。</RHA_STAR_Relic_REF_ShatteredQueen.nodes.4.description>
+  <RHA_STAR_Relic_REF_ShatteredQueen.nodes.5.label>余幕相护</RHA_STAR_Relic_REF_ShatteredQueen.nodes.5.label>
+  <RHA_STAR_Relic_REF_ShatteredQueen.nodes.5.description>“王后余幕”实际增加护盾后，治疗4格内视线畅通、伤势最重的另一名殖民者40点基础普通伤势。没有合适伤者时不转给本人。不恢复缺失部位或永久伤疤。每8秒最多结算一次。 基础收益：治疗 40。</RHA_STAR_Relic_REF_ShatteredQueen.nodes.5.description>
+  <RHA_STAR_Relic_REF_ShatteredQueen.nodes.6.label>余幕还击</RHA_STAR_Relic_REF_ShatteredQueen.nodes.6.label>
+  <RHA_STAR_Relic_REF_ShatteredQueen.nodes.6.description>“王后余幕”实际增加护盾后，将本次实际增量的50%存入独立储备，上限2点，15秒未补充便失效。本人后续普通命中消耗2点追加75点基础伤害。本次新存入的量不能立即消费；此前攒够的储备仍可使用。每8秒最多结算一次。 基础收益：伤害 75。</RHA_STAR_Relic_REF_ShatteredQueen.nodes.6.description>
+  <RHA_STAR_Relic_REF_DivineSunderer.nodes.0.label>神圣分离者传承</RHA_STAR_Relic_REF_DivineSunderer.nodes.0.label>
+  <RHA_STAR_Relic_REF_DivineSunderer.nodes.0.description>沿用神圣分离者的原有效果与已选觉醒。</RHA_STAR_Relic_REF_DivineSunderer.nodes.0.description>
+  <RHA_STAR_Relic_REF_DivineSunderer.nodes.1.label>分离追斩</RHA_STAR_Relic_REF_DivineSunderer.nodes.1.label>
+  <RHA_STAR_Relic_REF_DivineSunderer.nodes.1.description>本件遗物的原有效果实际伤敌，留下5秒破口，最多一名目标，生成冷却6秒。本人后续普通命中消耗破口，追加75点基础伤害。同次事件不能立即消耗新破口。 基础收益：伤害 75。</RHA_STAR_Relic_REF_DivineSunderer.nodes.1.description>
+  <RHA_STAR_Relic_REF_DivineSunderer.nodes.2.label>分离回存</RHA_STAR_Relic_REF_DivineSunderer.nodes.2.label>
+  <RHA_STAR_Relic_REF_DivineSunderer.nodes.2.description>本件遗物原分离治疗实际恢复伤势时，按实际量的10%存入私有储备，上限2点，8秒内没有新的存入便失效。本人总体健康不高于65%时的后续普通命中消耗2点，获得75点独立护盾，持续4秒，冷却8秒；本次存入不能立即消费。 基础收益：护盾 75。</RHA_STAR_Relic_REF_DivineSunderer.nodes.2.description>
+  <RHA_STAR_Relic_REF_DivineSunderer.nodes.3.label>断面溅锋</RHA_STAR_Relic_REF_DivineSunderer.nodes.3.label>
+  <RHA_STAR_Relic_REF_DivineSunderer.nodes.3.description>“分离追斩”实际造成追加伤害后，对受击点4格内视线畅通的另一名敌人追加25点基础伤害。没有其他敌人时不重复打击原目标。每8秒最多结算一次。 基础收益：伤害 25。</RHA_STAR_Relic_REF_DivineSunderer.nodes.3.description>
+  <RHA_STAR_Relic_REF_DivineSunderer.nodes.4.label>断后回生</RHA_STAR_Relic_REF_DivineSunderer.nodes.4.label>
+  <RHA_STAR_Relic_REF_DivineSunderer.nodes.4.description>“分离追斩”实际造成追加伤害后，治疗本人20点基础可恢复伤势。不恢复缺失部位或永久伤疤。每8秒最多结算一次。 基础收益：治疗 20。</RHA_STAR_Relic_REF_DivineSunderer.nodes.4.description>
+  <RHA_STAR_Relic_REF_DivineSunderer.nodes.5.label>回存济友</RHA_STAR_Relic_REF_DivineSunderer.nodes.5.label>
+  <RHA_STAR_Relic_REF_DivineSunderer.nodes.5.description>“分离回存”实际增加护盾后，治疗4格内视线畅通、伤势最重的另一名殖民者40点基础普通伤势。没有合适伤者时不转给本人。不恢复缺失部位或永久伤疤。每8秒最多结算一次。 基础收益：治疗 40。</RHA_STAR_Relic_REF_DivineSunderer.nodes.5.description>
+  <RHA_STAR_Relic_REF_DivineSunderer.nodes.6.label>回存复击</RHA_STAR_Relic_REF_DivineSunderer.nodes.6.label>
+  <RHA_STAR_Relic_REF_DivineSunderer.nodes.6.description>“分离回存”实际增加护盾后，将本次实际增量的50%存入独立储备，上限2点，15秒未补充便失效。本人后续普通命中消耗2点追加75点基础伤害。本次新存入的量不能立即消费；此前攒够的储备仍可使用。每8秒最多结算一次。 基础收益：伤害 75。</RHA_STAR_Relic_REF_DivineSunderer.nodes.6.description>
+  <RHA_STAR_Relic_REF_Everfrost.nodes.0.label>永霜传承</RHA_STAR_Relic_REF_Everfrost.nodes.0.label>
+  <RHA_STAR_Relic_REF_Everfrost.nodes.0.description>沿用永霜的原有效果与已选觉醒。</RHA_STAR_Relic_REF_Everfrost.nodes.0.description>
+  <RHA_STAR_Relic_REF_Everfrost.nodes.1.label>冰缝追击</RHA_STAR_Relic_REF_Everfrost.nodes.1.label>
+  <RHA_STAR_Relic_REF_Everfrost.nodes.1.description>本件遗物的原有效果实际伤敌，且敌人仍被眩晕，留下5秒破口，最多一名目标，生成冷却6秒。本人后续普通命中消耗破口，追加75点基础伤害。同次事件不能立即消耗新破口。 基础收益：伤害 75。</RHA_STAR_Relic_REF_Everfrost.nodes.1.description>
+  <RHA_STAR_Relic_REF_Everfrost.nodes.2.label>霜面结蓄</RHA_STAR_Relic_REF_Everfrost.nodes.2.label>
+  <RHA_STAR_Relic_REF_Everfrost.nodes.2.description>本件永霜锥实际伤敌时，每次存入1点私有储备，上限2点，8秒内没有新的存入便失效。本人后续普通命中消耗2点，获得75点独立护盾，持续4秒，冷却8秒；本次存入不能立即消费。 基础收益：护盾 75。</RHA_STAR_Relic_REF_Everfrost.nodes.2.description>
+  <RHA_STAR_Relic_REF_Everfrost.nodes.3.label>迟来的冰裂</RHA_STAR_Relic_REF_Everfrost.nodes.3.label>
+  <RHA_STAR_Relic_REF_Everfrost.nodes.3.description>“冰缝追击”实际造成追加伤害后，在原受击点留下1.5秒后爆发的余波，伤及3格内视线畅通的至多两名敌人，各50点基础伤害。敌人可通过离开爆心躲开。每8秒最多结算一次。 基础收益：伤害 50。</RHA_STAR_Relic_REF_Everfrost.nodes.3.description>
+  <RHA_STAR_Relic_REF_Everfrost.nodes.4.label>冰隙援护</RHA_STAR_Relic_REF_Everfrost.nodes.4.label>
+  <RHA_STAR_Relic_REF_Everfrost.nodes.4.description>“冰缝追击”实际造成追加伤害后，治疗4格内视线畅通、伤势最重的另一名殖民者40点基础普通伤势。没有合适伤者时不转给本人。不恢复缺失部位或永久伤疤。每8秒最多结算一次。 基础收益：治疗 40。</RHA_STAR_Relic_REF_Everfrost.nodes.4.description>
+  <RHA_STAR_Relic_REF_Everfrost.nodes.5.label>霜蓄相济</RHA_STAR_Relic_REF_Everfrost.nodes.5.label>
+  <RHA_STAR_Relic_REF_Everfrost.nodes.5.description>“霜面结蓄”实际增加护盾后，治疗4格内视线畅通、伤势最重的另一名殖民者40点基础普通伤势。没有合适伤者时不转给本人。不恢复缺失部位或永久伤疤。每8秒最多结算一次。 基础收益：治疗 40。</RHA_STAR_Relic_REF_Everfrost.nodes.5.description>
+  <RHA_STAR_Relic_REF_Everfrost.nodes.6.label>霜盾返锋</RHA_STAR_Relic_REF_Everfrost.nodes.6.label>
+  <RHA_STAR_Relic_REF_Everfrost.nodes.6.description>“霜面结蓄”实际增加护盾后，将本次实际增量的50%存入独立储备，上限2点，45秒未补充便失效。本人后续普通命中消耗2点追加75点基础伤害。本次新存入的量不能立即消费；此前攒够的储备仍可使用。每8秒最多结算一次。 基础收益：伤害 75。</RHA_STAR_Relic_REF_Everfrost.nodes.6.description>
+  <RHA_STAR_Relic_REF_RadiantVirtue.nodes.0.label>辉耀美德传承</RHA_STAR_Relic_REF_RadiantVirtue.nodes.0.label>
+  <RHA_STAR_Relic_REF_RadiantVirtue.nodes.0.description>沿用辉耀美德的原有效果与已选觉醒。</RHA_STAR_Relic_REF_RadiantVirtue.nodes.0.description>
+  <RHA_STAR_Relic_REF_RadiantVirtue.nodes.1.label>辉耀护持</RHA_STAR_Relic_REF_RadiantVirtue.nodes.1.label>
+  <RHA_STAR_Relic_REF_RadiantVirtue.nodes.1.description>本件辉耀群疗实际恢复伤势，6秒内累计3次，给本人4格内视线畅通的最近一名其他殖民者提供75点独立护盾，持续4秒，冷却8秒。原效果一次惠及多人时分别计数。更强的本节点护盾只刷新时间，不重复计算护盾增量。 基础收益：护盾 75。</RHA_STAR_Relic_REF_RadiantVirtue.nodes.1.description>
+  <RHA_STAR_Relic_REF_RadiantVirtue.nodes.2.label>辉耀誓锋</RHA_STAR_Relic_REF_RadiantVirtue.nodes.2.label>
+  <RHA_STAR_Relic_REF_RadiantVirtue.nodes.2.description>本件辉耀群疗实际恢复伤势时，按实际量的10%存入私有储备，上限2点，8秒内没有新的存入便失效。本人后续普通命中消耗2点，获得75点基础追加伤害，冷却8秒；本次存入不能立即消费。 基础收益：伤害 75。</RHA_STAR_Relic_REF_RadiantVirtue.nodes.2.description>
+  <RHA_STAR_Relic_REF_RadiantVirtue.nodes.3.label>余光归身</RHA_STAR_Relic_REF_RadiantVirtue.nodes.3.label>
+  <RHA_STAR_Relic_REF_RadiantVirtue.nodes.3.description>“辉耀护持”实际增加护盾后，治疗本人20点基础可恢复伤势。不恢复缺失部位或永久伤疤。每8秒最多结算一次。 基础收益：治疗 20。</RHA_STAR_Relic_REF_RadiantVirtue.nodes.3.description>
+  <RHA_STAR_Relic_REF_RadiantVirtue.nodes.4.label>辉盾还锋</RHA_STAR_Relic_REF_RadiantVirtue.nodes.4.label>
+  <RHA_STAR_Relic_REF_RadiantVirtue.nodes.4.description>“辉耀护持”实际增加护盾后，将本次实际增量的50%存入独立储备，上限2点，15秒未补充便失效。本人后续普通命中消耗2点追加75点基础伤害。本次新存入的量不能立即消费；此前攒够的储备仍可使用。每8秒最多结算一次。 基础收益：伤害 75。</RHA_STAR_Relic_REF_RadiantVirtue.nodes.4.description>
+  <RHA_STAR_Relic_REF_RadiantVirtue.nodes.5.label>誓锋庇友</RHA_STAR_Relic_REF_RadiantVirtue.nodes.5.label>
+  <RHA_STAR_Relic_REF_RadiantVirtue.nodes.5.description>“辉耀誓锋”实际造成追加伤害后，给4格内视线畅通的最近一名其他殖民者提供50点独立护盾，持续3秒。没有队友时不转给本人。每8秒最多结算一次。 基础收益：护盾 50。</RHA_STAR_Relic_REF_RadiantVirtue.nodes.5.description>
+  <RHA_STAR_Relic_REF_RadiantVirtue.nodes.6.label>誓后慰伤</RHA_STAR_Relic_REF_RadiantVirtue.nodes.6.label>
+  <RHA_STAR_Relic_REF_RadiantVirtue.nodes.6.description>“辉耀誓锋”实际造成追加伤害后，治疗4格内视线畅通、伤势最重的另一名殖民者40点基础普通伤势。没有合适伤者时不转给本人。不恢复缺失部位或永久伤疤。每8秒最多结算一次。 基础收益：治疗 40。</RHA_STAR_Relic_REF_RadiantVirtue.nodes.6.description>
+  <RHA_STAR_Relic_REF_Empyrean.nodes.0.label>至高天诺言传承</RHA_STAR_Relic_REF_Empyrean.nodes.0.label>
+  <RHA_STAR_Relic_REF_Empyrean.nodes.0.description>沿用至高天诺言的原有效果与已选觉醒。</RHA_STAR_Relic_REF_Empyrean.nodes.0.description>
+  <RHA_STAR_Relic_REF_Empyrean.nodes.1.label>援落余盾</RHA_STAR_Relic_REF_Empyrean.nodes.1.label>
+  <RHA_STAR_Relic_REF_Empyrean.nodes.1.description>本件至高天诺言成功传送，6秒内累计1次，给本人提供75点独立护盾，持续4秒，冷却8秒。原效果一次惠及多人时分别计数。更强的本节点护盾只刷新时间，不重复计算护盾增量。 基础收益：护盾 75。</RHA_STAR_Relic_REF_Empyrean.nodes.1.description>
+  <RHA_STAR_Relic_REF_Empyrean.nodes.2.label>诺言待锋</RHA_STAR_Relic_REF_Empyrean.nodes.2.label>
+  <RHA_STAR_Relic_REF_Empyrean.nodes.2.description>本件至高天诺言成功传送时，每次存入2点私有储备，上限2点，8秒内没有新的存入便失效。本人后续普通命中消耗2点，获得75点基础追加伤害，冷却8秒；本次存入不能立即消费。 基础收益：伤害 75。</RHA_STAR_Relic_REF_Empyrean.nodes.2.description>
+  <RHA_STAR_Relic_REF_Empyrean.nodes.3.label>落点急救</RHA_STAR_Relic_REF_Empyrean.nodes.3.label>
+  <RHA_STAR_Relic_REF_Empyrean.nodes.3.description>“援落余盾”实际增加护盾后，治疗4格内视线畅通、伤势最重的另一名殖民者40点基础普通伤势。没有合适伤者时不转给本人。不恢复缺失部位或永久伤疤。每8秒最多结算一次。 基础收益：治疗 40。</RHA_STAR_Relic_REF_Empyrean.nodes.3.description>
+  <RHA_STAR_Relic_REF_Empyrean.nodes.4.label>援落反扑</RHA_STAR_Relic_REF_Empyrean.nodes.4.label>
+  <RHA_STAR_Relic_REF_Empyrean.nodes.4.description>“援落余盾”实际增加护盾后，将本次实际增量的50%存入独立储备，上限2点，45秒未补充便失效。本人后续普通命中消耗2点追加75点基础伤害。本次新存入的量不能立即消费；此前攒够的储备仍可使用。每8秒最多结算一次。 基础收益：伤害 75。</RHA_STAR_Relic_REF_Empyrean.nodes.4.description>
+  <RHA_STAR_Relic_REF_Empyrean.nodes.5.label>诺刃分锋</RHA_STAR_Relic_REF_Empyrean.nodes.5.label>
+  <RHA_STAR_Relic_REF_Empyrean.nodes.5.description>“诺言待锋”实际造成追加伤害后，对受击点4格内视线畅通的另一名敌人追加25点基础伤害。没有其他敌人时不重复打击原目标。每8秒最多结算一次。 基础收益：伤害 25。</RHA_STAR_Relic_REF_Empyrean.nodes.5.description>
+  <RHA_STAR_Relic_REF_Empyrean.nodes.6.label>诺刃掩护</RHA_STAR_Relic_REF_Empyrean.nodes.6.label>
+  <RHA_STAR_Relic_REF_Empyrean.nodes.6.description>“诺言待锋”实际造成追加伤害后，给4格内视线畅通的最近一名其他殖民者提供50点独立护盾，持续3秒。没有队友时不转给本人。每8秒最多结算一次。 基础收益：护盾 50。</RHA_STAR_Relic_REF_Empyrean.nodes.6.description>
+  <RHA_STAR_Relic_REF_Cruelty.nodes.0.label>残忍传承</RHA_STAR_Relic_REF_Cruelty.nodes.0.label>
+  <RHA_STAR_Relic_REF_Cruelty.nodes.0.description>沿用残忍的原有效果与已选觉醒。</RHA_STAR_Relic_REF_Cruelty.nodes.0.description>
+  <RHA_STAR_Relic_REF_Cruelty.nodes.1.label>残忍追刑</RHA_STAR_Relic_REF_Cruelty.nodes.1.label>
+  <RHA_STAR_Relic_REF_Cruelty.nodes.1.description>本件遗物的原有效果实际伤敌，留下5秒破口，最多一名目标，生成冷却6秒。本人后续普通命中消耗破口，追加75点基础伤害。同次事件不能立即消耗新破口。 基础收益：伤害 75。</RHA_STAR_Relic_REF_Cruelty.nodes.1.description>
+  <RHA_STAR_Relic_REF_Cruelty.nodes.2.label>刑痕扩散</RHA_STAR_Relic_REF_Cruelty.nodes.2.label>
+  <RHA_STAR_Relic_REF_Cruelty.nodes.2.description>本件遗物原效果实际伤敌，6秒内累计3次命中目标，从最后受击点向3格内视线畅通的另外至多3名敌人各追加25点基础伤害，冷却8秒。原受击者不重复受击；同一轮原效果打中多人可以共同计数。 基础收益：伤害 25。</RHA_STAR_Relic_REF_Cruelty.nodes.2.description>
+  <RHA_STAR_Relic_REF_Cruelty.nodes.3.label>迟发刑波</RHA_STAR_Relic_REF_Cruelty.nodes.3.label>
+  <RHA_STAR_Relic_REF_Cruelty.nodes.3.description>“残忍追刑”实际造成追加伤害后，在原受击点留下1.5秒后爆发的余波，伤及3格内视线畅通的至多两名敌人，各50点基础伤害。敌人可通过离开爆心躲开。每8秒最多结算一次。 基础收益：伤害 50。</RHA_STAR_Relic_REF_Cruelty.nodes.3.description>
+  <RHA_STAR_Relic_REF_Cruelty.nodes.4.label>刑后护身</RHA_STAR_Relic_REF_Cruelty.nodes.4.label>
+  <RHA_STAR_Relic_REF_Cruelty.nodes.4.description>“残忍追刑”实际造成追加伤害后，为本人增加75点独立护盾，持续3秒。每8秒最多结算一次。 基础收益：护盾 75。</RHA_STAR_Relic_REF_Cruelty.nodes.4.description>
+  <RHA_STAR_Relic_REF_Cruelty.nodes.5.label>刑痕留账</RHA_STAR_Relic_REF_Cruelty.nodes.5.label>
+  <RHA_STAR_Relic_REF_Cruelty.nodes.5.description>“刑痕扩散”实际造成追加伤害后，为实际伤及的敌人留下5秒追债标记，最多两名；本人后续普通命中消耗该目标的标记，追加50点基础伤害。技能、持续伤害和追加伤害不兑现。每8秒最多结算一次。 基础收益：伤害 50。</RHA_STAR_Relic_REF_Cruelty.nodes.5.description>
+  <RHA_STAR_Relic_REF_Cruelty.nodes.6.label>余刑相救</RHA_STAR_Relic_REF_Cruelty.nodes.6.label>
+  <RHA_STAR_Relic_REF_Cruelty.nodes.6.description>“刑痕扩散”实际造成追加伤害后，治疗4格内视线畅通、伤势最重的另一名殖民者40点基础普通伤势。没有合适伤者时不转给本人。不恢复缺失部位或永久伤疤。每8秒最多结算一次。 基础收益：治疗 40。</RHA_STAR_Relic_REF_Cruelty.nodes.6.description>
+  <RHA_STAR_Relic_REF_Moonflair.nodes.0.label>月华咒刃传承</RHA_STAR_Relic_REF_Moonflair.nodes.0.label>
+  <RHA_STAR_Relic_REF_Moonflair.nodes.0.description>沿用月华咒刃的原有效果与已选觉醒。</RHA_STAR_Relic_REF_Moonflair.nodes.0.description>
+  <RHA_STAR_Relic_REF_Moonflair.nodes.1.label>月华连刃</RHA_STAR_Relic_REF_Moonflair.nodes.1.label>
+  <RHA_STAR_Relic_REF_Moonflair.nodes.1.description>本人普通命中，且原月华急速仍有效在5秒内实际伤及同一敌人3次，追加75点基础伤害，冷却8秒。非合格事件不计数，准备随穿戴者分开保存。 基础收益：伤害 75。</RHA_STAR_Relic_REF_Moonflair.nodes.1.description>
+  <RHA_STAR_Relic_REF_Moonflair.nodes.2.label>踏月换锋</RHA_STAR_Relic_REF_Moonflair.nodes.2.label>
+  <RHA_STAR_Relic_REF_Moonflair.nodes.2.description>本人普通攻击实际伤敌，6秒内累计2次，相邻目标必须不同，且原月华急速仍有效，留下5秒破口，最多一名目标，生成冷却6秒。本人后续普通命中消耗破口，追加75点基础伤害。同次事件不能立即消耗新破口。 基础收益：伤害 75。</RHA_STAR_Relic_REF_Moonflair.nodes.2.description>
+  <RHA_STAR_Relic_REF_Moonflair.nodes.3.label>月轮折刃</RHA_STAR_Relic_REF_Moonflair.nodes.3.label>
+  <RHA_STAR_Relic_REF_Moonflair.nodes.3.description>“月华连刃”实际造成追加伤害后，对受击点4格内视线畅通的另一名敌人追加25点基础伤害。没有其他敌人时不重复打击原目标。每8秒最多结算一次。 基础收益：伤害 25。</RHA_STAR_Relic_REF_Moonflair.nodes.3.description>
+  <RHA_STAR_Relic_REF_Moonflair.nodes.4.label>月息回护</RHA_STAR_Relic_REF_Moonflair.nodes.4.label>
+  <RHA_STAR_Relic_REF_Moonflair.nodes.4.description>“月华连刃”实际造成追加伤害后，治疗本人20点基础可恢复伤势。不恢复缺失部位或永久伤疤。每8秒最多结算一次。 基础收益：治疗 20。</RHA_STAR_Relic_REF_Moonflair.nodes.4.description>
+  <RHA_STAR_Relic_REF_Moonflair.nodes.5.label>错步月痕</RHA_STAR_Relic_REF_Moonflair.nodes.5.label>
+  <RHA_STAR_Relic_REF_Moonflair.nodes.5.description>“踏月换锋”实际造成追加伤害后，在原受击点留下1.5秒后爆发的余波，伤及3格内视线畅通的至多两名敌人，各50点基础伤害。敌人可通过离开爆心躲开。每8秒最多结算一次。 基础收益：伤害 50。</RHA_STAR_Relic_REF_Moonflair.nodes.5.description>
+  <RHA_STAR_Relic_REF_Moonflair.nodes.6.label>月下掩护</RHA_STAR_Relic_REF_Moonflair.nodes.6.label>
+  <RHA_STAR_Relic_REF_Moonflair.nodes.6.description>“踏月换锋”实际造成追加伤害后，给4格内视线畅通的最近一名其他殖民者提供50点独立护盾，持续3秒。没有队友时不转给本人。每8秒最多结算一次。 基础收益：护盾 50。</RHA_STAR_Relic_REF_Moonflair.nodes.6.description>
+  <RHA_STAR_Relic_REF_Overlord.nodes.0.label>霸王血铠传承</RHA_STAR_Relic_REF_Overlord.nodes.0.label>
+  <RHA_STAR_Relic_REF_Overlord.nodes.0.description>沿用霸王血铠的原有效果与已选觉醒。</RHA_STAR_Relic_REF_Overlord.nodes.0.description>
+  <RHA_STAR_Relic_REF_Overlord.nodes.1.label>负伤压阵</RHA_STAR_Relic_REF_Overlord.nodes.1.label>
+  <RHA_STAR_Relic_REF_Overlord.nodes.1.description>本人总体健康不高于65%时的普通命中在5秒内实际伤及同一敌人2次，追加50点基础伤害，冷却8秒。非合格事件不计数，准备随穿戴者分开保存。 基础收益：伤害 50。</RHA_STAR_Relic_REF_Overlord.nodes.1.description>
+  <RHA_STAR_Relic_REF_Overlord.nodes.2.label>血铠蓄压</RHA_STAR_Relic_REF_Overlord.nodes.2.label>
+  <RHA_STAR_Relic_REF_Overlord.nodes.2.description>本人实际承受敌方普通攻击伤害时，按实际量的8%存入私有储备，上限3点，8秒内没有新的存入便失效。本人后续普通命中消耗3点，获得75点独立护盾，持续4秒，冷却8秒；本次存入不能立即消费。 基础收益：护盾 75。</RHA_STAR_Relic_REF_Overlord.nodes.2.description>
+  <RHA_STAR_Relic_REF_Overlord.nodes.3.label>压阵余盾</RHA_STAR_Relic_REF_Overlord.nodes.3.label>
+  <RHA_STAR_Relic_REF_Overlord.nodes.3.description>“负伤压阵”实际造成追加伤害后，为本人增加75点独立护盾，持续3秒。每8秒最多结算一次。 基础收益：护盾 75。</RHA_STAR_Relic_REF_Overlord.nodes.3.description>
+  <RHA_STAR_Relic_REF_Overlord.nodes.4.label>阵前相济</RHA_STAR_Relic_REF_Overlord.nodes.4.label>
+  <RHA_STAR_Relic_REF_Overlord.nodes.4.description>“负伤压阵”实际造成追加伤害后，治疗4格内视线畅通、伤势最重的另一名殖民者40点基础普通伤势。没有合适伤者时不转给本人。不恢复缺失部位或永久伤疤。每8秒最多结算一次。 基础收益：治疗 40。</RHA_STAR_Relic_REF_Overlord.nodes.4.description>
+  <RHA_STAR_Relic_REF_Overlord.nodes.5.label>血铠回息</RHA_STAR_Relic_REF_Overlord.nodes.5.label>
+  <RHA_STAR_Relic_REF_Overlord.nodes.5.description>“血铠蓄压”实际增加护盾后，治疗本人20点基础可恢复伤势。不恢复缺失部位或永久伤疤。每8秒最多结算一次。 基础收益：治疗 20。</RHA_STAR_Relic_REF_Overlord.nodes.5.description>
+  <RHA_STAR_Relic_REF_Overlord.nodes.6.label>卸压反击</RHA_STAR_Relic_REF_Overlord.nodes.6.label>
+  <RHA_STAR_Relic_REF_Overlord.nodes.6.description>“血铠蓄压”实际增加护盾后，将本次实际增量的50%存入独立储备，上限2点，15秒未补充便失效。本人后续普通命中消耗2点追加75点基础伤害。本次新存入的量不能立即消费；此前攒够的储备仍可使用。每8秒最多结算一次。 基础收益：伤害 75。</RHA_STAR_Relic_REF_Overlord.nodes.6.description>
+  <RHA_STAR_Relic_REF_Flesheater.nodes.0.label>食肉斧剑传承</RHA_STAR_Relic_REF_Flesheater.nodes.0.label>
+  <RHA_STAR_Relic_REF_Flesheater.nodes.0.description>沿用食肉斧剑的原有效果与已选觉醒。</RHA_STAR_Relic_REF_Flesheater.nodes.0.description>
+  <RHA_STAR_Relic_REF_Flesheater.nodes.1.label>咬痕深割</RHA_STAR_Relic_REF_Flesheater.nodes.1.label>
+  <RHA_STAR_Relic_REF_Flesheater.nodes.1.description>本人普通命中，且敌人仍有有效易伤在5秒内实际伤及同一敌人3次，追加75点基础伤害，冷却8秒。非合格事件不计数，准备随穿戴者分开保存。 基础收益：伤害 75。</RHA_STAR_Relic_REF_Flesheater.nodes.1.description>
+  <RHA_STAR_Relic_REF_Flesheater.nodes.2.label>换食分锋</RHA_STAR_Relic_REF_Flesheater.nodes.2.label>
+  <RHA_STAR_Relic_REF_Flesheater.nodes.2.description>本人普通攻击实际伤敌，且敌人仍有有效易伤，6秒内累计2次命中相邻不同目标，从最后受击点向3格内视线畅通的另外至多2名敌人各追加50点基础伤害，冷却8秒。原受击者不重复受击；同一轮原效果打中多人可以共同计数。 基础收益：伤害 50。</RHA_STAR_Relic_REF_Flesheater.nodes.2.description>
+  <RHA_STAR_Relic_REF_Flesheater.nodes.3.label>食痕回补</RHA_STAR_Relic_REF_Flesheater.nodes.3.label>
+  <RHA_STAR_Relic_REF_Flesheater.nodes.3.description>“咬痕深割”实际造成追加伤害后，治疗本人20点基础可恢复伤势。不恢复缺失部位或永久伤疤。每8秒最多结算一次。 基础收益：治疗 20。</RHA_STAR_Relic_REF_Flesheater.nodes.3.description>
+  <RHA_STAR_Relic_REF_Flesheater.nodes.4.label>深割留痕</RHA_STAR_Relic_REF_Flesheater.nodes.4.label>
+  <RHA_STAR_Relic_REF_Flesheater.nodes.4.description>“咬痕深割”实际造成追加伤害后，为实际伤及的敌人留下5秒追债标记，最多两名；本人后续普通命中消耗该目标的标记，追加50点基础伤害。技能、持续伤害和追加伤害不兑现。每8秒最多结算一次。 基础收益：伤害 50。</RHA_STAR_Relic_REF_Flesheater.nodes.4.description>
+  <RHA_STAR_Relic_REF_Flesheater.nodes.5.label>残食余爆</RHA_STAR_Relic_REF_Flesheater.nodes.5.label>
+  <RHA_STAR_Relic_REF_Flesheater.nodes.5.description>“换食分锋”实际造成追加伤害后，在原受击点留下1.5秒后爆发的余波，伤及3格内视线畅通的至多两名敌人，各50点基础伤害。敌人可通过离开爆心躲开。每8秒最多结算一次。 基础收益：伤害 50。</RHA_STAR_Relic_REF_Flesheater.nodes.5.description>
+  <RHA_STAR_Relic_REF_Flesheater.nodes.6.label>猎群掩护</RHA_STAR_Relic_REF_Flesheater.nodes.6.label>
+  <RHA_STAR_Relic_REF_Flesheater.nodes.6.description>“换食分锋”实际造成追加伤害后，给4格内视线畅通的最近一名其他殖民者提供50点独立护盾，持续3秒。没有队友时不转给本人。每8秒最多结算一次。 基础收益：护盾 50。</RHA_STAR_Relic_REF_Flesheater.nodes.6.description>
+  <RHA_STAR_Relic_REF_LightningRod.nodes.0.label>闪电杖传承</RHA_STAR_Relic_REF_LightningRod.nodes.0.label>
+  <RHA_STAR_Relic_REF_LightningRod.nodes.0.description>沿用闪电杖的原有效果与已选觉醒。</RHA_STAR_Relic_REF_LightningRod.nodes.0.description>
+  <RHA_STAR_Relic_REF_LightningRod.nodes.1.label>电痕引斩</RHA_STAR_Relic_REF_LightningRod.nodes.1.label>
+  <RHA_STAR_Relic_REF_LightningRod.nodes.1.description>本件遗物的原有效果实际伤敌，留下5秒破口，最多一名目标，生成冷却6秒。本人后续普通命中消耗破口，追加75点基础伤害。同次事件不能立即消耗新破口。 基础收益：伤害 75。</RHA_STAR_Relic_REF_LightningRod.nodes.1.description>
+  <RHA_STAR_Relic_REF_LightningRod.nodes.2.label>雷杖结蓄</RHA_STAR_Relic_REF_LightningRod.nodes.2.label>
+  <RHA_STAR_Relic_REF_LightningRod.nodes.2.description>本件雷杖原放电实际伤敌，6秒内累计3次，给本人提供100点独立护盾，持续4秒，冷却8秒。原效果一次惠及多人时分别计数。更强的本节点护盾只刷新时间，不重复计算护盾增量。 基础收益：护盾 100。</RHA_STAR_Relic_REF_LightningRod.nodes.2.description>
+  <RHA_STAR_Relic_REF_LightningRod.nodes.3.label>电痕岔路</RHA_STAR_Relic_REF_LightningRod.nodes.3.label>
+  <RHA_STAR_Relic_REF_LightningRod.nodes.3.description>“电痕引斩”实际造成追加伤害后，对受击点4格内视线畅通的另一名敌人追加25点基础伤害。没有其他敌人时不重复打击原目标。每8秒最多结算一次。 基础收益：伤害 25。</RHA_STAR_Relic_REF_LightningRod.nodes.3.description>
+  <RHA_STAR_Relic_REF_LightningRod.nodes.4.label>迟发雷斑</RHA_STAR_Relic_REF_LightningRod.nodes.4.label>
+  <RHA_STAR_Relic_REF_LightningRod.nodes.4.description>“电痕引斩”实际造成追加伤害后，在原受击点留下1.5秒后爆发的余波，伤及3格内视线畅通的至多两名敌人，各50点基础伤害。敌人可通过离开爆心躲开。每8秒最多结算一次。 基础收益：伤害 50。</RHA_STAR_Relic_REF_LightningRod.nodes.4.description>
+  <RHA_STAR_Relic_REF_LightningRod.nodes.5.label>雷蓄援护</RHA_STAR_Relic_REF_LightningRod.nodes.5.label>
+  <RHA_STAR_Relic_REF_LightningRod.nodes.5.description>“雷杖结蓄”实际增加护盾后，治疗4格内视线畅通、伤势最重的另一名殖民者40点基础普通伤势。没有合适伤者时不转给本人。不恢复缺失部位或永久伤疤。每8秒最多结算一次。 基础收益：治疗 40。</RHA_STAR_Relic_REF_LightningRod.nodes.5.description>
+  <RHA_STAR_Relic_REF_LightningRod.nodes.6.label>电容返击</RHA_STAR_Relic_REF_LightningRod.nodes.6.label>
+  <RHA_STAR_Relic_REF_LightningRod.nodes.6.description>“雷杖结蓄”实际增加护盾后，将本次实际增量的50%存入独立储备，上限2点，15秒未补充便失效。本人后续普通命中消耗2点追加75点基础伤害。本次新存入的量不能立即消费；此前攒够的储备仍可使用。每8秒最多结算一次。 基础收益：伤害 75。</RHA_STAR_Relic_REF_LightningRod.nodes.6.description>
+  <RHA_STAR_Relic_REF_DiamondSpear.nodes.0.label>钻头长矛传承</RHA_STAR_Relic_REF_DiamondSpear.nodes.0.label>
+  <RHA_STAR_Relic_REF_DiamondSpear.nodes.0.description>沿用钻头长矛的原有效果与已选觉醒。</RHA_STAR_Relic_REF_DiamondSpear.nodes.0.description>
+  <RHA_STAR_Relic_REF_DiamondSpear.nodes.1.label>远距钻击</RHA_STAR_Relic_REF_DiamondSpear.nodes.1.label>
+  <RHA_STAR_Relic_REF_DiamondSpear.nodes.1.description>本人普通命中在5秒内实际伤及同一敌人2次，追加75点基础伤害，冷却8秒。非合格事件不计数，准备随穿戴者分开保存。 基础收益：伤害 75。</RHA_STAR_Relic_REF_DiamondSpear.nodes.1.description>
+  <RHA_STAR_Relic_REF_DiamondSpear.nodes.2.label>换位穿隙</RHA_STAR_Relic_REF_DiamondSpear.nodes.2.label>
+  <RHA_STAR_Relic_REF_DiamondSpear.nodes.2.description>本人普通攻击实际伤敌，留下5秒破口，最多一名目标，生成冷却6秒。本人后续普通命中消耗破口，追加75点基础伤害。同次事件不能立即消耗新破口。 基础收益：伤害 75。</RHA_STAR_Relic_REF_DiamondSpear.nodes.2.description>
+  <RHA_STAR_Relic_REF_DiamondSpear.nodes.3.label>钻锋折射</RHA_STAR_Relic_REF_DiamondSpear.nodes.3.label>
+  <RHA_STAR_Relic_REF_DiamondSpear.nodes.3.description>“远距钻击”实际造成追加伤害后，对受击点4格内视线畅通的另一名敌人追加25点基础伤害。没有其他敌人时不重复打击原目标。每8秒最多结算一次。 基础收益：伤害 25。</RHA_STAR_Relic_REF_DiamondSpear.nodes.3.description>
+  <RHA_STAR_Relic_REF_DiamondSpear.nodes.4.label>远距留孔</RHA_STAR_Relic_REF_DiamondSpear.nodes.4.label>
+  <RHA_STAR_Relic_REF_DiamondSpear.nodes.4.description>“远距钻击”实际造成追加伤害后，为实际伤及的敌人留下5秒追债标记，最多两名；本人后续普通命中消耗该目标的标记，追加50点基础伤害。技能、持续伤害和追加伤害不兑现。每8秒最多结算一次。 基础收益：伤害 50。</RHA_STAR_Relic_REF_DiamondSpear.nodes.4.description>
+  <RHA_STAR_Relic_REF_DiamondSpear.nodes.5.label>落点余钻</RHA_STAR_Relic_REF_DiamondSpear.nodes.5.label>
+  <RHA_STAR_Relic_REF_DiamondSpear.nodes.5.description>“换位穿隙”实际造成追加伤害后，在原受击点留下1.5秒后爆发的余波，伤及3格内视线畅通的至多两名敌人，各50点基础伤害。敌人可通过离开爆心躲开。每8秒最多结算一次。 基础收益：伤害 50。</RHA_STAR_Relic_REF_DiamondSpear.nodes.5.description>
+  <RHA_STAR_Relic_REF_DiamondSpear.nodes.6.label>远线掩护</RHA_STAR_Relic_REF_DiamondSpear.nodes.6.label>
+  <RHA_STAR_Relic_REF_DiamondSpear.nodes.6.description>“换位穿隙”实际造成追加伤害后，给4格内视线畅通的最近一名其他殖民者提供50点独立护盾，持续3秒。没有队友时不转给本人。每8秒最多结算一次。 基础收益：护盾 50。</RHA_STAR_Relic_REF_DiamondSpear.nodes.6.description>
+  <RHA_STAR_Relic_RUIN_FurnaceGrip.nodes.0.label>炉脉钳传承</RHA_STAR_Relic_RUIN_FurnaceGrip.nodes.0.label>
+  <RHA_STAR_Relic_RUIN_FurnaceGrip.nodes.0.description>沿用炉脉钳的原有效果与已选觉醒。</RHA_STAR_Relic_RUIN_FurnaceGrip.nodes.0.description>
+  <RHA_STAR_Relic_RUIN_FurnaceGrip.nodes.1.label>炉脉分火</RHA_STAR_Relic_RUIN_FurnaceGrip.nodes.1.label>
+  <RHA_STAR_Relic_RUIN_FurnaceGrip.nodes.1.description>本件遗物原效果实际伤敌，6秒内累计3次命中目标，从最后受击点向3格内视线畅通的另外至多2名敌人各追加50点基础伤害，冷却8秒。原受击者不重复受击；同一轮原效果打中多人可以共同计数。 基础收益：伤害 50。</RHA_STAR_Relic_RUIN_FurnaceGrip.nodes.1.description>
+  <RHA_STAR_Relic_RUIN_FurnaceGrip.nodes.2.label>炉火蓄锋</RHA_STAR_Relic_RUIN_FurnaceGrip.nodes.2.label>
+  <RHA_STAR_Relic_RUIN_FurnaceGrip.nodes.2.description>本件炉脉钳原脉冲实际伤敌时，每次存入1点私有储备，上限3点，8秒内没有新的存入便失效。本人后续普通命中消耗3点，获得75点基础追加伤害，冷却8秒；本次存入不能立即消费。 基础收益：伤害 75。</RHA_STAR_Relic_RUIN_FurnaceGrip.nodes.2.description>
+  <RHA_STAR_Relic_RUIN_FurnaceGrip.nodes.3.label>炉脉迟爆</RHA_STAR_Relic_RUIN_FurnaceGrip.nodes.3.label>
+  <RHA_STAR_Relic_RUIN_FurnaceGrip.nodes.3.description>“炉脉分火”实际造成追加伤害后，在原受击点留下1.5秒后爆发的余波，伤及3格内视线畅通的至多两名敌人，各50点基础伤害。敌人可通过离开爆心躲开。每8秒最多结算一次。 基础收益：伤害 50。</RHA_STAR_Relic_RUIN_FurnaceGrip.nodes.3.description>
+  <RHA_STAR_Relic_RUIN_FurnaceGrip.nodes.4.label>炉边援护</RHA_STAR_Relic_RUIN_FurnaceGrip.nodes.4.label>
+  <RHA_STAR_Relic_RUIN_FurnaceGrip.nodes.4.description>“炉脉分火”实际造成追加伤害后，治疗4格内视线畅通、伤势最重的另一名殖民者40点基础普通伤势。没有合适伤者时不转给本人。不恢复缺失部位或永久伤疤。每8秒最多结算一次。 基础收益：治疗 40。</RHA_STAR_Relic_RUIN_FurnaceGrip.nodes.4.description>
+  <RHA_STAR_Relic_RUIN_FurnaceGrip.nodes.5.label>炉痕追债</RHA_STAR_Relic_RUIN_FurnaceGrip.nodes.5.label>
+  <RHA_STAR_Relic_RUIN_FurnaceGrip.nodes.5.description>“炉火蓄锋”实际造成追加伤害后，为实际伤及的敌人留下5秒追债标记，最多两名；本人后续普通命中消耗该目标的标记，追加50点基础伤害。技能、持续伤害和追加伤害不兑现。每8秒最多结算一次。 基础收益：伤害 50。</RHA_STAR_Relic_RUIN_FurnaceGrip.nodes.5.description>
+  <RHA_STAR_Relic_RUIN_FurnaceGrip.nodes.6.label>炉火护身</RHA_STAR_Relic_RUIN_FurnaceGrip.nodes.6.label>
+  <RHA_STAR_Relic_RUIN_FurnaceGrip.nodes.6.description>“炉火蓄锋”实际造成追加伤害后，为本人增加75点独立护盾，持续3秒。每8秒最多结算一次。 基础收益：护盾 75。</RHA_STAR_Relic_RUIN_FurnaceGrip.nodes.6.description>
+  <RHA_STAR_Relic_RUIN_HeatReservoir.nodes.0.label>余热背架传承</RHA_STAR_Relic_RUIN_HeatReservoir.nodes.0.label>
+  <RHA_STAR_Relic_RUIN_HeatReservoir.nodes.0.description>沿用余热背架的原有效果与已选觉醒。</RHA_STAR_Relic_RUIN_HeatReservoir.nodes.0.description>
+  <RHA_STAR_Relic_RUIN_HeatReservoir.nodes.1.label>余热泄压</RHA_STAR_Relic_RUIN_HeatReservoir.nodes.1.label>
+  <RHA_STAR_Relic_RUIN_HeatReservoir.nodes.1.description>本件余热背架原护盾实际增加时，按实际量的2%存入私有储备，上限3点，8秒内没有新的存入便失效。本人后续普通命中消耗3点，获得75点基础追加伤害，冷却8秒；本次存入不能立即消费。 基础收益：伤害 75。</RHA_STAR_Relic_RUIN_HeatReservoir.nodes.1.description>
+  <RHA_STAR_Relic_RUIN_HeatReservoir.nodes.2.label>余热济伤</RHA_STAR_Relic_RUIN_HeatReservoir.nodes.2.label>
+  <RHA_STAR_Relic_RUIN_HeatReservoir.nodes.2.description>本件余热背架原护盾实际增加，6秒内累计2次，治疗4格内视线畅通、伤势最重的另一名殖民者40点基础普通伤势，冷却8秒。没有伤者时不改为治疗本人，也不计入本节点完成后的回馈。 基础收益：治疗 40。</RHA_STAR_Relic_RUIN_HeatReservoir.nodes.2.description>
+  <RHA_STAR_Relic_RUIN_HeatReservoir.nodes.3.label>泄压溅锋</RHA_STAR_Relic_RUIN_HeatReservoir.nodes.3.label>
+  <RHA_STAR_Relic_RUIN_HeatReservoir.nodes.3.description>“余热泄压”实际造成追加伤害后，对受击点4格内视线畅通的另一名敌人追加25点基础伤害。没有其他敌人时不重复打击原目标。每8秒最多结算一次。 基础收益：伤害 25。</RHA_STAR_Relic_RUIN_HeatReservoir.nodes.3.description>
+  <RHA_STAR_Relic_RUIN_HeatReservoir.nodes.4.label>泄压回护</RHA_STAR_Relic_RUIN_HeatReservoir.nodes.4.label>
+  <RHA_STAR_Relic_RUIN_HeatReservoir.nodes.4.description>“余热泄压”实际造成追加伤害后，治疗本人20点基础可恢复伤势。不恢复缺失部位或永久伤疤。每8秒最多结算一次。 基础收益：治疗 20。</RHA_STAR_Relic_RUIN_HeatReservoir.nodes.4.description>
+  <RHA_STAR_Relic_RUIN_HeatReservoir.nodes.5.label>暖壳重整</RHA_STAR_Relic_RUIN_HeatReservoir.nodes.5.label>
+  <RHA_STAR_Relic_RUIN_HeatReservoir.nodes.5.description>“余热济伤”实际治疗伤势后，为本人增加75点独立护盾，持续3秒。每8秒最多结算一次。 基础收益：护盾 75。</RHA_STAR_Relic_RUIN_HeatReservoir.nodes.5.description>
+  <RHA_STAR_Relic_RUIN_HeatReservoir.nodes.6.label>济伤返锋</RHA_STAR_Relic_RUIN_HeatReservoir.nodes.6.label>
+  <RHA_STAR_Relic_RUIN_HeatReservoir.nodes.6.description>“余热济伤”实际治疗伤势后，将本次实际增量的50%存入独立储备，上限2点，15秒未补充便失效。本人后续普通命中消耗2点追加75点基础伤害。本次新存入的量不能立即消费；此前攒够的储备仍可使用。每8秒最多结算一次。 基础收益：伤害 75。</RHA_STAR_Relic_RUIN_HeatReservoir.nodes.6.description>
+  <RHA_STAR_Relic_RUIN_RefractionLens.nodes.0.label>折光目镜传承</RHA_STAR_Relic_RUIN_RefractionLens.nodes.0.label>
+  <RHA_STAR_Relic_RUIN_RefractionLens.nodes.0.description>沿用折光目镜的原有效果与已选觉醒。</RHA_STAR_Relic_RUIN_RefractionLens.nodes.0.description>
+  <RHA_STAR_Relic_RUIN_RefractionLens.nodes.1.label>折光追孔</RHA_STAR_Relic_RUIN_RefractionLens.nodes.1.label>
+  <RHA_STAR_Relic_RUIN_RefractionLens.nodes.1.description>本件遗物的原有效果实际伤敌，留下5秒破口，最多一名目标，生成冷却6秒。本人后续普通命中消耗破口，追加75点基础伤害。同次事件不能立即消耗新破口。 基础收益：伤害 75。</RHA_STAR_Relic_RUIN_RefractionLens.nodes.1.description>
+  <RHA_STAR_Relic_RUIN_RefractionLens.nodes.2.label>多面分光</RHA_STAR_Relic_RUIN_RefractionLens.nodes.2.label>
+  <RHA_STAR_Relic_RUIN_RefractionLens.nodes.2.description>本件遗物原效果实际伤敌，6秒内累计3次命中目标，从最后受击点向4格内视线畅通的另外至多2名敌人各追加25点基础伤害，冷却8秒。原受击者不重复受击；同一轮原效果打中多人可以共同计数。 基础收益：伤害 25。</RHA_STAR_Relic_RUIN_RefractionLens.nodes.2.description>
+  <RHA_STAR_Relic_RUIN_RefractionLens.nodes.3.label>追孔留痕</RHA_STAR_Relic_RUIN_RefractionLens.nodes.3.label>
+  <RHA_STAR_Relic_RUIN_RefractionLens.nodes.3.description>“折光追孔”实际造成追加伤害后，为实际伤及的敌人留下5秒追债标记，最多两名；本人后续普通命中消耗该目标的标记，追加50点基础伤害。技能、持续伤害和追加伤害不兑现。每8秒最多结算一次。 基础收益：伤害 50。</RHA_STAR_Relic_RUIN_RefractionLens.nodes.3.description>
+  <RHA_STAR_Relic_RUIN_RefractionLens.nodes.4.label>折光掩护</RHA_STAR_Relic_RUIN_RefractionLens.nodes.4.label>
+  <RHA_STAR_Relic_RUIN_RefractionLens.nodes.4.description>“折光追孔”实际造成追加伤害后，给4格内视线畅通的最近一名其他殖民者提供50点独立护盾，持续3秒。没有队友时不转给本人。每8秒最多结算一次。 基础收益：护盾 50。</RHA_STAR_Relic_RUIN_RefractionLens.nodes.4.description>
+  <RHA_STAR_Relic_RUIN_RefractionLens.nodes.5.label>多面迟光</RHA_STAR_Relic_RUIN_RefractionLens.nodes.5.label>
+  <RHA_STAR_Relic_RUIN_RefractionLens.nodes.5.description>“多面分光”实际造成追加伤害后，在原受击点留下1.5秒后爆发的余波，伤及3格内视线畅通的至多两名敌人，各50点基础伤害。敌人可通过离开爆心躲开。每8秒最多结算一次。 基础收益：伤害 50。</RHA_STAR_Relic_RUIN_RefractionLens.nodes.5.description>
+  <RHA_STAR_Relic_RUIN_RefractionLens.nodes.6.label>分光济伤</RHA_STAR_Relic_RUIN_RefractionLens.nodes.6.label>
+  <RHA_STAR_Relic_RUIN_RefractionLens.nodes.6.description>“多面分光”实际造成追加伤害后，治疗4格内视线畅通、伤势最重的另一名殖民者40点基础普通伤势。没有合适伤者时不转给本人。不恢复缺失部位或永久伤疤。每8秒最多结算一次。 基础收益：治疗 40。</RHA_STAR_Relic_RUIN_RefractionLens.nodes.6.description>
+  <RHA_STAR_Relic_RUIN_FieldInjector.nodes.0.label>再生注射器传承</RHA_STAR_Relic_RUIN_FieldInjector.nodes.0.label>
+  <RHA_STAR_Relic_RUIN_FieldInjector.nodes.0.description>沿用再生注射器的原有效果与已选觉醒。</RHA_STAR_Relic_RUIN_FieldInjector.nodes.0.description>
+  <RHA_STAR_Relic_RUIN_FieldInjector.nodes.1.label>注射后护</RHA_STAR_Relic_RUIN_FieldInjector.nodes.1.label>
+  <RHA_STAR_Relic_RUIN_FieldInjector.nodes.1.description>本件注射器原治疗实际恢复伤势，6秒内累计1次，给本人4格内视线畅通的最近一名其他殖民者提供75点独立护盾，持续4秒，冷却8秒。原效果一次惠及多人时分别计数。更强的本节点护盾只刷新时间，不重复计算护盾增量。 基础收益：护盾 75。</RHA_STAR_Relic_RUIN_FieldInjector.nodes.1.description>
+  <RHA_STAR_Relic_RUIN_FieldInjector.nodes.2.label>余剂待锋</RHA_STAR_Relic_RUIN_FieldInjector.nodes.2.label>
+  <RHA_STAR_Relic_RUIN_FieldInjector.nodes.2.description>本件注射器原治疗实际恢复伤势时，按实际量的5%存入私有储备，上限3点，8秒内没有新的存入便失效。本人后续普通命中消耗3点，获得75点基础追加伤害，冷却8秒；本次存入不能立即消费。 基础收益：伤害 75。</RHA_STAR_Relic_RUIN_FieldInjector.nodes.2.description>
+  <RHA_STAR_Relic_RUIN_FieldInjector.nodes.3.label>余剂回身</RHA_STAR_Relic_RUIN_FieldInjector.nodes.3.label>
+  <RHA_STAR_Relic_RUIN_FieldInjector.nodes.3.description>“注射后护”实际增加护盾后，治疗本人20点基础可恢复伤势。不恢复缺失部位或永久伤疤。每8秒最多结算一次。 基础收益：治疗 20。</RHA_STAR_Relic_RUIN_FieldInjector.nodes.3.description>
+  <RHA_STAR_Relic_RUIN_FieldInjector.nodes.4.label>护疗反击</RHA_STAR_Relic_RUIN_FieldInjector.nodes.4.label>
+  <RHA_STAR_Relic_RUIN_FieldInjector.nodes.4.description>“注射后护”实际增加护盾后，将本次实际增量的50%存入独立储备，上限2点，15秒未补充便失效。本人后续普通命中消耗2点追加75点基础伤害。本次新存入的量不能立即消费；此前攒够的储备仍可使用。每8秒最多结算一次。 基础收益：伤害 75。</RHA_STAR_Relic_RUIN_FieldInjector.nodes.4.description>
+  <RHA_STAR_Relic_RUIN_FieldInjector.nodes.5.label>余剂留记</RHA_STAR_Relic_RUIN_FieldInjector.nodes.5.label>
+  <RHA_STAR_Relic_RUIN_FieldInjector.nodes.5.description>“余剂待锋”实际造成追加伤害后，为实际伤及的敌人留下5秒追债标记，最多两名；本人后续普通命中消耗该目标的标记，追加50点基础伤害。技能、持续伤害和追加伤害不兑现。每8秒最多结算一次。 基础收益：伤害 50。</RHA_STAR_Relic_RUIN_FieldInjector.nodes.5.description>
+  <RHA_STAR_Relic_RUIN_FieldInjector.nodes.6.label>余剂掩护</RHA_STAR_Relic_RUIN_FieldInjector.nodes.6.label>
+  <RHA_STAR_Relic_RUIN_FieldInjector.nodes.6.description>“余剂待锋”实际造成追加伤害后，给4格内视线畅通的最近一名其他殖民者提供50点独立护盾，持续3秒。没有队友时不转给本人。每8秒最多结算一次。 基础收益：护盾 50。</RHA_STAR_Relic_RUIN_FieldInjector.nodes.6.description>
+  <RHA_STAR_Relic_RUIN_BreachBow.nodes.0.label>破垒弩传承</RHA_STAR_Relic_RUIN_BreachBow.nodes.0.label>
+  <RHA_STAR_Relic_RUIN_BreachBow.nodes.0.description>沿用破垒弩的原有效果与已选觉醒。</RHA_STAR_Relic_RUIN_BreachBow.nodes.0.description>
+  <RHA_STAR_Relic_RUIN_BreachBow.nodes.1.label>破垒追矢</RHA_STAR_Relic_RUIN_BreachBow.nodes.1.label>
+  <RHA_STAR_Relic_RUIN_BreachBow.nodes.1.description>本件遗物的原有效果实际伤敌，留下5秒破口，最多一名目标，生成冷却6秒。本人后续普通命中消耗破口，追加75点基础伤害。同次事件不能立即消耗新破口。 基础收益：伤害 75。</RHA_STAR_Relic_RUIN_BreachBow.nodes.1.description>
+  <RHA_STAR_Relic_RUIN_BreachBow.nodes.2.label>贯线交火</RHA_STAR_Relic_RUIN_BreachBow.nodes.2.label>
+  <RHA_STAR_Relic_RUIN_BreachBow.nodes.2.description>本件遗物原效果实际伤敌，6秒内累计3次命中目标，从最后受击点向3格内视线畅通的另外至多2名敌人各追加25点基础伤害，冷却8秒。原受击者不重复受击；同一轮原效果打中多人可以共同计数。 基础收益：伤害 25。</RHA_STAR_Relic_RUIN_BreachBow.nodes.2.description>
+  <RHA_STAR_Relic_RUIN_BreachBow.nodes.3.label>穿孔追矢</RHA_STAR_Relic_RUIN_BreachBow.nodes.3.label>
+  <RHA_STAR_Relic_RUIN_BreachBow.nodes.3.description>“破垒追矢”实际造成追加伤害后，为实际伤及的敌人留下5秒追债标记，最多两名；本人后续普通命中消耗该目标的标记，追加50点基础伤害。技能、持续伤害和追加伤害不兑现。每8秒最多结算一次。 基础收益：伤害 50。</RHA_STAR_Relic_RUIN_BreachBow.nodes.3.description>
+  <RHA_STAR_Relic_RUIN_BreachBow.nodes.4.label>破口掩护</RHA_STAR_Relic_RUIN_BreachBow.nodes.4.label>
+  <RHA_STAR_Relic_RUIN_BreachBow.nodes.4.description>“破垒追矢”实际造成追加伤害后，给4格内视线畅通的最近一名其他殖民者提供50点独立护盾，持续3秒。没有队友时不转给本人。每8秒最多结算一次。 基础收益：护盾 50。</RHA_STAR_Relic_RUIN_BreachBow.nodes.4.description>
+  <RHA_STAR_Relic_RUIN_BreachBow.nodes.5.label>贯线残爆</RHA_STAR_Relic_RUIN_BreachBow.nodes.5.label>
+  <RHA_STAR_Relic_RUIN_BreachBow.nodes.5.description>“贯线交火”实际造成追加伤害后，在原受击点留下1.5秒后爆发的余波，伤及3格内视线畅通的至多两名敌人，各50点基础伤害。敌人可通过离开爆心躲开。每8秒最多结算一次。 基础收益：伤害 50。</RHA_STAR_Relic_RUIN_BreachBow.nodes.5.description>
+  <RHA_STAR_Relic_RUIN_BreachBow.nodes.6.label>交火急救</RHA_STAR_Relic_RUIN_BreachBow.nodes.6.label>
+  <RHA_STAR_Relic_RUIN_BreachBow.nodes.6.description>“贯线交火”实际造成追加伤害后，治疗4格内视线畅通、伤势最重的另一名殖民者40点基础普通伤势。没有合适伤者时不转给本人。不恢复缺失部位或永久伤疤。每8秒最多结算一次。 基础收益：治疗 40。</RHA_STAR_Relic_RUIN_BreachBow.nodes.6.description>
+  <RHA_STAR_Relic_RUIN_EscortSeal.nodes.0.label>护送者徽记传承</RHA_STAR_Relic_RUIN_EscortSeal.nodes.0.label>
+  <RHA_STAR_Relic_RUIN_EscortSeal.nodes.0.description>沿用护送者徽记的原有效果与已选觉醒。</RHA_STAR_Relic_RUIN_EscortSeal.nodes.0.description>
+  <RHA_STAR_Relic_RUIN_EscortSeal.nodes.1.label>护送还锋</RHA_STAR_Relic_RUIN_EscortSeal.nodes.1.label>
+  <RHA_STAR_Relic_RUIN_EscortSeal.nodes.1.description>本件护送徽记原援护波实际治疗伤势时，按实际量的4%存入私有储备，上限3点，8秒内没有新的存入便失效。本人后续普通命中消耗3点，获得75点基础追加伤害，冷却8秒；本次存入不能立即消费。 基础收益：伤害 75。</RHA_STAR_Relic_RUIN_EscortSeal.nodes.1.description>
+  <RHA_STAR_Relic_RUIN_EscortSeal.nodes.2.label>援波追击</RHA_STAR_Relic_RUIN_EscortSeal.nodes.2.label>
+  <RHA_STAR_Relic_RUIN_EscortSeal.nodes.2.description>本件遗物的原有效果实际伤敌，留下5秒破口，最多一名目标，生成冷却6秒。本人后续普通命中消耗破口，追加75点基础伤害。同次事件不能立即消耗新破口。 基础收益：伤害 75。</RHA_STAR_Relic_RUIN_EscortSeal.nodes.2.description>
+  <RHA_STAR_Relic_RUIN_EscortSeal.nodes.3.label>护送余盾</RHA_STAR_Relic_RUIN_EscortSeal.nodes.3.label>
+  <RHA_STAR_Relic_RUIN_EscortSeal.nodes.3.description>“护送还锋”实际造成追加伤害后，为本人增加75点独立护盾，持续3秒。每8秒最多结算一次。 基础收益：护盾 75。</RHA_STAR_Relic_RUIN_EscortSeal.nodes.3.description>
+  <RHA_STAR_Relic_RUIN_EscortSeal.nodes.4.label>护送留债</RHA_STAR_Relic_RUIN_EscortSeal.nodes.4.label>
+  <RHA_STAR_Relic_RUIN_EscortSeal.nodes.4.description>“护送还锋”实际造成追加伤害后，为实际伤及的敌人留下5秒追债标记，最多两名；本人后续普通命中消耗该目标的标记，追加50点基础伤害。技能、持续伤害和追加伤害不兑现。每8秒最多结算一次。 基础收益：伤害 50。</RHA_STAR_Relic_RUIN_EscortSeal.nodes.4.description>
+  <RHA_STAR_Relic_RUIN_EscortSeal.nodes.5.label>援波岔锋</RHA_STAR_Relic_RUIN_EscortSeal.nodes.5.label>
+  <RHA_STAR_Relic_RUIN_EscortSeal.nodes.5.description>“援波追击”实际造成追加伤害后，对受击点4格内视线畅通的另一名敌人追加25点基础伤害。没有其他敌人时不重复打击原目标。每8秒最多结算一次。 基础收益：伤害 25。</RHA_STAR_Relic_RUIN_EscortSeal.nodes.5.description>
+  <RHA_STAR_Relic_RUIN_EscortSeal.nodes.6.label>援波归身</RHA_STAR_Relic_RUIN_EscortSeal.nodes.6.label>
+  <RHA_STAR_Relic_RUIN_EscortSeal.nodes.6.description>“援波追击”实际造成追加伤害后，治疗本人20点基础可恢复伤势。不恢复缺失部位或永久伤疤。每8秒最多结算一次。 基础收益：治疗 20。</RHA_STAR_Relic_RUIN_EscortSeal.nodes.6.description>
+  <RHA_STAR_Relic_TRIAL_StormPike.nodes.0.label>霆王之矛传承</RHA_STAR_Relic_TRIAL_StormPike.nodes.0.label>
+  <RHA_STAR_Relic_TRIAL_StormPike.nodes.0.description>沿用霆王之矛的原有效果与已选觉醒。</RHA_STAR_Relic_TRIAL_StormPike.nodes.0.description>
+  <RHA_STAR_Relic_TRIAL_StormPike.nodes.1.label>霆矛追锋</RHA_STAR_Relic_TRIAL_StormPike.nodes.1.label>
+  <RHA_STAR_Relic_TRIAL_StormPike.nodes.1.description>本件遗物的原有效果实际伤敌，留下5秒破口，最多一名目标，生成冷却6秒。本人后续普通命中消耗破口，追加75点基础伤害。同次事件不能立即消耗新破口。 基础收益：伤害 75。</RHA_STAR_Relic_TRIAL_StormPike.nodes.1.description>
+  <RHA_STAR_Relic_TRIAL_StormPike.nodes.2.label>雷圈分击</RHA_STAR_Relic_TRIAL_StormPike.nodes.2.label>
+  <RHA_STAR_Relic_TRIAL_StormPike.nodes.2.description>本件遗物原效果实际伤敌，6秒内累计3次命中目标，从最后受击点向4格内视线畅通的另外至多2名敌人各追加25点基础伤害，冷却8秒。原受击者不重复受击；同一轮原效果打中多人可以共同计数。 基础收益：伤害 25。</RHA_STAR_Relic_TRIAL_StormPike.nodes.2.description>
+  <RHA_STAR_Relic_TRIAL_StormPike.nodes.3.label>霆矛迟雷</RHA_STAR_Relic_TRIAL_StormPike.nodes.3.label>
+  <RHA_STAR_Relic_TRIAL_StormPike.nodes.3.description>“霆矛追锋”实际造成追加伤害后，在原受击点留下1.5秒后爆发的余波，伤及3格内视线畅通的至多两名敌人，各50点基础伤害。敌人可通过离开爆心躲开。每8秒最多结算一次。 基础收益：伤害 50。</RHA_STAR_Relic_TRIAL_StormPike.nodes.3.description>
+  <RHA_STAR_Relic_TRIAL_StormPike.nodes.4.label>矛锋掩护</RHA_STAR_Relic_TRIAL_StormPike.nodes.4.label>
+  <RHA_STAR_Relic_TRIAL_StormPike.nodes.4.description>“霆矛追锋”实际造成追加伤害后，给4格内视线畅通的最近一名其他殖民者提供50点独立护盾，持续3秒。没有队友时不转给本人。每8秒最多结算一次。 基础收益：护盾 50。</RHA_STAR_Relic_TRIAL_StormPike.nodes.4.description>
+  <RHA_STAR_Relic_TRIAL_StormPike.nodes.5.label>雷圈留痕</RHA_STAR_Relic_TRIAL_StormPike.nodes.5.label>
+  <RHA_STAR_Relic_TRIAL_StormPike.nodes.5.description>“雷圈分击”实际造成追加伤害后，为实际伤及的敌人留下5秒追债标记，最多两名；本人后续普通命中消耗该目标的标记，追加50点基础伤害。技能、持续伤害和追加伤害不兑现。每8秒最多结算一次。 基础收益：伤害 50。</RHA_STAR_Relic_TRIAL_StormPike.nodes.5.description>
+  <RHA_STAR_Relic_TRIAL_StormPike.nodes.6.label>雷圈回息</RHA_STAR_Relic_TRIAL_StormPike.nodes.6.label>
+  <RHA_STAR_Relic_TRIAL_StormPike.nodes.6.description>“雷圈分击”实际造成追加伤害后，治疗本人20点基础可恢复伤势。不恢复缺失部位或永久伤疤。每8秒最多结算一次。 基础收益：治疗 20。</RHA_STAR_Relic_TRIAL_StormPike.nodes.6.description>
+  <RHA_STAR_Relic_TRIAL_StormAegis.nodes.0.label>雷幕壁垒传承</RHA_STAR_Relic_TRIAL_StormAegis.nodes.0.label>
+  <RHA_STAR_Relic_TRIAL_StormAegis.nodes.0.description>沿用雷幕壁垒的原有效果与已选觉醒。</RHA_STAR_Relic_TRIAL_StormAegis.nodes.0.description>
+  <RHA_STAR_Relic_TRIAL_StormAegis.nodes.1.label>雷幕蓄锋</RHA_STAR_Relic_TRIAL_StormAegis.nodes.1.label>
+  <RHA_STAR_Relic_TRIAL_StormAegis.nodes.1.description>本件雷幕原护盾实际增加时，按实际量的2.5%存入私有储备，上限3点，8秒内没有新的存入便失效。本人后续普通命中消耗3点，获得75点基础追加伤害，冷却8秒；本次存入不能立即消费。 基础收益：伤害 75。</RHA_STAR_Relic_TRIAL_StormAegis.nodes.1.description>
+  <RHA_STAR_Relic_TRIAL_StormAegis.nodes.2.label>雷幕岔电</RHA_STAR_Relic_TRIAL_StormAegis.nodes.2.label>
+  <RHA_STAR_Relic_TRIAL_StormAegis.nodes.2.description>本件遗物原效果实际伤敌，6秒内累计2次命中目标，从最后受击点向3格内视线畅通的另外至多2名敌人各追加25点基础伤害，冷却8秒。原受击者不重复受击；同一轮原效果打中多人可以共同计数。 基础收益：伤害 25。</RHA_STAR_Relic_TRIAL_StormAegis.nodes.2.description>
+  <RHA_STAR_Relic_TRIAL_StormAegis.nodes.3.label>雷幕并肩</RHA_STAR_Relic_TRIAL_StormAegis.nodes.3.label>
+  <RHA_STAR_Relic_TRIAL_StormAegis.nodes.3.description>“雷幕蓄锋”实际造成追加伤害后，给4格内视线畅通的最近一名其他殖民者提供50点独立护盾，持续3秒。没有队友时不转给本人。每8秒最多结算一次。 基础收益：护盾 50。</RHA_STAR_Relic_TRIAL_StormAegis.nodes.3.description>
+  <RHA_STAR_Relic_TRIAL_StormAegis.nodes.4.label>蓄电留债</RHA_STAR_Relic_TRIAL_StormAegis.nodes.4.label>
+  <RHA_STAR_Relic_TRIAL_StormAegis.nodes.4.description>“雷幕蓄锋”实际造成追加伤害后，为实际伤及的敌人留下5秒追债标记，最多两名；本人后续普通命中消耗该目标的标记，追加50点基础伤害。技能、持续伤害和追加伤害不兑现。每8秒最多结算一次。 基础收益：伤害 50。</RHA_STAR_Relic_TRIAL_StormAegis.nodes.4.description>
+  <RHA_STAR_Relic_TRIAL_StormAegis.nodes.5.label>判雷残响</RHA_STAR_Relic_TRIAL_StormAegis.nodes.5.label>
+  <RHA_STAR_Relic_TRIAL_StormAegis.nodes.5.description>“雷幕岔电”实际造成追加伤害后，在原受击点留下1.5秒后爆发的余波，伤及3格内视线畅通的至多两名敌人，各50点基础伤害。敌人可通过离开爆心躲开。每8秒最多结算一次。 基础收益：伤害 50。</RHA_STAR_Relic_TRIAL_StormAegis.nodes.5.description>
+  <RHA_STAR_Relic_TRIAL_StormAegis.nodes.6.label>雷幕济友</RHA_STAR_Relic_TRIAL_StormAegis.nodes.6.label>
+  <RHA_STAR_Relic_TRIAL_StormAegis.nodes.6.description>“雷幕岔电”实际造成追加伤害后，治疗4格内视线畅通、伤势最重的另一名殖民者40点基础普通伤势。没有合适伤者时不转给本人。不恢复缺失部位或永久伤疤。每8秒最多结算一次。 基础收益：治疗 40。</RHA_STAR_Relic_TRIAL_StormAegis.nodes.6.description>
+  <RHA_STAR_Relic_TRIAL_FurnaceHammer.nodes.0.label>熔星重锤传承</RHA_STAR_Relic_TRIAL_FurnaceHammer.nodes.0.label>
+  <RHA_STAR_Relic_TRIAL_FurnaceHammer.nodes.0.description>沿用熔星重锤的原有效果与已选觉醒。</RHA_STAR_Relic_TRIAL_FurnaceHammer.nodes.0.description>
+  <RHA_STAR_Relic_TRIAL_FurnaceHammer.nodes.1.label>熔星追砸</RHA_STAR_Relic_TRIAL_FurnaceHammer.nodes.1.label>
+  <RHA_STAR_Relic_TRIAL_FurnaceHammer.nodes.1.description>本件遗物的原有效果实际伤敌，留下5秒破口，最多一名目标，生成冷却6秒。本人后续普通命中消耗破口，追加75点基础伤害。同次事件不能立即消耗新破口。 基础收益：伤害 75。</RHA_STAR_Relic_TRIAL_FurnaceHammer.nodes.1.description>
+  <RHA_STAR_Relic_TRIAL_FurnaceHammer.nodes.2.label>炉震分锋</RHA_STAR_Relic_TRIAL_FurnaceHammer.nodes.2.label>
+  <RHA_STAR_Relic_TRIAL_FurnaceHammer.nodes.2.description>本件遗物原效果实际伤敌，6秒内累计3次命中目标，从最后受击点向3格内视线畅通的另外至多3名敌人各追加25点基础伤害，冷却8秒。原受击者不重复受击；同一轮原效果打中多人可以共同计数。 基础收益：伤害 25。</RHA_STAR_Relic_TRIAL_FurnaceHammer.nodes.2.description>
+  <RHA_STAR_Relic_TRIAL_FurnaceHammer.nodes.3.label>熔星留印</RHA_STAR_Relic_TRIAL_FurnaceHammer.nodes.3.label>
+  <RHA_STAR_Relic_TRIAL_FurnaceHammer.nodes.3.description>“熔星追砸”实际造成追加伤害后，为实际伤及的敌人留下5秒追债标记，最多两名；本人后续普通命中消耗该目标的标记，追加50点基础伤害。技能、持续伤害和追加伤害不兑现。每8秒最多结算一次。 基础收益：伤害 50。</RHA_STAR_Relic_TRIAL_FurnaceHammer.nodes.3.description>
+  <RHA_STAR_Relic_TRIAL_FurnaceHammer.nodes.4.label>熔星护身</RHA_STAR_Relic_TRIAL_FurnaceHammer.nodes.4.label>
+  <RHA_STAR_Relic_TRIAL_FurnaceHammer.nodes.4.description>“熔星追砸”实际造成追加伤害后，为本人增加75点独立护盾，持续3秒。每8秒最多结算一次。 基础收益：护盾 75。</RHA_STAR_Relic_TRIAL_FurnaceHammer.nodes.4.description>
+  <RHA_STAR_Relic_TRIAL_FurnaceHammer.nodes.5.label>炉震残响</RHA_STAR_Relic_TRIAL_FurnaceHammer.nodes.5.label>
+  <RHA_STAR_Relic_TRIAL_FurnaceHammer.nodes.5.description>“炉震分锋”实际造成追加伤害后，在原受击点留下1.5秒后爆发的余波，伤及3格内视线畅通的至多两名敌人，各50点基础伤害。敌人可通过离开爆心躲开。每8秒最多结算一次。 基础收益：伤害 50。</RHA_STAR_Relic_TRIAL_FurnaceHammer.nodes.5.description>
+  <RHA_STAR_Relic_TRIAL_FurnaceHammer.nodes.6.label>炉震济伤</RHA_STAR_Relic_TRIAL_FurnaceHammer.nodes.6.label>
+  <RHA_STAR_Relic_TRIAL_FurnaceHammer.nodes.6.description>“炉震分锋”实际造成追加伤害后，治疗4格内视线畅通、伤势最重的另一名殖民者40点基础普通伤势。没有合适伤者时不转给本人。不恢复缺失部位或永久伤疤。每8秒最多结算一次。 基础收益：治疗 40。</RHA_STAR_Relic_TRIAL_FurnaceHammer.nodes.6.description>
+  <RHA_STAR_Relic_TRIAL_FurnacePlate.nodes.0.label>炉心战铠传承</RHA_STAR_Relic_TRIAL_FurnacePlate.nodes.0.label>
+  <RHA_STAR_Relic_TRIAL_FurnacePlate.nodes.0.description>沿用炉心战铠的原有效果与已选觉醒。</RHA_STAR_Relic_TRIAL_FurnacePlate.nodes.0.description>
+  <RHA_STAR_Relic_TRIAL_FurnacePlate.nodes.1.label>炉铠卸压</RHA_STAR_Relic_TRIAL_FurnacePlate.nodes.1.label>
+  <RHA_STAR_Relic_TRIAL_FurnacePlate.nodes.1.description>本件炉心战铠原护盾实际增加时，按实际量的2%存入私有储备，上限4点，8秒内没有新的存入便失效。本人后续普通命中消耗4点，获得75点基础追加伤害，冷却8秒；本次存入不能立即消费。 基础收益：伤害 75。</RHA_STAR_Relic_TRIAL_FurnacePlate.nodes.1.description>
+  <RHA_STAR_Relic_TRIAL_FurnacePlate.nodes.2.label>炉铠相护</RHA_STAR_Relic_TRIAL_FurnacePlate.nodes.2.label>
+  <RHA_STAR_Relic_TRIAL_FurnacePlate.nodes.2.description>本件炉心战铠原护盾实际增加，6秒内累计2次，给本人4格内视线畅通的最近一名其他殖民者提供75点独立护盾，持续4秒，冷却8秒。原效果一次惠及多人时分别计数。更强的本节点护盾只刷新时间，不重复计算护盾增量。 基础收益：护盾 75。</RHA_STAR_Relic_TRIAL_FurnacePlate.nodes.2.description>
+  <RHA_STAR_Relic_TRIAL_FurnacePlate.nodes.3.label>卸压散锋</RHA_STAR_Relic_TRIAL_FurnacePlate.nodes.3.label>
+  <RHA_STAR_Relic_TRIAL_FurnacePlate.nodes.3.description>“炉铠卸压”实际造成追加伤害后，对受击点4格内视线畅通的另一名敌人追加25点基础伤害。没有其他敌人时不重复打击原目标。每8秒最多结算一次。 基础收益：伤害 25。</RHA_STAR_Relic_TRIAL_FurnacePlate.nodes.3.description>
+  <RHA_STAR_Relic_TRIAL_FurnacePlate.nodes.4.label>炉铠回息</RHA_STAR_Relic_TRIAL_FurnacePlate.nodes.4.label>
+  <RHA_STAR_Relic_TRIAL_FurnacePlate.nodes.4.description>“炉铠卸压”实际造成追加伤害后，治疗本人20点基础可恢复伤势。不恢复缺失部位或永久伤疤。每8秒最多结算一次。 基础收益：治疗 20。</RHA_STAR_Relic_TRIAL_FurnacePlate.nodes.4.description>
+  <RHA_STAR_Relic_TRIAL_FurnacePlate.nodes.5.label>炉庇急救</RHA_STAR_Relic_TRIAL_FurnacePlate.nodes.5.label>
+  <RHA_STAR_Relic_TRIAL_FurnacePlate.nodes.5.description>“炉铠相护”实际增加护盾后，治疗4格内视线畅通、伤势最重的另一名殖民者40点基础普通伤势。没有合适伤者时不转给本人。不恢复缺失部位或永久伤疤。每8秒最多结算一次。 基础收益：治疗 40。</RHA_STAR_Relic_TRIAL_FurnacePlate.nodes.5.description>
+  <RHA_STAR_Relic_TRIAL_FurnacePlate.nodes.6.label>炉庇返锋</RHA_STAR_Relic_TRIAL_FurnacePlate.nodes.6.label>
+  <RHA_STAR_Relic_TRIAL_FurnacePlate.nodes.6.description>“炉铠相护”实际增加护盾后，将本次实际增量的50%存入独立储备，上限2点，15秒未补充便失效。本人后续普通命中消耗2点追加75点基础伤害。本次新存入的量不能立即消费；此前攒够的储备仍可使用。每8秒最多结算一次。 基础收益：伤害 75。</RHA_STAR_Relic_TRIAL_FurnacePlate.nodes.6.description>
+  <RHA_STAR_Relic_TRIAL_SoulLantern.nodes.0.label>万魂提灯传承</RHA_STAR_Relic_TRIAL_SoulLantern.nodes.0.label>
+  <RHA_STAR_Relic_TRIAL_SoulLantern.nodes.0.description>沿用万魂提灯的原有效果与已选觉醒。</RHA_STAR_Relic_TRIAL_SoulLantern.nodes.0.description>
+  <RHA_STAR_Relic_TRIAL_SoulLantern.nodes.1.label>魂灯追债</RHA_STAR_Relic_TRIAL_SoulLantern.nodes.1.label>
+  <RHA_STAR_Relic_TRIAL_SoulLantern.nodes.1.description>本件遗物的原有效果实际伤敌，留下5秒破口，最多一名目标，生成冷却6秒。本人后续普通命中消耗破口，追加75点基础伤害。同次事件不能立即消耗新破口。 基础收益：伤害 75。</RHA_STAR_Relic_TRIAL_SoulLantern.nodes.1.description>
+  <RHA_STAR_Relic_TRIAL_SoulLantern.nodes.2.label>残魂蓄锋</RHA_STAR_Relic_TRIAL_SoulLantern.nodes.2.label>
+  <RHA_STAR_Relic_TRIAL_SoulLantern.nodes.2.description>本件魂灯原魂弹实际伤敌时，每次存入1点私有储备，上限3点，8秒内没有新的存入便失效。本人后续普通命中消耗3点，获得75点基础追加伤害，冷却8秒；本次存入不能立即消费。 基础收益：伤害 75。</RHA_STAR_Relic_TRIAL_SoulLantern.nodes.2.description>
+  <RHA_STAR_Relic_TRIAL_SoulLantern.nodes.3.label>魂灯留债</RHA_STAR_Relic_TRIAL_SoulLantern.nodes.3.label>
+  <RHA_STAR_Relic_TRIAL_SoulLantern.nodes.3.description>“魂灯追债”实际造成追加伤害后，为实际伤及的敌人留下5秒追债标记，最多两名；本人后续普通命中消耗该目标的标记，追加50点基础伤害。技能、持续伤害和追加伤害不兑现。每8秒最多结算一次。 基础收益：伤害 50。</RHA_STAR_Relic_TRIAL_SoulLantern.nodes.3.description>
+  <RHA_STAR_Relic_TRIAL_SoulLantern.nodes.4.label>灯下济伤</RHA_STAR_Relic_TRIAL_SoulLantern.nodes.4.label>
+  <RHA_STAR_Relic_TRIAL_SoulLantern.nodes.4.description>“魂灯追债”实际造成追加伤害后，治疗4格内视线畅通、伤势最重的另一名殖民者40点基础普通伤势。没有合适伤者时不转给本人。不恢复缺失部位或永久伤疤。每8秒最多结算一次。 基础收益：治疗 40。</RHA_STAR_Relic_TRIAL_SoulLantern.nodes.4.description>
+  <RHA_STAR_Relic_TRIAL_SoulLantern.nodes.5.label>魂光岔路</RHA_STAR_Relic_TRIAL_SoulLantern.nodes.5.label>
+  <RHA_STAR_Relic_TRIAL_SoulLantern.nodes.5.description>“残魂蓄锋”实际造成追加伤害后，对受击点4格内视线畅通的另一名敌人追加25点基础伤害。没有其他敌人时不重复打击原目标。每8秒最多结算一次。 基础收益：伤害 25。</RHA_STAR_Relic_TRIAL_SoulLantern.nodes.5.description>
+  <RHA_STAR_Relic_TRIAL_SoulLantern.nodes.6.label>残魂护持</RHA_STAR_Relic_TRIAL_SoulLantern.nodes.6.label>
+  <RHA_STAR_Relic_TRIAL_SoulLantern.nodes.6.description>“残魂蓄锋”实际造成追加伤害后，为本人增加75点独立护盾，持续3秒。每8秒最多结算一次。 基础收益：护盾 75。</RHA_STAR_Relic_TRIAL_SoulLantern.nodes.6.description>
+  <RHA_STAR_Relic_TRIAL_SoulSeal.nodes.0.label>归魂圣印传承</RHA_STAR_Relic_TRIAL_SoulSeal.nodes.0.label>
+  <RHA_STAR_Relic_TRIAL_SoulSeal.nodes.0.description>沿用归魂圣印的原有效果与已选觉醒。</RHA_STAR_Relic_TRIAL_SoulSeal.nodes.0.description>
+  <RHA_STAR_Relic_TRIAL_SoulSeal.nodes.1.label>归魂还锋</RHA_STAR_Relic_TRIAL_SoulSeal.nodes.1.label>
+  <RHA_STAR_Relic_TRIAL_SoulSeal.nodes.1.description>本件归魂圣印原群体护盾实际增加时，按实际量的2%存入私有储备，上限3点，8秒内没有新的存入便失效。本人后续普通命中消耗3点，获得75点基础追加伤害，冷却8秒；本次存入不能立即消费。 基础收益：伤害 75。</RHA_STAR_Relic_TRIAL_SoulSeal.nodes.1.description>
+  <RHA_STAR_Relic_TRIAL_SoulSeal.nodes.2.label>归魂济伤</RHA_STAR_Relic_TRIAL_SoulSeal.nodes.2.label>
+  <RHA_STAR_Relic_TRIAL_SoulSeal.nodes.2.description>本件归魂圣印原群体护盾实际增加，6秒内累计2次，治疗4格内视线畅通、伤势最重的另一名殖民者40点基础普通伤势，冷却8秒。没有伤者时不改为治疗本人，也不计入本节点完成后的回馈。 基础收益：治疗 40。</RHA_STAR_Relic_TRIAL_SoulSeal.nodes.2.description>
+  <RHA_STAR_Relic_TRIAL_SoulSeal.nodes.3.label>圣印并肩</RHA_STAR_Relic_TRIAL_SoulSeal.nodes.3.label>
+  <RHA_STAR_Relic_TRIAL_SoulSeal.nodes.3.description>“归魂还锋”实际造成追加伤害后，给4格内视线畅通的最近一名其他殖民者提供50点独立护盾，持续3秒。没有队友时不转给本人。每8秒最多结算一次。 基础收益：护盾 50。</RHA_STAR_Relic_TRIAL_SoulSeal.nodes.3.description>
+  <RHA_STAR_Relic_TRIAL_SoulSeal.nodes.4.label>圣印追债</RHA_STAR_Relic_TRIAL_SoulSeal.nodes.4.label>
+  <RHA_STAR_Relic_TRIAL_SoulSeal.nodes.4.description>“归魂还锋”实际造成追加伤害后，为实际伤及的敌人留下5秒追债标记，最多两名；本人后续普通命中消耗该目标的标记，追加50点基础伤害。技能、持续伤害和追加伤害不兑现。每8秒最多结算一次。 基础收益：伤害 50。</RHA_STAR_Relic_TRIAL_SoulSeal.nodes.4.description>
+  <RHA_STAR_Relic_TRIAL_SoulSeal.nodes.5.label>归魂护持</RHA_STAR_Relic_TRIAL_SoulSeal.nodes.5.label>
+  <RHA_STAR_Relic_TRIAL_SoulSeal.nodes.5.description>“归魂济伤”实际治疗伤势后，为本人增加75点独立护盾，持续3秒。每8秒最多结算一次。 基础收益：护盾 75。</RHA_STAR_Relic_TRIAL_SoulSeal.nodes.5.description>
+  <RHA_STAR_Relic_TRIAL_SoulSeal.nodes.6.label>归魂返锋</RHA_STAR_Relic_TRIAL_SoulSeal.nodes.6.label>
+  <RHA_STAR_Relic_TRIAL_SoulSeal.nodes.6.description>“归魂济伤”实际治疗伤势后，将本次实际增量的50%存入独立储备，上限2点，15秒未补充便失效。本人后续普通命中消耗2点追加75点基础伤害。本次新存入的量不能立即消费；此前攒够的储备仍可使用。每8秒最多结算一次。 基础收益：伤害 75。</RHA_STAR_Relic_TRIAL_SoulSeal.nodes.6.description>
+</LanguageData>

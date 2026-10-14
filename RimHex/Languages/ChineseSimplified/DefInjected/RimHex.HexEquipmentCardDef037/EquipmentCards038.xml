@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_REX61A.label>疾充电容</RHA_REX61A.label>
+  <RHA_REX61A.description>重复命中上次放电目标时充能从25提高至35；换目标充满与原有2秒放电冷却不变。</RHA_REX61A.description>
+  <RHA_REX61A.theme>装备专精</RHA_REX61A.theme>
+  <RHA_REX61B.label>电弧接力</RHA_REX61B.label>
+  <RHA_REX61B.description>爆鸣放电真正伤及目标后，向3格内最多3名局部候选中的最近另一名站立敌人传导一次，造成放电实际伤害的30%，最多75。传导不能触发爆鸣充能或放电。</RHA_REX61B.description>
+  <RHA_REX61B.theme>装备专精</RHA_REX61B.theme>
+  <RHA_REX61C.label>绝缘回充</RHA_REX61C.label>
+  <RHA_REX61C.description>爆鸣放电真正伤及目标后，若自身当前护盾不足20，获得20点护盾，持续3秒；遵守原有强值护盾覆盖规则。</RHA_REX61C.description>
+  <RHA_REX61C.theme>装备专精</RHA_REX61C.theme>
+  <RHA_REX62A.label>净化节律</RHA_REX62A.label>
+  <RHA_REX62A.description>水银每真正净化1项异常，本次冷却缩短1.5秒，最多缩短6秒；最终冷却至少6秒。基础净化已经清除伤口，本卡不会重复治疗。</RHA_REX62A.description>
+  <RHA_REX62A.theme>装备专精</RHA_REX62A.theme>
+  <RHA_REX62B.label>脱困护佑</RHA_REX62B.label>
+  <RHA_REX62B.description>水银饰带成功净化后，若当前护盾不足30，获得30点护盾，持续3秒；无实际净化时不产生护盾。</RHA_REX62B.description>
+  <RHA_REX62B.theme>装备专精</RHA_REX62B.theme>
+  <RHA_REX62C.label>解缚反击</RHA_REX62C.label>
+  <RHA_REX62C.description>水银饰带成功净化后，获得一次18点追加伤害的反击，限5秒。下一次真正伤及敌人的普攻在效果结算前消耗它；脱下、死亡或离图取消，追加伤害不能再次触发反击。</RHA_REX62C.description>
+  <RHA_REX62C.theme>装备专精</RHA_REX62C.theme>
+  <RHA_REX63A.label>坚誓分担</RHA_REX63A.label>
+  <RHA_REX63A.description>分担比例从14%提高至20%，仍保留单次75的实际支付上限和守护者30%的生命门槛。</RHA_REX63A.description>
+  <RHA_REX63B.label>誓约回馈</RHA_REX63B.label>
+  <RHA_REX63B.description>誓约盟友实际敌对伤害的伤口治疗比例从12%提高至18%；单次最终修复仍最多20。</RHA_REX63B.description>
+  <RHA_REX63C.label>余誓护佑</RHA_REX63C.label>
+  <RHA_REX63C.description>真正支付分担代价、且盟友本次受击结算后，若原护盾低于25，给予25点护盾，持续3秒。每8秒最多触发一次，保留更强护盾。</RHA_REX63C.description>
+  <RHA_REX64A.label>延时凝滞</RHA_REX64A.label>
+  <RHA_REX64A.description>凝滞从2.5秒延长至3秒；装备急速仍只影响冷却。</RHA_REX64A.description>
+  <RHA_REX64B.label>流金护佑</RHA_REX64B.label>
+  <RHA_REX64B.description>只有自然到期结束凝滞时，若原护盾低于20，给予20点护盾，持续3秒；提前取消不给护盾。</RHA_REX64B.description>
+  <RHA_REX64C.label>时光修复</RHA_REX64C.label>
+  <RHA_REX64C.description>只有自然到期结束凝滞时，按期间实际阻挡伤害的20%修复伤口，最终最多25；记录的阻挡伤害最多200。没有阻挡伤害或提前取消时，不产生修复。</RHA_REX64C.description>
+</LanguageData>

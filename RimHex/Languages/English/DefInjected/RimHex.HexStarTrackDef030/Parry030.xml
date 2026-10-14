@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_STAR_Core_parry.nodes.0.label>Parry and Counter</RHA_STAR_Core_parry.nodes.0.label>
+  <RHA_STAR_Core_parry.nodes.0.description>Requires the Parry core card. Retains the stance, the counter earned by a successful parry and existing cooldowns. Only a valid attack actually blocked by the stance counts; shield absorption does not.</RHA_STAR_Core_parry.nodes.0.description>
+  <RHA_STAR_Core_parry.nodes.1.label>Duelist Counter</RHA_STAR_Core_parry.nodes.1.label>
+  <RHA_STAR_Core_parry.nodes.1.description>Stance duration falls from 2 seconds to 1. Counter base damage rises from 10 to 16 against the selected target only. A successful parry still grants a 4-second counter window. No separate branch card required; an active stance or counter opportunity prevents branch changes.</RHA_STAR_Core_parry.nodes.1.description>
+  <RHA_STAR_Core_parry.nodes.2.label>Bulwark Counter</RHA_STAR_Core_parry.nodes.2.label>
+  <RHA_STAR_Core_parry.nodes.2.description>Retain the 2-second stance. Counter base damage falls to 6, hitting the selected target and up to two other nearby enemies. Surviving enemies actually damaged are slowed for 2 seconds. No separate branch card required; active stance or counter opportunities prevent branch changes.</RHA_STAR_Core_parry.nodes.2.description>
+  <RHA_STAR_Core_parry.nodes.3.label>Follow the Opening</RHA_STAR_Core_parry.nodes.3.label>
+  <RHA_STAR_Core_parry.nodes.3.description>A damaging counter leaves a 4-second opening. Your next ordinary hit consumes it for 75 bonus damage. One opening with a 6-second creation cooldown; skills and allies cannot spend it. Base rewards: damage 75.</RHA_STAR_Core_parry.nodes.3.description>
+  <RHA_STAR_Core_parry.nodes.4.label>Second Breath</RHA_STAR_Core_parry.nodes.4.label>
+  <RHA_STAR_Core_parry.nodes.4.description>A damaging counter heals 2 recoverable injury points on you, once per 6 seconds. Misses, fully prevented counters and full health grant no healing. Missing parts and permanent scars cannot be restored. Base rewards: healing 40.</RHA_STAR_Core_parry.nodes.4.description>
+  <RHA_STAR_Core_parry.nodes.5.label>Stand Together</RHA_STAR_Core_parry.nodes.5.label>
+  <RHA_STAR_Core_parry.nodes.5.description>A successful parry grants the nearest other colonist within 4 cells and clear sight a separate 50-point shield for 3 seconds, once per 6 seconds. Attacks fully absorbed by shields do not trigger it; no self-shield fallback. Base rewards: shield 50.</RHA_STAR_Core_parry.nodes.5.description>
+  <RHA_STAR_Core_parry.nodes.6.label>Spreading Reprisal</RHA_STAR_Core_parry.nodes.6.label>
+  <RHA_STAR_Core_parry.nodes.6.description>A damaging counter deals 25 bonus damage to another enemy within 3 cells of the impact and clear sight, once per 6 seconds. An area counter triggers this at most once and cannot strike the triggering victim again. Base rewards: damage 25.</RHA_STAR_Core_parry.nodes.6.description>
+</LanguageData>

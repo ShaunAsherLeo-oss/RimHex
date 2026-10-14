@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_V23_Requires>需要先拥有熔核烙印</RHA_V23_Requires>
+  <RHA_V23_NoMark>没有可以引爆的烙印</RHA_V23_NoMark>
+  <RHA_V23_Limit>烙印已达数量上限</RHA_V23_Limit>
+  <RHA_V23_Manual>此指令仅手动施放</RHA_V23_Manual>
+  <RHA_V23_Waiting>等待烙印蓄积或有效敌人</RHA_V23_Waiting>
+  <RHA_V23_NoSummon>没有可指挥的普通投影</RHA_V23_NoSummon>
+  <RHA_V23_Brand>烙印 {0} 秒 · 蓄积 {1}/36</RHA_V23_Brand>
+  <RHA_V23_MarkOwner>施加者：{0}
+{1}</RHA_V23_MarkOwner>
+  <RHA_V23_Status>烙印与军团</RHA_V23_Status>
+  <RHA_V23_StatusDesc>查看烙印蓄积、剩余时间和普通投影的当前指令。</RHA_V23_StatusDesc>
+  <RHA_V23_Marks>在场烙印：{0}/3</RHA_V23_Marks>
+  <RHA_V23_Guard>护卫主人</RHA_V23_Guard>
+  <RHA_V23_Rally>守卫集结点 {0}</RHA_V23_Rally>
+  <RHA_V23_Focus>集火：{0}</RHA_V23_Focus>
+  <RHA_V23_Army>普通投影：{0}；{1}</RHA_V23_Army>
+  <RHA_V23_MarkStatus>熔核烙印</RHA_V23_MarkStatus>
+  <RHA_V23_MarkDesc>这枚烙印正在积存伤害，到期、死亡或被提前引爆时释放。</RHA_V23_MarkDesc>
+  <RHA_V23_Cinder>余烬</RHA_V23_Cinder>
+  <RHA_V23_CinderDesc>有限的残余热量，不会再次传播或为烙印充能。</RHA_V23_CinderDesc>
+  <RHA_V23_Ward>换位掩护</RHA_V23_Ward>
+  <RHA_V23_WardDesc>受到的伤害降低 25%。</RHA_V23_WardDesc>
+  <RHA_V23_BurnLeft>施加者：{0}；剩余 {1} 次，每次基础伤害 {2}</RHA_V23_BurnLeft>
+</LanguageData>

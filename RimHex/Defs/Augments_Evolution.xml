@@ -1,0 +1,315 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Defs>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_E_thunder_network</defName>
+    <label>Storm network</label>
+    <description>Grants 0.65 chain level. Chain hits leave the attacker's storm mark for 8 seconds. A marked enemy's death releases lightning at the nearest 3 enemies within 12 cells, dealing 32.5 + 6.5 × chain level damage. These secondary kills cannot trigger further discharges.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Thunder · Evolution</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <evolutionPath>RHA_Path_Thunder</evolutionPath>
+    <evolutionEffect>thunder_network</evolutionEffect>
+    <iconPath>RimHex/Cards/RHA_E_thunder_network</iconPath>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_E_thunder_overload</defName>
+    <label>Heaven's charge</label>
+    <description>Every third valid hit strikes the original target for an additional 65 + 65% of this hit's direct damage as lightning damage. Copied damage uses its resolved value; flat bonus damage can still be amplified.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Thunder · Evolution</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <evolutionPath>RHA_Path_Thunder</evolutionPath>
+    <evolutionEffect>thunder_overload</evolutionEffect>
+    <iconPath>RimHex/Cards/RHA_E_thunder_overload</iconPath>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_E_flame_spread</defName>
+    <label>Undying embers</label>
+    <description>Grants 0.65 burn level. Once per second, the wearer's burn can spread a level-0.65 burn lasting 4 seconds to the nearest 2 other enemies within 5 cells of its target.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Flame · Evolution</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <evolutionPath>RHA_Path_Flame</evolutionPath>
+    <evolutionEffect>flame_spread</evolutionEffect>
+    <iconPath>RimHex/Cards/RHA_E_flame_spread</iconPath>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_E_flame_consume</defName>
+    <label>Molten judgment</label>
+    <description>Grants 0.65 burn level. Every fourth valid hit consumes the wearer's ordinary and stacking burns on the target, immediately dealing 130% of their remaining damage.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Flame · Evolution</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <evolutionPath>RHA_Path_Flame</evolutionPath>
+    <evolutionEffect>flame_consume</evolutionEffect>
+    <iconPath>RimHex/Cards/RHA_E_flame_consume</iconPath>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_E_blood_grail</defName>
+    <label>Crimson chalice</label>
+    <description>Adds 32.5% direct lifesteal. Converts 65% of the wearer's excess healing into a shield on the recipient for 10 seconds. Accumulated shield capacity is capped at 400 × health bonus multiplier.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Blood · Evolution</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <evolutionPath>RHA_Path_Blood</evolutionPath>
+    <evolutionEffect>blood_grail</evolutionEffect>
+    <iconPath>RimHex/Cards/RHA_E_blood_grail</iconPath>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_E_blood_feast</defName>
+    <label>All flesh as one</label>
+    <description>Adds 65% health and 19.5% direct lifesteal. A full contribution share grants 1.3 additional permanent feast stacks. The killing blow still heals 16.25 injury points. Each feast stack adds 4% health and 3% damage. Each permanent growth effect retains its full benefit through 100 points, then has diminishing returns. Share growth among holders of the same ability who contributed in the last 30 seconds, using each holder's own rate. Count damage, added stun time and Hex-attributed healing or shield absorption. Healing must repair recent enemy damage. If damage contributors are present, support takes at most 25% of the pool. Bystanders, ordinary animals, prisoners and finishing downed targets give no growth.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Blood · Evolution</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <evolutionPath>RHA_Path_Blood</evolutionPath>
+    <evolutionEffect>blood_feast</evolutionEffect>
+    <iconPath>RimHex/Cards/RHA_E_blood_feast</iconPath>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_E_titan_quake</defName>
+    <label>Mountain's wrath</label>
+    <description>Adds 65% health. Every third valid hit deals 13 × the wearer's actual health scale as shock damage to up to 16 standing enemies within 6 cells of the impact.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Titan · Evolution</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <evolutionPath>RHA_Path_Titan</evolutionPath>
+    <evolutionEffect>titan_quake</evolutionEffect>
+    <iconPath>RimHex/Cards/RHA_E_titan_quake</iconPath>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_E_titan_bastion</defName>
+    <label>Deathless mountain</label>
+    <description>Adds 65% health. After standing still for about 5 seconds, gains a shield of 65 × actual health scale every 5 seconds, lasting about 8 seconds. Moving resets the waiting period.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Titan · Evolution</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <evolutionPath>RHA_Path_Titan</evolutionPath>
+    <evolutionEffect>titan_bastion</evolutionEffect>
+    <iconPath>RimHex/Cards/RHA_E_titan_bastion</iconPath>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_E_frost_shatter</defName>
+    <label>Frostshatter throne</label>
+    <description>Grants 0.65 Everfrost level. Successfully stunning an enemy deals 39 frost damage to up to 16 standing enemies within 4 cells of it. Cooldown: 3 seconds.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Frost · Evolution</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <evolutionPath>RHA_Path_Frost</evolutionPath>
+    <evolutionEffect>frost_shatter</evolutionEffect>
+    <iconPath>RimHex/Cards/RHA_E_frost_shatter</iconPath>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_E_frost_winter</defName>
+    <label>Walking winter</label>
+    <description>About every 4.2 seconds, slows the nearest 12 enemies within 8 cells by 30% for 5 seconds. Every 12.5 seconds, deals 39 frost damage to those enemies.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Frost · Evolution</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <evolutionPath>RHA_Path_Frost</evolutionPath>
+    <evolutionEffect>frost_winter</evolutionEffect>
+    <iconPath>RimHex/Cards/RHA_E_frost_winter</iconPath>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_E_blade_echo</defName>
+    <label>Thousand-blade echo</label>
+    <description>Adds 0.65 to melee and ranged cooldown divisors. Every third valid hit delivers two additional strikes to the original target, each dealing 39% of this hit's direct damage. Copied damage uses its resolved value; flat bonus damage can still be amplified.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Blade · Evolution</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <evolutionPath>RHA_Path_Blade</evolutionPath>
+    <evolutionEffect>blade_echo</evolutionEffect>
+    <iconPath>RimHex/Cards/RHA_E_blade_echo</iconPath>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_E_blade_whirl</defName>
+    <label>Crimson whirlwind</label>
+    <description>Every second valid hit deals 29.25 + 26% of this hit's direct damage as spinning-blade damage to up to 16 other standing enemies within 5 cells of the target. Copied damage uses its resolved value; flat bonus damage can still be amplified.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Blade · Evolution</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <evolutionPath>RHA_Path_Blade</evolutionPath>
+    <evolutionEffect>blade_whirl</evolutionEffect>
+    <iconPath>RimHex/Cards/RHA_E_blade_whirl</iconPath>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_E_marksman_far</defName>
+    <label>Distant execution</label>
+    <description>Direct attacks against enemies at least 12 cells away deal 65% more damage. Secondary damage does not receive this multiplier again.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Marksman · Evolution</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <evolutionPath>RHA_Path_Marksman</evolutionPath>
+    <evolutionEffect>marksman_far</evolutionEffect>
+    <iconPath>RimHex/Cards/RHA_E_marksman_far</iconPath>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_E_marksman_pierce</defName>
+    <label>Star-piercing shot</label>
+    <description>After a valid hit, extends a straight path 12 cells behind the target, about 2.5 cells wide. Standing enemies in the path take 48.75% of this hit's direct damage. Copied damage uses its resolved value; flat bonus damage can still be amplified.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Marksman · Evolution</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <evolutionPath>RHA_Path_Marksman</evolutionPath>
+    <evolutionEffect>marksman_pierce</evolutionEffect>
+    <iconPath>RimHex/Cards/RHA_E_marksman_pierce</iconPath>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_E_spirit_reap</defName>
+    <label>Soul vault</label>
+    <description>A full contribution share grants 1.95 additional permanent soul marks. The killing blow still heals 19.5 injury points. Each soul mark adds 4% damage and 0.02 regeneration per second. Each permanent growth effect retains its full benefit through 100 points, then has diminishing returns. Share growth among holders of the same ability who contributed in the last 30 seconds, using each holder's own rate. Count damage, added stun time and Hex-attributed healing or shield absorption. Healing must repair recent enemy damage. If damage contributors are present, support takes at most 25% of the pool. Bystanders, ordinary animals, prisoners and finishing downed targets give no growth.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Spirit · Evolution</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <evolutionPath>RHA_Path_Spirit</evolutionPath>
+    <evolutionEffect>spirit_reap</evolutionEffect>
+    <iconPath>RimHex/Cards/RHA_E_spirit_reap</iconPath>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_E_spirit_echo</defName>
+    <label>Chorus of souls</label>
+    <description>Every third valid hit fires a soul bolt at each of the nearest 3 standing enemies within 8 cells of the impact. Each bolt deals 19.5 + 1.3 × permanent soul marks damage. Each permanent growth effect retains its full benefit through 100 points, then has diminishing returns.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Spirit · Evolution</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <evolutionPath>RHA_Path_Spirit</evolutionPath>
+    <evolutionEffect>spirit_echo</evolutionEffect>
+    <iconPath>RimHex/Cards/RHA_E_spirit_echo</iconPath>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_E_guardian_sanctuary</defName>
+    <label>Astral sanctuary</label>
+    <description>About every 8.3 seconds, grants a 65-point shield to the nearest 12 friendly humanlike colonists within 10 cells. Lasts 10 seconds.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Guardian · Evolution</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <evolutionPath>RHA_Path_Guardian</evolutionPath>
+    <evolutionEffect>guardian_sanctuary</evolutionEffect>
+    <iconPath>RimHex/Cards/RHA_E_guardian_sanctuary</iconPath>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_E_guardian_repay</defName>
+    <label>Heaven's bulwark</label>
+    <description>Adds 0.65 to the damage-taken divisor. After a shield absorbs an enemy's direct attack, returns 130% of the absorbed amount to the attacker. Cooldown: 1 second. Retaliations cannot trigger each other recursively.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Guardian · Evolution</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <evolutionPath>RHA_Path_Guardian</evolutionPath>
+    <evolutionEffect>guardian_repay</evolutionEffect>
+    <iconPath>RimHex/Cards/RHA_E_guardian_repay</iconPath>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_E_wealth_dividend</defName>
+    <label>Golden interest</label>
+    <description>Each day, provides an additional 1.95% of the silver held across player home maps, up to 6500 silver. Rewards are queued if no recipient is available.</description>
+    <scope>Colony</scope>
+    <tier>Prismatic</tier>
+    <theme>Wealth · Evolution</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <evolutionPath>RHA_Path_Wealth</evolutionPath>
+    <evolutionEffect>wealth_dividend</evolutionEffect>
+    <iconPath>RimHex/Cards/RHA_E_wealth_dividend</iconPath>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_E_wealth_bonds</defName>
+    <label>War bonds</label>
+    <description>Whenever a player humanlike colonist kills a standing enemy, the colony gains 65 additional silver. Secondary kills cannot recursively trigger this evolution's reward.</description>
+    <scope>Colony</scope>
+    <tier>Prismatic</tier>
+    <theme>Wealth · Evolution</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <evolutionPath>RHA_Path_Wealth</evolutionPath>
+    <evolutionEffect>wealth_bonds</evolutionEffect>
+    <iconPath>RimHex/Cards/RHA_E_wealth_bonds</iconPath>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_E_industry_forge</defName>
+    <label>Universal furnace</label>
+    <description>Produces an additional 260 steel and 5 components each day. Output is queued when no receiving map is available and delivered when one becomes available.</description>
+    <scope>Colony</scope>
+    <tier>Prismatic</tier>
+    <theme>Industry · Evolution</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <evolutionPath>RHA_Path_Industry</evolutionPath>
+    <evolutionEffect>industry_forge</evolutionEffect>
+    <iconPath>RimHex/Cards/RHA_E_industry_forge</iconPath>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_E_industry_overclock</defName>
+    <label>Perpetual industry</label>
+    <description>All player humanlike colonists gain 130% work speed, 130% research speed and 65% mining yield. The mining bonus applies to actual dropped resources.</description>
+    <scope>Colony</scope>
+    <tier>Prismatic</tier>
+    <theme>Industry · Evolution</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <evolutionPath>RHA_Path_Industry</evolutionPath>
+    <evolutionEffect>industry_overclock</evolutionEffect>
+    <iconPath>RimHex/Cards/RHA_E_industry_overclock</iconPath>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_E_harvest_granary</defName>
+    <label>Bountiful stores</label>
+    <description>Produces an additional 26 packaged survival meals and 7 medicine each day. Supplies are queued if no recipient is available.</description>
+    <scope>Colony</scope>
+    <tier>Prismatic</tier>
+    <theme>Harvest · Evolution</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <evolutionPath>RHA_Path_Harvest</evolutionPath>
+    <evolutionEffect>harvest_granary</evolutionEffect>
+    <iconPath>RimHex/Cards/RHA_E_harvest_granary</iconPath>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_E_harvest_life</defName>
+    <label>Torrent of life</label>
+    <description>All player humanlike colonists gain 65% health, 1.95 injury points of healing per second and 130% plant harvest yield. The yield bonus applies to the actual harvest.</description>
+    <scope>Colony</scope>
+    <tier>Prismatic</tier>
+    <theme>Harvest · Evolution</theme>
+    <weight>0</weight>
+    <maxStacks>1</maxStacks>
+    <evolutionPath>RHA_Path_Harvest</evolutionPath>
+    <evolutionEffect>harvest_life</evolutionEffect>
+    <iconPath>RimHex/Cards/RHA_E_harvest_life</iconPath>
+  </RimHex.HexAugmentDef>
+</Defs>

@@ -1,0 +1,243 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Defs>
+  <RimHex.HexAwakeningDef>
+    <defName>RHA_Awake_Runecarver</defName>
+    <label>Runecarver</label>
+    <description>Deal actual chain damage to 60 secondary targets</description>
+    <relic>RHA_Runecarver</relic>
+    <metric>chain</metric>
+    <required>60</required>
+    <branches>
+      <li>arc_fork</li>
+      <li>arc_lance</li>
+    </branches>
+    <names>
+      <li>Forked thunder</li>
+      <li>Judgment spear</li>
+    </names>
+    <descriptions>
+      <li>Adds 3 additional chain levels.</li>
+      <li>Every third valid hit deals 90 additional lightning damage to the original target.</li>
+    </descriptions>
+  </RimHex.HexAwakeningDef>
+  <RimHex.HexAwakeningDef>
+    <defName>RHA_Awake_Embertide</defName>
+    <label>Sunfire core</label>
+    <description>Deal 2,000 actual burn damage while worn</description>
+    <relic>RHA_Embertide</relic>
+    <metric>burn</metric>
+    <required>2000</required>
+    <branches>
+      <li>ember_crown</li>
+      <li>ember_burst</li>
+    </branches>
+    <names>
+      <li>Worldfire crown</li>
+      <li>Ember nova</li>
+    </names>
+    <descriptions>
+      <li>Adds 4 burn levels and 3 Sunfire aura levels.</li>
+      <li>Killing a standing enemy deals 90 blast damage to up to 16 standing enemies within 6 tiles. Cooldown: 2 seconds. Secondary kills cannot trigger further blasts.</li>
+    </descriptions>
+  </RimHex.HexAwakeningDef>
+  <RimHex.HexAwakeningDef>
+    <defName>RHA_Awake_Bloodmail</defName>
+    <label>Bloodforged armor</label>
+    <description>Generate 1,200 direct-attack lifesteal healing while worn, including excess</description>
+    <relic>RHA_Bloodmail</relic>
+    <metric>vamp</metric>
+    <required>1200</required>
+    <branches>
+      <li>blood_pool</li>
+      <li>blood_revenge</li>
+    </branches>
+    <names>
+      <li>Blood reservoir</li>
+      <li>Blood debt</li>
+    </names>
+    <descriptions>
+      <li>Adds 50% direct lifesteal. Converts 50% of the wearer's excess healing into a shield on the recipient for 10 seconds, capped at 400 × health bonus multiplier.</li>
+      <li>Stores three times the direct damage taken from enemies as vengeance damage. It is consumed by the next direct attack against an enemy.</li>
+    </descriptions>
+  </RimHex.HexAwakeningDef>
+  <RimHex.HexAwakeningDef>
+    <defName>RHA_Awake_Darksteel</defName>
+    <label>Blacksteel talons</label>
+    <description>Gain 100 steel marks while worn</description>
+    <relic>RHA_Darksteel</relic>
+    <metric>steel</metric>
+    <required>100</required>
+    <branches>
+      <li>steel_colossus</li>
+      <li>steel_fist</li>
+    </branches>
+    <names>
+      <li>Blacksteel titan</li>
+      <li>Mountain-crushing fist</li>
+    </names>
+    <descriptions>
+      <li>Adds 3 steel marks to each steel proc and 200% health.</li>
+      <li>Each direct attack against an enemy deals additional damage equal to 15 × the wearer's actual health scale.</li>
+    </descriptions>
+  </RimHex.HexAwakeningDef>
+  <RimHex.HexAwakeningDef>
+    <defName>RHA_Awake_Frostguard</defName>
+    <label>Frozen heart</label>
+    <description>Successfully stun enemies 30 times while worn</description>
+    <relic>RHA_Frostguard</relic>
+    <metric>control</metric>
+    <required>30</required>
+    <branches>
+      <li>frost_ring</li>
+      <li>frost_breaker</li>
+    </branches>
+    <names>
+      <li>Frozen citadel</li>
+      <li>Frostshatter axe</li>
+    </names>
+    <descriptions>
+      <li>About every 4.2 seconds, slows the nearest 12 enemies within 6 tiles. About every 8.3 seconds, gains 40 shield points per nearby enemy, lasting 10 seconds.</li>
+      <li>Successfully stunning an enemy deals 120 additional damage to it. Cooldown: 3 seconds.</li>
+    </descriptions>
+  </RimHex.HexAwakeningDef>
+  <RimHex.HexAwakeningDef>
+    <defName>RHA_Awake_Hydra</defName>
+    <label>Hydra's embrace</label>
+    <description>Deal actual cleave damage to 80 secondary targets while worn</description>
+    <relic>RHA_Hydra</relic>
+    <metric>cleave</metric>
+    <required>80</required>
+    <branches>
+      <li>hydra_heads</li>
+      <li>hydra_hunt</li>
+    </branches>
+    <names>
+      <li>Nine-headed feast</li>
+      <li>Hunter's frenzy</li>
+    </names>
+    <descriptions>
+      <li>Adds 4 cleave levels and 100% damage.</li>
+      <li>Killing a standing enemy heals 80 injury points and grants 100% movement speed and 100% damage for 10 seconds. Further kills refresh the duration.</li>
+    </descriptions>
+  </RimHex.HexAwakeningDef>
+  <RimHex.HexAwakeningDef>
+    <defName>RHA_Awake_Ballista</defName>
+    <label>Siege crossbow</label>
+    <description>Hit enemies at least 12 cells away 60 times while worn</description>
+    <relic>RHA_Ballista</relic>
+    <metric>farhit</metric>
+    <required>60</required>
+    <branches>
+      <li>siege</li>
+      <li>piercing</li>
+    </branches>
+    <names>
+      <li>Horizon cannon</li>
+      <li>Cloudpiercer</li>
+    </names>
+    <descriptions>
+      <li>Adds 10 tiles of range and 20% additional damage per tile beyond 4 tiles, counting at most 25 tiles.</li>
+      <li>Valid hits extend a straight path 12 tiles behind the original target, about 2.5 tiles wide. Standing enemies in the path take 50% of this hit's direct damage.</li>
+    </descriptions>
+  </RimHex.HexAwakeningDef>
+  <RimHex.HexAwakeningDef>
+    <defName>RHA_Awake_Soulreaver</defName>
+    <label>Soul vessel</label>
+    <description>While worn, earn 40 contribution shares from eligible enemy defeats</description>
+    <relic>RHA_Soulreaver</relic>
+    <metric>kills</metric>
+    <required>40</required>
+    <branches>
+      <li>soul_harvest</li>
+      <li>soul_release</li>
+    </branches>
+    <names>
+      <li>Soul collector</li>
+      <li>Soul barrage</li>
+    </names>
+    <descriptions>
+      <li>Grants 4 additional permanent soul marks per full contribution share.</li>
+      <li>New active ability: consume 10–50 soul marks to deal 30 damage per mark to up to 16 standing enemies within 16 tiles. Cooldown: 10 seconds.</li>
+    </descriptions>
+  </RimHex.HexAwakeningDef>
+  <RimHex.HexAwakeningDef>
+    <defName>RHA_Awake_Moonstone</defName>
+    <label>Moonlight loom</label>
+    <description>Actually heal 1,200 injury points on the wearer or allies while worn</description>
+    <relic>RHA_Moonstone</relic>
+    <metric>heal</metric>
+    <required>1200</required>
+    <branches>
+      <li>moon_shelter</li>
+      <li>moon_ray</li>
+    </branches>
+    <names>
+      <li>Moonlight shelter</li>
+      <li>Redemption beam</li>
+    </names>
+    <descriptions>
+      <li>Adds 3 group-healing levels. Converts 50% of the wearer's excess healing into a shield on the recipient for 10 seconds, capped at 400 × health bonus multiplier.</li>
+      <li>After healing actual injuries, deals 200% of that healing as damage to the nearest enemy within 12 tiles. Cooldown: 1 second.</li>
+    </descriptions>
+  </RimHex.HexAwakeningDef>
+  <RimHex.HexAwakeningDef>
+    <defName>RHA_Awake_Gambler</defName>
+    <label>Gambler's coin</label>
+    <description>Earn 5,000 silver from base bounties while worn</description>
+    <relic>RHA_Gambler</relic>
+    <metric>bounty</metric>
+    <required>5000</required>
+    <branches>
+      <li>jackpot</li>
+      <li>gildedguard</li>
+    </branches>
+    <names>
+      <li>Full house</li>
+      <li>Golden victor</li>
+    </names>
+    <descriptions>
+      <li>Adds 200 silver to the base bounty per kill and 50% critical value.</li>
+      <li>Killing a standing enemy grants 250 shield points for 10 seconds.</li>
+    </descriptions>
+  </RimHex.HexAwakeningDef>
+  <RimHex.HexAwakeningDef>
+    <defName>RHA_Awake_Worldforge</defName>
+    <label>Universal forge</label>
+    <description>Spend 2 days working while worn, including travel to jobs</description>
+    <relic>RHA_Worldforge</relic>
+    <metric>work</metric>
+    <required>120000</required>
+    <branches>
+      <li>factory</li>
+      <li>fieldforge</li>
+    </branches>
+    <names>
+      <li>World factory</li>
+      <li>Field forge</li>
+    </names>
+    <descriptions>
+      <li>Adds 300% work speed and 100% mining yield.</li>
+      <li>While drafted, grants 160 shield points to the nearest 12 allied human colonists within 8 tiles about every 8.3 seconds. Shields last 10 seconds.</li>
+    </descriptions>
+  </RimHex.HexAwakeningDef>
+  <RimHex.HexAwakeningDef>
+    <defName>RHA_Awake_Dragonheart</defName>
+    <label>Dragonheart</label>
+    <description>Wear for a total of 3 days, including caravans</description>
+    <relic>RHA_Dragonheart</relic>
+    <metric>wear</metric>
+    <required>180000</required>
+    <branches>
+      <li>elder</li>
+      <li>lifespring</li>
+    </branches>
+    <names>
+      <li>Elder dragon</li>
+      <li>Dragon spring</li>
+    </names>
+    <descriptions>
+      <li>Each dragon soul grants another 60% health and 60% damage, up to an additional 360% of each.</li>
+      <li>Adds 6 injury points healed per second. About every 4.2 seconds, heals 30 injury points on each of the nearest 12 allied human colonists within 10 tiles.</li>
+    </descriptions>
+  </RimHex.HexAwakeningDef>
+</Defs>

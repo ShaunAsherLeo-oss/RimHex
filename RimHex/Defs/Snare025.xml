@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Defs>
+  <HediffDef>
+    <defName>RHA_Snare025</defName>
+    <label>prismatic snare</label>
+    <description>Movement is reduced by 25% for a short time.</description>
+    <hediffClass>RimHex.Hediff_HexTimed</hediffClass>
+    <isBad>true</isBad>
+    <initialSeverity>1</initialSeverity>
+    <stages>
+      <li>
+        <statFactors>
+          <MoveSpeed>0.75</MoveSpeed>
+        </statFactors>
+      </li>
+    </stages>
+  </HediffDef>
+</Defs>

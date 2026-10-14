@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_STAR_Relic_Runecarver.nodes.0.label>Waking Rune</RHA_STAR_Relic_Runecarver.nodes.0.label>
+  <RHA_STAR_Relic_Runecarver.nodes.0.description>Retains Runecarver and its original awakening without granting stats or chain levels twice. Later nodes count the current wearer’s effective ordinary hits, excluding secondary damage.</RHA_STAR_Relic_Runecarver.nodes.0.description>
+  <RHA_STAR_Relic_Runecarver.nodes.1.label>Forked Inscription</RHA_STAR_Relic_Runecarver.nodes.1.label>
+  <RHA_STAR_Relic_Runecarver.nodes.1.description>Every 3 effective ordinary hits deal 50 bonus damage each to up to 2 other enemies within 4 cells and clear sight of the impact. Cooldown: 6 seconds; hits during cooldown do not count. Never hits the original target again. Base rewards: damage 50.</RHA_STAR_Relic_Runecarver.nodes.1.description>
+  <RHA_STAR_Relic_Runecarver.nodes.2.label>Piercing Inscription</RHA_STAR_Relic_Runecarver.nodes.2.label>
+  <RHA_STAR_Relic_Runecarver.nodes.2.description>Three consecutive ordinary hits on the same enemy, no more than 3 seconds apart, deal 75 bonus damage. Cooldown: 6 seconds. Changing targets resets the count; hits during cooldown do not count. Base rewards: damage 75.</RHA_STAR_Relic_Runecarver.nodes.2.description>
+  <RHA_STAR_Relic_Runecarver.nodes.3.label>Static Mantle</RHA_STAR_Relic_Runecarver.nodes.3.label>
+  <RHA_STAR_Relic_Runecarver.nodes.3.description>After Forked Inscription deals damage, gain a separate 25-point shield for 3 seconds, once per 6 seconds. Multiple victims of one fork do not grant extra shields. Base rewards: shield 25.</RHA_STAR_Relic_Runecarver.nodes.3.description>
+  <RHA_STAR_Relic_Runecarver.nodes.4.label>Mending Current</RHA_STAR_Relic_Runecarver.nodes.4.label>
+  <RHA_STAR_Relic_Runecarver.nodes.4.description>After Forked Inscription deals damage, heal 20 base points of your recoverable injuries, once per 6 seconds. One heal per fork at most; missing parts and permanent scars are not restored. Base rewards: healing 20.</RHA_STAR_Relic_Runecarver.nodes.4.description>
+  <RHA_STAR_Relic_Runecarver.nodes.5.label>Runic Aftershock</RHA_STAR_Relic_Runecarver.nodes.5.label>
+  <RHA_STAR_Relic_Runecarver.nodes.5.description>After Piercing Inscription deals its bonus damage, leave a warning at the impact. After 1.5 seconds, deal 50 damage each to up to 2 enemies within 3 cells and clear sight, once per 6 seconds. Targets can leave the warning area. Base rewards: damage 50.</RHA_STAR_Relic_Runecarver.nodes.5.description>
+  <RHA_STAR_Relic_Runecarver.nodes.6.label>Runic Cover</RHA_STAR_Relic_Runecarver.nodes.6.label>
+  <RHA_STAR_Relic_Runecarver.nodes.6.description>After Piercing Inscription deals its bonus damage, grant the nearest other eligible colonist within 4 cells and clear sight of you a 50-point shield for 3 seconds, once per 6 seconds. With no ally, it is not redirected to you. Base rewards: shield 50.</RHA_STAR_Relic_Runecarver.nodes.6.description>
+</LanguageData>

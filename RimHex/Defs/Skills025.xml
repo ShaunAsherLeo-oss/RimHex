@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Defs>
+  <RimHex.HexSkillDef>
+    <defName>RHA_Skill_Guard025</defName>
+    <label>Guard Stance</label>
+    <description>Open a 2-second guard window. Blocking one direct attack readies Riposte. Fixed 12-second recovery. Manual only. These are base-form values; inspect the build panel and health status for the selected branch.</description>
+    <cardKey>Guard025</cardKey>
+    <aim>Self</aim>
+    <range>0</range>
+    <radius>0</radius>
+    <cooldown>720</cooldown>
+    <visual>ShieldHit</visual>
+    <autoRule>Threat</autoRule>
+    <minEnemies>1</minEnemies>
+    <iconPath>RimHex/Skills/Guard025</iconPath>
+  </RimHex.HexSkillDef>
+  <RimHex.HexSkillDef>
+    <defName>RHA_Skill_Counter025</defName>
+    <label>Riposte</label>
+    <description>Spend a stored riposte to deal 10 base ability damage to an enemy within 2 cells. The opportunity lasts 4 seconds. Manual only. These are base-form values; inspect the build panel and health status for the selected branch.</description>
+    <cardKey>Counter025</cardKey>
+    <aim>Enemy</aim>
+    <range>2</range>
+    <radius>0</radius>
+    <cooldown>60</cooldown>
+    <visual>Cleave</visual>
+    <autoRule>Threat</autoRule>
+    <minEnemies>1</minEnemies>
+    <iconPath>RimHex/Skills/Counter025</iconPath>
+  </RimHex.HexSkillDef>
+  <RimHex.HexSkillDef>
+    <defName>RHA_Skill_Mine025</defName>
+    <label>Deploy Mine</label>
+    <description>Deploy a temporary mine that arms after 1 second and lasts 30 seconds. Limit 3 per owner, 12 per map. Fixed 6-second deployment interval. Manual only. These are base-form values; inspect the build panel and health status for the selected branch.</description>
+    <cardKey>Mine025</cardKey>
+    <aim>Ground</aim>
+    <range>12</range>
+    <radius>1.5</radius>
+    <cooldown>360</cooldown>
+    <visual>Portal</visual>
+    <autoRule>Threat</autoRule>
+    <minEnemies>1</minEnemies>
+    <iconPath>RimHex/Skills/Mine025</iconPath>
+  </RimHex.HexSkillDef>
+  <RimHex.HexSkillDef>
+    <defName>RHA_Skill_Trigger025</defName>
+    <label>Detonate Mine</label>
+    <description>Choose one of your armed mines to detonate immediately for area secondary damage. Manual only. These are base-form values; inspect the build panel and health status for the selected branch.</description>
+    <cardKey>Trigger025</cardKey>
+    <aim>Ground</aim>
+    <range>12</range>
+    <radius>2</radius>
+    <cooldown>60</cooldown>
+    <visual>Nova</visual>
+    <autoRule>Threat</autoRule>
+    <minEnemies>1</minEnemies>
+    <iconPath>RimHex/Skills/Trigger025</iconPath>
+  </RimHex.HexSkillDef>
+  <RimHex.HexSkillDef>
+    <defName>RHA_Skill_Disarm025</defName>
+    <label>Disarm Mine</label>
+    <description>Remove one of your untriggered mines. Returns no resources and does not reset deployment recovery. Warning mines cannot be disarmed. Manual only. These are base-form values; inspect the build panel and health status for the selected branch.</description>
+    <cardKey>Disarm025</cardKey>
+    <aim>Ground</aim>
+    <range>12</range>
+    <radius>0</radius>
+    <cooldown>60</cooldown>
+    <visual>Soul</visual>
+    <autoRule>Threat</autoRule>
+    <minEnemies>1</minEnemies>
+    <iconPath>RimHex/Skills/Disarm025</iconPath>
+  </RimHex.HexSkillDef>
+</Defs>

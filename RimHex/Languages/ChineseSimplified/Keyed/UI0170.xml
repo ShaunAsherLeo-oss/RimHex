@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_UI17_ChoosePawn>选择殖民者</RHA_UI17_ChoosePawn>
+  <RHA_UI17_SearchPawn>按姓名搜索殖民者</RHA_UI17_SearchPawn>
+  <RHA_UI17_Clear>清空</RHA_UI17_Clear>
+  <RHA_UI17_Select>选择</RHA_UI17_Select>
+  <RHA_UI17_OffMap>未在地图上</RHA_UI17_OffMap>
+  <RHA_UI17_Compact>精简浏览</RHA_UI17_Compact>
+  <RHA_UI17_Expanded>完整说明</RHA_UI17_Expanded>
+  <RHA_UI17_DescriptionHint>精简浏览显示概要，悬停查看全文。</RHA_UI17_DescriptionHint>
+</LanguageData>

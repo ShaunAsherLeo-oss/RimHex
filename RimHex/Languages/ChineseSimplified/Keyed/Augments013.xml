@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_013_RerollSetting>每张候选的基础刷新次数：{0}</RHA_013_RerollSetting>
+  <RHA_013_RerollSlot>刷新此卡 · 剩余 {0}</RHA_013_RerollSlot>
+  <RHA_013_CardGranted>卡牌授予</RHA_013_CardGranted>
+  <RHA_013_LearnByCard>选择对应强化卡即可学会，无需另行学习。</RHA_013_LearnByCard>
+  <RHA_013_NoLanding>附近没有可用的战斗落点。</RHA_013_NoLanding>
+  <RHA_013_ManualReturn>归位只由玩家手动施放。</RHA_013_ManualReturn>
+  <RHA_013_DraftedMovement>自动位移只在征召战斗中施放。</RHA_013_DraftedMovement>
+  <RHA_013_NoReturn>没有可用的归位起点，或起点已被阻挡。</RHA_013_NoReturn>
+  <RHA_013_SkillCritical>战技暴击</RHA_013_SkillCritical>
+  <RHA_013_ToothDropped>破甲残片已落地</RHA_013_ToothDropped>
+  <RHA_013_ToothClaimed>拾取破甲残片，获得永久成长</RHA_013_ToothClaimed>
+  <RHA_013_DebtDeferred>护甲结算后的伤势已延迟</RHA_013_DebtDeferred>
+  <RHA_013_DebtPaid>延迟伤势结算</RHA_013_DebtPaid>
+  <RHA_013_Status>破甲成长：{0} 层（+{1} 个百分点穿透）\n技能成长：{2} 层\n待承受伤势：{3}\n狂徒豪气：{4} 层\n暴击律动：{5} 层</RHA_013_Status>
+  <RHA_013_ErosionState>{0} 层 · 被穿透 +{1} 个百分点</RHA_013_ErosionState>
+  <RHA_013_ToothOwner>归属：{0}\n拾取后成长：{1} 层</RHA_013_ToothOwner>
+</LanguageData>

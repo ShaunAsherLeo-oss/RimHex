@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_016_Limit>召唤达到上限或附近没有可用落点（每人六只／每图二十四只）。</RHA_016_Limit>
+  <RHA_016_NoEnemy>附近没有符合条件的敌人。</RHA_016_NoEnemy>
+  <RHA_016_Summon>主人：{0}\n剩余：{1}\n生命倍率：{2}\n伤害倍率：{3}\n无战利品，不继承经济或命中联动。</RHA_016_Summon>
+  <RHA_016_Status>召唤物：{0}/6（地图上限 24）\n蜂群蓄能：{1}/200\n续命蓄能：{2}/40\n续命冷却：{3}\n直接伤害庇护：{4}\n黎明续疗：{5} 次\n借命剩余：{6}</RHA_016_Status>
+</LanguageData>

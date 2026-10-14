@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_STAR_Relic_Chronoblade.nodes.0.label>Chronoblade Rhythm</RHA_STAR_Relic_Chronoblade.nodes.0.label>
+  <RHA_STAR_Relic_Chronoblade.nodes.0.description>Retains original rage stacking, duration and melee/ranged cooldown attributes. Later nodes count actual ordinary hits; abilities and secondary damage do not charge them. They do not raise the rage cap. Progression stays with the item.</RHA_STAR_Relic_Chronoblade.nodes.0.description>
+  <RHA_STAR_Relic_Chronoblade.nodes.1.label>Three-beat Cut</RHA_STAR_Relic_Chronoblade.nodes.1.label>
+  <RHA_STAR_Relic_Chronoblade.nodes.1.description>Three consecutive ordinary hits on the same enemy, no more than 1.5 seconds apart, deal 50 bonus damage, once per 6 seconds. Changing targets or exceeding the interval restarts the count. Base rewards: damage 50.</RHA_STAR_Relic_Chronoblade.nodes.1.description>
+  <RHA_STAR_Relic_Chronoblade.nodes.2.label>Lingering Cut</RHA_STAR_Relic_Chronoblade.nodes.2.label>
+  <RHA_STAR_Relic_Chronoblade.nodes.2.description>Three consecutive ordinary hits on the same enemy, no more than 3 seconds apart, leave a cut at the third impact cell. After 1 second, it deals 50 damage to up to two enemies within 2 cells and clear sight of that cell. It stays in place, with one pending cut maximum and an 8-second cooldown. Changing targets restarts the count. Base rewards: damage 50.</RHA_STAR_Relic_Chronoblade.nodes.2.description>
+  <RHA_STAR_Relic_Chronoblade.nodes.3.label>Measured Respite</RHA_STAR_Relic_Chronoblade.nodes.3.label>
+  <RHA_STAR_Relic_Chronoblade.nodes.3.description>After Three-beat Cut deals actual bonus damage, heal 20 base points of your recoverable injuries, once per 6 seconds. Permanent scars and missing parts are not restored. Base rewards: healing 20.</RHA_STAR_Relic_Chronoblade.nodes.3.description>
+  <RHA_STAR_Relic_Chronoblade.nodes.4.label>Guarded Beat</RHA_STAR_Relic_Chronoblade.nodes.4.label>
+  <RHA_STAR_Relic_Chronoblade.nodes.4.description>After Three-beat Cut deals actual bonus damage, shield yourself for 50 base points over 3 seconds, once per 6 seconds. Base rewards: shield 50.</RHA_STAR_Relic_Chronoblade.nodes.4.description>
+  <RHA_STAR_Relic_Chronoblade.nodes.5.label>Delayed Respite</RHA_STAR_Relic_Chronoblade.nodes.5.label>
+  <RHA_STAR_Relic_Chronoblade.nodes.5.description>After Lingering Cut deals actual damage, heal 20 base points of your recoverable injuries, once per 8 seconds. Hitting several enemies with one cut still heals only once; an empty or fully prevented pulse grants nothing. Base rewards: healing 20.</RHA_STAR_Relic_Chronoblade.nodes.5.description>
+  <RHA_STAR_Relic_Chronoblade.nodes.6.label>Offbeat Cover</RHA_STAR_Relic_Chronoblade.nodes.6.label>
+  <RHA_STAR_Relic_Chronoblade.nodes.6.description>After Lingering Cut deals actual damage, shield the nearest other eligible colonist within 4 cells and clear sight for 50 base points over 3 seconds, once per 8 seconds. One trigger per cut maximum; never substitutes you when no ally is eligible. Base rewards: shield 50.</RHA_STAR_Relic_Chronoblade.nodes.6.description>
+</LanguageData>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_STAR_Core_parry.nodes.0.label>招架反击</RHA_STAR_Core_parry.nodes.0.label>
+  <RHA_STAR_Core_parry.nodes.0.description>需要招架核心卡。保留架势、成功招架后的反击机会及原有冷却。只有真正挡下有效攻击才算招架，护盾吸收不计入。</RHA_STAR_Core_parry.nodes.0.description>
+  <RHA_STAR_Core_parry.nodes.1.label>决斗反击</RHA_STAR_Core_parry.nodes.1.label>
+  <RHA_STAR_Core_parry.nodes.1.description>架势持续时间由2秒缩短为1秒，反击基础伤害由10提高至16，只攻击指定目标。成功招架后仍有4秒反击窗口。无需另抽分支卡；架势或反击机会尚未结束时不能换分支。</RHA_STAR_Core_parry.nodes.1.description>
+  <RHA_STAR_Core_parry.nodes.2.label>壁垒反击</RHA_STAR_Core_parry.nodes.2.label>
+  <RHA_STAR_Core_parry.nodes.2.description>保留2秒架势。反击基础伤害降至6，同时攻击指定目标及本人附近至多两名其他敌人；实际伤及的存活敌人减速2秒。无需另抽分支卡；架势或反击机会尚未结束时不能换分支。</RHA_STAR_Core_parry.nodes.2.description>
+  <RHA_STAR_Core_parry.nodes.3.label>乘隙追击</RHA_STAR_Core_parry.nodes.3.label>
+  <RHA_STAR_Core_parry.nodes.3.description>反击实际伤敌后留下4秒破口，本人下一次普通命中消耗破口，追加75点伤害。最多保留一个破口，生成冷却6秒；技能与队友不能兑现。 基础收益：伤害 75。</RHA_STAR_Core_parry.nodes.3.description>
+  <RHA_STAR_Core_parry.nodes.4.label>回息</RHA_STAR_Core_parry.nodes.4.label>
+  <RHA_STAR_Core_parry.nodes.4.description>反击实际伤敌后，治疗本人40点可恢复伤势，冷却6秒。空挥、完全被抵挡的反击与满健康状态不产生治疗；不恢复缺失部位或永久伤疤。 基础收益：治疗 40。</RHA_STAR_Core_parry.nodes.4.description>
+  <RHA_STAR_Core_parry.nodes.5.label>并肩格挡</RHA_STAR_Core_parry.nodes.5.label>
+  <RHA_STAR_Core_parry.nodes.5.description>真正招架成功时，为本人4格内视线畅通、最近一名其他殖民者提供50点独立护盾，持续3秒，冷却6秒。护盾先行吸收完毕的攻击不触发；没有合适队友时不改为保护本人。 基础收益：护盾 50。</RHA_STAR_Core_parry.nodes.5.description>
+  <RHA_STAR_Core_parry.nodes.6.label>震刃</RHA_STAR_Core_parry.nodes.6.label>
+  <RHA_STAR_Core_parry.nodes.6.description>反击实际伤敌后，向受击点3格内视线畅通的另一名敌人追加25点伤害，冷却6秒。一轮范围反击至多触发一次，不会重新伤害此次触发的受击者。 基础收益：伤害 25。</RHA_STAR_Core_parry.nodes.6.description>
+</LanguageData>

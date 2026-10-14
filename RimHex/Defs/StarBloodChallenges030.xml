@@ -1,0 +1,307 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Defs>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_BloodTrial030_root</defName>
+    <label>Seal the pact</label>
+    <description>Threat: A designated enemy frenzies for 8 seconds after actual damage reaches 20% of maximum torso health, exposing its weakness. Answer: Burst it down, trade hits or control it until frenzy ends; once per enemy per phase. Reward: It takes 25% more damage during frenzy, rewarding a saved burst. Cost: Frenzy makes ordinary attacks faster and raises outgoing damage by 25%.
+Arrangement: Anchor break; Locked impact. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. Existing finite roster retained.</description>
+    <family>blood</family>
+    <mechanism>guardBreak</mechanism>
+    <arena>bastion-v1</arena>
+    <chargedBarrage>false</chargedBarrage>
+    <targetTrack>RHA_STAR_Path_Blood</targetTrack>
+    <targetNode>root</targetNode>
+    <targetStage>1</targetStage>
+    <seconds>180</seconds>
+    <tactic>RHA_Tactics_BloodTrial030_root</tactic>
+    <encounter>RHA_Encounter03510_RHA_BloodTrial030_root</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_BloodTrial030_draw</defName>
+    <label>Close the distance</label>
+    <description>Threat: A designated enemy frenzies for 8 seconds after actual damage reaches 20% of maximum torso health, exposing its weakness. Answer: Burst it down, trade hits or control it until frenzy ends; once per enemy per phase. Reward: It takes 25% more damage during frenzy, rewarding a saved burst. Cost: Frenzy makes ordinary attacks faster and raises outgoing damage by 25%.
+Arrangement: Baited pursuit; Fixed lane. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. Existing finite roster retained.</description>
+    <family>blood</family>
+    <mechanism>pursuit</mechanism>
+    <arena>ring-v1</arena>
+    <chargedBarrage>false</chargedBarrage>
+    <targetTrack>RHA_STAR_Path_Blood</targetTrack>
+    <targetNode>draw</targetNode>
+    <targetStage>2</targetStage>
+    <seconds>240</seconds>
+    <tactic>RHA_Tactics_BloodTrial030_draw</tactic>
+    <encounter>RHA_Encounter03510_RHA_BloodTrial030_draw</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_BloodTrial030_aid</defName>
+    <label>A wound shared</label>
+    <description>Threat: A designated enemy frenzies for 8 seconds after actual damage reaches 20% of maximum torso health, exposing its weakness. Answer: Burst it down, trade hits or control it until frenzy ends; once per enemy per phase. Reward: It takes 25% more damage during frenzy, rewarding a saved burst. Cost: Frenzy makes ordinary attacks faster and raises outgoing damage by 25%.
+Arrangement: Protected target; Left then right impacts. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. Existing finite roster retained.</description>
+    <family>blood</family>
+    <mechanism>bodyguard</mechanism>
+    <arena>bastion-v1</arena>
+    <chargedBarrage>false</chargedBarrage>
+    <targetTrack>RHA_STAR_Path_Blood</targetTrack>
+    <targetNode>aid</targetNode>
+    <targetStage>2</targetStage>
+    <seconds>240</seconds>
+    <tactic>RHA_Tactics_BloodTrial030_aid</tactic>
+    <encounter>RHA_Encounter03510_RHA_BloodTrial030_aid</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_BloodTrial030_edge</defName>
+    <label>Wet the second blade</label>
+    <description>Threat: A designated enemy frenzies for 8 seconds after actual damage reaches 20% of maximum torso health, exposing its weakness. Answer: Burst it down, trade hits or control it until frenzy ends; once per enemy per phase. Reward: It takes 25% more damage during frenzy, rewarding a saved burst. Cost: Frenzy makes ordinary attacks faster and raises outgoing damage by 25%.
+Arrangement: Linked peers; Locked impact. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. Existing finite roster retained.</description>
+    <family>blood</family>
+    <mechanism>twinLink</mechanism>
+    <arena>splitCourt-v1</arena>
+    <chargedBarrage>false</chargedBarrage>
+    <targetTrack>RHA_STAR_Path_Blood</targetTrack>
+    <targetNode>edge</targetNode>
+    <targetStage>3</targetStage>
+    <seconds>240</seconds>
+    <tactic>RHA_Tactics_BloodTrial030_edge</tactic>
+    <encounter>RHA_Encounter03510_RHA_BloodTrial030_edge</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_BloodTrial030_reserve</defName>
+    <label>Save a breath</label>
+    <description>Threat: A designated enemy frenzies for 8 seconds after actual damage reaches 20% of maximum torso health, exposing its weakness. Answer: Burst it down, trade hits or control it until frenzy ends; once per enemy per phase. Reward: It takes 25% more damage during frenzy, rewarding a saved burst. Cost: Frenzy makes ordinary attacks faster and raises outgoing damage by 25%.
+Arrangement: Ordered strikes; Hollow impact. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. Existing finite roster retained.</description>
+    <family>blood</family>
+    <mechanism>cadence</mechanism>
+    <arena>crossroads-v1</arena>
+    <chargedBarrage>false</chargedBarrage>
+    <targetTrack>RHA_STAR_Path_Blood</targetTrack>
+    <targetNode>reserve</targetNode>
+    <targetStage>3</targetStage>
+    <seconds>240</seconds>
+    <tactic>RHA_Tactics_BloodTrial030_reserve</tactic>
+    <encounter>RHA_Encounter03510_RHA_BloodTrial030_reserve</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_BloodTrial030_thread</defName>
+    <label>Keep both pulses</label>
+    <description>Threat: A designated enemy frenzies for 8 seconds after actual damage reaches 20% of maximum torso health, exposing its weakness. Answer: Burst it down, trade hits or control it until frenzy ends; once per enemy per phase. Reward: It takes 25% more damage during frenzy, rewarding a saved burst. Cost: Frenzy makes ordinary attacks faster and raises outgoing damage by 25%.
+Arrangement: Linked peers; Locked impact. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. Existing finite roster retained.</description>
+    <family>blood</family>
+    <mechanism>twinLink</mechanism>
+    <arena>splitCourt-v1</arena>
+    <chargedBarrage>false</chargedBarrage>
+    <targetTrack>RHA_STAR_Path_Blood</targetTrack>
+    <targetNode>thread</targetNode>
+    <targetStage>3</targetStage>
+    <seconds>240</seconds>
+    <tactic>RHA_Tactics_BloodTrial030_thread</tactic>
+    <encounter>RHA_Encounter03510_RHA_BloodTrial030_thread</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_BloodTrial030_escort</defName>
+    <label>Stay beside them</label>
+    <description>Threat: A designated enemy frenzies for 8 seconds after actual damage reaches 20% of maximum torso health, exposing its weakness. Answer: Burst it down, trade hits or control it until frenzy ends; once per enemy per phase. Reward: It takes 25% more damage during frenzy, rewarding a saved burst. Cost: Frenzy makes ordinary attacks faster and raises outgoing damage by 25%.
+Arrangement: Protected target; Hollow impact. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. Existing finite roster retained.</description>
+    <family>blood</family>
+    <mechanism>bodyguard</mechanism>
+    <arena>ring-v1</arena>
+    <chargedBarrage>false</chargedBarrage>
+    <targetTrack>RHA_STAR_Path_Blood</targetTrack>
+    <targetNode>escort</targetNode>
+    <targetStage>3</targetStage>
+    <seconds>240</seconds>
+    <tactic>RHA_Tactics_BloodTrial030_escort</tactic>
+    <encounter>RHA_Encounter03510_RHA_BloodTrial030_escort</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_BloodTrial030_scar</defName>
+    <label>Open the old wound</label>
+    <description>Threat: A designated enemy frenzies for 8 seconds after actual damage reaches 20% of maximum torso health, exposing its weakness. Answer: Burst it down, trade hits or control it until frenzy ends; once per enemy per phase. Reward: It takes 25% more damage during frenzy, rewarding a saved burst. Cost: Frenzy makes ordinary attacks faster and raises outgoing damage by 25%.
+Arrangement: Anchor break; Fixed lane. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. Existing finite roster retained.</description>
+    <family>blood</family>
+    <mechanism>guardBreak</mechanism>
+    <arena>bastion-v1</arena>
+    <chargedBarrage>true</chargedBarrage>
+    <targetTrack>RHA_STAR_Path_Blood</targetTrack>
+    <targetNode>scar</targetNode>
+    <targetStage>4</targetStage>
+    <seconds>300</seconds>
+    <tactic>RHA_Tactics_BloodTrial030_scar</tactic>
+    <encounter>RHA_Encounter03510_RHA_BloodTrial030_scar</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_BloodTrial030_pulse</defName>
+    <label>Return through fire</label>
+    <description>Threat: A designated enemy frenzies for 8 seconds after actual damage reaches 20% of maximum torso health, exposing its weakness. Answer: Burst it down, trade hits or control it until frenzy ends; once per enemy per phase. Reward: It takes 25% more damage during frenzy, rewarding a saved burst. Cost: Frenzy makes ordinary attacks faster and raises outgoing damage by 25%.
+Arrangement: Ordered strikes; Fixed lane. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. Existing finite roster retained.</description>
+    <family>blood</family>
+    <mechanism>cadence</mechanism>
+    <arena>crossroads-v1</arena>
+    <chargedBarrage>false</chargedBarrage>
+    <targetTrack>RHA_STAR_Path_Blood</targetTrack>
+    <targetNode>pulse</targetNode>
+    <targetStage>4</targetStage>
+    <seconds>300</seconds>
+    <tactic>RHA_Tactics_BloodTrial030_pulse</tactic>
+    <encounter>RHA_Encounter03510_RHA_BloodTrial030_pulse</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_BloodTrial030_relay</defName>
+    <label>Carry the pulse</label>
+    <description>Threat: A designated enemy frenzies for 8 seconds after actual damage reaches 20% of maximum torso health, exposing its weakness. Answer: Burst it down, trade hits or control it until frenzy ends; once per enemy per phase. Reward: It takes 25% more damage during frenzy, rewarding a saved burst. Cost: Frenzy makes ordinary attacks faster and raises outgoing damage by 25%.
+Arrangement: Moving support; Fixed lane. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. Existing finite roster retained.</description>
+    <family>blood</family>
+    <mechanism>escort</mechanism>
+    <arena>splitCourt-v1</arena>
+    <chargedBarrage>false</chargedBarrage>
+    <targetTrack>RHA_STAR_Path_Blood</targetTrack>
+    <targetNode>relay</targetNode>
+    <targetStage>4</targetStage>
+    <seconds>300</seconds>
+    <tactic>RHA_Tactics_BloodTrial030_relay</tactic>
+    <encounter>RHA_Encounter03510_RHA_BloodTrial030_relay</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_BloodTrial030_rally</defName>
+    <label>Hold the line</label>
+    <description>Threat: A designated enemy frenzies for 8 seconds after actual damage reaches 20% of maximum torso health, exposing its weakness. Answer: Burst it down, trade hits or control it until frenzy ends; once per enemy per phase. Reward: It takes 25% more damage during frenzy, rewarding a saved burst. Cost: Frenzy makes ordinary attacks faster and raises outgoing damage by 25%.
+Arrangement: Protected target; Fixed lane. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. Existing finite roster retained.</description>
+    <family>blood</family>
+    <mechanism>bodyguard</mechanism>
+    <arena>bastion-v1</arena>
+    <chargedBarrage>false</chargedBarrage>
+    <targetTrack>RHA_STAR_Path_Blood</targetTrack>
+    <targetNode>rally</targetNode>
+    <targetStage>4</targetStage>
+    <seconds>300</seconds>
+    <tactic>RHA_Tactics_BloodTrial030_rally</tactic>
+    <encounter>RHA_Encounter03510_RHA_BloodTrial030_rally</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_BloodTrial030_scar_spread</defName>
+    <label>A second cut</label>
+    <description>Threat: A designated enemy frenzies for 8 seconds after actual damage reaches 20% of maximum torso health, exposing its weakness. Answer: Burst it down, trade hits or control it until frenzy ends; once per enemy per phase. Reward: It takes 25% more damage during frenzy, rewarding a saved burst. Cost: Frenzy makes ordinary attacks faster and raises outgoing damage by 25%.
+Arrangement: Linked peers; Locked impact. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. One boss and two finite guards, no reinforcements or resurrection.</description>
+    <family>blood</family>
+    <mechanism>twinLink</mechanism>
+    <arena>ring-v1</arena>
+    <chargedBarrage>false</chargedBarrage>
+    <targetTrack>RHA_STAR_Path_Blood</targetTrack>
+    <targetNode>scar_spread</targetNode>
+    <targetStage>5</targetStage>
+    <seconds>420</seconds>
+    <tactic>RHA_Tactics_BloodTrial030_scar_spread</tactic>
+    <encounter>RHA_Encounter03510_RHA_BloodTrial030_scar_spread</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_BloodTrial030_scar_mend</defName>
+    <label>Take it back</label>
+    <description>Threat: A designated enemy frenzies for 8 seconds after actual damage reaches 20% of maximum torso health, exposing its weakness. Answer: Burst it down, trade hits or control it until frenzy ends; once per enemy per phase. Reward: It takes 25% more damage during frenzy, rewarding a saved burst. Cost: Frenzy makes ordinary attacks faster and raises outgoing damage by 25%.
+Arrangement: Anchor break; Hollow impact. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. One boss and two finite guards, no reinforcements or resurrection.</description>
+    <family>blood</family>
+    <mechanism>guardBreak</mechanism>
+    <arena>bastion-v1</arena>
+    <chargedBarrage>true</chargedBarrage>
+    <targetTrack>RHA_STAR_Path_Blood</targetTrack>
+    <targetNode>scar_mend</targetNode>
+    <targetStage>5</targetStage>
+    <seconds>420</seconds>
+    <tactic>RHA_Tactics_BloodTrial030_scar_mend</tactic>
+    <encounter>RHA_Encounter03510_RHA_BloodTrial030_scar_mend</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_BloodTrial030_pulse_chase</defName>
+    <label>Follow the ebb</label>
+    <description>Threat: A designated enemy frenzies for 8 seconds after actual damage reaches 20% of maximum torso health, exposing its weakness. Answer: Burst it down, trade hits or control it until frenzy ends; once per enemy per phase. Reward: It takes 25% more damage during frenzy, rewarding a saved burst. Cost: Frenzy makes ordinary attacks faster and raises outgoing damage by 25%.
+Arrangement: Baited pursuit; Locked impact. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. One boss and two finite guards, no reinforcements or resurrection.</description>
+    <family>blood</family>
+    <mechanism>pursuit</mechanism>
+    <arena>ring-v1</arena>
+    <chargedBarrage>false</chargedBarrage>
+    <targetTrack>RHA_STAR_Path_Blood</targetTrack>
+    <targetNode>pulse_chase</targetNode>
+    <targetStage>5</targetStage>
+    <seconds>420</seconds>
+    <tactic>RHA_Tactics_BloodTrial030_pulse_chase</tactic>
+    <encounter>RHA_Encounter03510_RHA_BloodTrial030_pulse_chase</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_BloodTrial030_pulse_shelter</defName>
+    <label>Warmth under fire</label>
+    <description>Threat: A designated enemy frenzies for 8 seconds after actual damage reaches 20% of maximum torso health, exposing its weakness. Answer: Burst it down, trade hits or control it until frenzy ends; once per enemy per phase. Reward: It takes 25% more damage during frenzy, rewarding a saved burst. Cost: Frenzy makes ordinary attacks faster and raises outgoing damage by 25%.
+Arrangement: Protected target; Hollow impact. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. One boss and two finite guards, no reinforcements or resurrection.</description>
+    <family>blood</family>
+    <mechanism>bodyguard</mechanism>
+    <arena>crossroads-v1</arena>
+    <chargedBarrage>false</chargedBarrage>
+    <targetTrack>RHA_STAR_Path_Blood</targetTrack>
+    <targetNode>pulse_shelter</targetNode>
+    <targetStage>5</targetStage>
+    <seconds>420</seconds>
+    <tactic>RHA_Tactics_BloodTrial030_pulse_shelter</tactic>
+    <encounter>RHA_Encounter03510_RHA_BloodTrial030_pulse_shelter</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_BloodTrial030_relay_return</defName>
+    <label>Back to the first pulse</label>
+    <description>Threat: A designated enemy frenzies for 8 seconds after actual damage reaches 20% of maximum torso health, exposing its weakness. Answer: Burst it down, trade hits or control it until frenzy ends; once per enemy per phase. Reward: It takes 25% more damage during frenzy, rewarding a saved burst. Cost: Frenzy makes ordinary attacks faster and raises outgoing damage by 25%.
+Arrangement: Linked peers; Locked impact. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. One boss and two finite guards, no reinforcements or resurrection.</description>
+    <family>blood</family>
+    <mechanism>twinLink</mechanism>
+    <arena>splitCourt-v1</arena>
+    <chargedBarrage>false</chargedBarrage>
+    <targetTrack>RHA_STAR_Path_Blood</targetTrack>
+    <targetNode>relay_return</targetNode>
+    <targetStage>5</targetStage>
+    <seconds>420</seconds>
+    <tactic>RHA_Tactics_BloodTrial030_relay_return</tactic>
+    <encounter>RHA_Encounter03510_RHA_BloodTrial030_relay_return</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_BloodTrial030_relay_march</defName>
+    <label>Meet in the breach</label>
+    <description>Threat: A designated enemy frenzies for 8 seconds after actual damage reaches 20% of maximum torso health, exposing its weakness. Answer: Burst it down, trade hits or control it until frenzy ends; once per enemy per phase. Reward: It takes 25% more damage during frenzy, rewarding a saved burst. Cost: Frenzy makes ordinary attacks faster and raises outgoing damage by 25%.
+Arrangement: Moving support; Hollow impact. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. One boss and two finite guards, no reinforcements or resurrection.</description>
+    <family>blood</family>
+    <mechanism>escort</mechanism>
+    <arena>crossroads-v1</arena>
+    <chargedBarrage>false</chargedBarrage>
+    <targetTrack>RHA_STAR_Path_Blood</targetTrack>
+    <targetNode>relay_march</targetNode>
+    <targetStage>5</targetStage>
+    <seconds>420</seconds>
+    <tactic>RHA_Tactics_BloodTrial030_relay_march</tactic>
+    <encounter>RHA_Encounter03510_RHA_BloodTrial030_relay_march</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_BloodTrial030_rally_guard</defName>
+    <label>One more breath</label>
+    <description>Threat: A designated enemy frenzies for 8 seconds after actual damage reaches 20% of maximum torso health, exposing its weakness. Answer: Burst it down, trade hits or control it until frenzy ends; once per enemy per phase. Reward: It takes 25% more damage during frenzy, rewarding a saved burst. Cost: Frenzy makes ordinary attacks faster and raises outgoing damage by 25%.
+Arrangement: Protected target; Locked impact. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. One boss and two finite guards, no reinforcements or resurrection.</description>
+    <family>blood</family>
+    <mechanism>bodyguard</mechanism>
+    <arena>bastion-v1</arena>
+    <chargedBarrage>false</chargedBarrage>
+    <targetTrack>RHA_STAR_Path_Blood</targetTrack>
+    <targetNode>rally_guard</targetNode>
+    <targetStage>5</targetStage>
+    <seconds>420</seconds>
+    <tactic>RHA_Tactics_BloodTrial030_rally_guard</tactic>
+    <encounter>RHA_Encounter03510_RHA_BloodTrial030_rally_guard</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_BloodTrial030_rally_shift</defName>
+    <label>Relieve the flank</label>
+    <description>Threat: A designated enemy frenzies for 8 seconds after actual damage reaches 20% of maximum torso health, exposing its weakness. Answer: Burst it down, trade hits or control it until frenzy ends; once per enemy per phase. Reward: It takes 25% more damage during frenzy, rewarding a saved burst. Cost: Frenzy makes ordinary attacks faster and raises outgoing damage by 25%.
+Arrangement: Moving support; Hollow impact. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. One boss and two finite guards, no reinforcements or resurrection.</description>
+    <family>blood</family>
+    <mechanism>escort</mechanism>
+    <arena>splitCourt-v1</arena>
+    <chargedBarrage>false</chargedBarrage>
+    <targetTrack>RHA_STAR_Path_Blood</targetTrack>
+    <targetNode>rally_shift</targetNode>
+    <targetStage>5</targetStage>
+    <seconds>420</seconds>
+    <tactic>RHA_Tactics_BloodTrial030_rally_shift</tactic>
+    <encounter>RHA_Encounter03510_RHA_BloodTrial030_rally_shift</encounter>
+  </RimHex.HexStarChallengeDef030>
+</Defs>

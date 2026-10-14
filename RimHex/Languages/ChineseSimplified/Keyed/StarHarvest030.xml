@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_StarHarvest030_Produced>丰收：额外交付 {0} 个{1}。</RHA_StarHarvest030_Produced>
+  <RHA_StarHarvest030_SelectionGrowth>{0}：选育种子增加 {1}% 生长进度。</RHA_StarHarvest030_SelectionGrowth>
+  <RHA_StarHarvest030_RelayGrowth>接茬：{0}额外生长{1}%。</RHA_StarHarvest030_RelayGrowth>
+  <RHA_StarHarvest030_RelayReady>接茬：下次食用作物播种额外生长{0}%。</RHA_StarHarvest030_RelayReady>
+  <RHA_StarHarvest030_ShiftGrowth>农务接力：{0}额外生长{1}%，剩余{2}次。</RHA_StarHarvest030_ShiftGrowth>
+  <RHA_StarHarvest030_ShiftReady>农务接力：之后{0}次播种各额外生长{1}%。</RHA_StarHarvest030_ShiftReady>
+  <RHA_StarHarvest030_KitchenMeals>田间食材：额外获得{0}份{1}。</RHA_StarHarvest030_KitchenMeals>
+  <RHA_StarHarvest030_ShiftMeals>炊事轮班：额外获得{0}份{1}。</RHA_StarHarvest030_ShiftMeals>
+  <RHA_StarHarvest030_BatchMeals>连灶：额外获得{0}份{1}。</RHA_StarHarvest030_BatchMeals>
+  <RHA_StarHarvest030_VarietyMeals>一桌百味：额外获得{0}份{1}。</RHA_StarHarvest030_VarietyMeals>
+  <RHA_StarHarvest030_ReserveMeals>粮储周转：额外获得{0}份{1}。</RHA_StarHarvest030_ReserveMeals>
+  <RHA_StarHarvest030_ReserveSeed>以粮养种：消耗{0}储备{1}份，生长进度增加{2}%。</RHA_StarHarvest030_ReserveSeed>
+  <RHA_StarHarvest030_DistributedMeals>分粮入灶：额外获得{0}份{1}。</RHA_StarHarvest030_DistributedMeals>
+</LanguageData>

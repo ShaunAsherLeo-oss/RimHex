@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_014_NoTarget>No visible enemy in range.</RHA_014_NoTarget>
+  <RHA_014_ShotLimit>Pending shot limit reached: 48 per caster, 256 per map.</RHA_014_ShotLimit>
+  <RHA_014_Status>Bolt practice: {0}\nMultishot tier: {1}/2 (20/40)\nPower and haste tier: {2}/2 (40/80)\nTemporary sorcery: {3}/20\nInferno combo: {4}/6\nTier bonuses require the corresponding card. Secondary missiles and echoes grant no practice.</RHA_014_Status>
+</LanguageData>

@@ -1,0 +1,158 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Defs>
+  <RimHex.HexEliteDef>
+    <defName>RHA_Elite_Thunder</defName>
+    <label>Thunder armor</label>
+    <description>Damage taken is divided by 1.35. Every 6 seconds in combat, marks a nearby target for lightning that strikes the marked area after 1.5 seconds.</description>
+    <iconPath>RimHex/Trial/EliteThunder</iconPath>
+    <color>(0.4745,0.6627,0.7059)</color>
+  </RimHex.HexEliteDef>
+  <RimHex.HexEliteDef>
+    <defName>RHA_Elite_Fire</defName>
+    <label>Molten</label>
+    <description>Every 6 seconds in combat, marks a nearby target's position. After 2 seconds, a molten field forms there for 5 seconds. Move out of the orange area to avoid it.</description>
+    <iconPath>RimHex/Trial/EliteFire</iconPath>
+    <color>(0.7333,0.5412,0.3451)</color>
+  </RimHex.HexEliteDef>
+  <RimHex.HexEliteDef>
+    <defName>RHA_Elite_Mirror</defName>
+    <label>Echo</label>
+    <description>While able to act, creates a phantom with half health for 20 seconds. Each elite can do this once. Phantoms cannot create further phantoms.</description>
+    <iconPath>RimHex/Trial/EliteMirror</iconPath>
+    <color>(0.5882,0.5647,0.6588)</color>
+  </RimHex.HexEliteDef>
+  <RimHex.HexEliteDef>
+    <defName>RHA_Elite_Regen</defName>
+    <label>Regrowth</label>
+    <description>Every 5 seconds, heals its own injuries and up to two trial allies within 8 cells.</description>
+    <iconPath>RimHex/Trial/EliteRegen</iconPath>
+    <color>(0.4431,0.5647,0.4745)</color>
+  </RimHex.HexEliteDef>
+  <RimHex.HexEliteDef>
+    <defName>RHA_Elite_Rage</defName>
+    <label>Fury</label>
+    <description>Deals more damage as its health falls, up to 90% additional damage.</description>
+    <iconPath>RimHex/Trial/EliteRage</iconPath>
+    <color>(0.6078,0.3373,0.3137)</color>
+  </RimHex.HexEliteDef>
+  <RimHex.HexEliteDef>
+    <defName>RHA_Elite_Command</defName>
+    <label>Command</label>
+    <description>Other trial allies within 10 cells deal 35% more damage and take 15% less damage. Multiple command auras do not stack.</description>
+    <iconPath>RimHex/Trial/EliteCommand</iconPath>
+    <color>(0.7020,0.6314,0.4314)</color>
+  </RimHex.HexEliteDef>
+  <RimHex.HexTrialDef>
+    <defName>RHA_Trial_Storm</defName>
+    <label>Thunder dome</label>
+    <description>Every 8 seconds, the Storm King marks up to three targets. Lightning strikes the marked positions after 2 seconds. Move out of the blue warning areas. Stunning the boss can interrupt pending strikes.</description>
+    <boss>RHA_TrialBossStorm</boss>
+    <bossName>Storm King</bossName>
+    <iconPath>RimHex/Trial/Storm</iconPath>
+    <color>(0.5000,0.8200,1.0000)</color>
+    <enemies>
+      <li>RHA_TrialLancer</li>
+      <li>RHA_TrialScyther</li>
+    </enemies>
+    <affixes>
+      <li>RHA_Elite_Thunder</li>
+      <li>RHA_Elite_Mirror</li>
+      <li>RHA_Elite_Command</li>
+    </affixes>
+    <relics>
+      <li>RHA_TRIAL_StormPike</li>
+      <li>RHA_TRIAL_StormAegis</li>
+    </relics>
+  </RimHex.HexTrialDef>
+  <RimHex.HexTrialDef>
+    <defName>RHA_Trial_Forge</defName>
+    <label>Furnace depths</label>
+    <description>Every 8 seconds, the Furnace colossus charges a heavy strike. After 2.5 seconds it hits the target area, leaving molten ground for 5 seconds. Avoid the orange warning and the burning ground it leaves behind.</description>
+    <boss>RHA_TrialBossForge</boss>
+    <bossName>Furnace colossus</bossName>
+    <iconPath>RimHex/Trial/Forge</iconPath>
+    <color>(1.0000,0.5700,0.2800)</color>
+    <enemies>
+      <li>RHA_TrialScyther</li>
+      <li>RHA_TrialLancer</li>
+    </enemies>
+    <affixes>
+      <li>RHA_Elite_Fire</li>
+      <li>RHA_Elite_Rage</li>
+      <li>RHA_Elite_Thunder</li>
+    </affixes>
+    <relics>
+      <li>RHA_TRIAL_FurnaceHammer</li>
+      <li>RHA_TRIAL_FurnacePlate</li>
+    </relics>
+  </RimHex.HexTrialDef>
+  <RimHex.HexTrialDef>
+    <defName>RHA_Trial_Soul</defName>
+    <label>Hall of souls</label>
+    <description>Every 8 seconds in combat, the Soul Sovereign summons two short-lived servants and heals its injuries. Each nearby ally grants it 10% damage, up to 60%. Killing the servants weakens the boss.</description>
+    <boss>RHA_TrialBossSoul</boss>
+    <bossName>Soul Sovereign</bossName>
+    <iconPath>RimHex/Trial/Soul</iconPath>
+    <color>(0.7800,0.6400,1.0000)</color>
+    <enemies>
+      <li>RHA_TrialSpider</li>
+      <li>RHA_TrialScyther</li>
+    </enemies>
+    <affixes>
+      <li>RHA_Elite_Regen</li>
+      <li>RHA_Elite_Mirror</li>
+      <li>RHA_Elite_Command</li>
+    </affixes>
+    <relics>
+      <li>RHA_TRIAL_SoulLantern</li>
+      <li>RHA_TRIAL_SoulSeal</li>
+    </relics>
+  </RimHex.HexTrialDef>
+  <HediffDef>
+    <defName>RHA_TrialEnemy</defName>
+    <label>Trial phantom</label>
+    <description>An enemy formed by the trial beacon. Its abilities, difficulty and boss attacks are saved with the current trial.</description>
+    <hediffClass>RimHex.Hediff_HexTrialEnemy</hediffClass>
+    <isBad>false</isBad>
+    <scenarioCanAdd>false</scenarioCanAdd>
+  </HediffDef>
+  <ThingDef ParentName="BuildingBase">
+    <defName>RHA_TrialBeacon</defName>
+    <label>Prismatic trial beacon</label>
+    <description>Start a three-wave prismatic trial at home. Build outdoors with reachable open ground 18–30 cells around it. After each wave, claim rewards and leave or continue. Enemies will attack the colony, and injuries persist. The beacon is immune to damage and can still be uninstalled or deconstructed.</description>
+    <thingClass>RimHex.Building_HexTrialBeacon</thingClass>
+    <useHitPoints>false</useHitPoints>
+    <size>(2,2)</size>
+    <rotatable>false</rotatable>
+    <altitudeLayer>Building</altitudeLayer>
+    <passability>PassThroughOnly</passability>
+    <fillPercent>0.5</fillPercent>
+    <designationCategory>Misc</designationCategory>
+    <terrainAffordanceNeeded>Medium</terrainAffordanceNeeded>
+    <constructionSkillPrerequisite>6</constructionSkillPrerequisite>
+    <minifiedDef>MinifiedThing</minifiedDef>
+    <graphicData>
+      <texPath>RimHex/Trial/Beacon</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(2,2)</drawSize>
+    </graphicData>
+    <thingCategories>
+      <li>BuildingsMisc</li>
+    </thingCategories>
+    <comps>
+      <li Class="CompProperties_Forbiddable" />
+    </comps>
+    <statBases>
+      <MaxHitPoints>1500</MaxHitPoints>
+      <WorkToBuild>3000</WorkToBuild>
+      <Mass>30</Mass>
+      <Flammability>0</Flammability>
+      <Beauty>8</Beauty>
+    </statBases>
+    <costList>
+      <Steel>180</Steel>
+      <ComponentIndustrial>6</ComponentIndustrial>
+      <Gold>30</Gold>
+    </costList>
+  </ThingDef>
+</Defs>

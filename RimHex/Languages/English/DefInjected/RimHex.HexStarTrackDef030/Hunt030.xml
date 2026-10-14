@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_STAR_Skill_Hunt013.nodes.0.label>Hunter’s Trail</RHA_STAR_Skill_Hunt013.nodes.0.label>
+  <RHA_STAR_Skill_Hunt013.nodes.0.description>Requires Pursuit Mark learned from its augment card. Retains the original dash, damage, range and cooldown; the tree does not teach the skill for free.</RHA_STAR_Skill_Hunt013.nodes.0.description>
+  <RHA_STAR_Skill_Hunt013.nodes.1.label>Tracked Quarry</RHA_STAR_Skill_Hunt013.nodes.1.label>
+  <RHA_STAR_Skill_Hunt013.nodes.1.description>Three consecutive ordinary hits on the same enemy, at most 3 seconds apart, mark it for 6 seconds. One mark, with an 8-second creation cooldown. When Pursuit Mark actually damages that enemy, consume the mark to refund 10% of this cast’s remaining cooldown, up to 1 second. Switching targets resets the count; secondary damage does not count.</RHA_STAR_Skill_Hunt013.nodes.1.description>
+  <RHA_STAR_Skill_Hunt013.nodes.2.label>Hunter’s Guard</RHA_STAR_Skill_Hunt013.nodes.2.label>
+  <RHA_STAR_Skill_Hunt013.nodes.2.description>When Pursuit Mark actually damages an enemy, gain a separate 50-point shield for 3 seconds, once per 8 seconds. A cast that deals no damage grants nothing. Base rewards: shield 50.</RHA_STAR_Skill_Hunt013.nodes.2.description>
+  <RHA_STAR_Skill_Hunt013.nodes.3.label>Quarry Recovery</RHA_STAR_Skill_Hunt013.nodes.3.label>
+  <RHA_STAR_Skill_Hunt013.nodes.3.description>After Tracked Quarry consumes its mark and refunds cooldown, heal 20 base points of your own recoverable injuries, once per 8 seconds. Missing parts and permanent scars are not restored. Base rewards: healing 20.</RHA_STAR_Skill_Hunt013.nodes.3.description>
+  <RHA_STAR_Skill_Hunt013.nodes.4.label>Quarry Cover</RHA_STAR_Skill_Hunt013.nodes.4.label>
+  <RHA_STAR_Skill_Hunt013.nodes.4.description>After Tracked Quarry consumes its mark and refunds cooldown, shield the nearest other eligible colonist within 4 cells of you and clear sight for 50 points over 3 seconds, once per 8 seconds. Base rewards: shield 50.</RHA_STAR_Skill_Hunt013.nodes.4.description>
+  <RHA_STAR_Skill_Hunt013.nodes.5.label>Assault Recovery</RHA_STAR_Skill_Hunt013.nodes.5.label>
+  <RHA_STAR_Skill_Hunt013.nodes.5.description>When Pursuit Mark actually damages an enemy, heal 20 base points of your own recoverable injuries, once per 8 seconds. Missing parts and permanent scars are not restored. Base rewards: healing 20.</RHA_STAR_Skill_Hunt013.nodes.5.description>
+  <RHA_STAR_Skill_Hunt013.nodes.6.label>Covered Assault</RHA_STAR_Skill_Hunt013.nodes.6.label>
+  <RHA_STAR_Skill_Hunt013.nodes.6.description>When Pursuit Mark actually damages an enemy, grant the nearest other eligible colonist within 4 cells of you and clear sight a 25-point shield for 3 seconds, once per 8 seconds. With no eligible ally, it does not shield you instead. Base rewards: shield 25.</RHA_STAR_Skill_Hunt013.nodes.6.description>
+</LanguageData>

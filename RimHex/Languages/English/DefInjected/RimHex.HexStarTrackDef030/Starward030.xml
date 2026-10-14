@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_STAR_Relic_Starward.nodes.0.label>Astral Inheritance</RHA_STAR_Relic_Starward.nodes.0.label>
+  <RHA_STAR_Relic_Starward.nodes.0.description>Retains original health, mitigation and per-hit damage cap. Later injury triggers require actual enemy damage; fully absorbed hits do not count. Progression stays with the item.</RHA_STAR_Relic_Starward.nodes.0.description>
+  <RHA_STAR_Relic_Starward.nodes.1.label>Crossfire Recovery</RHA_STAR_Relic_Starward.nodes.1.label>
+  <RHA_STAR_Relic_Starward.nodes.1.description>Take actual damage from two different enemies consecutively, no more than 4 seconds apart, to heal 20 base points of your recoverable injuries, once per 8 seconds. Repeated hits from the same attacker neither count nor extend the timer. Base rewards: healing 20.</RHA_STAR_Relic_Starward.nodes.1.description>
+  <RHA_STAR_Relic_Starward.nodes.2.label>Fixed-star Reprisal</RHA_STAR_Relic_Starward.nodes.2.label>
+  <RHA_STAR_Relic_Starward.nodes.2.description>Taking actual enemy damage marks that attacker for 4 seconds, once per 8 seconds, with one mark maximum. Your later ordinary hit on that enemy consumes it for 50 bonus damage. Base rewards: damage 50.</RHA_STAR_Relic_Starward.nodes.2.description>
+  <RHA_STAR_Relic_Starward.nodes.3.label>Reformed Bulwark</RHA_STAR_Relic_Starward.nodes.3.label>
+  <RHA_STAR_Relic_Starward.nodes.3.description>After Crossfire Recovery actually heals you, gain 50 base shield points for 3 seconds, once per 8 seconds. No recoverable injury means no shield. Base rewards: shield 50.</RHA_STAR_Relic_Starward.nodes.3.description>
+  <RHA_STAR_Relic_Starward.nodes.4.label>Gathered Resolve</RHA_STAR_Relic_Starward.nodes.4.label>
+  <RHA_STAR_Relic_Starward.nodes.4.description>After Crossfire Recovery actually heals you, store one reprisal for 5 seconds, once per 8 seconds. A later ordinary hit consumes it for 75 bonus damage. Store at most one. Base rewards: damage 75.</RHA_STAR_Relic_Starward.nodes.4.description>
+  <RHA_STAR_Relic_Starward.nodes.5.label>Falling Shards</RHA_STAR_Relic_Starward.nodes.5.label>
+  <RHA_STAR_Relic_Starward.nodes.5.description>After Fixed-star Reprisal deals actual bonus damage, deal 25 damage to one other enemy within 3 cells of the impact and clear sight, once per 8 seconds. Never hits the original target again. Base rewards: damage 25.</RHA_STAR_Relic_Starward.nodes.5.description>
+  <RHA_STAR_Relic_Starward.nodes.6.label>Shelter Beneath Stars</RHA_STAR_Relic_Starward.nodes.6.label>
+  <RHA_STAR_Relic_Starward.nodes.6.description>After Fixed-star Reprisal deals actual bonus damage, heal 20 base points of recoverable injuries on the most injured other eligible colonist within 4 cells and clear sight, once per 8 seconds. Never heals you instead. Base rewards: healing 20.</RHA_STAR_Relic_Starward.nodes.6.description>
+</LanguageData>

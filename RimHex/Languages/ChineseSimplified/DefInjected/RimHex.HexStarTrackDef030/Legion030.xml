@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_STAR_Core_legion.nodes.0.label>军团号令</RHA_STAR_Core_legion.nodes.0.label>
+  <RHA_STAR_Core_legion.nodes.0.description>需要军团号令核心卡。保留集结、集火与换位指令；仍需其他卡牌提供召唤物。进阶不会额外召唤、延长寿命或重置指令冷却。</RHA_STAR_Core_legion.nodes.0.description>
+  <RHA_STAR_Core_legion.nodes.1.label>集中护卫</RHA_STAR_Core_legion.nodes.1.label>
+  <RHA_STAR_Core_legion.nodes.1.description>同时只允许一名普通召唤物，且占用两个召唤名额。新召唤物生命系数翻倍、伤害系数提高50%，两者仍受原有上限约束。中继节点不受此强化影响。无需另抽分支卡；还有普通召唤物时不能切换分支。</RHA_STAR_Core_legion.nodes.1.description>
+  <RHA_STAR_Core_legion.nodes.2.label>轮换进攻</RHA_STAR_Core_legion.nodes.2.label>
+  <RHA_STAR_Core_legion.nodes.2.description>战斗过的普通召唤物在休整指令下，回到主人4格内且视线畅通，休整2秒获得轮换准备。随后受指令控制的普通命中消耗准备，追加6点伤害，主人共用8秒冷却。无需另抽分支卡；还有普通召唤物时不能切换分支。</RHA_STAR_Core_legion.nodes.2.description>
+  <RHA_STAR_Core_legion.nodes.3.label>护卫开路</RHA_STAR_Core_legion.nodes.3.label>
+  <RHA_STAR_Core_legion.nodes.3.description>受集结或集火指令控制的召唤物实际命中敌人时，留下4秒破口。主人下一次普通命中消耗破口，追加75点伤害。最多保留一个破口，生成冷却6秒；召唤物不能代替主人兑现。 基础收益：伤害 75。</RHA_STAR_Core_legion.nodes.3.description>
+  <RHA_STAR_Core_legion.nodes.4.label>护卫掩护</RHA_STAR_Core_legion.nodes.4.label>
+  <RHA_STAR_Core_legion.nodes.4.description>受指令控制的召唤物实际伤敌后，为主人4格内视线畅通、最近一名其他殖民者提供50点独立护盾，持续3秒，冷却6秒。没有合适队友时不改为保护主人。 基础收益：护盾 50。</RHA_STAR_Core_legion.nodes.4.description>
+  <RHA_STAR_Core_legion.nodes.5.label>轮换夹击</RHA_STAR_Core_legion.nodes.5.label>
+  <RHA_STAR_Core_legion.nodes.5.description>真正消耗轮换准备打出追加攻击时，对受击点3格内视线畅通的另一名敌人追加50点伤害，冷却8秒。普通召唤物命中、尚未兑现的准备和轮换冷却中的命中均不触发。 基础收益：伤害 50。</RHA_STAR_Core_legion.nodes.5.description>
+  <RHA_STAR_Core_legion.nodes.6.label>轮换援护</RHA_STAR_Core_legion.nodes.6.label>
+  <RHA_STAR_Core_legion.nodes.6.description>真正消耗轮换准备打出追加攻击时，治疗主人4格内视线畅通、最近一名受伤队友的40点可恢复伤势，冷却8秒。没有合适队友时不治疗主人；不恢复缺失部位或永久伤疤。 基础收益：治疗 40。</RHA_STAR_Core_legion.nodes.6.description>
+</LanguageData>

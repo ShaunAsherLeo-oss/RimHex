@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_BloodTrial030_root.label>以血立契</RHA_BloodTrial030_root.label>
+  <RHA_BloodTrial030_root.description>主要威胁：指定敌人积累躯干最大生命20%的实际伤害后狂攻8秒，同时暴露弱点。 可用解法：爆发击杀、承伤反击或控制拖过狂攻；每个敌人每阶段仅触发一次。 成功收益：狂攻期间承受伤害提高25%，可以保留爆发集中击杀。 忽略代价：狂攻使敌人的普通攻击更快且伤害提高25%。
+本关编排：支点破防；锁定落点。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。沿用原有限敌人编组。</RHA_BloodTrial030_root.description>
+  <RHA_BloodTrial030_draw.label>近身饮刃</RHA_BloodTrial030_draw.label>
+  <RHA_BloodTrial030_draw.description>主要威胁：指定敌人积累躯干最大生命20%的实际伤害后狂攻8秒，同时暴露弱点。 可用解法：爆发击杀、承伤反击或控制拖过狂攻；每个敌人每阶段仅触发一次。 成功收益：狂攻期间承受伤害提高25%，可以保留爆发集中击杀。 忽略代价：狂攻使敌人的普通攻击更快且伤害提高25%。
+本关编排：追击诱导；固定射线。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。沿用原有限敌人编组。</RHA_BloodTrial030_draw.description>
+  <RHA_BloodTrial030_aid.label>分担伤势</RHA_BloodTrial030_aid.label>
+  <RHA_BloodTrial030_aid.description>主要威胁：指定敌人积累躯干最大生命20%的实际伤害后狂攻8秒，同时暴露弱点。 可用解法：爆发击杀、承伤反击或控制拖过狂攻；每个敌人每阶段仅触发一次。 成功收益：狂攻期间承受伤害提高25%，可以保留爆发集中击杀。 忽略代价：狂攻使敌人的普通攻击更快且伤害提高25%。
+本关编排：目标保护；左右连续落点。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。沿用原有限敌人编组。</RHA_BloodTrial030_aid.description>
+  <RHA_BloodTrial030_edge.label>再开一刃</RHA_BloodTrial030_edge.label>
+  <RHA_BloodTrial030_edge.description>主要威胁：指定敌人积累躯干最大生命20%的实际伤害后狂攻8秒，同时暴露弱点。 可用解法：爆发击杀、承伤反击或控制拖过狂攻；每个敌人每阶段仅触发一次。 成功收益：狂攻期间承受伤害提高25%，可以保留爆发集中击杀。 忽略代价：狂攻使敌人的普通攻击更快且伤害提高25%。
+本关编排：双体联动；锁定落点。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。沿用原有限敌人编组。</RHA_BloodTrial030_edge.description>
+  <RHA_BloodTrial030_reserve.label>留下一口气</RHA_BloodTrial030_reserve.label>
+  <RHA_BloodTrial030_reserve.description>主要威胁：指定敌人积累躯干最大生命20%的实际伤害后狂攻8秒，同时暴露弱点。 可用解法：爆发击杀、承伤反击或控制拖过狂攻；每个敌人每阶段仅触发一次。 成功收益：狂攻期间承受伤害提高25%，可以保留爆发集中击杀。 忽略代价：狂攻使敌人的普通攻击更快且伤害提高25%。
+本关编排：连续攻击；空心冲击。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。沿用原有限敌人编组。</RHA_BloodTrial030_reserve.description>
+  <RHA_BloodTrial030_thread.label>两处脉搏</RHA_BloodTrial030_thread.label>
+  <RHA_BloodTrial030_thread.description>主要威胁：指定敌人积累躯干最大生命20%的实际伤害后狂攻8秒，同时暴露弱点。 可用解法：爆发击杀、承伤反击或控制拖过狂攻；每个敌人每阶段仅触发一次。 成功收益：狂攻期间承受伤害提高25%，可以保留爆发集中击杀。 忽略代价：狂攻使敌人的普通攻击更快且伤害提高25%。
+本关编排：双体联动；锁定落点。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。沿用原有限敌人编组。</RHA_BloodTrial030_thread.description>
+  <RHA_BloodTrial030_escort.label>跟住同伴</RHA_BloodTrial030_escort.label>
+  <RHA_BloodTrial030_escort.description>主要威胁：指定敌人积累躯干最大生命20%的实际伤害后狂攻8秒，同时暴露弱点。 可用解法：爆发击杀、承伤反击或控制拖过狂攻；每个敌人每阶段仅触发一次。 成功收益：狂攻期间承受伤害提高25%，可以保留爆发集中击杀。 忽略代价：狂攻使敌人的普通攻击更快且伤害提高25%。
+本关编排：目标保护；空心冲击。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。沿用原有限敌人编组。</RHA_BloodTrial030_escort.description>
+  <RHA_BloodTrial030_scar.label>撕开旧伤</RHA_BloodTrial030_scar.label>
+  <RHA_BloodTrial030_scar.description>主要威胁：指定敌人积累躯干最大生命20%的实际伤害后狂攻8秒，同时暴露弱点。 可用解法：爆发击杀、承伤反击或控制拖过狂攻；每个敌人每阶段仅触发一次。 成功收益：狂攻期间承受伤害提高25%，可以保留爆发集中击杀。 忽略代价：狂攻使敌人的普通攻击更快且伤害提高25%。
+本关编排：支点破防；固定射线。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。沿用原有限敌人编组。</RHA_BloodTrial030_scar.description>
+  <RHA_BloodTrial030_pulse.label>迎火回潮</RHA_BloodTrial030_pulse.label>
+  <RHA_BloodTrial030_pulse.description>主要威胁：指定敌人积累躯干最大生命20%的实际伤害后狂攻8秒，同时暴露弱点。 可用解法：爆发击杀、承伤反击或控制拖过狂攻；每个敌人每阶段仅触发一次。 成功收益：狂攻期间承受伤害提高25%，可以保留爆发集中击杀。 忽略代价：狂攻使敌人的普通攻击更快且伤害提高25%。
+本关编排：连续攻击；固定射线。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。沿用原有限敌人编组。</RHA_BloodTrial030_pulse.description>
+  <RHA_BloodTrial030_relay.label>将脉搏传下去</RHA_BloodTrial030_relay.label>
+  <RHA_BloodTrial030_relay.description>主要威胁：指定敌人积累躯干最大生命20%的实际伤害后狂攻8秒，同时暴露弱点。 可用解法：爆发击杀、承伤反击或控制拖过狂攻；每个敌人每阶段仅触发一次。 成功收益：狂攻期间承受伤害提高25%，可以保留爆发集中击杀。 忽略代价：狂攻使敌人的普通攻击更快且伤害提高25%。
+本关编排：移动支援；固定射线。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。沿用原有限敌人编组。</RHA_BloodTrial030_relay.description>
+  <RHA_BloodTrial030_rally.label>稳住阵脚</RHA_BloodTrial030_rally.label>
+  <RHA_BloodTrial030_rally.description>主要威胁：指定敌人积累躯干最大生命20%的实际伤害后狂攻8秒，同时暴露弱点。 可用解法：爆发击杀、承伤反击或控制拖过狂攻；每个敌人每阶段仅触发一次。 成功收益：狂攻期间承受伤害提高25%，可以保留爆发集中击杀。 忽略代价：狂攻使敌人的普通攻击更快且伤害提高25%。
+本关编排：目标保护；固定射线。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。沿用原有限敌人编组。</RHA_BloodTrial030_rally.description>
+  <RHA_BloodTrial030_scar_spread.label>换刃再战</RHA_BloodTrial030_scar_spread.label>
+  <RHA_BloodTrial030_scar_spread.description>主要威胁：指定敌人积累躯干最大生命20%的实际伤害后狂攻8秒，同时暴露弱点。 可用解法：爆发击杀、承伤反击或控制拖过狂攻；每个敌人每阶段仅触发一次。 成功收益：狂攻期间承受伤害提高25%，可以保留爆发集中击杀。 忽略代价：狂攻使敌人的普通攻击更快且伤害提高25%。
+本关编排：双体联动；锁定落点。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。五阶固定首领与两名护卫，无补员或复活。</RHA_BloodTrial030_scar_spread.description>
+  <RHA_BloodTrial030_scar_mend.label>收回鲜血</RHA_BloodTrial030_scar_mend.label>
+  <RHA_BloodTrial030_scar_mend.description>主要威胁：指定敌人积累躯干最大生命20%的实际伤害后狂攻8秒，同时暴露弱点。 可用解法：爆发击杀、承伤反击或控制拖过狂攻；每个敌人每阶段仅触发一次。 成功收益：狂攻期间承受伤害提高25%，可以保留爆发集中击杀。 忽略代价：狂攻使敌人的普通攻击更快且伤害提高25%。
+本关编排：支点破防；空心冲击。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。五阶固定首领与两名护卫，无补员或复活。</RHA_BloodTrial030_scar_mend.description>
+  <RHA_BloodTrial030_pulse_chase.label>踏过退潮</RHA_BloodTrial030_pulse_chase.label>
+  <RHA_BloodTrial030_pulse_chase.description>主要威胁：指定敌人积累躯干最大生命20%的实际伤害后狂攻8秒，同时暴露弱点。 可用解法：爆发击杀、承伤反击或控制拖过狂攻；每个敌人每阶段仅触发一次。 成功收益：狂攻期间承受伤害提高25%，可以保留爆发集中击杀。 忽略代价：狂攻使敌人的普通攻击更快且伤害提高25%。
+本关编排：追击诱导；锁定落点。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。五阶固定首领与两名护卫，无补员或复活。</RHA_BloodTrial030_pulse_chase.description>
+  <RHA_BloodTrial030_pulse_shelter.label>火线余温</RHA_BloodTrial030_pulse_shelter.label>
+  <RHA_BloodTrial030_pulse_shelter.description>主要威胁：指定敌人积累躯干最大生命20%的实际伤害后狂攻8秒，同时暴露弱点。 可用解法：爆发击杀、承伤反击或控制拖过狂攻；每个敌人每阶段仅触发一次。 成功收益：狂攻期间承受伤害提高25%，可以保留爆发集中击杀。 忽略代价：狂攻使敌人的普通攻击更快且伤害提高25%。
+本关编排：目标保护；空心冲击。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。五阶固定首领与两名护卫，无补员或复活。</RHA_BloodTrial030_pulse_shelter.description>
+  <RHA_BloodTrial030_relay_return.label>回到最初的脉搏</RHA_BloodTrial030_relay_return.label>
+  <RHA_BloodTrial030_relay_return.description>主要威胁：指定敌人积累躯干最大生命20%的实际伤害后狂攻8秒，同时暴露弱点。 可用解法：爆发击杀、承伤反击或控制拖过狂攻；每个敌人每阶段仅触发一次。 成功收益：狂攻期间承受伤害提高25%，可以保留爆发集中击杀。 忽略代价：狂攻使敌人的普通攻击更快且伤害提高25%。
+本关编排：双体联动；锁定落点。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。五阶固定首领与两名护卫，无补员或复活。</RHA_BloodTrial030_relay_return.description>
+  <RHA_BloodTrial030_relay_march.label>在缺口汇合</RHA_BloodTrial030_relay_march.label>
+  <RHA_BloodTrial030_relay_march.description>主要威胁：指定敌人积累躯干最大生命20%的实际伤害后狂攻8秒，同时暴露弱点。 可用解法：爆发击杀、承伤反击或控制拖过狂攻；每个敌人每阶段仅触发一次。 成功收益：狂攻期间承受伤害提高25%，可以保留爆发集中击杀。 忽略代价：狂攻使敌人的普通攻击更快且伤害提高25%。
+本关编排：移动支援；空心冲击。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。五阶固定首领与两名护卫，无补员或复活。</RHA_BloodTrial030_relay_march.description>
+  <RHA_BloodTrial030_rally_guard.label>再撑一口气</RHA_BloodTrial030_rally_guard.label>
+  <RHA_BloodTrial030_rally_guard.description>主要威胁：指定敌人积累躯干最大生命20%的实际伤害后狂攻8秒，同时暴露弱点。 可用解法：爆发击杀、承伤反击或控制拖过狂攻；每个敌人每阶段仅触发一次。 成功收益：狂攻期间承受伤害提高25%，可以保留爆发集中击杀。 忽略代价：狂攻使敌人的普通攻击更快且伤害提高25%。
+本关编排：目标保护；锁定落点。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。五阶固定首领与两名护卫，无补员或复活。</RHA_BloodTrial030_rally_guard.description>
+  <RHA_BloodTrial030_rally_shift.label>接过侧翼</RHA_BloodTrial030_rally_shift.label>
+  <RHA_BloodTrial030_rally_shift.description>主要威胁：指定敌人积累躯干最大生命20%的实际伤害后狂攻8秒，同时暴露弱点。 可用解法：爆发击杀、承伤反击或控制拖过狂攻；每个敌人每阶段仅触发一次。 成功收益：狂攻期间承受伤害提高25%，可以保留爆发集中击杀。 忽略代价：狂攻使敌人的普通攻击更快且伤害提高25%。
+本关编排：移动支援；空心冲击。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。五阶固定首领与两名护卫，无补员或复活。</RHA_BloodTrial030_rally_shift.description>
+</LanguageData>

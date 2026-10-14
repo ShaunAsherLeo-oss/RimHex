@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RHA_Draft_ChooseRecipient>Choose recipient</RHA_Draft_ChooseRecipient>
+  <RHA_Draft_PreviewObject>Effect preview · {0}</RHA_Draft_PreviewObject>
+  <RHA_Draft_Ready>Choose a voucher above to draw candidates.</RHA_Draft_Ready>
+  <RHA_Draft_ChooseCard>Choose augment</RHA_Draft_ChooseCard>
+  <RHA_Draft_ClaimRelic>Claim equipment</RHA_Draft_ClaimRelic>
+  <RHA_Draft_Assign>Give augment</RHA_Draft_Assign>
+  <RHA_Draft_ChangePreview>Change preview</RHA_Draft_ChangePreview>
+  <RHA_Draft_Search>Search</RHA_Draft_Search>
+  <RHA_Draft_Expired>This draft has ended or its offers have changed. Return to the cards.</RHA_Draft_Expired>
+  <RHA_Draft_NoRecipients>No matching colonists.</RHA_Draft_NoRecipients>
+  <RHA_Draft_CurrentPreview>Currently previewing</RHA_Draft_CurrentPreview>
+  <RHA_Draft_PreviewAvailable>Preview this colonist's effects</RHA_Draft_PreviewAvailable>
+  <RHA_Draft_AtLimit>At the limit: {0} stacks</RHA_Draft_AtLimit>
+  <RHA_Draft_Unavailable>Cannot receive this card</RHA_Draft_Unavailable>
+  <RHA_Draft_Stacks>Stacks: {0} → {1}</RHA_Draft_Stacks>
+  <RHA_Draft_Preview>Preview</RHA_Draft_Preview>
+  <RHA_Draft_Compare>View effects</RHA_Draft_Compare>
+</LanguageData>

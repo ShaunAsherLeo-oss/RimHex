@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_TrialLancer.label>雷鸣幻卫</RHA_TrialLancer.label>
+  <RHA_TrialLancer.labelPlural>雷鸣幻卫</RHA_TrialLancer.labelPlural>
+  <RHA_TrialScyther.label>裂刃幻卫</RHA_TrialScyther.label>
+  <RHA_TrialScyther.labelPlural>裂刃幻卫</RHA_TrialScyther.labelPlural>
+  <RHA_TrialSpider.label>群魂仆从</RHA_TrialSpider.label>
+  <RHA_TrialSpider.labelPlural>群魂仆从</RHA_TrialSpider.labelPlural>
+  <RHA_TrialBossStorm.label>霆王</RHA_TrialBossStorm.label>
+  <RHA_TrialBossStorm.labelPlural>霆王</RHA_TrialBossStorm.labelPlural>
+  <RHA_TrialBossForge.label>熔炉巨像</RHA_TrialBossForge.label>
+  <RHA_TrialBossForge.labelPlural>熔炉巨像</RHA_TrialBossForge.labelPlural>
+  <RHA_TrialBossSoul.label>群魂领主</RHA_TrialBossSoul.label>
+  <RHA_TrialBossSoul.labelPlural>群魂领主</RHA_TrialBossSoul.labelPlural>
+</LanguageData>

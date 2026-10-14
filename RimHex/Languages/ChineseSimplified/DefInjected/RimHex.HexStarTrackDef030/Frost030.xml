@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_STAR_Path_Frost.nodes.0.label>初霜</RHA_STAR_Path_Frost.nodes.0.label>
+  <RHA_STAR_Path_Frost.nodes.0.description>沿用已选寒霜进化。精进：原进化的 39 点伤害，不影响遗物觉醒。 精进初始 ×1，终值：伤害 ×50。</RHA_STAR_Path_Frost.nodes.0.description>
+  <RHA_STAR_Path_Frost.nodes.1.label>结霜</RHA_STAR_Path_Frost.nodes.1.label>
+  <RHA_STAR_Path_Frost.nodes.1.description>累计3次普通命中，在第三次命中的目标身上留下4秒霜痕，最多2名目标，间隔3秒。相邻有效命中间隔达到4秒重新计数；追加伤害和战技不累计。霜痕供后续分支消费，本身不额外减速。精进使新霜痕期限从4秒递减增长至趋近4.76秒，按游戏刻取整。命中次数、间隔、目标上限与单次消费不变；已有霜痕不追溯延长。 精进初始 ×1，终值：标记时长 ×1.5。</RHA_STAR_Path_Frost.nodes.1.description>
+  <RHA_STAR_Path_Frost.nodes.2.label>冰衣</RHA_STAR_Path_Frost.nodes.2.label>
+  <RHA_STAR_Path_Frost.nodes.2.description>施放寒霜战技时，为本人提供50点独立护盾，持续3秒，间隔6秒。同层不累加，不改变战技冷却。精进：护盾量。 基础收益：护盾 50。 精进初始 ×1，终值：护盾 ×20。</RHA_STAR_Path_Frost.nodes.2.description>
+  <RHA_STAR_Path_Frost.nodes.3.label>碎冰</RHA_STAR_Path_Frost.nodes.3.label>
+  <RHA_STAR_Path_Frost.nodes.3.description>寒霜战技命中带霜痕的敌人时消费该标记，追加75点伤害；每名目标间隔1秒。没有霜痕不会产生追加伤害。精进：追加伤害。 基础收益：伤害 75。 精进初始 ×1，终值：伤害 ×50。</RHA_STAR_Path_Frost.nodes.3.description>
+  <RHA_STAR_Path_Frost.nodes.4.label>冻住一拍</RHA_STAR_Path_Frost.nodes.4.label>
+  <RHA_STAR_Path_Frost.nodes.4.description>本人普通命中正在准备普通武器攻击的带霜痕敌人时，消费霜痕，将本次准备延长0.2秒，每枚霜痕一次。没有有效准备动作时保留标记原期限，不造成额外眩晕。精进使延迟从0.2秒递减提高至趋近0.26秒，按游戏刻取整；每枚霜痕仍只消费一次。 精进初始 ×1，终值：控制时长 ×1.75。</RHA_STAR_Path_Frost.nodes.4.description>
+  <RHA_STAR_Path_Frost.nodes.5.label>冰沿</RHA_STAR_Path_Frost.nodes.5.label>
+  <RHA_STAR_Path_Frost.nodes.5.description>冰衣实际吸收敌伤后记住最近攻击者3秒。本人2格内普通命中该敌人，返还实际吸收量、最多50点伤害，每轮一次，不续时。同轮护盾仍只能反击一次。 基础收益：伤害 50。 精进初始 ×1，终值：伤害 ×50。</RHA_STAR_Path_Frost.nodes.5.description>
+  <RHA_STAR_Path_Frost.nodes.6.label>分寒</RHA_STAR_Path_Frost.nodes.6.label>
+  <RHA_STAR_Path_Frost.nodes.6.description>冰衣实际授予后留下3秒机会。本人普通命中敌人时，为3格内最近其他殖民者提供50点护盾、持续3秒；每轮一次，附近无人保留原期限。精进：护盾量。 基础收益：护盾 25/50。 精进初始 ×1，终值：护盾 ×20。</RHA_STAR_Path_Frost.nodes.6.description>
+  <RHA_STAR_Path_Frost.nodes.7.label>落冰</RHA_STAR_Path_Frost.nodes.7.label>
+  <RHA_STAR_Path_Frost.nodes.7.description>碎冰实际伤害后记住目标地格3秒。本人普通命中不同敌人时，旧地格2格内至多一名敌人受到50点伤害；一次碎冰一次，落点无人也消费。只保留最近一次碎冰的落点，不叠存。精进：追加伤害。 基础收益：伤害 50。 精进初始 ×1，终值：伤害 ×50。</RHA_STAR_Path_Frost.nodes.7.description>
+  <RHA_STAR_Path_Frost.nodes.8.label>裂隙</RHA_STAR_Path_Frost.nodes.8.label>
+  <RHA_STAR_Path_Frost.nodes.8.description>冻住一拍实际延长准备后，保留目标及本人原站位3秒。本人原生步行至少一格后，再普通命中该敌人，追加50点伤害，每次成功延迟一次。精进：追加伤害。 基础收益：伤害 50。 精进初始 ×1，终值：伤害 ×50。</RHA_STAR_Path_Frost.nodes.8.description>
+  <RHA_STAR_Path_Frost.nodes.9.label>积寒</RHA_STAR_Path_Frost.nodes.9.label>
+  <RHA_STAR_Path_Frost.nodes.9.description>40秒内对两名不同敌人完成冰沿反击，储存一份寒息40秒。下一次寒霜施法消费，为本人提供75点护盾、持续4秒；同一敌人不能重复计数或延长计数时间，寒息不叠存、不续时。精进：护盾量。 基础收益：护盾 75。 精进初始 ×1，终值：护盾 ×20。</RHA_STAR_Path_Frost.nodes.9.description>
+  <RHA_STAR_Path_Frost.nodes.10.label>寒线</RHA_STAR_Path_Frost.nodes.10.label>
+  <RHA_STAR_Path_Frost.nodes.10.description>分寒护盾实际吸收敌伤后留下3秒机会。本人在挡伤后实际步行至少一格，位于原授盾位置2格内时普通命中，为原患者修复最多20点非永久伤势，每轮一次。患者移动不改变范围；满血只保留原期限，瞬移不算。精进：非永久伤势治疗量。 基础收益：治疗 20。 精进初始 ×1，终值：治疗 ×10。</RHA_STAR_Path_Frost.nodes.10.description>
+  <RHA_STAR_Path_Frost.nodes.11.label>散冰</RHA_STAR_Path_Frost.nodes.11.label>
+  <RHA_STAR_Path_Frost.nodes.11.description>落冰实际命中后，记住本人位置3秒。本人步行净移动2格并近身普通命中不同于落冰受害者的敌人，追加50点伤害，每轮一次。精进：追加伤害。 基础收益：伤害 50。 精进初始 ×1，终值：伤害 ×50。</RHA_STAR_Path_Frost.nodes.11.description>
+  <RHA_STAR_Path_Frost.nodes.12.label>冰屑护肩</RHA_STAR_Path_Frost.nodes.12.label>
+  <RHA_STAR_Path_Frost.nodes.12.description>落冰实际命中后，为4格内最近其他殖民者提供50点护盾、持续3秒。无队友时改为本人25点护盾，同轮只发放一次。 基础收益：护盾 25/50。 精进初始 ×1，终值：护盾 ×20。</RHA_STAR_Path_Frost.nodes.12.description>
+  <RHA_STAR_Path_Frost.nodes.13.label>踏隙</RHA_STAR_Path_Frost.nodes.13.label>
+  <RHA_STAR_Path_Frost.nodes.13.description>裂隙实际追加伤害后留下3秒转火机会。本人普通命中另一敌人，为本人提供50点护盾、持续3秒；每次裂隙一次，不续时。精进：护盾量。 基础收益：护盾 50。 精进初始 ×1，终值：护盾 ×20。</RHA_STAR_Path_Frost.nodes.13.description>
+  <RHA_STAR_Path_Frost.nodes.14.label>回身结冰</RHA_STAR_Path_Frost.nodes.14.label>
+  <RHA_STAR_Path_Frost.nodes.14.description>裂隙实际追加伤害后记住本人原位置3秒。本人步行返回其1格内再普通命中，修复本人最多20点伤势；每次一次，瞬移不算。精进：非永久伤势治疗量。 基础收益：治疗 20。 精进初始 ×1，终值：治疗 ×10。</RHA_STAR_Path_Frost.nodes.14.description>
+  <RHA_STAR_Path_Frost.nodes.15.label>寒息回响</RHA_STAR_Path_Frost.nodes.15.label>
+  <RHA_STAR_Path_Frost.nodes.15.description>积寒护盾实际吸收敌伤后，下一次寒霜战技命中对至多两名敌人各追加50点伤害，机会限40秒，每轮一次，不叠存。精进：追加伤害。 基础收益：伤害 50。 精进初始 ×1，终值：伤害 ×50。</RHA_STAR_Path_Frost.nodes.15.description>
+  <RHA_STAR_Path_Frost.nodes.16.label>寒息分担</RHA_STAR_Path_Frost.nodes.16.label>
+  <RHA_STAR_Path_Frost.nodes.16.description>消费寒息实际授盾后，为3格内至多两名其他殖民者各提供25点护盾、持续3秒；原层授盾失败时不发放。每名队友。每份寒息最多为两名队友各授盾一次。精进：护盾量。 基础收益：护盾 25。 精进初始 ×1，终值：护盾 ×20。</RHA_STAR_Path_Frost.nodes.16.description>
+  <RHA_STAR_Path_Frost.nodes.17.label>缝合寒线</RHA_STAR_Path_Frost.nodes.17.label>
+  <RHA_STAR_Path_Frost.nodes.17.description>寒线实际治疗后，为原患者提供50点独立护盾、持续3秒；每轮一次，新盾不能重新开启寒线。精进：护盾量。 基础收益：护盾 50。 精进初始 ×1，终值：护盾 ×20。</RHA_STAR_Path_Frost.nodes.17.description>
+  <RHA_STAR_Path_Frost.nodes.18.label>换线</RHA_STAR_Path_Frost.nodes.18.label>
+  <RHA_STAR_Path_Frost.nodes.18.description>寒线实际治疗后记住患者位置3秒。本人步行离开其2格范围并近身命中另一敌人，治疗4格内另一名伤员最多1点；排除原患者，每轮一次。精进：非永久伤势治疗量。 基础收益：治疗 20。 精进初始 ×1，终值：治疗 ×10。</RHA_STAR_Path_Frost.nodes.18.description>
+</LanguageData>

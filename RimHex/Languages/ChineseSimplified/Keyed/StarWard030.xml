@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<RHA_StarWard030_Status>中枢：{0}/{1} · 第 {2}/{3} 波 · 场上突击兵：{4}</RHA_StarWard030_Status>
+<RHA_StarWard030_CutOff>统领已倒下，后续增援已切断。</RHA_StarWard030_CutOff>
+<RHA_StarWard030_Exposed>统领暴露：伤害提高25% · 还剩 {0} 秒</RHA_StarWard030_Exposed>
+<RHA_StarWard030_Brief>守住中枢，击败统领和所有已出场的突击兵。突击兵会直接攻击中枢；每击败一名，统领暴露3秒，受到额外25%伤害。击败统领则切断尚未出场的增援，波数有限。中枢不能维修或搬走，也不需要操作。申请者通过本人伤害，或为参战队友提供实际护盾和治疗完成贡献。队友可以补刀，但不能代替申请者的全部参战要求。</RHA_StarWard030_Brief>
+<RHA_StarTravel030_WardLost>中枢已失守。撤离前请救回人员并取走物资。</RHA_StarTravel030_WardLost>
+</LanguageData>

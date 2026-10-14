@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_STAR_Augment_A16_Hellbent.nodes.0.label>濒死悟道</RHA_STAR_Augment_A16_Hellbent.nodes.0.label>
+  <RHA_STAR_Augment_A16_Hellbent.nodes.0.description>需要濒死悟道强化卡。保留原有40次有效命中蓄积、救命冷却和短暂无敌；不恢复缺失器官或永久伤疤。进阶不补充蓄积，不重置冷却。后续救命节点仅在原卡实际消耗蓄积并成功救回时触发。</RHA_STAR_Augment_A16_Hellbent.nodes.0.description>
+  <RHA_STAR_Augment_A16_Hellbent.nodes.1.label>稳住阵脚</RHA_STAR_Augment_A16_Hellbent.nodes.1.label>
+  <RHA_STAR_Augment_A16_Hellbent.nodes.1.description>成功触发濒死悟道后，为自己提供150点独立护盾，持续6秒。冷却150秒，不改变原卡救命冷却。 基础收益：护盾 150。</RHA_STAR_Augment_A16_Hellbent.nodes.1.description>
+  <RHA_STAR_Augment_A16_Hellbent.nodes.2.label>余命相扶</RHA_STAR_Augment_A16_Hellbent.nodes.2.label>
+  <RHA_STAR_Augment_A16_Hellbent.nodes.2.description>成功触发濒死悟道后，为6格内视线畅通、最近的另一名殖民者提供100点护盾，持续6秒。冷却150秒，没有队友时不转给本人。 基础收益：护盾 100。</RHA_STAR_Augment_A16_Hellbent.nodes.2.description>
+  <RHA_STAR_Augment_A16_Hellbent.nodes.3.label>绝境还击</RHA_STAR_Augment_A16_Hellbent.nodes.3.label>
+  <RHA_STAR_Augment_A16_Hellbent.nodes.3.description>成功救命时，若攻击者仍是存活且未倒地的敌人，为其留下10秒标记。本人下一次普通命中消耗标记，追加75点伤害。标记生成冷却150秒；环境伤害不产生标记。 基础收益：伤害 75。</RHA_STAR_Augment_A16_Hellbent.nodes.3.description>
+  <RHA_STAR_Augment_A16_Hellbent.nodes.4.label>夺回一息</RHA_STAR_Augment_A16_Hellbent.nodes.4.label>
+  <RHA_STAR_Augment_A16_Hellbent.nodes.4.description>成功救命时，为仍存活且未倒地的敌方攻击者留下10秒标记。本人随后普通命中该敌人且仍有可恢复伤势时，消耗标记治疗自身40点伤势。满血时保留标记至原定到期。标记生成冷却150秒。 基础收益：治疗 40。</RHA_STAR_Augment_A16_Hellbent.nodes.4.description>
+  <RHA_STAR_Augment_A16_Hellbent.nodes.5.label>相扶而起</RHA_STAR_Augment_A16_Hellbent.nodes.5.label>
+  <RHA_STAR_Augment_A16_Hellbent.nodes.5.description>成功救命时，治疗6格内视线畅通、伤势最重的一名其他殖民者80点可恢复伤势，冷却150秒。不治疗本人，不恢复缺失部位或永久伤疤。 基础收益：治疗 80。</RHA_STAR_Augment_A16_Hellbent.nodes.5.description>
+  <RHA_STAR_Augment_A16_Hellbent.nodes.6.label>余烬震荡</RHA_STAR_Augment_A16_Hellbent.nodes.6.label>
+  <RHA_STAR_Augment_A16_Hellbent.nodes.6.description>成功救命后，在原位置留下预警，1.5秒后对该位置3格内视线畅通的最多3名敌人造成75点伤害，冷却150秒。爆发固定在原位置，不追踪移动目标。 基础收益：伤害 75。</RHA_STAR_Augment_A16_Hellbent.nodes.6.description>
+</LanguageData>

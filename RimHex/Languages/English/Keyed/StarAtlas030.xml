@@ -1,0 +1,173 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_StarAtlas030_Title>Ascension atlas</RHA_StarAtlas030_Title>
+  <RHA_StarAtlas030_ChoosePawn>Choose colonist</RHA_StarAtlas030_ChoosePawn>
+  <RHA_StarAtlas030_ChooseTrack>Select a route to view node effects and advancement requirements.</RHA_StarAtlas030_ChooseTrack>
+  <RHA_StarAtlas030_Category0>All routes</RHA_StarAtlas030_Category0>
+  <RHA_StarAtlas030_Category1>Paths</RHA_StarAtlas030_Category1>
+  <RHA_StarAtlas030_Category2>Relics</RHA_StarAtlas030_Category2>
+  <RHA_StarAtlas030_Category3>Cores</RHA_StarAtlas030_Category3>
+  <RHA_StarAtlas030_Category4>Abilities</RHA_StarAtlas030_Category4>
+  <RHA_StarAtlas030_InDevelopment>Not yet available</RHA_StarAtlas030_InDevelopment>
+  <RHA_StarAtlas030_Unworn>Not equipped</RHA_StarAtlas030_Unworn>
+  <RHA_StarAtlas030_Colony>Colony-wide</RHA_StarAtlas030_Colony>
+  <RHA_StarAtlas030_Personal>Personal</RHA_StarAtlas030_Personal>
+  <RHA_StarAtlas030_Locked>Not learned</RHA_StarAtlas030_Locked>
+  <RHA_StarAtlas030_Owned>Active</RHA_StarAtlas030_Owned>
+  <RHA_StarAtlas030_Pending>Awaiting trial</RHA_StarAtlas030_Pending>
+  <RHA_StarAtlas030_Candidate>Ready to advance</RHA_StarAtlas030_Candidate>
+  <RHA_StarAtlas030_NextStep>Next tier</RHA_StarAtlas030_NextStep>
+  <RHA_StarAtlas030_NeedPrevious>Complete the prerequisite nodes on this path first.</RHA_StarAtlas030_NeedPrevious>
+  <RHA_StarAtlas030_DifferentBranch>This node belongs to another branch. Retrain at its fork to take it.</RHA_StarAtlas030_DifferentBranch>
+  <RHA_StarAtlas030_SharedBranchLocked>The colony route follows another branch. Use a personal route to choose your own.</RHA_StarAtlas030_SharedBranchLocked>
+  <RHA_StarAtlas030_FinishPending>Complete the selected node before choosing another.</RHA_StarAtlas030_FinishPending>
+  <RHA_StarAtlas030_ReturnPending>View selected node</RHA_StarAtlas030_ReturnPending>
+  <RHA_StarAtlas030_UnlockNode>Unlock this node</RHA_StarAtlas030_UnlockNode>
+  <RHA_StarAtlas030_SelectBranch>Choose this branch</RHA_StarAtlas030_SelectBranch>
+  <RHA_StarAtlas030_MigrationChoice>Migration preview</RHA_StarAtlas030_MigrationChoice>
+  <RHA_StarAtlas030_MigrationProgress>Migrate {0} tiers</RHA_StarAtlas030_MigrationProgress>
+  <RHA_StarAtlas030_NoMatches>No routes match this filter.</RHA_StarAtlas030_NoMatches>
+  <RHA_StarAtlas030_InvalidGraph>This route could not be displayed. Check the game log for definition errors.</RHA_StarAtlas030_InvalidGraph>
+  <RHA_StarAtlas030_Fit>Fit view</RHA_StarAtlas030_Fit>
+  <RHA_StarAtlas030_Focus>Locate node</RHA_StarAtlas030_Focus>
+  <RHA_StarAtlas030_Expand>Show all branches</RHA_StarAtlas030_Expand>
+  <RHA_StarAtlas030_Fold>Fold unused branches</RHA_StarAtlas030_Fold>
+  <RHA_StarAtlas030_Controls>Click a node for details; lit nodes can advance.\nWheel: zoom · Drag: pan</RHA_StarAtlas030_Controls>
+  <RHA_StarAtlas030_ControlsShort>Click: details\nWheel: zoom · Drag: pan</RHA_StarAtlas030_ControlsShort>
+  <RHA_StarAtlas030_Stage>Tier</RHA_StarAtlas030_Stage>
+  <RHA_StarAtlas030_Effect>Node effect</RHA_StarAtlas030_Effect>
+  <RHA_StarAtlas030_Requires>Requires:</RHA_StarAtlas030_Requires>
+  <RHA_StarAtlas030_RecoveryTime>Next advancement in {0} days.</RHA_StarAtlas030_RecoveryTime>
+  <RHA_StarAtlas030_ActiveRoute>Active route</RHA_StarAtlas030_ActiveRoute>
+  <RHA_StarAtlas030_MigrationHelp>You have cleared {0} stages. Select the new route in order, then confirm. Old effects remain active until confirmation; cleared stages need no repeat challenge.</RHA_StarAtlas030_MigrationHelp>
+  <RHA_StarAtlas030_OldEffects>Existing effects</RHA_StarAtlas030_OldEffects>
+  <RHA_StarAtlas030_NewEffects>Selected replacement route</RHA_StarAtlas030_NewEffects>
+  <RHA_StarAtlas030_Challenge>Trial</RHA_StarAtlas030_Challenge>
+  <RHA_StarAtlas030_Pressure>Colony completions: {0} · Challenge pressure: {1}/4</RHA_StarAtlas030_Pressure>
+  <RHA_StarAtlas030_TimeLimit>Time limit: {0} minutes.</RHA_StarAtlas030_TimeLimit>
+  <RHA_StarAtlas030_Choose>Choose</RHA_StarAtlas030_Choose>
+  <RHA_StarAtlas030_Refresh>Reroll ({0})</RHA_StarAtlas030_Refresh>
+  <RHA_StarAtlas030_ResetPreview>Reset preview</RHA_StarAtlas030_ResetPreview>
+  <RHA_StarAtlas030_CommitMigration>Confirm replacement route</RHA_StarAtlas030_CommitMigration>
+  <RHA_StarAtlas030_LegacyChoice>Choose initial evolution</RHA_StarAtlas030_LegacyChoice>
+  <RHA_StarAtlas030_Respec>Retrain route…</RHA_StarAtlas030_Respec>
+  <RHA_StarAtlas030_RespecStage>Retrain from tier {0}</RHA_StarAtlas030_RespecStage>
+  <RHA_StarAtlas030_RespecConfirm>Remove these nodes?\n\n{0}\n\nPrismatic shards: {1} · Prismatic cores: {2}. Removed effects stop immediately; new branches require new challenges. Recovery time and colony challenge pressure are retained.</RHA_StarAtlas030_RespecConfirm>
+  <RHA_StarAtlas030_Changed>The character or route state changed. Review the current state and try again.</RHA_StarAtlas030_Changed>
+  <RHA_StarAtlas030_Expedition>Manage trial expedition</RHA_StarAtlas030_Expedition>
+  <RHA_StarAtlas030_NeedBeacon>Build an &lt;color=#E8D09D&gt;accessible trial beacon&lt;/color&gt; on this character’s map first.</RHA_StarAtlas030_NeedBeacon>
+  <RHA_StarAtlas030_EnrollHelp>Choose helpers and review the trial before departure.</RHA_StarAtlas030_EnrollHelp>
+  <RHA_StarAtlas030_Enroll>Prepare for trial</RHA_StarAtlas030_Enroll>
+  <RHA_StarAtlas030_Draft>Choose next stage</RHA_StarAtlas030_Draft>
+  <RHA_StarAtlas030_GateReady>Ready to advance.</RHA_StarAtlas030_GateReady>
+  <RHA_StarAtlas030_GateInDevelopment>This route is not open yet.</RHA_StarAtlas030_GateInDevelopment>
+  <RHA_StarAtlas030_GateMissingTrack>This route is unavailable.</RHA_StarAtlas030_GateMissingTrack>
+  <RHA_StarAtlas030_GateWrongOwner>Choose a standing colonist on this map who owns the source or wears this relic.</RHA_StarAtlas030_GateWrongOwner>
+  <RHA_StarAtlas030_GateMissingSource>Required source cards or learned abilities are missing.</RHA_StarAtlas030_GateMissingSource>
+  <RHA_StarAtlas030_GateNeedGrowth>The relic needs more awakening growth. View its progress.</RHA_StarAtlas030_GateNeedGrowth>
+  <RHA_StarAtlas030_GateNeedEssence>Not enough trial essence for first-stage awakening.</RHA_StarAtlas030_GateNeedEssence>
+  <RHA_StarAtlas030_GateNeedLegacyChoice>Choose your first evolution before selecting a progression node.</RHA_StarAtlas030_GateNeedLegacyChoice>
+  <RHA_StarAtlas030_GateRecovery>Recovering between advancements.</RHA_StarAtlas030_GateRecovery>
+  <RHA_StarAtlas030_GateComplete>All stages of this route are complete.</RHA_StarAtlas030_GateComplete>
+  <RHA_StarAtlas030_GatePendingMigration>Legacy progress needs migration. Choose and confirm the new route first.</RHA_StarAtlas030_GatePendingMigration>
+  <RHA_StarAtlas030_GateInvalidState>The route has changed. Reopen the atlas to inspect it.</RHA_StarAtlas030_GateInvalidState>
+  <RHA_StarAtlas030_GateBusy>Finish or end the current trial first.</RHA_StarAtlas030_GateBusy>
+  <RHA_StarAtlas030_GateCombat>Retrain after leaving combat.</RHA_StarAtlas030_GateCombat>
+  <RHA_StarAtlas030_GateNoMaterials>Not enough prismatic shards or cores to retrain the selected stages.</RHA_StarAtlas030_GateNoMaterials>
+  <RHA_StarAtlas030_ConfirmDirect>Confirm advancement</RHA_StarAtlas030_ConfirmDirect>
+  <RHA_StarAtlas030_DirectHelp>Meet the source and growth requirements, then confirm out of combat. Wait two days between stages.</RHA_StarAtlas030_DirectHelp>
+  <RHA_StarAtlas030_DirectCost>&lt;color=#F1AEAE&gt;Awakening cost: {0} trial essence&lt;/color&gt;</RHA_StarAtlas030_DirectCost>
+  <RHA_StarAtlas030_PendingDirect>Awaiting confirmation</RHA_StarAtlas030_PendingDirect>
+  <RHA_StarAtlas030_ShowChoices>View available branches</RHA_StarAtlas030_ShowChoices>
+  <RHA_StarAtlas030_RespecDirectConfirm>Remove these nodes?\n\n{0}\n\nPrismatic shards: {1} · Prismatic cores: {2}. Removed effects stop immediately; choose new branches directly. Recovery time is retained.</RHA_StarAtlas030_RespecDirectConfirm>
+  <RHA_StarAtlas030_RouteShared>Follow colony route</RHA_StarAtlas030_RouteShared>
+  <RHA_StarAtlas030_RoutePersonal>Personal route</RHA_StarAtlas030_RoutePersonal>
+  <RHA_StarAtlas030_RouteColony>Colony progression</RHA_StarAtlas030_RouteColony>
+  <RHA_StarAtlas030_RoutePublish>Set colony route</RHA_StarAtlas030_RoutePublish>
+  <RHA_StarAtlas030_RouteHelp>A colony route shares unlocked branch choices. Each colonist inherits stages after meeting source requirements, leaving combat and completing recovery. Effects and cooldowns remain individual. Relics still require their own growth and first-stage materials. Retrain conflicting branches before inheriting; published routes must extend the existing shared branch.</RHA_StarAtlas030_RouteHelp>
+  <RHA_StarAtlas030_RouteColonyHelp>The colony progresses along this route together. Economic rewards are paid once for the colony.</RHA_StarAtlas030_RouteColonyHelp>
+  <RHA_StarAtlas030_RouteRespecPersonal>This retraining switches you to a personal route. The colony route is kept, and you can choose your own branch after removing nodes.</RHA_StarAtlas030_RouteRespecPersonal>
+  <RHA_StarAtlas030_Refine>Challenge this node again</RHA_StarAtlas030_Refine>
+  <RHA_StarAtlas030_RefinementHelp>Node descriptions list base values. Refinement scales only the named benefits; upstream node multipliers are not applied again. All mechanics are available on first unlock. Repeat clears raise the multiplier with diminishing returns. Targets, counts, range, costs and cooldowns follow the node's rules.</RHA_StarAtlas030_RefinementHelp>
+  <RHA_StarAtlas030_RefinementNumbers>Refinement levels: {0}\nHighest effect multiplier: {1}% → T1 reference: {2}%\nNext challenge strength: ×{3}</RHA_StarAtlas030_RefinementNumbers>
+  <RHA_StarAtlas030_RefinementLimit>Further refinement will not increase this value.</RHA_StarAtlas030_RefinementLimit>
+  <RHA_StarAtlas030_EconomyRefinementNumbers>Refinement levels: {0}\nCurrent yield multiplier: {1}% → next level: {2}%</RHA_StarAtlas030_EconomyRefinementNumbers>
+  <RHA_StarAtlas030_TradeDividendRates>Dividend: {0}%
+After next refinement: {1}%</RHA_StarAtlas030_TradeDividendRates>
+  <RHA_StarAtlas030_TradeCreditRates>Credit earned: {0}%
+After next refinement: {1}%
+Purchase expense redeemable: {2}%</RHA_StarAtlas030_TradeCreditRates>
+  <RHA_StarAtlas030_TradeAccount>Colony trade account
+Net silver income: {0}
+Previous peak: {1}
+Unpaid fraction: {2}
+Procurement credit: {3}</RHA_StarAtlas030_TradeAccount>
+  <RHA_StarAtlas030_EconomyChallengePending>Economic assessment in development</RHA_StarAtlas030_EconomyChallengePending>
+  <RHA_StarAtlas030_ShipmentRates>One freight receipt per {0} silver of new net income
+Current receipt value: {1} silver
+Value after next refinement: {2} silver</RHA_StarAtlas030_ShipmentRates>
+  <RHA_StarAtlas030_ShipmentAccount>Progress toward next receipt: {0}
+Receipts awaiting a later profitable trade: {1}
+Their fixed value: {2} silver</RHA_StarAtlas030_ShipmentAccount>
+  <RHA_StarAtlas030_AssortmentRates>Complete a docket with {0} different exports
+Current income share: {1}%; docket cap: {2} silver
+After next refinement: {3}%; cap: {4} silver</RHA_StarAtlas030_AssortmentRates>
+  <RHA_StarAtlas030_AssortmentCollecting>Collecting: {0} distinct products; earned value: {1} silver</RHA_StarAtlas030_AssortmentCollecting>
+  <RHA_StarAtlas030_AssortmentPending>Docket ready ({0} products), fixed value: {1} silver
+Redeem by exporting a product outside this list in a later trade with fresh net income.</RHA_StarAtlas030_AssortmentPending>
+  <RHA_StarAtlas030_ShipmentCashRates>New freight settles immediately.
+Premium on new receipts: {0}%; next refinement: {1}%
+Old receipts receive no retroactive premium.</RHA_StarAtlas030_ShipmentCashRates>
+  <RHA_StarAtlas030_ShipmentRotationRates>Supplement for a different export: {0}% of redeemed freight; next refinement: {1}%</RHA_StarAtlas030_ShipmentRotationRates>
+  <RHA_StarAtlas030_ShipmentLastGoods>Products in the previous completed shipment:</RHA_StarAtlas030_ShipmentLastGoods>
+  <RHA_StarAtlas030_CircuitRates>Order value: {0}% of its docket; next refinement: {1}%</RHA_StarAtlas030_CircuitRates>
+  <RHA_StarAtlas030_CircuitNone>No active circuit. Complete a new docket to open an order.</RHA_StarAtlas030_CircuitNone>
+  <RHA_StarAtlas030_CircuitAway>Original merchant: {0}
+Order value: {1} silver; {2} days remaining
+Next: export goods for fresh net income to a different merchant.</RHA_StarAtlas030_CircuitAway>
+  <RHA_StarAtlas030_CircuitReturn>Return to: {0}
+Order value: {1} silver; {2} days remaining
+Export goods for fresh net income to settle this order.</RHA_StarAtlas030_CircuitReturn>
+  <RHA_StarAtlas030_CircuitExpired>Order with {0} expired. Complete a new docket to open another.</RHA_StarAtlas030_CircuitExpired>
+  <RHA_StarAtlas030_JointRates>Joint reward: {0}% of the completed circuit; next refinement: {1}%</RHA_StarAtlas030_JointRates>
+  <RHA_StarAtlas030_JointNone>No joint order. Complete a return circuit to receive one.</RHA_StarAtlas030_JointNone>
+  <RHA_StarAtlas030_JointStatus>Fixed reward: {0} silver; {1} days remaining</RHA_StarAtlas030_JointStatus>
+  <RHA_StarAtlas030_JointExpired>This joint order has expired. Complete a new circuit to open another.</RHA_StarAtlas030_JointExpired>
+  <RHA_StarAtlas030_JointDelivered>Delivered — {0}: {1}</RHA_StarAtlas030_JointDelivered>
+  <RHA_StarAtlas030_JointNeeded>Awaiting delivery — {0}: {1}</RHA_StarAtlas030_JointNeeded>
+  <RHA_StarAtlas030_FreightProcurementRates>Freight-to-credit conversion: {0}%; next refinement: {1}%
+Eligible industrial purchases redeem at most 10% of actual net expense.</RHA_StarAtlas030_FreightProcurementRates>
+  <RHA_StarAtlas030_SupplyExchangeRates>Supply credit: {0}% of circuit reward; next refinement: {1}%
+Only actually purchased stackable goods are replenished, within 10% of net expense.</RHA_StarAtlas030_SupplyExchangeRates>
+  <RHA_StarAtlas030_PurchaseCredit>Unused purchase credit: {0} silver of value</RHA_StarAtlas030_PurchaseCredit>
+  <RHA_StarAtlas030_WorkshopRates>Replenishment of funded consumed units: {0}%; next refinement: {1}%
+Funding costs 5% of actual unit purchase price. Old funded amounts remain fixed.</RHA_StarAtlas030_WorkshopRates>
+  <RHA_StarAtlas030_WorkshopStock>{0}: {1} funded units; remaining replenishment budget {2}; earned fraction {3}</RHA_StarAtlas030_WorkshopStock>
+  <RHA_StarAtlas030_WorkshopRelayRates>Relay share: {0}% → next {1}%.</RHA_StarAtlas030_WorkshopRelayRates>
+  <RHA_StarAtlas030_WorkshopRelayEmpty>No relay pending. Complete a recipe using funded materials to open one.</RHA_StarAtlas030_WorkshopRelayEmpty>
+  <RHA_StarAtlas030_WorkshopRelayPending>Awaiting a different worker and recipe. Previous: {0} · {1}. Fixed materials:</RHA_StarAtlas030_WorkshopRelayPending>
+  <RHA_StarAtlas030_WorkshopRawRates>Extra raw materials: {0}% → next {1}%.</RHA_StarAtlas030_WorkshopRawRates>
+  <RHA_StarAtlas030_WorkshopSparesRates>Component value conversion: {0}% → next {1}%.</RHA_StarAtlas030_WorkshopSparesRates>
+  <RHA_StarAtlas030_WorkshopRelayFraction>Earned remainder · {0}: {1} / 1</RHA_StarAtlas030_WorkshopRelayFraction>
+  <RHA_StarAtlas030_PantryRates>Household replenishment: {0}% → next {1}%.</RHA_StarAtlas030_PantryRates>
+  <RHA_StarAtlas030_PantryRotationRates>Rotation share: {0}% → next {1}%.</RHA_StarAtlas030_PantryRotationRates>
+  <RHA_StarAtlas030_PantryMealRates>Ration nutrition conversion: {0}% → next {1}%.</RHA_StarAtlas030_PantryMealRates>
+  <RHA_StarAtlas030_PantryMedicineRates>Additional medicine: {0}% → next {1}%.</RHA_StarAtlas030_PantryMedicineRates>
+  <RHA_StarAtlas030_PantryRotationWait0>Waiting for the first funded consumption.</RHA_StarAtlas030_PantryRotationWait0>
+  <RHA_StarAtlas030_PantryRotationWait1>Last category: food. Waiting for funded medicine use.</RHA_StarAtlas030_PantryRotationWait1>
+  <RHA_StarAtlas030_PantryRotationWait2>Last category: medicine. Waiting for funded food use.</RHA_StarAtlas030_PantryRotationWait2>
+  <RHA_StarAtlas030_PantryRotationFrozen>Frozen next switch: rotation {0}%, ration conversion {1}%, extra medicine {2}%.</RHA_StarAtlas030_PantryRotationFrozen>
+  <RHA_StarAtlas030_RouteRetrain>Retrain colony route from tier {0}</RHA_StarAtlas030_RouteRetrain>
+  <RHA_StarAtlas030_RouteRetrainConfirm>Withdraw shared nodes: {0}
+
+{1} followers will return to before this fork. Personal routes are unchanged.
+Costs {2} prismatic shards and {3} prismatic cores once for the colony.
+
+Recovery timers, original awakenings, global challenge wins and refinement levels are retained. After new choices are made, eligible followers inherit them at their own pace.</RHA_StarAtlas030_RouteRetrainConfirm>
+  <RHA_StarAtlas030_RouteRelicRetrainConfirm>Withdraw shared relic nodes: {0}
+
+{1} relics will return to before this fork, including unworn relics. Personal routes are unchanged.
+Costs {2} prismatic shards and {3} prismatic cores once for the colony.
+
+Original awakenings, growth and recovery timers are retained. Eligible worn relics inherit the new choices at their own pace.</RHA_StarAtlas030_RouteRelicRetrainConfirm>
+</LanguageData>

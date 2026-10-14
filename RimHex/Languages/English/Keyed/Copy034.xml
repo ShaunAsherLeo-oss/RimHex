@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RHA_Copy034_TraceFiltered>No records match this character or filter. Switch to everyone, or turn off “Untriggered only”.</RHA_Copy034_TraceFiltered>
+  <RHA_Copy034_BuildNumbers>Hex defense is applied separately in this mod's damage pipeline: incoming damage is divided by the Hex defense multiplier before later protection. It is separate from the incoming-damage factor in the stat panel; the two values are not added together.</RHA_Copy034_BuildNumbers>
+  <RHA_StarAtlas030_RouteRules>Route and refinement rules</RHA_StarAtlas030_RouteRules>
+  <RHA_StarAtlas030_RouteRulesHint>Open the route menu for route and refinement rules.</RHA_StarAtlas030_RouteRulesHint>
+  <RHA_StarAtlas030_RelicRules>A relic's root retains its existing abilities and chosen awakening. Progression and cooldowns stay with the relic; unfinished reserves belong to the wearer. Damage branches count actual enemy damage or injuries received, and healing branches count injuries repaired, excluding overhealing. Shield gains and absorption are separate events governed by each node. Friendly fire and finishing downed targets do not count as enemy damage.</RHA_StarAtlas030_RelicRules>
+  <RHA_Copy034_RefinementTarget>Refinement target: {0}</RHA_Copy034_RefinementTarget>
+  <RHA_Copy034_CardCap>Draft limit: {0} stacks.</RHA_Copy034_CardCap>
+</LanguageData>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RHA_Encounter_Active>Encounter: {0}</RHA_Encounter_Active>
+  <RHA_Encounter_Boss>Boss family: {0}</RHA_Encounter_Boss>
+  <RHA_Encounter_Sequence>Locked strike: {0}/{1}</RHA_Encounter_Sequence>
+  <RHA_Encounter_Counter>Successful counters: {0}</RHA_Encounter_Counter>
+  <RHA_Encounter_Budget>Torso health budget {0}; nominal ordinary damage budget {1}</RHA_Encounter_Budget>
+  <RHA_Encounter_Branch_guardBreak>Anchor break</RHA_Encounter_Branch_guardBreak>
+  <RHA_Encounter_Branch_pursuit>Baited pursuit</RHA_Encounter_Branch_pursuit>
+  <RHA_Encounter_Branch_twinLink>Linked peers</RHA_Encounter_Branch_twinLink>
+  <RHA_Encounter_Branch_overload>Interrupted charge</RHA_Encounter_Branch_overload>
+  <RHA_Encounter_Branch_cadence>Ordered strikes</RHA_Encounter_Branch_cadence>
+  <RHA_Encounter_Branch_escort>Moving support</RHA_Encounter_Branch_escort>
+  <RHA_Encounter_Branch_bodyguard>Protected target</RHA_Encounter_Branch_bodyguard>
+  <RHA_Encounter_Family_thunder>Thunder</RHA_Encounter_Family_thunder>
+  <RHA_Encounter_Family_flame>Flame</RHA_Encounter_Family_flame>
+  <RHA_Encounter_Family_blood>Blood</RHA_Encounter_Family_blood>
+  <RHA_Encounter_Family_titan>Titan</RHA_Encounter_Family_titan>
+  <RHA_Encounter_Family_frost>Frost</RHA_Encounter_Family_frost>
+  <RHA_Encounter_Family_blade>Blade</RHA_Encounter_Family_blade>
+  <RHA_Encounter_Family_marksman>Marksman</RHA_Encounter_Family_marksman>
+  <RHA_Encounter_Family_spirit>Spirit</RHA_Encounter_Family_spirit>
+  <RHA_Encounter_Family_guardian>Guardian</RHA_Encounter_Family_guardian>
+</LanguageData>

@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_029_Title>进阶星图</RHA_029_Title>
+  <RHA_029_Intro>先选方向，再完成考验。进阶成果永久保留；更深层效果需要维持流派的基础来源。</RHA_029_Intro>
+  <RHA_029_NeedPawn>请选择在场、未倒地的己方殖民者，并穿戴对应遗物。</RHA_029_NeedPawn>
+  <RHA_029_UseStar>请在星图中继续这条路线。新的考验使用星图进阶。</RHA_029_UseStar>
+  <RHA_029_Complete>这条路线已完成。</RHA_029_Complete>
+  <RHA_029_Rest>下次进阶机会：{0} 天后。</RHA_029_Rest>
+  <RHA_029_Sources>不同来源：{0} / {1}。</RHA_029_Sources>
+  <RHA_029_NeedGrowth>遗物尚未完成初次觉醒所需成长。</RHA_029_NeedGrowth>
+  <RHA_029_NeedEssence>初次觉醒所需试炼精粹不足。</RHA_029_NeedEssence>
+  <RHA_029_Won>{0} 完成考验，获得「{1}」。</RHA_029_Won>
+  <RHA_029_SelectFirst>先选择一个进阶候选。</RHA_029_SelectFirst>
+  <RHA_029_Busy>先结束当前试炼或进阶挑战。</RHA_029_Busy>
+  <RHA_029_NeedBeacon>需要同一张家园地图上的己方试炼信标。</RHA_029_NeedBeacon>
+  <RHA_029_OpenArena>信标周围需要足够的露天、可通行场地。</RHA_029_OpenArena>
+  <RHA_029_Started>进阶考验开始。十秒后敌人抵达，请让进阶者前往蓝色圆环。</RHA_029_Started>
+  <RHA_029_Interrupted>进阶考验中断。所选方向保留，难度不变。</RHA_029_Interrupted>
+  <RHA_029_Timeout>进阶考验超时。所选方向保留，难度不变。</RHA_029_Timeout>
+  <RHA_029_Cancelled>已取消考验。所选方向保留，难度不变。</RHA_029_Cancelled>
+  <RHA_029_TrialWard>考验护盾</RHA_029_TrialWard>
+  <RHA_029_Effects>进阶共鸣</RHA_029_Effects>
+  <RHA_029_Colony>殖民地路线</RHA_029_Colony>
+  <RHA_029_Legend>金色：已获得　蓝色：本轮候选　橙色：待挑战　灰色：未获得</RHA_029_Legend>
+  <RHA_029_Active>已获得；满足基础来源时生效。</RHA_029_Active>
+  <RHA_029_Awaiting>已选择，等待挑战。</RHA_029_Awaiting>
+  <RHA_029_Locked>先完成前一阶段。</RHA_029_Locked>
+  <RHA_029_Candidate>本阶段方向预览。</RHA_029_Candidate>
+  <RHA_029_Ready>已满足进阶条件。</RHA_029_Ready>
+  <RHA_029_Challenge>该节点已通关 {0} 次。本次完成 {1} 个印记。
+每次成功增加压力，最多增加四级；失败不计。</RHA_029_Challenge>
+  <RHA_029_Rule_thunder>站在蓝圈内，亲自有效命中两名不同的挑战敌人，再保持引导两秒。红圈出现后三秒内离开，未躲开会损失进度。队友的攻击不计。</RHA_029_Rule_thunder>
+  <RHA_029_Rule_flame>站在蓝圈内，用自己的灼烧对挑战敌人造成实际伤害，再保持引导两秒。红圈出现后三秒内离开，否则损失进度。</RHA_029_Rule_flame>
+  <RHA_029_Rule_guardian>站在蓝圈内，以自己的护盾吸收挑战敌人的攻击，再保持引导两秒。圈内会提供临时考验护盾；红圈要求及时避让。</RHA_029_Rule_guardian>
+  <RHA_029_Rule_harvest>在蓝色苗床内静止照料，直至培育进度完成。离开会逐步损失进度。队友可以抵挡敌人；红圈出现时仍须避让。</RHA_029_Rule_harvest>
+  <RHA_029_Draft>抽取进阶候选</RHA_029_Draft>
+  <RHA_029_Choose>选择此方向</RHA_029_Choose>
+  <RHA_029_Refresh>刷新（{0}）</RHA_029_Refresh>
+  <RHA_029_Progress>{0} 的进阶考验
+印记 {1} / {2}　当前进度 {3} / {4}</RHA_029_Progress>
+  <RHA_029_Cancel>取消本次挑战</RHA_029_Cancel>
+  <RHA_029_StartHint>请先准备好进阶者与支援队伍。考验会在信标附近生成敌人；失败可能受伤或死亡。</RHA_029_StartHint>
+  <RHA_029_Start>开始挑战</RHA_029_Start>
+  <RHA_029_StageRules>二阶起，每枚印记还需亲自躲开一次红圈；四阶起，敌人进入蓝圈会打断引导；五阶需连续引导五秒。最多十二批援军，无法完成时可取消重试。相同机制的节点合并强度（上限 2），共享冷却。</RHA_029_StageRules>
+  <RHA_029_PawnTab>海克斯</RHA_029_PawnTab>
+  <RHA_029_Personal>个人强化与遗物</RHA_029_Personal>
+  <RHA_029_PawnSummary>个人强化：{0} 层
+殖民地强化：{1} 层
+穿戴遗物：{2} 件</RHA_029_PawnSummary>
+  <RHA_029_PawnHint>查看此人的进阶、遗物与强化效果。</RHA_029_PawnHint>
+  <RHA_029_FullBuild>查看完整构筑</RHA_029_FullBuild>
+  <RHA_029_Exhausted>挑战援军已耗尽。所选方向保留，难度不变。</RHA_029_Exhausted>
+  <RHA_029_Stage1>启迪</RHA_029_Stage1>
+  <RHA_029_Stage2>专精</RHA_029_Stage2>
+  <RHA_029_Stage3>蜕变</RHA_029_Stage3>
+  <RHA_029_Stage4>融合／极意</RHA_029_Stage4>
+  <RHA_029_Stage5>冠冕</RHA_029_Stage5>
+  <RHA_029_RelicStage1>觉醒</RHA_029_RelicStage1>
+  <RHA_029_RelicStage2>重塑</RHA_029_RelicStage2>
+  <RHA_029_RelicStage3>共鸣</RHA_029_RelicStage3>
+  <RHA_029_RelicStage4>定型</RHA_029_RelicStage4>
+</LanguageData>

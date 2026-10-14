@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RHA_Refinement03715_Pressure>T5/T6: after 5 seconds of uninterrupted native stun or stagger, break control and resist it for 3 seconds. A free interval resets the counter.</RHA_Refinement03715_Pressure>
+  <RHA_Refinement03715_Immune>Control recovery: {0}s remaining.</RHA_Refinement03715_Immune>
+  <RHA_Refinement03715_Reward>T{0} success: +{1} refinement levels. Level {2} → {3}.</RHA_Refinement03715_Reward>
+  <RHA_Refinement03715_Unlock>First victory unlocks this node at its full base reward. Refinement levels are earned on later challenges.</RHA_Refinement03715_Unlock>
+  <RHA_Refinement03715_Multiplier>{0}: ×{1} → ×{2}; limit ×{3}.</RHA_Refinement03715_Multiplier>
+  <RHA_Refinement03715_Legacy>Previously enrolled challenge: +{0} refinement level on success. Its original reward is preserved.</RHA_Refinement03715_Legacy>
+  <RHA_Refinement03715_Damage>Damage</RHA_Refinement03715_Damage>
+  <RHA_Refinement03715_Healing>Healing</RHA_Refinement03715_Healing>
+  <RHA_Refinement03715_Shield>Shield</RHA_Refinement03715_Shield>
+  <RHA_Refinement03715_Income>Income</RHA_Refinement03715_Income>
+  <RHA_Refinement03715_Control>Control duration</RHA_Refinement03715_Control>
+  <RHA_Refinement03715_MarkDuration>Mark duration</RHA_Refinement03715_MarkDuration>
+</LanguageData>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RHA_Operation032_AwakeningProgress>觉醒进度：{0} / {1}</RHA_Operation032_AwakeningProgress>
+  <RHA_Operation032_NeedAwakeningProgress>觉醒进度未达标</RHA_Operation032_NeedAwakeningProgress>
+  <RHA_Operation032_NeedEssence>试炼精粹不足，暂不能觉醒</RHA_Operation032_NeedEssence>
+  <RHA_Operation032_Busy>当前挑战或任务尚未结束</RHA_Operation032_Busy>
+  <RHA_Operation032_NeedPawn>请先选择角色</RHA_Operation032_NeedPawn>
+  <RHA_Operation032_OtherTask>已有进行中的成长任务</RHA_Operation032_OtherTask>
+  <RHA_Operation032_Conditions>查看条件</RHA_Operation032_Conditions>
+  <RHA_Operation032_Wait>等待冷却结束</RHA_Operation032_Wait>
+  <RHA_Operation032_NeedProgress>尚未满足完成条件</RHA_Operation032_NeedProgress>
+  <RHA_Operation032_Reward>奖励：{0}</RHA_Operation032_Reward>
+  <RHA_Operation032_InProgress>进行中</RHA_Operation032_InProgress>
+  <RHA_Operation032_Available>可执行</RHA_Operation032_Available>
+  <RHA_Operation032_Ready>可领取</RHA_Operation032_Ready>
+  <RHA_Operation032_ForgeCost>制作消耗：{0} 棱彩碎晶 · {1} 凝核</RHA_Operation032_ForgeCost>
+  <RHA_Operation032_NeedHome>所选角色需在殖民地地图上</RHA_Operation032_NeedHome>
+  <RHA_Operation032_NeedForgeResources>棱彩碎晶或凝核不足</RHA_Operation032_NeedForgeResources>
+</LanguageData>

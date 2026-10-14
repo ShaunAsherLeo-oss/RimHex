@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_STAR_Skill_Spin013.nodes.0.label>旋刃</RHA_STAR_Skill_Spin013.nodes.0.label>
+  <RHA_STAR_Skill_Spin013.nodes.0.description>保留已学会的旋转战技。旋转造成实际伤害时，对该受击者追加1点斩击，冷却3秒；同次旋转的多个目标共用冷却，追加伤害不能再次触发。 基础收益：伤害 25。</RHA_STAR_Skill_Spin013.nodes.0.description>
+  <RHA_STAR_Skill_Spin013.nodes.1.label>蓄刃</RHA_STAR_Skill_Spin013.nodes.1.label>
+  <RHA_STAR_Skill_Spin013.nodes.1.description>4秒内普通攻击同一敌人3次，留下4秒刃痕。之后旋转实际命中该敌人时消耗刃痕，追加2点斩击。蓄刃冷却3秒，同时只保留1个标记。 基础收益：伤害 50。</RHA_STAR_Skill_Spin013.nodes.1.description>
+  <RHA_STAR_Skill_Spin013.nodes.2.label>回旋护身</RHA_STAR_Skill_Spin013.nodes.2.label>
+  <RHA_STAR_Skill_Spin013.nodes.2.description>旋转造成实际伤害时，获得50点独立护盾，持续3秒，冷却4秒。同次旋转命中更多目标不会叠加护盾。 基础收益：护盾 50。</RHA_STAR_Skill_Spin013.nodes.2.description>
+  <RHA_STAR_Skill_Spin013.nodes.3.label>追刃</RHA_STAR_Skill_Spin013.nodes.3.label>
+  <RHA_STAR_Skill_Spin013.nodes.3.description>蓄刃的追加斩击确实造成伤害后，对其3格内最近的另一名敌人追加1点斩击，冷却3秒。追刃不再次触发蓄刃或扩散。 基础收益：伤害 25。</RHA_STAR_Skill_Spin013.nodes.3.description>
+  <RHA_STAR_Skill_Spin013.nodes.4.label>回元</RHA_STAR_Skill_Spin013.nodes.4.label>
+  <RHA_STAR_Skill_Spin013.nodes.4.description>蓄刃的追加斩击确实造成伤害后，修复本人最多40点非永久伤势，冷却4秒。满血不产生治疗，被完全吸收的追加伤害不提供恢复。 基础收益：治疗 40。</RHA_STAR_Skill_Spin013.nodes.4.description>
+  <RHA_STAR_Skill_Spin013.nodes.5.label>回旋援护</RHA_STAR_Skill_Spin013.nodes.5.label>
+  <RHA_STAR_Skill_Spin013.nodes.5.description>旋转造成实际伤害时，为本人4格内最近的一名其他殖民者提供50点独立护盾，持续3秒，冷却4秒。没有合格队友时不触发，不改为给自己叠盾。 基础收益：护盾 50。</RHA_STAR_Skill_Spin013.nodes.5.description>
+  <RHA_STAR_Skill_Spin013.nodes.6.label>续战</RHA_STAR_Skill_Spin013.nodes.6.label>
+  <RHA_STAR_Skill_Spin013.nodes.6.description>旋转造成实际伤害时，修复本人最多40点非永久伤势，冷却6秒。同次旋转命中更多目标不会重复治疗，满血不结算。 基础收益：治疗 40。</RHA_STAR_Skill_Spin013.nodes.6.description>
+</LanguageData>

@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_014_NoTarget>没有射程内可见敌人。</RHA_014_NoTarget>
+  <RHA_014_ShotLimit>待结算弹体已达上限：每人 48，地图 256。</RHA_014_ShotLimit>
+  <RHA_014_Status>飞矢熟练度：{0}\n多重射击阶段：{1}/2（20／40）\n威能与急速阶段：{2}/2（40／80）\n临时巫术：{3}/20\n炼狱连招：{4}/6\n仅持有对应卡牌时获得阶段收益；追加飞弹与回响不增加任务进度。</RHA_014_Status>
+</LanguageData>

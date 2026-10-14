@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_B_Boss>boss resolve</RHA_B_Boss>
+  <RHA_B_Veteran>veteran</RHA_B_Veteran>
+  <RHA_B_Projector>ward emitter</RHA_B_Projector>
+  <RHA_B_Artillery>bombardier</RHA_B_Artillery>
+  <RHA_B_Suppressor>dampener</RHA_B_Suppressor>
+  <RHA_B_Commander>field officer</RHA_B_Commander>
+  <RHA_B_Broken>staggered</RHA_B_Broken>
+  <RHA_B_Stats>Additional health ×{0}; additional damage ×{1}.</RHA_B_Stats>
+  <RHA_B_BossHelp>A finite barrier protects this boss. Repeated stuns weaken but build stagger. Stagger increases damage taken by 25% and stops special attacks for 4 seconds, followed by 6 seconds of recovery. Before phase two, executions damage the barrier and build stagger once every 2 seconds. Executions work normally during stagger or phase two, unless soul guards are still protecting the boss.</RHA_B_BossHelp>
+  <RHA_B_ProjectorHelp>Absorbs damage for up to two squadmates within 8 cells and line of sight. Cannot protect itself or another emitter. A broken barrier recharges after 12 seconds. Killing, stunning or staggering the emitter breaks its protection.</RHA_B_ProjectorHelp>
+  <RHA_B_ArtilleryHelp>Locks a ground position for 3 seconds before striking a 2.5-cell radius. Fires at most once every 12 seconds. Move away or interrupt the charge.</RHA_B_ArtilleryHelp>
+  <RHA_B_SuppressorHelp>Projects a 9-cell dampening field for 6 seconds every 14 seconds, requiring line of sight. RimHex healing and newly granted RimHex barriers are reduced by 35%. Leave the field, disable the emitter or kill it.</RHA_B_SuppressorHelp>
+  <RHA_B_CommanderHelp>Squadmates within 10 cells and line of sight deal 15% more damage. Does not affect the officer or stack with another officer. Stuns and stagger interrupt command.</RHA_B_CommanderHelp>
+  <RHA_B_Barrier>Barrier: {0} / {1}</RHA_B_Barrier>
+  <RHA_B_Poise>Stagger buildup: {0} / 100; vulnerability remaining: {1}s. Repeated stuns diminish within a 10-second window. Buildup pauses for 6 seconds after stagger ends.</RHA_B_Poise>
+  <RHA_B_Credit>Defeat contribution {0} · base combat power {1}. Growth resolves once per eligible kill.</RHA_B_Credit>
+  <RHA_B_BarrierBroken>Barrier broken</RHA_B_BarrierBroken>
+  <RHA_B_ExecuteBreak>Execution: stagger</RHA_B_ExecuteBreak>
+  <RHA_B_Charging>Charging · interruptible</RHA_B_Charging>
+  <RHA_B_Warning>Impact in {0}s</RHA_B_Warning>
+  <RHA_B_SettingsTitle>Combat and elite challenges</RHA_B_SettingsTitle>
+  <RHA_B_EnableRules>Use elite challenge rules for new trials and ruin battles</RHA_B_EnableRules>
+  <RHA_B_Intensity>Challenge strength: ×{0}</RHA_B_Intensity>
+  <RHA_B_EnableRaids>Also enhance ordinary enemy raids (off by default)</RHA_B_EnableRaids>
+  <RHA_B_ExternalCompressor>{0} handles compression for ordinary raids. Hex rules still apply to trials and ruins.</RHA_B_ExternalCompressor>
+  <RHA_B_CompressThreshold>Start compression above {0} pawns</RHA_B_CompressThreshold>
+  <RHA_B_PopulationLimit>Ordinary raid population limit: {0}</RHA_B_PopulationLimit>
+  <RHA_B_Compression>Compression ratio for excess pawns: {0}</RHA_B_Compression>
+  <RHA_B_SettingsHelp>Set strength and numbers separately; changes apply to the next battle. Scripted quest raids and events keep their original generation rules. Compression keeps at least one of each pawn kind, so the result may exceed the headcount limit. Spawn budgets also have a cap.</RHA_B_SettingsHelp>
+  <RHA_B_ContributionHelp>Combat rewards require contribution, base combat power, battles and time together. Compressed elites grant more contribution; kills are recorded separately. Summons do not grant compression rewards.</RHA_B_ContributionHelp>
+  <RHA_B_ActualKills>Actual kills this reward cycle: {0}</RHA_B_ActualKills>
+  <RHA_B_TrialPreview>Elite challenge · strength ×{0}. Finite barriers, diminishing stuns and stagger. Only a few enemies can charge attacks at once. Strong builds can still overwhelm lower tiers.</RHA_B_TrialPreview>
+  <RHA_B_LegacyRules>Classic rules: original trial scaling and control interactions.</RHA_B_LegacyRules>
+  <RHA_B_RaidReport>Raid roster: {0} pawns adjusted to {1}, including {2} elites. Challenge strength ×{3}. Inspect elite roles in the Health tab.</RHA_B_RaidReport>
+  <RHA_B_BudgetCapped>This raid reached the generation budget cap.</RHA_B_BudgetCapped>
+  <RHA_B_DiversityPreserved>This roster exceeds the compression target to preserve each pawn kind.</RHA_B_DiversityPreserved>
+  <RHA_B_RuinPreview>Elite challenge ×{0}: some guardians use barriers, charged bombardment or recovery suppression. Skill and supply solutions remain available.</RHA_B_RuinPreview>
+</LanguageData>

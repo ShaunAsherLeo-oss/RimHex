@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_StarCharge030_Active>蓄力轰击 {0} 秒 · 打断 {1}/{2}</RHA_StarCharge030_Active>
+  <RHA_StarCharge030_Brief>蓄力轰击：集火发光护卫或用眩晕打断，也可走出标记火线。伤害打断使护卫短暂失衡。护卫破防试炼中，报名队伍用伤害或眩晕打断后，首领停火3秒，并取消尚未落地的地面轰击。其他护卫与已经射出的弹丸仍有威胁。</RHA_StarCharge030_Brief>
+  <RHA_StarCharge030_Recovery>首领失衡 {0} 秒 · 趁机清除护卫</RHA_StarCharge030_Recovery>
+</LanguageData>

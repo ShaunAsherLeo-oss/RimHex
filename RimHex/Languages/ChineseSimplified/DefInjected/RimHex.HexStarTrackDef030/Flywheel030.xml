@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_STAR_Core_flywheel.nodes.0.label>飞轮</RHA_STAR_Core_flywheel.nodes.0.label>
+  <RHA_STAR_Core_flywheel.nodes.0.description>需要旋转飞轮核心卡。保留完整的持续旋转、护盾燃料、护盾储备和收势机制，不重复发卡或学习技能。二阶起由星图决定分支，已有分支卡保留。</RHA_STAR_Core_flywheel.nodes.0.description>
+  <RHA_STAR_Core_flywheel.nodes.1.label>过载飞轮</RHA_STAR_Core_flywheel.nodes.1.label>
+  <RHA_STAR_Core_flywheel.nodes.1.description>旋转每轮基础伤害由3.5降至2.2。收势改为朝选定敌人的60度锥形斩击，射程10格，最多8名敌人，受墙壁阻挡。每完成一轮旋转增加3点基础收势伤害，总计8–80点。无需再抽过载分支卡。</RHA_STAR_Core_flywheel.nodes.1.description>
+  <RHA_STAR_Core_flywheel.nodes.2.label>庇护漩涡</RHA_STAR_Core_flywheel.nodes.2.label>
+  <RHA_STAR_Core_flywheel.nodes.2.description>每轮旋转消耗自身护盾，为4格内视线畅通的至多3名人类队友各转移至多2点盾，补至12点，持续3秒。保留设定储备，须足够支付本轮全部转移；更强的盾不消耗资源。每轮旋转伤害降至1.5，收势伤害减半。无需再抽护卫分支卡。</RHA_STAR_Core_flywheel.nodes.2.description>
+  <RHA_STAR_Core_flywheel.nodes.3.label>蓄刃收势</RHA_STAR_Core_flywheel.nodes.3.label>
+  <RHA_STAR_Core_flywheel.nodes.3.description>旋转连续3次实际伤及同一敌人，相邻命中间隔不超过3秒，留下4秒蓄刃标记，最多保留一个；转火重新计数。收势实际命中该目标时消耗标记，追加4点斩击。标记生成冷却6秒，不能用追加伤害蓄积。 基础收益：伤害 100。</RHA_STAR_Core_flywheel.nodes.3.description>
+  <RHA_STAR_Core_flywheel.nodes.4.label>破阵追击</RHA_STAR_Core_flywheel.nodes.4.label>
+  <RHA_STAR_Core_flywheel.nodes.4.description>收势首次实际伤敌时，为该目标留下3秒破口。本人下一次普通攻击命中该目标，消耗破口追加2点斩击。每6秒最多标记一次，只保留一名目标；技能、追加伤害和队友不能兑现。 基础收益：伤害 50。</RHA_STAR_Core_flywheel.nodes.4.description>
+  <RHA_STAR_Core_flywheel.nodes.5.label>稳住阵脚</RHA_STAR_Core_flywheel.nodes.5.label>
+  <RHA_STAR_Core_flywheel.nodes.5.description>收势实际伤敌后，治疗自身40点可恢复伤势，冷却6秒。同次收势的多名目标不会重复治疗；不恢复缺失部位，不治疗永久伤疤。 基础收益：治疗 40。</RHA_STAR_Core_flywheel.nodes.5.description>
+  <RHA_STAR_Core_flywheel.nodes.6.label>余势护卫</RHA_STAR_Core_flywheel.nodes.6.label>
+  <RHA_STAR_Core_flywheel.nodes.6.description>收势实际伤敌后，为4格内视线畅通的最近一名其他殖民者提供50点独立护盾，持续3秒，冷却6秒。同次收势的多名目标不重复授盾；没有合适队友时不改为保护自己。 基础收益：护盾 50。</RHA_STAR_Core_flywheel.nodes.6.description>
+</LanguageData>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_STAR_Relic_Gambler.nodes.0.label>Wager Coin</RHA_STAR_Relic_Gambler.nodes.0.label>
+  <RHA_STAR_Relic_Gambler.nodes.0.description>Retains the coin’s original bounty, critical, movement and awakening effects without duplicating base stats. Progress stays with the item; unequipping stops its effects.</RHA_STAR_Relic_Gambler.nodes.0.description>
+  <RHA_STAR_Relic_Gambler.nodes.1.label>Press the Win</RHA_STAR_Relic_Gambler.nodes.1.label>
+  <RHA_STAR_Relic_Gambler.nodes.1.description>After an ordinary critical attack actually damages a standing enemy, deal 50 additional damage to it, once per 8 seconds. Skills, secondary damage, allies and downed targets do not count. Adds nothing if the original hit already killed the target. Base rewards: damage 50.</RHA_STAR_Relic_Gambler.nodes.1.description>
+  <RHA_STAR_Relic_Gambler.nodes.2.label>Hedged Stake</RHA_STAR_Relic_Gambler.nodes.2.label>
+  <RHA_STAR_Relic_Gambler.nodes.2.description>Count ordinary damaging hits that do not critically strike. Three counts, no more than 3 seconds apart, store one stake for 5 seconds. A later ordinary critical hit spends it for 75 additional damage. Intervening critical hits neither add nor clear counts. One stake maximum, with an 8-second creation cooldown. Skills and secondary damage do not count. Guaranteed critical hits cannot build stakes. Base rewards: damage 75.</RHA_STAR_Relic_Gambler.nodes.2.description>
+  <RHA_STAR_Relic_Gambler.nodes.3.label>Winnings Guard</RHA_STAR_Relic_Gambler.nodes.3.label>
+  <RHA_STAR_Relic_Gambler.nodes.3.description>After Press the Win deals actual bonus damage, shield yourself for 50 base points over 3 seconds, once per 8 seconds. Fully prevented bonus damage grants no shield. Base rewards: shield 50.</RHA_STAR_Relic_Gambler.nodes.3.description>
+  <RHA_STAR_Relic_Gambler.nodes.4.label>Winning Recovery</RHA_STAR_Relic_Gambler.nodes.4.label>
+  <RHA_STAR_Relic_Gambler.nodes.4.description>After Press the Win deals actual bonus damage, heal 20 base points of your recoverable injuries, once per 8 seconds. Does not restore permanent scars or missing parts. Base rewards: healing 20.</RHA_STAR_Relic_Gambler.nodes.4.description>
+  <RHA_STAR_Relic_Gambler.nodes.5.label>Split Stake</RHA_STAR_Relic_Gambler.nodes.5.label>
+  <RHA_STAR_Relic_Gambler.nodes.5.description>After Hedged Stake deals actual bonus damage, strike one other enemy within 3 cells of the impact and clear sight for 25 damage, once per 8 seconds. Never strikes the original target again if no other enemy is available. Base rewards: damage 25.</RHA_STAR_Relic_Gambler.nodes.5.description>
+  <RHA_STAR_Relic_Gambler.nodes.6.label>Shared Winnings</RHA_STAR_Relic_Gambler.nodes.6.label>
+  <RHA_STAR_Relic_Gambler.nodes.6.description>After Hedged Stake deals actual bonus damage, shield the nearest other eligible colonist within 4 cells and clear sight for 50 base points over 3 seconds, once per 8 seconds. Does not shield you instead when no ally is eligible. Base rewards: shield 50.</RHA_STAR_Relic_Gambler.nodes.6.description>
+</LanguageData>

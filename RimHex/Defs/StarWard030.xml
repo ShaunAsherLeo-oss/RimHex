@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingDef ParentName="BuildingBase">
+    <defName>RHA_StarWard</defName><label>trial ward</label><description>Protect the ward while defeating the commander and every raider already on the field. Raiders attack the ward directly. Killing a raider exposes the commander for 3 seconds, increasing damage taken by 25%. Killing the commander stops future reinforcements. Waves are finite. You cannot repair or move the ward, and no machinery interaction is needed. Deal meaningful personal damage, or protect and heal your fellow participants to earn contribution. Helpers may finish enemies, but cannot replace all applicant participation.</description>
+    <thingClass>RimHex.Building_HexStarWard030</thingClass><size>(1,1)</size><rotatable>false</rotatable>
+    <altitudeLayer>Building</altitudeLayer><passability>Impassable</passability><fillPercent>0.5</fillPercent>
+    <useHitPoints>true</useHitPoints><destroyable>true</destroyable>
+    <graphicData><texPath>RimHex/Trial/Beacon</texPath><graphicClass>Graphic_Single</graphicClass><drawSize>(1.6,1.6)</drawSize><color>(0.4,0.85,1)</color></graphicData>
+    <statBases><MaxHitPoints>800</MaxHitPoints><Mass>100</Mass><Flammability>0</Flammability><MarketValue>0</MarketValue></statBases>
+    <building><deconstructible>false</deconstructible><claimable>false</claimable><repairable>false</repairable></building>
+  </ThingDef>
+  <HediffDef><defName>RHA_StarWardCommander</defName><label>siege commander</label><description>Protect the ward while defeating the commander and every raider already on the field. Raiders attack the ward directly. Killing a raider exposes the commander for 3 seconds, increasing damage taken by 25%. Killing the commander stops future reinforcements. Waves are finite. You cannot repair or move the ward, and no machinery interaction is needed. Deal meaningful personal damage, or protect and heal your fellow participants to earn contribution. Helpers may finish enemies, but cannot replace all applicant participation.</description><hediffClass>RimHex.Hediff_HexStarConduit030</hediffClass><isBad>false</isBad></HediffDef>
+  <HediffDef><defName>RHA_StarWardRaider</defName><label>ward raider</label><description>This raider attacks the trial ward. Defeating it exposes the commander for three seconds.</description><hediffClass>RimHex.Hediff_HexStarConduit030</hediffClass><isBad>false</isBad></HediffDef>
+</Defs>

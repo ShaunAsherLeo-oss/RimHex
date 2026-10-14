@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RHA_StarTrialGate.label>试炼出口</RHA_StarTrialGate.label>
+  <RHA_StarTrialGate.description>战斗中撤退需在出口附近集结。完成、失败或取消后，可从全图返回人员、遗体和物资；携带物和库存随本人返回。</RHA_StarTrialGate.description>
+  <RHA_StarTrialTerminal.label>试炼终端</RHA_StarTrialTerminal.label>
+  <RHA_StarTrialTerminal.description>需要申请者亲自操作的终端。协助者无法代替本人完成考核。</RHA_StarTrialTerminal.description>
+</LanguageData>

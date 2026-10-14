@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_V25_NeedMove>Requires a learned Spin, Blink, Hunt or Swap movement ability</RHA_V25_NeedMove>
+  <RHA_V25_Opening>Opening: {0} · {1}</RHA_V25_Opening>
+  <RHA_V25_Shift>Extended deployment ready: 16 cells · {0}</RHA_V25_Shift>
+  <RHA_V25_SwitchHint>Switch Parry branches after parrying and counterattacks end, or Mine branches after your mines leave. Recovery timers are retained.</RHA_V25_SwitchHint>
+</LanguageData>

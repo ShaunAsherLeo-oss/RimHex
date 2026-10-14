@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RHA_Equipment037_Tab>装备卡 · {0}</RHA_Equipment037_Tab>
+  <RHA_Equipment037_Scope>个人装备专属卡</RHA_Equipment037_Scope>
+  <RHA_Equipment037_Exchange>兑换选卡机会 · 200 / 1 / 1</RHA_Equipment037_Exchange>
+  <RHA_Equipment037_Wallet>碎晶 {0} · 凝核 {1} · 印记 {2}</RHA_Equipment037_Wallet>
+  <RHA_Equipment037_Round>装备卡 · 三选一后选择持有人</RHA_Equipment037_Round>
+  <RHA_Equipment037_Requires>实际穿戴{0}时生效。</RHA_Equipment037_Requires>
+  <RHA_Equipment037_Active>已激活 · 正在穿戴{0}。</RHA_Equipment037_Active>
+  <RHA_Equipment037_Dormant>已持有，休眠中 · 需要穿戴{0}。</RHA_Equipment037_Dormant>
+  <RHA_Equipment037_AfterClaim>领取后激活 · 正在穿戴{0}。</RHA_Equipment037_AfterClaim>
+  <RHA_Equipment037_Personal>卡牌始终归该角色所有，实际穿戴对应装备才生效；背包装备不计入。</RHA_Equipment037_Personal>
+  <RHA_Equipment037_ColdAwait>等待反击</RHA_Equipment037_ColdAwait>
+  <RHA_Equipment037_ColdReturn>返还 {0}</RHA_Equipment037_ColdReturn>
+  <RHA_Equipment037_ThornAttack>等待首次攻击</RHA_Equipment037_ThornAttack>
+  <RHA_Equipment037_ThornReckoning>等待伤害其他友军</RHA_Equipment037_ThornReckoning>
+  <RHA_Equipment037_MoonEnsemble>下次有效攻击</RHA_Equipment037_MoonEnsemble>
+  <RHA_Equipment037_MoonDelay>延迟回针</RHA_Equipment037_MoonDelay>
+  <RHA_Equipment037_MoonAwait>等待受伤</RHA_Equipment037_MoonAwait>
+  <RHA_Equipment037_TalismanDebt>欠伤 {0} · 剩余{1}期</RHA_Equipment037_TalismanDebt>
+  <RHA_Equipment037_BloodReserve>储血 {0} / {1}</RHA_Equipment037_BloodReserve>
+  <RHA_Equipment037_BloodPressure>反冲 {0}</RHA_Equipment037_BloodPressure>
+</LanguageData>

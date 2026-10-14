@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RHA_StarDust037.label>折光星屑</RHA_StarDust037.label>
+  <RHA_StarDust037.description>星界壁垒把部分截断伤害暂存为星屑。下一次直接命中自动消耗，并在主目标和附近最多两名敌人间均分电伤。八秒到期或卸下壁垒后清除。</RHA_StarDust037.description>
+  <RHA_StarRing037.label>星环隔绝</RHA_StarRing037.label>
+  <RHA_StarRing037.description>两秒内累计三次合格敌方命中后，星界壁垒免除0.6秒内新的敌方直接伤害。触发那一击仍正常承受，十二秒后可再次生效。</RHA_StarRing037.description>
+</LanguageData>

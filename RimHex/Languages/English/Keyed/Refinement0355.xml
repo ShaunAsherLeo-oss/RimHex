@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RHA_Refine_Active>Refinement counter rewards active</RHA_Refine_Active>
+  <RHA_Refine_State>{0} · {1} · {2}</RHA_Refine_State>
+  <RHA_Refine_Progress>Follow-up {0}: {1}/{2}</RHA_Refine_Progress>
+  <RHA_Refine_Result>Reward: {0} ({1} times)</RHA_Refine_Result>
+  <RHA_Tactic_Result_thaw>Forced early thaw</RHA_Tactic_Result_thaw>
+  <RHA_Refine_State_discharge>Discharge slowdown</RHA_Refine_State_discharge>
+  <RHA_Refine_State_cleanse>Cleanse charge</RHA_Refine_State_cleanse>
+  <RHA_Refine_State_fatigue>Frenzy fatigue</RHA_Refine_State_fatigue>
+  <RHA_Refine_State_regroup>Damaged regroup charge</RHA_Refine_State_regroup>
+  <RHA_Refine_State_regroupActive>Damaged formation</RHA_Refine_State_regroupActive>
+  <RHA_Refine_State_thaw>Early thaw</RHA_Refine_State_thaw>
+  <RHA_Refine_State_breach>Linked stance breach</RHA_Refine_State_breach>
+  <RHA_Refine_State_relocate>Shooter relocating / paused</RHA_Refine_State_relocate>
+  <RHA_Refine_State_exhaust>Pact exhaustion</RHA_Refine_State_exhaust>
+  <RHA_Refine_State_pactWindow>Pact follow-up window</RHA_Refine_State_pactWindow>
+  <RHA_Refine_State_cover>Continuous cover</RHA_Refine_State_cover>
+  <RHA_Refine_State_relief>Protected respite</RHA_Refine_State_relief>
+  <RHA_Refine_Brief_thunder>Discharge A power chain sustains the enemies. Counter the feeder with the existing focus-fire or control answers. Linked living enemies have 1.25x ordinary attack cooldowns for 8 seconds. Ignoring the feeder forfeits the group slowdown.</RHA_Refine_Brief_thunder>
+  <RHA_Refine_Brief_flame>Cleanse Embers constrain movement. Bait a locked impact into an old ember. Clear all embers; this caster's next legal attack deals its normal damage without creating embers, once before phase end. Control alone does not earn the cleanse.</RHA_Refine_Brief_flame>
+  <RHA_Refine_Brief_blood>Fatigue Frenzy makes ordinary attacks dangerous. Apply effective control during frenzy, or deal a further 20% of maximum torso health in actual damage after it starts. End frenzy early; for 8 seconds movement is 0.8x and ordinary attack cooldown is 1.25x. Waiting out frenzy remains viable but earns no fatigue.</RHA_Refine_Brief_blood>
+  <RHA_Refine_Brief_titan>Damaged regroup Nearby stationary enemies form a defensive formation. Pull an established formation apart; a solo enemy braces its own position and can be pulled away. Damage and control retain their original rewards. Former members must stand still for 4 seconds to reform; that phase has at most 10% formation defense. The opportunity expires at the end of the next phase. Damage or control alone does not damage regrouping.</RHA_Refine_Brief_titan>
+  <RHA_Refine_Brief_frost>Early thaw Frozen enemies have defense and slower movement. Deal 20% of maximum torso health in actual damage while frozen. Thaw that enemy early for 8 seconds with 25% exposure; then restore its current phase state without restarting the group cycle. Saving burst for the natural thaw remains effective.</RHA_Refine_Brief_frost>
+  <RHA_Refine_Brief_blade>Linked stance breach Complementary facings defend frontal approaches. Land an actual side or rear hit that breaks a stance. The complementary stance enemy is also exposed for 8 seconds; a solo enemy cannot rearm for the first 8 seconds of its next phase. Frontal damage and control remain viable but do not earn the linked breach.</RHA_Refine_Brief_blade>
+  <RHA_Refine_Brief_marksman>Force relocation The shooter occupies a safe firing position. Keep the protected target behind effective cover from this shooter for 3 continuous seconds. The shooter relocates and cannot start specials until arrival or 8 seconds; without a legal destination, it pauses in place for 8 seconds. Leaving effective cover resets the 3-second count; ordinary attacks remain dangerous.</RHA_Refine_Brief_marksman>
+  <RHA_Refine_Brief_spirit>Pact exhaustion Living enemies can rebuild a pact in a later phase. Within the same phase and 8 seconds after pact break, deal a further 20% of maximum torso health in actual damage to the original primary; phase transition closes unearned follow-up opportunities. That enemy cannot regain pact protection during the first 8 seconds of its next phase; roles still rotate normally. Insufficient window damage only earns the original pact break; dead enemies never return.</RHA_Refine_Brief_spirit>
+  <RHA_Refine_Brief_guardian>Protected respite The protected target is under encounter pressure. Meet the original shared threshold through applicant damage, effective healing or actual shield absorption. For 8 seconds, encounter enemies deal 20% less ordinary attack damage to that target; solo play protects yourself without generating support credit. Ordinary attacks still occur and the original survival requirement remains.</RHA_Refine_Brief_guardian>
+</LanguageData>

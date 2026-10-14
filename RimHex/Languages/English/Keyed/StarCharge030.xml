@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_StarCharge030_Active>Barrage in {0}s · interrupt: {1}/{2}</RHA_StarCharge030_Active>
+  <RHA_StarCharge030_Brief>Charged barrage: focus fire on the glowing guard, stun it, or leave the marked corridor. A damage interrupt briefly staggers the guard. In guard-break trials, a damage or stun interrupt by your expedition also silences the core for 3 seconds and cancels its pending ground strike. Other guards and shots already in flight remain dangerous.</RHA_StarCharge030_Brief>
+  <RHA_StarCharge030_Recovery>Core disrupted: {0}s · press the attack on its guards</RHA_StarCharge030_Recovery>
+</LanguageData>

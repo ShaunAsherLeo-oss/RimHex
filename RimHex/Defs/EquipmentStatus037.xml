@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <HediffDef>
+    <defName>RHA_ScytheSlow037</defName>
+    <label>scythe drag</label>
+    <description>The isolated target of the Scythe's original third strike moves 15% slower for 3 seconds while its source remains equipped. Different authors retain their own source; the same author refreshes only.</description>
+    <hediffClass>RimHex.Hediff_HexScytheSlow037</hediffClass>
+    <isBad>true</isBad>
+    <initialSeverity>1</initialSeverity>
+    <maxSeverity>1</maxSeverity>
+    <stages><li><statFactors><MoveSpeed>0.85</MoveSpeed></statFactors></li></stages>
+  </HediffDef>
+  <DamageDef ParentName="Flame">
+    <defName>RHA_Electric037</defName>
+    <label>electrical burn</label>
+    <workerClass>DamageWorker_AddInjury</workerClass>
+    <canInterruptJobs>true</canInterruptJobs>
+    <explosionHeatEnergyPerCell>0</explosionHeatEnergyPerCell>
+  </DamageDef>
+  <HediffDef>
+    <defName>RHA_OrbFracture037</defName>
+    <label>orb fracture</label>
+    <description>The isolated target of a compressed original Orb blast loses 12 percentage points of sharp armor for 4 seconds. One author refreshes only; different authors remain separate.</description>
+    <hediffClass>RimHex.Hediff_HexOrbFracture037</hediffClass>
+    <isBad>true</isBad><initialSeverity>1</initialSeverity><maxSeverity>1</maxSeverity>
+    <stages><li><statOffsets><ArmorRating_Sharp>-0.12</ArmorRating_Sharp></statOffsets></li></stages>
+  </HediffDef>
+  <HediffDef>
+    <defName>RHA_HydraRip037</defName>
+    <label>hydra rip</label>
+    <description>The Hydra's solitary bite primes its wearer's next native direct hit for 4 seconds. Only that hit uses sharp armor 15 percentage points lower; other attackers, secondary damage and the target's persistent armor stats are unchanged. The mark is consumed even if the next hit is blocked.</description>
+    <hediffClass>RimHex.Hediff_HexHydraRip037</hediffClass>
+    <isBad>true</isBad><initialSeverity>1</initialSeverity><maxSeverity>1</maxSeverity>
+  </HediffDef>
+  <HediffDef>
+    <defName>RHA_FrostMovement037</defName><label>ice-mirror chill</label>
+    <description>Move 20% slower for 3 seconds after an ice mirror shatters. This named effect uses one strongest layer; authors retain separate expiring sources.</description>
+    <hediffClass>RimHex.Hediff_HexFrostStatus037</hediffClass><isBad>true</isBad><initialSeverity>1</initialSeverity><maxSeverity>1</maxSeverity>
+    <stages><li><statFactors><MoveSpeed>0.8</MoveSpeed></statFactors></li></stages>
+  </HediffDef>
+  <HediffDef>
+    <defName>RHA_FrostAttack037</defName><label>frostvein retaliation</label>
+    <description>Attack 20% slower for 3 seconds. This named effect increases melee and ranged cooldown factors to 1.25 times their original values, once even with multiple authors.</description>
+    <hediffClass>RimHex.Hediff_HexFrostStatus037</hediffClass><isBad>true</isBad><initialSeverity>1</initialSeverity><maxSeverity>1</maxSeverity>
+    <stages><li><statFactors><MeleeCooldownFactor>1.25</MeleeCooldownFactor><RangedCooldownFactor>1.25</RangedCooldownFactor></statFactors></li></stages>
+  </HediffDef>
+  <HediffDef>
+    <defName>RHA_FrostAura037</defName><label>frostvein escort</label>
+    <description>After the next actual hostile native melee injury, consume frostvein and slow that attacker’s attack speed by 20% for 3 seconds. Ranged and secondary damage leave frostvein intact.</description>
+    <hediffClass>RimHex.Hediff_HexFrostStatus037</hediffClass><isBad>false</isBad><initialSeverity>1</initialSeverity><maxSeverity>1</maxSeverity>
+  </HediffDef>
+  <HediffDef>
+    <defName>RHA_ColdDebt037</defName><label>cold debt</label>
+    <description>Your next native direct injury against this debt's wearer is reduced by 25% after original armor and instant-kill protection, with at most 20 injury points across the entire attack. The wearer’s next effective native direct hit returns 150% of the recorded reduction as blunt damage and consumes the debt. New original Frost procs refresh its 8-second expiry without erasing an earned loan.</description>
+    <hediffClass>RimHex.Hediff_HexColdDebt037</hediffClass><isBad>true</isBad><initialSeverity>1</initialSeverity><maxSeverity>1</maxSeverity>
+  </HediffDef>
+  <HediffDef>
+    <defName>RHA_ThornMark037</defName><label>thorn reckoning</label>
+    <description>An original Thornshell retaliation earned this source-specific mark. Reckoning waits for actual direct injury to another ally; a seed mark waits for its victim's first native attack attempt and settles after that attack completes.</description>
+    <hediffClass>RimHex.Hediff_HexThornMark037</hediffClass><isBad>true</isBad><initialSeverity>1</initialSeverity><maxSeverity>1</maxSeverity>
+  </HediffDef>
+  <HediffDef>
+    <defName>RHA_MoonNeedle037</defName><label>moonphase needle</label>
+    <description>After an original Moonstone group heal repairs at least5 actual injury points, wait up to6 seconds for hostile injury. Then wait2 seconds and repair40% of that original effective healing, capped at18 injury points. Each author retains its own8-second recipient gate.</description>
+    <hediffClass>RimHex.Hediff_HexMoonMark037</hediffClass><isBad>false</isBad><initialSeverity>1</initialSeverity><maxSeverity>1</maxSeverity>
+  </HediffDef>
+  <HediffDef>
+    <defName>RHA_MoonEnsemble037</defName><label>full-moon ensemble</label>
+    <description>The next effective native direct hit consumes this named effect and repairs8 injury points on the attacker and the lowest-health other ally within3 cells. Multiple authors share one named echo and preserve all eligible source ancestry.</description>
+    <hediffClass>RimHex.Hediff_HexMoonMark037</hediffClass><isBad>false</isBad><initialSeverity>1</initialSeverity><maxSeverity>1</maxSeverity>
+  </HediffDef>
+  <HediffDef>
+    <defName>RHA_TalismanRenewal037</defName><label>talisman renewal</label>
+    <description>A10-second mark from at least20 genuine unused healing in one original talisman block. The next actual injury crossing below50% native health consumes it to repair15 injury points. Removing the source clears the mark without resetting original block cooldown.</description>
+    <hediffClass>RimHex.Hediff_HexTalismanRenewal037</hediffClass><isBad>false</isBad><initialSeverity>1</initialSeverity><maxSeverity>1</maxSeverity>
+  </HediffDef>
+  <HediffDef>
+    <defName>RHA_TalismanDebt037</defName><label>deferred talisman injury</label>
+    <description>After the original four-second borrowing window, pay saved protected injury in eight one-second installments. Each entry retains its original damage definition, body part and source chain. Removing the gear or leaving the map does not erase owed injury. Native armor, shields, deferral and instant-kill protection are not applied a second time.</description>
+    <hediffClass>RimHex.Hediff_HexTalismanDebt037</hediffClass><isBad>true</isBad><initialSeverity>1</initialSeverity><maxSeverity>1</maxSeverity>
+  </HediffDef>
+  <HediffDef>
+    <defName>RHA_BloodReserve037</defName><label>stored blood</label>
+    <description>A source-attributed reserve from genuine unused Bloodmail native lifesteal. After actual hostile injury it can replenish its own four-second shield once per second. The reserve does not decay; removing the source clears it.</description>
+    <hediffClass>RimHex.Hediff_HexBloodReserve037</hediffClass><isBad>false</isBad><initialSeverity>1</initialSeverity><maxSeverity>1</maxSeverity>
+  </HediffDef>
+  <HediffDef>
+    <defName>RHA_BloodPressure037</defName><label>blood pressure recoil</label>
+    <description>The next actual native direct hit releases this frozen blunt injury budget against its primary target and the nearest two other enemies within two cells. Readiness expires after six seconds; release starts a ten-second cooldown.</description>
+    <hediffClass>RimHex.Hediff_HexBloodPressure037</hediffClass><isBad>false</isBad><initialSeverity>1</initialSeverity><maxSeverity>1</maxSeverity>
+  </HediffDef>
+  <HediffDef>
+    <defName>RHA_Scorched037</defName><label>scorched earth</label>
+    <description>Native recoverable injury repair is reduced once by30%. Genuinely suppressed repair is shared among current source accounts, each with its own frozen capacity and four-second deadline. Expiry releases saved heat as native burn damage. Removing a source or losing the target cancels that source without damage.</description>
+    <hediffClass>RimHex.Hediff_HexScorched037</hediffClass><isBad>true</isBad><initialSeverity>1</initialSeverity><maxSeverity>1</maxSeverity>
+  </HediffDef>
+  <HediffDef>
+    <defName>RHA_EmberFuel037</defName><label>reclaimed ember fuel</label>
+    <description>Up to three fuel earned once from nearby deaths carrying the wearer's tagged original burn. The next original aura round with actual damage spends the fuel for native burn damage and injury repair. Fuel expires eight seconds after its latest gain.</description>
+    <hediffClass>RimHex.Hediff_HexEmberFuel037</hediffClass><isBad>false</isBad><initialSeverity>1</initialSeverity><maxSeverity>1</maxSeverity>
+  </HediffDef>
+  <HediffDef>
+    <defName>RHA_SoulSpirits037</defName><label>accompanying souls</label>
+    <description>Up to three accompanying spirits earned by actual new source-attributed equipment soul marks. Each freezes its electrical payload at earning; later native direct hits spend one, at least one second apart. New gains refresh twelve seconds. Removing the vessel clears spirits.</description>
+    <hediffClass>RimHex.Hediff_HexSoulReserve037</hediffClass><isBad>false</isBad><initialSeverity>1</initialSeverity><maxSeverity>1</maxSeverity>
+  </HediffDef>
+  <HediffDef>
+    <defName>RHA_SoulGuardian037</defName><label>soul guardians</label>
+    <description>Five new source-attributed integer equipment marks store one guardian, at most two. Native hostile injury crossing below20% consumes one for a six-second native-scale shield and three one-second injury-healing pulses. Earned inventory and thirty-second cooldown persist through unequip.</description>
+    <hediffClass>RimHex.Hediff_HexSoulReserve037</hediffClass><isBad>false</isBad><initialSeverity>1</initialSeverity><maxSeverity>1</maxSeverity>
+  </HediffDef>
+  <HediffDef>
+    <defName>RHA_SoulEcho037</defName><label>disembodied echo</label>
+    <description>The first native direct hit establishes a six-second echo and records no damage. Subsequent native direct results contribute15%, capped at the frozen creation-time budget. Expiry releases electrical damage; actual early death transfers half to the nearest other enemy within four cells. Each author keeps an independent source and four-second re-establishment gate.</description>
+    <hediffClass>RimHex.Hediff_HexSoulEcho037</hediffClass><isBad>true</isBad><initialSeverity>1</initialSeverity><maxSeverity>1</maxSeverity>
+  </HediffDef>
+  <HediffDef>
+    <defName>RHA_SteelPlates037</defName><label>forged steel plates</label>
+    <description>Up to three plates earned by original source-attributed steel awards. Later actual hostile injury spends one for12 shield points over3 seconds. A melee-earned award also freezes one sharp strike for the next native direct hit. Temporary authority expires after12 seconds and clears on source removal.</description>
+    <hediffClass>RimHex.Hediff_HexSteelPlate037</hediffClass><isBad>false</isBad><initialSeverity>1</initialSeverity><maxSeverity>1</maxSeverity>
+  </HediffDef>
+  <HediffDef>
+    <defName>RHA_SteelQuench037</defName><label>quenched armor cracks</label>
+    <description>Each author's original steel-award hit adds one layer for8 seconds, up to3. Each active layer subtracts8 percentage points from native sharp armor. A later native direct hit with3 pre-existing own layers consumes those layers for its frozen sharp damage budget. Native armor limits remain authoritative.</description>
+    <hediffClass>RimHex.Hediff_HexSteelQuench037</hediffClass><isBad>true</isBad><initialSeverity>1</initialSeverity><maxSeverity>1</maxSeverity>
+  </HediffDef>
+  <HediffDef>
+    <defName>RHA_SteelPreforms037</defName><label>steel growth and legacy stock</label>
+    <description>Saved fractional combat growth and old earned preforms. A preform is spent once on the next eligible native steel award for an additional50% growth. Old labor records are archived only; no new labor, preforms, work progress or experience is produced.</description>
+    <hediffClass>RimHex.Hediff_HexSteelPreforms037</hediffClass><isBad>false</isBad><initialSeverity>1</initialSeverity><maxSeverity>1</maxSeverity>
+  </HediffDef>
+  <HediffDef>
+    <defName>RHA_BallistaCalibration037</defName><label>ballista calibration</label>
+    <description>Up to three source-specific calibration layers. Only this author's next native ranged shot beyond four cells uses ten percentage points lower sharp armor per pre-existing layer. Native armor and permanent stats remain authoritative.</description>
+    <hediffClass>RimHex.Hediff_HexBallistaMark037</hediffClass><isBad>true</isBad><initialSeverity>1</initialSeverity><maxSeverity>1</maxSeverity>
+  </HediffDef>
+  <HediffDef>
+    <defName>RHA_BallistaSuppression037</defName><label>ballista suppression</label>
+    <description>A native ranged hit with three pre-existing calibration layers clears them and lowers attack speed by20percent for three seconds. Independent authors retain sources; this named effect applies once.</description>
+    <hediffClass>RimHex.Hediff_HexBallistaMark037</hediffClass><isBad>true</isBad><initialSeverity>1</initialSeverity><maxSeverity>1</maxSeverity>
+    <stages><li><statFactors><MeleeCooldownFactor>1.25</MeleeCooldownFactor><RangedCooldownFactor>1.25</RangedCooldownFactor></statFactors></li></stages>
+  </HediffDef>
+  <HediffDef>
+    <defName>RHA_BallistaTether037</defName><label>ballista tether</label>
+    <description>A five-second source-specific tether freezing two sharp damage budgets. Actual native path-cell entry pays at most four one-cell movement results. Entirely stationary expiry pays the frozen stationary result. Teleports, forced placement, carrying and downed movement do not count.</description>
+    <hediffClass>RimHex.Hediff_HexBallistaMark037</hediffClass><isBad>true</isBad><initialSeverity>1</initialSeverity><maxSeverity>1</maxSeverity>
+  </HediffDef>
+  <HediffDef>
+    <defName>RHA_BallistaPreaim037</defName><label>long-range preaim</label>
+    <description>A native weapon hit at least twelve cells away earned one six-second preaim. The next distinct accepted ordinary weapon warmup spends it to subtract thirty percent of its already-adjusted real integer aiming ticks, at most thirty, leaving at least one. Zero reduction keeps the reserve. Four-second earning/refresh gate persists through source removal.</description>
+    <hediffClass>RimHex.Hediff_HexBallistaMark037</hediffClass><isBad>false</isBad><initialSeverity>1</initialSeverity><maxSeverity>1</maxSeverity>
+  </HediffDef>
+  <HediffDef>
+    <defName>RHA_CrownMandate037</defName><label>merit mandate</label>
+    <description>Five accepted original Crown contribution events grant three native-hit mandates to the wearer and the lowest-health nearby ally for eight seconds. Each recipient freezes its own actual native-hit budget at granting. The source must remain equipped.</description>
+    <hediffClass>RimHex.Hediff_HexCrownMark037</hediffClass><isBad>false</isBad><initialSeverity>1</initialSeverity><maxSeverity>1</maxSeverity>
+  </HediffDef>
+  <HediffDef>
+    <defName>RHA_CrownEdicts037</defName><label>royal edicts</label>
+    <description>Up to three thirty-second edicts from actual original Crown growth. Hostile injury of at least fifteen points to the wearer or a nearby ally spends one to repair twelve genuine injury points and grant three seconds of protection. Each author retains a three-second recipient gate.</description>
+    <hediffClass>RimHex.Hediff_HexCrownMark037</hediffClass><isBad>false</isBad><initialSeverity>1</initialSeverity><maxSeverity>1</maxSeverity>
+  </HediffDef>
+  <HediffDef>
+    <defName>RHA_CrownProtection037</defName><label>royal protection</label>
+    <description>Take ten percent less native injury for three seconds after an edict was spent. One named native factor applies once; authors retain independent sources. Protection is earned after the triggering injury and cannot retroactively prevent it.</description>
+    <hediffClass>RimHex.Hediff_HexCrownMark037</hediffClass><isBad>false</isBad><initialSeverity>1</initialSeverity><maxSeverity>1</maxSeverity>
+    <stages><li><statFactors><IncomingDamageFactor>0.9</IncomingDamageFactor></statFactors></li></stages>
+  </HediffDef>
+  <HediffDef>
+    <defName>RHA_ArchangelRecovery037</defName><label>post-battle recovery</label>
+    <description>After eighty points of proved Archangel repair to actual hostile ordinary injuries in one encounter, restore half the injury-caused production, construction and research speed loss. Original illness, scars, missing parts, hunger and gains remain. The original six-hour duration continues while its equipment source is removed; full ordinary wound recovery ends the benefit.</description>
+    <hediffClass>RimHex.Hediff_HexArchangelRecovery037</hediffClass><isBad>false</isBad><initialSeverity>1</initialSeverity><maxSeverity>1</maxSeverity>
+  </HediffDef>
+</Defs>

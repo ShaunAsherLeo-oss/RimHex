@@ -1,0 +1,307 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Defs>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_GuardianTrial030_root</defName>
+    <label>First watch</label>
+    <description>Threat: A marked threat pursues the protected target for this phase. Answer: The applicant damages that threat, effectively heals the protected target, or absorbs its hits with a shield. Reward: The three effective contributions share the phase threshold; the threat takes 25% more damage for 8 seconds. Cost: Ignoring the threat pressures the protected target; a solo applicant protects themself.
+Arrangement: Ordered strikes; Locked impact. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. Existing finite roster retained.</description>
+    <family>guardian</family>
+    <mechanism>cadence</mechanism>
+    <arena>bastion-v1</arena>
+    <chargedBarrage>false</chargedBarrage>
+    <targetTrack>RHA_STAR_Path_Guardian</targetTrack>
+    <targetNode>root</targetNode>
+    <targetStage>1</targetStage>
+    <seconds>180</seconds>
+    <tactic>RHA_Tactics_GuardianTrial030_root</tactic>
+    <encounter>RHA_Encounter03510_RHA_GuardianTrial030_root</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_GuardianTrial030_brace</defName>
+    <label>Meet the volley</label>
+    <description>Threat: A marked threat pursues the protected target for this phase. Answer: The applicant damages that threat, effectively heals the protected target, or absorbs its hits with a shield. Reward: The three effective contributions share the phase threshold; the threat takes 25% more damage for 8 seconds. Cost: Ignoring the threat pressures the protected target; a solo applicant protects themself.
+Arrangement: Ordered strikes; Fixed lane. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. Existing finite roster retained.</description>
+    <family>guardian</family>
+    <mechanism>cadence</mechanism>
+    <arena>crossroads-v1</arena>
+    <chargedBarrage>false</chargedBarrage>
+    <targetTrack>RHA_STAR_Path_Guardian</targetTrack>
+    <targetNode>brace</targetNode>
+    <targetStage>2</targetStage>
+    <seconds>240</seconds>
+    <tactic>RHA_Tactics_GuardianTrial030_brace</tactic>
+    <encounter>RHA_Encounter03510_RHA_GuardianTrial030_brace</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_GuardianTrial030_cover</defName>
+    <label>Watch their back</label>
+    <description>Threat: A marked threat pursues the protected target for this phase. Answer: The applicant damages that threat, effectively heals the protected target, or absorbs its hits with a shield. Reward: The three effective contributions share the phase threshold; the threat takes 25% more damage for 8 seconds. Cost: Ignoring the threat pressures the protected target; a solo applicant protects themself.
+Arrangement: Protected target; Left then right impacts. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. Existing finite roster retained.</description>
+    <family>guardian</family>
+    <mechanism>bodyguard</mechanism>
+    <arena>crossroads-v1</arena>
+    <chargedBarrage>false</chargedBarrage>
+    <targetTrack>RHA_STAR_Path_Guardian</targetTrack>
+    <targetNode>cover</targetNode>
+    <targetStage>2</targetStage>
+    <seconds>240</seconds>
+    <tactic>RHA_Tactics_GuardianTrial030_cover</tactic>
+    <encounter>RHA_Encounter03510_RHA_GuardianTrial030_cover</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_GuardianTrial030_riposte</defName>
+    <label>Strike behind the shield</label>
+    <description>Threat: A marked threat pursues the protected target for this phase. Answer: The applicant damages that threat, effectively heals the protected target, or absorbs its hits with a shield. Reward: The three effective contributions share the phase threshold; the threat takes 25% more damage for 8 seconds. Cost: Ignoring the threat pressures the protected target; a solo applicant protects themself.
+Arrangement: Anchor break; Locked impact. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. Existing finite roster retained.</description>
+    <family>guardian</family>
+    <mechanism>guardBreak</mechanism>
+    <arena>bastion-v1</arena>
+    <chargedBarrage>true</chargedBarrage>
+    <targetTrack>RHA_STAR_Path_Guardian</targetTrack>
+    <targetNode>riposte</targetNode>
+    <targetStage>3</targetStage>
+    <seconds>240</seconds>
+    <tactic>RHA_Tactics_GuardianTrial030_riposte</tactic>
+    <encounter>RHA_Encounter03510_RHA_GuardianTrial030_riposte</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_GuardianTrial030_sidestep</defName>
+    <label>Give ground</label>
+    <description>Threat: A marked threat pursues the protected target for this phase. Answer: The applicant damages that threat, effectively heals the protected target, or absorbs its hits with a shield. Reward: The three effective contributions share the phase threshold; the threat takes 25% more damage for 8 seconds. Cost: Ignoring the threat pressures the protected target; a solo applicant protects themself.
+Arrangement: Baited pursuit; Hollow impact. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. Existing finite roster retained.</description>
+    <family>guardian</family>
+    <mechanism>pursuit</mechanism>
+    <arena>ring-v1</arena>
+    <chargedBarrage>false</chargedBarrage>
+    <targetTrack>RHA_STAR_Path_Guardian</targetTrack>
+    <targetNode>sidestep</targetNode>
+    <targetStage>3</targetStage>
+    <seconds>240</seconds>
+    <tactic>RHA_Tactics_GuardianTrial030_sidestep</tactic>
+    <encounter>RHA_Encounter03510_RHA_GuardianTrial030_sidestep</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_GuardianTrial030_signal</defName>
+    <label>Call the next target</label>
+    <description>Threat: A marked threat pursues the protected target for this phase. Answer: The applicant damages that threat, effectively heals the protected target, or absorbs its hits with a shield. Reward: The three effective contributions share the phase threshold; the threat takes 25% more damage for 8 seconds. Cost: Ignoring the threat pressures the protected target; a solo applicant protects themself.
+Arrangement: Linked peers; Locked impact. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. Existing finite roster retained.</description>
+    <family>guardian</family>
+    <mechanism>twinLink</mechanism>
+    <arena>crossroads-v1</arena>
+    <chargedBarrage>false</chargedBarrage>
+    <targetTrack>RHA_STAR_Path_Guardian</targetTrack>
+    <targetNode>signal</targetNode>
+    <targetStage>3</targetStage>
+    <seconds>240</seconds>
+    <tactic>RHA_Tactics_GuardianTrial030_signal</tactic>
+    <encounter>RHA_Encounter03510_RHA_GuardianTrial030_signal</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_GuardianTrial030_withdraw</defName>
+    <label>Keep a way back</label>
+    <description>Threat: A marked threat pursues the protected target for this phase. Answer: The applicant damages that threat, effectively heals the protected target, or absorbs its hits with a shield. Reward: The three effective contributions share the phase threshold; the threat takes 25% more damage for 8 seconds. Cost: Ignoring the threat pressures the protected target; a solo applicant protects themself.
+Arrangement: Protected target; Hollow impact. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. Existing finite roster retained.</description>
+    <family>guardian</family>
+    <mechanism>bodyguard</mechanism>
+    <arena>splitCourt-v1</arena>
+    <chargedBarrage>false</chargedBarrage>
+    <targetTrack>RHA_STAR_Path_Guardian</targetTrack>
+    <targetNode>withdraw</targetNode>
+    <targetStage>3</targetStage>
+    <seconds>240</seconds>
+    <tactic>RHA_Tactics_GuardianTrial030_withdraw</tactic>
+    <encounter>RHA_Encounter03510_RHA_GuardianTrial030_withdraw</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_GuardianTrial030_opening</defName>
+    <label>Open their guard</label>
+    <description>Threat: A marked threat pursues the protected target for this phase. Answer: The applicant damages that threat, effectively heals the protected target, or absorbs its hits with a shield. Reward: The three effective contributions share the phase threshold; the threat takes 25% more damage for 8 seconds. Cost: Ignoring the threat pressures the protected target; a solo applicant protects themself.
+Arrangement: Moving support; Fixed lane. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. Existing finite roster retained.</description>
+    <family>guardian</family>
+    <mechanism>escort</mechanism>
+    <arena>bastion-v1</arena>
+    <chargedBarrage>false</chargedBarrage>
+    <targetTrack>RHA_STAR_Path_Guardian</targetTrack>
+    <targetNode>opening</targetNode>
+    <targetStage>4</targetStage>
+    <seconds>300</seconds>
+    <tactic>RHA_Tactics_GuardianTrial030_opening</tactic>
+    <encounter>RHA_Encounter03510_RHA_GuardianTrial030_opening</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_GuardianTrial030_crossing</defName>
+    <label>Fight across the line</label>
+    <description>Threat: A marked threat pursues the protected target for this phase. Answer: The applicant damages that threat, effectively heals the protected target, or absorbs its hits with a shield. Reward: The three effective contributions share the phase threshold; the threat takes 25% more damage for 8 seconds. Cost: Ignoring the threat pressures the protected target; a solo applicant protects themself.
+Arrangement: Baited pursuit; Fixed lane. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. Existing finite roster retained.</description>
+    <family>guardian</family>
+    <mechanism>pursuit</mechanism>
+    <arena>splitCourt-v1</arena>
+    <chargedBarrage>false</chargedBarrage>
+    <targetTrack>RHA_STAR_Path_Guardian</targetTrack>
+    <targetNode>crossing</targetNode>
+    <targetStage>4</targetStage>
+    <seconds>300</seconds>
+    <tactic>RHA_Tactics_GuardianTrial030_crossing</tactic>
+    <encounter>RHA_Encounter03510_RHA_GuardianTrial030_crossing</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_GuardianTrial030_pincer</defName>
+    <label>Close from two sides</label>
+    <description>Threat: A marked threat pursues the protected target for this phase. Answer: The applicant damages that threat, effectively heals the protected target, or absorbs its hits with a shield. Reward: The three effective contributions share the phase threshold; the threat takes 25% more damage for 8 seconds. Cost: Ignoring the threat pressures the protected target; a solo applicant protects themself.
+Arrangement: Linked peers; Fixed lane. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. Existing finite roster retained.</description>
+    <family>guardian</family>
+    <mechanism>twinLink</mechanism>
+    <arena>ring-v1</arena>
+    <chargedBarrage>false</chargedBarrage>
+    <targetTrack>RHA_STAR_Path_Guardian</targetTrack>
+    <targetNode>pincer</targetNode>
+    <targetStage>4</targetStage>
+    <seconds>300</seconds>
+    <tactic>RHA_Tactics_GuardianTrial030_pincer</tactic>
+    <encounter>RHA_Encounter03510_RHA_GuardianTrial030_pincer</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_GuardianTrial030_rally</defName>
+    <label>Form up under fire</label>
+    <description>Threat: A marked threat pursues the protected target for this phase. Answer: The applicant damages that threat, effectively heals the protected target, or absorbs its hits with a shield. Reward: The three effective contributions share the phase threshold; the threat takes 25% more damage for 8 seconds. Cost: Ignoring the threat pressures the protected target; a solo applicant protects themself.
+Arrangement: Protected target; Fixed lane. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. Existing finite roster retained.</description>
+    <family>guardian</family>
+    <mechanism>bodyguard</mechanism>
+    <arena>bastion-v1</arena>
+    <chargedBarrage>false</chargedBarrage>
+    <targetTrack>RHA_STAR_Path_Guardian</targetTrack>
+    <targetNode>rally</targetNode>
+    <targetStage>4</targetStage>
+    <seconds>300</seconds>
+    <tactic>RHA_Tactics_GuardianTrial030_rally</tactic>
+    <encounter>RHA_Encounter03510_RHA_GuardianTrial030_rally</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_GuardianTrial030_opening_break</defName>
+    <label>Press the breach</label>
+    <description>Threat: A marked threat pursues the protected target for this phase. Answer: The applicant damages that threat, effectively heals the protected target, or absorbs its hits with a shield. Reward: The three effective contributions share the phase threshold; the threat takes 25% more damage for 8 seconds. Cost: Ignoring the threat pressures the protected target; a solo applicant protects themself.
+Arrangement: Moving support; Locked impact. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. One boss and two finite guards, no reinforcements or resurrection.</description>
+    <family>guardian</family>
+    <mechanism>escort</mechanism>
+    <arena>crossroads-v1</arena>
+    <chargedBarrage>false</chargedBarrage>
+    <targetTrack>RHA_STAR_Path_Guardian</targetTrack>
+    <targetNode>opening_break</targetNode>
+    <targetStage>5</targetStage>
+    <seconds>420</seconds>
+    <tactic>RHA_Tactics_GuardianTrial030_opening_break</tactic>
+    <encounter>RHA_Encounter03510_RHA_GuardianTrial030_opening_break</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_GuardianTrial030_opening_guard</defName>
+    <label>Hold the breach together</label>
+    <description>Threat: A marked threat pursues the protected target for this phase. Answer: The applicant damages that threat, effectively heals the protected target, or absorbs its hits with a shield. Reward: The three effective contributions share the phase threshold; the threat takes 25% more damage for 8 seconds. Cost: Ignoring the threat pressures the protected target; a solo applicant protects themself.
+Arrangement: Anchor break; Hollow impact. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. One boss and two finite guards, no reinforcements or resurrection.</description>
+    <family>guardian</family>
+    <mechanism>guardBreak</mechanism>
+    <arena>splitCourt-v1</arena>
+    <chargedBarrage>true</chargedBarrage>
+    <targetTrack>RHA_STAR_Path_Guardian</targetTrack>
+    <targetNode>opening_guard</targetNode>
+    <targetStage>5</targetStage>
+    <seconds>420</seconds>
+    <tactic>RHA_Tactics_GuardianTrial030_opening_guard</tactic>
+    <encounter>RHA_Encounter03510_RHA_GuardianTrial030_opening_guard</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_GuardianTrial030_crossing_chase</defName>
+    <label>Cut off the retreat</label>
+    <description>Threat: A marked threat pursues the protected target for this phase. Answer: The applicant damages that threat, effectively heals the protected target, or absorbs its hits with a shield. Reward: The three effective contributions share the phase threshold; the threat takes 25% more damage for 8 seconds. Cost: Ignoring the threat pressures the protected target; a solo applicant protects themself.
+Arrangement: Baited pursuit; Locked impact. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. One boss and two finite guards, no reinforcements or resurrection.</description>
+    <family>guardian</family>
+    <mechanism>pursuit</mechanism>
+    <arena>ring-v1</arena>
+    <chargedBarrage>false</chargedBarrage>
+    <targetTrack>RHA_STAR_Path_Guardian</targetTrack>
+    <targetNode>crossing_chase</targetNode>
+    <targetStage>5</targetStage>
+    <seconds>420</seconds>
+    <tactic>RHA_Tactics_GuardianTrial030_crossing_chase</tactic>
+    <encounter>RHA_Encounter03510_RHA_GuardianTrial030_crossing_chase</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_GuardianTrial030_crossing_return</defName>
+    <label>Return to cover</label>
+    <description>Threat: A marked threat pursues the protected target for this phase. Answer: The applicant damages that threat, effectively heals the protected target, or absorbs its hits with a shield. Reward: The three effective contributions share the phase threshold; the threat takes 25% more damage for 8 seconds. Cost: Ignoring the threat pressures the protected target; a solo applicant protects themself.
+Arrangement: Protected target; Hollow impact. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. One boss and two finite guards, no reinforcements or resurrection.</description>
+    <family>guardian</family>
+    <mechanism>bodyguard</mechanism>
+    <arena>crossroads-v1</arena>
+    <chargedBarrage>false</chargedBarrage>
+    <targetTrack>RHA_STAR_Path_Guardian</targetTrack>
+    <targetNode>crossing_return</targetNode>
+    <targetStage>5</targetStage>
+    <seconds>420</seconds>
+    <tactic>RHA_Tactics_GuardianTrial030_crossing_return</tactic>
+    <encounter>RHA_Encounter03510_RHA_GuardianTrial030_crossing_return</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_GuardianTrial030_pincer_cut</defName>
+    <label>Take the other flank</label>
+    <description>Threat: A marked threat pursues the protected target for this phase. Answer: The applicant damages that threat, effectively heals the protected target, or absorbs its hits with a shield. Reward: The three effective contributions share the phase threshold; the threat takes 25% more damage for 8 seconds. Cost: Ignoring the threat pressures the protected target; a solo applicant protects themself.
+Arrangement: Linked peers; Locked impact. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. One boss and two finite guards, no reinforcements or resurrection.</description>
+    <family>guardian</family>
+    <mechanism>twinLink</mechanism>
+    <arena>splitCourt-v1</arena>
+    <chargedBarrage>false</chargedBarrage>
+    <targetTrack>RHA_STAR_Path_Guardian</targetTrack>
+    <targetNode>pincer_cut</targetNode>
+    <targetStage>5</targetStage>
+    <seconds>420</seconds>
+    <tactic>RHA_Tactics_GuardianTrial030_pincer_cut</tactic>
+    <encounter>RHA_Encounter03510_RHA_GuardianTrial030_pincer_cut</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_GuardianTrial030_pincer_cover</defName>
+    <label>Make room inside the ring</label>
+    <description>Threat: A marked threat pursues the protected target for this phase. Answer: The applicant damages that threat, effectively heals the protected target, or absorbs its hits with a shield. Reward: The three effective contributions share the phase threshold; the threat takes 25% more damage for 8 seconds. Cost: Ignoring the threat pressures the protected target; a solo applicant protects themself.
+Arrangement: Moving support; Hollow impact. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. One boss and two finite guards, no reinforcements or resurrection.</description>
+    <family>guardian</family>
+    <mechanism>escort</mechanism>
+    <arena>ring-v1</arena>
+    <chargedBarrage>false</chargedBarrage>
+    <targetTrack>RHA_STAR_Path_Guardian</targetTrack>
+    <targetNode>pincer_cover</targetNode>
+    <targetStage>5</targetStage>
+    <seconds>420</seconds>
+    <tactic>RHA_Tactics_GuardianTrial030_pincer_cover</tactic>
+    <encounter>RHA_Encounter03510_RHA_GuardianTrial030_pincer_cover</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_GuardianTrial030_rally_push</defName>
+    <label>Back into the firing line</label>
+    <description>Threat: A marked threat pursues the protected target for this phase. Answer: The applicant damages that threat, effectively heals the protected target, or absorbs its hits with a shield. Reward: The three effective contributions share the phase threshold; the threat takes 25% more damage for 8 seconds. Cost: Ignoring the threat pressures the protected target; a solo applicant protects themself.
+Arrangement: Ordered strikes; Locked impact. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. One boss and two finite guards, no reinforcements or resurrection.</description>
+    <family>guardian</family>
+    <mechanism>cadence</mechanism>
+    <arena>crossroads-v1</arena>
+    <chargedBarrage>false</chargedBarrage>
+    <targetTrack>RHA_STAR_Path_Guardian</targetTrack>
+    <targetNode>rally_push</targetNode>
+    <targetStage>5</targetStage>
+    <seconds>420</seconds>
+    <tactic>RHA_Tactics_GuardianTrial030_rally_push</tactic>
+    <encounter>RHA_Encounter03510_RHA_GuardianTrial030_rally_push</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_GuardianTrial030_rally_rescue</defName>
+    <label>Nobody left behind</label>
+    <description>Threat: A marked threat pursues the protected target for this phase. Answer: The applicant damages that threat, effectively heals the protected target, or absorbs its hits with a shield. Reward: The three effective contributions share the phase threshold; the threat takes 25% more damage for 8 seconds. Cost: Ignoring the threat pressures the protected target; a solo applicant protects themself.
+Arrangement: Protected target; Hollow impact. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. One boss and two finite guards, no reinforcements or resurrection.</description>
+    <family>guardian</family>
+    <mechanism>bodyguard</mechanism>
+    <arena>splitCourt-v1</arena>
+    <chargedBarrage>false</chargedBarrage>
+    <targetTrack>RHA_STAR_Path_Guardian</targetTrack>
+    <targetNode>rally_rescue</targetNode>
+    <targetStage>5</targetStage>
+    <seconds>420</seconds>
+    <tactic>RHA_Tactics_GuardianTrial030_rally_rescue</tactic>
+    <encounter>RHA_Encounter03510_RHA_GuardianTrial030_rally_rescue</encounter>
+  </RimHex.HexStarChallengeDef030>
+</Defs>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RHA_Growth026_Effect>Shared growth</RHA_Growth026_Effect>
+  <RHA_Growth026_Award>{0}: {1}% contribution share</RHA_Growth026_Award>
+  <RHA_Growth026_Readout>Growth earned through combat contributions</RHA_Growth026_Readout>
+  <RHA_Growth026_Help>With the matching card or relic, share growth through damage, stun time actually added, Hex healing and attributed shield absorption. Fractional progress carries over. Kill healing and kill explosions still belong to the killer.</RHA_Growth026_Help>
+  <RHA_Growth026_feast>Feast</RHA_Growth026_feast>
+  <RHA_Growth026_soul>Souls</RHA_Growth026_soul>
+  <RHA_Growth026_crown>Crown</RHA_Growth026_crown>
+  <RHA_Growth026_evo_feast>Feast evolution</RHA_Growth026_evo_feast>
+  <RHA_Growth026_evo_soul>Soul evolution</RHA_Growth026_evo_soul>
+  <RHA_Growth026_awakening>Kill awakening progress</RHA_Growth026_awakening>
+</LanguageData>

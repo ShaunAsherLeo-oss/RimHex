@@ -1,0 +1,878 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Defs>
+  <ApparelLayerDef>
+    <defName>RHA_REF_MoltenStoneLayer</defName>
+    <label>Molten shield relic</label>
+    <drawOrder>325</drawOrder>
+  </ApparelLayerDef>
+  <ThingDef ParentName="RHA_RelicBase">
+    <defName>RHA_REF_MoltenStone</defName>
+    <label>Shield of Molten Stone</label>
+    <description>Grants +70% body health, +0.7 damage-taken divisor and a 25% chance to block an external hit.</description>
+    <graphicData>
+      <texPath>RimHex/Relics038/RefMoltenStone</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <apparel>
+      <layers>
+        <li>RHA_REF_MoltenStoneLayer</li>
+      </layers>
+    </apparel>
+    <comps>
+      <li Class="RimHex.CompProperties_Prismatic">
+        <power>RefMoltenStone</power>
+        <mechanics>
+          <li>
+            <key>health</key>
+            <amount>0.7</amount>
+          </li>
+          <li>
+            <key>defense</key>
+            <amount>0.7</amount>
+          </li>
+          <li>
+            <key>block</key>
+            <amount>0.25</amount>
+          </li>
+        </mechanics>
+        <visualStyle>Fire</visualStyle>
+        <visualColor>(1.0000,0.5569,0.2902)</visualColor>
+      </li>
+    </comps>
+  </ThingDef>
+  <ApparelLayerDef>
+    <defName>RHA_REF_StarryNightLayer</defName>
+    <label>Starveil cloak relic</label>
+    <drawOrder>326</drawOrder>
+  </ApparelLayerDef>
+  <ThingDef ParentName="RHA_RelicBase">
+    <defName>RHA_REF_StarryNight</defName>
+    <label>Cloak of Starry Night</label>
+    <description>Adds 0.7 to the damage-taken divisor. Damage other than bullets, cuts, stabs and blunt attacks is further divided by 3.</description>
+    <graphicData>
+      <texPath>RimHex/Relics038/RefStarryNight</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <apparel>
+      <layers>
+        <li>RHA_REF_StarryNightLayer</li>
+      </layers>
+    </apparel>
+    <comps>
+      <li Class="RimHex.CompProperties_Prismatic">
+        <power>RefStarryNight</power>
+        <mechanics>
+          <li>
+            <key>defense</key>
+            <amount>0.7</amount>
+          </li>
+          <li>
+            <key>spellWard</key>
+            <amount>2</amount>
+          </li>
+        </mechanics>
+        <visualStyle>Arcane</visualStyle>
+        <visualColor>(0.7686,0.6941,1.0000)</visualColor>
+      </li>
+    </comps>
+  </ThingDef>
+  <ApparelLayerDef>
+    <defName>RHA_REF_DivineSwordLayer</defName>
+    <label>Divine sword relic</label>
+    <drawOrder>327</drawOrder>
+  </ApparelLayerDef>
+  <ThingDef ParentName="RHA_RelicBase">
+    <defName>RHA_REF_DivineSword</defName>
+    <label>Sword of the Divine</label>
+    <description>Grants +60% critical value and +40% direct damage. Direct critical hits gain an additional random 0.3–1.5 critical multiplier.</description>
+    <graphicData>
+      <texPath>RimHex/Relics038/RefDivineSword</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <apparel>
+      <layers>
+        <li>RHA_REF_DivineSwordLayer</li>
+      </layers>
+    </apparel>
+    <comps>
+      <li Class="RimHex.CompProperties_Prismatic">
+        <power>RefDivineSword</power>
+        <mechanics>
+          <li>
+            <key>critical</key>
+            <amount>0.6</amount>
+          </li>
+          <li>
+            <key>damage</key>
+            <amount>0.4</amount>
+          </li>
+          <li>
+            <key>divineCrit</key>
+            <amount>0.6</amount>
+          </li>
+        </mechanics>
+        <visualStyle>Solar</visualStyle>
+        <visualColor>(1.0000,0.8588,0.5098)</visualColor>
+      </li>
+    </comps>
+  </ThingDef>
+  <ApparelLayerDef>
+    <defName>RHA_REF_EntropyLayer</defName>
+    <label>Force of entropy relic</label>
+    <drawOrder>328</drawOrder>
+  </ApparelLayerDef>
+  <ThingDef ParentName="RHA_RelicBase">
+    <defName>RHA_REF_Entropy</defName>
+    <label>Force Of Entropy</label>
+    <description>Grants +100% health and +40% critical value. Stuns roll critical chance to double their duration, capped at 10 seconds.</description>
+    <graphicData>
+      <texPath>RimHex/Relics038/RefEntropy</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <apparel>
+      <layers>
+        <li>RHA_REF_EntropyLayer</li>
+      </layers>
+    </apparel>
+    <comps>
+      <li Class="RimHex.CompProperties_Prismatic">
+        <power>RefEntropy</power>
+        <mechanics>
+          <li>
+            <key>health</key>
+            <amount>1</amount>
+          </li>
+          <li>
+            <key>critical</key>
+            <amount>0.4</amount>
+          </li>
+          <li>
+            <key>entropy</key>
+            <amount>1</amount>
+          </li>
+        </mechanics>
+        <visualStyle>Arcane</visualStyle>
+        <visualColor>(0.7686,0.6941,1.0000)</visualColor>
+      </li>
+    </comps>
+  </ThingDef>
+  <ApparelLayerDef>
+    <defName>RHA_REF_SanguineGiftLayer</defName>
+    <label>Blood gift relic</label>
+    <drawOrder>329</drawOrder>
+  </ApparelLayerDef>
+  <ThingDef ParentName="RHA_RelicBase">
+    <defName>RHA_REF_SanguineGift</defName>
+    <label>Sanguine Gift</label>
+    <description>Grants 40% direct damage. Each valid direct hit stores 30% of actual damage dealt. At 60 stored blood, consumes 60 to heal the wearer and the nearest other colonist within 12 cells for 60 injury points each. Triggers at most once per hit.</description>
+    <graphicData>
+      <texPath>RimHex/Relics038/RefSanguineGift</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <apparel>
+      <layers>
+        <li>RHA_REF_SanguineGiftLayer</li>
+      </layers>
+    </apparel>
+    <comps>
+      <li Class="RimHex.CompProperties_Prismatic">
+        <power>RefSanguineGift</power>
+        <mechanics>
+          <li>
+            <key>damage</key>
+            <amount>0.4</amount>
+          </li>
+          <li>
+            <key>sanguine</key>
+            <amount>1</amount>
+          </li>
+        </mechanics>
+        <visualStyle>Blood</visualStyle>
+        <visualColor>(0.9804,0.3608,0.5294)</visualColor>
+      </li>
+    </comps>
+  </ThingDef>
+  <ApparelLayerDef>
+    <defName>RHA_REF_EleisaLayer</defName>
+    <label>Elisa's miracle relic</label>
+    <drawOrder>330</drawOrder>
+  </ApparelLayerDef>
+  <ThingDef ParentName="RHA_RelicBase">
+    <defName>RHA_REF_Eleisa</defName>
+    <label>Eleisa's Miracle</label>
+    <description>Heals 3 ordinary injury points per second. Each 10% of missing overall health increases received RimHex healing and shields by 15%, up to 150%.</description>
+    <graphicData>
+      <texPath>RimHex/Relics038/RefEleisa</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <apparel>
+      <layers>
+        <li>RHA_REF_EleisaLayer</li>
+      </layers>
+    </apparel>
+    <comps>
+      <li Class="RimHex.CompProperties_Prismatic">
+        <power>RefEleisa</power>
+        <mechanics>
+          <li>
+            <key>regen</key>
+            <amount>3</amount>
+          </li>
+          <li>
+            <key>healMissing</key>
+            <amount>1.5</amount>
+          </li>
+        </mechanics>
+        <visualStyle>Nature</visualStyle>
+        <visualColor>(0.4392,0.9216,0.7608)</visualColor>
+      </li>
+    </comps>
+  </ThingDef>
+  <ApparelLayerDef>
+    <defName>RHA_REF_AscensionLayer</defName>
+    <label>Ascension talisman relic</label>
+    <drawOrder>331</drawOrder>
+  </ApparelLayerDef>
+  <ThingDef ParentName="RHA_RelicBase">
+    <defName>RHA_REF_Ascension</defName>
+    <label>Talisman Of Ascension</label>
+    <description>Reroll damage, health, defense, move speed and attack speed twice per day. Each base roll is 35%–125%, multiplied by 1 + 8% per effective roll. The first 10 rolls count fully, with diminishing returns thereafter. Final damage, health and defense bonuses taper above 200%; move and attack speed bonuses taper above 100%. New rolls replace old results. Stored counts are preserved.</description>
+    <graphicData>
+      <texPath>RimHex/Relics038/RefAscension</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <apparel>
+      <layers>
+        <li>RHA_REF_AscensionLayer</li>
+      </layers>
+    </apparel>
+    <comps>
+      <li Class="RimHex.CompProperties_Prismatic">
+        <power>RefAscension</power>
+        <active>Ascension</active>
+        <visualStyle>Arcane</visualStyle>
+        <visualColor>(0.7686,0.6941,1.0000)</visualColor>
+      </li>
+    </comps>
+  </ThingDef>
+  <ApparelLayerDef>
+    <defName>RHA_REF_HamstringerLayer</defName>
+    <label>Hamstringer relic</label>
+    <drawOrder>332</drawOrder>
+  </ApparelLayerDef>
+  <ThingDef ParentName="RHA_RelicBase">
+    <defName>RHA_REF_Hamstringer</defName>
+    <label>Hamstringer</label>
+    <description>Grants 50% critical value. Valid direct critical hits add 8 bleeding damage per second and refresh the effect to six pulses. Bleeding slows movement by 30%. With Vulnerability, the bleeding itself can critically hit.</description>
+    <graphicData>
+      <texPath>RimHex/Relics038/RefHamstringer</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <apparel>
+      <layers>
+        <li>RHA_REF_HamstringerLayer</li>
+      </layers>
+    </apparel>
+    <comps>
+      <li Class="RimHex.CompProperties_Prismatic">
+        <power>RefHamstringer</power>
+        <mechanics>
+          <li>
+            <key>critical</key>
+            <amount>0.5</amount>
+          </li>
+          <li>
+            <key>hamstring</key>
+            <amount>1</amount>
+          </li>
+        </mechanics>
+        <visualStyle>Blood</visualStyle>
+        <visualColor>(0.9804,0.3608,0.5294)</visualColor>
+      </li>
+    </comps>
+  </ThingDef>
+  <ApparelLayerDef>
+    <defName>RHA_REF_GamblersBladeLayer</defName>
+    <label>Speculator's blade relic</label>
+    <drawOrder>333</drawOrder>
+  </ApparelLayerDef>
+  <ThingDef ParentName="RHA_RelicBase">
+    <defName>RHA_REF_GamblersBlade</defName>
+    <label>Gambler's Blade</label>
+    <description>Grants 40% movement speed. Each valid hit has a 25% chance to bank 45 silver. Killing a standing enemy withdraws the full balance. Being downed withdraws 75% and loses the rest. The balance belongs to the colonist, not the relic.</description>
+    <graphicData>
+      <texPath>RimHex/Relics/RefGamblersBlade</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <apparel>
+      <layers>
+        <li>RHA_REF_GamblersBladeLayer</li>
+      </layers>
+    </apparel>
+    <comps>
+      <li Class="RimHex.CompProperties_Prismatic">
+        <power>RefGamblersBlade</power>
+        <mechanics>
+          <li>
+            <key>gamble</key>
+            <amount>1</amount>
+          </li>
+        </mechanics>
+        <stats>
+          <li>
+            <stat>MoveSpeed</stat>
+            <bonus>0.4</bonus>
+            <inverse>false</inverse>
+            <offset>0</offset>
+          </li>
+        </stats>
+        <visualStyle>Solar</visualStyle>
+        <visualColor>(1.0000,0.8588,0.5098)</visualColor>
+      </li>
+    </comps>
+  </ThingDef>
+  <ApparelLayerDef>
+    <defName>RHA_REF_HemomancerLayer</defName>
+    <label>Hemomancer's helm relic</label>
+    <drawOrder>334</drawOrder>
+  </ApparelLayerDef>
+  <ThingDef ParentName="RHA_RelicBase">
+    <defName>RHA_REF_Hemomancer</defName>
+    <label>Hemomancer's Helm</label>
+    <description>Grants +120% body health. Direct and RimHex additional damage provide 20% lifesteal, healing ordinary injuries only.</description>
+    <graphicData>
+      <texPath>RimHex/Relics/RefHemomancer</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <apparel>
+      <layers>
+        <li>RHA_REF_HemomancerLayer</li>
+      </layers>
+    </apparel>
+    <comps>
+      <li Class="RimHex.CompProperties_Prismatic">
+        <power>RefHemomancer</power>
+        <mechanics>
+          <li>
+            <key>health</key>
+            <amount>1.2</amount>
+          </li>
+          <li>
+            <key>hemo</key>
+            <amount>0.2</amount>
+          </li>
+        </mechanics>
+        <visualStyle>Blood</visualStyle>
+        <visualColor>(0.9804,0.3608,0.5294)</visualColor>
+      </li>
+    </comps>
+  </ThingDef>
+  <ApparelLayerDef>
+    <defName>RHA_REF_NightHarvesterLayer</defName>
+    <label>Night harvester relic</label>
+    <drawOrder>335</drawOrder>
+  </ApparelLayerDef>
+  <ThingDef ParentName="RHA_RelicBase">
+    <defName>RHA_REF_NightHarvester</defName>
+    <label>Night Harvester</label>
+    <description>Grants 50% direct damage and 35% movement speed. Valid hits deal 75 additional armor-piercing damage to the target, with a separate 20-second cooldown for each enemy. Affected by item haste.</description>
+    <graphicData>
+      <texPath>RimHex/Relics/RefNightHarvester</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <apparel>
+      <layers>
+        <li>RHA_REF_NightHarvesterLayer</li>
+      </layers>
+    </apparel>
+    <comps>
+      <li Class="RimHex.CompProperties_Prismatic">
+        <power>RefNightHarvester</power>
+        <mechanics>
+          <li>
+            <key>damage</key>
+            <amount>0.5</amount>
+          </li>
+          <li>
+            <key>nightHarvester</key>
+            <amount>1</amount>
+          </li>
+        </mechanics>
+        <stats>
+          <li>
+            <stat>MoveSpeed</stat>
+            <bonus>0.35</bonus>
+            <inverse>false</inverse>
+            <offset>0</offset>
+          </li>
+        </stats>
+        <visualStyle>Void</visualStyle>
+        <visualColor>(0.7765,0.5412,1.0000)</visualColor>
+      </li>
+    </comps>
+  </ThingDef>
+  <ApparelLayerDef>
+    <defName>RHA_REF_DemonicEmbraceLayer</defName>
+    <label>Demonic embrace relic</label>
+    <drawOrder>336</drawOrder>
+  </ApparelLayerDef>
+  <ThingDef ParentName="RHA_RelicBase">
+    <defName>RHA_REF_DemonicEmbrace</defName>
+    <label>Demonic Embrace</label>
+    <description>Grants +100% health. Each 10% missing overall health adds 40% direct damage, up to 400%. Missing health also adds up to 30% move speed. Updates about every 4.2 seconds.</description>
+    <graphicData>
+      <texPath>RimHex/Relics/RefDemonicEmbrace</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <apparel>
+      <layers>
+        <li>RHA_REF_DemonicEmbraceLayer</li>
+      </layers>
+    </apparel>
+    <comps>
+      <li Class="RimHex.CompProperties_Prismatic">
+        <power>RefDemonicEmbrace</power>
+        <mechanics>
+          <li>
+            <key>health</key>
+            <amount>1</amount>
+          </li>
+          <li>
+            <key>berserk</key>
+            <amount>4</amount>
+          </li>
+          <li>
+            <key>missingMove</key>
+            <amount>0.3</amount>
+          </li>
+        </mechanics>
+        <visualStyle>Fire</visualStyle>
+        <visualColor>(1.0000,0.5569,0.2902)</visualColor>
+      </li>
+    </comps>
+  </ThingDef>
+  <ApparelLayerDef>
+    <defName>RHA_REF_ShatteredQueenLayer</defName>
+    <label>Shattered queen's crown relic</label>
+    <drawOrder>337</drawOrder>
+  </ApparelLayerDef>
+  <ThingDef ParentName="RHA_RelicBase">
+    <defName>RHA_REF_ShatteredQueen</defName>
+    <label>Crown of the Shattered Queen</label>
+    <description>After 5 seconds without being attacked, the next hit starts a 1.25-second window of 90% damage reduction. Each hit resets the out-of-combat timer. Also adds 0.6 to the damage-taken divisor.</description>
+    <graphicData>
+      <texPath>RimHex/Relics/RefShatteredQueen</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <apparel>
+      <layers>
+        <li>RHA_REF_ShatteredQueenLayer</li>
+      </layers>
+    </apparel>
+    <comps>
+      <li Class="RimHex.CompProperties_Prismatic">
+        <power>RefShatteredQueen</power>
+        <mechanics>
+          <li>
+            <key>defense</key>
+            <amount>0.6</amount>
+          </li>
+          <li>
+            <key>queen</key>
+            <amount>1</amount>
+          </li>
+        </mechanics>
+        <visualStyle>Arcane</visualStyle>
+        <visualColor>(0.7686,0.6941,1.0000)</visualColor>
+      </li>
+    </comps>
+  </ThingDef>
+  <ApparelLayerDef>
+    <defName>RHA_REF_DivineSundererLayer</defName>
+    <label>Divine sunderer relic</label>
+    <drawOrder>338</drawOrder>
+  </ApparelLayerDef>
+  <ThingDef ParentName="RHA_RelicBase">
+    <defName>RHA_REF_DivineSunderer</defName>
+    <label>Divine sunderer</label>
+    <description>Grants 60% direct damage. Valid hits deal 20 + 12 × the target's overall scale as additional armor-piercing damage and heal the wearer for 25 injury points. Cooldown: 2 seconds, affected by item haste.</description>
+    <graphicData>
+      <texPath>RimHex/Relics/RefDivineSunderer</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <apparel>
+      <layers>
+        <li>RHA_REF_DivineSundererLayer</li>
+      </layers>
+    </apparel>
+    <comps>
+      <li Class="RimHex.CompProperties_Prismatic">
+        <power>RefDivineSunderer</power>
+        <mechanics>
+          <li>
+            <key>damage</key>
+            <amount>0.6</amount>
+          </li>
+          <li>
+            <key>sunderer</key>
+            <amount>1</amount>
+          </li>
+        </mechanics>
+        <visualStyle>Nature</visualStyle>
+        <visualColor>(0.4392,0.9216,0.7608)</visualColor>
+      </li>
+    </comps>
+  </ThingDef>
+  <ApparelLayerDef>
+    <defName>RHA_REF_EverfrostLayer</defName>
+    <label>Everfrost relic</label>
+    <drawOrder>339</drawOrder>
+  </ApparelLayerDef>
+  <ThingDef ParentName="RHA_RelicBase">
+    <defName>RHA_REF_Everfrost</defName>
+    <label>Everfrost</label>
+    <description>Active: release a frost cone extending 14 cells in the chosen direction, dealing 65 armor-piercing damage to up to 20 visible standing enemies. Central targets are stunned for 3 seconds; outer targets for 1 second. Cooldown: 20 seconds, affected by item haste.</description>
+    <graphicData>
+      <texPath>RimHex/Relics/RefEverfrost</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <apparel>
+      <layers>
+        <li>RHA_REF_EverfrostLayer</li>
+      </layers>
+    </apparel>
+    <comps>
+      <li Class="RimHex.CompProperties_Prismatic">
+        <power>RefEverfrost</power>
+        <active>Everfrost</active>
+        <mechanics>
+          <li>
+            <key>health</key>
+            <amount>1</amount>
+          </li>
+        </mechanics>
+        <visualStyle>Frost</visualStyle>
+        <visualColor>(0.4588,0.8667,1.0000)</visualColor>
+      </li>
+    </comps>
+  </ThingDef>
+  <ApparelLayerDef>
+    <defName>RHA_REF_RadiantVirtueLayer</defName>
+    <label>Radiant virtue relic</label>
+    <drawOrder>340</drawOrder>
+  </ApparelLayerDef>
+  <ThingDef ParentName="RHA_RelicBase">
+    <defName>RHA_REF_RadiantVirtue</defName>
+    <label>Radiant Virtue</label>
+    <description>Active: immediately heal up to 12 colonists within 12 cells for 45 injury points each. Grants the wearer 100% health for 10 seconds; during that time, group-heals another 30 points about every 4.2 seconds. Cooldown: 20 seconds, affected by item haste.</description>
+    <graphicData>
+      <texPath>RimHex/Relics/RefRadiantVirtue</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <apparel>
+      <layers>
+        <li>RHA_REF_RadiantVirtueLayer</li>
+      </layers>
+    </apparel>
+    <comps>
+      <li Class="RimHex.CompProperties_Prismatic">
+        <power>RefRadiantVirtue</power>
+        <active>Radiant</active>
+        <mechanics>
+          <li>
+            <key>defense</key>
+            <amount>0.5</amount>
+          </li>
+        </mechanics>
+        <visualStyle>Solar</visualStyle>
+        <visualColor>(1.0000,0.8588,0.5098)</visualColor>
+      </li>
+    </comps>
+  </ThingDef>
+  <ApparelLayerDef>
+    <defName>RHA_REF_GargoyleLayer</defName>
+    <label>Gargoyle stoneplate relic</label>
+    <drawOrder>341</drawOrder>
+  </ApparelLayerDef>
+  <ThingDef ParentName="RHA_RelicBase">
+    <defName>RHA_REF_Gargoyle</defName>
+    <label>Gargoyle Stoneplate</label>
+    <description>Grants +120% health and +0.7 damage-taken divisor. Activate for a shield of 180 × (1 + RimHex health bonus) for 6 seconds, with a 20-second base cooldown affected by item haste. Shields refresh to the stronger value.</description>
+    <graphicData>
+      <texPath>RimHex/Relics/RefGargoyle</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <apparel>
+      <layers>
+        <li>RHA_REF_GargoyleLayer</li>
+      </layers>
+    </apparel>
+    <comps>
+      <li Class="RimHex.CompProperties_Prismatic">
+        <power>RefGargoyle</power>
+        <active>Gargoyle</active>
+        <mechanics>
+          <li>
+            <key>health</key>
+            <amount>1.2</amount>
+          </li>
+          <li>
+            <key>defense</key>
+            <amount>0.7</amount>
+          </li>
+        </mechanics>
+        <visualStyle>Steel</visualStyle>
+        <visualColor>(0.7412,0.8706,0.9176)</visualColor>
+      </li>
+    </comps>
+  </ThingDef>
+  <ApparelLayerDef>
+    <defName>RHA_REF_EmpyreanLayer</defName>
+    <label>Empyrean promise relic</label>
+    <drawOrder>342</drawOrder>
+  </ApparelLayerDef>
+  <ThingDef ParentName="RHA_RelicBase">
+    <defName>RHA_REF_Empyrean</defName>
+    <label>Empyrean Promise</label>
+    <description>Active: teleport near another colonist within 40 cells on the same map, grant both 160-point shields for 10 seconds and heal the other colonist for 40 injury points. Can assist downed colonists. Cooldown: 30 seconds, affected by item haste. Also heals 2 ordinary injury points per second.</description>
+    <graphicData>
+      <texPath>RimHex/Relics/RefEmpyrean</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <apparel>
+      <layers>
+        <li>RHA_REF_EmpyreanLayer</li>
+      </layers>
+    </apparel>
+    <comps>
+      <li Class="RimHex.CompProperties_Prismatic">
+        <power>RefEmpyrean</power>
+        <active>Empyrean</active>
+        <mechanics>
+          <li>
+            <key>regen</key>
+            <amount>2</amount>
+          </li>
+        </mechanics>
+        <visualStyle>Arcane</visualStyle>
+        <visualColor>(0.7686,0.6941,1.0000)</visualColor>
+      </li>
+    </comps>
+  </ThingDef>
+  <ApparelLayerDef>
+    <defName>RHA_REF_CrueltyLayer</defName>
+    <label>Cruelty relic</label>
+    <drawOrder>343</drawOrder>
+  </ApparelLayerDef>
+  <ThingDef ParentName="RHA_RelicBase">
+    <defName>RHA_REF_Cruelty</defName>
+    <label>Cruelty</label>
+    <description>Grants 50% direct damage. Successfully stunning an enemy immediately deals 80 additional armor-piercing damage to up to 16 standing enemies within 4.5 cells of the target. Cooldown: 6 seconds, affected by item haste. Control benefits trigger at most once per second.</description>
+    <graphicData>
+      <texPath>RimHex/Relics/RefCruelty</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <apparel>
+      <layers>
+        <li>RHA_REF_CrueltyLayer</li>
+      </layers>
+    </apparel>
+    <comps>
+      <li Class="RimHex.CompProperties_Prismatic">
+        <power>RefCruelty</power>
+        <mechanics>
+          <li>
+            <key>damage</key>
+            <amount>0.5</amount>
+          </li>
+          <li>
+            <key>cruelty</key>
+            <amount>1</amount>
+          </li>
+        </mechanics>
+        <visualStyle>Void</visualStyle>
+        <visualColor>(0.7765,0.5412,1.0000)</visualColor>
+      </li>
+    </comps>
+  </ThingDef>
+  <ApparelLayerDef>
+    <defName>RHA_REF_MoonflairLayer</defName>
+    <label>Moonlight spellblade relic</label>
+    <drawOrder>344</drawOrder>
+  </ApparelLayerDef>
+  <ThingDef ParentName="RHA_RelicBase">
+    <defName>RHA_REF_Moonflair</defName>
+    <label>Moonflair Spellblade</label>
+    <description>For 3 seconds after RimHex additional damage hits, adds 1.4 to melee and ranged cooldown divisors. Valid direct hits refund 0.5 seconds from worn active relic cooldowns.</description>
+    <graphicData>
+      <texPath>RimHex/Relics/RefMoonflair</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <apparel>
+      <layers>
+        <li>RHA_REF_MoonflairLayer</li>
+      </layers>
+    </apparel>
+    <comps>
+      <li Class="RimHex.CompProperties_Prismatic">
+        <power>RefMoonflair</power>
+        <mechanics>
+          <li>
+            <key>moonflair</key>
+            <amount>0.7</amount>
+          </li>
+        </mechanics>
+        <visualStyle>Arcane</visualStyle>
+        <visualColor>(0.7686,0.6941,1.0000)</visualColor>
+      </li>
+    </comps>
+  </ThingDef>
+  <ApparelLayerDef>
+    <defName>RHA_REF_OverlordLayer</defName>
+    <label>Overlord's bloodmail relic</label>
+    <drawOrder>345</drawOrder>
+  </ApparelLayerDef>
+  <ThingDef ParentName="RHA_RelicBase">
+    <defName>RHA_REF_Overlord</defName>
+    <label>Overlord's Bloodmail</label>
+    <description>Grants +180% health and converts 17.5% of RimHex bonus health into direct damage. Each 10% missing overall health adds another 20% direct damage, up to 200%.</description>
+    <graphicData>
+      <texPath>RimHex/Relics/RefOverlord</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <apparel>
+      <layers>
+        <li>RHA_REF_OverlordLayer</li>
+      </layers>
+    </apparel>
+    <comps>
+      <li Class="RimHex.CompProperties_Prismatic">
+        <power>RefOverlord</power>
+        <mechanics>
+          <li>
+            <key>health</key>
+            <amount>1.8</amount>
+          </li>
+          <li>
+            <key>overlord</key>
+            <amount>0.7</amount>
+          </li>
+          <li>
+            <key>berserk</key>
+            <amount>2</amount>
+          </li>
+        </mechanics>
+        <visualStyle>Blood</visualStyle>
+        <visualColor>(0.9804,0.3608,0.5294)</visualColor>
+      </li>
+    </comps>
+  </ThingDef>
+  <ApparelLayerDef>
+    <defName>RHA_REF_FlesheaterLayer</defName>
+    <label>Flesheater relic</label>
+    <drawOrder>346</drawOrder>
+  </ApparelLayerDef>
+  <ThingDef ParentName="RHA_RelicBase">
+    <defName>RHA_REF_Flesheater</defName>
+    <label>Flesheater</label>
+    <description>Grants 50% direct damage. Valid hits apply vulnerability for 5 seconds, increasing direct damage taken by 10% per stack, up to ten stacks. Killing a standing enemy adds 15% direct damage to the wearer. Kill bonuses reset after 10 seconds without a direct hit. The first 20 temporary stacks retain their full effect; further stacks have diminishing returns.</description>
+    <graphicData>
+      <texPath>RimHex/Relics/RefFlesheater</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <apparel>
+      <layers>
+        <li>RHA_REF_FlesheaterLayer</li>
+      </layers>
+    </apparel>
+    <comps>
+      <li Class="RimHex.CompProperties_Prismatic">
+        <power>RefFlesheater</power>
+        <mechanics>
+          <li>
+            <key>damage</key>
+            <amount>0.5</amount>
+          </li>
+          <li>
+            <key>flesheater</key>
+            <amount>1</amount>
+          </li>
+        </mechanics>
+        <visualStyle>Blood</visualStyle>
+        <visualColor>(0.9804,0.3608,0.5294)</visualColor>
+      </li>
+    </comps>
+  </ThingDef>
+  <ApparelLayerDef>
+    <defName>RHA_REF_LightningRodLayer</defName>
+    <label>Lightning rod relic</label>
+    <drawOrder>347</drawOrder>
+  </ApparelLayerDef>
+  <ThingDef ParentName="RHA_RelicBase">
+    <defName>RHA_REF_LightningRod</defName>
+    <label>Lightning Rod</label>
+    <description>While standing, discharges about every 8.3 seconds at up to 16 standing enemies within 7 cells. Each takes 30 + 8 × the target's overall scale as armor-piercing damage and is slowed by 30% for 5 seconds. Hitting at least one enemy grants a 60-point shield. Cooldown is affected by item haste and checked about every 4.2 seconds. Also grants +80% body health.</description>
+    <graphicData>
+      <texPath>RimHex/Relics/RefLightningRod</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <apparel>
+      <layers>
+        <li>RHA_REF_LightningRodLayer</li>
+      </layers>
+    </apparel>
+    <comps>
+      <li Class="RimHex.CompProperties_Prismatic">
+        <power>RefLightningRod</power>
+        <mechanics>
+          <li>
+            <key>lightning</key>
+            <amount>1</amount>
+          </li>
+          <li>
+            <key>health</key>
+            <amount>0.8</amount>
+          </li>
+        </mechanics>
+        <visualStyle>Storm</visualStyle>
+        <visualColor>(0.5451,0.6824,1.0000)</visualColor>
+      </li>
+    </comps>
+  </ThingDef>
+  <ApparelLayerDef>
+    <defName>RHA_REF_DiamondSpearLayer</defName>
+    <label>Drill spear relic</label>
+    <drawOrder>348</drawOrder>
+  </ApparelLayerDef>
+  <ThingDef ParentName="RHA_RelicBase">
+    <defName>RHA_REF_DiamondSpear</defName>
+    <label>Diamond-Tipped Spear</label>
+    <description>Adds 8 cells of ranged reach. Each cell beyond 4 cells from the enemy adds 10% direct damage, capped at 25 extra cells.</description>
+    <graphicData>
+      <texPath>RimHex/Relics/RefDiamondSpear</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <apparel>
+      <layers>
+        <li>RHA_REF_DiamondSpearLayer</li>
+      </layers>
+    </apparel>
+    <comps>
+      <li Class="RimHex.CompProperties_Prismatic">
+        <power>RefDiamondSpear</power>
+        <mechanics>
+          <li>
+            <key>range</key>
+            <amount>8</amount>
+          </li>
+          <li>
+            <key>sniper</key>
+            <amount>0.1</amount>
+          </li>
+        </mechanics>
+        <visualStyle>Frost</visualStyle>
+        <visualColor>(0.4588,0.8667,1.0000)</visualColor>
+      </li>
+    </comps>
+  </ThingDef>
+</Defs>

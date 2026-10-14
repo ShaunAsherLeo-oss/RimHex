@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_HarvestEconomic030_root.label>First Furrow assessment</RHA_HarvestEconomic030_root.label>
+  <RHA_HarvestEconomic030_root.description>Complete the sowing and actual edible harvest objectives within 15 days. Extra produce, cutting and failed harvests do not count. No unlocked Harvest node is required.</RHA_HarvestEconomic030_root.description>
+  <RHA_HarvestEconomic030_rotation.label>Crop Rotation assessment</RHA_HarvestEconomic030_rotation.label>
+  <RHA_HarvestEconomic030_rotation.description>Complete the sowing and actual edible harvest objectives within 20 days. Extra produce, cutting and failed harvests do not count. No unlocked Harvest node is required.</RHA_HarvestEconomic030_rotation.description>
+  <RHA_HarvestEconomic030_granary.label>Into the Granary assessment</RHA_HarvestEconomic030_granary.label>
+  <RHA_HarvestEconomic030_granary.description>Complete the sowing and actual edible harvest objectives within 20 days. Extra produce, cutting and failed harvests do not count. No unlocked Harvest node is required.</RHA_HarvestEconomic030_granary.description>
+  <RHA_HarvestEconomic030_rotation_d.label>Seed Selection assessment</RHA_HarvestEconomic030_rotation_d.label>
+  <RHA_HarvestEconomic030_rotation_d.description>Complete the sowing and actual edible harvest objectives within 25 days. Extra produce, cutting and failed harvests do not count. No unlocked Harvest node is required.</RHA_HarvestEconomic030_rotation_d.description>
+  <RHA_HarvestEconomic030_relay.label>Shared Rows assessment</RHA_HarvestEconomic030_relay.label>
+  <RHA_HarvestEconomic030_relay.description>Complete the sowing and actual edible harvest objectives within 25 days. Extra produce, cutting and failed harvests do not count. No unlocked Harvest node is required.</RHA_HarvestEconomic030_relay.description>
+  <RHA_HarvestEconomic030_kitchen.label>Field Ingredients assessment</RHA_HarvestEconomic030_kitchen.label>
+  <RHA_HarvestEconomic030_kitchen.description>Complete sowing, edible harvest and actual cooked-meal objectives within 25 days. Cooking must consume ingredients and deliver meals. Bonus products and failed work do not count; no unlocked Harvest node is required.</RHA_HarvestEconomic030_kitchen.description>
+  <RHA_HarvestEconomic030_storage.label>Separate Stores assessment</RHA_HarvestEconomic030_storage.label>
+  <RHA_HarvestEconomic030_storage.description>Complete the sowing and actual edible harvest objectives within 25 days. Extra produce, cutting and failed harvests do not count. No unlocked Harvest node is required.</RHA_HarvestEconomic030_storage.description>
+  <RHA_HarvestEconomic030_selection.label>Selective Breeding assessment</RHA_HarvestEconomic030_selection.label>
+  <RHA_HarvestEconomic030_selection.description>Complete the sowing and actual edible harvest objectives within 30 days. Extra produce, cutting and failed harvests do not count. No unlocked Harvest node is required.</RHA_HarvestEconomic030_selection.description>
+  <RHA_HarvestEconomic030_cooperation.label>Relay Farming assessment</RHA_HarvestEconomic030_cooperation.label>
+  <RHA_HarvestEconomic030_cooperation.description>Complete the sowing and actual edible harvest objectives within 35 days. Extra produce, cutting and failed harvests do not count. No unlocked Harvest node is required.</RHA_HarvestEconomic030_cooperation.description>
+  <RHA_HarvestEconomic030_meals.label>Kitchen Shifts assessment</RHA_HarvestEconomic030_meals.label>
+  <RHA_HarvestEconomic030_meals.description>Complete sowing, edible harvest and actual cooked-meal objectives within 35 days. Cooking must consume ingredients and deliver meals. Bonus products and failed work do not count; no unlocked Harvest node is required.</RHA_HarvestEconomic030_meals.description>
+  <RHA_HarvestEconomic030_reserve.label>Stock Rotation assessment</RHA_HarvestEconomic030_reserve.label>
+  <RHA_HarvestEconomic030_reserve.description>Complete sowing, edible harvest and actual cooked-meal objectives within 35 days. Cooking must consume ingredients and deliver meals. Bonus products and failed work do not count; no unlocked Harvest node is required.</RHA_HarvestEconomic030_reserve.description>
+  <RHA_HarvestEconomic030_selection_bulk.label>Stable Variety assessment</RHA_HarvestEconomic030_selection_bulk.label>
+  <RHA_HarvestEconomic030_selection_bulk.description>Complete the sowing and actual edible harvest objectives within 40 days. Extra produce, cutting and failed harvests do not count. No unlocked Harvest node is required.</RHA_HarvestEconomic030_selection_bulk.description>
+  <RHA_HarvestEconomic030_selection_variety.label>Mixed Breeding assessment</RHA_HarvestEconomic030_selection_variety.label>
+  <RHA_HarvestEconomic030_selection_variety.description>Complete the sowing and actual edible harvest objectives within 40 days. Extra produce, cutting and failed harvests do not count. No unlocked Harvest node is required.</RHA_HarvestEconomic030_selection_variety.description>
+  <RHA_HarvestEconomic030_cooperation_return.label>Trading Rows assessment</RHA_HarvestEconomic030_cooperation_return.label>
+  <RHA_HarvestEconomic030_cooperation_return.description>Complete the sowing and actual edible harvest objectives within 40 days. Extra produce, cutting and failed harvests do not count. No unlocked Harvest node is required.</RHA_HarvestEconomic030_cooperation_return.description>
+  <RHA_HarvestEconomic030_cooperation_spread.label>Three Farming Shifts assessment</RHA_HarvestEconomic030_cooperation_spread.label>
+  <RHA_HarvestEconomic030_cooperation_spread.description>Complete the sowing and actual edible harvest objectives within 40 days. Extra produce, cutting and failed harvests do not count. No unlocked Harvest node is required.</RHA_HarvestEconomic030_cooperation_spread.description>
+  <RHA_HarvestEconomic030_meals_batch.label>Consecutive Batches assessment</RHA_HarvestEconomic030_meals_batch.label>
+  <RHA_HarvestEconomic030_meals_batch.description>Complete sowing, edible harvest and actual cooked-meal objectives within 40 days. Cooking must consume ingredients and deliver meals. Bonus products and failed work do not count; no unlocked Harvest node is required.</RHA_HarvestEconomic030_meals_batch.description>
+  <RHA_HarvestEconomic030_meals_variety.label>Varied Table assessment</RHA_HarvestEconomic030_meals_variety.label>
+  <RHA_HarvestEconomic030_meals_variety.description>Complete sowing, edible harvest and actual cooked-meal objectives within 40 days. Cooking must consume ingredients and deliver meals. Bonus products and failed work do not count; no unlocked Harvest node is required.</RHA_HarvestEconomic030_meals_variety.description>
+  <RHA_HarvestEconomic030_reserve_seed.label>Seeds from Stores assessment</RHA_HarvestEconomic030_reserve_seed.label>
+  <RHA_HarvestEconomic030_reserve_seed.description>Complete sowing, edible harvest and actual cooked-meal objectives within 40 days. Cooking must consume ingredients and deliver meals. Bonus products and failed work do not count; no unlocked Harvest node is required.</RHA_HarvestEconomic030_reserve_seed.description>
+  <RHA_HarvestEconomic030_reserve_distribution.label>Supplies to Kitchens assessment</RHA_HarvestEconomic030_reserve_distribution.label>
+  <RHA_HarvestEconomic030_reserve_distribution.description>Complete sowing, edible harvest and actual cooked-meal objectives within 40 days. Cooking must consume ingredients and deliver meals. Bonus products and failed work do not count; no unlocked Harvest node is required.</RHA_HarvestEconomic030_reserve_distribution.description>
+</LanguageData>

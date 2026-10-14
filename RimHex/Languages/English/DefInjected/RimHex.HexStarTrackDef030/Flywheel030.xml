@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_STAR_Core_flywheel.nodes.0.label>Storm Flywheel</RHA_STAR_Core_flywheel.nodes.0.label>
+  <RHA_STAR_Core_flywheel.nodes.0.description>Requires the Storm Flywheel core card. Retains sustained spin, shield fuel, shield reserve and Wind-down without granting another card or skill. From tier two, this tree controls the branch; existing branch cards are retained.</RHA_STAR_Core_flywheel.nodes.0.description>
+  <RHA_STAR_Core_flywheel.nodes.1.label>Overloaded Flywheel</RHA_STAR_Core_flywheel.nodes.1.label>
+  <RHA_STAR_Core_flywheel.nodes.1.description>Spin base damage falls from 3.5 to 2.2 per pulse. Wind-down becomes a 60-degree cone toward the chosen enemy, reaching 10 cells and up to eight enemies; walls block it. Each completed pulse adds 3 base finisher damage, for 8–80 total. No separate branch card is required.</RHA_STAR_Core_flywheel.nodes.1.description>
+  <RHA_STAR_Core_flywheel.nodes.2.label>Sheltering Vortex</RHA_STAR_Core_flywheel.nodes.2.label>
+  <RHA_STAR_Core_flywheel.nodes.2.description>Each spin pulse can spend your shield to transfer up to 2 to each of up to three friendly humanlike colonists within 4 cells and clear sight, topping up to 12 for 3 seconds. Your reserve is respected and the entire transfer must be affordable; stronger shields cost nothing. Spin damage becomes 1.5 per pulse and Wind-down damage is halved. No separate branch card is required.</RHA_STAR_Core_flywheel.nodes.2.description>
+  <RHA_STAR_Core_flywheel.nodes.3.label>Gathering Edge</RHA_STAR_Core_flywheel.nodes.3.label>
+  <RHA_STAR_Core_flywheel.nodes.3.description>Three consecutive damaging spin hits against the same enemy, no more than 3 seconds apart leave one Gathering Edge mark for 4 seconds; changing targets restarts the count. A damaging Wind-down hit consumes it for 4 bonus slash damage. Six-second mark cooldown; secondary damage cannot charge it. Base rewards: damage 100.</RHA_STAR_Core_flywheel.nodes.3.description>
+  <RHA_STAR_Core_flywheel.nodes.4.label>Follow Through</RHA_STAR_Core_flywheel.nodes.4.label>
+  <RHA_STAR_Core_flywheel.nodes.4.description>The first damaging Wind-down hit marks its victim for 3 seconds. Your next ordinary hit against that victim consumes the mark for 2 bonus slash damage. At most one mark every 6 seconds; skills, secondary damage and allies cannot spend it. Base rewards: damage 50.</RHA_STAR_Core_flywheel.nodes.4.description>
+  <RHA_STAR_Core_flywheel.nodes.5.label>Regain Your Footing</RHA_STAR_Core_flywheel.nodes.5.label>
+  <RHA_STAR_Core_flywheel.nodes.5.description>A damaging Wind-down hit heals 40 points of your recoverable injuries, once per 6 seconds across all victims. It cannot restore missing parts or heal permanent scars. Base rewards: healing 40.</RHA_STAR_Core_flywheel.nodes.5.description>
+  <RHA_STAR_Core_flywheel.nodes.6.label>Parting Cover</RHA_STAR_Core_flywheel.nodes.6.label>
+  <RHA_STAR_Core_flywheel.nodes.6.description>A damaging Wind-down hit gives the nearest other eligible colonist within 4 cells and clear sight a separate 50-point shield for 3 seconds, once per 6 seconds across all victims. With no eligible ally, it does not shield you instead. Base rewards: shield 50.</RHA_STAR_Core_flywheel.nodes.6.description>
+</LanguageData>

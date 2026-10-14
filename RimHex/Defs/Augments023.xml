@@ -1,0 +1,185 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Defs>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_A23_brand</defName>
+    <label>Molten Brand</label>
+    <description>Grants Molten Brand and Detonate. Mark an enemy within 24 cells for 8 seconds, on a 4-second cooldown. Keep up to 3 marks; only one per target. Store 20% of actual damage dealt by the owner, up to 36. On expiry or death, deal 8 base damage plus stored damage to up to 8 enemies within 3 cells; walls block the blast. Stored damage cannot gain attacker amplification or critical hits again. Detonate consumes the selected mark. Autocast waits for 24 stored damage or 2 seconds remaining. Brand blasts and this set's bonus hits cannot charge marks.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Brands and legion</theme>
+    <weight>100</weight>
+    <maxStacks>1</maxStacks>
+    <iconPath>RimHex/Cards/RHA_A23_brand</iconPath>
+    <mechanics>
+      <li>
+        <key>brand023</key>
+        <amount>1</amount>
+      </li>
+    </mechanics>
+    <grantsSkills>
+      <li>Brand023</li>
+      <li>Detonate023</li>
+    </grantsSkills>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_A23_legion</defName>
+    <label>Legion Command</label>
+    <description>Grants Call the Swarm, Rally Legion and Focus Legion. Call the Swarm uses the existing two temporary projections and summon limits. One order directs all of your ordinary projections, including later summons. Rally defends a point within 24 cells and attacks enemies within 6 cells of it. Focus pursues the chosen enemy using normal paths. If that target becomes invalid or moves over 30 cells from the owner, return to guarding the owner. Rally at your own feet to resume guard duty. Resonance nodes, other owners' projections and animals are unaffected.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Brands and legion</theme>
+    <weight>100</weight>
+    <maxStacks>1</maxStacks>
+    <iconPath>RimHex/Cards/RHA_A23_legion</iconPath>
+    <mechanics>
+      <li>
+        <key>legion023</key>
+        <amount>1</amount>
+      </li>
+    </mechanics>
+    <grantsSkills>
+      <li>Swarm016</li>
+      <li>Rally023</li>
+      <li>Focus023</li>
+    </grantsSkills>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_A23_embers</defName>
+    <label>Lingering Embers</label>
+    <description>When an enemy dies with your stacking burn, share 30% of its remaining base burn damage between up to 2 enemies within 4 cells, capped at 40 each, over 3 seconds. Transferred embers cannot spread again; newly applied burns can. Walls block spread.</description>
+    <scope>Hero</scope>
+    <tier>Gold</tier>
+    <theme>Brands and legion</theme>
+    <weight>100</weight>
+    <maxStacks>1</maxStacks>
+    <iconPath>RimHex/Cards/RHA_A23_embers</iconPath>
+    <mechanics>
+      <li>
+        <key>embers023</key>
+        <amount>1</amount>
+      </li>
+    </mechanics>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_A23_fuse</defName>
+    <label>Quick Fuse</label>
+    <description>Requires Molten Brand. Early manual or automatic detonation refunds half the remaining Molten Brand cooldown, at most 3 seconds. Expiry and death give no refund. Each early detonation refunds once; unaccumulated damage is lost.</description>
+    <scope>Hero</scope>
+    <tier>Gold</tier>
+    <theme>Brands and legion</theme>
+    <weight>100</weight>
+    <maxStacks>1</maxStacks>
+    <iconPath>RimHex/Cards/RHA_A23_fuse</iconPath>
+    <mechanics>
+      <li>
+        <key>fuse023</key>
+        <amount>1</amount>
+      </li>
+    </mechanics>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_A23_cinders</defName>
+    <label>Bursting Cinders</label>
+    <description>Requires Molten Brand. Enemies actually damaged by a brand blast and still standing receive cinders: 2 base burn damage per second for 3 seconds. Cinders cannot charge marks or spread.</description>
+    <scope>Hero</scope>
+    <tier>Gold</tier>
+    <theme>Brands and legion</theme>
+    <weight>100</weight>
+    <maxStacks>1</maxStacks>
+    <iconPath>RimHex/Cards/RHA_A23_cinders</iconPath>
+    <mechanics>
+      <li>
+        <key>cinders023</key>
+        <amount>1</amount>
+      </li>
+    </mechanics>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_A23_pressure</defName>
+    <label>Rising Heat</label>
+    <description>After 3 damaging basic hits on the same enemy, apply 2 base stacking burn damage per second for 6 seconds, at most once every 3 seconds. Changing targets or waiting 5 seconds resets the count. Count at most one hit per 0.25 seconds; chains and pellets add no extra counts. Works without Molten Brand.</description>
+    <scope>Hero</scope>
+    <tier>Gold</tier>
+    <theme>Brands and legion</theme>
+    <weight>100</weight>
+    <maxStacks>1</maxStacks>
+    <iconPath>RimHex/Cards/RHA_A23_pressure</iconPath>
+    <mechanics>
+      <li>
+        <key>pressure023</key>
+        <amount>1</amount>
+      </li>
+    </mechanics>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_A23_hunt</defName>
+    <label>Coordinated Hunt</label>
+    <description>When you and one of your ordinary projections land basic hits on the same enemy within 3 seconds, deal 6 extra base damage, at most once every 2 seconds. Either side may strike first; repeated hits from the same side do not trigger it. Resonance nodes do not count.</description>
+    <scope>Hero</scope>
+    <tier>Gold</tier>
+    <theme>Brands and legion</theme>
+    <weight>100</weight>
+    <maxStacks>1</maxStacks>
+    <iconPath>RimHex/Cards/RHA_A23_hunt</iconPath>
+    <mechanics>
+      <li>
+        <key>hunt023</key>
+        <amount>1</amount>
+      </li>
+    </mechanics>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_A23_swap</defName>
+    <label>Frontline Exchange</label>
+    <description>Grants Frontline Exchange: swap with one of your ordinary projections within 18 cells and clear sight, on a 12-second cooldown. Both cells must be walkable. Gain 12 shield for 3 seconds; the projection takes 25% less damage for 3 seconds. Cannot swap with resonance nodes. Manual only, learned from this card; requires an ordinary projection.</description>
+    <scope>Hero</scope>
+    <tier>Gold</tier>
+    <theme>Brands and legion</theme>
+    <weight>100</weight>
+    <maxStacks>1</maxStacks>
+    <iconPath>RimHex/Cards/RHA_A23_swap</iconPath>
+    <mechanics>
+      <li>
+        <key>swap023</key>
+        <amount>1</amount>
+      </li>
+    </mechanics>
+    <grantsSkills>
+      <li>Swap023</li>
+    </grantsSkills>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_A23_bastion</defName>
+    <label>Bodyguard Barrier</label>
+    <description>After taking actual damage from an enemy basic hit, gain 10 shield for 4 seconds if one of your ordinary projections is within 4 cells and clear sight. At most once every 6 seconds. The shield protects against later hits; resonance nodes do not count.</description>
+    <scope>Hero</scope>
+    <tier>Gold</tier>
+    <theme>Brands and legion</theme>
+    <weight>100</weight>
+    <maxStacks>1</maxStacks>
+    <iconPath>RimHex/Cards/RHA_A23_bastion</iconPath>
+    <mechanics>
+      <li>
+        <key>bastion023</key>
+        <amount>1</amount>
+      </li>
+    </mechanics>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_A23_siege</defName>
+    <label>Encirclement</label>
+    <description>When one of your ordinary projections lands a basic hit, deal 4 extra base damage if at least two of your ordinary projections are within 3 cells of that enemy with clear sight. At most once per owner every 2 seconds. Projections must physically surround the target; resonance nodes do not count.</description>
+    <scope>Hero</scope>
+    <tier>Gold</tier>
+    <theme>Brands and legion</theme>
+    <weight>100</weight>
+    <maxStacks>1</maxStacks>
+    <iconPath>RimHex/Cards/RHA_A23_siege</iconPath>
+    <mechanics>
+      <li>
+        <key>siege023</key>
+        <amount>1</amount>
+      </li>
+    </mechanics>
+  </RimHex.HexAugmentDef>
+</Defs>

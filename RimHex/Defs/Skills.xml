@@ -1,0 +1,201 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Defs>
+  <RimHex.HexSkillDef>
+    <defName>RHA_S10_Thunder</defName>
+    <label>Thunderfall</label>
+    <description>Choose a visible position within 24 cells. Lightning strikes immediately, then every 0.5 seconds for 3 waves total. Each wave deals 225 + 25 × chain levels damage to up to 16 enemies within a 6-cell radius.</description>
+    <path>RHA_Path_Thunder</path>
+    <iconPath>RimHex/Skills/Thunder</iconPath>
+    <aim>Ground</aim>
+    <autoRule>Crowd</autoRule>
+    <cooldown>1800</cooldown>
+    <range>24</range>
+    <radius>6</radius>
+    <visual>Lightning</visual>
+    <minEnemies>2</minEnemies>
+  </RimHex.HexSkillDef>
+  <RimHex.HexSkillDef>
+    <defName>RHA_S10_Flame</defName>
+    <label>Worldfire field</label>
+    <description>Choose a visible position within 20 cells. Burns immediately, then every 1 second for 6 waves total. Each wave deals 160 + 30 × burn levels damage to up to 16 enemies within a 6-cell radius.</description>
+    <path>RHA_Path_Flame</path>
+    <iconPath>RimHex/Skills/Flame</iconPath>
+    <aim>Ground</aim>
+    <autoRule>Crowd</autoRule>
+    <cooldown>1800</cooldown>
+    <range>20</range>
+    <radius>6</radius>
+    <visual>Fire</visual>
+    <minEnemies>2</minEnemies>
+  </RimHex.HexSkillDef>
+  <RimHex.HexSkillDef>
+    <defName>RHA_S10_Blood</defName>
+    <label>Crimson sovereign</label>
+    <description>Deal 250 + 35 × health multiplier damage to up to 16 enemies within 10 cells of the caster, heal the caster for 200 points and grant a 400-point shield for 12 seconds.</description>
+    <path>RHA_Path_Blood</path>
+    <iconPath>RimHex/Skills/Blood</iconPath>
+    <aim>Self</aim>
+    <autoRule>Injured</autoRule>
+    <cooldown>1800</cooldown>
+    <range>0</range>
+    <radius>10</radius>
+    <visual>Drain</visual>
+    <minEnemies>2</minEnemies>
+  </RimHex.HexSkillDef>
+  <RimHex.HexSkillDef>
+    <defName>RHA_S10_Titan</defName>
+    <label>Earthshatter</label>
+    <description>Stomp up to 16 enemies within 8 cells of the caster for 300 + 80 × health multiplier damage and stun them for 2 seconds.</description>
+    <path>RHA_Path_Titan</path>
+    <iconPath>RimHex/Skills/Titan</iconPath>
+    <aim>Self</aim>
+    <autoRule>Crowd</autoRule>
+    <cooldown>1500</cooldown>
+    <range>0</range>
+    <radius>8</radius>
+    <visual>Quake</visual>
+    <minEnemies>2</minEnemies>
+  </RimHex.HexSkillDef>
+  <RimHex.HexSkillDef>
+    <defName>RHA_S10_Frost</defName>
+    <label>Absolute zero</label>
+    <description>Choose a visible position within 22 cells. Deal 240 + 40 × frost levels damage to up to 16 enemies within a 7-cell radius, stun them for 3 seconds and slow them for 8 seconds.</description>
+    <path>RHA_Path_Frost</path>
+    <iconPath>RimHex/Skills/Frost</iconPath>
+    <aim>Ground</aim>
+    <autoRule>Crowd</autoRule>
+    <cooldown>1800</cooldown>
+    <range>22</range>
+    <radius>7</radius>
+    <visual>Frost</visual>
+    <minEnemies>2</minEnemies>
+  </RimHex.HexSkillDef>
+  <RimHex.HexSkillDef>
+    <defName>RHA_S10_Blade</defName>
+    <label>Bladestorm</label>
+    <description>Lock onto a visible enemy within 24 cells. Strike immediately, then every 0.2 seconds for 6 hits total. Each deals 125 + 40 × damage bonus multiplier damage. If the target dies or moves more than 4 cells from its starting position, pursue the nearest enemy in that area.</description>
+    <path>RHA_Path_Blade</path>
+    <iconPath>RimHex/Skills/Blade</iconPath>
+    <aim>Enemy</aim>
+    <autoRule>Threat</autoRule>
+    <cooldown>1200</cooldown>
+    <range>24</range>
+    <radius>4</radius>
+    <visual>Flurry</visual>
+    <minEnemies>1</minEnemies>
+  </RimHex.HexSkillDef>
+  <RimHex.HexSkillDef>
+    <defName>RHA_S10_Marksman</defName>
+    <label>Starpiercer</label>
+    <description>Fire a piercing arrow 36 cells long and 3 cells wide in the chosen direction. Up to 16 visible enemies in its path each take 600 + 300 × long-range bonus multiplier damage.</description>
+    <path>RHA_Path_Marksman</path>
+    <iconPath>RimHex/Skills/Marksman</iconPath>
+    <aim>Ground</aim>
+    <autoRule>Threat</autoRule>
+    <cooldown>1500</cooldown>
+    <range>36</range>
+    <radius>0</radius>
+    <visual>Lance</visual>
+    <minEnemies>1</minEnemies>
+  </RimHex.HexSkillDef>
+  <RimHex.HexSkillDef>
+    <defName>RHA_S10_Spirit</defName>
+    <label>Night procession</label>
+    <description>Choose a visible position within 24 cells. Release souls immediately, then every 1 second for 3 waves total. Each wave strikes the nearest 6 enemies within an 8-cell radius for 160 + 4 × effective soul marks damage each. Does not consume soul marks. The first 100 soul marks count fully, with diminishing returns thereafter; stored counts are preserved.</description>
+    <path>RHA_Path_Spirit</path>
+    <iconPath>RimHex/Skills/Spirit</iconPath>
+    <aim>Ground</aim>
+    <autoRule>Crowd</autoRule>
+    <cooldown>1800</cooldown>
+    <range>24</range>
+    <radius>8</radius>
+    <visual>Soul</visual>
+    <minEnemies>2</minEnemies>
+  </RimHex.HexSkillDef>
+  <RimHex.HexSkillDef>
+    <defName>RHA_S10_Guardian</defName>
+    <label>Prismatic sanctuary</label>
+    <description>Grant all free colonists within 12 cells shields of 500 + 40 × the caster's health multiplier for 12 seconds, and heal each for 80 points. Can protect downed colonists. Refreshes keep the stronger shield of this type.</description>
+    <path>RHA_Path_Guardian</path>
+    <iconPath>RimHex/Skills/Guardian</iconPath>
+    <aim>Self</aim>
+    <autoRule>Threat</autoRule>
+    <cooldown>1800</cooldown>
+    <range>0</range>
+    <radius>12</radius>
+    <visual>Shield</visual>
+    <minEnemies>1</minEnemies>
+  </RimHex.HexSkillDef>
+  <RimHex.HexSkillDef>
+    <defName>RHA_S10_Wealth</defName>
+    <label>Golden decree</label>
+    <description>Deliver 1,200 silver and 40 gold near the caster. Only usable at a player home. Shares a 1-day colony-wide cooldown. Autocast uses one colonist capable of acting.</description>
+    <path>RHA_Path_Wealth</path>
+    <iconPath>RimHex/Skills/Wealth</iconPath>
+    <aim>Colony</aim>
+    <autoRule>Ready</autoRule>
+    <cooldown>60000</cooldown>
+    <range>0</range>
+    <radius>0</radius>
+    <visual>Ascend</visual>
+    <minEnemies>2</minEnemies>
+  </RimHex.HexSkillDef>
+  <RimHex.HexSkillDef>
+    <defName>RHA_S10_Industry</defName>
+    <label>Industrial overdrive</label>
+    <description>Overload all free colonists on the map at the time of casting. Global work speed is multiplied by 4; research, mining and plant work speeds are multiplied by another 4, for a final ×16. Lasts 1 game hour. Home maps only; shares a 6-game-hour colony-wide cooldown.</description>
+    <path>RHA_Path_Industry</path>
+    <iconPath>RimHex/Skills/Industry</iconPath>
+    <aim>Colony</aim>
+    <autoRule>Ready</autoRule>
+    <cooldown>15000</cooldown>
+    <range>0</range>
+    <radius>0</radius>
+    <visual>Forge</visual>
+    <minEnemies>2</minEnemies>
+  </RimHex.HexSkillDef>
+  <RimHex.HexSkillDef>
+    <defName>RHA_S10_Harvest</defName>
+    <label>Song of life</label>
+    <description>Heal all free colonists on the caster's map for 300 points each, including downed colonists. Shares a 120-second colony-wide cooldown. Only heals treatable injuries; cannot resurrect or regrow missing parts.</description>
+    <path>RHA_Path_Harvest</path>
+    <iconPath>RimHex/Skills/Harvest</iconPath>
+    <aim>Colony</aim>
+    <autoRule>Injured</autoRule>
+    <cooldown>7200</cooldown>
+    <range>0</range>
+    <radius>0</radius>
+    <visual>Bloom</visual>
+    <minEnemies>2</minEnemies>
+  </RimHex.HexSkillDef>
+  <HediffDef>
+    <defName>RHA_BattleSkills</defName>
+    <label>Path abilities</label>
+    <description>Signature abilities unlocked by base evolutions. Hover to see cooldowns. Configure autocast in the build panel.</description>
+    <hediffClass>RimHex.Hediff_HexSkills</hediffClass>
+    <isBad>false</isBad>
+    <scenarioCanAdd>false</scenarioCanAdd>
+    <tendable>false</tendable>
+    <initialSeverity>1</initialSeverity>
+  </HediffDef>
+  <HediffDef>
+    <defName>RHA_SkillOverclock</defName>
+    <label>Industrial overdrive</label>
+    <description>Global work speed ×4; research, mining and plant work speeds ×16 in total. Removed when the duration expires or the Industry path becomes dormant.</description>
+    <hediffClass>RimHex.Hediff_HexOverclock</hediffClass>
+    <isBad>false</isBad>
+    <scenarioCanAdd>false</scenarioCanAdd>
+    <tendable>false</tendable>
+    <initialSeverity>1</initialSeverity>
+    <stages>
+      <li>
+        <statFactors>
+          <WorkSpeedGlobal>4</WorkSpeedGlobal>
+          <ResearchSpeed>4</ResearchSpeed>
+          <MiningSpeed>4</MiningSpeed>
+          <PlantWorkSpeed>4</PlantWorkSpeed>
+        </statFactors>
+      </li>
+    </stages>
+  </HediffDef>
+</Defs>

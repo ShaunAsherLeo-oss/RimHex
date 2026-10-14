@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_STAR_Relic_Reaper.nodes.0.label>Scythe Bearer</RHA_STAR_Relic_Reaper.nodes.0.label>
+  <RHA_STAR_Relic_Reaper.nodes.0.description>Advance while wearing Reaper's Scythe. Retains its execution, attack intervals and original third-hit effect without granting them twice. Later branches require that original third-hit bonus to deal actual damage; ordinary hits alone and execution alone do not count.</RHA_STAR_Relic_Reaper.nodes.0.description>
+  <RHA_STAR_Relic_Reaper.nodes.1.label>Scythe Follow-through</RHA_STAR_Relic_Reaper.nodes.1.label>
+  <RHA_STAR_Relic_Reaper.nodes.1.description>After the original third-hit bonus deals damage, strike one other enemy within 3 cells of the impact and clear sight for 50 damage, once per 8 seconds. Never hits the original target again. Base rewards: damage 50.</RHA_STAR_Relic_Reaper.nodes.1.description>
+  <RHA_STAR_Relic_Reaper.nodes.2.label>Reaper's Veil</RHA_STAR_Relic_Reaper.nodes.2.label>
+  <RHA_STAR_Relic_Reaper.nodes.2.description>After the original third-hit bonus deals damage, gain a separate 2-base-point shield for 3 seconds, once per 8 seconds. Fully prevented bonus damage grants no shield. Base rewards: shield 50.</RHA_STAR_Relic_Reaper.nodes.2.description>
+  <RHA_STAR_Relic_Reaper.nodes.3.label>Lingering Recovery</RHA_STAR_Relic_Reaper.nodes.3.label>
+  <RHA_STAR_Relic_Reaper.nodes.3.description>After Scythe Follow-through actually damages its second target, heal 20 base points of your recoverable injuries, once per 8 seconds. No second target or fully prevented follow-through grants nothing. Does not restore missing parts or permanent scars. Base rewards: healing 20.</RHA_STAR_Relic_Reaper.nodes.3.description>
+  <RHA_STAR_Relic_Reaper.nodes.4.label>Passing Shelter</RHA_STAR_Relic_Reaper.nodes.4.label>
+  <RHA_STAR_Relic_Reaper.nodes.4.description>After Scythe Follow-through actually damages its second target, shield the nearest other eligible colonist within 4 cells of you and clear sight for 50 base points over 3 seconds, once per 8 seconds. Does not shield you instead. Base rewards: shield 50.</RHA_STAR_Relic_Reaper.nodes.4.description>
+  <RHA_STAR_Relic_Reaper.nodes.5.label>Reckoning Mark</RHA_STAR_Relic_Reaper.nodes.5.label>
+  <RHA_STAR_Relic_Reaper.nodes.5.description>When any of your shields actually absorbs enemy damage, mark the attacker for 5 seconds, once per 8 seconds. Your later ordinary hit on that enemy consumes the mark for 50 bonus damage. One mark at a time; granting a shield does not create a mark. Base rewards: damage 50.</RHA_STAR_Relic_Reaper.nodes.5.description>
+  <RHA_STAR_Relic_Reaper.nodes.6.label>Veiled Aid</RHA_STAR_Relic_Reaper.nodes.6.label>
+  <RHA_STAR_Relic_Reaper.nodes.6.description>After the original third-hit bonus deals damage, heal 20 base points of recoverable injuries on the most injured other eligible colonist within 4 cells and clear sight, once per 8 seconds. Does not heal you if no injured ally is available. Resolves separately from Reaper's Veil. Base rewards: healing 20.</RHA_STAR_Relic_Reaper.nodes.6.description>
+</LanguageData>

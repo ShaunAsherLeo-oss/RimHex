@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_StarHarvest030_Produced>Harvest: {0} extra {1} delivered.</RHA_StarHarvest030_Produced>
+  <RHA_StarHarvest030_SelectionGrowth>{0}: selected seeds added {1}% growth.</RHA_StarHarvest030_SelectionGrowth>
+  <RHA_StarHarvest030_RelayGrowth>Relay: {0} gains {1}% growth.</RHA_StarHarvest030_RelayGrowth>
+  <RHA_StarHarvest030_RelayReady>Relay: next food-crop sowing gains {0}% growth.</RHA_StarHarvest030_RelayReady>
+  <RHA_StarHarvest030_ShiftGrowth>Farming shift: {0} gains {1}% growth; {2} uses remain.</RHA_StarHarvest030_ShiftGrowth>
+  <RHA_StarHarvest030_ShiftReady>Farming shift: next {0} sowings each gain {1}% growth.</RHA_StarHarvest030_ShiftReady>
+  <RHA_StarHarvest030_KitchenMeals>Field ingredients: {0} extra {1}.</RHA_StarHarvest030_KitchenMeals>
+  <RHA_StarHarvest030_ShiftMeals>Kitchen shifts: {0} extra {1}.</RHA_StarHarvest030_ShiftMeals>
+  <RHA_StarHarvest030_BatchMeals>Consecutive batches: {0} extra {1}.</RHA_StarHarvest030_BatchMeals>
+  <RHA_StarHarvest030_VarietyMeals>Varied table: {0} extra {1}.</RHA_StarHarvest030_VarietyMeals>
+  <RHA_StarHarvest030_ReserveMeals>Stock rotation: {0} extra {1}.</RHA_StarHarvest030_ReserveMeals>
+  <RHA_StarHarvest030_ReserveSeed>Seeds from stores: spent {1} {0} credit for {2}% growth.</RHA_StarHarvest030_ReserveSeed>
+  <RHA_StarHarvest030_DistributedMeals>Supplies to kitchens: {0} extra {1}.</RHA_StarHarvest030_DistributedMeals>
+</LanguageData>

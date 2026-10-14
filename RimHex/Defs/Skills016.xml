@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Defs>
+  <RimHex.HexSkillDef>
+    <defName>RHA_Skill_Swarm016</defName>
+    <label>Drone Call</label>
+    <description>Summon two nearby crystal drones for 15 seconds. Base cooldown: 18 seconds. Summons snapshot 25% of owner bonus health, 35% of bonus damage and summon-specific bonuses. Cap: six per owner and 24 per map. No gear, products or owner on-hit rewards. They vanish if the owner leaves the map or loses player control.</description>
+    <cardKey>Swarm016</cardKey>
+    <aim>Self</aim>
+    <autoRule>Threat</autoRule>
+    <cooldown>1080</cooldown>
+    <range>0</range>
+    <radius>0</radius>
+    <visual>Soul</visual>
+    <iconPath>RimHex/Cards/RHA_A16_HiveMind</iconPath>
+  </RimHex.HexSkillDef>
+  <RimHex.HexSkillDef>
+    <defName>RHA_Skill_Mirror016</defName>
+    <label>Echo Projection</label>
+    <description>Summon two nearby combat echoes for 15 seconds. Base cooldown: 24 seconds. Summons snapshot 25% of owner bonus health, 35% of bonus damage and summon-specific bonuses. Cap: six per owner and 24 per map. No gear, products or owner on-hit rewards. They vanish if the owner leaves the map or loses player control.</description>
+    <cardKey>Mirror016</cardKey>
+    <aim>Self</aim>
+    <autoRule>Threat</autoRule>
+    <cooldown>1440</cooldown>
+    <range>0</range>
+    <radius>0</radius>
+    <visual>Portal</visual>
+    <iconPath>RimHex/Cards/RHA_A16_MirrorImage</iconPath>
+  </RimHex.HexSkillDef>
+  <RimHex.HexSkillDef>
+    <defName>RHA_Skill_Sanctuary016</defName>
+    <label>Sanctuary Ring</label>
+    <description>Gain Sanctuary Ring: protect yourself and visible colonists within 5 cells from direct damage for 1 second. Base cooldown: 30 seconds. Disease, missing organs and delayed injury debts still apply.</description>
+    <cardKey>Sanctuary016</cardKey>
+    <aim>Self</aim>
+    <autoRule>Threat</autoRule>
+    <cooldown>1800</cooldown>
+    <range>0</range>
+    <radius>5</radius>
+    <visual>Shield</visual>
+    <iconPath>RimHex/Cards/RHA_A16_DivineIntervention</iconPath>
+  </RimHex.HexSkillDef>
+</Defs>

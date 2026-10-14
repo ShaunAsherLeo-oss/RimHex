@@ -1,0 +1,307 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Defs>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_MarksmanTrial030_root</defName>
+    <label>Find your range</label>
+    <description>Threat: A suppressor protects a shooter that fires into a locked lane. Answer: Interrupt suppression with actual damage or control, kill the suppressor, or use cover. Reward: The shooter loses protection and its current charge, taking 25% more damage for 8 seconds. Cost: Ignoring suppression retains up to 20% shooter defense and safe fire.
+Arrangement: Baited pursuit; forward lock lanes. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. Existing finite roster retained.</description>
+    <family>marksman</family>
+    <mechanism>pursuit</mechanism>
+    <arena>ring-v1</arena>
+    <chargedBarrage>false</chargedBarrage>
+    <targetTrack>RHA_STAR_Path_Marksman</targetTrack>
+    <targetNode>root</targetNode>
+    <targetStage>1</targetStage>
+    <seconds>180</seconds>
+    <tactic>RHA_Tactics_MarksmanTrial030_root</tactic>
+    <encounter>RHA_Encounter03510_RHA_MarksmanTrial030_root</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_MarksmanTrial030_sight</defName>
+    <label>Keep the sight</label>
+    <description>Threat: A suppressor protects a shooter that fires into a locked lane. Answer: Interrupt suppression with actual damage or control, kill the suppressor, or use cover. Reward: The shooter loses protection and its current charge, taking 25% more damage for 8 seconds. Cost: Ignoring suppression retains up to 20% shooter defense and safe fire.
+Arrangement: Ordered strikes; right lock lanes. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. Existing finite roster retained.</description>
+    <family>marksman</family>
+    <mechanism>cadence</mechanism>
+    <arena>bastion-v1</arena>
+    <chargedBarrage>false</chargedBarrage>
+    <targetTrack>RHA_STAR_Path_Marksman</targetTrack>
+    <targetNode>sight</targetNode>
+    <targetStage>2</targetStage>
+    <seconds>240</seconds>
+    <tactic>RHA_Tactics_MarksmanTrial030_sight</tactic>
+    <encounter>RHA_Encounter03510_RHA_MarksmanTrial030_sight</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_MarksmanTrial030_shift</defName>
+    <label>Shift the sights</label>
+    <description>Threat: A suppressor protects a shooter that fires into a locked lane. Answer: Interrupt suppression with actual damage or control, kill the suppressor, or use cover. Reward: The shooter loses protection and its current charge, taking 25% more damage for 8 seconds. Cost: Ignoring suppression retains up to 20% shooter defense and safe fire.
+Arrangement: Linked peers; left then right lanes. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. Existing finite roster retained.</description>
+    <family>marksman</family>
+    <mechanism>twinLink</mechanism>
+    <arena>crossroads-v1</arena>
+    <chargedBarrage>false</chargedBarrage>
+    <targetTrack>RHA_STAR_Path_Marksman</targetTrack>
+    <targetNode>shift</targetNode>
+    <targetStage>2</targetStage>
+    <seconds>240</seconds>
+    <tactic>RHA_Tactics_MarksmanTrial030_shift</tactic>
+    <encounter>RHA_Encounter03510_RHA_MarksmanTrial030_shift</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_MarksmanTrial030_pierce</defName>
+    <label>Shoot the gap</label>
+    <description>Threat: A suppressor protects a shooter that fires into a locked lane. Answer: Interrupt suppression with actual damage or control, kill the suppressor, or use cover. Reward: The shooter loses protection and its current charge, taking 25% more damage for 8 seconds. Cost: Ignoring suppression retains up to 20% shooter defense and safe fire.
+Arrangement: Anchor break; forward lock lanes. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. Existing finite roster retained.</description>
+    <family>marksman</family>
+    <mechanism>guardBreak</mechanism>
+    <arena>bastion-v1</arena>
+    <chargedBarrage>true</chargedBarrage>
+    <targetTrack>RHA_STAR_Path_Marksman</targetTrack>
+    <targetNode>pierce</targetNode>
+    <targetStage>3</targetStage>
+    <seconds>240</seconds>
+    <tactic>RHA_Tactics_MarksmanTrial030_pierce</tactic>
+    <encounter>RHA_Encounter03510_RHA_MarksmanTrial030_pierce</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_MarksmanTrial030_pin</defName>
+    <label>Cut the warmup</label>
+    <description>Threat: A suppressor protects a shooter that fires into a locked lane. Answer: Interrupt suppression with actual damage or control, kill the suppressor, or use cover. Reward: The shooter loses protection and its current charge, taking 25% more damage for 8 seconds. Cost: Ignoring suppression retains up to 20% shooter defense and safe fire.
+Arrangement: Ordered strikes; left lock lanes. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. Existing finite roster retained.</description>
+    <family>marksman</family>
+    <mechanism>cadence</mechanism>
+    <arena>splitCourt-v1</arena>
+    <chargedBarrage>false</chargedBarrage>
+    <targetTrack>RHA_STAR_Path_Marksman</targetTrack>
+    <targetNode>pin</targetNode>
+    <targetStage>3</targetStage>
+    <seconds>240</seconds>
+    <tactic>RHA_Tactics_MarksmanTrial030_pin</tactic>
+    <encounter>RHA_Encounter03510_RHA_MarksmanTrial030_pin</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_MarksmanTrial030_retreat</defName>
+    <label>Give ground</label>
+    <description>Threat: A suppressor protects a shooter that fires into a locked lane. Answer: Interrupt suppression with actual damage or control, kill the suppressor, or use cover. Reward: The shooter loses protection and its current charge, taking 25% more damage for 8 seconds. Cost: Ignoring suppression retains up to 20% shooter defense and safe fire.
+Arrangement: Baited pursuit; forward lock lanes. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. Existing finite roster retained.</description>
+    <family>marksman</family>
+    <mechanism>pursuit</mechanism>
+    <arena>crossroads-v1</arena>
+    <chargedBarrage>false</chargedBarrage>
+    <targetTrack>RHA_STAR_Path_Marksman</targetTrack>
+    <targetNode>retreat</targetNode>
+    <targetStage>3</targetStage>
+    <seconds>240</seconds>
+    <tactic>RHA_Tactics_MarksmanTrial030_retreat</tactic>
+    <encounter>RHA_Encounter03510_RHA_MarksmanTrial030_retreat</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_MarksmanTrial030_relay</defName>
+    <label>Pass the target</label>
+    <description>Threat: A suppressor protects a shooter that fires into a locked lane. Answer: Interrupt suppression with actual damage or control, kill the suppressor, or use cover. Reward: The shooter loses protection and its current charge, taking 25% more damage for 8 seconds. Cost: Ignoring suppression retains up to 20% shooter defense and safe fire.
+Arrangement: Moving support; left lock lanes. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. Existing finite roster retained.</description>
+    <family>marksman</family>
+    <mechanism>escort</mechanism>
+    <arena>splitCourt-v1</arena>
+    <chargedBarrage>false</chargedBarrage>
+    <targetTrack>RHA_STAR_Path_Marksman</targetTrack>
+    <targetNode>relay</targetNode>
+    <targetStage>3</targetStage>
+    <seconds>240</seconds>
+    <tactic>RHA_Tactics_MarksmanTrial030_relay</tactic>
+    <encounter>RHA_Encounter03510_RHA_MarksmanTrial030_relay</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_MarksmanTrial030_lane</defName>
+    <label>Keep both lanes</label>
+    <description>Threat: A suppressor protects a shooter that fires into a locked lane. Answer: Interrupt suppression with actual damage or control, kill the suppressor, or use cover. Reward: The shooter loses protection and its current charge, taking 25% more damage for 8 seconds. Cost: Ignoring suppression retains up to 20% shooter defense and safe fire.
+Arrangement: Linked peers; right lock lanes. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. Existing finite roster retained.</description>
+    <family>marksman</family>
+    <mechanism>twinLink</mechanism>
+    <arena>bastion-v1</arena>
+    <chargedBarrage>false</chargedBarrage>
+    <targetTrack>RHA_STAR_Path_Marksman</targetTrack>
+    <targetNode>lane</targetNode>
+    <targetStage>4</targetStage>
+    <seconds>300</seconds>
+    <tactic>RHA_Tactics_MarksmanTrial030_lane</tactic>
+    <encounter>RHA_Encounter03510_RHA_MarksmanTrial030_lane</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_MarksmanTrial030_interrupt</defName>
+    <label>Stop the volley</label>
+    <description>Threat: A suppressor protects a shooter that fires into a locked lane. Answer: Interrupt suppression with actual damage or control, kill the suppressor, or use cover. Reward: The shooter loses protection and its current charge, taking 25% more damage for 8 seconds. Cost: Ignoring suppression retains up to 20% shooter defense and safe fire.
+Arrangement: Ordered strikes; right lock lanes. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. Existing finite roster retained.</description>
+    <family>marksman</family>
+    <mechanism>cadence</mechanism>
+    <arena>crossroads-v1</arena>
+    <chargedBarrage>false</chargedBarrage>
+    <targetTrack>RHA_STAR_Path_Marksman</targetTrack>
+    <targetNode>interrupt</targetNode>
+    <targetStage>4</targetStage>
+    <seconds>300</seconds>
+    <tactic>RHA_Tactics_MarksmanTrial030_interrupt</tactic>
+    <encounter>RHA_Encounter03510_RHA_MarksmanTrial030_interrupt</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_MarksmanTrial030_return</defName>
+    <label>Return to the line</label>
+    <description>Threat: A suppressor protects a shooter that fires into a locked lane. Answer: Interrupt suppression with actual damage or control, kill the suppressor, or use cover. Reward: The shooter loses protection and its current charge, taking 25% more damage for 8 seconds. Cost: Ignoring suppression retains up to 20% shooter defense and safe fire.
+Arrangement: Baited pursuit; right lock lanes. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. Existing finite roster retained.</description>
+    <family>marksman</family>
+    <mechanism>pursuit</mechanism>
+    <arena>ring-v1</arena>
+    <chargedBarrage>false</chargedBarrage>
+    <targetTrack>RHA_STAR_Path_Marksman</targetTrack>
+    <targetNode>return</targetNode>
+    <targetStage>4</targetStage>
+    <seconds>300</seconds>
+    <tactic>RHA_Tactics_MarksmanTrial030_return</tactic>
+    <encounter>RHA_Encounter03510_RHA_MarksmanTrial030_return</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_MarksmanTrial030_cover</defName>
+    <label>Cover their retreat</label>
+    <description>Threat: A suppressor protects a shooter that fires into a locked lane. Answer: Interrupt suppression with actual damage or control, kill the suppressor, or use cover. Reward: The shooter loses protection and its current charge, taking 25% more damage for 8 seconds. Cost: Ignoring suppression retains up to 20% shooter defense and safe fire.
+Arrangement: Protected target; right lock lanes. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. Existing finite roster retained.</description>
+    <family>marksman</family>
+    <mechanism>bodyguard</mechanism>
+    <arena>bastion-v1</arena>
+    <chargedBarrage>false</chargedBarrage>
+    <targetTrack>RHA_STAR_Path_Marksman</targetTrack>
+    <targetNode>cover</targetNode>
+    <targetStage>4</targetStage>
+    <seconds>300</seconds>
+    <tactic>RHA_Tactics_MarksmanTrial030_cover</tactic>
+    <encounter>RHA_Encounter03510_RHA_MarksmanTrial030_cover</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_MarksmanTrial030_lane_split</defName>
+    <label>Break the crossfire</label>
+    <description>Threat: A suppressor protects a shooter that fires into a locked lane. Answer: Interrupt suppression with actual damage or control, kill the suppressor, or use cover. Reward: The shooter loses protection and its current charge, taking 25% more damage for 8 seconds. Cost: Ignoring suppression retains up to 20% shooter defense and safe fire.
+Arrangement: Linked peers; forward lock lanes. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. One boss and two finite guards, no reinforcements or resurrection.</description>
+    <family>marksman</family>
+    <mechanism>twinLink</mechanism>
+    <arena>splitCourt-v1</arena>
+    <chargedBarrage>false</chargedBarrage>
+    <targetTrack>RHA_STAR_Path_Marksman</targetTrack>
+    <targetNode>lane_split</targetNode>
+    <targetStage>5</targetStage>
+    <seconds>420</seconds>
+    <tactic>RHA_Tactics_MarksmanTrial030_lane_split</tactic>
+    <encounter>RHA_Encounter03510_RHA_MarksmanTrial030_lane_split</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_MarksmanTrial030_lane_cover</defName>
+    <label>Cover the opening</label>
+    <description>Threat: A suppressor protects a shooter that fires into a locked lane. Answer: Interrupt suppression with actual damage or control, kill the suppressor, or use cover. Reward: The shooter loses protection and its current charge, taking 25% more damage for 8 seconds. Cost: Ignoring suppression retains up to 20% shooter defense and safe fire.
+Arrangement: Moving support; left lock lanes. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. One boss and two finite guards, no reinforcements or resurrection.</description>
+    <family>marksman</family>
+    <mechanism>escort</mechanism>
+    <arena>crossroads-v1</arena>
+    <chargedBarrage>false</chargedBarrage>
+    <targetTrack>RHA_STAR_Path_Marksman</targetTrack>
+    <targetNode>lane_cover</targetNode>
+    <targetStage>5</targetStage>
+    <seconds>420</seconds>
+    <tactic>RHA_Tactics_MarksmanTrial030_lane_cover</tactic>
+    <encounter>RHA_Encounter03510_RHA_MarksmanTrial030_lane_cover</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_MarksmanTrial030_interrupt_chain</defName>
+    <label>Break the reply</label>
+    <description>Threat: A suppressor protects a shooter that fires into a locked lane. Answer: Interrupt suppression with actual damage or control, kill the suppressor, or use cover. Reward: The shooter loses protection and its current charge, taking 25% more damage for 8 seconds. Cost: Ignoring suppression retains up to 20% shooter defense and safe fire.
+Arrangement: Linked peers; forward lock lanes. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. One boss and two finite guards, no reinforcements or resurrection.</description>
+    <family>marksman</family>
+    <mechanism>twinLink</mechanism>
+    <arena>ring-v1</arena>
+    <chargedBarrage>false</chargedBarrage>
+    <targetTrack>RHA_STAR_Path_Marksman</targetTrack>
+    <targetNode>interrupt_chain</targetNode>
+    <targetStage>5</targetStage>
+    <seconds>420</seconds>
+    <tactic>RHA_Tactics_MarksmanTrial030_interrupt_chain</tactic>
+    <encounter>RHA_Encounter03510_RHA_MarksmanTrial030_interrupt_chain</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_MarksmanTrial030_interrupt_guard</defName>
+    <label>Hold your shot</label>
+    <description>Threat: A suppressor protects a shooter that fires into a locked lane. Answer: Interrupt suppression with actual damage or control, kill the suppressor, or use cover. Reward: The shooter loses protection and its current charge, taking 25% more damage for 8 seconds. Cost: Ignoring suppression retains up to 20% shooter defense and safe fire.
+Arrangement: Ordered strikes; left lock lanes. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. One boss and two finite guards, no reinforcements or resurrection.</description>
+    <family>marksman</family>
+    <mechanism>cadence</mechanism>
+    <arena>bastion-v1</arena>
+    <chargedBarrage>false</chargedBarrage>
+    <targetTrack>RHA_STAR_Path_Marksman</targetTrack>
+    <targetNode>interrupt_guard</targetNode>
+    <targetStage>5</targetStage>
+    <seconds>420</seconds>
+    <tactic>RHA_Tactics_MarksmanTrial030_interrupt_guard</tactic>
+    <encounter>RHA_Encounter03510_RHA_MarksmanTrial030_interrupt_guard</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_MarksmanTrial030_return_follow</defName>
+    <label>Find the next angle</label>
+    <description>Threat: A suppressor protects a shooter that fires into a locked lane. Answer: Interrupt suppression with actual damage or control, kill the suppressor, or use cover. Reward: The shooter loses protection and its current charge, taking 25% more damage for 8 seconds. Cost: Ignoring suppression retains up to 20% shooter defense and safe fire.
+Arrangement: Baited pursuit; forward lock lanes. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. One boss and two finite guards, no reinforcements or resurrection.</description>
+    <family>marksman</family>
+    <mechanism>pursuit</mechanism>
+    <arena>splitCourt-v1</arena>
+    <chargedBarrage>false</chargedBarrage>
+    <targetTrack>RHA_STAR_Path_Marksman</targetTrack>
+    <targetNode>return_follow</targetNode>
+    <targetStage>5</targetStage>
+    <seconds>420</seconds>
+    <tactic>RHA_Tactics_MarksmanTrial030_return_follow</tactic>
+    <encounter>RHA_Encounter03510_RHA_MarksmanTrial030_return_follow</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_MarksmanTrial030_return_share</defName>
+    <label>Keep them fighting</label>
+    <description>Threat: A suppressor protects a shooter that fires into a locked lane. Answer: Interrupt suppression with actual damage or control, kill the suppressor, or use cover. Reward: The shooter loses protection and its current charge, taking 25% more damage for 8 seconds. Cost: Ignoring suppression retains up to 20% shooter defense and safe fire.
+Arrangement: Protected target; left lock lanes. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. One boss and two finite guards, no reinforcements or resurrection.</description>
+    <family>marksman</family>
+    <mechanism>bodyguard</mechanism>
+    <arena>crossroads-v1</arena>
+    <chargedBarrage>false</chargedBarrage>
+    <targetTrack>RHA_STAR_Path_Marksman</targetTrack>
+    <targetNode>return_share</targetNode>
+    <targetStage>5</targetStage>
+    <seconds>420</seconds>
+    <tactic>RHA_Tactics_MarksmanTrial030_return_share</tactic>
+    <encounter>RHA_Encounter03510_RHA_MarksmanTrial030_return_share</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_MarksmanTrial030_cover_close</defName>
+    <label>Close the firing gap</label>
+    <description>Threat: A suppressor protects a shooter that fires into a locked lane. Answer: Interrupt suppression with actual damage or control, kill the suppressor, or use cover. Reward: The shooter loses protection and its current charge, taking 25% more damage for 8 seconds. Cost: Ignoring suppression retains up to 20% shooter defense and safe fire.
+Arrangement: Protected target; forward lock lanes. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. One boss and two finite guards, no reinforcements or resurrection.</description>
+    <family>marksman</family>
+    <mechanism>bodyguard</mechanism>
+    <arena>splitCourt-v1</arena>
+    <chargedBarrage>false</chargedBarrage>
+    <targetTrack>RHA_STAR_Path_Marksman</targetTrack>
+    <targetNode>cover_close</targetNode>
+    <targetStage>5</targetStage>
+    <seconds>420</seconds>
+    <tactic>RHA_Tactics_MarksmanTrial030_cover_close</tactic>
+    <encounter>RHA_Encounter03510_RHA_MarksmanTrial030_cover_close</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_MarksmanTrial030_cover_shift</defName>
+    <label>Cover the crossing</label>
+    <description>Threat: A suppressor protects a shooter that fires into a locked lane. Answer: Interrupt suppression with actual damage or control, kill the suppressor, or use cover. Reward: The shooter loses protection and its current charge, taking 25% more damage for 8 seconds. Cost: Ignoring suppression retains up to 20% shooter defense and safe fire.
+Arrangement: Moving support; left lock lanes. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. One boss and two finite guards, no reinforcements or resurrection.</description>
+    <family>marksman</family>
+    <mechanism>escort</mechanism>
+    <arena>ring-v1</arena>
+    <chargedBarrage>false</chargedBarrage>
+    <targetTrack>RHA_STAR_Path_Marksman</targetTrack>
+    <targetNode>cover_shift</targetNode>
+    <targetStage>5</targetStage>
+    <seconds>420</seconds>
+    <tactic>RHA_Tactics_MarksmanTrial030_cover_shift</tactic>
+    <encounter>RHA_Encounter03510_RHA_MarksmanTrial030_cover_shift</encounter>
+  </RimHex.HexStarChallengeDef030>
+</Defs>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_StarNursery030_Absorbed>护苗薄膜抵挡了 {0} 点伤害。</RHA_StarNursery030_Absorbed>
+  <RHA_StarNursery030_Repaired>返青修复了作物 {0} 点耐久。</RHA_StarNursery030_Repaired>
+  <RHA_StarNursery030_Care>护理作物</RHA_StarNursery030_Care>
+  <RHA_StarNursery030_CareHelp>{0} 花费2秒护理这株作物，修复最多 {1} 点耐久。工作中断不消耗护理记录。播种新苗会替换旧薄膜和未用的护理记录。</RHA_StarNursery030_CareHelp>
+  <RHA_StarNursery030_CareReady>返青：{0} 可以护理这株作物。</RHA_StarNursery030_CareReady>
+  <RHA_StarNursery030_Protected>护苗：抵挡一次伤害，最多 {0} 点。播种者：{1}。</RHA_StarNursery030_Protected>
+  <RHA_StarNursery030_NoRepair>薄膜已耗尽，作物完好，无需护理。播种者：{0}。</RHA_StarNursery030_NoRepair>
+  <RHA_StarNursery030_WindbreakHelp>挡风：护理作物 {0} 格内生效，仅抵挡首次敌对伤害，不能作为护盾燃料消耗。{1}</RHA_StarNursery030_WindbreakHelp>
+  <RHA_StarNursery030_Active>位于范围内，保护生效。</RHA_StarNursery030_Active>
+  <RHA_StarNursery030_Inactive>暂未生效：已离开范围或来源不可用。</RHA_StarNursery030_Inactive>
+  <RHA_StarNursery030_ShelteredRepair>避风畦为另一株作物修复了 {0} 点耐久。</RHA_StarNursery030_ShelteredRepair>
+  <RHA_StarNursery030_ShelterReady>避风畦：已储存一份记录。有效护理时，可为基地地图内 2 格内最近的另一株受损播种作物修复最多 2 点耐久；没有合格第二株则保留记录。</RHA_StarNursery030_ShelterReady>
+  <RHA_StarNursery030_WatchReady>留守：护理后半天内，{0}在此株 4 格内用其他来源的护盾吸收敌伤，可补回一次薄膜。</RHA_StarNursery030_WatchReady>
+  <RHA_StarNursery030_Transfer>转护新苗</RHA_StarNursery030_Transfer>
+  <RHA_StarNursery030_TransferHelp>{0}可把这次尚未消耗的薄膜转给基地地图内8格范围另一株生长度不超过10%的播种幼苗。保留原强度与到期时间，原株保护结束；此选项在取得资格的护理完成1小时后失效。</RHA_StarNursery030_TransferHelp>
+  <RHA_StarNursery030_NoSeedling>附近没有合格幼苗。</RHA_StarNursery030_NoSeedling>
+  <RHA_StarNursery030_Water>改为接水</RHA_StarNursery030_Water>
+  <RHA_StarNursery030_WaterHelp>{0}工作2秒，消费本次护理机会但不修复原株。保留一份1小时有效的水分，下次在此地图完成播种时增加2%生长；工作中断不消耗记录。</RHA_StarNursery030_WaterHelp>
+  <RHA_StarNursery030_Return>回灌原株</RHA_StarNursery030_Return>
+  <RHA_StarNursery030_ReturnHelp>{0}工作2秒，为这株原作物修复最多4点耐久。须在水分用于播种后1小时内完成；中断保留记录，成功修复不再产生水分。</RHA_StarNursery030_ReturnHelp>
+  <RHA_StarNursery030_ReturnRepair>回灌修复了植物的{0}点耐久。</RHA_StarNursery030_ReturnRepair>
+  <RHA_StarNursery030_ReturnReady>回灌：{0}可在水分用于播种后1小时内修复这株原作物。</RHA_StarNursery030_ReturnReady>
+  <RHA_StarNursery030_WaterHeld>接水：{0}保留了一份水分，供此地图下次成功播种使用；从接水完成起1小时内有效。</RHA_StarNursery030_WaterHeld>
+</LanguageData>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_STAR_Relic_Infinity.nodes.0.label>无尽承袭</RHA_STAR_Relic_Infinity.nodes.0.label>
+  <RHA_STAR_Relic_Infinity.nodes.0.description>保留无尽棱镜原有的暴击值、直接伤害与溢出暴击倍率。后续节点只认可实际伤敌的普通暴击，技能和追加伤害不能攒刃或计数。</RHA_STAR_Relic_Infinity.nodes.0.description>
+  <RHA_STAR_Relic_Infinity.nodes.1.label>攒刃待发</RHA_STAR_Relic_Infinity.nodes.1.label>
+  <RHA_STAR_Relic_Infinity.nodes.1.description>普通暴击实际伤敌时储存一份锋芒，持续5秒，最多一份，生成冷却8秒。本人之后普通命中敌人时消耗锋芒，追加75点基础伤害；可以转火，但生成锋芒的攻击不会立即兑现。 基础收益：伤害 75。</RHA_STAR_Relic_Infinity.nodes.1.description>
+  <RHA_STAR_Relic_Infinity.nodes.2.label>碎锋转击</RHA_STAR_Relic_Infinity.nodes.2.label>
+  <RHA_STAR_Relic_Infinity.nodes.2.description>连续普通暴击命中两名不同敌人，相邻计入暴击不超过4秒，对第二个受击点3格内视线畅通的至多两名其他敌人各造成50点基础伤害，冷却8秒。重复目标不计数，也不延长窗口；没有额外目标时不重复打击原目标。 基础收益：伤害 50。</RHA_STAR_Relic_Infinity.nodes.2.description>
+  <RHA_STAR_Relic_Infinity.nodes.3.label>锋芒分棱</RHA_STAR_Relic_Infinity.nodes.3.label>
+  <RHA_STAR_Relic_Infinity.nodes.3.description>攒刃待发的追加伤害实际命中后，对受击点3格内视线畅通的另一名敌人造成25点基础伤害，冷却8秒。只有一个敌人时不重复打击。 基础收益：伤害 25。</RHA_STAR_Relic_Infinity.nodes.3.description>
+  <RHA_STAR_Relic_Infinity.nodes.4.label>锋口回息</RHA_STAR_Relic_Infinity.nodes.4.label>
+  <RHA_STAR_Relic_Infinity.nodes.4.description>攒刃待发的追加伤害实际命中后，治疗本人20点基础可恢复伤势，冷却8秒。满血、缺失部位与永久伤疤没有额外收益。 基础收益：治疗 20。</RHA_STAR_Relic_Infinity.nodes.4.description>
+  <RHA_STAR_Relic_Infinity.nodes.5.label>碎光护体</RHA_STAR_Relic_Infinity.nodes.5.label>
+  <RHA_STAR_Relic_Infinity.nodes.5.description>碎锋转击的溅射实际伤敌后，为本人提供50点基础护盾，持续3秒，冷却8秒。同次溅射的多个目标不重复授盾。 基础收益：护盾 50。</RHA_STAR_Relic_Infinity.nodes.5.description>
+  <RHA_STAR_Relic_Infinity.nodes.6.label>余棱回爆</RHA_STAR_Relic_Infinity.nodes.6.label>
+  <RHA_STAR_Relic_Infinity.nodes.6.description>碎锋转击的溅射实际伤敌后，在首个溅射受击格留下延迟0.75秒的碎棱爆发，对该格2格内视线畅通的至多两名敌人各造成25点基础伤害，冷却8秒。位置固定，不追踪离开的敌人。 基础收益：伤害 25。</RHA_STAR_Relic_Infinity.nodes.6.description>
+</LanguageData>

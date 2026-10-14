@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RHA_StarPursuit030_Ready>猎手逼近，留意它的朝向。</RHA_StarPursuit030_Ready>
+  <RHA_StarPursuit030_Windup>冲锋路线已锁定 · {0} 秒后出击，横移躲开！</RHA_StarPursuit030_Windup>
+  <RHA_StarPursuit030_Dash>正在冲锋，避开路线！</RHA_StarPursuit030_Dash>
+  <RHA_StarPursuit030_Recover>猎手失衡 · 剩余 {0} 秒，反击！</RHA_StarPursuit030_Recover>
+  <RHA_StarPursuit030_Personal>本人伤害：{0}/{1} · 贡献：{2}/12</RHA_StarPursuit030_Personal>
+  <RHA_StarPursuit030_Brief>猎手始终可以受伤。冲锋前锁定路线，预警 1.5 秒；向侧面移动或利用掩体躲开。冲空或撞上障碍后失衡 4 秒，命中后停顿 1.5 秒，期间受到的伤害增加 35%。已有控制技能也可打断冲锋。本人或召唤物对猎手造成相当于其核心部位生命值 20% 的伤害，或通过自己的护盾与治疗取得 12 点本场支援贡献后，再击败猎手。队友可以协助和补刀，试炼不会赠送技能。</RHA_StarPursuit030_Brief>
+</LanguageData>

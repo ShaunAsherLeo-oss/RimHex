@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RHA_Equipment037_Tab>Equipment cards · {0}</RHA_Equipment037_Tab>
+  <RHA_Equipment037_Scope>Personal equipment card</RHA_Equipment037_Scope>
+  <RHA_Equipment037_Exchange>Exchange a draw · 200 / 1 / 1</RHA_Equipment037_Exchange>
+  <RHA_Equipment037_Wallet>Shards {0} · Cores {1} · Marks {2}</RHA_Equipment037_Wallet>
+  <RHA_Equipment037_Round>Equipment cards · choose one for a colonist</RHA_Equipment037_Round>
+  <RHA_Equipment037_Requires>Activates while wearing {0}.</RHA_Equipment037_Requires>
+  <RHA_Equipment037_Active>Active · wearing {0}.</RHA_Equipment037_Active>
+  <RHA_Equipment037_Dormant>Owned, dormant · requires {0}.</RHA_Equipment037_Dormant>
+  <RHA_Equipment037_AfterClaim>Activates on claim · wearing {0}.</RHA_Equipment037_AfterClaim>
+  <RHA_Equipment037_Personal>The card stays with its colonist. Only actual matching equipment activates it; inventory items do not count.</RHA_Equipment037_Personal>
+  <RHA_Equipment037_ColdAwait>Awaiting retaliation</RHA_Equipment037_ColdAwait>
+  <RHA_Equipment037_ColdReturn>Return {0}</RHA_Equipment037_ColdReturn>
+  <RHA_Equipment037_ThornAttack>First attack pending</RHA_Equipment037_ThornAttack>
+  <RHA_Equipment037_ThornReckoning>Other ally injury pending</RHA_Equipment037_ThornReckoning>
+  <RHA_Equipment037_MoonEnsemble>Next effective attack</RHA_Equipment037_MoonEnsemble>
+  <RHA_Equipment037_MoonDelay>Delayed repair</RHA_Equipment037_MoonDelay>
+  <RHA_Equipment037_MoonAwait>Awaiting injury</RHA_Equipment037_MoonAwait>
+  <RHA_Equipment037_TalismanDebt>Owed {0} · {1} payments</RHA_Equipment037_TalismanDebt>
+  <RHA_Equipment037_BloodReserve>Stored {0} / {1}</RHA_Equipment037_BloodReserve>
+  <RHA_Equipment037_BloodPressure>Recoil {0}</RHA_Equipment037_BloodPressure>
+</LanguageData>

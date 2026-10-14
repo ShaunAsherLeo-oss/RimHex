@@ -1,0 +1,170 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Defs>
+  <ApparelLayerDef>
+    <defName>RHA_038_FulminationLayer</defName>
+    <label>Fulmination</label>
+    <drawOrder>601</drawOrder>
+  </ApparelLayerDef>
+  <ThingDef ParentName="RHA_RelicBase">
+    <defName>RHA_038_Fulmination</defName>
+    <label>Fulmination</label>
+    <description>Direct damage +45%; melee and ranged cooldown divisors +0.45; move speed +15%. A positive direct hostile hit against a different target than the last discharge readies 100 charge; repeated-target hits add 25, up to 100. At full charge, release 20 + 6 times the target native HealthScale times its remaining health fraction as additional damage, capped at 250, then consume the charge. Discharge cooldown: 2 seconds, affected by item haste. Secondary damage does not charge it. Removing the item clears charge and last target, retaining cooldown.</description>
+    <graphicData>
+      <texPath>RimHex/Relics038/Fulmination038</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <apparel>
+      <layers>
+        <li>RHA_038_FulminationLayer</li>
+      </layers>
+    </apparel>
+    <comps>
+      <li Class="RimHex.CompProperties_Prismatic">
+        <power>Fulmination038</power>
+        <visualStyle>Storm</visualStyle>
+        <visualColor>(0.55,0.78,1.00)</visualColor>
+        <mechanics>
+          <li>
+            <key>damage</key>
+            <amount>0.45</amount>
+          </li>
+        </mechanics>
+        <stats>
+          <li>
+            <stat>MoveSpeed</stat>
+            <bonus>0.15</bonus>
+            <inverse>false</inverse>
+            <offset>0</offset>
+          </li>
+          <li>
+            <stat>MeleeCooldownFactor</stat>
+            <bonus>0.45</bonus>
+            <inverse>true</inverse>
+            <offset>0</offset>
+          </li>
+          <li>
+            <stat>RangedCooldownFactor</stat>
+            <bonus>0.45</bonus>
+            <inverse>true</inverse>
+            <offset>0</offset>
+          </li>
+        </stats>
+      </li>
+    </comps>
+  </ThingDef>
+  <ApparelLayerDef>
+    <defName>RHA_038_QuicksilverLayer</defName>
+    <label>Quicksilver Sash</label>
+    <drawOrder>602</drawOrder>
+  </ApparelLayerDef>
+  <ThingDef ParentName="RHA_RelicBase">
+    <defName>RHA_038_Quicksilver</defName>
+    <label>Quicksilver Sash</label>
+    <description>Adds 0.35 to the damage-taken divisor. Activate to cleanse current harmful health conditions, including wounds, disease, poison, bleeding, medical sedation and negative timed effects, and end native stun and mental states. Can be used while downed. Preserves missing limbs and organs, installed parts/implants and beneficial effects. Does not prevent new exposure. Only spends its 20-second item-haste-affected cooldown when an abnormal state is actually cleared. Removal keeps earned cooldown.</description>
+    <graphicData>
+      <texPath>RimHex/Relics038/Quicksilver038</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <apparel>
+      <layers>
+        <li>RHA_038_QuicksilverLayer</li>
+      </layers>
+    </apparel>
+    <comps>
+      <li Class="RimHex.CompProperties_Prismatic">
+        <power>Quicksilver038</power>
+        <visualStyle>Arcane</visualStyle>
+        <visualColor>(0.55,0.88,1.00)</visualColor>
+        <active>Quicksilver038</active>
+        <mechanics>
+          <li>
+            <key>defense</key>
+            <amount>0.35</amount>
+          </li>
+        </mechanics>
+      </li>
+    </comps>
+  </ThingDef>
+  <ApparelLayerDef>
+    <defName>RHA_038_KnightsVowLayer</defName>
+    <label>Knight's Vow</label>
+    <drawOrder>603</drawOrder>
+  </ApparelLayerDef>
+  <ThingDef ParentName="RHA_RelicBase">
+    <defName>RHA_038_KnightsVow</defName>
+    <label>Knight's Vow</label>
+    <description>Health multiplier +20%; damage-taken divisor +0.4; skill haste +10%; injury regeneration +0.25. Pledge to one other friendly colonist within 12 cells. While standing, awake and above 30% health, take 14% of their hostile direct incoming damage, up to 75 per hit. Their damage is reduced only by the actual injury or barrier you pay. Their resolved hostile damage repairs your injuries by 12%, up to 20 per event. Each ally has one valid protector. Distance suspends the pledge; removal, death or map departure ends it. Reassign cooldown: 10 seconds, affected by item haste. Earned cooldown remains.</description>
+    <graphicData>
+      <texPath>RimHex/Relics/RefDivineSword</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <apparel>
+      <layers>
+        <li>RHA_038_KnightsVowLayer</li>
+      </layers>
+    </apparel>
+    <comps>
+      <li Class="RimHex.CompProperties_Prismatic">
+        <power>KnightsVow038</power>
+        <active>KnightsVow038</active>
+        <visualStyle>Arcane</visualStyle>
+        <visualColor>(0.45,0.85,1)</visualColor>
+        <mechanics>
+          <li>
+            <key>health</key>
+            <amount>.2</amount>
+          </li>
+          <li>
+            <key>defense</key>
+            <amount>.4</amount>
+          </li>
+          <li>
+            <key>skillHaste013</key>
+            <amount>.1</amount>
+          </li>
+          <li>
+            <key>regen</key>
+            <amount>.25</amount>
+          </li>
+        </mechanics>
+      </li>
+    </comps>
+  </ThingDef>
+  <ApparelLayerDef>
+    <defName>RHA_038_ZhonyaLayer</defName>
+    <label>Zhonya's Hourglass</label>
+    <drawOrder>604</drawOrder>
+  </ApparelLayerDef>
+  <ThingDef ParentName="RHA_RelicBase">
+    <defName>RHA_038_Zhonya</defName>
+    <label>Zhonya's Hourglass</label>
+    <description>Additional damage +45%; damage-taken divisor +0.5. Activate to enter stasis for 2.5 seconds: block health-damaging hits and stop movement, attacks, casting and other relic actions. Ordinary enemy targeting ignores an active stasis wearer. Quicksilver cannot cancel stasis. Cooldown: 30 seconds, affected by item haste; stasis duration is fixed. Removal, death or map departure cancels stasis without specialization exit rewards and retains earned cooldown. Existing native stuns keep their own duration.</description>
+    <graphicData>
+      <texPath>RimHex/Relics/RefAscension</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <apparel>
+      <layers>
+        <li>RHA_038_ZhonyaLayer</li>
+      </layers>
+    </apparel>
+    <comps>
+      <li Class="RimHex.CompProperties_Prismatic">
+        <power>Zhonya038</power>
+        <active>Zhonya038</active>
+        <visualStyle>Arcane</visualStyle>
+        <visualColor>(0.9,0.76,0.28)</visualColor>
+        <mechanics>
+          <li>
+            <key>zhonya038Proc</key>
+            <amount>.45</amount>
+          </li>
+          <li>
+            <key>defense</key>
+            <amount>.5</amount>
+          </li>
+        </mechanics>
+      </li>
+    </comps>
+  </ThingDef>
+</Defs>

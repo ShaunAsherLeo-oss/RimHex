@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_STAR_Path_Spirit.nodes.0.label>守魂</RHA_STAR_Path_Spirit.nodes.0.label>
+  <RHA_STAR_Path_Spirit.nodes.0.description>沿用已选灵魂进化。精进：击杀治疗量与每三次命中的灵魂追加伤害。 精进初始 ×1，终值：伤害 ×50；治疗 ×10。</RHA_STAR_Path_Spirit.nodes.0.description>
+  <RHA_STAR_Path_Spirit.nodes.1.label>凝念</RHA_STAR_Path_Spirit.nodes.1.label>
+  <RHA_STAR_Path_Spirit.nodes.1.description>4秒内对同一敌人累计2次普通命中，留下4秒凝念，最多保留1名目标，间隔3秒。换目标或相邻命中间隔达到4秒重新计数；战技和追加伤害不累计。精进：标记持续时间。 精进初始 ×1，终值：标记时长 ×1.5。</RHA_STAR_Path_Spirit.nodes.1.description>
+  <RHA_STAR_Path_Spirit.nodes.2.label>余响</RHA_STAR_Path_Spirit.nodes.2.label>
+  <RHA_STAR_Path_Spirit.nodes.2.description>灵魂战技实际命中敌人时留下4秒余响，最多保留1名目标，间隔3秒。间隔内的后续脉冲和其他命中不刷新或转移标记；其他战技、普通命中和追加伤害不触发。精进：标记持续时间。 精进初始 ×1，终值：标记时长 ×1.5。</RHA_STAR_Path_Spirit.nodes.2.description>
+  <RHA_STAR_Path_Spirit.nodes.3.label>裂魂</RHA_STAR_Path_Spirit.nodes.3.label>
+  <RHA_STAR_Path_Spirit.nodes.3.description>灵魂战技命中带凝念的敌人时消耗标记，追加75点伤害，每名目标间隔1秒。没有新凝念时，后续脉冲不再追加。精进：追加伤害。 基础收益：伤害 75。 精进初始 ×1，终值：伤害 ×50。</RHA_STAR_Path_Spirit.nodes.3.description>
+  <RHA_STAR_Path_Spirit.nodes.4.label>缚念</RHA_STAR_Path_Spirit.nodes.4.label>
+  <RHA_STAR_Path_Spirit.nodes.4.description>普通命中消耗已有凝念，在受击位置留下4秒定魂点。后续灵魂战技实际命中点位2格内的敌人，给予本人50点独立护盾，持续3秒，每点仅一次。定魂点待触发期间及获盾后3秒内不能放置新点；点位不跟随敌人。精进：护盾量。 基础收益：护盾 50。 精进初始 ×1，终值：护盾 ×20。</RHA_STAR_Path_Spirit.nodes.4.description>
+  <RHA_STAR_Path_Spirit.nodes.5.label>牵魂</RHA_STAR_Path_Spirit.nodes.5.label>
+  <RHA_STAR_Path_Spirit.nodes.5.description>普通命中带余响的敌人时，消耗标记，对其4格内最近的另一名敌人追加50点伤害。没有第二名敌人时保留标记，但不延长有效期；战技和追加伤害不触发。精进：追加伤害。 基础收益：伤害 50。 精进初始 ×1，终值：伤害 ×50。</RHA_STAR_Path_Spirit.nodes.5.description>
+  <RHA_STAR_Path_Spirit.nodes.6.label>渡魂</RHA_STAR_Path_Spirit.nodes.6.label>
+  <RHA_STAR_Path_Spirit.nodes.6.description>普通命中带余响的敌人时消耗标记，治疗本人4格内普通伤势最重的另一名殖民者，恢复最多20点伤势。不治疗永久伤疤；没有可治队友时保留标记，但不延长有效期。精进：治疗量。 基础收益：治疗 20。 精进初始 ×1，终值：治疗 ×10。</RHA_STAR_Path_Spirit.nodes.6.description>
+  <RHA_STAR_Path_Spirit.nodes.7.label>裂响</RHA_STAR_Path_Spirit.nodes.7.label>
+  <RHA_STAR_Path_Spirit.nodes.7.description>裂魂造成实际伤害后留下4秒裂响。普通命中另一敌人时，在原受击位置2格内对最多2名敌人各造成50点伤害，排除本次转火目标，每次裂响仅一次。空范围保留机会但不续期，位置不随敌人移动。精进：追加伤害。 基础收益：伤害 50。 精进初始 ×1，终值：伤害 ×50。</RHA_STAR_Path_Spirit.nodes.7.description>
+  <RHA_STAR_Path_Spirit.nodes.8.label>归阵</RHA_STAR_Path_Spirit.nodes.8.label>
+  <RHA_STAR_Path_Spirit.nodes.8.description>缚念盾首次实际吸收敌伤后，4秒内步行至少1格，回到定魂点1格内并普通命中该攻击者，治疗本人最多20点普通伤势，每轮护盾一次。瞬移取消，永久伤疤不治疗；没有普通伤势时保留机会但不延时。精进：治疗量。 基础收益：治疗 20。 精进初始 ×1，终值：治疗 ×10。</RHA_STAR_Path_Spirit.nodes.8.description>
+  <RHA_STAR_Path_Spirit.nodes.9.label>合鸣</RHA_STAR_Path_Spirit.nodes.9.label>
+  <RHA_STAR_Path_Spirit.nodes.9.description>牵魂实际造成伤害后，在受击者身上留下4秒接应。另一名殖民者普通命中它时，获得50点独立护盾，持续3秒，每轮仅首位队友领取。等待接应期间及获盾后3秒内不重置目标；本人、战技和追加伤害不能领取。精进：护盾量。 基础收益：护盾 50。 精进初始 ×1，终值：护盾 ×20。</RHA_STAR_Path_Spirit.nodes.9.description>
+  <RHA_STAR_Path_Spirit.nodes.10.label>回渡</RHA_STAR_Path_Spirit.nodes.10.label>
+  <RHA_STAR_Path_Spirit.nodes.10.description>渡魂实际治疗后记住患者4秒。灵魂战技命中不同于渡魂触发者的敌人时，为4格内的原患者提供50点独立护盾，持续3秒，每轮一次。后续脉冲不补盾；获盾后3秒内不重置该轮回渡。精进：护盾量。 基础收益：护盾 50。 精进初始 ×1，终值：护盾 ×20。</RHA_STAR_Path_Spirit.nodes.10.description>
+  <RHA_STAR_Path_Spirit.nodes.11.label>散魂</RHA_STAR_Path_Spirit.nodes.11.label>
+  <RHA_STAR_Path_Spirit.nodes.11.description>裂响首次造成实际伤害后3秒内，灵魂战技命中不同于该次裂响首名受击者的敌人，向新目标3格内最多2名其他敌人各追加25点伤害，每轮一次。没有其他目标时保留机会但不延时；魂矢不再派生魂矢。精进：追加伤害。 基础收益：伤害 25。 精进初始 ×1，终值：伤害 ×50。</RHA_STAR_Path_Spirit.nodes.11.description>
+  <RHA_STAR_Path_Spirit.nodes.12.label>余烬藏身</RHA_STAR_Path_Spirit.nodes.12.label>
+  <RHA_STAR_Path_Spirit.nodes.12.description>裂响首次造成实际伤害后3秒内，步行至少1格，抵达原余波位置1格内再普通命中敌人，获得50点独立护盾，持续3秒，每轮一次。瞬移取消，后续命中不补盾或延时。精进：护盾量。 基础收益：护盾 50。 精进初始 ×1，终值：护盾 ×20。</RHA_STAR_Path_Spirit.nodes.12.description>
+  <RHA_STAR_Path_Spirit.nodes.13.label>出阵</RHA_STAR_Path_Spirit.nodes.13.label>
+  <RHA_STAR_Path_Spirit.nodes.13.description>归阵实际治疗后3秒内，再步行至少1格，离开定魂点1格范围并普通命中另一敌人，追加50点伤害，每轮一次。站桩、瞬移、技能和追加伤害不能领取。精进：追加伤害。 基础收益：伤害 50。 精进初始 ×1，终值：伤害 ×50。</RHA_STAR_Path_Spirit.nodes.13.description>
+  <RHA_STAR_Path_Spirit.nodes.14.label>安魂</RHA_STAR_Path_Spirit.nodes.14.label>
+  <RHA_STAR_Path_Spirit.nodes.14.description>归阵实际治疗后3秒内，普通命中另一敌人，为本人4格内普通伤势最重的另一名殖民者治疗最多20点，每轮一次。不治疗永久伤疤；无人可治时保留机会但不延时。精进：治疗量。 基础收益：治疗 20。 精进初始 ×1，终值：治疗 ×10。</RHA_STAR_Path_Spirit.nodes.14.description>
+  <RHA_STAR_Path_Spirit.nodes.15.label>应声</RHA_STAR_Path_Spirit.nodes.15.label>
+  <RHA_STAR_Path_Spirit.nodes.15.description>队友的合鸣盾首次实际吸收敌伤后3秒内，本人的灵魂战技命中该攻击者，追加2点魂矢伤害，每轮护盾一次。后续挡伤不更换反击目标或延时；普通命中和其他战技不能领取。精进：追加伤害。 基础收益：伤害 50。 精进初始 ×1，终值：伤害 ×50。</RHA_STAR_Path_Spirit.nodes.15.description>
+  <RHA_STAR_Path_Spirit.nodes.16.label>同声护持</RHA_STAR_Path_Spirit.nodes.16.label>
+  <RHA_STAR_Path_Spirit.nodes.16.description>队友的合鸣盾首次实际吸收敌伤后3秒内，步行至少1格靠近该队友，在其2格内普通命中敌人，获得50点独立护盾，持续3秒，每轮一次。瞬移取消；后续命中不补盾或延时，原队友离场不替换其他人。精进：护盾量。 基础收益：护盾 50。 精进初始 ×1，终值：护盾 ×20。</RHA_STAR_Path_Spirit.nodes.16.description>
+  <RHA_STAR_Path_Spirit.nodes.17.label>渡后追击</RHA_STAR_Path_Spirit.nodes.17.label>
+  <RHA_STAR_Path_Spirit.nodes.17.description>回渡护盾仍有效时，原患者普通命中触发回渡的敌人，追加2点魂矢伤害。每次回渡仅一次，伤害计入施盾者；其他队友和施盾者不能代领。精进：追加伤害。 基础收益：伤害 50。 精进初始 ×1，终值：伤害 ×50。</RHA_STAR_Path_Spirit.nodes.17.description>
+  <RHA_STAR_Path_Spirit.nodes.18.label>归途同行</RHA_STAR_Path_Spirit.nodes.18.label>
+  <RHA_STAR_Path_Spirit.nodes.18.description>回渡盾首次实际吸收敌伤后3秒内，步行至少1格靠近原患者，在其2格内普通命中另一敌人，治疗原患者最多20点普通伤势，每轮一次。瞬移取消；无普通伤势时保留机会但不延时，伤疤不治疗。精进：治疗量。 基础收益：治疗 20。 精进初始 ×1，终值：治疗 ×10。</RHA_STAR_Path_Spirit.nodes.18.description>
+</LanguageData>

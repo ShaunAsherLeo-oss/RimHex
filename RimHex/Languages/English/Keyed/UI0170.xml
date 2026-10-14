@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_UI17_ChoosePawn>Choose a colonist</RHA_UI17_ChoosePawn>
+  <RHA_UI17_SearchPawn>Search colonists by name</RHA_UI17_SearchPawn>
+  <RHA_UI17_Clear>Clear</RHA_UI17_Clear>
+  <RHA_UI17_Select>Select</RHA_UI17_Select>
+  <RHA_UI17_OffMap>Off map</RHA_UI17_OffMap>
+  <RHA_UI17_Compact>Compact view</RHA_UI17_Compact>
+  <RHA_UI17_Expanded>Full descriptions</RHA_UI17_Expanded>
+  <RHA_UI17_DescriptionHint>Compact view shows a summary. Hover for the full description.</RHA_UI17_DescriptionHint>
+</LanguageData>

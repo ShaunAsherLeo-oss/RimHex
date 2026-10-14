@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_StarConduit030_Ended>试炼已结束。</RHA_StarConduit030_Ended>
+  <RHA_StarConduit030_Open>核心破防 · 剩余 {0} 秒，集中火力！</RHA_StarConduit030_Open>
+  <RHA_StarConduit030_Broken>护卫已耗尽，核心持续暴露，集中火力！</RHA_StarConduit030_Broken>
+  <RHA_StarConduit030_Guards>击破护卫：剩余 {0} 名
+输出达标：{1}/{2} 名护卫</RHA_StarConduit030_Guards>
+  <RHA_StarConduit030_Contribution>申请者已造成伤害：{0}/{1}。击败这名护卫后计入参战。</RHA_StarConduit030_Contribution>
+  <RHA_StarConduit030_Rules>击败全部护卫，并完成本人贡献，核心便会暴露。一至三阶需要 12 点，四、五阶需要 24 点。申请者或其召唤物对护卫造成相当于核心部位生命值 20% 的伤害，击败后计 12 点；队友可以补刀。申请者提供的护盾每实际吸收 1 点本场敌伤，或亲自修复 1 点本场敌人造成且不超过 30 秒的伤势，计 1 点。两种途径可以混用，同一敌人合计最多计 12 点；旧伤、友伤、自伤和其他人已修复的伤势不计。错过破防期保留首领伤势和贡献，只补充少量护卫，最多两轮。最后一轮后，核心持续暴露。破防时首领失衡三秒，取消尚未落地的地面轰击与蓄力火线；已经飞出的弹丸仍有伤害。破防期间不发起新的地面轰击。一至三阶的轰击与蓄力火线轮流出现。贡献不足时逐名补充护卫，最多 12 次；仍未达标则试炼结束。红色预警落地前走出危险区域。</RHA_StarConduit030_Rules>
+  <RHA_StarTravel030_Contribution>申请者的个人贡献不足，协助者不能代为完成全部参战要求。</RHA_StarTravel030_Contribution>
+  <RHA_StarConduit030_Brief>护盾期间首领只发动有预警的地面轰击，破防后启用普通电炮。击破护卫，集火暴露的核心。本人须完成 {0} 份贡献：伤害达标并击败一名护卫，或用自己的护盾与治疗抵消 12 点本场敌伤，均可完成一份。两者可混用，同一敌人最多计一份。治疗仅计 30 秒内造成且尚未修复的本场敌伤。破防时首领失衡三秒，并取消尚未落地的机制攻击。破防期 {1} 秒，试炼限时 {2} 秒。错过窗口保留首领伤势和贡献；最多两轮增援，最后一轮后核心持续暴露。</RHA_StarConduit030_Brief>
+  <RHA_StarSupport030_Progress>本人贡献：{0}/{1}（每名敌人最多 {2}）</RHA_StarSupport030_Progress>
+  <RHA_StarConduit030_Stagger>护盾崩解 · 首领失衡 {0} 秒</RHA_StarConduit030_Stagger>
+  <RHA_StarConduit030_SealedFire>护盾期间躲避地面轰击；破防后首领启用电炮。</RHA_StarConduit030_SealedFire>
+</LanguageData>

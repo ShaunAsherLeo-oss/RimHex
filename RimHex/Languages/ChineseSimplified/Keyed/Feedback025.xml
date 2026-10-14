@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_V25_DeviceWarning>即将引爆 {0} 秒</RHA_V25_DeviceWarning>
+  <RHA_V25_DeviceArming>启动中 {0} 秒</RHA_V25_DeviceArming>
+  <RHA_V25_DeviceManual>未连线 · 仅手动</RHA_V25_DeviceManual>
+  <RHA_V25_DeviceLinked>绊索已连接</RHA_V25_DeviceLinked>
+  <RHA_V25_DeviceReady>已就绪</RHA_V25_DeviceReady>
+  <RHA_V25_DeviceLife>剩余 {0} 秒</RHA_V25_DeviceLife>
+  <RHA_V25_GuardRecovery>招架固定恢复：{0}</RHA_V25_GuardRecovery>
+  <RHA_V25_MineRecovery>部署固定恢复：{0}</RHA_V25_MineRecovery>
+  <RHA_V25_DeviceSummary>机关状态：启动中 {0}；预警 {1}；连线端点 {2}；仅手动 {3}。</RHA_V25_DeviceSummary>
+  <RHA_V25_RecoveryBadge>恢复 {0}</RHA_V25_RecoveryBadge>
+</LanguageData>

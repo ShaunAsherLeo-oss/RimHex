@@ -1,0 +1,165 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Defs>
+  <ApparelLayerDef>
+    <defName>RHA_TrialLayer_StormPike</defName>
+    <label>Storm King's spear</label>
+    <drawOrder>601</drawOrder>
+  </ApparelLayerDef>
+  <ThingDef ParentName="RHA_RelicBase">
+    <defName>RHA_TRIAL_StormPike</defName>
+    <label>Storm King's spear</label>
+    <description>Grants 100% damage against enemies and 3 chain levels. Every third valid direct hit creates a storm with a 4-cell radius at the target. Deals 120 + 50% of this hit's direct damage as additional damage to up to 8 standing enemies. Storm cooldown: 1 second. A reward from the Thunder dome trial. Copied damage uses its resolved value; flat bonus damage can still be amplified.</description>
+    <graphicData>
+      <texPath>RimHex/Relics/StormPike</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <apparel>
+      <layers>
+        <li>RHA_TrialLayer_StormPike</li>
+      </layers>
+    </apparel>
+    <comps>
+      <li Class="RimHex.CompProperties_Prismatic">
+        <power>StormPike</power>
+        <trialTheme>RHA_Trial_Storm</trialTheme>
+        <visualStyle>Lightning</visualStyle>
+        <visualColor>(0.4745,0.6627,0.7059)</visualColor>
+      </li>
+    </comps>
+  </ThingDef>
+  <ApparelLayerDef>
+    <defName>RHA_TrialLayer_StormAegis</defName>
+    <label>Stormwall</label>
+    <drawOrder>602</drawOrder>
+  </ApparelLayerDef>
+  <ThingDef ParentName="RHA_RelicBase">
+    <defName>RHA_TRIAL_StormAegis</defName>
+    <label>Stormwall</label>
+    <description>Grants 150% health and +0.6 damage-taken divisor. While a standing enemy is within 24 cells, grants a 120-point shield about every 5 seconds, lasting 6 seconds. When a shield absorbs damage, strikes up to 4 enemies within 10 cells for 80 + 30% of the amount absorbed as additional damage each. Discharge cooldown: 1 second. A reward from the Thunder dome trial. Copied damage uses its resolved value; flat bonus damage can still be amplified.</description>
+    <graphicData>
+      <texPath>RimHex/Relics/StormAegis</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <apparel>
+      <layers>
+        <li>RHA_TrialLayer_StormAegis</li>
+      </layers>
+    </apparel>
+    <comps>
+      <li Class="RimHex.CompProperties_Prismatic">
+        <power>StormAegis</power>
+        <trialTheme>RHA_Trial_Storm</trialTheme>
+        <visualStyle>Shield</visualStyle>
+        <visualColor>(0.4745,0.6627,0.7059)</visualColor>
+      </li>
+    </comps>
+  </ThingDef>
+  <ApparelLayerDef>
+    <defName>RHA_TrialLayer_FurnaceHammer</defName>
+    <label>Starfall maul</label>
+    <drawOrder>603</drawOrder>
+  </ApparelLayerDef>
+  <ThingDef ParentName="RHA_RelicBase">
+    <defName>RHA_TRIAL_FurnaceHammer</defName>
+    <label>Starfall maul</label>
+    <description>Grants 140% damage against enemies, 80% health and 2 burn levels. Every fourth valid direct hit strikes up to 10 standing enemies within 5 cells of the target for 100 + 25 × the wearer's current health multiplier as additional damage, and applies level 3 burn. Shockwave cooldown: 1.5 seconds. A reward from the Furnace depths trial.</description>
+    <graphicData>
+      <texPath>RimHex/Relics/FurnaceHammer</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <apparel>
+      <layers>
+        <li>RHA_TrialLayer_FurnaceHammer</li>
+      </layers>
+    </apparel>
+    <comps>
+      <li Class="RimHex.CompProperties_Prismatic">
+        <power>FurnaceHammer</power>
+        <trialTheme>RHA_Trial_Forge</trialTheme>
+        <visualStyle>Fire</visualStyle>
+        <visualColor>(0.7333,0.5412,0.3451)</visualColor>
+      </li>
+    </comps>
+  </ThingDef>
+  <ApparelLayerDef>
+    <defName>RHA_TrialLayer_FurnacePlate</defName>
+    <label>Furnace armor</label>
+    <drawOrder>604</drawOrder>
+  </ApparelLayerDef>
+  <ThingDef ParentName="RHA_RelicBase">
+    <defName>RHA_TRIAL_FurnacePlate</defName>
+    <label>Furnace armor</label>
+    <description>Grants 200% health and 3 ordinary injury points healed per second. After taking direct damage from an enemy, gains a shield of 200 + 10 × current health multiplier for 10 seconds. Cooldown: 3 seconds. This shield cannot absorb the hit that triggered it. A reward from the Furnace depths trial.</description>
+    <graphicData>
+      <texPath>RimHex/Relics/FurnacePlate</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <apparel>
+      <layers>
+        <li>RHA_TrialLayer_FurnacePlate</li>
+      </layers>
+    </apparel>
+    <comps>
+      <li Class="RimHex.CompProperties_Prismatic">
+        <power>FurnacePlate</power>
+        <trialTheme>RHA_Trial_Forge</trialTheme>
+        <visualStyle>Fire</visualStyle>
+        <visualColor>(0.7333,0.5412,0.3451)</visualColor>
+      </li>
+    </comps>
+  </ThingDef>
+  <ApparelLayerDef>
+    <defName>RHA_TrialLayer_SoulLantern</defName>
+    <label>Lantern of souls</label>
+    <drawOrder>605</drawOrder>
+  </ApparelLayerDef>
+  <ThingDef ParentName="RHA_RelicBase">
+    <defName>RHA_TRIAL_SoulLantern</defName>
+    <label>Lantern of souls</label>
+    <description>Grants 3 soul-harvesting levels and 2.5 ordinary injury points healed per second. Killing a standing enemy fires soul bolts from its position at up to 3 enemies within 12 cells. Each takes 60 + 3 × the wearer's soul marks as additional damage. Cooldown: 2 seconds. Soul bolts cannot trigger further soul bolts. A reward from the Hall of souls trial. Each permanent growth effect retains its full benefit through 100 points, then has diminishing returns.</description>
+    <graphicData>
+      <texPath>RimHex/Relics/SoulLantern</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <apparel>
+      <layers>
+        <li>RHA_TrialLayer_SoulLantern</li>
+      </layers>
+    </apparel>
+    <comps>
+      <li Class="RimHex.CompProperties_Prismatic">
+        <power>SoulLantern</power>
+        <trialTheme>RHA_Trial_Soul</trialTheme>
+        <visualStyle>Soul</visualStyle>
+        <visualColor>(0.5882,0.5647,0.6588)</visualColor>
+      </li>
+    </comps>
+  </ThingDef>
+  <ApparelLayerDef>
+    <defName>RHA_TrialLayer_SoulSeal</defName>
+    <label>Soulward seal</label>
+    <drawOrder>606</drawOrder>
+  </ApparelLayerDef>
+  <ThingDef ParentName="RHA_RelicBase">
+    <defName>RHA_TRIAL_SoulSeal</defName>
+    <label>Soulward seal</label>
+    <description>Grants 150% health and 3 ordinary injury points healed per second. After augments or relics heal 120 actual injury points, grants 180-point shields to up to 4 free colonists within 12 cells for 10 seconds. Cooldown: 2 seconds. Excess healing does not count. A reward from the Hall of souls trial.</description>
+    <graphicData>
+      <texPath>RimHex/Relics/SoulSeal</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <apparel>
+      <layers>
+        <li>RHA_TrialLayer_SoulSeal</li>
+      </layers>
+    </apparel>
+    <comps>
+      <li Class="RimHex.CompProperties_Prismatic">
+        <power>SoulSeal</power>
+        <trialTheme>RHA_Trial_Soul</trialTheme>
+        <visualStyle>Bloom</visualStyle>
+        <visualColor>(0.4431,0.5647,0.4745)</visualColor>
+      </li>
+    </comps>
+  </ThingDef>
+</Defs>

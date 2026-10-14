@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Defs>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_A22_overload</defName>
+    <label>Overloaded Flywheel</label>
+    <description>Requires Storm Flywheel. Spin damage falls from 3.5 to 2.2 per pulse. Wind-down becomes a 60-degree cone aimed at the chosen enemy, reaching 10 cells and hitting up to 8 enemies. Walls block damage. Each completed pulse adds 3 base damage to the finisher, for 8–80 damage. Trade sustained damage for a well-aimed burst. One active branch per core; switch in the build panel.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Engine branches</theme>
+    <weight>100</weight>
+    <maxStacks>1</maxStacks>
+    <iconPath>RimHex/Cards/RHA_A22_overload</iconPath>
+    <mechanics>
+      <li>
+        <key>overload022</key>
+        <amount>1</amount>
+      </li>
+    </mechanics>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_A22_guard</defName>
+    <label>Sheltering Vortex</label>
+    <description>Requires Storm Flywheel. Each pulse can transfer up to 2 of your shield to each of up to 3 friendly humanlike colonists within 4 cells and clear sight, topping them up to 12 shield for 3 seconds. Allies with stronger shields spend none of your shield. Transfers respect your shield reserve and require enough shield for every recipient. Spin damage falls from 3.5 to 1.5; wind-down damage is halved. Protecting allies spends the same shield that keeps the flywheel running. One active branch per core; switch in the build panel.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Engine branches</theme>
+    <weight>100</weight>
+    <maxStacks>1</maxStacks>
+    <iconPath>RimHex/Cards/RHA_A22_guard</iconPath>
+    <mechanics>
+      <li>
+        <key>guard022</key>
+        <amount>1</amount>
+      </li>
+    </mechanics>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_A22_shortmag</defName>
+    <label>Quickdraw Magazine</label>
+    <description>Requires Prismatic Magazine. Capacity falls from 5 rounds to 3. Regular bonus hits deal 4 instead of 6 base damage; the last round still deals 10. Walking 3 cells reloads one round, at most once per second. Passive reload slows to one round every 3 seconds; the initial delay after spending rounds remains 3 seconds. Reach last-round hits more often, but store less burst and reload more slowly while stationary. Movement abilities do not charge walking reloads. One active branch per core; switch in the build panel.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Engine branches</theme>
+    <weight>100</weight>
+    <maxStacks>1</maxStacks>
+    <iconPath>RimHex/Cards/RHA_A22_shortmag</iconPath>
+    <mechanics>
+      <li>
+        <key>shortmag022</key>
+        <amount>1</amount>
+      </li>
+    </mechanics>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_A22_pierce</defName>
+    <label>Piercing Chamber</label>
+    <description>Requires Prismatic Magazine. Empty the Magazine fires along a straight line toward the chosen enemy, reaching 28 cells and 1.2 cells to either side. Hit up to 6 enemies; walls stop the shot. Each round deals 5 base damage per enemy instead of 7. Basic shots are unchanged. Line up enemies to make the lower damage per target worthwhile. One active branch per core; switch in the build panel.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Engine branches</theme>
+    <weight>100</weight>
+    <maxStacks>1</maxStacks>
+    <iconPath>RimHex/Cards/RHA_A22_pierce</iconPath>
+    <mechanics>
+      <li>
+        <key>pierce022</key>
+        <amount>1</amount>
+      </li>
+    </mechanics>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_A22_dualnode</defName>
+    <label>Twin Resonance</label>
+    <description>Requires Resonance Node. Keep two nodes. Deploy fills an empty slot, then replaces the second node when both are occupied. Resonance Pulse, Crystal bolt and Aid pulse use the nearer node that can reach and see their target. Each cast still happens once. If neither node can cover the target, cast from the owner. Resonance Pulse deals 11 damage, or 16 after recall. Recall consumes only one node and grants 12 shield. Each node still needs clear sight to its owner within 18 cells. One active branch per core; switch in the build panel.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Engine branches</theme>
+    <weight>100</weight>
+    <maxStacks>1</maxStacks>
+    <iconPath>RimHex/Cards/RHA_A22_dualnode</iconPath>
+    <mechanics>
+      <li>
+        <key>dualnode022</key>
+        <amount>1</amount>
+      </li>
+    </mechanics>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_A22_escort</defName>
+    <label>Escort Array</label>
+    <description>Requires Resonance Node. Deployed projections follow a chosen friendly humanlike colonist using normal paths; they follow the owner by default. Use Choose escort target to change the ally. A relay must stay within 8 cells of its owner and 4 of the escorted ally, with clear sight along both links, giving up distant fixed coverage. Casting Resonance Pulse or Aid pulse through the node grants the ally 6 shield for 6 seconds, once per 6 seconds. Only card projections can be used, not ordinary summons. If the ally leaves the map, falls down or dies, the node follows its owner. One active branch per core; switch in the build panel.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Engine branches</theme>
+    <weight>100</weight>
+    <maxStacks>1</maxStacks>
+    <iconPath>RimHex/Cards/RHA_A22_escort</iconPath>
+    <mechanics>
+      <li>
+        <key>escort022</key>
+        <amount>1</amount>
+      </li>
+    </mechanics>
+  </RimHex.HexAugmentDef>
+</Defs>

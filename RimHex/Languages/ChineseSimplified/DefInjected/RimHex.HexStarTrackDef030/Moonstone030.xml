@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_STAR_Relic_Moonstone.nodes.0.label>月织石</RHA_STAR_Relic_Moonstone.nodes.0.label>
+  <RHA_STAR_Relic_Moonstone.nodes.0.description>保留月石原有的群体治疗、自愈和觉醒能力，不重复增加基础属性。进阶随遗物保存，换下后停止生效。</RHA_STAR_Relic_Moonstone.nodes.0.description>
+  <RHA_STAR_Relic_Moonstone.nodes.1.label>续接月线</RHA_STAR_Relic_Moonstone.nodes.1.label>
+  <RHA_STAR_Relic_Moonstone.nodes.1.description>连续3次实际治疗同一名其他殖民者，相邻治疗间隔不超过3秒，额外治疗该对象20点基础可恢复伤势，冷却8秒。对象须在6格内且视线畅通；换人重新计数，满血治疗和星图追加治疗不计数。 基础收益：治疗 20。</RHA_STAR_Relic_Moonstone.nodes.1.description>
+  <RHA_STAR_Relic_Moonstone.nodes.2.label>交织月线</RHA_STAR_Relic_Moonstone.nodes.2.label>
+  <RHA_STAR_Relic_Moonstone.nodes.2.description>连续3次实际治疗，每次更换对象且相邻治疗间隔不超过3秒，为本人6格内视线畅通、最近的另一名殖民者提供50点基础护盾，持续3秒，冷却8秒。重复治疗同一人不增加次数，也不延长计数窗口。满血治疗和星图追加治疗不计数。 基础收益：护盾 50。</RHA_STAR_Relic_Moonstone.nodes.2.description>
+  <RHA_STAR_Relic_Moonstone.nodes.3.label>护线结</RHA_STAR_Relic_Moonstone.nodes.3.label>
+  <RHA_STAR_Relic_Moonstone.nodes.3.description>续接月线实际追加治疗后，为本人提供50点基础护盾，持续3秒，冷却8秒。患者已无可恢复伤势时不触发。 基础收益：护盾 50。</RHA_STAR_Relic_Moonstone.nodes.3.description>
+  <RHA_STAR_Relic_Moonstone.nodes.4.label>余辉补缀</RHA_STAR_Relic_Moonstone.nodes.4.label>
+  <RHA_STAR_Relic_Moonstone.nodes.4.description>续接月线实际追加治疗后，再治疗本人4格内视线畅通、伤势最重的另一名殖民者20点基础可恢复伤势，冷却8秒。可以继续治疗原患者，但不会改为治疗本人。 基础收益：治疗 20。</RHA_STAR_Relic_Moonstone.nodes.4.description>
+  <RHA_STAR_Relic_Moonstone.nodes.5.label>月线回身</RHA_STAR_Relic_Moonstone.nodes.5.label>
+  <RHA_STAR_Relic_Moonstone.nodes.5.description>沿用交织月线的换人治疗条件，另治疗自身20点基础可恢复伤势，冷却8秒。与护盾分别结算；满血时没有额外收益。 基础收益：治疗 20。</RHA_STAR_Relic_Moonstone.nodes.5.description>
+  <RHA_STAR_Relic_Moonstone.nodes.6.label>收束月芒</RHA_STAR_Relic_Moonstone.nodes.6.label>
+  <RHA_STAR_Relic_Moonstone.nodes.6.description>沿用交织月线的换人治疗条件，储存一份月芒，持续5秒。本人随后普通命中敌人时消耗月芒追加50点伤害。最多一份，生成冷却8秒；治疗本身不会攻击敌人。 基础收益：伤害 50。</RHA_STAR_Relic_Moonstone.nodes.6.description>
+</LanguageData>

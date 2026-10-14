@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_STAR_Relic_Ballista.nodes.0.label>Calibrated Ballista</RHA_STAR_Relic_Ballista.nodes.0.label>
+  <RHA_STAR_Relic_Ballista.nodes.0.description>Retains original damage, sniper, aiming delay and awakening. Later nodes count actual ordinary ranged weapon damage to standing enemies. Explosions, melee, abilities and secondary damage do not count. Progression stays with the item.</RHA_STAR_Relic_Ballista.nodes.0.description>
+  <RHA_STAR_Relic_Ballista.nodes.1.label>Concentrated Fire</RHA_STAR_Relic_Ballista.nodes.1.label>
+  <RHA_STAR_Relic_Ballista.nodes.1.description>Two consecutive ranged hits on the same enemy, no more than 5 seconds apart, deal 75 bonus damage, once per 8 seconds. Changing targets resets the count. Base rewards: damage 75.</RHA_STAR_Relic_Ballista.nodes.1.description>
+  <RHA_STAR_Relic_Ballista.nodes.2.label>Mobile Emplacement</RHA_STAR_Relic_Ballista.nodes.2.label>
+  <RHA_STAR_Relic_Ballista.nodes.2.description>A damaging ranged hit records your position. Move at least 3 cells and land another ranged hit within 5 seconds to shield yourself for 50 base points over 3 seconds, once per 8 seconds. Expiry records a fresh starting point. Base rewards: shield 50.</RHA_STAR_Relic_Ballista.nodes.2.description>
+  <RHA_STAR_Relic_Ballista.nodes.3.label>Splinter Bolt</RHA_STAR_Relic_Ballista.nodes.3.label>
+  <RHA_STAR_Relic_Ballista.nodes.3.description>After Concentrated Fire deals actual bonus damage, strike one other enemy within 3 cells of the impact and clear sight for 25 damage, once per 8 seconds. Never substitutes the original target. Base rewards: damage 25.</RHA_STAR_Relic_Ballista.nodes.3.description>
+  <RHA_STAR_Relic_Ballista.nodes.4.label>Braced Stock</RHA_STAR_Relic_Ballista.nodes.4.label>
+  <RHA_STAR_Relic_Ballista.nodes.4.description>After Concentrated Fire deals actual bonus damage, shield yourself for 50 base points over 3 seconds, once per 8 seconds. Fully prevented bonus damage grants no shield. Base rewards: shield 50.</RHA_STAR_Relic_Ballista.nodes.4.description>
+  <RHA_STAR_Relic_Ballista.nodes.5.label>Covering Advance</RHA_STAR_Relic_Ballista.nodes.5.label>
+  <RHA_STAR_Relic_Ballista.nodes.5.description>The same movement-and-hit condition independently shields the nearest other eligible colonist within 4 cells and clear sight for 50 base points over 3 seconds, once per 8 seconds. Counts separately; never substitutes you when no ally is eligible. Base rewards: shield 50.</RHA_STAR_Relic_Ballista.nodes.5.description>
+  <RHA_STAR_Relic_Ballista.nodes.6.label>Repositioned Shot</RHA_STAR_Relic_Ballista.nodes.6.label>
+  <RHA_STAR_Relic_Ballista.nodes.6.description>The same movement-and-hit condition independently stores one reply bolt for 5 seconds. A later damaging ranged hit consumes it for 50 bonus damage. One bolt maximum, with an 8-second creation cooldown and a separate movement counter. Base rewards: damage 50.</RHA_STAR_Relic_Ballista.nodes.6.description>
+</LanguageData>

@@ -1,0 +1,315 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_N29_RHA_Path_Thunder_1_0.label>雷暴网络 · 启迪</RHA_N29_RHA_Path_Thunder_1_0.label>
+  <RHA_N29_RHA_Path_Thunder_1_0.description>获得 0.65 级连锁。连锁命中留下持续 8 秒的雷印；带有自己雷印的敌人死亡时，对 12 格内最近 3 名敌人释放 32.5＋连锁等级×6.5 点伤害。衍生死亡不会递归放电。</RHA_N29_RHA_Path_Thunder_1_0.description>
+  <RHA_N29_RHA_Path_Thunder_1_1.label>天罚蓄电 · 启迪</RHA_N29_RHA_Path_Thunder_1_1.label>
+  <RHA_N29_RHA_Path_Thunder_1_1.description>每第 3 次有效命中，对原目标追加 65＋本次直接伤害的 65% 的闪电打击。 复制伤害沿用原结算值；固定追加部分仍可增幅。</RHA_N29_RHA_Path_Thunder_1_1.description>
+  <RHA_N29_RHA_Path_Thunder_2_0.label>分岔电弧 · 专精</RHA_N29_RHA_Path_Thunder_2_0.label>
+  <RHA_N29_RHA_Path_Thunder_2_0.description>有效攻击向目标附近至多两名敌人释放电弧，每次造成原伤害的 4%，上限 6。冷却 4 秒。</RHA_N29_RHA_Path_Thunder_2_0.description>
+  <RHA_N29_RHA_Path_Thunder_2_1.label>追猎电荷 · 专精</RHA_N29_RHA_Path_Thunder_2_1.label>
+  <RHA_N29_RHA_Path_Thunder_2_1.description>5 秒内连续命中同一敌人三次，追加本次伤害的 8%，上限 10。冷却 3 秒。</RHA_N29_RHA_Path_Thunder_2_1.description>
+  <RHA_N29_RHA_Path_Thunder_2_2.label>孤雷回流 · 专精</RHA_N29_RHA_Path_Thunder_2_2.label>
+  <RHA_N29_RHA_Path_Thunder_2_2.description>目标附近没有其他敌人时，有效攻击产生相当于伤害 10% 的自身护盾，上限 10，持续 4 秒。冷却 5 秒。</RHA_N29_RHA_Path_Thunder_2_2.description>
+  <RHA_N29_RHA_Path_Thunder_2_3.label>接电护卫 · 专精</RHA_N29_RHA_Path_Thunder_2_3.label>
+  <RHA_N29_RHA_Path_Thunder_2_3.description>有效攻击为 8 格内最近的一名其他殖民者提供 2 护盾，持续 5 秒。冷却 5 秒。</RHA_N29_RHA_Path_Thunder_2_3.description>
+  <RHA_N29_RHA_Path_Thunder_3_0.label>奔流蓄势 · 蜕变</RHA_N29_RHA_Path_Thunder_3_0.label>
+  <RHA_N29_RHA_Path_Thunder_3_0.description>每两秒检查一次位置；移动至少三格时储存 2 点电荷，上限 10。下次有效攻击释放储存量的 50%，与屏障蓄能合计上限 12。冷却 6 秒。</RHA_N29_RHA_Path_Thunder_3_0.description>
+  <RHA_N29_RHA_Path_Thunder_3_1.label>屏障蓄能 · 蜕变</RHA_N29_RHA_Path_Thunder_3_1.label>
+  <RHA_N29_RHA_Path_Thunder_3_1.description>护盾吸收敌人攻击时，储存吸收量的 20%，上限 10。下次有效攻击释放储存量的 50%，与奔流蓄势合计上限 12。冷却 6 秒。</RHA_N29_RHA_Path_Thunder_3_1.description>
+  <RHA_N29_RHA_Path_Thunder_3_2.label>危急庇护 · 蜕变</RHA_N29_RHA_Path_Thunder_3_2.label>
+  <RHA_N29_RHA_Path_Thunder_3_2.description>8 格内最近的其他殖民者健康低于 40% 时，给予 6 护盾，持续 6 秒。冷却 20 秒。</RHA_N29_RHA_Path_Thunder_3_2.description>
+  <RHA_N29_RHA_Path_Thunder_3_3.label>沃土冠冕 · 蜕变</RHA_N29_RHA_Path_Thunder_3_3.label>
+  <RHA_N29_RHA_Path_Thunder_3_3.description>累计播种或收割 20 秒后，为 8 格内至多三名其他殖民者各恢复 1.5 点可治疗伤势，并给予 2.5 护盾，持续 10 秒。冷却 20 秒。</RHA_N29_RHA_Path_Thunder_3_3.description>
+  <RHA_N29_RHA_Path_Thunder_4_0.label>引燃刻痕 · 融合</RHA_N29_RHA_Path_Thunder_4_0.label>
+  <RHA_N29_RHA_Path_Thunder_4_0.description>有效攻击施加 0.06 级灼烧。冷却 5 秒。</RHA_N29_RHA_Path_Thunder_4_0.description>
+  <RHA_N29_RHA_Path_Thunder_4_1.label>灰烬护衣 · 融合</RHA_N29_RHA_Path_Thunder_4_1.label>
+  <RHA_N29_RHA_Path_Thunder_4_1.description>你的灼烧造成实际伤害时，转化 30% 为自身护盾，上限 8，持续 4 秒。冷却 5 秒。</RHA_N29_RHA_Path_Thunder_4_1.description>
+  <RHA_N29_RHA_Path_Thunder_4_2.label>接续屏障 · 融合</RHA_N29_RHA_Path_Thunder_4_2.label>
+  <RHA_N29_RHA_Path_Thunder_4_2.description>护盾吸收敌人攻击后，将吸收量的 21% 给予 8 格内最近的其他殖民者，上限 8，持续 4 秒。冷却 6 秒。</RHA_N29_RHA_Path_Thunder_4_2.description>
+  <RHA_N29_RHA_Path_Thunder_4_3.label>反击誓约 · 融合</RHA_N29_RHA_Path_Thunder_4_3.label>
+  <RHA_N29_RHA_Path_Thunder_4_3.description>护盾吸收敌人攻击后，返还吸收量的 18% 为伤害，上限 8。冷却 5 秒。</RHA_N29_RHA_Path_Thunder_4_3.description>
+  <RHA_N29_RHA_Path_Thunder_5_0.label>雷暴冠冕 · 冠冕</RHA_N29_RHA_Path_Thunder_5_0.label>
+  <RHA_N29_RHA_Path_Thunder_5_0.description>每四次有效攻击，以本次伤害的 16% 打击目标周围 7 格内至多四名敌人，每人上限 10。冷却 10 秒。</RHA_N29_RHA_Path_Thunder_5_0.description>
+  <RHA_N29_RHA_Path_Thunder_5_1.label>烬心冠冕 · 冠冕</RHA_N29_RHA_Path_Thunder_5_1.label>
+  <RHA_N29_RHA_Path_Thunder_5_1.description>实际灼烧伤害的 20% 存为余烬，每次最多存 4，总量最多 20。至少存有 8 时，下次有效攻击释放余烬的 80%，上限 16。冷却 8 秒。</RHA_N29_RHA_Path_Thunder_5_1.description>
+  <RHA_N29_RHA_Path_Thunder_5_2.label>守誓冠冕 · 冠冕</RHA_N29_RHA_Path_Thunder_5_2.label>
+  <RHA_N29_RHA_Path_Thunder_5_2.description>自身护盾累计吸收 30 点敌人伤害后，为 8 格内最近的其他殖民者恢复 4 点可治疗伤势。冷却 15 秒。</RHA_N29_RHA_Path_Thunder_5_2.description>
+  <RHA_N29_RHA_Path_Thunder_5_3.label>奔流蓄势 · 冠冕</RHA_N29_RHA_Path_Thunder_5_3.label>
+  <RHA_N29_RHA_Path_Thunder_5_3.description>每两秒检查一次位置；移动至少三格时储存 2 点电荷，上限 10。下次有效攻击释放储存量的 80%，与屏障蓄能合计上限 12。冷却 6 秒。</RHA_N29_RHA_Path_Thunder_5_3.description>
+  <RHA_N29_RHA_Path_Flame_1_0.label>永燃薪火 · 启迪</RHA_N29_RHA_Path_Flame_1_0.label>
+  <RHA_N29_RHA_Path_Flame_1_0.description>获得 0.65 级灼烧。自己的灼烧每秒最多一次向目标 5 格内最近 2 名其他敌人传播 0.65 级灼烧，持续 4 秒。</RHA_N29_RHA_Path_Flame_1_0.description>
+  <RHA_N29_RHA_Path_Flame_1_1.label>熔火审判 · 启迪</RHA_N29_RHA_Path_Flame_1_1.label>
+  <RHA_N29_RHA_Path_Flame_1_1.description>获得 0.65 级灼烧。每第 4 次有效命中，消耗目标身上属于自己的普通和叠层灼烧，以剩余总伤害的 130% 立即结算。</RHA_N29_RHA_Path_Flame_1_1.description>
+  <RHA_N29_RHA_Path_Flame_2_0.label>引燃刻痕 · 专精</RHA_N29_RHA_Path_Flame_2_0.label>
+  <RHA_N29_RHA_Path_Flame_2_0.description>有效攻击施加 0.04 级灼烧。冷却 5 秒。</RHA_N29_RHA_Path_Flame_2_0.description>
+  <RHA_N29_RHA_Path_Flame_2_1.label>飞散余火 · 专精</RHA_N29_RHA_Path_Flame_2_1.label>
+  <RHA_N29_RHA_Path_Flame_2_1.description>你的灼烧造成实际伤害时，向 5 格内另一名敌人施加 0.032 级灼烧。冷却 6 秒。</RHA_N29_RHA_Path_Flame_2_1.description>
+  <RHA_N29_RHA_Path_Flame_2_2.label>焚尽余烬 · 专精</RHA_N29_RHA_Path_Flame_2_2.label>
+  <RHA_N29_RHA_Path_Flame_2_2.description>有效攻击消耗目标上由你施加的一份灼烧，将剩余伤害的 12% 立即结算，上限 12。冷却 6 秒。</RHA_N29_RHA_Path_Flame_2_2.description>
+  <RHA_N29_RHA_Path_Flame_2_3.label>灰烬护衣 · 专精</RHA_N29_RHA_Path_Flame_2_3.label>
+  <RHA_N29_RHA_Path_Flame_2_3.description>你的灼烧造成实际伤害时，转化 20% 为自身护盾，上限 8，持续 4 秒。冷却 5 秒。</RHA_N29_RHA_Path_Flame_2_3.description>
+  <RHA_N29_RHA_Path_Flame_3_0.label>奔流蓄势 · 蜕变</RHA_N29_RHA_Path_Flame_3_0.label>
+  <RHA_N29_RHA_Path_Flame_3_0.description>每两秒检查一次位置；移动至少三格时储存 2 点电荷，上限 10。下次有效攻击释放储存量的 50%，与屏障蓄能合计上限 12。冷却 6 秒。</RHA_N29_RHA_Path_Flame_3_0.description>
+  <RHA_N29_RHA_Path_Flame_3_1.label>屏障蓄能 · 蜕变</RHA_N29_RHA_Path_Flame_3_1.label>
+  <RHA_N29_RHA_Path_Flame_3_1.description>护盾吸收敌人攻击时，储存吸收量的 20%，上限 10。下次有效攻击释放储存量的 50%，与奔流蓄势合计上限 12。冷却 6 秒。</RHA_N29_RHA_Path_Flame_3_1.description>
+  <RHA_N29_RHA_Path_Flame_3_2.label>危急庇护 · 蜕变</RHA_N29_RHA_Path_Flame_3_2.label>
+  <RHA_N29_RHA_Path_Flame_3_2.description>8 格内最近的其他殖民者健康低于 40% 时，给予 6 护盾，持续 6 秒。冷却 20 秒。</RHA_N29_RHA_Path_Flame_3_2.description>
+  <RHA_N29_RHA_Path_Flame_3_3.label>沃土冠冕 · 蜕变</RHA_N29_RHA_Path_Flame_3_3.label>
+  <RHA_N29_RHA_Path_Flame_3_3.description>累计播种或收割 20 秒后，为 8 格内至多三名其他殖民者各恢复 1.5 点可治疗伤势，并给予 2.5 护盾，持续 10 秒。冷却 20 秒。</RHA_N29_RHA_Path_Flame_3_3.description>
+  <RHA_N29_RHA_Path_Flame_4_0.label>分岔电弧 · 融合</RHA_N29_RHA_Path_Flame_4_0.label>
+  <RHA_N29_RHA_Path_Flame_4_0.description>有效攻击向目标附近至多两名敌人释放电弧，每次造成原伤害的 6%，上限 6。冷却 4 秒。</RHA_N29_RHA_Path_Flame_4_0.description>
+  <RHA_N29_RHA_Path_Flame_4_1.label>追猎电荷 · 融合</RHA_N29_RHA_Path_Flame_4_1.label>
+  <RHA_N29_RHA_Path_Flame_4_1.description>5 秒内连续命中同一敌人三次，追加本次伤害的 12%，上限 10。冷却 3 秒。</RHA_N29_RHA_Path_Flame_4_1.description>
+  <RHA_N29_RHA_Path_Flame_4_2.label>孤雷回流 · 融合</RHA_N29_RHA_Path_Flame_4_2.label>
+  <RHA_N29_RHA_Path_Flame_4_2.description>目标附近没有其他敌人时，有效攻击产生相当于伤害 15% 的自身护盾，上限 10，持续 4 秒。冷却 5 秒。</RHA_N29_RHA_Path_Flame_4_2.description>
+  <RHA_N29_RHA_Path_Flame_4_3.label>接电护卫 · 融合</RHA_N29_RHA_Path_Flame_4_3.label>
+  <RHA_N29_RHA_Path_Flame_4_3.description>有效攻击为 8 格内最近的一名其他殖民者提供 3 护盾，持续 5 秒。冷却 5 秒。</RHA_N29_RHA_Path_Flame_4_3.description>
+  <RHA_N29_RHA_Path_Flame_5_0.label>烬心冠冕 · 冠冕</RHA_N29_RHA_Path_Flame_5_0.label>
+  <RHA_N29_RHA_Path_Flame_5_0.description>实际灼烧伤害的 20% 存为余烬，每次最多存 4，总量最多 20。至少存有 8 时，下次有效攻击释放余烬的 80%，上限 16。冷却 8 秒。</RHA_N29_RHA_Path_Flame_5_0.description>
+  <RHA_N29_RHA_Path_Flame_5_1.label>雷暴冠冕 · 冠冕</RHA_N29_RHA_Path_Flame_5_1.label>
+  <RHA_N29_RHA_Path_Flame_5_1.description>每四次有效攻击，以本次伤害的 16% 打击目标周围 7 格内至多四名敌人，每人上限 10。冷却 10 秒。</RHA_N29_RHA_Path_Flame_5_1.description>
+  <RHA_N29_RHA_Path_Flame_5_2.label>守誓冠冕 · 冠冕</RHA_N29_RHA_Path_Flame_5_2.label>
+  <RHA_N29_RHA_Path_Flame_5_2.description>自身护盾累计吸收 30 点敌人伤害后，为 8 格内最近的其他殖民者恢复 4 点可治疗伤势。冷却 15 秒。</RHA_N29_RHA_Path_Flame_5_2.description>
+  <RHA_N29_RHA_Path_Flame_5_3.label>危急庇护 · 冠冕</RHA_N29_RHA_Path_Flame_5_3.label>
+  <RHA_N29_RHA_Path_Flame_5_3.description>8 格内最近的其他殖民者健康低于 40% 时，给予 9.6 护盾，持续 6 秒。冷却 20 秒。</RHA_N29_RHA_Path_Flame_5_3.description>
+  <RHA_N29_RHA_Path_Guardian_1_0.label>群星圣所 · 启迪</RHA_N29_RHA_Path_Guardian_1_0.label>
+  <RHA_N29_RHA_Path_Guardian_1_0.description>每约 8.3 秒，为自身 10 格内最近 12 名己方人类殖民者提供 65 点护盾，持续 10 秒。</RHA_N29_RHA_Path_Guardian_1_0.description>
+  <RHA_N29_RHA_Path_Guardian_1_1.label>天罚壁垒 · 启迪</RHA_N29_RHA_Path_Guardian_1_1.label>
+  <RHA_N29_RHA_Path_Guardian_1_1.description>承伤除数 +0.65。护盾吸收敌人的直接伤害后，向攻击者返还吸收量 130% 的伤害。冷却 1 秒，反击不能互相递归。</RHA_N29_RHA_Path_Guardian_1_1.description>
+  <RHA_N29_RHA_Path_Guardian_2_0.label>站稳阵线 · 专精</RHA_N29_RHA_Path_Guardian_2_0.label>
+  <RHA_N29_RHA_Path_Guardian_2_0.description>征召并保持原地至少 2 秒时，获得 2.4 护盾，持续 4 秒。冷却 6 秒。</RHA_N29_RHA_Path_Guardian_2_0.description>
+  <RHA_N29_RHA_Path_Guardian_2_1.label>接续屏障 · 专精</RHA_N29_RHA_Path_Guardian_2_1.label>
+  <RHA_N29_RHA_Path_Guardian_2_1.description>护盾吸收敌人攻击后，将吸收量的 14% 给予 8 格内最近的其他殖民者，上限 8，持续 4 秒。冷却 6 秒。</RHA_N29_RHA_Path_Guardian_2_1.description>
+  <RHA_N29_RHA_Path_Guardian_2_2.label>反击誓约 · 专精</RHA_N29_RHA_Path_Guardian_2_2.label>
+  <RHA_N29_RHA_Path_Guardian_2_2.description>护盾吸收敌人攻击后，返还吸收量的 12% 为伤害，上限 8。冷却 5 秒。</RHA_N29_RHA_Path_Guardian_2_2.description>
+  <RHA_N29_RHA_Path_Guardian_2_3.label>战地包扎 · 专精</RHA_N29_RHA_Path_Guardian_2_3.label>
+  <RHA_N29_RHA_Path_Guardian_2_3.description>护盾吸收敌人攻击后，恢复吸收量 6% 的可治疗伤势，上限 4。冷却 7 秒。另提高治疗速度 2%。</RHA_N29_RHA_Path_Guardian_2_3.description>
+  <RHA_N29_RHA_Path_Guardian_3_0.label>奔流蓄势 · 蜕变</RHA_N29_RHA_Path_Guardian_3_0.label>
+  <RHA_N29_RHA_Path_Guardian_3_0.description>每两秒检查一次位置；移动至少三格时储存 2 点电荷，上限 10。下次有效攻击释放储存量的 50%，与屏障蓄能合计上限 12。冷却 6 秒。</RHA_N29_RHA_Path_Guardian_3_0.description>
+  <RHA_N29_RHA_Path_Guardian_3_1.label>屏障蓄能 · 蜕变</RHA_N29_RHA_Path_Guardian_3_1.label>
+  <RHA_N29_RHA_Path_Guardian_3_1.description>护盾吸收敌人攻击时，储存吸收量的 20%，上限 10。下次有效攻击释放储存量的 50%，与奔流蓄势合计上限 12。冷却 6 秒。</RHA_N29_RHA_Path_Guardian_3_1.description>
+  <RHA_N29_RHA_Path_Guardian_3_2.label>危急庇护 · 蜕变</RHA_N29_RHA_Path_Guardian_3_2.label>
+  <RHA_N29_RHA_Path_Guardian_3_2.description>8 格内最近的其他殖民者健康低于 40% 时，给予 6 护盾，持续 6 秒。冷却 20 秒。</RHA_N29_RHA_Path_Guardian_3_2.description>
+  <RHA_N29_RHA_Path_Guardian_3_3.label>沃土冠冕 · 蜕变</RHA_N29_RHA_Path_Guardian_3_3.label>
+  <RHA_N29_RHA_Path_Guardian_3_3.description>累计播种或收割 20 秒后，为 8 格内至多三名其他殖民者各恢复 1.5 点可治疗伤势，并给予 2.5 护盾，持续 10 秒。冷却 20 秒。</RHA_N29_RHA_Path_Guardian_3_3.description>
+  <RHA_N29_RHA_Path_Guardian_4_0.label>接电护卫 · 融合</RHA_N29_RHA_Path_Guardian_4_0.label>
+  <RHA_N29_RHA_Path_Guardian_4_0.description>有效攻击为 8 格内最近的一名其他殖民者提供 3 护盾，持续 5 秒。冷却 5 秒。</RHA_N29_RHA_Path_Guardian_4_0.description>
+  <RHA_N29_RHA_Path_Guardian_4_1.label>灰烬护衣 · 融合</RHA_N29_RHA_Path_Guardian_4_1.label>
+  <RHA_N29_RHA_Path_Guardian_4_1.description>你的灼烧造成实际伤害时，转化 30% 为自身护盾，上限 8，持续 4 秒。冷却 5 秒。</RHA_N29_RHA_Path_Guardian_4_1.description>
+  <RHA_N29_RHA_Path_Guardian_4_2.label>照料伤者 · 融合</RHA_N29_RHA_Path_Guardian_4_2.label>
+  <RHA_N29_RHA_Path_Guardian_4_2.description>每 10 秒为 8 格内最近的其他殖民者恢复 1.2 点可治疗伤势；只在对方健康低于 70% 时生效。</RHA_N29_RHA_Path_Guardian_4_2.description>
+  <RHA_N29_RHA_Path_Guardian_4_3.label>田间休养 · 融合</RHA_N29_RHA_Path_Guardian_4_3.label>
+  <RHA_N29_RHA_Path_Guardian_4_3.description>播种或收割时，每 10 秒恢复自身 1.2 点可治疗伤势。</RHA_N29_RHA_Path_Guardian_4_3.description>
+  <RHA_N29_RHA_Path_Guardian_5_0.label>守誓冠冕 · 冠冕</RHA_N29_RHA_Path_Guardian_5_0.label>
+  <RHA_N29_RHA_Path_Guardian_5_0.description>自身护盾累计吸收 30 点敌人伤害后，为 8 格内最近的其他殖民者恢复 4 点可治疗伤势。冷却 15 秒。</RHA_N29_RHA_Path_Guardian_5_0.description>
+  <RHA_N29_RHA_Path_Guardian_5_1.label>雷暴冠冕 · 冠冕</RHA_N29_RHA_Path_Guardian_5_1.label>
+  <RHA_N29_RHA_Path_Guardian_5_1.description>每四次有效攻击，以本次伤害的 16% 打击目标周围 7 格内至多四名敌人，每人上限 10。冷却 10 秒。</RHA_N29_RHA_Path_Guardian_5_1.description>
+  <RHA_N29_RHA_Path_Guardian_5_2.label>沃土冠冕 · 冠冕</RHA_N29_RHA_Path_Guardian_5_2.label>
+  <RHA_N29_RHA_Path_Guardian_5_2.description>累计播种或收割 20 秒后，为 8 格内至多三名其他殖民者各恢复 2.4 点可治疗伤势，并给予 4 护盾，持续 10 秒。冷却 20 秒。</RHA_N29_RHA_Path_Guardian_5_2.description>
+  <RHA_N29_RHA_Path_Guardian_5_3.label>危急庇护 · 冠冕</RHA_N29_RHA_Path_Guardian_5_3.label>
+  <RHA_N29_RHA_Path_Guardian_5_3.description>8 格内最近的其他殖民者健康低于 40% 时，给予 9.6 护盾，持续 6 秒。冷却 20 秒。</RHA_N29_RHA_Path_Guardian_5_3.description>
+  <RHA_N29_RHA_Path_Harvest_1_0.label>丰饶宝库 · 启迪</RHA_N29_RHA_Path_Harvest_1_0.label>
+  <RHA_N29_RHA_Path_Harvest_1_0.description>每日额外产出 26 份包装生存食物和 7 份医药；无人接收时资源会保留。</RHA_N29_RHA_Path_Harvest_1_0.description>
+  <RHA_N29_RHA_Path_Harvest_1_1.label>生命洪流 · 启迪</RHA_N29_RHA_Path_Harvest_1_1.label>
+  <RHA_N29_RHA_Path_Harvest_1_1.description>全体己方人类殖民者体质 +65%、每秒恢复 1.95 点伤势、植物收获效率 +130%。收获加成作用于实际收获数量。</RHA_N29_RHA_Path_Harvest_1_1.description>
+  <RHA_N29_RHA_Path_Harvest_2_0.label>熟稔农事 · 专精</RHA_N29_RHA_Path_Harvest_2_0.label>
+  <RHA_N29_RHA_Path_Harvest_2_0.description>植物工作速度提高 1.6%，收获产量提高 0.8%。</RHA_N29_RHA_Path_Harvest_2_0.description>
+  <RHA_N29_RHA_Path_Harvest_2_1.label>苗圃庇护 · 专精</RHA_N29_RHA_Path_Harvest_2_1.label>
+  <RHA_N29_RHA_Path_Harvest_2_1.description>播种或收割时，每 10 秒为 8 格内最近的其他殖民者提供 2.4 护盾，持续 10 秒。</RHA_N29_RHA_Path_Harvest_2_1.description>
+  <RHA_N29_RHA_Path_Harvest_2_2.label>照料伤者 · 专精</RHA_N29_RHA_Path_Harvest_2_2.label>
+  <RHA_N29_RHA_Path_Harvest_2_2.description>每 10 秒为 8 格内最近的其他殖民者恢复 0.8 点可治疗伤势；只在对方健康低于 70% 时生效。</RHA_N29_RHA_Path_Harvest_2_2.description>
+  <RHA_N29_RHA_Path_Harvest_2_3.label>田间休养 · 专精</RHA_N29_RHA_Path_Harvest_2_3.label>
+  <RHA_N29_RHA_Path_Harvest_2_3.description>播种或收割时，每 10 秒恢复自身 0.8 点可治疗伤势。</RHA_N29_RHA_Path_Harvest_2_3.description>
+  <RHA_N29_RHA_Path_Harvest_3_0.label>危急庇护 · 蜕变</RHA_N29_RHA_Path_Harvest_3_0.label>
+  <RHA_N29_RHA_Path_Harvest_3_0.description>8 格内最近的其他殖民者健康低于 40% 时，给予 6 护盾，持续 6 秒。冷却 20 秒。</RHA_N29_RHA_Path_Harvest_3_0.description>
+  <RHA_N29_RHA_Path_Harvest_3_1.label>沃土冠冕 · 蜕变</RHA_N29_RHA_Path_Harvest_3_1.label>
+  <RHA_N29_RHA_Path_Harvest_3_1.description>累计播种或收割 20 秒后，为 8 格内至多三名其他殖民者各恢复 1.5 点可治疗伤势，并给予 2.5 护盾，持续 10 秒。冷却 20 秒。</RHA_N29_RHA_Path_Harvest_3_1.description>
+  <RHA_N29_RHA_Path_Harvest_3_2.label>照料伤者 · 蜕变</RHA_N29_RHA_Path_Harvest_3_2.label>
+  <RHA_N29_RHA_Path_Harvest_3_2.description>每 10 秒为 8 格内最近的其他殖民者恢复 1 点可治疗伤势；只在对方健康低于 70% 时生效。</RHA_N29_RHA_Path_Harvest_3_2.description>
+  <RHA_N29_RHA_Path_Harvest_3_3.label>苗圃庇护 · 蜕变</RHA_N29_RHA_Path_Harvest_3_3.label>
+  <RHA_N29_RHA_Path_Harvest_3_3.description>播种或收割时，每 10 秒为 8 格内最近的其他殖民者提供 3 护盾，持续 10 秒。</RHA_N29_RHA_Path_Harvest_3_3.description>
+  <RHA_N29_RHA_Path_Harvest_4_0.label>站稳阵线 · 融合</RHA_N29_RHA_Path_Harvest_4_0.label>
+  <RHA_N29_RHA_Path_Harvest_4_0.description>征召并保持原地至少 2 秒时，获得 3.6 护盾，持续 4 秒。冷却 6 秒。</RHA_N29_RHA_Path_Harvest_4_0.description>
+  <RHA_N29_RHA_Path_Harvest_4_1.label>接续屏障 · 融合</RHA_N29_RHA_Path_Harvest_4_1.label>
+  <RHA_N29_RHA_Path_Harvest_4_1.description>护盾吸收敌人攻击后，将吸收量的 21% 给予 8 格内最近的其他殖民者，上限 8，持续 4 秒。冷却 6 秒。</RHA_N29_RHA_Path_Harvest_4_1.description>
+  <RHA_N29_RHA_Path_Harvest_4_2.label>战地包扎 · 融合</RHA_N29_RHA_Path_Harvest_4_2.label>
+  <RHA_N29_RHA_Path_Harvest_4_2.description>护盾吸收敌人攻击后，恢复吸收量 9% 的可治疗伤势，上限 4。冷却 7 秒。另提高治疗速度 3%。</RHA_N29_RHA_Path_Harvest_4_2.description>
+  <RHA_N29_RHA_Path_Harvest_4_3.label>接电护卫 · 融合</RHA_N29_RHA_Path_Harvest_4_3.label>
+  <RHA_N29_RHA_Path_Harvest_4_3.description>有效攻击为 8 格内最近的一名其他殖民者提供 3 护盾，持续 5 秒。冷却 5 秒。</RHA_N29_RHA_Path_Harvest_4_3.description>
+  <RHA_N29_RHA_Path_Harvest_5_0.label>沃土冠冕 · 冠冕</RHA_N29_RHA_Path_Harvest_5_0.label>
+  <RHA_N29_RHA_Path_Harvest_5_0.description>累计播种或收割 20 秒后，为 8 格内至多三名其他殖民者各恢复 2.4 点可治疗伤势，并给予 4 护盾，持续 10 秒。冷却 20 秒。</RHA_N29_RHA_Path_Harvest_5_0.description>
+  <RHA_N29_RHA_Path_Harvest_5_1.label>守誓冠冕 · 冠冕</RHA_N29_RHA_Path_Harvest_5_1.label>
+  <RHA_N29_RHA_Path_Harvest_5_1.description>自身护盾累计吸收 30 点敌人伤害后，为 8 格内最近的其他殖民者恢复 4 点可治疗伤势。冷却 15 秒。</RHA_N29_RHA_Path_Harvest_5_1.description>
+  <RHA_N29_RHA_Path_Harvest_5_2.label>危急庇护 · 冠冕</RHA_N29_RHA_Path_Harvest_5_2.label>
+  <RHA_N29_RHA_Path_Harvest_5_2.description>8 格内最近的其他殖民者健康低于 40% 时，给予 9.6 护盾，持续 6 秒。冷却 20 秒。</RHA_N29_RHA_Path_Harvest_5_2.description>
+  <RHA_N29_RHA_Path_Harvest_5_3.label>照料伤者 · 冠冕</RHA_N29_RHA_Path_Harvest_5_3.label>
+  <RHA_N29_RHA_Path_Harvest_5_3.description>每 10 秒为 8 格内最近的其他殖民者恢复 1.6 点可治疗伤势；只在对方健康低于 70% 时生效。</RHA_N29_RHA_Path_Harvest_5_3.description>
+  <RHA_N29_RHA_Runecarver_1_0.label>万雷分岔 · 觉醒</RHA_N29_RHA_Runecarver_1_0.label>
+  <RHA_N29_RHA_Runecarver_1_0.description>连锁等级额外 +3。</RHA_N29_RHA_Runecarver_1_0.description>
+  <RHA_N29_RHA_Runecarver_1_1.label>裁决电矛 · 觉醒</RHA_N29_RHA_Runecarver_1_1.label>
+  <RHA_N29_RHA_Runecarver_1_1.description>每第 3 次有效命中，对原目标额外造成 90 点闪电伤害。</RHA_N29_RHA_Runecarver_1_1.description>
+  <RHA_N29_RHA_Runecarver_2_0.label>分岔电弧 · 重塑</RHA_N29_RHA_Runecarver_2_0.label>
+  <RHA_N29_RHA_Runecarver_2_0.description>有效攻击向目标附近至多两名敌人释放电弧，每次造成原伤害的 4%，上限 6。冷却 4 秒。</RHA_N29_RHA_Runecarver_2_0.description>
+  <RHA_N29_RHA_Runecarver_2_1.label>追猎电荷 · 重塑</RHA_N29_RHA_Runecarver_2_1.label>
+  <RHA_N29_RHA_Runecarver_2_1.description>5 秒内连续命中同一敌人三次，追加本次伤害的 8%，上限 10。冷却 3 秒。</RHA_N29_RHA_Runecarver_2_1.description>
+  <RHA_N29_RHA_Runecarver_2_2.label>孤雷回流 · 重塑</RHA_N29_RHA_Runecarver_2_2.label>
+  <RHA_N29_RHA_Runecarver_2_2.description>目标附近没有其他敌人时，有效攻击产生相当于伤害 10% 的自身护盾，上限 10，持续 4 秒。冷却 5 秒。</RHA_N29_RHA_Runecarver_2_2.description>
+  <RHA_N29_RHA_Runecarver_2_3.label>接电护卫 · 重塑</RHA_N29_RHA_Runecarver_2_3.label>
+  <RHA_N29_RHA_Runecarver_2_3.description>有效攻击为 8 格内最近的一名其他殖民者提供 2 护盾，持续 5 秒。冷却 5 秒。</RHA_N29_RHA_Runecarver_2_3.description>
+  <RHA_N29_RHA_Runecarver_3_0.label>引燃刻痕 · 共鸣</RHA_N29_RHA_Runecarver_3_0.label>
+  <RHA_N29_RHA_Runecarver_3_0.description>有效攻击施加 0.05 级灼烧。冷却 5 秒。</RHA_N29_RHA_Runecarver_3_0.description>
+  <RHA_N29_RHA_Runecarver_3_1.label>灰烬护衣 · 共鸣</RHA_N29_RHA_Runecarver_3_1.label>
+  <RHA_N29_RHA_Runecarver_3_1.description>你的灼烧造成实际伤害时，转化 25% 为自身护盾，上限 8，持续 4 秒。冷却 5 秒。</RHA_N29_RHA_Runecarver_3_1.description>
+  <RHA_N29_RHA_Runecarver_3_2.label>接续屏障 · 共鸣</RHA_N29_RHA_Runecarver_3_2.label>
+  <RHA_N29_RHA_Runecarver_3_2.description>护盾吸收敌人攻击后，将吸收量的 17.5% 给予 8 格内最近的其他殖民者，上限 8，持续 4 秒。冷却 6 秒。</RHA_N29_RHA_Runecarver_3_2.description>
+  <RHA_N29_RHA_Runecarver_3_3.label>反击誓约 · 共鸣</RHA_N29_RHA_Runecarver_3_3.label>
+  <RHA_N29_RHA_Runecarver_3_3.description>护盾吸收敌人攻击后，返还吸收量的 15% 为伤害，上限 8。冷却 5 秒。</RHA_N29_RHA_Runecarver_3_3.description>
+  <RHA_N29_RHA_Runecarver_4_0.label>雷暴冠冕 · 定型</RHA_N29_RHA_Runecarver_4_0.label>
+  <RHA_N29_RHA_Runecarver_4_0.description>每四次有效攻击，以本次伤害的 12% 打击目标周围 7 格内至多四名敌人，每人上限 10。冷却 10 秒。</RHA_N29_RHA_Runecarver_4_0.description>
+  <RHA_N29_RHA_Runecarver_4_1.label>烬心冠冕 · 定型</RHA_N29_RHA_Runecarver_4_1.label>
+  <RHA_N29_RHA_Runecarver_4_1.description>实际灼烧伤害的 20% 存为余烬，每次最多存 4，总量最多 20。至少存有 8 时，下次有效攻击释放余烬的 60%，上限 16。冷却 8 秒。</RHA_N29_RHA_Runecarver_4_1.description>
+  <RHA_N29_RHA_Runecarver_4_2.label>守誓冠冕 · 定型</RHA_N29_RHA_Runecarver_4_2.label>
+  <RHA_N29_RHA_Runecarver_4_2.description>自身护盾累计吸收 30 点敌人伤害后，为 8 格内最近的其他殖民者恢复 3 点可治疗伤势。冷却 15 秒。</RHA_N29_RHA_Runecarver_4_2.description>
+  <RHA_N29_RHA_Runecarver_4_3.label>奔流蓄势 · 定型</RHA_N29_RHA_Runecarver_4_3.label>
+  <RHA_N29_RHA_Runecarver_4_3.description>每两秒检查一次位置；移动至少三格时储存 2 点电荷，上限 10。下次有效攻击释放储存量的 60%，与屏障蓄能合计上限 12。冷却 6 秒。</RHA_N29_RHA_Runecarver_4_3.description>
+  <RHA_N29_RHA_Embertide_1_0.label>焚世冠冕 · 觉醒</RHA_N29_RHA_Embertide_1_0.label>
+  <RHA_N29_RHA_Embertide_1_0.description>灼烧等级额外 +4、炎阳光环等级额外 +3。</RHA_N29_RHA_Embertide_1_0.description>
+  <RHA_N29_RHA_Embertide_1_1.label>余烬新星 · 觉醒</RHA_N29_RHA_Embertide_1_1.label>
+  <RHA_N29_RHA_Embertide_1_1.description>击杀站立敌人时，在其周围 6 格对最多 16 名站立敌人造成 90 点爆炸伤害。冷却 2 秒，衍生死亡不递归爆炸。</RHA_N29_RHA_Embertide_1_1.description>
+  <RHA_N29_RHA_Embertide_2_0.label>引燃刻痕 · 重塑</RHA_N29_RHA_Embertide_2_0.label>
+  <RHA_N29_RHA_Embertide_2_0.description>有效攻击施加 0.04 级灼烧。冷却 5 秒。</RHA_N29_RHA_Embertide_2_0.description>
+  <RHA_N29_RHA_Embertide_2_1.label>飞散余火 · 重塑</RHA_N29_RHA_Embertide_2_1.label>
+  <RHA_N29_RHA_Embertide_2_1.description>你的灼烧造成实际伤害时，向 5 格内另一名敌人施加 0.032 级灼烧。冷却 6 秒。</RHA_N29_RHA_Embertide_2_1.description>
+  <RHA_N29_RHA_Embertide_2_2.label>焚尽余烬 · 重塑</RHA_N29_RHA_Embertide_2_2.label>
+  <RHA_N29_RHA_Embertide_2_2.description>有效攻击消耗目标上由你施加的一份灼烧，将剩余伤害的 12% 立即结算，上限 12。冷却 6 秒。</RHA_N29_RHA_Embertide_2_2.description>
+  <RHA_N29_RHA_Embertide_2_3.label>灰烬护衣 · 重塑</RHA_N29_RHA_Embertide_2_3.label>
+  <RHA_N29_RHA_Embertide_2_3.description>你的灼烧造成实际伤害时，转化 20% 为自身护盾，上限 8，持续 4 秒。冷却 5 秒。</RHA_N29_RHA_Embertide_2_3.description>
+  <RHA_N29_RHA_Embertide_3_0.label>分岔电弧 · 共鸣</RHA_N29_RHA_Embertide_3_0.label>
+  <RHA_N29_RHA_Embertide_3_0.description>有效攻击向目标附近至多两名敌人释放电弧，每次造成原伤害的 5%，上限 6。冷却 4 秒。</RHA_N29_RHA_Embertide_3_0.description>
+  <RHA_N29_RHA_Embertide_3_1.label>追猎电荷 · 共鸣</RHA_N29_RHA_Embertide_3_1.label>
+  <RHA_N29_RHA_Embertide_3_1.description>5 秒内连续命中同一敌人三次，追加本次伤害的 10%，上限 10。冷却 3 秒。</RHA_N29_RHA_Embertide_3_1.description>
+  <RHA_N29_RHA_Embertide_3_2.label>孤雷回流 · 共鸣</RHA_N29_RHA_Embertide_3_2.label>
+  <RHA_N29_RHA_Embertide_3_2.description>目标附近没有其他敌人时，有效攻击产生相当于伤害 12.5% 的自身护盾，上限 10，持续 4 秒。冷却 5 秒。</RHA_N29_RHA_Embertide_3_2.description>
+  <RHA_N29_RHA_Embertide_3_3.label>接电护卫 · 共鸣</RHA_N29_RHA_Embertide_3_3.label>
+  <RHA_N29_RHA_Embertide_3_3.description>有效攻击为 8 格内最近的一名其他殖民者提供 2.5 护盾，持续 5 秒。冷却 5 秒。</RHA_N29_RHA_Embertide_3_3.description>
+  <RHA_N29_RHA_Embertide_4_0.label>烬心冠冕 · 定型</RHA_N29_RHA_Embertide_4_0.label>
+  <RHA_N29_RHA_Embertide_4_0.description>实际灼烧伤害的 20% 存为余烬，每次最多存 4，总量最多 20。至少存有 8 时，下次有效攻击释放余烬的 60%，上限 16。冷却 8 秒。</RHA_N29_RHA_Embertide_4_0.description>
+  <RHA_N29_RHA_Embertide_4_1.label>雷暴冠冕 · 定型</RHA_N29_RHA_Embertide_4_1.label>
+  <RHA_N29_RHA_Embertide_4_1.description>每四次有效攻击，以本次伤害的 12% 打击目标周围 7 格内至多四名敌人，每人上限 10。冷却 10 秒。</RHA_N29_RHA_Embertide_4_1.description>
+  <RHA_N29_RHA_Embertide_4_2.label>守誓冠冕 · 定型</RHA_N29_RHA_Embertide_4_2.label>
+  <RHA_N29_RHA_Embertide_4_2.description>自身护盾累计吸收 30 点敌人伤害后，为 8 格内最近的其他殖民者恢复 3 点可治疗伤势。冷却 15 秒。</RHA_N29_RHA_Embertide_4_2.description>
+  <RHA_N29_RHA_Embertide_4_3.label>危急庇护 · 定型</RHA_N29_RHA_Embertide_4_3.label>
+  <RHA_N29_RHA_Embertide_4_3.description>8 格内最近的其他殖民者健康低于 40% 时，给予 7.2 护盾，持续 6 秒。冷却 20 秒。</RHA_N29_RHA_Embertide_4_3.description>
+  <RHA_N29_RHA_Moonstone_1_0.label>月华庇护 · 觉醒</RHA_N29_RHA_Moonstone_1_0.label>
+  <RHA_N29_RHA_Moonstone_1_0.description>群疗等级额外 +3，自己的治疗溢出量以 50% 转为受疗者护盾，持续 10 秒，积累上限为 400×体质增益倍数。</RHA_N29_RHA_Moonstone_1_0.description>
+  <RHA_N29_RHA_Moonstone_1_1.label>救赎光束 · 觉醒</RHA_N29_RHA_Moonstone_1_1.label>
+  <RHA_N29_RHA_Moonstone_1_1.description>实际治愈伤势后，对自身 12 格内最近敌人造成本次治疗量 200% 的伤害。冷却 1 秒。</RHA_N29_RHA_Moonstone_1_1.description>
+  <RHA_N29_RHA_Moonstone_2_0.label>站稳阵线 · 重塑</RHA_N29_RHA_Moonstone_2_0.label>
+  <RHA_N29_RHA_Moonstone_2_0.description>征召并保持原地至少 2 秒时，获得 2.4 护盾，持续 4 秒。冷却 6 秒。</RHA_N29_RHA_Moonstone_2_0.description>
+  <RHA_N29_RHA_Moonstone_2_1.label>接续屏障 · 重塑</RHA_N29_RHA_Moonstone_2_1.label>
+  <RHA_N29_RHA_Moonstone_2_1.description>护盾吸收敌人攻击后，将吸收量的 14% 给予 8 格内最近的其他殖民者，上限 8，持续 4 秒。冷却 6 秒。</RHA_N29_RHA_Moonstone_2_1.description>
+  <RHA_N29_RHA_Moonstone_2_2.label>反击誓约 · 重塑</RHA_N29_RHA_Moonstone_2_2.label>
+  <RHA_N29_RHA_Moonstone_2_2.description>护盾吸收敌人攻击后，返还吸收量的 12% 为伤害，上限 8。冷却 5 秒。</RHA_N29_RHA_Moonstone_2_2.description>
+  <RHA_N29_RHA_Moonstone_2_3.label>战地包扎 · 重塑</RHA_N29_RHA_Moonstone_2_3.label>
+  <RHA_N29_RHA_Moonstone_2_3.description>护盾吸收敌人攻击后，恢复吸收量 6% 的可治疗伤势，上限 4。冷却 7 秒。另提高治疗速度 2%。</RHA_N29_RHA_Moonstone_2_3.description>
+  <RHA_N29_RHA_Moonstone_3_0.label>接电护卫 · 共鸣</RHA_N29_RHA_Moonstone_3_0.label>
+  <RHA_N29_RHA_Moonstone_3_0.description>有效攻击为 8 格内最近的一名其他殖民者提供 2.5 护盾，持续 5 秒。冷却 5 秒。</RHA_N29_RHA_Moonstone_3_0.description>
+  <RHA_N29_RHA_Moonstone_3_1.label>灰烬护衣 · 共鸣</RHA_N29_RHA_Moonstone_3_1.label>
+  <RHA_N29_RHA_Moonstone_3_1.description>你的灼烧造成实际伤害时，转化 25% 为自身护盾，上限 8，持续 4 秒。冷却 5 秒。</RHA_N29_RHA_Moonstone_3_1.description>
+  <RHA_N29_RHA_Moonstone_3_2.label>照料伤者 · 共鸣</RHA_N29_RHA_Moonstone_3_2.label>
+  <RHA_N29_RHA_Moonstone_3_2.description>每 10 秒为 8 格内最近的其他殖民者恢复 1 点可治疗伤势；只在对方健康低于 70% 时生效。</RHA_N29_RHA_Moonstone_3_2.description>
+  <RHA_N29_RHA_Moonstone_3_3.label>田间休养 · 共鸣</RHA_N29_RHA_Moonstone_3_3.label>
+  <RHA_N29_RHA_Moonstone_3_3.description>播种或收割时，每 10 秒恢复自身 1 点可治疗伤势。</RHA_N29_RHA_Moonstone_3_3.description>
+  <RHA_N29_RHA_Moonstone_4_0.label>守誓冠冕 · 定型</RHA_N29_RHA_Moonstone_4_0.label>
+  <RHA_N29_RHA_Moonstone_4_0.description>自身护盾累计吸收 30 点敌人伤害后，为 8 格内最近的其他殖民者恢复 3 点可治疗伤势。冷却 15 秒。</RHA_N29_RHA_Moonstone_4_0.description>
+  <RHA_N29_RHA_Moonstone_4_1.label>雷暴冠冕 · 定型</RHA_N29_RHA_Moonstone_4_1.label>
+  <RHA_N29_RHA_Moonstone_4_1.description>每四次有效攻击，以本次伤害的 12% 打击目标周围 7 格内至多四名敌人，每人上限 10。冷却 10 秒。</RHA_N29_RHA_Moonstone_4_1.description>
+  <RHA_N29_RHA_Moonstone_4_2.label>沃土冠冕 · 定型</RHA_N29_RHA_Moonstone_4_2.label>
+  <RHA_N29_RHA_Moonstone_4_2.description>累计播种或收割 20 秒后，为 8 格内至多三名其他殖民者各恢复 1.8 点可治疗伤势，并给予 3 护盾，持续 10 秒。冷却 20 秒。</RHA_N29_RHA_Moonstone_4_2.description>
+  <RHA_N29_RHA_Moonstone_4_3.label>危急庇护 · 定型</RHA_N29_RHA_Moonstone_4_3.label>
+  <RHA_N29_RHA_Moonstone_4_3.description>8 格内最近的其他殖民者健康低于 40% 时，给予 7.2 护盾，持续 6 秒。冷却 20 秒。</RHA_N29_RHA_Moonstone_4_3.description>
+  <RHA_N29_RHA_Dragonheart_1_0.label>远古龙皇 · 觉醒</RHA_N29_RHA_Dragonheart_1_0.label>
+  <RHA_N29_RHA_Dragonheart_1_0.description>每一层龙魂额外提供 60% 体质和 60% 伤害，最多额外各 +360%。</RHA_N29_RHA_Dragonheart_1_0.description>
+  <RHA_N29_RHA_Dragonheart_1_1.label>生命龙泉 · 觉醒</RHA_N29_RHA_Dragonheart_1_1.label>
+  <RHA_N29_RHA_Dragonheart_1_1.description>每秒恢复额外 +6 点伤势；约每 4.2 秒为 10 格内最近 12 名己方人类殖民者各恢复 30 点伤势。</RHA_N29_RHA_Dragonheart_1_1.description>
+  <RHA_N29_RHA_Dragonheart_2_0.label>熟稔农事 · 重塑</RHA_N29_RHA_Dragonheart_2_0.label>
+  <RHA_N29_RHA_Dragonheart_2_0.description>植物工作速度提高 1.6%，收获产量提高 0.8%。</RHA_N29_RHA_Dragonheart_2_0.description>
+  <RHA_N29_RHA_Dragonheart_2_1.label>苗圃庇护 · 重塑</RHA_N29_RHA_Dragonheart_2_1.label>
+  <RHA_N29_RHA_Dragonheart_2_1.description>播种或收割时，每 10 秒为 8 格内最近的其他殖民者提供 2.4 护盾，持续 10 秒。</RHA_N29_RHA_Dragonheart_2_1.description>
+  <RHA_N29_RHA_Dragonheart_2_2.label>照料伤者 · 重塑</RHA_N29_RHA_Dragonheart_2_2.label>
+  <RHA_N29_RHA_Dragonheart_2_2.description>每 10 秒为 8 格内最近的其他殖民者恢复 0.8 点可治疗伤势；只在对方健康低于 70% 时生效。</RHA_N29_RHA_Dragonheart_2_2.description>
+  <RHA_N29_RHA_Dragonheart_2_3.label>田间休养 · 重塑</RHA_N29_RHA_Dragonheart_2_3.label>
+  <RHA_N29_RHA_Dragonheart_2_3.description>播种或收割时，每 10 秒恢复自身 0.8 点可治疗伤势。</RHA_N29_RHA_Dragonheart_2_3.description>
+  <RHA_N29_RHA_Dragonheart_3_0.label>站稳阵线 · 共鸣</RHA_N29_RHA_Dragonheart_3_0.label>
+  <RHA_N29_RHA_Dragonheart_3_0.description>征召并保持原地至少 2 秒时，获得 3 护盾，持续 4 秒。冷却 6 秒。</RHA_N29_RHA_Dragonheart_3_0.description>
+  <RHA_N29_RHA_Dragonheart_3_1.label>接续屏障 · 共鸣</RHA_N29_RHA_Dragonheart_3_1.label>
+  <RHA_N29_RHA_Dragonheart_3_1.description>护盾吸收敌人攻击后，将吸收量的 17.5% 给予 8 格内最近的其他殖民者，上限 8，持续 4 秒。冷却 6 秒。</RHA_N29_RHA_Dragonheart_3_1.description>
+  <RHA_N29_RHA_Dragonheart_3_2.label>战地包扎 · 共鸣</RHA_N29_RHA_Dragonheart_3_2.label>
+  <RHA_N29_RHA_Dragonheart_3_2.description>护盾吸收敌人攻击后，恢复吸收量 7.5% 的可治疗伤势，上限 4。冷却 7 秒。另提高治疗速度 2.5%。</RHA_N29_RHA_Dragonheart_3_2.description>
+  <RHA_N29_RHA_Dragonheart_3_3.label>接电护卫 · 共鸣</RHA_N29_RHA_Dragonheart_3_3.label>
+  <RHA_N29_RHA_Dragonheart_3_3.description>有效攻击为 8 格内最近的一名其他殖民者提供 2.5 护盾，持续 5 秒。冷却 5 秒。</RHA_N29_RHA_Dragonheart_3_3.description>
+  <RHA_N29_RHA_Dragonheart_4_0.label>沃土冠冕 · 定型</RHA_N29_RHA_Dragonheart_4_0.label>
+  <RHA_N29_RHA_Dragonheart_4_0.description>累计播种或收割 20 秒后，为 8 格内至多三名其他殖民者各恢复 1.8 点可治疗伤势，并给予 3 护盾，持续 10 秒。冷却 20 秒。</RHA_N29_RHA_Dragonheart_4_0.description>
+  <RHA_N29_RHA_Dragonheart_4_1.label>守誓冠冕 · 定型</RHA_N29_RHA_Dragonheart_4_1.label>
+  <RHA_N29_RHA_Dragonheart_4_1.description>自身护盾累计吸收 30 点敌人伤害后，为 8 格内最近的其他殖民者恢复 3 点可治疗伤势。冷却 15 秒。</RHA_N29_RHA_Dragonheart_4_1.description>
+  <RHA_N29_RHA_Dragonheart_4_2.label>危急庇护 · 定型</RHA_N29_RHA_Dragonheart_4_2.label>
+  <RHA_N29_RHA_Dragonheart_4_2.description>8 格内最近的其他殖民者健康低于 40% 时，给予 7.2 护盾，持续 6 秒。冷却 20 秒。</RHA_N29_RHA_Dragonheart_4_2.description>
+  <RHA_N29_RHA_Dragonheart_4_3.label>照料伤者 · 定型</RHA_N29_RHA_Dragonheart_4_3.label>
+  <RHA_N29_RHA_Dragonheart_4_3.description>每 10 秒为 8 格内最近的其他殖民者恢复 1.2 点可治疗伤势；只在对方健康低于 70% 时生效。</RHA_N29_RHA_Dragonheart_4_3.description>
+  <RHA_N29_RHA_TRIAL_StormPike_1_0.label>天罚贯心 · 觉醒</RHA_N29_RHA_TRIAL_StormPike_1_0.label>
+  <RHA_N29_RHA_TRIAL_StormPike_1_0.description>霆王之矛触发时，先对原目标追加 500＋本次直接伤害 200% 的贯心雷击，再正常释放雷暴。 复制伤害沿用原结算值；固定追加部分仍可增幅。</RHA_N29_RHA_TRIAL_StormPike_1_0.description>
+  <RHA_N29_RHA_TRIAL_StormPike_1_1.label>雷海蔓延 · 觉醒</RHA_N29_RHA_TRIAL_StormPike_1_1.label>
+  <RHA_N29_RHA_TRIAL_StormPike_1_1.description>霆王之矛的雷暴范围扩大到 8 格，最多命中 16 名敌人，伤害与冷却沿用原效果。 复制伤害沿用原结算值；固定追加部分仍可增幅。</RHA_N29_RHA_TRIAL_StormPike_1_1.description>
+  <RHA_N29_RHA_TRIAL_StormPike_2_0.label>分岔电弧 · 重塑</RHA_N29_RHA_TRIAL_StormPike_2_0.label>
+  <RHA_N29_RHA_TRIAL_StormPike_2_0.description>有效攻击向目标附近至多两名敌人释放电弧，每次造成原伤害的 4%，上限 6。冷却 4 秒。</RHA_N29_RHA_TRIAL_StormPike_2_0.description>
+  <RHA_N29_RHA_TRIAL_StormPike_2_1.label>追猎电荷 · 重塑</RHA_N29_RHA_TRIAL_StormPike_2_1.label>
+  <RHA_N29_RHA_TRIAL_StormPike_2_1.description>5 秒内连续命中同一敌人三次，追加本次伤害的 8%，上限 10。冷却 3 秒。</RHA_N29_RHA_TRIAL_StormPike_2_1.description>
+  <RHA_N29_RHA_TRIAL_StormPike_2_2.label>孤雷回流 · 重塑</RHA_N29_RHA_TRIAL_StormPike_2_2.label>
+  <RHA_N29_RHA_TRIAL_StormPike_2_2.description>目标附近没有其他敌人时，有效攻击产生相当于伤害 10% 的自身护盾，上限 10，持续 4 秒。冷却 5 秒。</RHA_N29_RHA_TRIAL_StormPike_2_2.description>
+  <RHA_N29_RHA_TRIAL_StormPike_2_3.label>接电护卫 · 重塑</RHA_N29_RHA_TRIAL_StormPike_2_3.label>
+  <RHA_N29_RHA_TRIAL_StormPike_2_3.description>有效攻击为 8 格内最近的一名其他殖民者提供 2 护盾，持续 5 秒。冷却 5 秒。</RHA_N29_RHA_TRIAL_StormPike_2_3.description>
+  <RHA_N29_RHA_TRIAL_StormPike_3_0.label>引燃刻痕 · 共鸣</RHA_N29_RHA_TRIAL_StormPike_3_0.label>
+  <RHA_N29_RHA_TRIAL_StormPike_3_0.description>有效攻击施加 0.05 级灼烧。冷却 5 秒。</RHA_N29_RHA_TRIAL_StormPike_3_0.description>
+  <RHA_N29_RHA_TRIAL_StormPike_3_1.label>灰烬护衣 · 共鸣</RHA_N29_RHA_TRIAL_StormPike_3_1.label>
+  <RHA_N29_RHA_TRIAL_StormPike_3_1.description>你的灼烧造成实际伤害时，转化 25% 为自身护盾，上限 8，持续 4 秒。冷却 5 秒。</RHA_N29_RHA_TRIAL_StormPike_3_1.description>
+  <RHA_N29_RHA_TRIAL_StormPike_3_2.label>接续屏障 · 共鸣</RHA_N29_RHA_TRIAL_StormPike_3_2.label>
+  <RHA_N29_RHA_TRIAL_StormPike_3_2.description>护盾吸收敌人攻击后，将吸收量的 17.5% 给予 8 格内最近的其他殖民者，上限 8，持续 4 秒。冷却 6 秒。</RHA_N29_RHA_TRIAL_StormPike_3_2.description>
+  <RHA_N29_RHA_TRIAL_StormPike_3_3.label>反击誓约 · 共鸣</RHA_N29_RHA_TRIAL_StormPike_3_3.label>
+  <RHA_N29_RHA_TRIAL_StormPike_3_3.description>护盾吸收敌人攻击后，返还吸收量的 15% 为伤害，上限 8。冷却 5 秒。</RHA_N29_RHA_TRIAL_StormPike_3_3.description>
+  <RHA_N29_RHA_TRIAL_StormPike_4_0.label>雷暴冠冕 · 定型</RHA_N29_RHA_TRIAL_StormPike_4_0.label>
+  <RHA_N29_RHA_TRIAL_StormPike_4_0.description>每四次有效攻击，以本次伤害的 12% 打击目标周围 7 格内至多四名敌人，每人上限 10。冷却 10 秒。</RHA_N29_RHA_TRIAL_StormPike_4_0.description>
+  <RHA_N29_RHA_TRIAL_StormPike_4_1.label>烬心冠冕 · 定型</RHA_N29_RHA_TRIAL_StormPike_4_1.label>
+  <RHA_N29_RHA_TRIAL_StormPike_4_1.description>实际灼烧伤害的 20% 存为余烬，每次最多存 4，总量最多 20。至少存有 8 时，下次有效攻击释放余烬的 60%，上限 16。冷却 8 秒。</RHA_N29_RHA_TRIAL_StormPike_4_1.description>
+  <RHA_N29_RHA_TRIAL_StormPike_4_2.label>守誓冠冕 · 定型</RHA_N29_RHA_TRIAL_StormPike_4_2.label>
+  <RHA_N29_RHA_TRIAL_StormPike_4_2.description>自身护盾累计吸收 30 点敌人伤害后，为 8 格内最近的其他殖民者恢复 3 点可治疗伤势。冷却 15 秒。</RHA_N29_RHA_TRIAL_StormPike_4_2.description>
+  <RHA_N29_RHA_TRIAL_StormPike_4_3.label>奔流蓄势 · 定型</RHA_N29_RHA_TRIAL_StormPike_4_3.label>
+  <RHA_N29_RHA_TRIAL_StormPike_4_3.description>每两秒检查一次位置；移动至少三格时储存 2 点电荷，上限 10。下次有效攻击释放储存量的 60%，与屏障蓄能合计上限 12。冷却 6 秒。</RHA_N29_RHA_TRIAL_StormPike_4_3.description>
+  <RHA_N29_RHA_TRIAL_FurnacePlate_1_0.label>炉心庇护 · 觉醒</RHA_N29_RHA_TRIAL_FurnacePlate_1_0.label>
+  <RHA_N29_RHA_TRIAL_FurnacePlate_1_0.description>炉心战铠触发时，额外为 10 格内其他自由殖民者刷新 180＋自身体质倍率×10 点护盾，持续 10 秒。</RHA_N29_RHA_TRIAL_FurnacePlate_1_0.description>
+  <RHA_N29_RHA_TRIAL_FurnacePlate_1_1.label>熔炉复仇 · 觉醒</RHA_N29_RHA_TRIAL_FurnacePlate_1_1.label>
+  <RHA_N29_RHA_TRIAL_FurnacePlate_1_1.description>炉心战铠触发时，震击自身 5 格内最多 12 名敌人，造成 160＋自身体质倍率×40 点追加伤害。</RHA_N29_RHA_TRIAL_FurnacePlate_1_1.description>
+  <RHA_N29_RHA_TRIAL_FurnacePlate_2_0.label>站稳阵线 · 重塑</RHA_N29_RHA_TRIAL_FurnacePlate_2_0.label>
+  <RHA_N29_RHA_TRIAL_FurnacePlate_2_0.description>征召并保持原地至少 2 秒时，获得 2.4 护盾，持续 4 秒。冷却 6 秒。</RHA_N29_RHA_TRIAL_FurnacePlate_2_0.description>
+  <RHA_N29_RHA_TRIAL_FurnacePlate_2_1.label>接续屏障 · 重塑</RHA_N29_RHA_TRIAL_FurnacePlate_2_1.label>
+  <RHA_N29_RHA_TRIAL_FurnacePlate_2_1.description>护盾吸收敌人攻击后，将吸收量的 14% 给予 8 格内最近的其他殖民者，上限 8，持续 4 秒。冷却 6 秒。</RHA_N29_RHA_TRIAL_FurnacePlate_2_1.description>
+  <RHA_N29_RHA_TRIAL_FurnacePlate_2_2.label>反击誓约 · 重塑</RHA_N29_RHA_TRIAL_FurnacePlate_2_2.label>
+  <RHA_N29_RHA_TRIAL_FurnacePlate_2_2.description>护盾吸收敌人攻击后，返还吸收量的 12% 为伤害，上限 8。冷却 5 秒。</RHA_N29_RHA_TRIAL_FurnacePlate_2_2.description>
+  <RHA_N29_RHA_TRIAL_FurnacePlate_2_3.label>战地包扎 · 重塑</RHA_N29_RHA_TRIAL_FurnacePlate_2_3.label>
+  <RHA_N29_RHA_TRIAL_FurnacePlate_2_3.description>护盾吸收敌人攻击后，恢复吸收量 6% 的可治疗伤势，上限 4。冷却 7 秒。另提高治疗速度 2%。</RHA_N29_RHA_TRIAL_FurnacePlate_2_3.description>
+  <RHA_N29_RHA_TRIAL_FurnacePlate_3_0.label>接电护卫 · 共鸣</RHA_N29_RHA_TRIAL_FurnacePlate_3_0.label>
+  <RHA_N29_RHA_TRIAL_FurnacePlate_3_0.description>有效攻击为 8 格内最近的一名其他殖民者提供 2.5 护盾，持续 5 秒。冷却 5 秒。</RHA_N29_RHA_TRIAL_FurnacePlate_3_0.description>
+  <RHA_N29_RHA_TRIAL_FurnacePlate_3_1.label>灰烬护衣 · 共鸣</RHA_N29_RHA_TRIAL_FurnacePlate_3_1.label>
+  <RHA_N29_RHA_TRIAL_FurnacePlate_3_1.description>你的灼烧造成实际伤害时，转化 25% 为自身护盾，上限 8，持续 4 秒。冷却 5 秒。</RHA_N29_RHA_TRIAL_FurnacePlate_3_1.description>
+  <RHA_N29_RHA_TRIAL_FurnacePlate_3_2.label>照料伤者 · 共鸣</RHA_N29_RHA_TRIAL_FurnacePlate_3_2.label>
+  <RHA_N29_RHA_TRIAL_FurnacePlate_3_2.description>每 10 秒为 8 格内最近的其他殖民者恢复 1 点可治疗伤势；只在对方健康低于 70% 时生效。</RHA_N29_RHA_TRIAL_FurnacePlate_3_2.description>
+  <RHA_N29_RHA_TRIAL_FurnacePlate_3_3.label>田间休养 · 共鸣</RHA_N29_RHA_TRIAL_FurnacePlate_3_3.label>
+  <RHA_N29_RHA_TRIAL_FurnacePlate_3_3.description>播种或收割时，每 10 秒恢复自身 1 点可治疗伤势。</RHA_N29_RHA_TRIAL_FurnacePlate_3_3.description>
+  <RHA_N29_RHA_TRIAL_FurnacePlate_4_0.label>守誓冠冕 · 定型</RHA_N29_RHA_TRIAL_FurnacePlate_4_0.label>
+  <RHA_N29_RHA_TRIAL_FurnacePlate_4_0.description>自身护盾累计吸收 30 点敌人伤害后，为 8 格内最近的其他殖民者恢复 3 点可治疗伤势。冷却 15 秒。</RHA_N29_RHA_TRIAL_FurnacePlate_4_0.description>
+  <RHA_N29_RHA_TRIAL_FurnacePlate_4_1.label>雷暴冠冕 · 定型</RHA_N29_RHA_TRIAL_FurnacePlate_4_1.label>
+  <RHA_N29_RHA_TRIAL_FurnacePlate_4_1.description>每四次有效攻击，以本次伤害的 12% 打击目标周围 7 格内至多四名敌人，每人上限 10。冷却 10 秒。</RHA_N29_RHA_TRIAL_FurnacePlate_4_1.description>
+  <RHA_N29_RHA_TRIAL_FurnacePlate_4_2.label>沃土冠冕 · 定型</RHA_N29_RHA_TRIAL_FurnacePlate_4_2.label>
+  <RHA_N29_RHA_TRIAL_FurnacePlate_4_2.description>累计播种或收割 20 秒后，为 8 格内至多三名其他殖民者各恢复 1.8 点可治疗伤势，并给予 3 护盾，持续 10 秒。冷却 20 秒。</RHA_N29_RHA_TRIAL_FurnacePlate_4_2.description>
+  <RHA_N29_RHA_TRIAL_FurnacePlate_4_3.label>危急庇护 · 定型</RHA_N29_RHA_TRIAL_FurnacePlate_4_3.label>
+  <RHA_N29_RHA_TRIAL_FurnacePlate_4_3.description>8 格内最近的其他殖民者健康低于 40% 时，给予 7.2 护盾，持续 6 秒。冷却 20 秒。</RHA_N29_RHA_TRIAL_FurnacePlate_4_3.description>
+</LanguageData>

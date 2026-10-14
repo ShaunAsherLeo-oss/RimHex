@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RHA_BloodrageMemory037.label>怒血记忆</RHA_BloodrageMemory037.label>
+  <RHA_BloodrageMemory037.description>真实伤口修复后四秒内，仅代表暴君之握采用治疗前后更低的原生健康摘要作为缺血输入；继续治疗不延长初始窗口，其他装备原属性保留。</RHA_BloodrageMemory037.description>
+  <RHA_BloodrageFury037.label>狂怒外溢</RHA_BloodrageFury037.label>
+  <RHA_BloodrageFury037.description>实际敌伤按健康尺度积攒余量，最多五层怒火。下一次原生命中先花全额再攻击周围其他敌人，无侧敌则攻击主目标。六秒窗口到期清除余量和层数。</RHA_BloodrageFury037.description>
+  <RHA_BloodrageDebt037.label>血线伤债</RHA_BloodrageDebt037.label>
+  <RHA_BloodrageDebt037.description>真实敌伤从35%以上跌至不高于35%后，三秒内后续受保护伤口的35%延期。卸装或离图不删已借伤，五次一秒间隔在保存部位支付，不再次过护甲、护盾或延期。</RHA_BloodrageDebt037.description>
+</LanguageData>

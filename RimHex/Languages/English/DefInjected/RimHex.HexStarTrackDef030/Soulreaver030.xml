@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_STAR_Relic_Soulreaver.nodes.0.label>Soul Vessel</RHA_STAR_Relic_Soulreaver.nodes.0.label>
+  <RHA_STAR_Relic_Soulreaver.nodes.0.description>Retains original soul growth, damage, regeneration and awakening. Later nodes require an actual integer soul gain from settled combat contribution. Fractional progress, capped gains and recursive settlement from star-generated damage do not trigger them. They spend no permanent souls; progression stays with the item.</RHA_STAR_Relic_Soulreaver.nodes.0.description>
+  <RHA_STAR_Relic_Soulreaver.nodes.1.label>Lingering Echo</RHA_STAR_Relic_Soulreaver.nodes.1.label>
+  <RHA_STAR_Relic_Soulreaver.nodes.1.description>After actually gaining souls, store one echo for 5 seconds. A later ordinary hit on an enemy spends it for 75 additional damage. One echo maximum, with an 8-second creation cooldown. Gaining several souls at once does not create extra echoes. Base rewards: damage 75.</RHA_STAR_Relic_Soulreaver.nodes.1.description>
+  <RHA_STAR_Relic_Soulreaver.nodes.2.label>Soulbound Veil</RHA_STAR_Relic_Soulreaver.nodes.2.label>
+  <RHA_STAR_Relic_Soulreaver.nodes.2.description>After actually gaining souls, shield yourself for 50 base points over 3 seconds, once per 8 seconds. Several souls gained at once still grant only one shield. Base rewards: shield 50.</RHA_STAR_Relic_Soulreaver.nodes.2.description>
+  <RHA_STAR_Relic_Soulreaver.nodes.3.label>Divided Echo</RHA_STAR_Relic_Soulreaver.nodes.3.label>
+  <RHA_STAR_Relic_Soulreaver.nodes.3.description>After Lingering Echo deals actual bonus damage, strike one other enemy within 3 cells of the impact and clear sight for 25 damage, once per 8 seconds. Never strikes the original target again if no other enemy is available. Base rewards: damage 25.</RHA_STAR_Relic_Soulreaver.nodes.3.description>
+  <RHA_STAR_Relic_Soulreaver.nodes.4.label>Echo Recovery</RHA_STAR_Relic_Soulreaver.nodes.4.label>
+  <RHA_STAR_Relic_Soulreaver.nodes.4.description>After Lingering Echo deals actual bonus damage, heal 20 base points of your recoverable injuries, once per 8 seconds. Prevented bonus damage grants no healing; permanent scars and missing parts are not restored. Base rewards: healing 20.</RHA_STAR_Relic_Soulreaver.nodes.4.description>
+  <RHA_STAR_Relic_Soulreaver.nodes.5.label>Shared Soul Lantern</RHA_STAR_Relic_Soulreaver.nodes.5.label>
+  <RHA_STAR_Relic_Soulreaver.nodes.5.description>After actually gaining souls, also shield the nearest other eligible colonist within 4 cells and clear sight for 50 base points over 3 seconds, once per 8 seconds. Resolves independently from Soulbound Veil; never substitutes you when no ally is eligible. Base rewards: shield 50.</RHA_STAR_Relic_Soulreaver.nodes.5.description>
+  <RHA_STAR_Relic_Soulreaver.nodes.6.label>Returning Breath</RHA_STAR_Relic_Soulreaver.nodes.6.label>
+  <RHA_STAR_Relic_Soulreaver.nodes.6.description>After actually gaining souls, also heal 20 base points of your recoverable injuries, once per 8 seconds. Resolves independently from Soulbound Veil; full health grants nothing extra. Base rewards: healing 20.</RHA_STAR_Relic_Soulreaver.nodes.6.description>
+</LanguageData>

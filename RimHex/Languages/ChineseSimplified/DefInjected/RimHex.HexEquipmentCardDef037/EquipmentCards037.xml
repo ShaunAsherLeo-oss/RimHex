@@ -1,0 +1,600 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_REX01A.label>蜕鳞护体</RHA_REX01A.label>
+  <RHA_REX01A.description>受到敌方实际伤害后，自动获得持续5秒的龙鳞护盾，数值为最大生命的4%，另加每层龙心成长1%；该次伤害先结算，再生成护盾。每12秒最多触发一次，龙心六层时护盾固定为最大生命的10%。护盾自然到期时，剩余量的30%转为一次治疗，吸收耗尽则不返还。本卡全程随原有战斗行为自动结算。
+机制唯一；同卡重复不增护盾、不减冷却。</RHA_REX01A.description>
+  <RHA_REX01A.theme>装备专属</RHA_REX01A.theme>
+  <RHA_REX01B.label>六腔龙息</RHA_REX01B.label>
+  <RHA_REX01B.description>每累计6次原生直接命中，向当前受击敌人及其周围2格内至多2名敌人喷出龙息，各造成W的12%灼烧伤害，最低12点；龙心每有一层成长，再增加W的2%伤害。龙息额外赋予目标持续3秒的余烬，期间目标首次受到穿戴者的下一次原生直接命中时，再承受W的10%灼烧伤害，最低10点。
+六击与余烬机制唯一；同源余烬只刷新时间。</RHA_REX01B.description>
+  <RHA_REX01B.theme>装备专属</RHA_REX01B.theme>
+  <RHA_REX01C.label>裁决薪火</RHA_REX01C.label>
+  <RHA_REX01C.description>龙心自身的处决成功后，记录被处决目标最大生命的10%，最多记录W的50%薪火，最低容量40点，保留8秒。穿戴者下一次原生直接命中自动消耗薪火，对主目标追加等量灼烧伤害；若本次命中时穿戴者生命低于50%，则改为获得等量护盾，持续5秒。一次处决只能产生一份薪火。
+机制唯一；多次处决只保留数值较高的一份并刷新8秒。</RHA_REX01C.description>
+  <RHA_REX01C.theme>装备专属</RHA_REX01C.theme>
+  <RHA_REX02A.label>分叉刻线</RHA_REX02A.label>
+  <RHA_REX02A.description>装备原生连锁闪电完成后，若该轮至少命中2名不同敌人，自动从最后一名命中者处分出一道支线，寻找其4格内未被该轮闪电命中的最近敌人，造成本轮原生闪电单目标最高实际伤害60%的电击伤害，最低20点。若没有新目标，改为给予穿戴者20点护盾，持续4秒。每轮原生闪电仅结算一次分叉。
+分叉机制唯一；重复同卡不增加支线数量。</RHA_REX02A.description>
+  <RHA_REX02A.theme>装备专属</RHA_REX02A.theme>
+  <RHA_REX02B.label>单极电容</RHA_REX02B.label>
+  <RHA_REX02B.description>原生连锁闪电本轮只命中1名敌人时，在该敌人身上放置持续6秒的电容。穿戴者随后对其每次原生直接命中，令电容储存W的10%电能，最低8点；第三次充能或持续时间结束时，自动释放全部电能为电击伤害，最多储存三次充能。新一轮孤立闪电只刷新持续时间，不清空已储电能。
+每个目标仅一个本人电容；重复卡不提高储能上限。
+建电容时冻结单次充能量；孤立闪电仅延长期限，不更改单次充能快照。每次充能的根事件与来源链也保存。</RHA_REX02B.description>
+  <RHA_REX02B.theme>装备专属</RHA_REX02B.theme>
+  <RHA_REX02C.label>符文接地</RHA_REX02C.label>
+  <RHA_REX02C.description>每轮原生连锁闪电结束时，按本轮实际命中的不同敌人数，生成至多3枚接地符文，持续6秒。穿戴者及其4格内友军每次受到敌方伤害后，自动消耗一枚符文，获得18点护盾持续3秒。每个角色每秒最多领取一次，优先处理最早发生的伤害事件。本卡全程随原有战斗行为自动结算。
+机制唯一；本人符文总数最多3，新符补足数量并刷新时间。</RHA_REX02C.description>
+  <RHA_REX02C.theme>装备专属</RHA_REX02C.theme>
+  <RHA_REX03A.label>外环破片</RHA_REX03A.label>
+  <RHA_REX03A.description>装备原生爆炸完成后，自动寻找距爆心4.5格之外、7格以内最近的2名敌人，各发射一枚造成本轮原生爆炸单目标最高实际伤害30%的锐器伤害，最低18点的破片。破片只针对有直线视野的敌人，不穿墙，也不把原爆炸范围内的单位重复列为目标。每次原生爆炸最多生成2枚，没有合格目标时直接结束。
+机制唯一；同卡重复不增加破片或半径。</RHA_REX03A.description>
+  <RHA_REX03A.theme>装备专属</RHA_REX03A.theme>
+  <RHA_REX03B.label>即时震荡</RHA_REX03B.label>
+  <RHA_REX03B.description>爆裂法球保留原爆炸的全部伤害。爆炸对敌人造成伤害后，立即对爆心2.5格内最近的最多4名可见、未倒地敌人追加钝器伤害。基础伤害为该次爆炸对单个敌人造成的最高实际伤害的40%，最低25点。
+需持有此个人卡并穿戴爆裂法球。</RHA_REX03B.description>
+  <RHA_REX03B.theme>装备专属</RHA_REX03B.theme>
+  <RHA_REX03C.label>压缩爆心</RHA_REX03C.label>
+  <RHA_REX03C.description>原生爆炸结算前，统计其半径内可命中的活体敌人；若只有1名，令该目标承受一次其原爆炸实际伤害50%的额外爆炸伤害，最低40点，并获得持续4秒的震裂状态，其锐器护甲降低12个百分点。若有2名以上敌人，本卡不改动爆炸。目标统计不包含倒地者、友军、建筑及被完全遮挡的单位。
+机制唯一；震裂只刷新时间，同来源不累加护甲削减。</RHA_REX03C.description>
+  <RHA_REX03C.theme>装备专属</RHA_REX03C.theme>
+  <RHA_REX04A.label>战功授印</RHA_REX04A.label>
+  <RHA_REX04A.description>每累计5次王冠认可的有效贡献结算，给穿戴者及5格内原生健康比例最低的另一名友军授印，持续8秒、共3次。每次造成正值的原生直接伤害时消费一次，追加钝伤为授印时该受益者最近一次原生实伤W的10%，最低8点；追加伤害正常经过护甲。小数贡献每轮也只推进一次；王冠原有物品成长与20点后的衰减不变。同一作者的新印补至3次并刷新8秒；卸下来源装备结束剩余授印。友方动物可作为受益者。</RHA_REX04A.description>
+  <RHA_REX04A.theme>装备专属</RHA_REX04A.theme>
+  <RHA_REX04B.label>战功传承</RHA_REX04B.label>
+  <RHA_REX04B.description>魔王之冕的声望提高时，额外获得该次生命与伤害成长的50%，作为个人永久加成。
+持有本卡并穿戴魔王之冕时生效。</RHA_REX04B.description>
+  <RHA_REX04B.theme>装备专属</RHA_REX04B.theme>
+  <RHA_REX04C.label>王命庇护</RHA_REX04C.label>
+  <RHA_REX04C.description>原贡献结算真正增加王冠物品成长时获得1层御令，最多3层，每次刷新30秒。穿戴者或4格内同阵营友军受到单次至少15点实际敌方伤害后，消费1层，修复最多12点真实伤口，并获得3秒的10%承伤减免。每个来源对同一受益者每3秒最多触发一次。原伤先发生，治疗与减伤不追溯原伤；多位王冠作者的同名减伤不相乘。卸下来源装备只清除该来源的临时效果，受益者冷却继续保存。</RHA_REX04C.description>
+  <RHA_REX04C.theme>装备专属</RHA_REX04C.theme>
+  <RHA_REX05A.label>判决预告</RHA_REX05A.label>
+  <RHA_REX05A.description>装备每三击产生的原生额外打击若未击倒目标，便给目标挂上持续4秒的判决。穿戴者对有本人判决的敌人进行下一次原生直接命中时，仅对这一次命中将本装备处决阈值额外提高5个百分点，随后消耗判决。判决不直接造成伤害，也不会让原本不能处决的敌人变得可处决。
+机制唯一；同来源判决只刷新持续时间。</RHA_REX05A.description>
+  <RHA_REX05A.theme>装备专属</RHA_REX05A.theme>
+  <RHA_REX05B.label>弧刃余割</RHA_REX05B.label>
+  <RHA_REX05B.description>装备原生第三击额外打击结算后，向主目标周围2格内最近的2名其他敌人各造成一次相当于该次额外打击结算前伤害35%的锐器伤害，最低每名15点。弧刃不复制原攻击的其他附加效果，也不改变主目标的体型计算。没有其他敌人时，主目标自动获得持续3秒的15%移动减速。
+分叉和孤立减速机制唯一；同源减速只刷新。</RHA_REX05B.description>
+  <RHA_REX05B.theme>装备专属</RHA_REX05B.theme>
+  <RHA_REX05C.label>溢杀封存</RHA_REX05C.label>
+  <RHA_REX05C.description>原生直接命中及镰刀原生第三击额外打击结算后，按实际受击部位记录超额伤害：读取护甲和原生保命保护后的伤口伤害，扣除该部位受击前剩余健康。首次入池冻结容量max(60，0.6W)，后续仅补入当前容量并刷新8秒。下一次原生直接命中先消费旧池，追加其50%的锐器伤害，再记录该击新产生的超额。处决移除及其他派生伤害不计。到期、卸装或离图清空；保留每笔入池的根事件及来源链，合并后只造成一次附伤。机制唯一。</RHA_REX05C.description>
+  <RHA_REX05C.theme>装备专属</RHA_REX05C.theme>
+  <RHA_REX06A.label>封血储池</RHA_REX06A.label>
+  <RHA_REX06A.description>本装备原生直接吸血产生的溢出治疗，按50%存入血池，血池容量为穿戴者最大生命的20%。受到敌方实际伤害后，自动从血池取出不超过该次失血60%的数值，转为持续4秒的护盾。每秒最多取血一次，护盾可补充但不能超过最大生命的12%，血池本身不会持续衰减。
+机制唯一；重复卡不增加池容量或取血比例。</RHA_REX06A.description>
+  <RHA_REX06A.theme>装备专属</RHA_REX06A.theme>
+  <RHA_REX06B.label>血脉转输</RHA_REX06B.label>
+  <RHA_REX06B.description>装备原生直接吸血结算时，若5格内存在生命低于70%的活体友军，则将这次可治疗量的30%转给其中生命比例最低的1人，穿戴者获得剩余70%；没有合格友军时仍全部自疗。每秒最多转输一次，超过该频率的原生吸血全部自疗；转输距离在本次吸血结算时重新检查。
+分流机制唯一；重复卡不会再次拆分同次吸血。</RHA_REX06B.description>
+  <RHA_REX06B.theme>装备专属</RHA_REX06B.theme>
+  <RHA_REX06C.label>血压反冲</RHA_REX06C.label>
+  <RHA_REX06C.description>在连续4秒窗口内累计承受达到最大生命20%的实际敌方伤害后，准备一次持续6秒的反冲。下一次原生直接命中时，向主目标及其2格内最近的2名敌人各造成本窗口累计失血25%的钝器伤害，每名上限为W的50%，最低上限35点；反冲释放后进入10秒冷却，冷却期间不记录失血。
+机制唯一；准备状态不重复积累或叠层。</RHA_REX06C.description>
+  <RHA_REX06C.theme>装备专属</RHA_REX06C.theme>
+  <RHA_REX07A.label>锻钢护片</RHA_REX07A.label>
+  <RHA_REX07A.description>每次获得装备原生钢铁印记时，自动获得1片护片，最多3片，持续12秒。接下来每次受到敌方实际伤害后，消耗1片护片并获得12点护盾，持续3秒。若该次原生印记由近战命中获得，新增护片还使穿戴者的下一次原生直接命中额外造成W的12%锐器伤害，最低8点，附伤效果只保存一次。
+机制唯一；护片刷新总持续时间；附伤不可累计多份。</RHA_REX07A.description>
+  <RHA_REX07A.theme>装备专属</RHA_REX07A.theme>
+  <RHA_REX07B.label>淬火裂甲</RHA_REX07B.label>
+  <RHA_REX07B.description>获取钢铁印记的那次原生有效命中，额外在受击目标身上留下1层淬裂，持续8秒，每层令其锐器护甲降低8个百分点，最多3层。该目标受到穿戴者下一次原生直接命中时，如果已有3层淬裂，自动引爆为W的35%锐器伤害，最低24点并清除全部层数。本卡不缩短原有2秒印记间隔。
+机制唯一；同来源新层刷新8秒，不同穿戴者各自记录。</RHA_REX07B.description>
+  <RHA_REX07B.theme>装备专属</RHA_REX07B.theme>
+  <RHA_REX07C.label>战铸钢躯</RHA_REX07C.label>
+  <RHA_REX07C.description>实际穿戴本装备时，原生战斗钢铁成长立即额外增加50%，沿用原触发间隔。旧存档已获得的预锻胚每次消耗一枚，再额外增加50%；小数成长继续累计。同名卡只生效一次，无需生产工单。</RHA_REX07C.description>
+  <RHA_REX07C.theme>装备专属</RHA_REX07C.theme>
+  <RHA_REX08A.label>避难脉冲</RHA_REX08A.label>
+  <RHA_REX08A.description>装备原生免伤实际触发后，自动给穿戴者4格内生命比例最低的2名友军各施加18点护盾，持续5秒；穿戴者不参与这次选择。若范围内没有合格友军，则把同次原生35点治疗中实际溢出的部分转为穿戴者护盾，最多25点，持续5秒。每次原生免伤只产生一次避难脉冲。
+机制唯一；同来源避难盾取较高值并刷新，不相加。</RHA_REX08A.description>
+  <RHA_REX08A.theme>装备专属</RHA_REX08A.theme>
+  <RHA_REX08B.label>迟伤合约</RHA_REX08B.label>
+  <RHA_REX08B.description>原生免伤触发后的4秒内，穿戴者受到的敌方伤害在护甲及其他减伤结算后，将其中30%移入迟伤池，其余立即扣除生命。池中伤害从窗口结束后起均分为8次，每秒支付一次。迟伤池最多容纳最大生命的25%，超出部分照常立即承受；原生护符仍按原有30秒节奏运作。
+机制唯一；同卡重复不增加延期比例；已有迟伤未付完时不能开新池。</RHA_REX08B.description>
+  <RHA_REX08B.theme>装备专属</RHA_REX08B.theme>
+  <RHA_REX08C.label>复苏回拨</RHA_REX08C.label>
+  <RHA_REX08C.description>原生免伤附带的35点治疗结算后，若至少有20点成为溢出治疗，便将本轮护符的下一次免伤剩余冷却缩短6秒，并储存一枚持续10秒的复苏印。复苏印在穿戴者之后首次跌至50%生命以下时自动消耗，恢复15点生命。每轮原生免伤至多进行一次回拨及一次储印。
+机制唯一；回拨每轮一次；新复苏印只替换旧印，不累计。</RHA_REX08C.description>
+  <RHA_REX08C.theme>装备专属</RHA_REX08C.theme>
+  <RHA_REX09A.label>熔流结节</RHA_REX09A.label>
+  <RHA_REX09A.description>每名敌人第三次受到本人装备原生阳炎的实际伤害后，在原落点留下固定四秒的结节。每秒对1.5格内最近两名当前敌人各结算原生灼烧，金额为创建时W的8%，最低6点。最多两处，新结节替换最早者；结节不附加原生灼烧、不推进原生计数或W。卸装清结节，各敌人已获得的个人击数暂停保留。</RHA_REX09A.description>
+  <RHA_REX09A.theme>装备专属</RHA_REX09A.theme>
+  <RHA_REX09B.label>燃料回收</RHA_REX09B.label>
+  <RHA_REX09B.description>六格内携带本人装备所标记原生灼烧的敌人实际死亡后，获得一层燃料，最多三层；每名死者只供给一次。最近一次获取后保留八秒。下一轮产生实际伤害的原生阳炎先统一消费燃料，再对各实际受伤原目标施加每层max(8,创建时W的10%)的原生灼烧，并对本人发出每层6点真实伤口治疗。没有原生命中保留燃料，本卡释放链内的死亡不再给本人供燃料。</RHA_REX09B.description>
+  <RHA_REX09B.theme>装备专属</RHA_REX09B.theme>
+  <RHA_REX09C.label>焦土禁生</RHA_REX09C.label>
+  <RHA_REX09C.description>本人装备所标记的原生灼烧实际伤害敌人后，建立四秒焦土。实际可恢复伤口的治疗统一削去30%；只有确实被削去的治疗预算才进入焦热，容量在创建时冻结为max(30,0.5W)。原生灼烧只刷新期限，不清账或重算容量。多人共享一次同名减疗，真实削除预算在当前有效来源间均分，不重复记账。到期先消费焦热再结算一次原生灼烧；卸装或目标失效取消，不提前伤害。永久伤口与取消的治疗不产生焦热。</RHA_REX09C.description>
+  <RHA_REX09C.theme>装备专属</RHA_REX09C.theme>
+  <RHA_REX10A.label>冰镜回响</RHA_REX10A.label>
+  <RHA_REX10A.description>本装备原生永霜被动触发并命中敌人后，在其位置留下1秒后碎裂的冰镜。碎裂对2格内最近的3名敌人各造成W的20%钝器伤害，最低16点，并施加持续3秒的20%移动减速；镜面不会追踪原目标。每次原生被动只留下1面冰镜，本人相邻两面冰镜的生成至少间隔3秒。
+机制唯一；减速只取同名最强并刷新，不叠乘。</RHA_REX10A.description>
+  <RHA_REX10A.theme>装备专属</RHA_REX10A.theme>
+  <RHA_REX10B.label>霜脉护送</RHA_REX10B.label>
+  <RHA_REX10B.description>原生永霜被动触发后，穿戴者及其4格内生命比例最低的1名友军各获得持续5秒的霜脉。霜脉持有者下一次受到敌人近战伤害后，使该攻击者的攻击速度降低20%，持续3秒，并消耗自身霜脉。每名受益者每6秒至多获得一次霜脉，持续期间再次授予只刷新时长。
+机制唯一；每人一份同名霜脉；攻速降低同名取最强不叠乘。</RHA_REX10B.description>
+  <RHA_REX10B.theme>装备专属</RHA_REX10B.theme>
+  <RHA_REX10C.label>热量借贷</RHA_REX10C.label>
+  <RHA_REX10C.description>原生永霜被动命中的敌人获得持续8秒的寒债。它下一次对穿戴者造成直接伤害时，在原有减伤后额外削减该次伤害的25%，最多削减20点，并记录被削减值。之后穿戴者下一次原生直接命中它时，将所记录数值的150%返还为钝器伤害，随后清除寒债。本卡全程随原有战斗行为自动结算。
+机制唯一；每个目标各有一份寒债；新永霜仅刷新时间。</RHA_REX10C.description>
+  <RHA_REX10C.theme>装备专属</RHA_REX10C.theme>
+  <RHA_REX11A.label>倒刺追责</RHA_REX11A.label>
+  <RHA_REX11A.description>装备原生荆棘实际伤害过的敌人获得持续6秒的追责标记。该敌人之后首次对穿戴者以外的友军造成直接伤害时，自动承受W的25%锐器伤害，最低20点，并消耗标记；如果它继续只攻击穿戴者，标记不会提前触发。本人对每名敌人每4秒最多新建一次标记，后续原生荆棘只刷新已有标记。
+机制唯一；同来源标记不叠层；多名持有者各自记录。</RHA_REX11A.description>
+  <RHA_REX11A.theme>装备专属</RHA_REX11A.theme>
+  <RHA_REX11B.label>棘种孵化</RHA_REX11B.label>
+  <RHA_REX11B.description>同一敌人在5秒内累计受到本人3次原生荆棘伤害后，在其当前位置孵化一丛持续4秒的棘种，并清零累计次数。棘种每秒对1.5格内最近的2名敌人各造成W的6%锐器伤害，最低5点；每名被棘种命中的敌人在该丛棘种存续期间，第一次发起攻击时额外承受W的10%锐器伤害，最低8点。
+机制唯一；本人最多同时保有2丛，超过时替换最早者。</RHA_REX11B.description>
+  <RHA_REX11B.theme>装备专属</RHA_REX11B.theme>
+  <RHA_REX11C.label>共生棘篱</RHA_REX11C.label>
+  <RHA_REX11C.description>穿戴者4格内友军受到敌人近战直接伤害后，自动令该攻击者承受W的15%锐器伤害，最低12点，并给予受伤友军持续3秒的8点护盾。本人每2秒最多响应一次，受伤者可以是任何仍存活的同阵营友军，但不包含穿戴者本人。选取严格按伤害事件顺序，不追溯此前已发生的攻击。
+每人本卡机制唯一；不同持有者各自依两秒冷却响应，不以最近者排除其他合法来源。</RHA_REX11C.description>
+  <RHA_REX11C.theme>装备专属</RHA_REX11C.theme>
+  <RHA_REX12A.label>月光分流</RHA_REX12A.label>
+  <RHA_REX12A.description>每轮装备原生群体治疗结算完毕后，把这一轮所有受益者的溢出治疗按50%汇总，最多形成30点月光。自动将月光分给穿戴者8格内仍受伤的2名友军，按生命比例由低到高依次补足实际缺口，首人补满后剩余量再流向第二人。没有合格伤者时月光立即消散，不存到下一轮。
+分流机制唯一；同卡重复不再次回收同一份溢出。</RHA_REX12A.description>
+  <RHA_REX12A.theme>装备专属</RHA_REX12A.theme>
+  <RHA_REX12B.label>月相回针</RHA_REX12B.label>
+  <RHA_REX12B.description>被本装备原生群体治疗实际恢复至少5点生命的友军，获得持续6秒的回针。该友军随后第一次受到敌方实际伤害时，回针开始2秒倒计时；倒计时结束后恢复本次原生有效治疗量的40%，最多18点。每名友军每8秒最多获得一次回针，未受伤时回针到期直接消失。
+机制唯一；每人同一来源只能有一枚回针，新治疗不覆盖已启动倒计时。</RHA_REX12B.description>
+  <RHA_REX12B.theme>装备专属</RHA_REX12B.theme>
+  <RHA_REX12C.label>盈月合奏</RHA_REX12C.label>
+  <RHA_REX12C.description>每轮原生群体治疗若实际恢复了至少3名不同友军，给其中生命比例最低的3人各施加持续6秒的合奏。合奏持有者的下一次原生直接命中会消耗状态，并使自身及3格内生命比例最低的1名友军各恢复8点生命。每人每6秒最多领取一次合奏，人数不足时不触发整轮合奏。
+机制唯一；同一友军至多一份同名合奏，新授予只刷新时长。</RHA_REX12C.description>
+  <RHA_REX12C.theme>装备专属</RHA_REX12C.theme>
+  <RHA_REX13A.label>侧首扑杀</RHA_REX13A.label>
+  <RHA_REX13A.description>装备原生顺劈结算后，若本次至少命中1名主目标以外的敌人，便从离主目标最远的那名顺劈受害者处，再寻找2格内未被本次顺劈命中的最近敌人，造成该次原生顺劈最高单体实际伤害50%的锐器伤害，最低18点。每次原生顺劈最多派生一次侧首打击；派生没有合格目标时结束，不回落到原主目标或已经被顺劈者。
+机制唯一；重复卡不增加派生次数。</RHA_REX13A.description>
+  <RHA_REX13A.theme>装备专属</RHA_REX13A.theme>
+  <RHA_REX13B.label>孤首噬咬</RHA_REX13B.label>
+  <RHA_REX13B.description>原生顺劈发动时，如果实际未命中任何主目标以外的敌人，则对原主目标追加W的30%锐器伤害，最低20点，并施加持续4秒的撕裂。撕裂期间该目标下一次受到穿戴者原生直接命中时，其用于此次受击的锐器护甲降低15个百分点，随后消耗撕裂。每3秒至多触发一次孤首噬咬。
+机制唯一；撕裂只刷新，不叠层或重复削甲。</RHA_REX13B.description>
+  <RHA_REX13B.theme>装备专属</RHA_REX13B.theme>
+  <RHA_REX13C.label>多喉饮血</RHA_REX13C.label>
+  <RHA_REX13C.description>本装备原生顺劈对主目标以外敌人造成实际伤害后，按这些副目标实际失血总量的15%治疗穿戴者，每次顺劈最多恢复20点。若穿戴者已经满血，则改为给予等量护盾，持续4秒。一次顺劈统一结算一次饮血，不按每个副目标分别触发，主目标原有吸血仍独立遵守其原生规则。
+机制唯一；同源护盾可补充但最多20点。</RHA_REX13C.description>
+  <RHA_REX13C.theme>装备专属</RHA_REX13C.theme>
+  <RHA_REX14A.label>胜者锋芒</RHA_REX14A.label>
+  <RHA_REX14A.description>穿戴赌徒金币时，伤害加成+25个百分点，暴击值+10%。</RHA_REX14A.description>
+  <RHA_REX14A.theme>装备专属</RHA_REX14A.theme>
+  <RHA_REX14B.label>好运护身</RHA_REX14B.label>
+  <RHA_REX14B.description>穿戴赌徒金币时，体质与防御加成各+30个百分点。</RHA_REX14B.description>
+  <RHA_REX14B.theme>装备专属</RHA_REX14B.theme>
+  <RHA_REX14C.label>幸运校准</RHA_REX14C.label>
+  <RHA_REX14C.description>穿戴者连续3次可暴击的原生直接命中均未产生暴击后，自动获得校准状态。下一次可暴击的原生直接命中保证采用暴击结果，随后清空校准与连续未暴击计数；任何自然暴击也会清零未暴击计数。不可暴击的伤害不推进也不中断计数，已有必暴来源生效时只消费一次校准。
+保证暴击机制唯一；重复卡不降低三次门槛或提供额外暴击。
+穿脱保留已有计数；实际穿戴金币才可触发保底。</RHA_REX14C.description>
+  <RHA_REX14C.theme>装备专属</RHA_REX14C.theme>
+  <RHA_REX15A.label>群魂伴行</RHA_REX15A.label>
+  <RHA_REX15A.description>新获、实际归属代表摄魂法器的每枚整数印记可以招来一份伴魂，最多三份。得魂时冻结电击金额：主目标max(12,18%W)，三格内最近其他敌人max(8,12%W)；无副目标则主目标再受max(4,6%W)。后续有效原生直接命中消费一份旧伴魂，两次至少间隔一秒。新得魂刷新十二秒，不重价旧份；得魂的同一击不能消费新份。卸装清池，不清冷却。</RHA_REX15A.description>
+  <RHA_REX15A.theme>装备专属</RHA_REX15A.theme>
+  <RHA_REX15B.label>离体回声</RHA_REX15B.label>
+  <RHA_REX15B.description>首次有效原生直接命中建立六秒回声，首击不记账；后续实际原生直接伤害的15%进入冻结容量max(40,0.6W)，本人最多三个目标。到期先消费账本，再原生电击；提前实际死亡则从原死亡落点向四格内最近其他敌人转移一半。致死原生命中等实际结果返回后才计其15%并转移，不按入射包估算。结束后该目标四秒重建门，回声派生不自记账或再次转移。</RHA_REX15B.description>
+  <RHA_REX15B.theme>装备专属</RHA_REX15B.theme>
+  <RHA_REX15C.label>守魂契约</RHA_REX15C.label>
+  <RHA_REX15C.description>每五枚购买后新获、实际归属法器的整数装备印记储存一枚守魂，最多两枚，不改原魂数；其他技能、灵魂收割通道与购买前存量不计。实际敌伤从至少20%原生健康跨入20%以下时，先消费一枚，再给六秒15%原生尺度盾与三次一秒10点伤口治疗预算。三十秒冷却、库存、余数保存。卸装暂停获取和触发，已支付的有限治疗完成；死亡或离图取消剩余本地治疗。</RHA_REX15C.description>
+  <RHA_REX15C.theme>装备专属</RHA_REX15C.theme>
+  <RHA_REX16A.label>长距预瞄</RHA_REX16A.label>
+  <RHA_REX16A.description>真正穿戴破城巨弩，对12格或更远敌人造成有效原生普通远程伤害后，获得一份六秒预瞄。四秒门同时限制新授与刷新，门内命中不延长期限。下一次真正被接纳的原生普通武器瞄准消费预瞄，将原有倍率后整数瞄准刻数减少30%，最多减少30刻且保留至少1刻；减幅为零不消费，也不把原零刻瞄准改成一刻。消费后取消、失去目标或射失不返还；卸装清预瞄但保留创建门。</RHA_REX16A.description>
+  <RHA_REX16A.theme>装备专属</RHA_REX16A.theme>
+  <RHA_REX16B.label>桩弩校射</RHA_REX16B.label>
+  <RHA_REX16B.description>对4格之外同一敌人连续造成原生远程直接命中时，每次获得1层只针对该敌人的校射，最多3层，持续6秒。穿戴者下次射击该敌人时，每层令此次命中的锐器护甲计算降低10个百分点；若已经3层，该次命中后清空层数，并对目标施加持续3秒的20%攻击速度降低。
+机制唯一；每次命中后刷新6秒；同卡不增加校射层数。</RHA_REX16B.description>
+  <RHA_REX16B.theme>装备专属</RHA_REX16B.theme>
+  <RHA_REX16C.label>缆矢压制</RHA_REX16C.label>
+  <RHA_REX16C.description>每第3次原生远程直接命中，在主目标身上留下持续5秒的缆矢，并重置本卡计数。目标每自然移动累计1格时受到W的8%锐器伤害，最低6点，整枚缆矢最多结算4次移动伤害；若在持续期内完全没有移动，则到期时受到W的24%锐器伤害，最低16点。缆矢不强制移动、不改变寻路，也不会阻止目标正常攻击。
+机制唯一；同来源新缆矢替换旧缆矢，旧矢不提前结算。</RHA_REX16C.description>
+  <RHA_REX16C.theme>装备专属</RHA_REX16C.theme>
+  <RHA_REX17A.label>剑圈契约</RHA_REX17A.label>
+  <RHA_REX17A.description>穿戴者首次原生直接命中3格内敌人后，自动与其建立持续6秒的剑圈。剑圈存在时，该敌人以外的敌人对穿戴者造成的直接伤害降低12%；穿戴者对剑圈目标每第3次原生直接命中追加W的20%锐器伤害，最低15点。目标死亡或离开8格时契约结束，下一次合格命中自然建立新契约。
+机制唯一；同一时间仅一个剑圈，重复卡不叠减伤。</RHA_REX17A.description>
+  <RHA_REX17A.theme>装备专属</RHA_REX17A.theme>
+  <RHA_REX17B.label>破招回锋</RHA_REX17B.label>
+  <RHA_REX17B.description>受到敌方近战直接伤害后，记录该次实际失血的50%，最多20点，保留2秒。穿戴者在窗口内下一次对任意3格内敌人造成原生直接命中时，自动恢复记录数值，并令本次主目标的攻击速度降低20%，持续2秒。窗口开启后3秒内不再接收新记录，未回击则到期失效。本卡全程随原有战斗行为自动结算。
+机制唯一；同时只有一份记录，不累计多次承伤。</RHA_REX17B.description>
+  <RHA_REX17B.theme>装备专属</RHA_REX17B.theme>
+  <RHA_REX17C.label>一招收式</RHA_REX17C.label>
+  <RHA_REX17C.description>对3格内敌人的原生直接命中每累计4次，自动将本次原生吸血可治疗量的50%改为收式护盾，持续4秒，剩余治疗照常结算；同时令主目标下一次普通攻击的准备时间增加30%，效果最多保留3秒。若本次没有可用吸血治疗量，仍获得固定10点护盾，且不会凭空生成治疗。
+机制唯一；本人收式盾最多30点，新盾补充并刷新。</RHA_REX17C.description>
+  <RHA_REX17C.theme>装备专属</RHA_REX17C.theme>
+  <RHA_REX18A.label>血线缓冲</RHA_REX18A.label>
+  <RHA_REX18A.description>敌方伤害首次使穿戴者从35%以上生命跌到35%或以下时，自动进入持续3秒的缓冲状态。缓冲期间每次敌方直接伤害在其他减伤后，将其中35%转入伤债，剩余立即承受；状态结束后伤债分5次、每秒支付一次。伤债最多为最大生命的20%，本卡两次触发至少间隔20秒。
+机制唯一；同卡重复不提高延期比例；已有伤债时不再次开缓冲。</RHA_REX18A.description>
+  <RHA_REX18A.theme>装备专属</RHA_REX18A.theme>
+  <RHA_REX18B.label>狂怒外溢</RHA_REX18B.label>
+  <RHA_REX18B.description>穿戴者每累计损失最大生命10%的实际敌方伤害，获得1层怒火，最多5层，保留6秒。下一次原生直接命中时自动消耗全部怒火，对主目标周围2格内最近的3名其他敌人各造成每层W的8%钝器伤害，最低每层6点；没有副目标时，主目标承受每层W的6%附伤，最低每层4点。每次怒火释放后2秒内不积累新怒火。
+机制唯一；新怒火刷新6秒；不足10%的剩余失血保留至窗口到期。</RHA_REX18B.description>
+  <RHA_REX18B.theme>装备专属</RHA_REX18B.theme>
+  <RHA_REX18C.label>怒血记忆</RHA_REX18C.label>
+  <RHA_REX18C.description>穿戴者接受治疗后，在接下来的4秒内，暴君之握的缺血增伤计算采用治疗前后两个生命比例中较低者；多次治疗只保留本窗口内最低比例，且不刷新最初4秒的结束时间。窗口结束后立即恢复当前真实生命比例计算，至少间隔2秒后才可由新的有效治疗再次建立记忆。
+机制唯一；仅重写本装备缺血增伤的输入，不复制或提高其原生最高500%上限。</RHA_REX18C.description>
+  <RHA_REX18C.theme>装备专属</RHA_REX18C.theme>
+  <RHA_REX19A.label>余秒留存</RHA_REX19A.label>
+  <RHA_REX19A.description>本装备原生临时连击层数因超时即将归零时，自动保存其中一半的层数，向下取整且最多保存8层，保留6秒。穿戴者在此期间下一次原生直接命中时恢复这些层数，再照常处理本次原生加层；到期未攻击则清空。恢复层只延续原有层数序号，不重获前20层的足额成长区间。
+机制唯一；一次断招只暂存一次，恢复层不能立即再次被留存。</RHA_REX19A.description>
+  <RHA_REX19A.theme>装备专属</RHA_REX19A.theme>
+  <RHA_REX19B.label>双刻残像</RHA_REX19B.label>
+  <RHA_REX19B.description>每累计5次原生直接命中，记录第5次对主目标实际造成的伤害，并在0.7秒后向该主目标释放一次残像打击，造成记录伤害30%的同类型伤害，最低15点。若原目标已死亡，则残像改为给穿戴者15点护盾，持续3秒；若目标仍活着但离开地图，则本次残像直接失效。本卡全程随原有战斗行为自动结算。
+机制唯一；各次五击分别计时，但本人同时最多2次待结算残像。</RHA_REX19B.description>
+  <RHA_REX19B.theme>装备专属</RHA_REX19B.theme>
+  <RHA_REX19C.label>时砂借位</RHA_REX19C.label>
+  <RHA_REX19C.description>每累计4次装备原生临时连击加层，获得1份时砂，最多保存2份。若穿戴者存在正在冷却、原始冷却不少于5秒的主动技能，自动消耗1份时砂，将剩余冷却最长的一项缩短1秒；两次借位至少间隔8秒。没有合格技能时保留时砂，等技能自然进入冷却后再自动检查。
+机制唯一；同卡重复不降低八秒间隔；并列技能按稳定技能ID选择。</RHA_REX19C.description>
+  <RHA_REX19C.theme>装备专属</RHA_REX19C.theme>
+  <RHA_REX20A.label>折光散射</RHA_REX20A.label>
+  <RHA_REX20A.description>本装备原生单次承伤上限实际阻止伤害时，把被阻止数值的25%存为星屑，容量为W的100%，最低75点，保留8秒。下一次原生直接命中自动消耗星屑，对主目标及其3格内最近的2名敌人均分等量电击伤害。只有主目标时由其承受全部星屑伤害；触发该次攻击前新增的星屑才参与本次消费。
+机制唯一；新星屑刷新8秒，不改变原生承伤上限公式。</RHA_REX20A.description>
+  <RHA_REX20A.theme>装备专属</RHA_REX20A.theme>
+  <RHA_REX20B.label>星界铁壁</RHA_REX20B.label>
+  <RHA_REX20B.description>穿戴星界壁垒时，体质加成+35个百分点，防御加成+25个百分点。同名卡只生效一次。</RHA_REX20B.description>
+  <RHA_REX20B.theme>装备专属</RHA_REX20B.theme>
+  <RHA_REX20C.label>星环隔绝</RHA_REX20C.label>
+  <RHA_REX20C.description>在任意2秒窗口内，本装备原生单次承伤上限实际截断了3次来自敌人的不同直接伤害事件后，立即获得持续0.6秒的星环，期间免除新的敌方直接生命伤害。星环出现后进入12秒冷却，冷却期间不记录截断次数；第三次触发伤害仍按原生上限正常结算，不会被追溯取消。
+机制唯一；重复卡不延长星环或缩短冷却；同一原攻击多部位伤害只计一个事件。</RHA_REX20C.description>
+  <RHA_REX20C.theme>装备专属</RHA_REX20C.theme>
+  <RHA_REX21A.label>孤点折叠</RHA_REX21A.label>
+  <RHA_REX21A.description>每次普通攻击主命中结算时，检查本装备原有的一个顺劈分支与一个弹射分支。若某分支因没有合法敌人而未发出，便折回主目标，额外造成40点穿甲伤害；两分支均空闲时分别折回。已经发出的分支即使落空也不能折回，分支搜敌距离沿用原装备规则。折回只利用本装备的两个基础名额，不回收其他卡或武器的分支。
+个人持有并实际穿戴本装备才生效；A/B/C 可并存。同名规则执行器只启用一次。每额外一层：每个空闲分支的折回伤害 +20；空闲分支识别不重复运行。</RHA_REX21A.description>
+  <RHA_REX21A.theme>装备专属</RHA_REX21A.theme>
+  <RHA_REX21B.label>战工互译</RHA_REX21B.label>
+  <RHA_REX21B.description>持有者每完成60秒有效生产、建造或研究工作，获得一个工学模块，最多保存六个。战斗中的下一次普通攻击消耗一个模块，附加30点穿甲伤害；只有这次附加攻击实际造成正伤害，才为持有者授予100点手工基础经验。经验按原生学习倍率、热情和当日学习规则结算，并显示实际到账量。
+个人持有并实际穿戴本装备才生效；A/B/C 可并存。同名规则执行器只启用一次。每额外一层：模块伤害 +15、成功模块附击的手工基础经验 +50；六模块容量不重复叠加。</RHA_REX21B.description>
+  <RHA_REX21B.theme>装备专属</RHA_REX21B.theme>
+  <RHA_REX21C.label>三相仲裁</RHA_REX21C.label>
+  <RHA_REX21C.description>每第三次普通攻击主命中，追加一枚60点仲裁冲击。冲击分别读取目标对钝击、刺伤、灼伤的当前防护倍率，只采用预计结算伤害最高的一种；它仍正常接受该类防护和伤害减免，不视为无视护甲。计数按持有者累积，不要求连续攻击同一敌人，离战保留余数；三类结算相同时依次优先钝击、刺伤、灼伤。
+个人持有并实际穿戴本装备才生效；A/B/C 可并存。同名规则执行器只启用一次。每额外一层：仲裁冲击基础伤害 +30；三次计数和择优规则只运行一份。</RHA_REX21C.description>
+  <RHA_REX21C.theme>装备专属</RHA_REX21C.theme>
+  <RHA_REX22A.label>工艺精通</RHA_REX22A.label>
+  <RHA_REX22A.description>个人持有本卡并实际穿戴对应装备时，工作速度加成增加25个百分点，移速加成增加10个百分点。同名卡只生效一次，沿用原加成规则；旧存档已获得的收益保留原结算。</RHA_REX22A.description>
+  <RHA_REX22A.theme>装备专属</RHA_REX22A.theme>
+  <RHA_REX22B.label>热链供餐</RHA_REX22B.label>
+  <RHA_REX22B.description>持有者制造的正式餐食被殖民者实际食用并恢复营养后，为该食用者提供八游戏小时的供餐增益：生产、建造、研究的有效工作推进增加12%。增益绑定这次餐食批次，不能通过拆分成极小份反复领取；重复合格用餐刷新剩余时间，不叠独立计时器。自动投喂仍可触发，但没有实际营养恢复的用餐不产生收益。
+个人持有并实际穿戴本装备才生效；A/B/C 可并存。同名规则执行器只启用一次。每额外一层：工作推进增加量 +6 个百分点；同一来源供餐状态只保留一份。
+授予供餐时厨师须仍穿戴原熔炉并持卡；已获得的状态按原期限结束。生食、尸体、药物和普通营养糊生成不冒认手制餐食。</RHA_REX22B.description>
+  <RHA_REX22B.theme>装备专属</RHA_REX22B.theme>
+  <RHA_REX22C.label>研造协同</RHA_REX22C.label>
+  <RHA_REX22C.description>个人持有本卡并实际穿戴对应装备时，研究速度加成增加35个百分点，工作速度加成增加15个百分点。同名卡只生效一次，沿用原加成规则；旧存档已获得的收益保留原结算。</RHA_REX22C.description>
+  <RHA_REX22C.theme>装备专属</RHA_REX22C.theme>
+  <RHA_REX23A.label>急诊合流</RHA_REX23A.label>
+  <RHA_REX23A.description>本装备每次原有群体治疗中，允许把最多一半的大天使本身有效治疗份额集中给缺失生命预算最多的合格友方殖民者。仍限原有八格、最多十二人的患者池，其他治疗来源保留原份额。平手优先倒地者，再按距离排序；只转移普通伤口实际可用的治疗量，未用转移在本轮最终治疗观察前退回原分配池。
+个人持有并实际穿戴本装备才生效；A/B/C 可并存。同名规则执行器只启用一次。规则只启用一次，无额外可叠数值；首版不出售无收益重复层。</RHA_REX23A.description>
+  <RHA_REX23A.theme>装备专属</RHA_REX23A.theme>
+  <RHA_REX23B.label>天使壁垒</RHA_REX23B.label>
+  <RHA_REX23B.description>实际穿戴本装备时，生命加成增加35个百分点、防御加成增加25个百分点；沿用原有加成规则，同名卡只生效一次。停止新增创伤债。旧存档已暂缓的伤势仍按原到期时间和治疗规则结清。</RHA_REX23B.description>
+  <RHA_REX23B.theme>装备专属</RHA_REX23B.theme>
+  <RHA_REX23C.label>战地心得</RHA_REX23C.label>
+  <RHA_REX23C.description>本装备已证明的原有治疗份额累计修复同一友方殖民者同场敌伤普通伤口80点后，在该患者该场首次达标时，为治疗者授予300点医术基础经验。经验按原生学习倍率、热情和当日学习规则结算，并显示实际到账量。只认实际修复的合格伤口份额；自伤、非敌伤、疾病、饥饿、偿债、预览和无本源证明治疗不计资格。
+个人持有并实际穿戴本装备才生效；A/B/C 可并存。同名规则执行器只启用一次。每额外一层：每次合格达标的医术基础经验 +150；同患者同场资格只结算一次。</RHA_REX23C.description>
+  <RHA_REX23C.theme>装备专属</RHA_REX23C.theme>
+  <RHA_REX24A.label>破势</RHA_REX24A.label>
+  <RHA_REX24A.description>个人持有本卡并实际穿戴对应装备时，伤害加成增加30个百分点，暴击强度增加8个百分点。同名卡只生效一次；沿用原有上限、加成和攻击间隔反向结算规则。</RHA_REX24A.description>
+  <RHA_REX24A.theme>装备专属</RHA_REX24A.theme>
+  <RHA_REX24B.label>棱镜超载</RHA_REX24B.label>
+  <RHA_REX24B.description>原生普通攻击暴击时，立即额外获得原暴击伤害增量的50%；每额外一层增加25个百分点。原攻击、后续固定伤害、伤害倍率与护甲仍按原顺序结算。个人持有并实际穿戴本装备才生效；A/B/C可并存，同名规则只执行一次。</RHA_REX24B.description>
+  <RHA_REX24B.theme>装备专属</RHA_REX24B.theme>
+  <RHA_REX24C.label>追击</RHA_REX24C.label>
+  <RHA_REX24C.description>个人持有本卡并实际穿戴对应装备时，伤害加成增加20个百分点，移动速度加成增加20个百分点。同名卡只生效一次；沿用原有上限、加成和攻击间隔反向结算规则。</RHA_REX24C.description>
+  <RHA_REX24C.theme>装备专属</RHA_REX24C.theme>
+  <RHA_REX25A.label>熔岩锋甲</RHA_REX25A.label>
+  <RHA_REX25A.description>穿戴对应装备时，伤害加成 +25%，防御加成 +15%。</RHA_REX25A.description>
+  <RHA_REX25A.theme>装备专属</RHA_REX25A.theme>
+  <RHA_REX25B.label>浴血</RHA_REX25B.label>
+  <RHA_REX25B.description>个人持有本卡并实际穿戴对应装备时，生命加成增加25个百分点，吸血强度增加15个百分点。同名卡只生效一次；沿用原有上限、加成和攻击间隔反向结算规则。</RHA_REX25B.description>
+  <RHA_REX25B.theme>装备专属</RHA_REX25B.theme>
+  <RHA_REX25C.label>迅猛</RHA_REX25C.label>
+  <RHA_REX25C.description>个人持有本卡并实际穿戴对应装备时，近战攻速加成增加25个百分点，远程攻速加成增加25个百分点，移动速度加成增加10个百分点。同名卡只生效一次；沿用原有上限、加成和攻击间隔反向结算规则。</RHA_REX25C.description>
+  <RHA_REX25C.theme>装备专属</RHA_REX25C.theme>
+  <RHA_REX26A.label>星夜庇护</RHA_REX26A.label>
+  <RHA_REX26A.description>穿戴对应装备时，体质加成 +30%，防御加成 +25%。</RHA_REX26A.description>
+  <RHA_REX26A.theme>装备专属</RHA_REX26A.theme>
+  <RHA_REX26B.label>星夜护幕</RHA_REX26B.label>
+  <RHA_REX26B.description>本装备实际抵消敌方特殊伤害后，获得相当于本次减伤量50%的护盾，持续300刻；每额外一层增加25个百分点。每120刻最多触发一次。护盾在本次伤害结算后发放，不能吸收触发它的这次伤害。个人持有并实际穿戴本装备才生效；A/B/C可并存，同名规则只执行一次。</RHA_REX26B.description>
+  <RHA_REX26B.theme>装备专属</RHA_REX26B.theme>
+  <RHA_REX26C.label>星夜迅击</RHA_REX26C.label>
+  <RHA_REX26C.description>穿戴对应装备时，伤害加成 +20%，近战与远程冷却加速 +25%。</RHA_REX26C.description>
+  <RHA_REX26C.theme>装备专属</RHA_REX26C.theme>
+  <RHA_REX27A.label>神圣锋芒</RHA_REX27A.label>
+  <RHA_REX27A.description>穿戴对应装备时，伤害加成 +25%，暴击强度 +10%。</RHA_REX27A.description>
+  <RHA_REX27A.theme>装备专属</RHA_REX27A.theme>
+  <RHA_REX27B.label>神圣汲取</RHA_REX27B.label>
+  <RHA_REX27B.description>穿戴对应装备时，体质加成 +25%，直接吸血 +15%。</RHA_REX27B.description>
+  <RHA_REX27B.theme>装备专属</RHA_REX27B.theme>
+  <RHA_REX27C.label>神圣复苏</RHA_REX27C.label>
+  <RHA_REX27C.description>穿戴对应装备时，体质加成 +30%，每秒自动恢复 2 点。</RHA_REX27C.description>
+  <RHA_REX27C.theme>装备专属</RHA_REX27C.theme>
+  <RHA_REX28A.label>熵刃强攻</RHA_REX28A.label>
+  <RHA_REX28A.description>个人持有本卡并实际穿戴对应装备时，伤害加成增加30个百分点，暴击强度增加8个百分点。同名卡只生效一次，沿用原加成规则；旧存档已获得的收益保留原结算。</RHA_REX28A.description>
+  <RHA_REX28A.theme>装备专属</RHA_REX28A.theme>
+  <RHA_REX28B.label>湮灭疾攻</RHA_REX28B.label>
+  <RHA_REX28B.description>穿戴熵之力时，伤害加成+10个百分点，近战与远程攻击的冷却速率加成各+25个百分点。</RHA_REX28B.description>
+  <RHA_REX28B.theme>装备专属</RHA_REX28B.theme>
+  <RHA_REX28C.label>崩解锋芒</RHA_REX28C.label>
+  <RHA_REX28C.description>穿戴熵之力时，伤害加成+35个百分点，暴击值+15%。同名卡不叠加。</RHA_REX28C.description>
+  <RHA_REX28C.theme>装备专属</RHA_REX28C.theme>
+  <RHA_REX29A.label>血赐强攻</RHA_REX29A.label>
+  <RHA_REX29A.description>穿戴对应装备时，伤害加成 +20%，直接吸血 +15%。</RHA_REX29A.description>
+  <RHA_REX29A.theme>装备专属</RHA_REX29A.theme>
+  <RHA_REX29B.label>血赐坚壁</RHA_REX29B.label>
+  <RHA_REX29B.description>穿戴对应装备时，体质加成 +30%，防御加成 +25%。</RHA_REX29B.description>
+  <RHA_REX29B.theme>装备专属</RHA_REX29B.theme>
+  <RHA_REX29C.label>血赐疾行</RHA_REX29C.label>
+  <RHA_REX29C.description>穿戴对应装备时，体质加成 +25%，移动速度 +0.2。</RHA_REX29C.description>
+  <RHA_REX29C.theme>装备专属</RHA_REX29C.theme>
+  <RHA_REX30A.label>奇迹锋芒</RHA_REX30A.label>
+  <RHA_REX30A.description>穿戴对应装备时，伤害加成 +25%，暴击强度 +10%。</RHA_REX30A.description>
+  <RHA_REX30A.theme>装备专属</RHA_REX30A.theme>
+  <RHA_REX30B.label>奇迹复苏</RHA_REX30B.label>
+  <RHA_REX30B.description>穿戴对应装备时，体质加成 +25%，每秒自动恢复 2 点。</RHA_REX30B.description>
+  <RHA_REX30B.theme>装备专属</RHA_REX30B.theme>
+  <RHA_REX30C.label>奇迹护体</RHA_REX30C.label>
+  <RHA_REX30C.description>穿戴对应装备时，体质加成 +30%，防御加成 +25%。</RHA_REX30C.description>
+  <RHA_REX30C.theme>装备专属</RHA_REX30C.theme>
+  <RHA_REX31A.label>飞升锋芒</RHA_REX31A.label>
+  <RHA_REX31A.description>个人持有本卡并实际穿戴对应装备时，伤害加成增加25个百分点，暴击强度增加10个百分点。同名卡只生效一次，沿用原加成规则；旧存档已获得的收益保留原结算。</RHA_REX31A.description>
+  <RHA_REX31A.theme>装备专属</RHA_REX31A.theme>
+  <RHA_REX31B.label>飞升学识</RHA_REX31B.label>
+  <RHA_REX31B.description>个人持有本卡并实际穿戴对应装备时，研究速度加成增加35个百分点，工作速度加成增加15个百分点。同名卡只生效一次，沿用原加成规则；旧存档已获得的收益保留原结算。</RHA_REX31B.description>
+  <RHA_REX31B.theme>装备专属</RHA_REX31B.theme>
+  <RHA_REX31C.label>飞升护体</RHA_REX31C.label>
+  <RHA_REX31C.description>个人持有本卡并实际穿戴对应装备时，生命加成增加35个百分点，防御加成增加25个百分点。同名卡只生效一次，沿用原加成规则；旧存档已获得的收益保留原结算。</RHA_REX31C.description>
+  <RHA_REX31C.theme>装备专属</RHA_REX31C.theme>
+  <RHA_REX32A.label>饮血断筋</RHA_REX32A.label>
+  <RHA_REX32A.description>穿戴断筋者时，伤害加成+20个百分点，吸血系数+15个百分点。吸血只修复实际伤口。同名卡只生效一次。</RHA_REX32A.description>
+  <RHA_REX32A.theme>装备专属</RHA_REX32A.theme>
+  <RHA_REX32B.label>致命脉搏</RHA_REX32B.label>
+  <RHA_REX32B.description>穿戴断筋者时，伤害加成+25个百分点，暴击值+20%。同名卡只生效一次。</RHA_REX32B.description>
+  <RHA_REX32B.theme>装备专属</RHA_REX32B.theme>
+  <RHA_REX32C.label>裂伤加深</RHA_REX32C.label>
+  <RHA_REX32C.description>原生断筋流血脉冲造成实际伤害后，追加24点流血伤害，每个脉冲只结算一次。每额外一层增加12点伤害。必须个人持卡并仍穿戴同一件断筋者。原流血的脉冲次数、叠层和期限保持不变。</RHA_REX32C.description>
+  <RHA_REX32C.theme>装备专属</RHA_REX32C.theme>
+  <RHA_REX33A.label>豪赌锋芒</RHA_REX33A.label>
+  <RHA_REX33A.description>穿戴投机者之刃时，伤害加成+30个百分点，暴击值+10%。同名卡只生效一次。</RHA_REX33A.description>
+  <RHA_REX33A.theme>装备专属</RHA_REX33A.theme>
+  <RHA_REX33B.label>筹码护体</RHA_REX33B.label>
+  <RHA_REX33B.description>穿戴投机者之刃时，体质与防御加成各+30个百分点。同名卡只生效一次。</RHA_REX33B.description>
+  <RHA_REX33B.theme>装备专属</RHA_REX33B.theme>
+  <RHA_REX33C.label>赏金心得</RHA_REX33C.label>
+  <RHA_REX33C.description>原装备赏金结算后，每枚实际入账的白银提供1点社交基础经验；倒地时的75%赏金返还同样计入。每额外一层：每枚经验+0.5。经验遵循原生学习倍率与上限。个人持有并实际穿戴本装备才生效；A/B/C可并存，同名规则只执行一次。</RHA_REX33C.description>
+  <RHA_REX33C.theme>装备专属</RHA_REX33C.theme>
+  <RHA_REX34A.label>战地利刃</RHA_REX34A.label>
+  <RHA_REX34A.description>个人持有本卡并实际穿戴对应装备时，伤害加成增加20个百分点，吸血强度增加15个百分点。同名卡只生效一次；沿用原有上限、加成和攻击间隔反向结算规则。</RHA_REX34A.description>
+  <RHA_REX34A.theme>装备专属</RHA_REX34A.theme>
+  <RHA_REX34B.label>救护体魄</RHA_REX34B.label>
+  <RHA_REX34B.description>个人持有本卡并实际穿戴对应装备时，生命加成增加30个百分点，生命恢复增加2。同名卡只生效一次；沿用原有上限、加成和攻击间隔反向结算规则。</RHA_REX34B.description>
+  <RHA_REX34B.theme>装备专属</RHA_REX34B.theme>
+  <RHA_REX34C.label>迅捷救护</RHA_REX34C.label>
+  <RHA_REX34C.description>个人持有本卡并实际穿戴对应装备时，移动速度加成增加20个百分点，近战攻速加成增加17.6个百分点，远程攻速加成增加17.6个百分点。同名卡只生效一次；沿用原有上限、加成和攻击间隔反向结算规则。</RHA_REX34C.description>
+  <RHA_REX34C.theme>装备专属</RHA_REX34C.theme>
+  <RHA_REX35A.label>追魂名单</RHA_REX35A.label>
+  <RHA_REX35A.description>持有者普通攻击命中一个仍处于暗夜收割者冷却中的敌人时，自动搜索该目标六格内另一名对此持有者尚可触发收割的敌人。若找到，向其发出一次原装备收割并正常记入那名敌人的独立冷却；不要求持有者改换攻击目标。代发每四秒最多一次，优先最近的合法目标，射线仍受墙体与不可攻击状态限制，不对同一敌人绕开冷却。
+个人持有并实际穿戴本装备才生效；A/B/C 可并存。同名规则执行器只启用一次。每额外一层：代发搜索半径 +3 格；一次代发与独立四秒冷却执行器不复制。</RHA_REX35A.description>
+  <RHA_REX35A.theme>装备专属</RHA_REX35A.theme>
+  <RHA_REX35B.label>冷却抵押</RHA_REX35B.label>
+  <RHA_REX35B.description>持有者对同一敌人的普通攻击主命中发生时，若原收割效果仍在冷却，便把该目标剩余收割冷却提前一秒。每个主攻击事件只抵押一次，多段附伤、顺劈与弹射不重复抵押；冷却因此归零时不立即免费引爆，而是在下一次原本合法的命中时正常触发。装备急速先确定基础冷却，本卡随后只扣实际剩余时间。
+个人持有并实际穿戴本装备才生效；A/B/C 可并存。同名规则执行器只启用一次。每额外一层：每次主命中提前时间 +0.5 秒；同一攻击只登记一笔抵押，不增加攻击执行器。</RHA_REX35B.description>
+  <RHA_REX35B.theme>装备专属</RHA_REX35B.theme>
+  <RHA_REX35C.label>夺魂终结</RHA_REX35C.label>
+  <RHA_REX35C.description>原装备收割实际命中后，若目标存活且原生健康摘要低于25%，立即追加75点穿甲伤害；若原收割自身击杀目标，则改为获得75点护盾，持续240刻。每额外一层，追加伤害或护盾增加37.5点。之后其他回调造成的死亡不提供护盾。个人持有并实际穿戴本装备才生效；A/B/C可并存，同名规则只执行一次。</RHA_REX35C.description>
+  <RHA_REX35C.theme>装备专属</RHA_REX35C.theme>
+  <RHA_REX36A.label>恶魔锋芒</RHA_REX36A.label>
+  <RHA_REX36A.description>个人持有本卡并实际穿戴对应装备时，伤害加成增加25个百分点，暴击强度增加10个百分点。同名卡只生效一次，沿用原加成规则；旧存档已获得的收益保留原结算。</RHA_REX36A.description>
+  <RHA_REX36A.theme>装备专属</RHA_REX36A.theme>
+  <RHA_REX36B.label>浴血</RHA_REX36B.label>
+  <RHA_REX36B.description>个人持有本卡并实际穿戴对应装备时，生命加成增加25个百分点，吸血强度增加15个百分点。同名卡只生效一次；沿用原有上限、加成和攻击间隔反向结算规则。</RHA_REX36B.description>
+  <RHA_REX36B.theme>装备专属</RHA_REX36B.theme>
+  <RHA_REX36C.label>痛觉燃料</RHA_REX36C.label>
+  <RHA_REX36C.description>原生敌方普通攻击造成实际伤口后，最终普通攻击伤害乘以1.30，攻速提高15%，持续360 tick。每额外一层：伤害倍率增加0.15，攻速增加5个百分点。后续有效受伤只刷新同一状态；必须个人持卡并仍穿戴同一件恶魔之拥。完全抵挡、派生伤害、友方与无实际伤口均不触发。保留原装备的低生命伤害与移速效果。</RHA_REX36C.description>
+  <RHA_REX36C.theme>装备专属</RHA_REX36C.theme>
+  <RHA_REX37A.label>不碎之冠</RHA_REX37A.label>
+  <RHA_REX37A.description>穿戴破碎王后之冕时，体质加成+40个百分点，防御加成+25个百分点。同名卡只生效一次。</RHA_REX37A.description>
+  <RHA_REX37A.theme>装备专属</RHA_REX37A.theme>
+  <RHA_REX37B.label>碎冠锋芒</RHA_REX37B.label>
+  <RHA_REX37B.description>穿戴破碎王后之冕时，伤害加成+35个百分点，暴击值+10%。同名卡只生效一次。</RHA_REX37B.description>
+  <RHA_REX37B.theme>装备专属</RHA_REX37B.theme>
+  <RHA_REX37C.label>王庭疾行</RHA_REX37C.label>
+  <RHA_REX37C.description>穿戴破碎王后之冕时，体质与移动速度加成各+20个百分点。同名卡只生效一次。</RHA_REX37C.description>
+  <RHA_REX37C.theme>装备专属</RHA_REX37C.theme>
+  <RHA_REX38A.label>裂锋</RHA_REX38A.label>
+  <RHA_REX38A.description>个人持有本卡并实际穿戴对应装备时，伤害加成增加25个百分点，暴击强度增加10个百分点。同名卡只生效一次；沿用原有上限、加成和攻击间隔反向结算规则。</RHA_REX38A.description>
+  <RHA_REX38A.theme>装备专属</RHA_REX38A.theme>
+  <RHA_REX38B.label>浴血</RHA_REX38B.label>
+  <RHA_REX38B.description>个人持有本卡并实际穿戴对应装备时，生命加成增加25个百分点，吸血强度增加15个百分点。同名卡只生效一次；沿用原有上限、加成和攻击间隔反向结算规则。</RHA_REX38B.description>
+  <RHA_REX38B.theme>装备专属</RHA_REX38B.theme>
+  <RHA_REX38C.label>迅猛</RHA_REX38C.label>
+  <RHA_REX38C.description>个人持有本卡并实际穿戴对应装备时，近战攻速加成增加25个百分点，远程攻速加成增加25个百分点，移动速度加成增加10个百分点。同名卡只生效一次；沿用原有上限、加成和攻击间隔反向结算规则。</RHA_REX38C.description>
+  <RHA_REX38C.theme>装备专属</RHA_REX38C.theme>
+  <RHA_REX39A.label>百战锋芒</RHA_REX39A.label>
+  <RHA_REX39A.description>个人持有本卡并实际穿戴对应装备时，伤害加成增加25个百分点，近战攻速加成增加11.1个百分点，远程攻速加成增加11.1个百分点。同名卡只生效一次；沿用原有上限、加成和攻击间隔反向结算规则。</RHA_REX39A.description>
+  <RHA_REX39A.theme>装备专属</RHA_REX39A.theme>
+  <RHA_REX39B.label>坚实根基</RHA_REX39B.label>
+  <RHA_REX39B.description>个人持有本卡并实际穿戴对应装备时，生命加成增加30个百分点，防御加成增加25个百分点。同名卡只生效一次；沿用原有上限、加成和攻击间隔反向结算规则。</RHA_REX39B.description>
+  <RHA_REX39B.theme>装备专属</RHA_REX39B.theme>
+  <RHA_REX39C.label>熟练之力</RHA_REX39C.label>
+  <RHA_REX39C.description>个人持有本卡并实际穿戴对应装备时，工作速度加成增加35个百分点，移动速度加成增加15个百分点。同名卡只生效一次；沿用原有上限、加成和攻击间隔反向结算规则。</RHA_REX39C.description>
+  <RHA_REX39C.theme>装备专属</RHA_REX39C.theme>
+  <RHA_REX40A.label>战地利刃</RHA_REX40A.label>
+  <RHA_REX40A.description>个人持有本卡并实际穿戴对应装备时，伤害加成增加20个百分点，吸血强度增加15个百分点。同名卡只生效一次；沿用原有上限、加成和攻击间隔反向结算规则。</RHA_REX40A.description>
+  <RHA_REX40A.theme>装备专属</RHA_REX40A.theme>
+  <RHA_REX40B.label>救护体魄</RHA_REX40B.label>
+  <RHA_REX40B.description>个人持有本卡并实际穿戴对应装备时，生命加成增加30个百分点，生命恢复增加2。同名卡只生效一次；沿用原有上限、加成和攻击间隔反向结算规则。</RHA_REX40B.description>
+  <RHA_REX40B.theme>装备专属</RHA_REX40B.theme>
+  <RHA_REX40C.label>救赎心得</RHA_REX40C.label>
+  <RHA_REX40C.description>本装备治疗敌人造成的普通伤口时，每实际修复一点获得5点医疗基础经验；每额外一层增加2.5点。原生每个治疗批次即时结算一次经验，后续原生治疗批次同样生效。经验遵循原生学习倍率与上限。个人持有并实际穿戴本装备才生效；A/B/C可并存，同名规则只执行一次。</RHA_REX40C.description>
+  <RHA_REX40C.theme>装备专属</RHA_REX40C.theme>
+  <RHA_REX41A.label>碎岩强攻</RHA_REX41A.label>
+  <RHA_REX41A.description>装备石像鬼石板甲时，伤害加成+25%，防御加成+15%。</RHA_REX41A.description>
+  <RHA_REX41A.theme>装备专属</RHA_REX41A.theme>
+  <RHA_REX41B.label>磐石壁垒</RHA_REX41B.label>
+  <RHA_REX41B.description>装备石像鬼石板甲时，体质加成+35%，防御加成+25%。</RHA_REX41B.description>
+  <RHA_REX41B.theme>装备专属</RHA_REX41B.theme>
+  <RHA_REX41C.label>行进堡垒</RHA_REX41C.label>
+  <RHA_REX41C.description>装备石像鬼石板甲时，体质加成+20%，移动速度加成+20%。</RHA_REX41C.description>
+  <RHA_REX41C.theme>装备专属</RHA_REX41C.theme>
+  <RHA_REX42A.label>天穹锋芒</RHA_REX42A.label>
+  <RHA_REX42A.description>装备至高天诺言时，伤害加成+25%，暴击值+10%。</RHA_REX42A.description>
+  <RHA_REX42A.theme>装备专属</RHA_REX42A.theme>
+  <RHA_REX42B.label>浴血誓约</RHA_REX42B.label>
+  <RHA_REX42B.description>装备至高天诺言时，体质加成+25%，吸血+15%。</RHA_REX42B.description>
+  <RHA_REX42B.theme>装备专属</RHA_REX42B.theme>
+  <RHA_REX42C.label>疾行誓约</RHA_REX42C.label>
+  <RHA_REX42C.description>装备至高天诺言时，近战与远程攻击的冷却加速+25%，移动速度加成+10%。</RHA_REX42C.description>
+  <RHA_REX42C.theme>装备专属</RHA_REX42C.theme>
+  <RHA_REX43A.label>残酷锋芒</RHA_REX43A.label>
+  <RHA_REX43A.description>装备残忍时，伤害加成+25%，暴击值+10%。</RHA_REX43A.description>
+  <RHA_REX43A.theme>装备专属</RHA_REX43A.theme>
+  <RHA_REX43B.label>血战饕餮</RHA_REX43B.label>
+  <RHA_REX43B.description>装备残忍时，体质加成+25%，吸血+15%。</RHA_REX43B.description>
+  <RHA_REX43B.theme>装备专属</RHA_REX43B.theme>
+  <RHA_REX43C.label>迅猛攻势</RHA_REX43C.label>
+  <RHA_REX43C.description>装备残忍时，近战与远程攻击的冷却加速+25%，移动速度加成+10%。</RHA_REX43C.description>
+  <RHA_REX43C.theme>装备专属</RHA_REX43C.theme>
+  <RHA_REX44A.label>裂锋</RHA_REX44A.label>
+  <RHA_REX44A.description>个人持有本卡并实际穿戴对应装备时，伤害加成增加25个百分点，暴击强度增加10个百分点。同名卡只生效一次；沿用原有上限、加成和攻击间隔反向结算规则。</RHA_REX44A.description>
+  <RHA_REX44A.theme>装备专属</RHA_REX44A.theme>
+  <RHA_REX44B.label>浴血</RHA_REX44B.label>
+  <RHA_REX44B.description>个人持有本卡并实际穿戴对应装备时，生命加成增加25个百分点，吸血强度增加15个百分点。同名卡只生效一次；沿用原有上限、加成和攻击间隔反向结算规则。</RHA_REX44B.description>
+  <RHA_REX44B.theme>装备专属</RHA_REX44B.theme>
+  <RHA_REX44C.label>迅猛</RHA_REX44C.label>
+  <RHA_REX44C.description>个人持有本卡并实际穿戴对应装备时，近战攻速加成增加25个百分点，远程攻速加成增加25个百分点，移动速度加成增加10个百分点。同名卡只生效一次；沿用原有上限、加成和攻击间隔反向结算规则。</RHA_REX44C.description>
+  <RHA_REX44C.theme>装备专属</RHA_REX44C.theme>
+  <RHA_REX45A.label>反击锋芒</RHA_REX45A.label>
+  <RHA_REX45A.description>个人持有本卡并实际穿戴对应装备时，伤害加成增加25个百分点，防御加成增加15个百分点。同名卡只生效一次；沿用原有上限、加成和攻击间隔反向结算规则。</RHA_REX45A.description>
+  <RHA_REX45A.theme>装备专属</RHA_REX45A.theme>
+  <RHA_REX45B.label>坚壁</RHA_REX45B.label>
+  <RHA_REX45B.description>个人持有本卡并实际穿戴对应装备时，生命加成增加35个百分点，防御加成增加25个百分点。同名卡只生效一次；沿用原有上限、加成和攻击间隔反向结算规则。</RHA_REX45B.description>
+  <RHA_REX45B.theme>装备专属</RHA_REX45B.theme>
+  <RHA_REX45C.label>不屈</RHA_REX45C.label>
+  <RHA_REX45C.description>个人持有本卡并实际穿戴对应装备时，生命加成增加20个百分点，生命恢复增加2。同名卡只生效一次；沿用原有上限、加成和攻击间隔反向结算规则。</RHA_REX45C.description>
+  <RHA_REX45C.theme>装备专属</RHA_REX45C.theme>
+  <RHA_REX46A.label>裂锋</RHA_REX46A.label>
+  <RHA_REX46A.description>个人持有本卡并实际穿戴对应装备时，伤害加成增加25个百分点，暴击强度增加10个百分点。同名卡只生效一次；沿用原有上限、加成和攻击间隔反向结算规则。</RHA_REX46A.description>
+  <RHA_REX46A.theme>装备专属</RHA_REX46A.theme>
+  <RHA_REX46B.label>浴血</RHA_REX46B.label>
+  <RHA_REX46B.description>个人持有本卡并实际穿戴对应装备时，生命加成增加25个百分点，吸血强度增加15个百分点。同名卡只生效一次；沿用原有上限、加成和攻击间隔反向结算规则。</RHA_REX46B.description>
+  <RHA_REX46B.theme>装备专属</RHA_REX46B.theme>
+  <RHA_REX46C.label>迅猛</RHA_REX46C.label>
+  <RHA_REX46C.description>个人持有本卡并实际穿戴对应装备时，近战攻速加成增加25个百分点，远程攻速加成增加25个百分点，移动速度加成增加10个百分点。同名卡只生效一次；沿用原有上限、加成和攻击间隔反向结算规则。</RHA_REX46C.description>
+  <RHA_REX46C.theme>装备专属</RHA_REX46C.theme>
+  <RHA_REX47A.label>裂锋</RHA_REX47A.label>
+  <RHA_REX47A.description>个人持有本卡并实际穿戴对应装备时，伤害加成增加25个百分点，暴击强度增加10个百分点。同名卡只生效一次；沿用原有上限、加成和攻击间隔反向结算规则。</RHA_REX47A.description>
+  <RHA_REX47A.theme>装备专属</RHA_REX47A.theme>
+  <RHA_REX47B.label>浴血</RHA_REX47B.label>
+  <RHA_REX47B.description>个人持有本卡并实际穿戴对应装备时，生命加成增加25个百分点，吸血强度增加15个百分点。同名卡只生效一次；沿用原有上限、加成和攻击间隔反向结算规则。</RHA_REX47B.description>
+  <RHA_REX47B.theme>装备专属</RHA_REX47B.theme>
+  <RHA_REX47C.label>迅猛</RHA_REX47C.label>
+  <RHA_REX47C.description>个人持有本卡并实际穿戴对应装备时，近战攻速加成增加25个百分点，远程攻速加成增加25个百分点，移动速度加成增加10个百分点。同名卡只生效一次；沿用原有上限、加成和攻击间隔反向结算规则。</RHA_REX47C.description>
+  <RHA_REX47C.theme>装备专属</RHA_REX47C.theme>
+  <RHA_REX48A.label>破势</RHA_REX48A.label>
+  <RHA_REX48A.description>个人持有本卡并实际穿戴对应装备时，伤害加成增加30个百分点，暴击强度增加8个百分点。同名卡只生效一次；沿用原有上限、加成和攻击间隔反向结算规则。</RHA_REX48A.description>
+  <RHA_REX48A.theme>装备专属</RHA_REX48A.theme>
+  <RHA_REX48B.label>短兵拒止</RHA_REX48B.label>
+  <RHA_REX48B.description>普通攻击在4格内造成实际伤害后，追加260点同类型伤害，使敌人移速降低40%，持续2秒，并获得160点护盾，持续4秒。每名敌人分别冷却10秒。每额外一层增加130点伤害和80点护盾。</RHA_REX48B.description>
+  <RHA_REX48B.theme>装备专属</RHA_REX48B.theme>
+  <RHA_REX48C.label>追击</RHA_REX48C.label>
+  <RHA_REX48C.description>个人持有本卡并实际穿戴对应装备时，伤害加成增加20个百分点，移动速度加成增加20个百分点。同名卡只生效一次；沿用原有上限、加成和攻击间隔反向结算规则。</RHA_REX48C.description>
+  <RHA_REX48C.theme>装备专属</RHA_REX48C.theme>
+  <RHA_REX49A.label>裂锋</RHA_REX49A.label>
+  <RHA_REX49A.description>个人持有本卡并实际穿戴对应装备时，伤害加成增加25个百分点，暴击强度增加10个百分点。同名卡只生效一次；沿用原有上限、加成和攻击间隔反向结算规则。</RHA_REX49A.description>
+  <RHA_REX49A.theme>装备专属</RHA_REX49A.theme>
+  <RHA_REX49B.label>浴血</RHA_REX49B.label>
+  <RHA_REX49B.description>个人持有本卡并实际穿戴对应装备时，生命加成增加25个百分点，吸血强度增加15个百分点。同名卡只生效一次；沿用原有上限、加成和攻击间隔反向结算规则。</RHA_REX49B.description>
+  <RHA_REX49B.theme>装备专属</RHA_REX49B.theme>
+  <RHA_REX49C.label>迅猛</RHA_REX49C.label>
+  <RHA_REX49C.description>个人持有本卡并实际穿戴对应装备时，近战攻速加成增加25个百分点，远程攻速加成增加25个百分点，移动速度加成增加10个百分点。同名卡只生效一次；沿用原有上限、加成和攻击间隔反向结算规则。</RHA_REX49C.description>
+  <RHA_REX49C.theme>装备专属</RHA_REX49C.theme>
+  <RHA_REX50A.label>百战锋芒</RHA_REX50A.label>
+  <RHA_REX50A.description>个人持有本卡并实际穿戴对应装备时，伤害加成增加25个百分点，近战攻速加成增加11.1个百分点，远程攻速加成增加11.1个百分点。同名卡只生效一次；沿用原有上限、加成和攻击间隔反向结算规则。</RHA_REX50A.description>
+  <RHA_REX50A.theme>装备专属</RHA_REX50A.theme>
+  <RHA_REX50B.label>坚实根基</RHA_REX50B.label>
+  <RHA_REX50B.description>个人持有本卡并实际穿戴对应装备时，生命加成增加30个百分点，防御加成增加25个百分点。同名卡只生效一次；沿用原有上限、加成和攻击间隔反向结算规则。</RHA_REX50B.description>
+  <RHA_REX50B.theme>装备专属</RHA_REX50B.theme>
+  <RHA_REX50C.label>熟练之力</RHA_REX50C.label>
+  <RHA_REX50C.description>个人持有本卡并实际穿戴对应装备时，工作速度加成增加35个百分点，移动速度加成增加15个百分点。同名卡只生效一次；沿用原有上限、加成和攻击间隔反向结算规则。</RHA_REX50C.description>
+  <RHA_REX50C.theme>装备专属</RHA_REX50C.theme>
+  <RHA_REX51A.label>裂锋</RHA_REX51A.label>
+  <RHA_REX51A.description>个人持有本卡并实际穿戴对应装备时，伤害加成增加25个百分点，暴击强度增加10个百分点。同名卡只生效一次；沿用原有上限、加成和攻击间隔反向结算规则。</RHA_REX51A.description>
+  <RHA_REX51A.theme>装备专属</RHA_REX51A.theme>
+  <RHA_REX51B.label>浴血</RHA_REX51B.label>
+  <RHA_REX51B.description>个人持有本卡并实际穿戴对应装备时，生命加成增加25个百分点，吸血强度增加15个百分点。同名卡只生效一次；沿用原有上限、加成和攻击间隔反向结算规则。</RHA_REX51B.description>
+  <RHA_REX51B.theme>装备专属</RHA_REX51B.theme>
+  <RHA_REX51C.label>迅猛</RHA_REX51C.label>
+  <RHA_REX51C.description>个人持有本卡并实际穿戴对应装备时，近战攻速加成增加25个百分点，远程攻速加成增加25个百分点，移动速度加成增加10个百分点。同名卡只生效一次；沿用原有上限、加成和攻击间隔反向结算规则。</RHA_REX51C.description>
+  <RHA_REX51C.theme>装备专属</RHA_REX51C.theme>
+  <RHA_REX52A.label>战地利刃</RHA_REX52A.label>
+  <RHA_REX52A.description>个人持有本卡并实际穿戴对应装备时，伤害加成增加20个百分点，吸血强度增加15个百分点。同名卡只生效一次；沿用原有上限、加成和攻击间隔反向结算规则。</RHA_REX52A.description>
+  <RHA_REX52A.theme>装备专属</RHA_REX52A.theme>
+  <RHA_REX52B.label>救护体魄</RHA_REX52B.label>
+  <RHA_REX52B.description>个人持有本卡并实际穿戴对应装备时，生命加成增加30个百分点，生命恢复增加2。同名卡只生效一次；沿用原有上限、加成和攻击间隔反向结算规则。</RHA_REX52B.description>
+  <RHA_REX52B.theme>装备专属</RHA_REX52B.theme>
+  <RHA_REX52C.label>即时护疗</RHA_REX52C.label>
+  <RHA_REX52C.description>再生注射器一次治疗修复至少60点伤势时，为受治者额外提供160点护盾，持续8秒。</RHA_REX52C.description>
+  <RHA_REX52C.theme>装备专属</RHA_REX52C.theme>
+  <RHA_REX53A.label>破势</RHA_REX53A.label>
+  <RHA_REX53A.description>个人持有本卡并实际穿戴对应装备时，伤害加成增加30个百分点，暴击强度增加8个百分点。同名卡只生效一次；沿用原有上限、加成和攻击间隔反向结算规则。</RHA_REX53A.description>
+  <RHA_REX53A.theme>装备专属</RHA_REX53A.theme>
+  <RHA_REX53B.label>疾攻</RHA_REX53B.label>
+  <RHA_REX53B.description>个人持有本卡并实际穿戴对应装备时，伤害加成增加10个百分点，近战攻速加成增加25个百分点，远程攻速加成增加25个百分点。同名卡只生效一次；沿用原有上限、加成和攻击间隔反向结算规则。</RHA_REX53B.description>
+  <RHA_REX53B.theme>装备专属</RHA_REX53B.theme>
+  <RHA_REX53C.label>追击</RHA_REX53C.label>
+  <RHA_REX53C.description>个人持有本卡并实际穿戴对应装备时，伤害加成增加20个百分点，移动速度加成增加20个百分点。同名卡只生效一次；沿用原有上限、加成和攻击间隔反向结算规则。</RHA_REX53C.description>
+  <RHA_REX53C.theme>装备专属</RHA_REX53C.theme>
+  <RHA_REX54A.label>战地利刃</RHA_REX54A.label>
+  <RHA_REX54A.description>个人持有本卡并实际穿戴对应装备时，伤害加成增加20个百分点，吸血强度增加15个百分点。同名卡只生效一次；沿用原有上限、加成和攻击间隔反向结算规则。</RHA_REX54A.description>
+  <RHA_REX54A.theme>装备专属</RHA_REX54A.theme>
+  <RHA_REX54B.label>救护体魄</RHA_REX54B.label>
+  <RHA_REX54B.description>个人持有本卡并实际穿戴对应装备时，生命加成增加30个百分点，生命恢复增加2。同名卡只生效一次；沿用原有上限、加成和攻击间隔反向结算规则。</RHA_REX54B.description>
+  <RHA_REX54B.theme>装备专属</RHA_REX54B.theme>
+  <RHA_REX54C.label>迅捷救护</RHA_REX54C.label>
+  <RHA_REX54C.description>个人持有本卡并实际穿戴对应装备时，移动速度加成增加20个百分点，近战攻速加成增加17.6个百分点，远程攻速加成增加17.6个百分点。同名卡只生效一次；沿用原有上限、加成和攻击间隔反向结算规则。</RHA_REX54C.description>
+  <RHA_REX54C.theme>装备专属</RHA_REX54C.theme>
+  <RHA_REX55A.label>破势</RHA_REX55A.label>
+  <RHA_REX55A.description>个人持有本卡并实际穿戴对应装备时，伤害加成增加30个百分点，暴击强度增加8个百分点。同名卡只生效一次；沿用原有上限、加成和攻击间隔反向结算规则。</RHA_REX55A.description>
+  <RHA_REX55A.theme>装备专属</RHA_REX55A.theme>
+  <RHA_REX55B.label>疾攻</RHA_REX55B.label>
+  <RHA_REX55B.description>个人持有本卡并实际穿戴对应装备时，伤害加成增加10个百分点，近战攻速加成增加25个百分点，远程攻速加成增加25个百分点。同名卡只生效一次；沿用原有上限、加成和攻击间隔反向结算规则。</RHA_REX55B.description>
+  <RHA_REX55B.theme>装备专属</RHA_REX55B.theme>
+  <RHA_REX55C.label>雷暴余威</RHA_REX55C.label>
+  <RHA_REX55C.description>霆王之矛的雷暴结束后，对此次受伤且仍站立的近处可见敌人追加160点电击伤害，最多4名。追加电击造成伤害时，移动速度降低20%，持续2秒。</RHA_REX55C.description>
+  <RHA_REX55C.theme>装备专属</RHA_REX55C.theme>
+  <RHA_REX56A.label>近身放电</RHA_REX56A.label>
+  <RHA_REX56A.description>雷幕壁垒的放电造成伤害后，对放电位置3格内最多4名可见且站立的敌人追加160点电击伤害。追加电击造成伤害时，移动速度降低20%，持续2秒。</RHA_REX56A.description>
+  <RHA_REX56A.theme>装备专属</RHA_REX56A.theme>
+  <RHA_REX56B.label>坚壁</RHA_REX56B.label>
+  <RHA_REX56B.description>个人持有本卡并实际穿戴对应装备时，生命加成增加35个百分点，防御加成增加25个百分点。同名卡只生效一次；沿用原有上限、加成和攻击间隔反向结算规则。</RHA_REX56B.description>
+  <RHA_REX56B.theme>装备专属</RHA_REX56B.theme>
+  <RHA_REX56C.label>不屈</RHA_REX56C.label>
+  <RHA_REX56C.description>个人持有本卡并实际穿戴对应装备时，生命加成增加20个百分点，生命恢复增加2。同名卡只生效一次；沿用原有上限、加成和攻击间隔反向结算规则。</RHA_REX56C.description>
+  <RHA_REX56C.theme>装备专属</RHA_REX56C.theme>
+  <RHA_REX57A.label>裂锋</RHA_REX57A.label>
+  <RHA_REX57A.description>个人持有本卡并实际穿戴对应装备时，伤害加成增加25个百分点，暴击强度增加10个百分点。同名卡只生效一次；沿用原有上限、加成和攻击间隔反向结算规则。</RHA_REX57A.description>
+  <RHA_REX57A.theme>装备专属</RHA_REX57A.theme>
+  <RHA_REX57B.label>浴血</RHA_REX57B.label>
+  <RHA_REX57B.description>个人持有本卡并实际穿戴对应装备时，生命加成增加25个百分点，吸血强度增加15个百分点。同名卡只生效一次；沿用原有上限、加成和攻击间隔反向结算规则。</RHA_REX57B.description>
+  <RHA_REX57B.theme>装备专属</RHA_REX57B.theme>
+  <RHA_REX57C.label>迅猛</RHA_REX57C.label>
+  <RHA_REX57C.description>个人持有本卡并实际穿戴对应装备时，近战攻速加成增加25个百分点，远程攻速加成增加25个百分点，移动速度加成增加10个百分点。同名卡只生效一次；沿用原有上限、加成和攻击间隔反向结算规则。</RHA_REX57C.description>
+  <RHA_REX57C.theme>装备专属</RHA_REX57C.theme>
+  <RHA_REX58A.label>反击锋芒</RHA_REX58A.label>
+  <RHA_REX58A.description>个人持有本卡并实际穿戴对应装备时，伤害加成增加25个百分点，防御加成增加15个百分点。同名卡只生效一次；沿用原有上限、加成和攻击间隔反向结算规则。</RHA_REX58A.description>
+  <RHA_REX58A.theme>装备专属</RHA_REX58A.theme>
+  <RHA_REX58B.label>坚壁</RHA_REX58B.label>
+  <RHA_REX58B.description>个人持有本卡并实际穿戴对应装备时，生命加成增加35个百分点，防御加成增加25个百分点。同名卡只生效一次；沿用原有上限、加成和攻击间隔反向结算规则。</RHA_REX58B.description>
+  <RHA_REX58B.theme>装备专属</RHA_REX58B.theme>
+  <RHA_REX58C.label>不屈</RHA_REX58C.label>
+  <RHA_REX58C.description>个人持有本卡并实际穿戴对应装备时，生命加成增加20个百分点，生命恢复增加2。同名卡只生效一次；沿用原有上限、加成和攻击间隔反向结算规则。</RHA_REX58C.description>
+  <RHA_REX58C.theme>装备专属</RHA_REX58C.theme>
+  <RHA_REX59A.label>百战锋芒</RHA_REX59A.label>
+  <RHA_REX59A.description>个人持有本卡并实际穿戴对应装备时，伤害加成增加25个百分点，近战攻速加成增加11.1个百分点，远程攻速加成增加11.1个百分点。同名卡只生效一次；沿用原有上限、加成和攻击间隔反向结算规则。</RHA_REX59A.description>
+  <RHA_REX59A.theme>装备专属</RHA_REX59A.theme>
+  <RHA_REX59B.label>坚实根基</RHA_REX59B.label>
+  <RHA_REX59B.description>个人持有本卡并实际穿戴对应装备时，生命加成增加30个百分点，防御加成增加25个百分点。同名卡只生效一次；沿用原有上限、加成和攻击间隔反向结算规则。</RHA_REX59B.description>
+  <RHA_REX59B.theme>装备专属</RHA_REX59B.theme>
+  <RHA_REX59C.label>熟练之力</RHA_REX59C.label>
+  <RHA_REX59C.description>个人持有本卡并实际穿戴对应装备时，工作速度加成增加35个百分点，移动速度加成增加15个百分点。同名卡只生效一次；沿用原有上限、加成和攻击间隔反向结算规则。</RHA_REX59C.description>
+  <RHA_REX59C.theme>装备专属</RHA_REX59C.theme>
+  <RHA_REX60A.label>战地利刃</RHA_REX60A.label>
+  <RHA_REX60A.description>个人持有本卡并实际穿戴对应装备时，伤害加成增加20个百分点，吸血强度增加15个百分点。同名卡只生效一次；沿用原有上限、加成和攻击间隔反向结算规则。</RHA_REX60A.description>
+  <RHA_REX60A.theme>装备专属</RHA_REX60A.theme>
+  <RHA_REX60B.label>救护体魄</RHA_REX60B.label>
+  <RHA_REX60B.description>个人持有本卡并实际穿戴对应装备时，生命加成增加30个百分点，生命恢复增加2。同名卡只生效一次；沿用原有上限、加成和攻击间隔反向结算规则。</RHA_REX60B.description>
+  <RHA_REX60B.theme>装备专属</RHA_REX60B.theme>
+  <RHA_REX60C.label>迅捷救护</RHA_REX60C.label>
+  <RHA_REX60C.description>个人持有本卡并实际穿戴对应装备时，移动速度加成增加20个百分点，近战攻速加成增加17.6个百分点，远程攻速加成增加17.6个百分点。同名卡只生效一次；沿用原有上限、加成和攻击间隔反向结算规则。</RHA_REX60C.description>
+  <RHA_REX60C.theme>装备专属</RHA_REX60C.theme>
+</LanguageData>

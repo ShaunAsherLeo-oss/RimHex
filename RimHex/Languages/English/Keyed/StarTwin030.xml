@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RHA_StarTwin030_Linked>Cores linked — damage to one charges the other.</RHA_StarTwin030_Linked>
+  <RHA_StarTwin030_Separated>Link broken — cores remain vulnerable.</RHA_StarTwin030_Separated>
+  <RHA_StarTwin030_Exposed>Link shattered — counterattack! {0}s</RHA_StarTwin030_Exposed>
+  <RHA_StarTwin030_Peer>{0}: your damage {1}/{2} {3}</RHA_StarTwin030_Peer>
+  <RHA_StarTwin030_Blade>Blade core</RHA_StarTwin030_Blade>
+  <RHA_StarTwin030_Lance>Lance core</RHA_StarTwin030_Lance>
+  <RHA_StarTwin030_Defeated>(defeated)</RHA_StarTwin030_Defeated>
+  <RHA_StarTwin030_Brief>The two cores protect each other within link range, taking 25% less damage. Damage to one feeds a counterattack from the other. Switch targets and interrupt the marked caster, or break its link with distance or cover: both take 25% more damage for 4 seconds. Neither becomes invulnerable. Defeated cores stay defeated; the survivor keeps its own short, wide or long, narrow barrage. Personal damage, shields and healing share each enemy’s contribution budget. No new skill or machinery interaction is required.</RHA_StarTwin030_Brief>
+</LanguageData>

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_V25_NoMap>需要在地图上</RHA_V25_NoMap>
+  <RHA_V25_Recovery>恢复中：{0}</RHA_V25_Recovery>
+  <RHA_V25_NoCounter>需要先成功招架，且反击尚未过期</RHA_V25_NoCounter>
+  <RHA_V25_Limit>机关数量已达上限</RHA_V25_Limit>
+  <RHA_V25_NoMine>没有自己的有效机关</RHA_V25_NoMine>
+  <RHA_V25_Manual>这项操作仅限手动</RHA_V25_Manual>
+  <RHA_V25_MineTime>机关 · {0} 秒</RHA_V25_MineTime>
+  <RHA_V25_Stance>正在招架：{0}</RHA_V25_Stance>
+  <RHA_V25_Counter>可反击：{0}</RHA_V25_Counter>
+  <RHA_V25_Idle>未进入招架架势</RHA_V25_Idle>
+  <RHA_V25_Mines>机关：自己 {0}/3，地图 {1}/12</RHA_V25_Mines>
+  <RHA_V25_Status>反击与机关</RHA_V25_Status>
+  <RHA_V25_StatusDesc>查看招架窗口、反击机会与在场机关数量。</RHA_V25_StatusDesc>
+</LanguageData>

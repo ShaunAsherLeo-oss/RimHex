@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_A24_collapse.label>坍缩熔核</RHA_A24_collapse.label>
+  <RHA_A24_collapse.description>需要熔核烙印。同时只能保留 1 枚烙印，积存比例由 20% 提高至 25%，上限由 36 提高至 48。引爆造成 12 点基础伤害加积存伤害，但范围缩至 1.5 格，最多命中 3 人。每个核心只启用一个分支；没有在场烙印时才可在战斗外切换。</RHA_A24_collapse.description>
+  <RHA_A24_collapse.theme>构筑分化</RHA_A24_collapse.theme>
+  <RHA_A24_linked.label>串联引信</RHA_A24_linked.label>
+  <RHA_A24_linked.description>需要熔核烙印。提前引爆时，沿 6 格内、视线畅通的连接依次引爆自己的烙印，最多 3 枚。每枚基础伤害降至 6，积存伤害只释放 70%；到期与死亡不会启动串联。整条链先消耗再结算，不能重复触发，引信抢燃每次指令只返还一次冷却。每个核心只启用一个分支。</RHA_A24_linked.description>
+  <RHA_A24_linked.theme>构筑分化</RHA_A24_linked.theme>
+  <RHA_A24_warden.label>独卫誓约</RHA_A24_warden.label>
+  <RHA_A24_warden.description>需要军团号令。新的普通投影成为近卫：生命倍率翻倍，伤害倍率提高 50%，占用 2 个召唤额度。同一主人只能保留 1 名普通投影，再次召唤不会补血或延长寿命；共鸣节点不变。没有普通投影在场时才可在战斗外切换军团分支。</RHA_A24_warden.description>
+  <RHA_A24_warden.theme>构筑分化</RHA_A24_warden.theme>
+  <RHA_A24_rotation.label>交错阵线</RHA_A24_rotation.label>
+  <RHA_A24_rotation.description>需要军团号令。普通投影持续伤害降低 15%。投影实际命中敌人后，将军团集结点点在主人脚下可撤回；回到主人 4 格内且视线畅通，休整 2 秒后准备再出击。重新下达集结或集火命令，休整后的首次命中追加 6 点基础伤害，每位主人 8 秒最多一次。护卫状态下会等待命令，不主动追敌。</RHA_A24_rotation.description>
+  <RHA_A24_rotation.theme>构筑分化</RHA_A24_rotation.theme>
+  <RHA_A24_rupture.label>破口追击</RHA_A24_rupture.label>
+  <RHA_A24_rupture.description>需要熔核烙印。提前引爆实际伤及选中的烙印目标后，留下持续 3 秒的破口。本人下一次普通攻击命中该目标时追加 6 点基础伤害并消耗破口。每人最多保留一个破口，串联的其他目标不额外获得。</RHA_A24_rupture.description>
+  <RHA_A24_rupture.theme>构筑分化</RHA_A24_rupture.theme>
+  <RHA_A24_temper.label>余热淬甲</RHA_A24_temper.label>
+  <RHA_A24_temper.description>需要熔核烙印。烙印自然到期时，按积存伤害的 20% 获得护盾，最多 8 点，持续 4 秒；每 6 秒最多一次。死亡与提前引爆不触发。护盾不叠加、不重复接受治疗增幅，也不会降低已有的更强护盾。</RHA_A24_temper.description>
+  <RHA_A24_temper.theme>构筑分化</RHA_A24_temper.theme>
+  <RHA_A24_banner.label>战旗回响</RHA_A24_banner.label>
+  <RHA_A24_banner.description>需要军团号令。下达集结或集火命令后 4 秒内，自己的普通投影首次实际命中敌人时，为主人提供 6 点护盾，持续 3 秒；每 8 秒最多一次。撤回护卫不触发，连续发命令不会重置冷却。</RHA_A24_banner.description>
+  <RHA_A24_banner.theme>构筑分化</RHA_A24_banner.theme>
+  <RHA_A24_relayload.label>接力装填</RHA_A24_relayload.label>
+  <RHA_A24_relayload.description>需要棱彩弹匣。本人远程普通攻击实际命中后，将目标标记 3 秒。自己的普通投影命中该目标时，消耗标记并补充 1 发棱彩弹药，每 6 秒最多一次。弹匣已满时不消耗标记；每人只保留一个目标，共鸣节点不计入。</RHA_A24_relayload.description>
+  <RHA_A24_relayload.theme>构筑分化</RHA_A24_relayload.theme>
+  <RHA_A24_shieldload.label>铸盾为弹</RHA_A24_shieldload.label>
+  <RHA_A24_shieldload.description>需要棱彩弹匣。获得手动装填指令：消耗 12 点现有护盾，补充 1 发棱彩弹药，冷却 6 秒。弹匣已满、护盾不足或无法行动时不消耗资源。不刷新被动装填与其他技能冷却；主动花费护盾不算受到攻击或破盾。</RHA_A24_shieldload.description>
+  <RHA_A24_shieldload.theme>构筑分化</RHA_A24_shieldload.theme>
+  <RHA_A24_blinkfan.label>折跃散射</RHA_A24_blinkfan.label>
+  <RHA_A24_blinkfan.description>施放已有的位移技能并实际移动后，3 秒内下一次普通攻击向目标方向释放 6 格、60 度扇形散射，对最多 3 名敌人各造成 4 点基础伤害，墙壁阻挡；每 6 秒最多一次。本卡不授予位移技能。阵前换位也可准备散射，普通步行不计入。</RHA_A24_blinkfan.description>
+  <RHA_A24_blinkfan.theme>构筑分化</RHA_A24_blinkfan.theme>
+  <RHA_A24_crossfire.label>转火校射</RHA_A24_crossfire.label>
+  <RHA_A24_crossfire.description>对敌人施放单体指向战技后，3 秒内普通攻击命中另一名敌人时追加 6 点基础伤害，每 4 秒最多一次。熔核烙印、提前引爆和军团集火不计入；同一目标的连续攻击不能兑现。施法准备只保留一次，不叠加。</RHA_A24_crossfire.description>
+  <RHA_A24_crossfire.theme>构筑分化</RHA_A24_crossfire.theme>
+  <RHA_A24_closecover.label>近距掩护</RHA_A24_closecover.label>
+  <RHA_A24_closecover.description>远程普通攻击实际命中 6 格内的敌人时，为 4 格内、视线畅通的一名其他己方人类殖民者提供 6 点护盾，持续 3 秒，每 6 秒最多一次。不能为自己提供护盾，身边没有符合条件的队友时不触发。</RHA_A24_closecover.description>
+  <RHA_A24_closecover.theme>构筑分化</RHA_A24_closecover.theme>
+</LanguageData>

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_V25_AimNoMap>Must be on a map</RHA_V25_AimNoMap>
+  <RHA_V25_AimInvalid>Choose a valid target on the map</RHA_V25_AimInvalid>
+  <RHA_V25_AimHidden>That position is unrevealed</RHA_V25_AimHidden>
+  <RHA_V25_AimRange>Out of range</RHA_V25_AimRange>
+  <RHA_V25_AimSight>Line of sight blocked</RHA_V25_AimSight>
+  <RHA_V25_AimEnemy>Choose a standing hostile target</RHA_V25_AimEnemy>
+  <RHA_V25_AimGround>Cannot deploy on this terrain</RHA_V25_AimGround>
+  <RHA_V25_AimPawn>A pawn occupies this position</RHA_V25_AimPawn>
+  <RHA_V25_AimOccupied>A mine already occupies this position</RHA_V25_AimOccupied>
+  <RHA_V25_AimOwnMine>Choose one of your active mines</RHA_V25_AimOwnMine>
+  <RHA_V25_AimArming>The mine is still arming</RHA_V25_AimArming>
+  <RHA_V25_AimWarning>A warning mine cannot be disarmed</RHA_V25_AimWarning>
+  <RHA_V25_AimReady>Click: {0}</RHA_V25_AimReady>
+</LanguageData>

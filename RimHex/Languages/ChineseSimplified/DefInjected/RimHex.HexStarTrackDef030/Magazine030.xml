@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_STAR_Core_magazine.nodes.0.label>棱彩弹匣</RHA_STAR_Core_magazine.nodes.0.label>
+  <RHA_STAR_Core_magazine.nodes.0.description>需要棱彩弹匣核心卡。保留已有弹药、普通远程命中的耗弹追加伤害、步行装填与倾泻弹匣技能。进阶不补弹，不刷新冷却，不重复学习技能。</RHA_STAR_Core_magazine.nodes.0.description>
+  <RHA_STAR_Core_magazine.nodes.1.label>速装短匣</RHA_STAR_Core_magazine.nodes.1.label>
+  <RHA_STAR_Core_magazine.nodes.1.description>容量由5发降至3发，普通耗弹追加伤害由6降至4，末弹仍为10。步行3格补1发，每秒至多一次；静止装填改为每3秒1发，耗弹后的首次等待仍为3秒。位移技能不计步行。选择时裁掉超额弹药，清空步行进度，保留装填等待时间。无需另抽分支卡。</RHA_STAR_Core_magazine.nodes.1.description>
+  <RHA_STAR_Core_magazine.nodes.2.label>穿透弹膛</RHA_STAR_Core_magazine.nodes.2.label>
+  <RHA_STAR_Core_magazine.nodes.2.description>倾泻弹匣沿目标方向射出穿透直线，长28格、两侧各1.2格，最多命中6名敌人，受墙壁阻挡。每发对每个目标的基础伤害由7降至5；普通耗弹射击不变。选择不会补弹，保留装填等待时间。无需另抽分支卡。</RHA_STAR_Core_magazine.nodes.2.description>
+  <RHA_STAR_Core_magazine.nodes.3.label>末弹掩护</RHA_STAR_Core_magazine.nodes.3.label>
+  <RHA_STAR_Core_magazine.nodes.3.description>普通远程命中实际消耗最后一发弹药后，获得50点独立护盾，持续3秒，冷却6秒。空弹匣命中、近战、技能、额外伤害及未再次耗弹的重复弹片都不触发。 基础收益：护盾 50。</RHA_STAR_Core_magazine.nodes.3.description>
+  <RHA_STAR_Core_magazine.nodes.4.label>尾弹引线</RHA_STAR_Core_magazine.nodes.4.label>
+  <RHA_STAR_Core_magazine.nodes.4.description>普通远程命中实际消耗末弹时，在仍存活的受击敌人身上留下6秒引线。后续倾泻弹匣实际命中该敌人，消耗引线追加50点伤害。最多一个引线，每6秒至多生成一次；装填仍按原规则进行。 基础收益：伤害 50。</RHA_STAR_Core_magazine.nodes.4.description>
+  <RHA_STAR_Core_magazine.nodes.5.label>贯穿追击</RHA_STAR_Core_magazine.nodes.5.label>
+  <RHA_STAR_Core_magazine.nodes.5.description>倾泻弹匣首次实际伤敌时，给该敌人留下6秒破口。本人后续普通远程命中该目标并实际消耗1发弹药，消耗破口追加50点伤害。每6秒最多标记一名敌人；空弹匣射击、近战和技能不能兑现。 基础收益：伤害 50。</RHA_STAR_Core_magazine.nodes.5.description>
+  <RHA_STAR_Core_magazine.nodes.6.label>压制补射</RHA_STAR_Core_magazine.nodes.6.label>
+  <RHA_STAR_Core_magazine.nodes.6.description>倾泻弹匣首次实际伤敌时，给该敌人留下6秒压制标记。本人后续普通远程命中并实际耗弹时，若该敌人正在准备普通武器攻击，消耗标记使本次准备延长0.3秒。每6秒最多标记一人；没有合适的攻击准备则保留标记，不延长有效期。</RHA_STAR_Core_magazine.nodes.6.description>
+</LanguageData>

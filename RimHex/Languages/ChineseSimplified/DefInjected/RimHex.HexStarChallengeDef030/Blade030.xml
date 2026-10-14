@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_BladeTrial030_root.label>迎锋</RHA_BladeTrial030_root.label>
+  <RHA_BladeTrial030_root.description>主要威胁：敌人锁定防御朝向，正面最多减伤20%。 可用解法：从标记的侧面或背面攻击，或用已有控制破坏架势。 成功收益：架势破坏后失衡8秒，承伤提高25%；该阶段不重建架势。 忽略代价：持续正面攻击仍能击杀，但错失破势收益。
+本关编排：追击诱导；锁定落点。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。沿用原有限敌人编组。</RHA_BladeTrial030_root.description>
+  <RHA_BladeTrial030_focus.label>盯住破绽</RHA_BladeTrial030_focus.label>
+  <RHA_BladeTrial030_focus.description>主要威胁：敌人锁定防御朝向，正面最多减伤20%。 可用解法：从标记的侧面或背面攻击，或用已有控制破坏架势。 成功收益：架势破坏后失衡8秒，承伤提高25%；该阶段不重建架势。 忽略代价：持续正面攻击仍能击杀，但错失破势收益。
+本关编排：连续攻击；固定射线。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。沿用原有限敌人编组。</RHA_BladeTrial030_focus.description>
+  <RHA_BladeTrial030_cross.label>交错对手</RHA_BladeTrial030_cross.label>
+  <RHA_BladeTrial030_cross.description>主要威胁：敌人锁定防御朝向，正面最多减伤20%。 可用解法：从标记的侧面或背面攻击，或用已有控制破坏架势。 成功收益：架势破坏后失衡8秒，承伤提高25%；该阶段不重建架势。 忽略代价：持续正面攻击仍能击杀，但错失破势收益。
+本关编排：双体联动；左右连续落点。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。沿用原有限敌人编组。</RHA_BladeTrial030_cross.description>
+  <RHA_BladeTrial030_finish.label>破卫收锋</RHA_BladeTrial030_finish.label>
+  <RHA_BladeTrial030_finish.description>主要威胁：敌人锁定防御朝向，正面最多减伤20%。 可用解法：从标记的侧面或背面攻击，或用已有控制破坏架势。 成功收益：架势破坏后失衡8秒，承伤提高25%；该阶段不重建架势。 忽略代价：持续正面攻击仍能击杀，但错失破势收益。
+本关编排：支点破防；锁定落点。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。沿用原有限敌人编组。</RHA_BladeTrial030_finish.description>
+  <RHA_BladeTrial030_feint.label>引刃侧移</RHA_BladeTrial030_feint.label>
+  <RHA_BladeTrial030_feint.description>主要威胁：敌人锁定防御朝向，正面最多减伤20%。 可用解法：从标记的侧面或背面攻击，或用已有控制破坏架势。 成功收益：架势破坏后失衡8秒，承伤提高25%；该阶段不重建架势。 忽略代价：持续正面攻击仍能击杀，但错失破势收益。
+本关编排：追击诱导；空心冲击。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。沿用原有限敌人编组。</RHA_BladeTrial030_feint.description>
+  <RHA_BladeTrial030_counter.label>候隙还击</RHA_BladeTrial030_counter.label>
+  <RHA_BladeTrial030_counter.description>主要威胁：敌人锁定防御朝向，正面最多减伤20%。 可用解法：从标记的侧面或背面攻击，或用已有控制破坏架势。 成功收益：架势破坏后失衡8秒，承伤提高25%；该阶段不重建架势。 忽略代价：持续正面攻击仍能击杀，但错失破势收益。
+本关编排：连续攻击；锁定落点。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。沿用原有限敌人编组。</RHA_BladeTrial030_counter.description>
+  <RHA_BladeTrial030_escort.label>并肩护卫</RHA_BladeTrial030_escort.label>
+  <RHA_BladeTrial030_escort.description>主要威胁：敌人锁定防御朝向，正面最多减伤20%。 可用解法：从标记的侧面或背面攻击，或用已有控制破坏架势。 成功收益：架势破坏后失衡8秒，承伤提高25%；该阶段不重建架势。 忽略代价：持续正面攻击仍能击杀，但错失破势收益。
+本关编排：目标保护；空心冲击。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。沿用原有限敌人编组。</RHA_BladeTrial030_escort.description>
+  <RHA_BladeTrial030_rhythm.label>传递破绽</RHA_BladeTrial030_rhythm.label>
+  <RHA_BladeTrial030_rhythm.description>主要威胁：敌人锁定防御朝向，正面最多减伤20%。 可用解法：从标记的侧面或背面攻击，或用已有控制破坏架势。 成功收益：架势破坏后失衡8秒，承伤提高25%；该阶段不重建架势。 忽略代价：持续正面攻击仍能击杀，但错失破势收益。
+本关编排：双体联动；固定射线。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。沿用原有限敌人编组。</RHA_BladeTrial030_rhythm.description>
+  <RHA_BladeTrial030_flank.label>侧锋突入</RHA_BladeTrial030_flank.label>
+  <RHA_BladeTrial030_flank.description>主要威胁：敌人锁定防御朝向，正面最多减伤20%。 可用解法：从标记的侧面或背面攻击，或用已有控制破坏架势。 成功收益：架势破坏后失衡8秒，承伤提高25%；该阶段不重建架势。 忽略代价：持续正面攻击仍能击杀，但错失破势收益。
+本关编排：追击诱导；固定射线。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。沿用原有限敌人编组。</RHA_BladeTrial030_flank.description>
+  <RHA_BladeTrial030_resolve.label>续战不退</RHA_BladeTrial030_resolve.label>
+  <RHA_BladeTrial030_resolve.description>主要威胁：敌人锁定防御朝向，正面最多减伤20%。 可用解法：从标记的侧面或背面攻击，或用已有控制破坏架势。 成功收益：架势破坏后失衡8秒，承伤提高25%；该阶段不重建架势。 忽略代价：持续正面攻击仍能击杀，但错失破势收益。
+本关编排：连续攻击；固定射线。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。沿用原有限敌人编组。</RHA_BladeTrial030_resolve.description>
+  <RHA_BladeTrial030_pincer.label>拆开护阵</RHA_BladeTrial030_pincer.label>
+  <RHA_BladeTrial030_pincer.description>主要威胁：敌人锁定防御朝向，正面最多减伤20%。 可用解法：从标记的侧面或背面攻击，或用已有控制破坏架势。 成功收益：架势破坏后失衡8秒，承伤提高25%；该阶段不重建架势。 忽略代价：持续正面攻击仍能击杀，但错失破势收益。
+本关编排：移动支援；固定射线。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。沿用原有限敌人编组。</RHA_BladeTrial030_pincer.description>
+  <RHA_BladeTrial030_rhythm_guard.label>回锋护人</RHA_BladeTrial030_rhythm_guard.label>
+  <RHA_BladeTrial030_rhythm_guard.description>主要威胁：敌人锁定防御朝向，正面最多减伤20%。 可用解法：从标记的侧面或背面攻击，或用已有控制破坏架势。 成功收益：架势破坏后失衡8秒，承伤提高25%；该阶段不重建架势。 忽略代价：持续正面攻击仍能击杀，但错失破势收益。
+本关编排：目标保护；锁定落点。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。五阶固定首领与两名护卫，无补员或复活。</RHA_BladeTrial030_rhythm_guard.description>
+  <RHA_BladeTrial030_rhythm_chain.label>接锋转战</RHA_BladeTrial030_rhythm_chain.label>
+  <RHA_BladeTrial030_rhythm_chain.description>主要威胁：敌人锁定防御朝向，正面最多减伤20%。 可用解法：从标记的侧面或背面攻击，或用已有控制破坏架势。 成功收益：架势破坏后失衡8秒，承伤提高25%；该阶段不重建架势。 忽略代价：持续正面攻击仍能击杀，但错失破势收益。
+本关编排：双体联动；空心冲击。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。五阶固定首领与两名护卫，无补员或复活。</RHA_BladeTrial030_rhythm_chain.description>
+  <RHA_BladeTrial030_flank_follow.label>追入空隙</RHA_BladeTrial030_flank_follow.label>
+  <RHA_BladeTrial030_flank_follow.description>主要威胁：敌人锁定防御朝向，正面最多减伤20%。 可用解法：从标记的侧面或背面攻击，或用已有控制破坏架势。 成功收益：架势破坏后失衡8秒，承伤提高25%；该阶段不重建架势。 忽略代价：持续正面攻击仍能击杀，但错失破势收益。
+本关编排：追击诱导；锁定落点。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。五阶固定首领与两名护卫，无补员或复活。</RHA_BladeTrial030_flank_follow.description>
+  <RHA_BladeTrial030_flank_fold.label>侧翼藏锋</RHA_BladeTrial030_flank_fold.label>
+  <RHA_BladeTrial030_flank_fold.description>主要威胁：敌人锁定防御朝向，正面最多减伤20%。 可用解法：从标记的侧面或背面攻击，或用已有控制破坏架势。 成功收益：架势破坏后失衡8秒，承伤提高25%；该阶段不重建架势。 忽略代价：持续正面攻击仍能击杀，但错失破势收益。
+本关编排：目标保护；空心冲击。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。五阶固定首领与两名护卫，无补员或复活。</RHA_BladeTrial030_flank_fold.description>
+  <RHA_BladeTrial030_resolve_guard.label>守隙破阵</RHA_BladeTrial030_resolve_guard.label>
+  <RHA_BladeTrial030_resolve_guard.description>主要威胁：敌人锁定防御朝向，正面最多减伤20%。 可用解法：从标记的侧面或背面攻击，或用已有控制破坏架势。 成功收益：架势破坏后失衡8秒，承伤提高25%；该阶段不重建架势。 忽略代价：持续正面攻击仍能击杀，但错失破势收益。
+本关编排：支点破防；锁定落点。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。五阶固定首领与两名护卫，无补员或复活。</RHA_BladeTrial030_resolve_guard.description>
+  <RHA_BladeTrial030_resolve_turn.label>换手接战</RHA_BladeTrial030_resolve_turn.label>
+  <RHA_BladeTrial030_resolve_turn.description>主要威胁：敌人锁定防御朝向，正面最多减伤20%。 可用解法：从标记的侧面或背面攻击，或用已有控制破坏架势。 成功收益：架势破坏后失衡8秒，承伤提高25%；该阶段不重建架势。 忽略代价：持续正面攻击仍能击杀，但错失破势收益。
+本关编排：双体联动；空心冲击。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。五阶固定首领与两名护卫，无补员或复活。</RHA_BladeTrial030_resolve_turn.description>
+  <RHA_BladeTrial030_pincer_close.label>合围护持</RHA_BladeTrial030_pincer_close.label>
+  <RHA_BladeTrial030_pincer_close.description>主要威胁：敌人锁定防御朝向，正面最多减伤20%。 可用解法：从标记的侧面或背面攻击，或用已有控制破坏架势。 成功收益：架势破坏后失衡8秒，承伤提高25%；该阶段不重建架势。 忽略代价：持续正面攻击仍能击杀，但错失破势收益。
+本关编排：目标保护；锁定落点。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。五阶固定首领与两名护卫，无补员或复活。</RHA_BladeTrial030_pincer_close.description>
+  <RHA_BladeTrial030_pincer_shift.label>换翼接应</RHA_BladeTrial030_pincer_shift.label>
+  <RHA_BladeTrial030_pincer_shift.description>主要威胁：敌人锁定防御朝向，正面最多减伤20%。 可用解法：从标记的侧面或背面攻击，或用已有控制破坏架势。 成功收益：架势破坏后失衡8秒，承伤提高25%；该阶段不重建架势。 忽略代价：持续正面攻击仍能击杀，但错失破势收益。
+本关编排：移动支援；空心冲击。新报名首通学习反制，精进增加协同；职责变化至少间隔30秒，锁定后不追踪，普通攻击可以提前击杀。五阶固定首领与两名护卫，无补员或复活。</RHA_BladeTrial030_pincer_shift.description>
+</LanguageData>

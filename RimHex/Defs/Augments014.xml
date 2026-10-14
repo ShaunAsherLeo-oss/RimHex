@@ -1,0 +1,241 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Defs>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_A14_FanTheHammer</defName>
+    <label>Fan the Hammer</label>
+    <description>Once per 1.5 seconds, a direct hit launches three missiles, each dealing 5.2 base secondary damage per stack. Draft limit: 4 stacks.</description>
+    <scope>Hero</scope>
+    <tier>Gold</tier>
+    <theme>Spellcraft</theme>
+    <weight>100</weight>
+    <maxStacks>4</maxStacks>
+    <iconPath>RimHex/Cards/RHA_A14_FanTheHammer</iconPath>
+    <mechanics>
+      <li>
+        <key>hammer014</key>
+        <amount>0.65</amount>
+      </li>
+    </mechanics>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_A14_SpellSplit</defName>
+    <label>Spell Split</label>
+    <description>A Crystal Bolt hit splits toward up to two other enemies within 6 cells. Each shard deals secondary damage based on 26% of the actual hit per stack. Shards cannot split again. Teaches Crystal Bolt. Draft limit: 4 stacks. Copied damage uses its resolved value; flat bonus damage can still be amplified.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Spellcraft</theme>
+    <weight>100</weight>
+    <maxStacks>4</maxStacks>
+    <iconPath>RimHex/Cards/RHA_A14_SpellSplit</iconPath>
+    <mechanics>
+      <li>
+        <key>split014</key>
+        <amount>0.65</amount>
+      </li>
+    </mechanics>
+    <grantsSkills>
+      <li>Arc014</li>
+    </grantsSkills>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_A14_EchoCast</defName>
+    <label>Echo Cast</label>
+    <description>The first effective ability hit on each enemy per cast echoes after 0.75 seconds, dealing secondary damage based on 29.25% of that actual hit per stack. Echoes do not repeat movement, healing, rewards or cast triggers. Teaches Crystal Bolt. Draft limit: 4 stacks. Copied damage uses its resolved value; flat bonus damage can still be amplified.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Spellcraft</theme>
+    <weight>100</weight>
+    <maxStacks>4</maxStacks>
+    <iconPath>RimHex/Cards/RHA_A14_EchoCast</iconPath>
+    <mechanics>
+      <li>
+        <key>echo014</key>
+        <amount>0.65</amount>
+      </li>
+    </mechanics>
+    <grantsSkills>
+      <li>Arc014</li>
+    </grantsSkills>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_A14_TwinFire</defName>
+    <label>Twin Fire</label>
+    <description>Each stack grants 6.825% critical value. The first effective ability hit on each enemy per cast fires two missiles, each dealing 6.5 base secondary damage per stack. Teaches Crystal Bolt. Draft limit: 4 stacks.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Spellcraft</theme>
+    <weight>100</weight>
+    <maxStacks>4</maxStacks>
+    <iconPath>RimHex/Cards/RHA_A14_TwinFire</iconPath>
+    <mechanics>
+      <li>
+        <key>twin014</key>
+        <amount>0.65</amount>
+      </li>
+    </mechanics>
+    <critical>0.06825</critical>
+    <grantsSkills>
+      <li>Arc014</li>
+    </grantsSkills>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_A14_WildFire</defName>
+    <label>Wild Fire</label>
+    <description>While drafted and able to act, automatically strike a visible enemy within 14 cells every 4 seconds, then jump to up to two different enemies within 5 cells of each other. Each hit deals 14.3 base secondary damage per stack. No target means no cooldown spent. Teaches Crystal Bolt. Draft limit: 4 stacks.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Spellcraft</theme>
+    <weight>100</weight>
+    <maxStacks>4</maxStacks>
+    <iconPath>RimHex/Cards/RHA_A14_WildFire</iconPath>
+    <mechanics>
+      <li>
+        <key>wild014</key>
+        <amount>0.65</amount>
+      </li>
+    </mechanics>
+    <grantsSkills>
+      <li>Arc014</li>
+    </grantsSkills>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_A14_AcceleratingSorcery</defName>
+    <label>Accelerating Sorcery</label>
+    <description>Successful combat casts build sorcery, up to 20 stacks; it expires after 15 seconds without casting. Each sorcery stack grants 5.2% ability haste per card stack. Automatic missiles and echoes are not casts. Teaches Crystal Bolt. Draft limit: 4 stacks.</description>
+    <scope>Hero</scope>
+    <tier>Gold</tier>
+    <theme>Spellcraft</theme>
+    <weight>100</weight>
+    <maxStacks>4</maxStacks>
+    <iconPath>RimHex/Cards/RHA_A14_AcceleratingSorcery</iconPath>
+    <mechanics>
+      <li>
+        <key>accel014</key>
+        <amount>0.65</amount>
+      </li>
+    </mechanics>
+    <grantsSkills>
+      <li>Arc014</li>
+    </grantsSkills>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_A14_Archmage</defName>
+    <label>Archmage</label>
+    <description>Successful combat casts refund 0.65 second per card stack from other recorded personal ability cooldowns. The cast itself receives no refund; an ability cannot recast in the same tick. Teaches Crystal Bolt. Draft limit: 4 stacks.</description>
+    <scope>Hero</scope>
+    <tier>Gold</tier>
+    <theme>Spellcraft</theme>
+    <weight>100</weight>
+    <maxStacks>4</maxStacks>
+    <iconPath>RimHex/Cards/RHA_A14_Archmage</iconPath>
+    <mechanics>
+      <li>
+        <key>archmage014</key>
+        <amount>0.65</amount>
+      </li>
+    </mechanics>
+    <grantsSkills>
+      <li>Arc014</li>
+    </grantsSkills>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_A14_UltimateAwakening</defName>
+    <label>Ultimate Awakening</label>
+    <description>Casting a personal path ability refreshes basic abilities and grants them 65% ability haste per stack for 8 seconds. Awakening has a separate 15-second interval. Colony abilities do not trigger it. Teaches Crystal Bolt. Draft limit: 4 stacks.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Spellcraft</theme>
+    <weight>100</weight>
+    <maxStacks>4</maxStacks>
+    <iconPath>RimHex/Cards/RHA_A14_UltimateAwakening</iconPath>
+    <mechanics>
+      <li>
+        <key>awaken014</key>
+        <amount>0.65</amount>
+      </li>
+    </mechanics>
+    <grantsSkills>
+      <li>Arc014</li>
+    </grantsSkills>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_A14_Multishot</defName>
+    <label>Multishot</label>
+    <description>Crystal Bolt combat hits build shared practice. At 20/40 practice, fire at one/two extra enemies within 7 cells of the target; extra bolts deal 65% of normal base damage. Practice grows at most once per second, benefits from growth bonuses and persists. Teaches Crystal Bolt.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Spellcraft</theme>
+    <weight>100</weight>
+    <maxStacks>1</maxStacks>
+    <iconPath>RimHex/Cards/RHA_A14_Multishot</iconPath>
+    <mechanics>
+      <li>
+        <key>multi014</key>
+        <amount>1</amount>
+      </li>
+    </mechanics>
+    <grantsSkills>
+      <li>Arc014</li>
+    </grantsSkills>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_A14_PursuitOfPower</defName>
+    <label>Pursuit of Power</label>
+    <description>Crystal Bolt combat hits build shared practice. At 40/80 practice, each card stack grants 48.75%/97.5% bolt damage. Gain at most once per second, affected by growth bonuses and retained in saves. Teaches Crystal Bolt. Draft limit: 4 stacks.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Spellcraft</theme>
+    <weight>100</weight>
+    <maxStacks>4</maxStacks>
+    <iconPath>RimHex/Cards/RHA_A14_PursuitOfPower</iconPath>
+    <mechanics>
+      <li>
+        <key>powerQuest014</key>
+        <amount>0.65</amount>
+      </li>
+    </mechanics>
+    <grantsSkills>
+      <li>Arc014</li>
+    </grantsSkills>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_A14_PursuitOfHaste</defName>
+    <label>Pursuit of Haste</label>
+    <description>Crystal Bolt combat hits build shared practice. At 40/80 practice, each card stack grants 32.5%/65% bolt haste. Gain at most once per second, affected by growth bonuses. Cooldown remains at least 1 second. Teaches Crystal Bolt. Draft limit: 4 stacks.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Spellcraft</theme>
+    <weight>100</weight>
+    <maxStacks>4</maxStacks>
+    <iconPath>RimHex/Cards/RHA_A14_PursuitOfHaste</iconPath>
+    <mechanics>
+      <li>
+        <key>hasteQuest014</key>
+        <amount>0.65</amount>
+      </li>
+    </mechanics>
+    <grantsSkills>
+      <li>Arc014</li>
+    </grantsSkills>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_A14_TriggeredInferno</defName>
+    <label>Triggered Inferno</label>
+    <description>Alternate direct hits with successful combat casts. A six-step combo blasts enemies within 7 cells for 45.5 base secondary damage and 3.25 base burn damage per pulse per card stack. Repeated step types add nothing. The combo expires after 8 seconds, with a 10-second blast interval. Teaches Crystal Bolt. Draft limit: 4 stacks.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Spellcraft</theme>
+    <weight>100</weight>
+    <maxStacks>4</maxStacks>
+    <iconPath>RimHex/Cards/RHA_A14_TriggeredInferno</iconPath>
+    <mechanics>
+      <li>
+        <key>inferno014</key>
+        <amount>0.65</amount>
+      </li>
+    </mechanics>
+    <grantsSkills>
+      <li>Arc014</li>
+    </grantsSkills>
+  </RimHex.HexAugmentDef>
+</Defs>

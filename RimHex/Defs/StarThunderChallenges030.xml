@@ -1,0 +1,659 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Defs>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_ThunderTrial030_net_fence</defName>
+    <label>Crossing hunters</label>
+    <description>Threat: A feeder protects linked enemies. Answer: Kill or control the feeder, or interrupt power with actual damage. Reward: Linked enemies lose defense and take 25% more damage for 8 seconds. Cost: Ignoring power leaves up to 20% damage reduction.
+Arrangement: Protected target; Left then right impacts. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. Existing finite roster retained.</description>
+    <family>thunder</family>
+    <mechanism>bodyguard</mechanism>
+    <chargedBarrage>false</chargedBarrage>
+    <arena>splitCourt-v1</arena>
+    <targetTrack>RHA_STAR_Path_Thunder</targetTrack>
+    <targetNode>net_fence</targetNode>
+    <targetStage>4</targetStage>
+    <seconds>300</seconds>
+    <tactic>RHA_Tactics_ThunderTrial030_net_fence</tactic>
+    <encounter>RHA_Encounter03510_RHA_ThunderTrial030_net_fence</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_ThunderTrial030_net_fence_c</defName>
+    <label>Closing the net</label>
+    <description>Threat: A feeder protects linked enemies. Answer: Kill or control the feeder, or interrupt power with actual damage. Reward: Linked enemies lose defense and take 25% more damage for 8 seconds. Cost: Ignoring power leaves up to 20% damage reduction.
+Arrangement: Protected target; Locked impact. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. One boss and two finite guards, no reinforcements or resurrection.</description>
+    <family>thunder</family>
+    <mechanism>bodyguard</mechanism>
+    <chargedBarrage>false</chargedBarrage>
+    <arena>switchbacks-v1</arena>
+    <targetTrack>RHA_STAR_Path_Thunder</targetTrack>
+    <targetNode>net_fence_c</targetNode>
+    <targetStage>5</targetStage>
+    <seconds>420</seconds>
+    <tactic>RHA_Tactics_ThunderTrial030_net_fence_c</tactic>
+    <encounter>RHA_Encounter03510_RHA_ThunderTrial030_net_fence_c</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_ThunderTrial030_focus_pin</defName>
+    <label>Pinned battery</label>
+    <description>Threat: A feeder protects linked enemies. Answer: Kill or control the feeder, or interrupt power with actual damage. Reward: Linked enemies lose defense and take 25% more damage for 8 seconds. Cost: Ignoring power leaves up to 20% damage reduction.
+Arrangement: Anchor break; Fixed lane. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. Existing finite roster retained.</description>
+    <family>thunder</family>
+    <mechanism>guardBreak</mechanism>
+    <chargedBarrage>true</chargedBarrage>
+    <arena>bastion-v1</arena>
+    <targetTrack>RHA_STAR_Path_Thunder</targetTrack>
+    <targetNode>focus_pin</targetNode>
+    <targetStage>4</targetStage>
+    <seconds>300</seconds>
+    <tactic>RHA_Tactics_ThunderTrial030_focus_pin</tactic>
+    <encounter>RHA_Encounter03510_RHA_ThunderTrial030_focus_pin</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_ThunderTrial030_focus_pin_c</defName>
+    <label>Piercing the battery</label>
+    <description>Threat: A feeder protects linked enemies. Answer: Kill or control the feeder, or interrupt power with actual damage. Reward: Linked enemies lose defense and take 25% more damage for 8 seconds. Cost: Ignoring power leaves up to 20% damage reduction.
+Arrangement: Anchor break; Locked impact. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. One boss and two finite guards, no reinforcements or resurrection.</description>
+    <family>thunder</family>
+    <mechanism>guardBreak</mechanism>
+    <chargedBarrage>true</chargedBarrage>
+    <arena>longHall-v1</arena>
+    <targetTrack>RHA_STAR_Path_Thunder</targetTrack>
+    <targetNode>focus_pin_c</targetNode>
+    <targetStage>5</targetStage>
+    <seconds>420</seconds>
+    <tactic>RHA_Tactics_ThunderTrial030_focus_pin_c</tactic>
+    <encounter>RHA_Encounter03510_RHA_ThunderTrial030_focus_pin_c</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_ThunderTrial030_focus_cut</defName>
+    <label>Cutting pursuit</label>
+    <description>Threat: A feeder protects linked enemies. Answer: Kill or control the feeder, or interrupt power with actual damage. Reward: Linked enemies lose defense and take 25% more damage for 8 seconds. Cost: Ignoring power leaves up to 20% damage reduction.
+Arrangement: Baited pursuit; Left then right impacts. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. Existing finite roster retained.</description>
+    <family>thunder</family>
+    <mechanism>pursuit</mechanism>
+    <chargedBarrage>false</chargedBarrage>
+    <arena>ring-v1</arena>
+    <targetTrack>RHA_STAR_Path_Thunder</targetTrack>
+    <targetNode>focus_cut</targetNode>
+    <targetStage>4</targetStage>
+    <seconds>300</seconds>
+    <tactic>RHA_Tactics_ThunderTrial030_focus_cut</tactic>
+    <encounter>RHA_Encounter03510_RHA_ThunderTrial030_focus_cut</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_ThunderTrial030_focus_cut_c</defName>
+    <label>Moving circuit</label>
+    <description>Threat: A feeder protects linked enemies. Answer: Kill or control the feeder, or interrupt power with actual damage. Reward: Linked enemies lose defense and take 25% more damage for 8 seconds. Cost: Ignoring power leaves up to 20% damage reduction.
+Arrangement: Moving support; Locked impact. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. One boss and two finite guards, no reinforcements or resurrection.</description>
+    <family>thunder</family>
+    <mechanism>escort</mechanism>
+    <chargedBarrage>false</chargedBarrage>
+    <arena>crossroads-v1</arena>
+    <targetTrack>RHA_STAR_Path_Thunder</targetTrack>
+    <targetNode>focus_cut_c</targetNode>
+    <targetStage>5</targetStage>
+    <seconds>420</seconds>
+    <tactic>RHA_Tactics_ThunderTrial030_focus_cut_c</tactic>
+    <encounter>RHA_Encounter03510_RHA_ThunderTrial030_focus_cut_c</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_ThunderTrial030_stride_return</defName>
+    <label>Returning strike</label>
+    <description>Threat: A feeder protects linked enemies. Answer: Kill or control the feeder, or interrupt power with actual damage. Reward: Linked enemies lose defense and take 25% more damage for 8 seconds. Cost: Ignoring power leaves up to 20% damage reduction.
+Arrangement: Baited pursuit; Fixed lane. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. Existing finite roster retained.</description>
+    <family>thunder</family>
+    <mechanism>pursuit</mechanism>
+    <chargedBarrage>false</chargedBarrage>
+    <arena>longHall-v1</arena>
+    <targetTrack>RHA_STAR_Path_Thunder</targetTrack>
+    <targetNode>stride_return</targetNode>
+    <targetStage>4</targetStage>
+    <seconds>300</seconds>
+    <tactic>RHA_Tactics_ThunderTrial030_stride_return</tactic>
+    <encounter>RHA_Encounter03510_RHA_ThunderTrial030_stride_return</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_ThunderTrial030_stride_return_c</defName>
+    <label>Storm return</label>
+    <description>Threat: A feeder protects linked enemies. Answer: Kill or control the feeder, or interrupt power with actual damage. Reward: Linked enemies lose defense and take 25% more damage for 8 seconds. Cost: Ignoring power leaves up to 20% damage reduction.
+Arrangement: Baited pursuit; Locked impact. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. One boss and two finite guards, no reinforcements or resurrection.</description>
+    <family>thunder</family>
+    <mechanism>pursuit</mechanism>
+    <chargedBarrage>false</chargedBarrage>
+    <arena>bastion-v1</arena>
+    <targetTrack>RHA_STAR_Path_Thunder</targetTrack>
+    <targetNode>stride_return_c</targetNode>
+    <targetStage>5</targetStage>
+    <seconds>420</seconds>
+    <tactic>RHA_Tactics_ThunderTrial030_stride_return_c</tactic>
+    <encounter>RHA_Encounter03510_RHA_ThunderTrial030_stride_return_c</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_ThunderTrial030_stride_cut</defName>
+    <label>Flanking current</label>
+    <description>Threat: A feeder protects linked enemies. Answer: Kill or control the feeder, or interrupt power with actual damage. Reward: Linked enemies lose defense and take 25% more damage for 8 seconds. Cost: Ignoring power leaves up to 20% damage reduction.
+Arrangement: Moving support; Left then right impacts. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. Existing finite roster retained.</description>
+    <family>thunder</family>
+    <mechanism>escort</mechanism>
+    <chargedBarrage>false</chargedBarrage>
+    <arena>switchbacks-v1</arena>
+    <targetTrack>RHA_STAR_Path_Thunder</targetTrack>
+    <targetNode>stride_cut</targetNode>
+    <targetStage>4</targetStage>
+    <seconds>300</seconds>
+    <tactic>RHA_Tactics_ThunderTrial030_stride_cut</tactic>
+    <encounter>RHA_Encounter03510_RHA_ThunderTrial030_stride_cut</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_ThunderTrial030_stride_cut_c</defName>
+    <label>Zigzag crossfire</label>
+    <description>Threat: A feeder protects linked enemies. Answer: Kill or control the feeder, or interrupt power with actual damage. Reward: Linked enemies lose defense and take 25% more damage for 8 seconds. Cost: Ignoring power leaves up to 20% damage reduction.
+Arrangement: Linked peers; Locked impact. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. One boss and two finite guards, no reinforcements or resurrection.</description>
+    <family>thunder</family>
+    <mechanism>twinLink</mechanism>
+    <chargedBarrage>false</chargedBarrage>
+    <arena>splitCourt-v1</arena>
+    <targetTrack>RHA_STAR_Path_Thunder</targetTrack>
+    <targetNode>stride_cut_c</targetNode>
+    <targetStage>5</targetStage>
+    <seconds>420</seconds>
+    <tactic>RHA_Tactics_ThunderTrial030_stride_cut_c</tactic>
+    <encounter>RHA_Encounter03510_RHA_ThunderTrial030_stride_cut_c</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_ThunderTrial030_ward_counter</defName>
+    <label>Answering volley</label>
+    <description>Threat: A feeder protects linked enemies. Answer: Kill or control the feeder, or interrupt power with actual damage. Reward: Linked enemies lose defense and take 25% more damage for 8 seconds. Cost: Ignoring power leaves up to 20% damage reduction.
+Arrangement: Ordered strikes; Fixed lane. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. Existing finite roster retained.</description>
+    <family>thunder</family>
+    <mechanism>cadence</mechanism>
+    <chargedBarrage>false</chargedBarrage>
+    <arena>crossroads-v1</arena>
+    <targetTrack>RHA_STAR_Path_Thunder</targetTrack>
+    <targetNode>ward_counter</targetNode>
+    <targetStage>4</targetStage>
+    <seconds>300</seconds>
+    <tactic>RHA_Tactics_ThunderTrial030_ward_counter</tactic>
+    <encounter>RHA_Encounter03510_RHA_ThunderTrial030_ward_counter</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_ThunderTrial030_ward_counter_c</defName>
+    <label>Returning thunder</label>
+    <description>Threat: A feeder protects linked enemies. Answer: Kill or control the feeder, or interrupt power with actual damage. Reward: Linked enemies lose defense and take 25% more damage for 8 seconds. Cost: Ignoring power leaves up to 20% damage reduction.
+Arrangement: Ordered strikes; Locked impact. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. One boss and two finite guards, no reinforcements or resurrection.</description>
+    <family>thunder</family>
+    <mechanism>cadence</mechanism>
+    <chargedBarrage>false</chargedBarrage>
+    <arena>longHall-v1</arena>
+    <targetTrack>RHA_STAR_Path_Thunder</targetTrack>
+    <targetNode>ward_counter_c</targetNode>
+    <targetStage>5</targetStage>
+    <seconds>420</seconds>
+    <tactic>RHA_Tactics_ThunderTrial030_ward_counter_c</tactic>
+    <encounter>RHA_Encounter03510_RHA_ThunderTrial030_ward_counter_c</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_ThunderTrial030_ward_ground</defName>
+    <label>Grounded retreat</label>
+    <description>Threat: A feeder protects linked enemies. Answer: Kill or control the feeder, or interrupt power with actual damage. Reward: Linked enemies lose defense and take 25% more damage for 8 seconds. Cost: Ignoring power leaves up to 20% damage reduction.
+Arrangement: Interrupted charge; Crossing lanes. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. Existing finite roster retained.</description>
+    <family>thunder</family>
+    <mechanism>overload</mechanism>
+    <chargedBarrage>false</chargedBarrage>
+    <arena>switchbacks-v1</arena>
+    <targetTrack>RHA_STAR_Path_Thunder</targetTrack>
+    <targetNode>ward_ground</targetNode>
+    <targetStage>4</targetStage>
+    <seconds>300</seconds>
+    <tactic>RHA_Tactics_ThunderTrial030_ward_ground</tactic>
+    <encounter>RHA_Encounter03510_RHA_ThunderTrial030_ward_ground</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_ThunderTrial030_ward_ground_c</defName>
+    <label>Safe return</label>
+    <description>Threat: A feeder protects linked enemies. Answer: Kill or control the feeder, or interrupt power with actual damage. Reward: Linked enemies lose defense and take 25% more damage for 8 seconds. Cost: Ignoring power leaves up to 20% damage reduction.
+Arrangement: Interrupted charge; Locked impact. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. One boss and two finite guards, no reinforcements or resurrection.</description>
+    <family>thunder</family>
+    <mechanism>overload</mechanism>
+    <chargedBarrage>false</chargedBarrage>
+    <arena>splitCourt-v1</arena>
+    <targetTrack>RHA_STAR_Path_Thunder</targetTrack>
+    <targetNode>ward_ground_c</targetNode>
+    <targetStage>5</targetStage>
+    <seconds>420</seconds>
+    <tactic>RHA_Tactics_ThunderTrial030_ward_ground_c</tactic>
+    <encounter>RHA_Encounter03510_RHA_ThunderTrial030_ward_ground_c</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_ThunderTrial030_ward_split</defName>
+    <label>Shared shelter</label>
+    <description>Threat: A feeder protects linked enemies. Answer: Kill or control the feeder, or interrupt power with actual damage. Reward: Linked enemies lose defense and take 25% more damage for 8 seconds. Cost: Ignoring power leaves up to 20% damage reduction.
+Arrangement: Protected target; Left then right impacts. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. Existing finite roster retained.</description>
+    <family>thunder</family>
+    <mechanism>bodyguard</mechanism>
+    <chargedBarrage>false</chargedBarrage>
+    <arena>crossroads-v1</arena>
+    <targetTrack>RHA_STAR_Path_Thunder</targetTrack>
+    <targetNode>ward_split</targetNode>
+    <targetStage>4</targetStage>
+    <seconds>300</seconds>
+    <tactic>RHA_Tactics_ThunderTrial030_ward_split</tactic>
+    <encounter>RHA_Encounter03510_RHA_ThunderTrial030_ward_split</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_ThunderTrial030_ward_split_c</defName>
+    <label>Resonant defense</label>
+    <description>Threat: A feeder protects linked enemies. Answer: Kill or control the feeder, or interrupt power with actual damage. Reward: Linked enemies lose defense and take 25% more damage for 8 seconds. Cost: Ignoring power leaves up to 20% damage reduction.
+Arrangement: Protected target; Locked impact. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. One boss and two finite guards, no reinforcements or resurrection.</description>
+    <family>thunder</family>
+    <mechanism>bodyguard</mechanism>
+    <chargedBarrage>false</chargedBarrage>
+    <arena>bastion-v1</arena>
+    <targetTrack>RHA_STAR_Path_Thunder</targetTrack>
+    <targetNode>ward_split_c</targetNode>
+    <targetStage>5</targetStage>
+    <seconds>420</seconds>
+    <tactic>RHA_Tactics_ThunderTrial030_ward_split_c</tactic>
+    <encounter>RHA_Encounter03510_RHA_ThunderTrial030_ward_split_c</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_ThunderTrial030_ward_rescue</defName>
+    <label>Rescue under fire</label>
+    <description>Threat: A feeder protects linked enemies. Answer: Kill or control the feeder, or interrupt power with actual damage. Reward: Linked enemies lose defense and take 25% more damage for 8 seconds. Cost: Ignoring power leaves up to 20% damage reduction.
+Arrangement: Protected target; Near then far impacts. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. Existing finite roster retained.</description>
+    <family>thunder</family>
+    <mechanism>bodyguard</mechanism>
+    <chargedBarrage>false</chargedBarrage>
+    <arena>longHall-v1</arena>
+    <targetTrack>RHA_STAR_Path_Thunder</targetTrack>
+    <targetNode>ward_rescue</targetNode>
+    <targetStage>4</targetStage>
+    <seconds>300</seconds>
+    <tactic>RHA_Tactics_ThunderTrial030_ward_rescue</tactic>
+    <encounter>RHA_Encounter03510_RHA_ThunderTrial030_ward_rescue</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_ThunderTrial030_ward_rescue_c</defName>
+    <label>Survival under siege</label>
+    <description>Threat: A feeder protects linked enemies. Answer: Kill or control the feeder, or interrupt power with actual damage. Reward: Linked enemies lose defense and take 25% more damage for 8 seconds. Cost: Ignoring power leaves up to 20% damage reduction.
+Arrangement: Protected target; Locked impact. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. One boss and two finite guards, no reinforcements or resurrection.</description>
+    <family>thunder</family>
+    <mechanism>bodyguard</mechanism>
+    <chargedBarrage>false</chargedBarrage>
+    <arena>ring-v1</arena>
+    <targetTrack>RHA_STAR_Path_Thunder</targetTrack>
+    <targetNode>ward_rescue_c</targetNode>
+    <targetStage>5</targetStage>
+    <seconds>420</seconds>
+    <tactic>RHA_Tactics_ThunderTrial030_ward_rescue_c</tactic>
+    <encounter>RHA_Encounter03510_RHA_ThunderTrial030_ward_rescue_c</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_ThunderTrial030_stride_exchange</defName>
+    <label>Moving cover</label>
+    <description>Threat: A feeder protects linked enemies. Answer: Kill or control the feeder, or interrupt power with actual damage. Reward: Linked enemies lose defense and take 25% more damage for 8 seconds. Cost: Ignoring power leaves up to 20% damage reduction.
+Arrangement: Protected target; Crossing lanes. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. Existing finite roster retained.</description>
+    <family>thunder</family>
+    <mechanism>bodyguard</mechanism>
+    <chargedBarrage>false</chargedBarrage>
+    <arena>switchbacks-v1</arena>
+    <targetTrack>RHA_STAR_Path_Thunder</targetTrack>
+    <targetNode>stride_exchange</targetNode>
+    <targetStage>4</targetStage>
+    <seconds>300</seconds>
+    <tactic>RHA_Tactics_ThunderTrial030_stride_exchange</tactic>
+    <encounter>RHA_Encounter03510_RHA_ThunderTrial030_stride_exchange</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_ThunderTrial030_stride_exchange_c</defName>
+    <label>Crossing cover</label>
+    <description>Threat: A feeder protects linked enemies. Answer: Kill or control the feeder, or interrupt power with actual damage. Reward: Linked enemies lose defense and take 25% more damage for 8 seconds. Cost: Ignoring power leaves up to 20% damage reduction.
+Arrangement: Protected target; Locked impact. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. One boss and two finite guards, no reinforcements or resurrection.</description>
+    <family>thunder</family>
+    <mechanism>bodyguard</mechanism>
+    <chargedBarrage>false</chargedBarrage>
+    <arena>crossroads-v1</arena>
+    <targetTrack>RHA_STAR_Path_Thunder</targetTrack>
+    <targetNode>stride_exchange_c</targetNode>
+    <targetStage>5</targetStage>
+    <seconds>420</seconds>
+    <tactic>RHA_Tactics_ThunderTrial030_stride_exchange_c</tactic>
+    <encounter>RHA_Encounter03510_RHA_ThunderTrial030_stride_exchange_c</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_ThunderTrial030_net_beacon</defName>
+    <label>Shield-link needle</label>
+    <description>Threat: A feeder protects linked enemies. Answer: Kill or control the feeder, or interrupt power with actual damage. Reward: Linked enemies lose defense and take 25% more damage for 8 seconds. Cost: Ignoring power leaves up to 20% damage reduction.
+Arrangement: Moving support; Crossing lanes. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. Existing finite roster retained.</description>
+    <family>thunder</family>
+    <mechanism>escort</mechanism>
+    <chargedBarrage>false</chargedBarrage>
+    <arena>splitCourt-v1</arena>
+    <targetTrack>RHA_STAR_Path_Thunder</targetTrack>
+    <targetNode>net_beacon</targetNode>
+    <targetStage>4</targetStage>
+    <seconds>300</seconds>
+    <tactic>RHA_Tactics_ThunderTrial030_net_beacon</tactic>
+    <encounter>RHA_Encounter03510_RHA_ThunderTrial030_net_beacon</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_ThunderTrial030_net_beacon_c</defName>
+    <label>Storm anchor assault</label>
+    <description>Threat: A feeder protects linked enemies. Answer: Kill or control the feeder, or interrupt power with actual damage. Reward: Linked enemies lose defense and take 25% more damage for 8 seconds. Cost: Ignoring power leaves up to 20% damage reduction.
+Arrangement: Moving support; Locked impact. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. One boss and two finite guards, no reinforcements or resurrection.</description>
+    <family>thunder</family>
+    <mechanism>escort</mechanism>
+    <chargedBarrage>false</chargedBarrage>
+    <arena>bastion-v1</arena>
+    <targetTrack>RHA_STAR_Path_Thunder</targetTrack>
+    <targetNode>net_beacon_c</targetNode>
+    <targetStage>5</targetStage>
+    <seconds>420</seconds>
+    <tactic>RHA_Tactics_ThunderTrial030_net_beacon_c</tactic>
+    <encounter>RHA_Encounter03510_RHA_ThunderTrial030_net_beacon_c</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_ThunderTrial030_net_bridge</defName>
+    <label>Relay breach</label>
+    <description>Threat: A feeder protects linked enemies. Answer: Kill or control the feeder, or interrupt power with actual damage. Reward: Linked enemies lose defense and take 25% more damage for 8 seconds. Cost: Ignoring power leaves up to 20% damage reduction.
+Arrangement: Moving support; Near then far impacts. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. Existing finite roster retained.</description>
+    <family>thunder</family>
+    <mechanism>escort</mechanism>
+    <chargedBarrage>false</chargedBarrage>
+    <arena>crossroads-v1</arena>
+    <targetTrack>RHA_STAR_Path_Thunder</targetTrack>
+    <targetNode>net_bridge</targetNode>
+    <targetStage>4</targetStage>
+    <seconds>300</seconds>
+    <tactic>RHA_Tactics_ThunderTrial030_net_bridge</tactic>
+    <encounter>RHA_Encounter03510_RHA_ThunderTrial030_net_bridge</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_ThunderTrial030_net_bridge_c</defName>
+    <label>Paired breach</label>
+    <description>Threat: A feeder protects linked enemies. Answer: Kill or control the feeder, or interrupt power with actual damage. Reward: Linked enemies lose defense and take 25% more damage for 8 seconds. Cost: Ignoring power leaves up to 20% damage reduction.
+Arrangement: Moving support; Locked impact. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. One boss and two finite guards, no reinforcements or resurrection.</description>
+    <family>thunder</family>
+    <mechanism>escort</mechanism>
+    <chargedBarrage>false</chargedBarrage>
+    <arena>ring-v1</arena>
+    <targetTrack>RHA_STAR_Path_Thunder</targetTrack>
+    <targetNode>net_bridge_c</targetNode>
+    <targetStage>5</targetStage>
+    <seconds>420</seconds>
+    <tactic>RHA_Tactics_ThunderTrial030_net_bridge_c</tactic>
+    <encounter>RHA_Encounter03510_RHA_ThunderTrial030_net_bridge_c</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_ThunderTrial030_focus_echo</defName>
+    <label>Delayed crossfire</label>
+    <description>Threat: A feeder protects linked enemies. Answer: Kill or control the feeder, or interrupt power with actual damage. Reward: Linked enemies lose defense and take 25% more damage for 8 seconds. Cost: Ignoring power leaves up to 20% damage reduction.
+Arrangement: Ordered strikes; Crossing lanes. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. Existing finite roster retained.</description>
+    <family>thunder</family>
+    <mechanism>cadence</mechanism>
+    <chargedBarrage>false</chargedBarrage>
+    <arena>longHall-v1</arena>
+    <targetTrack>RHA_STAR_Path_Thunder</targetTrack>
+    <targetNode>focus_echo</targetNode>
+    <targetStage>4</targetStage>
+    <seconds>300</seconds>
+    <tactic>RHA_Tactics_ThunderTrial030_focus_echo</tactic>
+    <encounter>RHA_Encounter03510_RHA_ThunderTrial030_focus_echo</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_ThunderTrial030_focus_echo_c</defName>
+    <label>Second thunder</label>
+    <description>Threat: A feeder protects linked enemies. Answer: Kill or control the feeder, or interrupt power with actual damage. Reward: Linked enemies lose defense and take 25% more damage for 8 seconds. Cost: Ignoring power leaves up to 20% damage reduction.
+Arrangement: Ordered strikes; Locked impact. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. One boss and two finite guards, no reinforcements or resurrection.</description>
+    <family>thunder</family>
+    <mechanism>cadence</mechanism>
+    <chargedBarrage>false</chargedBarrage>
+    <arena>bastion-v1</arena>
+    <targetTrack>RHA_STAR_Path_Thunder</targetTrack>
+    <targetNode>focus_echo_c</targetNode>
+    <targetStage>5</targetStage>
+    <seconds>420</seconds>
+    <tactic>RHA_Tactics_ThunderTrial030_focus_echo_c</tactic>
+    <encounter>RHA_Encounter03510_RHA_ThunderTrial030_focus_echo_c</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_ThunderTrial030_stride_still</defName>
+    <label>Move, then strike</label>
+    <description>Threat: A feeder protects linked enemies. Answer: Kill or control the feeder, or interrupt power with actual damage. Reward: Linked enemies lose defense and take 25% more damage for 8 seconds. Cost: Ignoring power leaves up to 20% damage reduction.
+Arrangement: Ordered strikes; Near then far impacts. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. Existing finite roster retained.</description>
+    <family>thunder</family>
+    <mechanism>cadence</mechanism>
+    <chargedBarrage>false</chargedBarrage>
+    <arena>ring-v1</arena>
+    <targetTrack>RHA_STAR_Path_Thunder</targetTrack>
+    <targetNode>stride_still</targetNode>
+    <targetStage>4</targetStage>
+    <seconds>300</seconds>
+    <tactic>RHA_Tactics_ThunderTrial030_stride_still</tactic>
+    <encounter>RHA_Encounter03510_RHA_ThunderTrial030_stride_still</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_ThunderTrial030_stride_still_c</defName>
+    <label>Storm at rest</label>
+    <description>Threat: A feeder protects linked enemies. Answer: Kill or control the feeder, or interrupt power with actual damage. Reward: Linked enemies lose defense and take 25% more damage for 8 seconds. Cost: Ignoring power leaves up to 20% damage reduction.
+Arrangement: Ordered strikes; Locked impact. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. One boss and two finite guards, no reinforcements or resurrection.</description>
+    <family>thunder</family>
+    <mechanism>cadence</mechanism>
+    <chargedBarrage>false</chargedBarrage>
+    <arena>switchbacks-v1</arena>
+    <targetTrack>RHA_STAR_Path_Thunder</targetTrack>
+    <targetNode>stride_still_c</targetNode>
+    <targetStage>5</targetStage>
+    <seconds>420</seconds>
+    <tactic>RHA_Tactics_ThunderTrial030_stride_still_c</tactic>
+    <encounter>RHA_Encounter03510_RHA_ThunderTrial030_stride_still_c</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_ThunderTrial030_root</defName>
+    <label>Broken circuit</label>
+    <description>Threat: A feeder protects linked enemies. Answer: Kill or control the feeder, or interrupt power with actual damage. Reward: Linked enemies lose defense and take 25% more damage for 8 seconds. Cost: Ignoring power leaves up to 20% damage reduction.
+Arrangement: Anchor break; Locked impact. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. Existing finite roster retained.</description>
+    <family>thunder</family>
+    <mechanism>guardBreak</mechanism>
+    <chargedBarrage>false</chargedBarrage>
+    <arena>crossroads-v1</arena>
+    <targetTrack>RHA_STAR_Path_Thunder</targetTrack>
+    <targetNode>root</targetNode>
+    <targetStage>1</targetStage>
+    <seconds>120</seconds>
+    <tactic>RHA_Tactics_ThunderTrial030_root</tactic>
+    <encounter>RHA_Encounter03510_RHA_ThunderTrial030_root</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_ThunderTrial030_net</defName>
+    <label>Crossed currents</label>
+    <description>Threat: A feeder protects linked enemies. Answer: Kill or control the feeder, or interrupt power with actual damage. Reward: Linked enemies lose defense and take 25% more damage for 8 seconds. Cost: Ignoring power leaves up to 20% damage reduction.
+Arrangement: Linked peers; Fixed lane. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. Existing finite roster retained.</description>
+    <family>thunder</family>
+    <mechanism>twinLink</mechanism>
+    <chargedBarrage>false</chargedBarrage>
+    <arena>splitCourt-v1</arena>
+    <targetTrack>RHA_STAR_Path_Thunder</targetTrack>
+    <targetNode>net</targetNode>
+    <targetStage>2</targetStage>
+    <seconds>300</seconds>
+    <tactic>RHA_Tactics_ThunderTrial030_net</tactic>
+    <encounter>RHA_Encounter03510_RHA_ThunderTrial030_net</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_ThunderTrial030_focus</defName>
+    <label>Firing line</label>
+    <description>Threat: A feeder protects linked enemies. Answer: Kill or control the feeder, or interrupt power with actual damage. Reward: Linked enemies lose defense and take 25% more damage for 8 seconds. Cost: Ignoring power leaves up to 20% damage reduction.
+Arrangement: Anchor break; Left then right impacts. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. Existing finite roster retained.</description>
+    <family>thunder</family>
+    <mechanism>guardBreak</mechanism>
+    <chargedBarrage>true</chargedBarrage>
+    <arena>longHall-v1</arena>
+    <targetTrack>RHA_STAR_Path_Thunder</targetTrack>
+    <targetNode>focus</targetNode>
+    <targetStage>2</targetStage>
+    <seconds>300</seconds>
+    <tactic>RHA_Tactics_ThunderTrial030_focus</tactic>
+    <encounter>RHA_Encounter03510_RHA_ThunderTrial030_focus</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_ThunderTrial030_stride</defName>
+    <label>Broken pursuit</label>
+    <description>Threat: A feeder protects linked enemies. Answer: Kill or control the feeder, or interrupt power with actual damage. Reward: Linked enemies lose defense and take 25% more damage for 8 seconds. Cost: Ignoring power leaves up to 20% damage reduction.
+Arrangement: Baited pursuit; Crossing lanes. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. Existing finite roster retained.</description>
+    <family>thunder</family>
+    <mechanism>pursuit</mechanism>
+    <chargedBarrage>false</chargedBarrage>
+    <arena>switchbacks-v1</arena>
+    <targetTrack>RHA_STAR_Path_Thunder</targetTrack>
+    <targetNode>stride</targetNode>
+    <targetStage>2</targetStage>
+    <seconds>300</seconds>
+    <tactic>RHA_Tactics_ThunderTrial030_stride</tactic>
+    <encounter>RHA_Encounter03510_RHA_ThunderTrial030_stride</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_ThunderTrial030_ward</defName>
+    <label>Unstable reservoir</label>
+    <description>Threat: A feeder protects linked enemies. Answer: Kill or control the feeder, or interrupt power with actual damage. Reward: Linked enemies lose defense and take 25% more damage for 8 seconds. Cost: Ignoring power leaves up to 20% damage reduction.
+Arrangement: Interrupted charge; Near then far impacts. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. Existing finite roster retained.</description>
+    <family>thunder</family>
+    <mechanism>overload</mechanism>
+    <chargedBarrage>false</chargedBarrage>
+    <arena>ring-v1</arena>
+    <targetTrack>RHA_STAR_Path_Thunder</targetTrack>
+    <targetNode>ward</targetNode>
+    <targetStage>2</targetStage>
+    <seconds>300</seconds>
+    <tactic>RHA_Tactics_ThunderTrial030_ward</tactic>
+    <encounter>RHA_Encounter03510_RHA_ThunderTrial030_ward</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_ThunderTrial030_net_d</defName>
+    <label>Broken link</label>
+    <description>Threat: A feeder protects linked enemies. Answer: Kill or control the feeder, or interrupt power with actual damage. Reward: Linked enemies lose defense and take 25% more damage for 8 seconds. Cost: Ignoring power leaves up to 20% damage reduction.
+Arrangement: Linked peers; Locked impact. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. Existing finite roster retained.</description>
+    <family>thunder</family>
+    <mechanism>twinLink</mechanism>
+    <chargedBarrage>false</chargedBarrage>
+    <arena>crossroads-v1</arena>
+    <targetTrack>RHA_STAR_Path_Thunder</targetTrack>
+    <targetNode>net_d</targetNode>
+    <targetStage>3</targetStage>
+    <seconds>120</seconds>
+    <tactic>RHA_Tactics_ThunderTrial030_net_d</tactic>
+    <encounter>RHA_Encounter03510_RHA_ThunderTrial030_net_d</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_ThunderTrial030_focus_d</defName>
+    <label>Open battery</label>
+    <description>Threat: A feeder protects linked enemies. Answer: Kill or control the feeder, or interrupt power with actual damage. Reward: Linked enemies lose defense and take 25% more damage for 8 seconds. Cost: Ignoring power leaves up to 20% damage reduction.
+Arrangement: Anchor break; Locked impact. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. Existing finite roster retained.</description>
+    <family>thunder</family>
+    <mechanism>guardBreak</mechanism>
+    <chargedBarrage>true</chargedBarrage>
+    <arena>bastion-v1</arena>
+    <targetTrack>RHA_STAR_Path_Thunder</targetTrack>
+    <targetNode>focus_d</targetNode>
+    <targetStage>3</targetStage>
+    <seconds>120</seconds>
+    <tactic>RHA_Tactics_ThunderTrial030_focus_d</tactic>
+    <encounter>RHA_Encounter03510_RHA_ThunderTrial030_focus_d</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_ThunderTrial030_stride_d</defName>
+    <label>Turning storm</label>
+    <description>Threat: A feeder protects linked enemies. Answer: Kill or control the feeder, or interrupt power with actual damage. Reward: Linked enemies lose defense and take 25% more damage for 8 seconds. Cost: Ignoring power leaves up to 20% damage reduction.
+Arrangement: Baited pursuit; Locked impact. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. Existing finite roster retained.</description>
+    <family>thunder</family>
+    <mechanism>pursuit</mechanism>
+    <chargedBarrage>false</chargedBarrage>
+    <arena>ring-v1</arena>
+    <targetTrack>RHA_STAR_Path_Thunder</targetTrack>
+    <targetNode>stride_d</targetNode>
+    <targetStage>3</targetStage>
+    <seconds>120</seconds>
+    <tactic>RHA_Tactics_ThunderTrial030_stride_d</tactic>
+    <encounter>RHA_Encounter03510_RHA_ThunderTrial030_stride_d</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_ThunderTrial030_ward_d</defName>
+    <label>Pressure release</label>
+    <description>Threat: A feeder protects linked enemies. Answer: Kill or control the feeder, or interrupt power with actual damage. Reward: Linked enemies lose defense and take 25% more damage for 8 seconds. Cost: Ignoring power leaves up to 20% damage reduction.
+Arrangement: Interrupted charge; Locked impact. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. Existing finite roster retained.</description>
+    <family>thunder</family>
+    <mechanism>overload</mechanism>
+    <chargedBarrage>false</chargedBarrage>
+    <arena>longHall-v1</arena>
+    <targetTrack>RHA_STAR_Path_Thunder</targetTrack>
+    <targetNode>ward_d</targetNode>
+    <targetStage>3</targetStage>
+    <seconds>120</seconds>
+    <tactic>RHA_Tactics_ThunderTrial030_ward_d</tactic>
+    <encounter>RHA_Encounter03510_RHA_ThunderTrial030_ward_d</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_ThunderTrial030_net_fork</defName>
+    <label>Split feed</label>
+    <description>Threat: A feeder protects linked enemies. Answer: Kill or control the feeder, or interrupt power with actual damage. Reward: Linked enemies lose defense and take 25% more damage for 8 seconds. Cost: Ignoring power leaves up to 20% damage reduction.
+Arrangement: Linked peers; Fixed lane. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. Existing finite roster retained.</description>
+    <family>thunder</family>
+    <mechanism>twinLink</mechanism>
+    <chargedBarrage>false</chargedBarrage>
+    <arena>splitCourt-v1</arena>
+    <targetTrack>RHA_STAR_Path_Thunder</targetTrack>
+    <targetNode>net_fork</targetNode>
+    <targetStage>4</targetStage>
+    <seconds>300</seconds>
+    <tactic>RHA_Tactics_ThunderTrial030_net_fork</tactic>
+    <encounter>RHA_Encounter03510_RHA_ThunderTrial030_net_fork</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_ThunderTrial030_net_fork_c</defName>
+    <label>Four-way storm</label>
+    <description>Threat: A feeder protects linked enemies. Answer: Kill or control the feeder, or interrupt power with actual damage. Reward: Linked enemies lose defense and take 25% more damage for 8 seconds. Cost: Ignoring power leaves up to 20% damage reduction.
+Arrangement: Linked peers; Locked impact. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. One boss and two finite guards, no reinforcements or resurrection.</description>
+    <family>thunder</family>
+    <mechanism>twinLink</mechanism>
+    <chargedBarrage>false</chargedBarrage>
+    <arena>crossroads-v1</arena>
+    <targetTrack>RHA_STAR_Path_Thunder</targetTrack>
+    <targetNode>net_fork_c</targetNode>
+    <targetStage>5</targetStage>
+    <seconds>420</seconds>
+    <tactic>RHA_Tactics_ThunderTrial030_net_fork_c</tactic>
+    <encounter>RHA_Encounter03510_RHA_ThunderTrial030_net_fork_c</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_ThunderTrial030_focus_trade</defName>
+    <label>Live voltage</label>
+    <description>Threat: A feeder protects linked enemies. Answer: Kill or control the feeder, or interrupt power with actual damage. Reward: Linked enemies lose defense and take 25% more damage for 8 seconds. Cost: Ignoring power leaves up to 20% damage reduction.
+Arrangement: Interrupted charge; Near then far impacts. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. Existing finite roster retained.</description>
+    <family>thunder</family>
+    <mechanism>overload</mechanism>
+    <chargedBarrage>false</chargedBarrage>
+    <arena>bastion-v1</arena>
+    <targetTrack>RHA_STAR_Path_Thunder</targetTrack>
+    <targetNode>focus_trade</targetNode>
+    <targetStage>4</targetStage>
+    <seconds>300</seconds>
+    <tactic>RHA_Tactics_ThunderTrial030_focus_trade</tactic>
+    <encounter>RHA_Encounter03510_RHA_ThunderTrial030_focus_trade</encounter>
+  </RimHex.HexStarChallengeDef030>
+  <RimHex.HexStarChallengeDef030>
+    <defName>RHA_ThunderTrial030_focus_trade_c</defName>
+    <label>Critical discharge</label>
+    <description>Threat: A feeder protects linked enemies. Answer: Kill or control the feeder, or interrupt power with actual damage. Reward: Linked enemies lose defense and take 25% more damage for 8 seconds. Cost: Ignoring power leaves up to 20% damage reduction.
+Arrangement: Interrupted charge; Locked impact. New first clears teach counters; refinements deepen coordination. Roles change no faster than every 30 seconds. Locked attacks never track; ordinary attacks and early kills work. One boss and two finite guards, no reinforcements or resurrection.</description>
+    <family>thunder</family>
+    <mechanism>overload</mechanism>
+    <chargedBarrage>false</chargedBarrage>
+    <arena>ring-v1</arena>
+    <targetTrack>RHA_STAR_Path_Thunder</targetTrack>
+    <targetNode>focus_trade_c</targetNode>
+    <targetStage>5</targetStage>
+    <seconds>420</seconds>
+    <tactic>RHA_Tactics_ThunderTrial030_focus_trade_c</tactic>
+    <encounter>RHA_Encounter03510_RHA_ThunderTrial030_focus_trade_c</encounter>
+  </RimHex.HexStarChallengeDef030>
+</Defs>

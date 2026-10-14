@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RHA_Encounter_Active>战术编排：{0}</RHA_Encounter_Active>
+  <RHA_Encounter_Boss>主题首领：{0}</RHA_Encounter_Boss>
+  <RHA_Encounter_Sequence>锁定攻击：第{0}/{1}段</RHA_Encounter_Sequence>
+  <RHA_Encounter_Counter>成功反制：{0}次</RHA_Encounter_Counter>
+  <RHA_Encounter_Budget>躯干生命预算{0}；标称普通输出预算{1}</RHA_Encounter_Budget>
+  <RHA_Encounter_Branch_guardBreak>支点破防</RHA_Encounter_Branch_guardBreak>
+  <RHA_Encounter_Branch_pursuit>追击诱导</RHA_Encounter_Branch_pursuit>
+  <RHA_Encounter_Branch_twinLink>双体联动</RHA_Encounter_Branch_twinLink>
+  <RHA_Encounter_Branch_overload>蓄能打断</RHA_Encounter_Branch_overload>
+  <RHA_Encounter_Branch_cadence>连续攻击</RHA_Encounter_Branch_cadence>
+  <RHA_Encounter_Branch_escort>移动支援</RHA_Encounter_Branch_escort>
+  <RHA_Encounter_Branch_bodyguard>目标保护</RHA_Encounter_Branch_bodyguard>
+  <RHA_Encounter_Family_thunder>雷霆</RHA_Encounter_Family_thunder>
+  <RHA_Encounter_Family_flame>烈焰</RHA_Encounter_Family_flame>
+  <RHA_Encounter_Family_blood>鲜血</RHA_Encounter_Family_blood>
+  <RHA_Encounter_Family_titan>巨人</RHA_Encounter_Family_titan>
+  <RHA_Encounter_Family_frost>冰霜</RHA_Encounter_Family_frost>
+  <RHA_Encounter_Family_blade>刀锋</RHA_Encounter_Family_blade>
+  <RHA_Encounter_Family_marksman>神射</RHA_Encounter_Family_marksman>
+  <RHA_Encounter_Family_spirit>灵魂</RHA_Encounter_Family_spirit>
+  <RHA_Encounter_Family_guardian>守护</RHA_Encounter_Family_guardian>
+</LanguageData>

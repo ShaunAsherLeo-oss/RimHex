@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_SummonSwarm.label>晶蜂</RHA_SummonSwarm.label>
+  <RHA_SummonSwarm.labelPlural>晶蜂</RHA_SummonSwarm.labelPlural>
+  <RHA_SummonSwarm.description>由殖民者召唤的临时战斗单位。</RHA_SummonSwarm.description>
+  <RHA_SummonEcho.label>镜像投影</RHA_SummonEcho.label>
+  <RHA_SummonEcho.labelPlural>镜像投影</RHA_SummonEcho.labelPlural>
+  <RHA_SummonEcho.description>由殖民者召唤的临时战斗单位。</RHA_SummonEcho.description>
+  <RHA_SummonBear.label>晶甲熊</RHA_SummonBear.label>
+  <RHA_SummonBear.labelPlural>晶甲熊</RHA_SummonBear.labelPlural>
+  <RHA_SummonBear.description>由殖民者召唤的临时战斗单位。</RHA_SummonBear.description>
+</LanguageData>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RHA_StarCadence030_Ready>交火核心：常规交战。</RHA_StarCadence030_Ready>
+  <RHA_StarCadence030_Warning>第{0}/2拍已锁定 · {1}秒\n打断所需伤害：{2}/{3}</RHA_StarCadence030_Warning>
+  <RHA_StarCadence030_Exposed>核心失衡：所受伤害+25% · {0}秒</RHA_StarCadence030_Exposed>
+  <RHA_StarCadence030_Brief>先离开第一道火线，再避开横穿原位置的扫击。两拍各自预警，锁定后不追踪。集火造成足够伤害或使用已有控制可打断整段连招。打断、完全躲开或全额护盾吸收可获得4秒反击窗口，伤害增加25%；若攻击造成伤势，窗口缩短为1.5秒。整个过程均可继续攻击。本人通过实际伤害、护盾吸收或治疗本场伤势取得贡献后击败核心。</RHA_StarCadence030_Brief>
+</LanguageData>

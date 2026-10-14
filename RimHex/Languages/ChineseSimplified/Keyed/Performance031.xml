@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RHA_Perf031_RecordCost>详细记录会增加计算与内存开销，复杂战斗可能影响流畅度。</RHA_Perf031_RecordCost>
+  <RHA_Perf031_Recording>正在记录</RHA_Perf031_Recording>
+  <RHA_Perf031_NotRecording>记录已关闭，本次会话已有记录仍可查看。</RHA_Perf031_NotRecording>
+  <RHA_Perf031_HistoryLanguage>历史保留采集时的文本；读取存档会开始新的会话。</RHA_Perf031_HistoryLanguage>
+</LanguageData>

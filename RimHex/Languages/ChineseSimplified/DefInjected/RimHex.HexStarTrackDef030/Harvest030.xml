@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_STAR_Path_Harvest.nodes.0.label>开垦</RHA_STAR_Path_Harvest.nodes.0.label>
+  <RHA_STAR_Path_Harvest.nodes.0.description>沿用已选丰收觉醒。精进：作物产量或每日物资；不足整件的收益留待下次结算。 精进初始 ×1，终值：经营收益 ×10。</RHA_STAR_Path_Harvest.nodes.0.description>
+  <RHA_STAR_Path_Harvest.nodes.1.label>轮作</RHA_STAR_Path_Harvest.nodes.1.label>
+  <RHA_STAR_Path_Harvest.nodes.1.description>一天内由同一人成功收获两种食用作物，保留一份种子记录；下次完成播种时消耗记录，增加15%生长进度。记录归工人所有，一天后过期。精进提高生长量，首次解锁就有完整机制。 精进初始 ×1，终值：经营收益 ×10。</RHA_STAR_Path_Harvest.nodes.1.description>
+  <RHA_STAR_Path_Harvest.nodes.2.label>入仓</RHA_STAR_Path_Harvest.nodes.2.label>
+  <RHA_STAR_Path_Harvest.nodes.2.description>每位工人按实际食用作物收获量积存15%的余粮。每完成三次成功收获，结算账户中的整份产物；零头和未能落地的产物继续保留。每次贡献按当时比例固定，额外产物不会再次积存余粮。 精进初始 ×1，终值：经营收益 ×10。</RHA_STAR_Path_Harvest.nodes.2.description>
+  <RHA_STAR_Path_Harvest.nodes.3.label>留种</RHA_STAR_Path_Harvest.nodes.3.label>
+  <RHA_STAR_Path_Harvest.nodes.3.description>轮作记录用于播种后，记住该作物一天。同一工人在同一地图再次完成轮作，末次作物与记录不同，则按该次真实收获的15%增加产物。小数按工人和产物分别保留，额外产物不触发收获计数。 精进初始 ×1，终值：经营收益 ×10。</RHA_STAR_Path_Harvest.nodes.3.description>
+  <RHA_STAR_Path_Harvest.nodes.4.label>接茬</RHA_STAR_Path_Harvest.nodes.4.label>
+  <RHA_STAR_Path_Harvest.nodes.4.description>由另一名殖民者成功收获你播种的食用作物后，对方下次完成食用作物播种时额外获得10%生长。每人只保留一次收益，后续收获不能叠加或覆盖。比例在原作物播种时固定；重修此分支会清除待用收益，并使旧播种记录失效。精进提高之后播种记录的比例。 精进初始 ×1，终值：经营收益 ×10。</RHA_STAR_Path_Harvest.nodes.4.description>
+  <RHA_STAR_Path_Harvest.nodes.5.label>田间食材</RHA_STAR_Path_Harvest.nodes.5.label>
+  <RHA_STAR_Path_Harvest.nodes.5.description>记录真实播种作物收获的食材，保留60天。用这些食材烹饪餐食时，按其占实际消耗食材件数的比例，最多积累25%的额外餐食。仅计入实际用料且已放置或由厨师携带的餐食。零头和未能放置的奖励按厨师、餐食种类保留。精进提高之后做饭的收益，已有余量不涨价。 精进初始 ×1，终值：经营收益 ×10。</RHA_STAR_Path_Harvest.nodes.5.description>
+  <RHA_STAR_Path_Harvest.nodes.6.label>分仓</RHA_STAR_Path_Harvest.nodes.6.label>
+  <RHA_STAR_Path_Harvest.nodes.6.description>入仓实际发放的余粮，额外按125%存为对应工人、对应产物的储备。之后收获同类作物时领取整份，每次最多为本次原生产量的10%，不足一份时按一份算。当次新入账不能当次领取；零头和未能放置的产物保留。精进只提高之后的入账比例。 精进初始 ×1，终值：经营收益 ×10。</RHA_STAR_Path_Harvest.nodes.6.description>
+  <RHA_STAR_Path_Harvest.nodes.7.label>选育</RHA_STAR_Path_Harvest.nodes.7.label>
+  <RHA_STAR_Path_Harvest.nodes.7.description>同一工人实际收到同种作物的三次留种增产后，获得一份选育记录。每份实际增产积存3%生长进度，合计最多3%；之后完成同种作物播种时消耗记录，获得已积存的进度。每人每种作物最多保留一份就绪记录，未使用前不继续积累。精进只提高未来贡献，不放大旧记录。 精进初始 ×1，终值：经营收益 ×10。</RHA_STAR_Path_Harvest.nodes.7.description>
+  <RHA_STAR_Path_Harvest.nodes.8.label>接力耕作</RHA_STAR_Path_Harvest.nodes.8.label>
+  <RHA_STAR_Path_Harvest.nodes.8.description>工人用接茬收益完成食用作物播种后，由另一名殖民者收获同一株作物，额外获得原生产量的15%。只有播种、普通作物或自己收获自己的播种均不增加这项收益。比例在播种时固定；零头和未能放置的产物归收获者保留，在之后收获同类产物时结算。精进提高之后协作播种的比例。 精进初始 ×1，终值：经营收益 ×10。</RHA_STAR_Path_Harvest.nodes.8.description>
+  <RHA_STAR_Path_Harvest.nodes.9.label>炊事轮班</RHA_STAR_Path_Harvest.nodes.9.label>
+  <RHA_STAR_Path_Harvest.nodes.9.description>使用自产食材完成做饭后，在当前地图开启一轮交班。三天内由另一名殖民者完成同样符合条件的烹饪，才结束本轮。两次工作按各自产用料占比积累15%的额外餐食，归接班厨师保留。原厨师重复做饭不增加本轮收益，也不延长期限。已完成轮次的零头和未交付餐食保留；精进只影响之后的工作，重修清除未完成交班。 精进初始 ×1，终值：经营收益 ×10。</RHA_STAR_Path_Harvest.nodes.9.description>
+  <RHA_STAR_Path_Harvest.nodes.10.label>粮储周转</RHA_STAR_Path_Harvest.nodes.10.label>
+  <RHA_STAR_Path_Harvest.nodes.10.description>实际消耗食材并交付餐食后，用厨师本人分仓中同类原料的余额兑换餐食。兑换额度占本次食物用量的比例乘以500%，折算为额外餐食；已兑换额度从分仓扣除。搬运、拆堆不会新增收益。餐食零头和未交付奖励保留，精进只改变以后的兑换比例，不放大已获得餐食。 精进初始 ×1，终值：经营收益 ×10。</RHA_STAR_Path_Harvest.nodes.10.description>
+  <RHA_STAR_Path_Harvest.nodes.11.label>稳定品种</RHA_STAR_Path_Harvest.nodes.11.label>
+  <RHA_STAR_Path_Harvest.nodes.11.description>使用选育种子后，为该工人开启一轮定向种植。连续三次成功收获所播作物，额外获得合计原生产量的10%；中途收获其他作物会清空这轮尚未完成的次数和积累。收益比例在开始时固定，重复使用选育种子不会排队或覆盖当前轮次。已完成收益的零头和未能放置的产物保留。精进只提高之后开启的轮次。 精进初始 ×1，终值：经营收益 ×10。</RHA_STAR_Path_Harvest.nodes.11.description>
+  <RHA_STAR_Path_Harvest.nodes.12.label>混合育种</RHA_STAR_Path_Harvest.nodes.12.label>
+  <RHA_STAR_Path_Harvest.nodes.12.description>由同一工人完成三种不同作物的选育播种，使其之后九次成功的食用作物收获额外增产25%。重复作物不增加品类进度。每轮在凑齐品类时固定收益比例，生效期间不能叠层或储备下一轮。零头和未能放置的产物保留。精进只提高之后开启的轮次。 精进初始 ×1，终值：经营收益 ×10。</RHA_STAR_Path_Harvest.nodes.12.description>
+  <RHA_STAR_Path_Harvest.nodes.13.label>互换田垄</RHA_STAR_Path_Harvest.nodes.13.label>
+  <RHA_STAR_Path_Harvest.nodes.13.description>完成反向协作循环：甲播种，乙收获并用接茬收益播种，再由甲收获。甲之后两次食用作物播种各额外生长5%。未用完时不能叠加、刷新或储备下一轮。比例在获得时固定，精进提高未来收益；重修清除待用次数。 精进初始 ×1，终值：经营收益 ×10。</RHA_STAR_Path_Harvest.nodes.13.description>
+  <RHA_STAR_Path_Harvest.nodes.14.label>三班农务</RHA_STAR_Path_Harvest.nodes.14.label>
+  <RHA_STAR_Path_Harvest.nodes.14.description>由三名不同殖民者完成协作循环：甲播种，乙收获并用接茬收益播种，再由丙收获。三人各自下次食用作物播种额外生长7.5%。收益分别归本人，待用次数不能叠加或刷新。比例在获得时固定；精进提高未来收益，重修清除待用次数。 精进初始 ×1，终值：经营收益 ×10。</RHA_STAR_Path_Harvest.nodes.14.description>
+  <RHA_STAR_Path_Harvest.nodes.15.label>连灶</RHA_STAR_Path_Harvest.nodes.15.label>
+  <RHA_STAR_Path_Harvest.nodes.15.description>两名厨师以同一配方完成炊事交班后，接班者获得一轮连灶。之后用自产食材完成三次该配方，按自产用料占比积累25%的额外餐食，满三次结算。改做其他餐食配方会清除未完成进度；重复交班不会叠加或刷新本轮。收益比例在本轮开始时固定，已结算零头和未交付餐食保留；重修清除未完成连灶。 精进初始 ×1，终值：经营收益 ×10。</RHA_STAR_Path_Harvest.nodes.15.description>
+  <RHA_STAR_Path_Harvest.nodes.16.label>一桌百味</RHA_STAR_Path_Harvest.nodes.16.label>
+  <RHA_STAR_Path_Harvest.nodes.16.description>完成炊事交班后，接班厨师获得一轮备餐。之后用自产食材做出三种不同餐食，按每种首次完成时的自产用料占比积累30%的额外餐食，集齐后结算。重复餐食不推进，也不追加收益；单份与批量制作同一种餐食只算一种。重复交班不覆盖或排队保存已有备餐，比例在本轮开始时固定。已结算零头保留，重修清除未完成备餐。 精进初始 ×1，终值：经营收益 ×10。</RHA_STAR_Path_Harvest.nodes.16.description>
+  <RHA_STAR_Path_Harvest.nodes.17.label>以粮养种</RHA_STAR_Path_Harvest.nodes.17.label>
+  <RHA_STAR_Path_Harvest.nodes.17.description>完成食用作物播种时，从播种者本人的同类分仓余额中消耗最多1份额度，每份增加20%的初始生长进度。不足1份按比例生效，只扣除实际产生生长收益的额度。与粮储周转共用同一份余额，已经用于养种的额度不能再兑换餐食。精进只提高之后的播种收益。 精进初始 ×1，终值：经营收益 ×10。</RHA_STAR_Path_Harvest.nodes.17.description>
+  <RHA_STAR_Path_Harvest.nodes.18.label>分粮入灶</RHA_STAR_Path_Harvest.nodes.18.label>
+  <RHA_STAR_Path_Harvest.nodes.18.description>一次粮储周转兑换会在当前地图开启三天的分粮轮次。另一名厨师用本人余额兑换，并包含前一人未使用的作物储备，才完成本轮。两人各自获得本人该次新兑换餐食的125%作为追加收益，比例在各自贡献时固定。原厨师重复兑换、只使用相同作物都不追加收益或延长期限。已完成奖励由各自在之后做饭时领取，零头保留；重修清除未完成轮次。 精进初始 ×1，终值：经营收益 ×10。</RHA_STAR_Path_Harvest.nodes.18.description>
+</LanguageData>

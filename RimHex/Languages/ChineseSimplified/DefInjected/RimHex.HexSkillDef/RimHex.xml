@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_S10_Thunder.label>万霆天引</RHA_S10_Thunder.label>
+  <RHA_S10_Thunder.description>指定 24 格内可见位置，立即落雷并每隔 0.5 秒追加一轮，共 3 轮。每轮对半径 6 格内最多 16 名敌人造成 225＋25×连锁层数伤害。</RHA_S10_Thunder.description>
+  <RHA_S10_Flame.label>焚天领域</RHA_S10_Flame.label>
+  <RHA_S10_Flame.description>指定 20 格内可见位置，立即灼烧并每隔 1 秒追加一轮，共 6 轮。每轮对半径 6 格内最多 16 名敌人造成 160＋30×灼烧层数伤害。</RHA_S10_Flame.description>
+  <RHA_S10_Blood.label>血皇降临</RHA_S10_Blood.label>
+  <RHA_S10_Blood.description>对自身 10 格内最多 16 名敌人造成 250＋35×体质倍率伤害，治疗自身 200 点，并获得持续 12 秒的 400 点护盾。</RHA_S10_Blood.description>
+  <RHA_S10_Titan.label>山河崩裂</RHA_S10_Titan.label>
+  <RHA_S10_Titan.description>践踏自身 8 格内最多 16 名敌人，造成 300＋80×体质倍率伤害，并眩晕 2 秒。</RHA_S10_Titan.description>
+  <RHA_S10_Frost.label>绝对零域</RHA_S10_Frost.label>
+  <RHA_S10_Frost.description>指定 22 格内可见位置，对半径 7 格内最多 16 名敌人造成 240＋40×寒霜层数伤害，眩晕 3 秒并减速 8 秒。</RHA_S10_Frost.description>
+  <RHA_S10_Blade.label>千刃风暴</RHA_S10_Blade.label>
+  <RHA_S10_Blade.description>锁定 24 格内可见敌人，立即斩击并每隔 0.2 秒追加一次，共 6 次，每次造成 125＋40×伤害加成倍数伤害。目标死亡或离开初始位置 4 格后，追击该区域内最近的敌人。</RHA_S10_Blade.description>
+  <RHA_S10_Marksman.label>贯星天矢</RHA_S10_Marksman.label>
+  <RHA_S10_Marksman.description>朝指定方向射出长 36 格、宽 3 格的贯穿星矢，对路径上最多 16 名可见敌人各造成 600＋300×远射加成倍数伤害。</RHA_S10_Marksman.description>
+  <RHA_S10_Spirit.label>百鬼夜行</RHA_S10_Spirit.label>
+  <RHA_S10_Spirit.description>指定 24 格内可见位置，立即释放魂群并每隔 1 秒追加一轮，共 3 轮。每轮攻击半径 8 格内最近的 6 名敌人，各造成 160＋4×有效魂印伤害，不消耗魂印。 魂印前 100 点全额计入，之后收益递减；已有计数保留。</RHA_S10_Spirit.description>
+  <RHA_S10_Guardian.label>棱光圣域</RHA_S10_Guardian.label>
+  <RHA_S10_Guardian.description>为自身 12 格内所有自由殖民者提供 500＋40×施放者体质倍率护盾，持续 12 秒，并各治疗 80 点。可以保护倒地伤员；同类护盾刷新取较高值。</RHA_S10_Guardian.description>
+  <RHA_S10_Wealth.label>黄金敕令</RHA_S10_Wealth.label>
+  <RHA_S10_Wealth.description>在施放者附近交付 1200 白银与 40 黄金，只能在玩家基地使用。全殖民地共享一天冷却；自动施放由一名可行动的殖民者代为执行。</RHA_S10_Wealth.description>
+  <RHA_S10_Industry.label>天工超载</RHA_S10_Industry.label>
+  <RHA_S10_Industry.description>让施放时本地图上的所有自由殖民者进入超载：全局工作速度乘 4；研究、采矿和植物工作速度在此基础上再乘 4（最终乘 16），持续 1 游戏小时。只能在基地使用，全殖民地共享 6 游戏小时冷却。</RHA_S10_Industry.description>
+  <RHA_S10_Harvest.label>生命礼赞</RHA_S10_Harvest.label>
+  <RHA_S10_Harvest.description>治疗施放者所在地图上所有自由殖民者各 300 点，可治疗倒地伤员。全殖民地共享 120 秒冷却；实际治疗只恢复可治疗伤势，不复活或再生缺失部位。</RHA_S10_Harvest.description>
+</LanguageData>

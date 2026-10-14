@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RHA_Readability032_AffiliationHelp>关联标签说明适配流派；是否计入成长来源取决于当前角色的实际状态。</RHA_Readability032_AffiliationHelp>
+  <RHA_Readability032_ColonyPath>{0}（殖民地）</RHA_Readability032_ColonyPath>
+  <RHA_Readability032_RoleUnclassified>未标注归属</RHA_Readability032_RoleUnclassified>
+  <RHA_Readability032_RolePath>流派</RHA_Readability032_RolePath>
+  <RHA_Readability032_RoleSkill>战技</RHA_Readability032_RoleSkill>
+  <RHA_Readability032_RoleEquipment>独立装备</RHA_Readability032_RoleEquipment>
+  <RHA_Readability032_RoleCore>核心组件</RHA_Readability032_RoleCore>
+  <RHA_Readability032_RoleMastery>精通强化</RHA_Readability032_RoleMastery>
+  <RHA_Readability032_RoleEvolution>进阶分支</RHA_Readability032_RoleEvolution>
+  <RHA_Readability032_RoleSource>成长来源</RHA_Readability032_RoleSource>
+  <RHA_Readability032_RoleGeneric>通用强化</RHA_Readability032_RoleGeneric>
+  <RHA_Readability032_RoleIndependent>独立强化</RHA_Readability032_RoleIndependent>
+  <RHA_Readability032_NotCounted>当前未计入成长来源</RHA_Readability032_NotCounted>
+  <RHA_Readability032_CountedIn>已计入来源：{0}</RHA_Readability032_CountedIn>
+  <RHA_Readability032_BuildActive>已生效的构筑</RHA_Readability032_BuildActive>
+  <RHA_Readability032_BuildDeveloping>培养中</RHA_Readability032_BuildDeveloping>
+  <RHA_Readability032_BuildDormant>暂时失效</RHA_Readability032_BuildDormant>
+  <RHA_Readability032_Shared>通用与独立组件</RHA_Readability032_Shared>
+  <RHA_Readability032_Components>组件清单</RHA_Readability032_Components>
+  <RHA_Readability032_NoComponents>暂无关联组件。</RHA_Readability032_NoComponents>
+  <RHA_Readability032_SelectedBranch>分支：{0}</RHA_Readability032_SelectedBranch>
+  <RHA_Readability032_NoBranch>尚未选择分支</RHA_Readability032_NoBranch>
+  <RHA_Readability032_ShowGroup>{0} · 展开</RHA_Readability032_ShowGroup>
+  <RHA_Readability032_HideGroup>{0} · 收起</RHA_Readability032_HideGroup>
+  <RHA_Readability032_ReturnTo>返回{0}</RHA_Readability032_ReturnTo>
+  <RHA_Readability032_SourceCounts>来源进度</RHA_Readability032_SourceCounts>
+  <RHA_Readability032_KeyEffects>关键效果</RHA_Readability032_KeyEffects>
+  <RHA_Readability032_ViewComponent>查看详情</RHA_Readability032_ViewComponent>
+  <RHA_Readability032_KnownEquipment>已穿戴装备</RHA_Readability032_KnownEquipment>
+  <RHA_Readability032_KnownCards>已拥有卡牌</RHA_Readability032_KnownCards>
+  <RHA_Readability032_KnownSkills>已获得战技</RHA_Readability032_KnownSkills>
+  <RHA_Readability032_AffiliationTitle>关联流派</RHA_Readability032_AffiliationTitle>
+  <RHA_Readability032_NoActivePath>当前没有已生效的流派。已有组件与正在成长的路线可在下方查看。</RHA_Readability032_NoActivePath>
+  <RHA_Readability032_RuneTitle>符文</RHA_Readability032_RuneTitle>
+  <RHA_Readability032_CountedSourceTitle>实际成长来源</RHA_Readability032_CountedSourceTitle>
+  <RHA_Readability032_FutureUnknown>未来阶段费用将在可推进时确定。</RHA_Readability032_FutureUnknown>
+</LanguageData>

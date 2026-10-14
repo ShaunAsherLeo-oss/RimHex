@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_A25_parry.label>瞬时招架</RHA_A25_parry.label>
+  <RHA_A25_parry.description>获得架势与借势反击。架势持续 2 秒，最多抵挡一次敌方直接攻击的 12 点伤害；现有海克斯护盾先消耗，剩余伤害再经过招架和护甲。成功抵挡后，4 秒内可对 2 格内一名敌人释放 10 点基础战技伤害的反击。架势每 12 秒最多开启一次，不受急速或冷却返还影响。持续伤害、自伤、友伤、爆炸及本模组追加伤害不触发。仅手动操作。 以上为基础形态；已选分支的变化可在构筑面板和健康状态中查看。</RHA_A25_parry.description>
+  <RHA_A25_parry.theme>反击与机关</RHA_A25_parry.theme>
+  <RHA_A25_mine.label>棱晶布雷</RHA_A25_mine.label>
+  <RHA_A25_mine.description>获得部署、引爆与回收机关。可在 12 格内空地布设临时机关，1 秒后就绪，存在 30 秒；每人最多 3 枚，每地图最多 12 枚，每 6 秒最多部署一次。敌人进入 1.5 格且视线畅通时启动半秒预警，随后对 2 格内最多 4 名敌人造成各 10 点基础追加伤害，墙壁阻挡。可手动引爆已就绪的机关，或回收尚未触发的机关；回收不返还物资、不刷新冷却。主人死亡或离图后清除。 以上为基础形态；已选分支的变化可在构筑面板和健康状态中查看。</RHA_A25_mine.description>
+  <RHA_A25_mine.theme>反击与机关</RHA_A25_mine.theme>
+</LanguageData>

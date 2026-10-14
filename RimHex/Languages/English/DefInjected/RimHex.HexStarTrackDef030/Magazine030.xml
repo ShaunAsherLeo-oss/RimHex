@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_STAR_Core_magazine.nodes.0.label>Prismatic Magazine</RHA_STAR_Core_magazine.nodes.0.label>
+  <RHA_STAR_Core_magazine.nodes.0.description>Requires Prismatic Magazine. Retains its rounds, paid ordinary ranged-hit damage, walking reload and Empty the Magazine ability. Advancement grants no rounds, resets no cooldown and teaches no duplicate skill.</RHA_STAR_Core_magazine.nodes.0.description>
+  <RHA_STAR_Core_magazine.nodes.1.label>Quickdraw Magazine</RHA_STAR_Core_magazine.nodes.1.label>
+  <RHA_STAR_Core_magazine.nodes.1.description>Capacity falls from five to three rounds. Regular bonus hits deal 4 instead of 6; the last round still deals 10. Walking 3 cells reloads one round, at most once per second. Passive reload becomes one round per 3 seconds, with the same initial 3-second delay. Movement abilities do not count. Choosing this branch trims excess rounds and clears walk progress while keeping reload deadlines. No extra branch card required.</RHA_STAR_Core_magazine.nodes.1.description>
+  <RHA_STAR_Core_magazine.nodes.2.label>Piercing Chamber</RHA_STAR_Core_magazine.nodes.2.label>
+  <RHA_STAR_Core_magazine.nodes.2.description>Empty the Magazine fires along a 28-cell line, 1.2 cells to either side, hitting up to six enemies; walls stop it. Each round deals 5 rather than 7 base damage per target. Ordinary paid shots are unchanged. Choosing the branch grants no rounds and keeps reload deadlines. No extra branch card required.</RHA_STAR_Core_magazine.nodes.2.description>
+  <RHA_STAR_Core_magazine.nodes.3.label>Last-round Cover</RHA_STAR_Core_magazine.nodes.3.label>
+  <RHA_STAR_Core_magazine.nodes.3.description>An ordinary ranged impact that actually spends your final round grants a separate 50-point shield for 3 seconds, once per 6 seconds. Empty-magazine hits, melee, skills, secondary damage and pellets that spend no new round cannot trigger it. Base rewards: shield 50.</RHA_STAR_Core_magazine.nodes.3.description>
+  <RHA_STAR_Core_magazine.nodes.4.label>Tail-round Fuse</RHA_STAR_Core_magazine.nodes.4.label>
+  <RHA_STAR_Core_magazine.nodes.4.description>An ordinary ranged impact that spends the last round marks its surviving victim for 6 seconds. A later damaging Empty the Magazine hit consumes the fuse for 50 bonus damage. One mark at a time, at most once per 6 seconds; normal reload rules still apply. Base rewards: damage 50.</RHA_STAR_Core_magazine.nodes.4.description>
+  <RHA_STAR_Core_magazine.nodes.5.label>Piercing Follow-up</RHA_STAR_Core_magazine.nodes.5.label>
+  <RHA_STAR_Core_magazine.nodes.5.description>The first damaging Empty the Magazine impact marks its victim for 6 seconds. Your later ordinary ranged hit must spend a round against that victim to consume the opening for 50 bonus damage. At most one victim marked per 6 seconds. Empty-magazine hits, melee and skills cannot spend it. Base rewards: damage 50.</RHA_STAR_Core_magazine.nodes.5.description>
+  <RHA_STAR_Core_magazine.nodes.6.label>Suppressing Follow-up</RHA_STAR_Core_magazine.nodes.6.label>
+  <RHA_STAR_Core_magazine.nodes.6.description>The first damaging Empty the Magazine impact marks its victim for 6 seconds. A later ordinary ranged hit that spends a round consumes the mark to delay that victim's current ordinary weapon warmup by 0.3 seconds. At most one victim marked per 6 seconds. With no eligible warmup, the mark remains without extending its expiry.</RHA_STAR_Core_magazine.nodes.6.description>
+</LanguageData>

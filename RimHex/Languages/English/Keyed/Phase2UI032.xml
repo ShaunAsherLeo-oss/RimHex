@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RHA_UI032_EquipmentIdentity>Equipment #{0}</RHA_UI032_EquipmentIdentity>
+  <RHA_UI032_EquipmentRemoved>Equipment salvaged or removed.</RHA_UI032_EquipmentRemoved>
+  <RHA_UI032_EquipmentUnlocked>Unlocked</RHA_UI032_EquipmentUnlocked>
+  <RHA_UI032_EquipmentChangeRecorded>Change recorded</RHA_UI032_EquipmentChangeRecorded>
+  <RHA_UI032_EquipmentBeforeAfter>Before
+{0}
+
+After
+{1}</RHA_UI032_EquipmentBeforeAfter>
+  <RHA_UI032_EquipmentResourceChange>Shards: {0} → {1}
+Cores: {2} → {3}
+Trial essence: {4} → {5}</RHA_UI032_EquipmentResourceChange>
+  <RHA_UI032_ForgeResourceChange>Shards: {0} → {1}
+Cores: {2} → {3}</RHA_UI032_ForgeResourceChange>
+  <RHA_UI032_ForgeCreated>Forging complete</RHA_UI032_ForgeCreated>
+  <RHA_UI032_NoEquipmentBefore>This equipment did not exist yet.</RHA_UI032_NoEquipmentBefore>
+  <RHA_UI032_ChangeDetails>View changes</RHA_UI032_ChangeDetails>
+  <RHA_UI032_TrialRunIdentity>Core trial #{0}</RHA_UI032_TrialRunIdentity>
+  <RHA_UI032_EndlessRunIdentity>Endless trial #{0}</RHA_UI032_EndlessRunIdentity>
+  <RHA_UI032_EndlessChooseNamed>Choose {0}</RHA_UI032_EndlessChooseNamed>
+  <RHA_UI032_StarRunIdentity>Ascension trial #{0}</RHA_UI032_StarRunIdentity>
+  <RHA_UI032_EconomicRunIdentity>Economic trial #{0}</RHA_UI032_EconomicRunIdentity>
+  <RHA_UI032_SiteIdentity>Site #{0}</RHA_UI032_SiteIdentity>
+  <RHA_UI032_RuinSiteIdentity>Ruin expedition · Site #{0}</RHA_UI032_RuinSiteIdentity>
+  <RHA_UI032_SiteUnavailable>Site unavailable</RHA_UI032_SiteUnavailable>
+  <RHA_UI032_AvailableTasks>Available bounties</RHA_UI032_AvailableTasks>
+  <RHA_UI032_BountyTypeIdentity>Bounty type: {0}</RHA_UI032_BountyTypeIdentity>
+  <RHA_UI032_CurrentExpeditions>Current expeditions</RHA_UI032_CurrentExpeditions>
+  <RHA_UI032_SurveyCatalog>Survey new sites</RHA_UI032_SurveyCatalog>
+  <RHA_UI032_LastReturnFailure>Return blocked: {0}</RHA_UI032_LastReturnFailure>
+  <RHA_UI032_SearchEquipment>Search equipment…</RHA_UI032_SearchEquipment>
+  <RHA_UI032_TrialContributionsEmpty>No contributions recorded yet.</RHA_UI032_TrialContributionsEmpty>
+  <RHA_UI032_LastReturnSuccess>Last return complete: {0} people/animals · {1} item stacks
+To {2} · Site retained</RHA_UI032_LastReturnSuccess>
+</LanguageData>

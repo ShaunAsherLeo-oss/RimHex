@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RHA_StarTravel030_Rescue>Send rescuers</RHA_StarTravel030_Rescue>
+  <RHA_StarTravel030_RescueHelp>Send up to four people from the same beacon home to rescue survivors or recover items. Rescue does not restart the challenge or grant progression.</RHA_StarTravel030_RescueHelp>
+  <RHA_StarTravel030_Title>Trial expedition</RHA_StarTravel030_Title>
+  <RHA_StarTravel030_ManageHelp>Manage departure, retreat and recovery from the current ascension trial.</RHA_StarTravel030_ManageHelp>
+  <RHA_StarTravel030_Enroll>Enter the trial</RHA_StarTravel030_Enroll>
+  <RHA_StarTravel030_EnrollHelp>Bring up to three helpers. The candidate must complete personal objectives; returning preserves injuries and deaths.</RHA_StarTravel030_EnrollHelp>
+  <RHA_StarTravel030_Depart>Depart</RHA_StarTravel030_Depart>
+  <RHA_StarTravel030_Cancel>Cancel enrollment</RHA_StarTravel030_Cancel>
+  <RHA_StarTravel030_GatherHelp>A conscious colonist must stand beside the gateway. Bring people, bodies and supplies within 6 cells. Put carried cargo down before departure.</RHA_StarTravel030_GatherHelp>
+  <RHA_StarTravel030_DestinationLabel>Return to</RHA_StarTravel030_DestinationLabel>
+  <RHA_StarTravel030_Caravan>Form a caravan</RHA_StarTravel030_Caravan>
+  <RHA_StarTravel030_Refresh>Refresh list</RHA_StarTravel030_Refresh>
+  <RHA_StarTravel030_Empty>No people or supplies are close enough to the gateway.</RHA_StarTravel030_Empty>
+  <RHA_StarTravel030_Selection>Selected: {0}. Independent map objects: {1} (carried contents excluded). Unselected contents stay here.</RHA_StarTravel030_Selection>
+  <RHA_StarTravel030_Return>Return with selected contents</RHA_StarTravel030_Return>
+  <RHA_StarTravel030_ViewMap>View trial map</RHA_StarTravel030_ViewMap>
+  <RHA_StarTravel030_Retire>Close trial site</RHA_StarTravel030_Retire>
+  <RHA_StarTravel030_RetreatConfirm>Retreat and end this challenge? You will earn no new node; reserved awakening materials are refunded. Unselected people and supplies remain on the trial map.</RHA_StarTravel030_RetreatConfirm>
+  <RHA_StarTravel030_AbandonConfirm>{0} people or objects remain here. Permanently abandoning this site removes its map and everything left behind.\n\nAbandon the site?</RHA_StarTravel030_AbandonConfirm>
+  <RHA_StarTravel030_Preparing>Preparing to depart</RHA_StarTravel030_Preparing>
+  <RHA_StarTravel030_Running>Trial in progress</RHA_StarTravel030_Running>
+  <RHA_StarTravel030_Won>Trial completed</RHA_StarTravel030_Won>
+  <RHA_StarTravel030_Failed>Trial failed — recovery remains available</RHA_StarTravel030_Failed>
+  <RHA_StarTravel030_Cancelled>Attempt cancelled — recovery remains available</RHA_StarTravel030_Cancelled>
+  <RHA_StarTravel030_Changed>The expedition has changed. Check its current state and try again.</RHA_StarTravel030_Changed>
+  <RHA_StarTravel030_Origin>The departure beacon or its colony is no longer available.</RHA_StarTravel030_Origin>
+  <RHA_StarTravel030_Party>The selected party is not ready to depart.</RHA_StarTravel030_Party>
+  <RHA_StarTravel030_Hands>Put carried people and items down first. Worn equipment and inventory travel with their owner.</RHA_StarTravel030_Hands>
+  <RHA_StarTravel030_Reach>Every participant must be able to reach the beacon.</RHA_StarTravel030_Reach>
+  <RHA_StarTravel030_Map>The trial map could not be prepared. The expedition remains available for recovery.</RHA_StarTravel030_Map>
+  <RHA_StarTravel030_Space>There is not enough clear landing space near the destination. Clear the area or choose another destination.</RHA_StarTravel030_Space>
+  <RHA_StarTravel030_Move>The transfer was interrupted. Check the retained trial map before retrying.</RHA_StarTravel030_Move>
+  <RHA_StarTravel030_Destination>This return destination is no longer available. Choose another colony or form a caravan.</RHA_StarTravel030_Destination>
+  <RHA_StarTravel030_World>A caravan cannot form on this world layer. Choose a colony destination.</RHA_StarTravel030_World>
+  <RHA_StarTravel030_Gather>Some selected people or supplies are no longer near the gateway. Refresh the list.</RHA_StarTravel030_Gather>
+  <RHA_StarTravel030_Operator>Select a conscious colonist beside the gateway who can reach everyone and everything you want to take.</RHA_StarTravel030_Operator>
+  <RHA_StarTravel030_EnrollmentChanged>The applicant, source, resources or trial requirements have changed. Check the node before enrolling again.</RHA_StarTravel030_EnrollmentChanged>
+  <RHA_StarTravel030_PostReturnHelp>Recover people, bodies and supplies from anywhere on the finished trial map. Carried contents and inventory travel with their owner; unselected contents stay here.</RHA_StarTravel030_PostReturnHelp>
+  <RHA_StarTravel030_CaravanHelp>A world caravan still needs at least one conscious, able colonist in the selection.</RHA_StarTravel030_CaravanHelp>
+  <RHA_StarTravel030_SelectAll>Select all</RHA_StarTravel030_SelectAll>
+  <RHA_StarTravel030_SelectPeople>People only</RHA_StarTravel030_SelectPeople>
+  <RHA_StarTravel030_SelectNone>Clear</RHA_StarTravel030_SelectNone>
+  <RHA_StarTravel030_EmptyAll>No friendly people, bodies or supplies on this map can be returned.</RHA_StarTravel030_EmptyAll>
+  <RHA_StarTravel030_SelectionEmpty>Select at least one person, body or item to return.</RHA_StarTravel030_SelectionEmpty>
+  <RHA_StarTravel030_SelectionChanged>Selected contents no longer belong to this trial or cannot be returned. Refresh the list and select again.</RHA_StarTravel030_SelectionChanged>
+  <RHA_StarTravel030_CaravanLeader>A world caravan needs a conscious, able colonist. Select one or return to a colony instead.</RHA_StarTravel030_CaravanLeader>
+  <RHA_StarTravel030_CarriedOther>A selected person is carrying a non-player pawn or an unsupported object. Put it down before returning.</RHA_StarTravel030_CarriedOther>
+  <RHA_StarTravel030_RewardFirst>Reward: unlock node “{0}”; first-certification marks +{1}.</RHA_StarTravel030_RewardFirst>
+  <RHA_StarTravel030_RewardRefinement>Reward: +{3} refinements for “{0}” ({1} → {2}).</RHA_StarTravel030_RewardRefinement>
+  <RHA_StarTravel030_RewardScale>Applicable effect values: {0}% → {1}%.</RHA_StarTravel030_RewardScale>
+  <RHA_StarTravel030_RewardTierRule>Current T{0}. First victory unlocks the node; later T1–T6 victories grant +1–+6 refinement levels.</RHA_StarTravel030_RewardTierRule>
+  <RHA_StarTravel030_RewardLimit>This node has reached the refinement-count limit.</RHA_StarTravel030_RewardLimit>
+</LanguageData>

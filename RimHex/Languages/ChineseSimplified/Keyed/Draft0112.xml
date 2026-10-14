@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RHA_Draft_ChooseRecipient>选择领取者</RHA_Draft_ChooseRecipient>
+  <RHA_Draft_PreviewObject>效果预览 · {0}</RHA_Draft_PreviewObject>
+  <RHA_Draft_Ready>选择上方券种，抽取一组候选。</RHA_Draft_Ready>
+  <RHA_Draft_ChooseCard>选择强化</RHA_Draft_ChooseCard>
+  <RHA_Draft_ClaimRelic>领取装备</RHA_Draft_ClaimRelic>
+  <RHA_Draft_Assign>给予强化</RHA_Draft_Assign>
+  <RHA_Draft_ChangePreview>更换预览对象</RHA_Draft_ChangePreview>
+  <RHA_Draft_Search>搜索</RHA_Draft_Search>
+  <RHA_Draft_Expired>这轮选卡已结束或候选已更换。请返回查看。</RHA_Draft_Expired>
+  <RHA_Draft_NoRecipients>没有符合条件的殖民者。</RHA_Draft_NoRecipients>
+  <RHA_Draft_CurrentPreview>当前预览对象</RHA_Draft_CurrentPreview>
+  <RHA_Draft_PreviewAvailable>查看该殖民者的强化效果</RHA_Draft_PreviewAvailable>
+  <RHA_Draft_AtLimit>已达上限：{0} 层</RHA_Draft_AtLimit>
+  <RHA_Draft_Unavailable>目前无法领取这张卡</RHA_Draft_Unavailable>
+  <RHA_Draft_Stacks>持有层数：{0} → {1}</RHA_Draft_Stacks>
+  <RHA_Draft_Preview>预览</RHA_Draft_Preview>
+  <RHA_Draft_Compare>查看效果</RHA_Draft_Compare>
+</LanguageData>

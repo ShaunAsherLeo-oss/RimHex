@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Defs>
+  <RimHex.HexRelicModelDef>
+    <defName>RHA_Model_FurnaceGrip</defName>
+    <texturePath>RimHex/Relics/FurnaceGrip</texturePath>
+    <emissionPath>RimHex/RelicGlow/FurnaceGrip</emissionPath>
+    <drawScale>1</drawScale>
+  </RimHex.HexRelicModelDef>
+  <RimHex.HexRelicModelDef>
+    <defName>RHA_Model_HeatReservoir</defName>
+    <texturePath>RimHex/Relics/HeatReservoir</texturePath>
+    <emissionPath>RimHex/RelicGlow/HeatReservoir</emissionPath>
+    <drawScale>1</drawScale>
+  </RimHex.HexRelicModelDef>
+  <RimHex.HexRelicModelDef>
+    <defName>RHA_Model_RefractionLens</defName>
+    <texturePath>RimHex/Relics/RefractionLens</texturePath>
+    <emissionPath>RimHex/RelicGlow/RefractionLens</emissionPath>
+    <drawScale>1</drawScale>
+  </RimHex.HexRelicModelDef>
+  <RimHex.HexRelicModelDef>
+    <defName>RHA_Model_FieldInjector</defName>
+    <texturePath>RimHex/Relics/FieldInjector</texturePath>
+    <emissionPath>RimHex/RelicGlow/FieldInjector</emissionPath>
+    <drawScale>1</drawScale>
+  </RimHex.HexRelicModelDef>
+  <RimHex.HexRelicModelDef>
+    <defName>RHA_Model_BreachBow</defName>
+    <texturePath>RimHex/Relics/BreachBow</texturePath>
+    <emissionPath>RimHex/RelicGlow/BreachBow</emissionPath>
+    <drawScale>1</drawScale>
+  </RimHex.HexRelicModelDef>
+  <RimHex.HexRelicModelDef>
+    <defName>RHA_Model_EscortSeal</defName>
+    <texturePath>RimHex/Relics/EscortSeal</texturePath>
+    <emissionPath>RimHex/RelicGlow/EscortSeal</emissionPath>
+    <drawScale>1</drawScale>
+  </RimHex.HexRelicModelDef>
+</Defs>

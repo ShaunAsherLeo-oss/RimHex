@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_STAR_Skill_Swarm016.nodes.0.label>Drone Call</RHA_STAR_Skill_Swarm016.nodes.0.label>
+  <RHA_STAR_Skill_Swarm016.nodes.0.description>Requires Drone Call learned from an augment card. Retains the original summon skill, count and duration; advancement spawns nothing for free. Later nodes accept actual primary attacks by your active drones, echoes and bears, excluding relay projections, secondary damage, friendly fire and downed targets. All summons share the node cooldowns of their owner.</RHA_STAR_Skill_Swarm016.nodes.0.description>
+  <RHA_STAR_Skill_Swarm016.nodes.1.label>Pack Opening</RHA_STAR_Skill_Swarm016.nodes.1.label>
+  <RHA_STAR_Skill_Swarm016.nodes.1.description>Three consecutive damaging summon attacks on the same enemy, with no more than 3 seconds between hits, mark it for 6 seconds. Your later ordinary hit consumes the opening for 50 damage. One mark at a time, on a 6-second creation cooldown. Changing targets resets the count; your summons can build it together. Base rewards: damage 50.</RHA_STAR_Skill_Swarm016.nodes.1.description>
+  <RHA_STAR_Skill_Swarm016.nodes.2.label>Guarding Instinct</RHA_STAR_Skill_Swarm016.nodes.2.label>
+  <RHA_STAR_Skill_Swarm016.nodes.2.description>A damaging attack by your summon grants you a separate 25-point shield for 3 seconds, once per 6 seconds across all summons. Spawning or dismissing a summon grants nothing. Base rewards: shield 25.</RHA_STAR_Skill_Swarm016.nodes.2.description>
+  <RHA_STAR_Skill_Swarm016.nodes.3.label>Pack Follow-through</RHA_STAR_Skill_Swarm016.nodes.3.label>
+  <RHA_STAR_Skill_Swarm016.nodes.3.description>After your Pack Opening bonus deals damage, strike one other enemy within 3 cells of that impact and clear sight for 25 damage, once per 6 seconds. It never hits the original target again and requires the opening to deal actual damage first. Base rewards: damage 25.</RHA_STAR_Skill_Swarm016.nodes.3.description>
+  <RHA_STAR_Skill_Swarm016.nodes.4.label>Hunting Recovery</RHA_STAR_Skill_Swarm016.nodes.4.label>
+  <RHA_STAR_Skill_Swarm016.nodes.4.description>After your Pack Opening bonus deals damage, heal 20 points of your own recoverable injuries, once per 6 seconds. Prevented bonus damage grants no healing. It cannot restore missing parts or permanent scars. Base rewards: healing 20.</RHA_STAR_Skill_Swarm016.nodes.4.description>
+  <RHA_STAR_Skill_Swarm016.nodes.5.label>Guarding Reprisal</RHA_STAR_Skill_Swarm016.nodes.5.label>
+  <RHA_STAR_Skill_Swarm016.nodes.5.description>When your shield actually absorbs an enemy hit, mark that attacker for 6 seconds. A later damaging attack by your summon consumes the mark for 50 bonus damage. One mark at a time, on a 6-second creation cooldown. Summon damage cannot create another mark. Base rewards: damage 50.</RHA_STAR_Skill_Swarm016.nodes.5.description>
+  <RHA_STAR_Skill_Swarm016.nodes.6.label>Pack Cover</RHA_STAR_Skill_Swarm016.nodes.6.label>
+  <RHA_STAR_Skill_Swarm016.nodes.6.description>A damaging summon attack grants the nearest other eligible colonist within 4 cells of you and clear sight a separate 50-point shield for 3 seconds, once per 6 seconds. With no eligible ally it does not shield you instead. Guarding Instinct resolves separately. Base rewards: shield 50.</RHA_STAR_Skill_Swarm016.nodes.6.description>
+</LanguageData>

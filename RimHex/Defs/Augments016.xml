@@ -1,0 +1,225 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Defs>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_A16_HiveMind</defName>
+    <label>Hive Mind</label>
+    <description>Every 200 actual direct damage summons a crystal drone, at most once per 5 seconds. Each stack adds 9.75% summon damage. Teaches Drone Call. Draft limit: 4 stacks.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Summons and survival</theme>
+    <weight>100</weight>
+    <maxStacks>4</maxStacks>
+    <iconPath>RimHex/Cards/RHA_A16_HiveMind</iconPath>
+    <mechanics>
+      <li>
+        <key>hive016</key>
+        <amount>0.65</amount>
+      </li>
+    </mechanics>
+    <grantsSkills>
+      <li>Swarm016</li>
+    </grantsSkills>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_A16_Minionmancer</defName>
+    <label>Minionmancer</label>
+    <description>Each stack adds 32.5% to summon health and damage inheritance multipliers. Teaches Drone Call. Draft limit: 4 stacks.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Summons and survival</theme>
+    <weight>100</weight>
+    <maxStacks>4</maxStacks>
+    <iconPath>RimHex/Cards/RHA_A16_Minionmancer</iconPath>
+    <mechanics>
+      <li>
+        <key>minion016</key>
+        <amount>0.65</amount>
+      </li>
+    </mechanics>
+    <grantsSkills>
+      <li>Swarm016</li>
+    </grantsSkills>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_A16_HandOfBaron</defName>
+    <label>Hand of Baron</label>
+    <description>Each stack grants 13% personal damage and adds 19.5% to the summon damage inheritance multiplier. Teaches Drone Call. Draft limit: 4 stacks.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Summons and survival</theme>
+    <weight>100</weight>
+    <maxStacks>4</maxStacks>
+    <iconPath>RimHex/Cards/RHA_A16_HandOfBaron</iconPath>
+    <mechanics>
+      <li>
+        <key>baron016</key>
+        <amount>0.65</amount>
+      </li>
+    </mechanics>
+    <grantsSkills>
+      <li>Swarm016</li>
+    </grantsSkills>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_A16_MirrorImage</defName>
+    <label>Mirror Image</label>
+    <description>Taking hostile direct damage at or below 35% health summons two combat echoes, once per 30 seconds. Each stack adds 16.25% to echo damage inheritance. Echoes grant no invisibility and copy no equipment or work skills. Teaches Echo Projection. Draft limit: 4 stacks.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Summons and survival</theme>
+    <weight>100</weight>
+    <maxStacks>4</maxStacks>
+    <iconPath>RimHex/Cards/RHA_A16_MirrorImage</iconPath>
+    <mechanics>
+      <li>
+        <key>mirror016</key>
+        <amount>0.65</amount>
+      </li>
+    </mechanics>
+    <grantsSkills>
+      <li>Mirror016</li>
+    </grantsSkills>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_A16_TricksterDemon</defName>
+    <label>Trickster Demon</label>
+    <description>A destroyed echo strikes up to eight enemies within 4 cells for 22.75 base secondary damage per stack. Natural expiry causes no blast. Teaches Echo Projection. Draft limit: 4 stacks.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Summons and survival</theme>
+    <weight>100</weight>
+    <maxStacks>4</maxStacks>
+    <iconPath>RimHex/Cards/RHA_A16_TricksterDemon</iconPath>
+    <mechanics>
+      <li>
+        <key>trickster016</key>
+        <amount>0.65</amount>
+      </li>
+    </mechanics>
+    <grantsSkills>
+      <li>Mirror016</li>
+    </grantsSkills>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_A16_DropBear</defName>
+    <label>DropBear</label>
+    <description>Death leaves a crystal bear for 20 seconds. Each stack adds 32.5% to its damage inheritance multiplier. Once per colonist per day. Draft limit: 4 stacks.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Summons and survival</theme>
+    <weight>100</weight>
+    <maxStacks>4</maxStacks>
+    <iconPath>RimHex/Cards/RHA_A16_DropBear</iconPath>
+    <mechanics>
+      <li>
+        <key>bear016</key>
+        <amount>0.65</amount>
+      </li>
+    </mechanics>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_A16_Hellbent</defName>
+    <label>Hellbent</label>
+    <description>Forty eligible direct hits charge one rescue, counting at most once per 0.5 seconds. A lethal injury spends the charge to heal recoverable injuries; a successful rescue protects from direct damage for 1.3 seconds. 150-second cooldown. Missing organs, disease and execution are not prevented.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Summons and survival</theme>
+    <weight>100</weight>
+    <maxStacks>1</maxStacks>
+    <iconPath>RimHex/Cards/RHA_A16_Hellbent</iconPath>
+    <mechanics>
+      <li>
+        <key>hell016</key>
+        <amount>1</amount>
+      </li>
+    </mechanics>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_A16_ServeBeyondDeath</defName>
+    <label>Serve Beyond Death</label>
+    <description>Taking hostile direct damage at or below 35% health grants 8 seconds of borrowed life: 32.5% damage and 26 base healing per stack, plus 2 seconds of direct-damage protection. Personally killing an eligible enemy settles the debt; otherwise suffer a 10-second stun. 60-second cooldown. Does not resurrect the dead. Draft limit: 4 stacks.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Summons and survival</theme>
+    <weight>100</weight>
+    <maxStacks>4</maxStacks>
+    <iconPath>RimHex/Cards/RHA_A16_ServeBeyondDeath</iconPath>
+    <mechanics>
+      <li>
+        <key>serve016</key>
+        <amount>0.65</amount>
+      </li>
+    </mechanics>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_A16_DawnbringersResolve</defName>
+    <label>Dawnbringer's Resolve</label>
+    <description>Taking hostile direct damage at or below 35% health grants five once-per-second heals, each restoring 6.5 base health per stack. 30-second cooldown. Draft limit: 4 stacks.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Summons and survival</theme>
+    <weight>100</weight>
+    <maxStacks>4</maxStacks>
+    <iconPath>RimHex/Cards/RHA_A16_DawnbringersResolve</iconPath>
+    <mechanics>
+      <li>
+        <key>dawn016</key>
+        <amount>0.65</amount>
+      </li>
+    </mechanics>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_A16_EscapePlan</defName>
+    <label>Escape Plan</label>
+    <description>Taking hostile direct damage at or below 35% health grants 29.25 base shield and 39% movement speed per stack for 5 seconds. 30-second cooldown. Draft limit: 4 stacks.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Summons and survival</theme>
+    <weight>100</weight>
+    <maxStacks>4</maxStacks>
+    <iconPath>RimHex/Cards/RHA_A16_EscapePlan</iconPath>
+    <mechanics>
+      <li>
+        <key>escape016</key>
+        <amount>0.65</amount>
+      </li>
+    </mechanics>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_A16_DivineIntervention</defName>
+    <label>Divine Intervention</label>
+    <description>Teaches Sanctuary Ring: protect yourself and visible colonists within 5 cells from direct damage for 1 second. Base cooldown: 30 seconds. Disease, missing organs and deferred injury debts still apply.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Summons and survival</theme>
+    <weight>100</weight>
+    <maxStacks>1</maxStacks>
+    <iconPath>RimHex/Cards/RHA_A16_DivineIntervention</iconPath>
+    <mechanics>
+      <li>
+        <key>divine016</key>
+        <amount>1</amount>
+      </li>
+    </mechanics>
+    <grantsSkills>
+      <li>Sanctuary016</li>
+    </grantsSkills>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_A16_Vengeance</defName>
+    <label>Vengeance</label>
+    <description>A player humanlike colonist downed or killed within 18 cells grants 39% damage per stack for 10 seconds, at most once per 10 seconds. Summons do not trigger it. Draft limit: 4 stacks.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Summons and survival</theme>
+    <weight>100</weight>
+    <maxStacks>4</maxStacks>
+    <iconPath>RimHex/Cards/RHA_A16_Vengeance</iconPath>
+    <mechanics>
+      <li>
+        <key>vengeance016</key>
+        <amount>0.65</amount>
+      </li>
+    </mechanics>
+  </RimHex.HexAugmentDef>
+</Defs>

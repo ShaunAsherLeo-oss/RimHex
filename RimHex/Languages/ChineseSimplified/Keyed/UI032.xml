@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RHA_UI032_OverviewHeading>{0} · 构筑总览</RHA_UI032_OverviewHeading>
+  <RHA_UI032_NoPawn>尚未选择角色</RHA_UI032_NoPawn>
+  <RHA_UI032_OverviewScope>汇总该角色的殖民地、个人与穿戴装备效果。点击摘要查看对应详情。</RHA_UI032_OverviewScope>
+  <RHA_UI032_OverviewColonyScope>选择角色后可查看个人与穿戴装备效果。当前仍可浏览殖民地共享条目。</RHA_UI032_OverviewColonyScope>
+  <RHA_UI032_ActivePaths>已生效流派</RHA_UI032_ActivePaths>
+  <RHA_UI032_InitialPaths>可首阶进化</RHA_UI032_InitialPaths>
+  <RHA_UI032_DormantCards>休眠强化</RHA_UI032_DormantCards>
+  <RHA_UI032_ReadyRelics>待觉醒装备</RHA_UI032_ReadyRelics>
+  <RHA_UI032_RouteHint>打开进阶星图 →</RHA_UI032_RouteHint>
+  <RHA_UI032_CardHint>查看强化明细 →</RHA_UI032_CardHint>
+  <RHA_UI032_RelicHint>查看穿戴装备 →</RHA_UI032_RelicHint>
+  <RHA_UI032_PrepareChoices>准备下一阶选择</RHA_UI032_PrepareChoices>
+  <RHA_UI032_AtlasCatalog>目录</RHA_UI032_AtlasCatalog>
+  <RHA_UI032_AtlasCanvas>画布</RHA_UI032_AtlasCanvas>
+  <RHA_UI032_AtlasDetails>详情</RHA_UI032_AtlasDetails>
+  <RHA_UI032_SearchRoutes>搜索路线…</RHA_UI032_SearchRoutes>
+  <RHA_UI032_AdvanceConditions>进阶条件</RHA_UI032_AdvanceConditions>
+</LanguageData>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_STAR_Relic_Hydra.nodes.0.label>多首之拥</RHA_STAR_Relic_Hydra.nodes.0.label>
+  <RHA_STAR_Relic_Hydra.nodes.0.description>保留九头蛇之拥原有的多首／猎杀觉醒选择，不重复增加原装备与觉醒收益。进阶随这件遗物保存，只有当前穿戴者能使用。 每3次有效普通攻击命中，对主目标3.5格内最多2名其他敌人各追加2点斩击。冷却4秒，期间不计数；没有副目标时保留满额计数。追加伤害不再计数。 基础收益：伤害 50。</RHA_STAR_Relic_Hydra.nodes.0.description>
+  <RHA_STAR_Relic_Hydra.nodes.1.label>咬痕</RHA_STAR_Relic_Hydra.nodes.1.label>
+  <RHA_STAR_Relic_Hydra.nodes.1.description>多首之拥的横扫确实伤到的副目标留下4秒咬痕，最多2名。本人下一次普通命中咬痕目标消耗标记，追加3点斩击；每个目标冷却1秒。本次新留下的标记不能被同一次命中消费。 基础收益：伤害 75。</RHA_STAR_Relic_Hydra.nodes.1.description>
+  <RHA_STAR_Relic_Hydra.nodes.2.label>回噬</RHA_STAR_Relic_Hydra.nodes.2.label>
+  <RHA_STAR_Relic_Hydra.nodes.2.description>记住最近一轮多首之拥的横扫的主目标与咬痕副目标。本人先普通命中一名咬痕副目标，再于4秒内普通回击原主目标，追加50点伤害。每轮一次；新多首之拥的横扫替换记录，任一选定目标死亡则失效。 基础收益：伤害 50。</RHA_STAR_Relic_Hydra.nodes.2.description>
+  <RHA_STAR_Relic_Hydra.nodes.3.label>追咬</RHA_STAR_Relic_Hydra.nodes.3.label>
+  <RHA_STAR_Relic_Hydra.nodes.3.description>咬痕的追加斩击确实造成伤害后，对被咬目标3格内最近的另一名敌人追加2点斩击。冷却2秒；不再次触发多首之拥的横扫或咬痕。 基础收益：伤害 50。</RHA_STAR_Relic_Hydra.nodes.3.description>
+  <RHA_STAR_Relic_Hydra.nodes.4.label>饱餐</RHA_STAR_Relic_Hydra.nodes.4.label>
+  <RHA_STAR_Relic_Hydra.nodes.4.description>咬痕追加伤害实际伤到的敌人留下4秒食痕，最多2名。本人之后普通命中食痕目标时，若有非永久伤势，消费食痕并修复最多40点；冷却4秒。满血不消费，同次新标记不能立刻消费。 基础收益：治疗 40。</RHA_STAR_Relic_Hydra.nodes.4.description>
+  <RHA_STAR_Relic_Hydra.nodes.5.label>合颚</RHA_STAR_Relic_Hydra.nodes.5.label>
+  <RHA_STAR_Relic_Hydra.nodes.5.description>回噬完成后，原主目标与本轮选定的咬痕副目标形成3秒夹击线。两者仍存活时，本人之后普通命中其中一方，可对距原记录位置不超过3格的另一方追加50点伤害。每条线一次；暂时超距不消费，也不延长有效期。 基础收益：伤害 50。</RHA_STAR_Relic_Hydra.nodes.5.description>
+  <RHA_STAR_Relic_Hydra.nodes.6.label>护颚</RHA_STAR_Relic_Hydra.nodes.6.label>
+  <RHA_STAR_Relic_Hydra.nodes.6.description>回噬的追加伤害确实命中后，为本人提供50点独立护盾，持续3秒，冷却4秒。普通攻击本身、被完全吸收的回噬伤害和其他人的回击不提供护盾。 基础收益：护盾 50。</RHA_STAR_Relic_Hydra.nodes.6.description>
+</LanguageData>

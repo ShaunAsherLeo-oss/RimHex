@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RHA_FA033_Sample>Finite armor sample</RHA_FA033_Sample>
+  <RHA_FA033_Stopped>retired</RHA_FA033_Stopped>
+  <RHA_FA033_Armored>own armor active</RHA_FA033_Armored>
+  <RHA_FA033_Exposed>own armor depleted</RHA_FA033_Exposed>
+  <RHA_FA033_PreparePhase>preparing armor</RHA_FA033_PreparePhase>
+  <RHA_FA033_Preparing>Preparing armor · {0}s · interruptible</RHA_FA033_Preparing>
+  <RHA_FA033_Interrupted>Preparation interrupted</RHA_FA033_Interrupted>
+  <RHA_FA033_Restored>Armor restored: {0}</RHA_FA033_Restored>
+  <RHA_FA033_ArmorStatus>Armor: {0}</RHA_FA033_ArmorStatus>
+  <RHA_FA033_ArmorCapacityStatus>Own armor: {0} / {1}</RHA_FA033_ArmorCapacityStatus>
+  <RHA_FA033_ExposureStatus>Own armor depleted · exposed for at least {0}s</RHA_FA033_ExposureStatus>
+  <RHA_FA033_RecoveryOutcomes>Restored {0} · interrupted {1} · forfeited reserve {2}</RHA_FA033_RecoveryOutcomes>
+  <RHA_FA033_PreparationStatus>Preparing {0}s · injury {1}/{2}</RHA_FA033_PreparationStatus>
+  <RHA_FA033_RecoveryStatus>Attempts left {0} · available {1} · reserved {2}</RHA_FA033_RecoveryStatus>
+  <RHA_FA033_ForfeitStatus>Forfeited recovery: {0}</RHA_FA033_ForfeitStatus>
+  <RHA_FA033_Help>Developer sample only. Its original own-barrier budget is split into 60% starting armor and up to two 20% recoveries. This finite budget covers its own armor; external support shields follow their existing rules. Overflow continues through the normal damage chain. Depleting its own armor does not bypass other defenses. Breaking armor opens a full 4-second exposure window, then a 3-second preparation, both in game time. Stun, stagger, or enough actual injury damage interrupts preparation and burns its reserved recovery. Stagger can break armor early. This independent sample uses the existing execution-pressure rule while armored and permits normal executions while exposed or preparing. No mandatory cycles, extra invulnerability or extra vulnerability. Ordinary shots stop during preparation; airborne projectiles remain. Death, downing, despawn, capture or removing this source stops all recovery.</RHA_FA033_Help>
+  <RHA_FA033_Pool>Own armor: {0} / {1}. Unreserved recovery: {2}; reserved: {3}; attempts left: {4}. Actually restored: {5} / {6}.</RHA_FA033_Pool>
+  <RHA_FA033_Ledger>Armor spent or discarded: {0}; forfeited recovery: {1}.</RHA_FA033_Ledger>
+  <RHA_FA033_External>Active external support shield: {0}. It has a separate budget; defeat or interrupt its support unit.</RHA_FA033_External>
+  <RHA_FA033_PrepareDetails>Recovery in {0}s. Actual injury damage toward interruption: {1} / {2}.</RHA_FA033_PrepareDetails>
+  <RHA_FA033_ExposureDetails>Next preparation can begin in {0}s.</RHA_FA033_ExposureDetails>
+  <RHA_FA033_Permanent>Recovery reserve exhausted; permanently exposed.</RHA_FA033_Permanent>
+  <RHA_FA033_Busy>Finish and close the current trial before creating the independent armor sample.</RHA_FA033_Busy>
+  <RHA_FA033_OneSample>Remove the existing armor sample before creating another on this map.</RHA_FA033_OneSample>
+  <RHA_FA033_Spawned>Optional finite armor sample created. Inspect its Health tab and warning ring. Generation seed: 33001.</RHA_FA033_Spawned>
+  <RHA_FA033_OnlyForge>Available only for a normal tier 1 Forge Trial.</RHA_FA033_OnlyForge>
+  <RHA_FA033_VariantConflict>Finite armor cannot be combined with a combat variant.</RHA_FA033_VariantConflict>
+  <RHA_FA033_RequiresRules>Enable challenge rules to use finite armor.</RHA_FA033_RequiresRules>
+  <RHA_FA033_StaleStart>This trial confirmation is out of date. Open a new confirmation.</RHA_FA033_StaleStart>
+  <RHA_FA033_ContractInvalid>The finite armor encounter is no longer valid. Future recovery has been stopped.</RHA_FA033_ContractInvalid>
+  <RHA_FA033_ModeClassic>Classic</RHA_FA033_ModeClassic>
+  <RHA_FA033_ModeFinite>Finite armor</RHA_FA033_ModeFinite>
+  <RHA_FA033_ModeCaption>Boss armor mode</RHA_FA033_ModeCaption>
+  <RHA_FA033_ModeHint>Only the boss in wave 3 of a normal tier 1 Forge Trial uses finite armor. Outside support shields are separate. Rewards stay the same.</RHA_FA033_ModeHint>
+  <RHA_FA033_ModeConfirm>Starting own armor: {0}; at most two recoveries of {1}. Armor loss gives 4 seconds of exposure, then 3 seconds of preparation. {2} actual injury damage, a stun or stagger interrupts preparation and forfeits its reserve. Outside support can still absorb damage.</RHA_FA033_ModeConfirm>
+  <RHA_FA033_Formal>Own finite armor</RHA_FA033_Formal>
+  <RHA_FA033_FormalHelp>Finite armor replaces this boss's own barrier. Recovery never heals injuries; interrupted reserves are forfeited. Outside support shields are separate from this budget.</RHA_FA033_FormalHelp>
+  <RHA_FA033_IndependentProtection>An independent boss protection still prevents execution.</RHA_FA033_IndependentProtection>
+</LanguageData>

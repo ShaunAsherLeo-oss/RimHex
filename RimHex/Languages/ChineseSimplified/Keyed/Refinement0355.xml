@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RHA_Refine_Active>精进专属反制已启用</RHA_Refine_Active>
+  <RHA_Refine_State>{0} · {1} · {2}</RHA_Refine_State>
+  <RHA_Refine_Progress>后续累计 {0}：{1}/{2}</RHA_Refine_Progress>
+  <RHA_Refine_Result>专属收益：{0}（{1}次）</RHA_Refine_Result>
+  <RHA_Tactic_Result_thaw>凝霜被提前解冻</RHA_Tactic_Result_thaw>
+  <RHA_Refine_State_discharge>断电迟滞</RHA_Refine_State_discharge>
+  <RHA_Refine_State_cleanse>净场机会</RHA_Refine_State_cleanse>
+  <RHA_Refine_State_fatigue>狂攻疲惫</RHA_Refine_State_fatigue>
+  <RHA_Refine_State_regroup>重组受损机会</RHA_Refine_State_regroup>
+  <RHA_Refine_State_regroupActive>受损阵型</RHA_Refine_State_regroupActive>
+  <RHA_Refine_State_thaw>提前解冻</RHA_Refine_State_thaw>
+  <RHA_Refine_State_breach>连破架势</RHA_Refine_State_breach>
+  <RHA_Refine_State_relocate>射手转移／暂停</RHA_Refine_State_relocate>
+  <RHA_Refine_State_exhaust>残契枯竭</RHA_Refine_State_exhaust>
+  <RHA_Refine_State_pactWindow>断契追击窗口</RHA_Refine_State_pactWindow>
+  <RHA_Refine_State_cover>持续掩体累计</RHA_Refine_State_cover>
+  <RHA_Refine_State_relief>保护目标喘息</RHA_Refine_State_relief>
+  <RHA_Refine_Brief_thunder>断电迟滞 供能链维持敌人进攻。 反制供能者，保持原集火或控制解法。 关联活敌普通攻击冷却×1.25，持续8秒。 忽略供能时没有全队迟滞收益。</RHA_Refine_Brief_thunder>
+  <RHA_Refine_Brief_flame>净场 余烬继续限制站位。 诱导锁定落点消耗旧余烬。 清除全部余烬；该施放者下一次合法攻击仍造成伤害，但不生成余烬，机会至阶段结束。 只控制施放者不能获得净场机会。</RHA_Refine_Brief_flame>
+  <RHA_Refine_Brief_blood>疲惫 狂攻期间普通攻击更危险。 在狂攻中有效控制，或在开窗后再造成20%躯干最大生命的实际伤害。 提前结束狂攻并疲惫8秒：移动×0.8、普通攻击冷却×1.25。 自然等过狂攻仍可通关，但没有疲惫收益。</RHA_Refine_Brief_blood>
+  <RHA_Refine_Brief_titan>重组受损 敌人靠拢后形成防御阵型。 移动拆散已形成的阵型；单敌可以拉动其已站定的自持阵位，集火和控制仍保留原收益。 原成员下一次成阵需连续站定4秒，并在该阶段最多减伤10%。机会只保留到下一阶段结束。 单靠伤害或控制破阵没有重组受损收益。</RHA_Refine_Brief_titan>
+  <RHA_Refine_Brief_frost>提前解冻 凝霜阶段减伤并减速。 凝霜中累计造成20%躯干最大生命的实际伤害。 该敌人提前解冻8秒并暴露25%；结束恢复当前阶段冻融，不重开全队节奏。 留存爆发等待自然解冻仍是有效解法。</RHA_Refine_Brief_frost>
+  <RHA_Refine_Brief_blade>连破架势 互补朝向封锁正面输出。 从侧后造成实际命中破势。 互补架势敌人也失衡8秒；单敌时下一阶段前8秒不重新架势。 正面输出或控制仍可推进，但没有连破收益。</RHA_Refine_Brief_blade>
+  <RHA_Refine_Brief_marksman>迫退射手 射手保有安全输出阵位。 保护目标连续使用对射击者有效的掩体3秒。 射击者转移阵位，到达或最多8秒后恢复特殊攻击；无合法转移位置时原地暂停8秒。 离开有效掩体会打断3秒累计；普通攻击仍有威胁。</RHA_Refine_Brief_marksman>
+  <RHA_Refine_Brief_spirit>残契枯竭 存活敌人可在新阶段重建魂契。 断契后的本阶段8秒窗口中，再对原主力造成20%躯干最大生命的实际伤害；阶段转换会关闭未获奖励的追击机会。 该敌人下一阶段前8秒不能重新获得魂契保护；职责仍正常轮换。 窗口内伤害不足时只获得原断契收益；死亡者不复活。</RHA_Refine_Brief_spirit>
+  <RHA_Refine_Brief_guardian>保护目标喘息 保护目标持续承受本场威胁。 用原申请者伤害、有效治疗或护盾吸收达成共享阈值。 保护目标8秒内受到的本场敌人普通攻击伤害降低20%；单人保护自己，不产生额外支援贡献。 专属收益不取消普通攻击；保护对象存活要求仍有效。</RHA_Refine_Brief_guardian>
+</LanguageData>

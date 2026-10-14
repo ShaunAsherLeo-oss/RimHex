@@ -1,0 +1,567 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Defs>
+  <RimHex.HexStarEconomicChallengeDef030>
+    <defName>RHA_IndustryEconomic030_root</defName>
+    <label>Begin Work assessment</label>
+    <description>After enrollment, complete all objectives within 15 days. Only successful manufacturing with actual industrial material consumption counts. One recipe completion is one job regardless of output quantity; the first job establishes recipe and worker history. This node does not need to be unlocked.
+Completed industrial jobs: 4
+Industrial materials consumed: 40</description>
+    <targetTrack>RHA_STAR_Path_Industry</targetTrack>
+    <targetNode>root</targetNode>
+    <targetStage>1</targetStage>
+    <days>15</days>
+    <objectives>
+      <li>
+        <metric>IndustrialJobs</metric>
+        <target>4</target>
+      </li>
+      <li>
+        <metric>IndustrialInput</metric>
+        <target>40</target>
+      </li>
+    </objectives>
+  </RimHex.HexStarEconomicChallengeDef030>
+  <RimHex.HexStarEconomicChallengeDef030>
+    <defName>RHA_IndustryEconomic030_series</defName>
+    <label>Steady Production assessment</label>
+    <description>After enrollment, complete all objectives within 20 days. Only successful manufacturing with actual industrial material consumption counts. One recipe completion is one job regardless of output quantity; the first job establishes recipe and worker history. This node does not need to be unlocked.
+Completed industrial jobs: 12
+Consecutive same-recipe jobs: 8
+Industrial materials consumed: 120</description>
+    <targetTrack>RHA_STAR_Path_Industry</targetTrack>
+    <targetNode>series</targetNode>
+    <targetStage>2</targetStage>
+    <days>20</days>
+    <objectives>
+      <li>
+        <metric>IndustrialJobs</metric>
+        <target>12</target>
+      </li>
+      <li>
+        <metric>SerialJobs</metric>
+        <target>8</target>
+      </li>
+      <li>
+        <metric>IndustrialInput</metric>
+        <target>120</target>
+      </li>
+    </objectives>
+  </RimHex.HexStarEconomicChallengeDef030>
+  <RimHex.HexStarEconomicChallengeDef030>
+    <defName>RHA_IndustryEconomic030_flexible</defName>
+    <label>Flexible Production assessment</label>
+    <description>After enrollment, complete all objectives within 20 days. Only successful manufacturing with actual industrial material consumption counts. One recipe completion is one job regardless of output quantity; the first job establishes recipe and worker history. This node does not need to be unlocked.
+Completed industrial jobs: 12
+Recipe changeovers: 8
+Distinct industrial recipes: 3</description>
+    <targetTrack>RHA_STAR_Path_Industry</targetTrack>
+    <targetNode>flexible</targetNode>
+    <targetStage>2</targetStage>
+    <days>20</days>
+    <objectives>
+      <li>
+        <metric>IndustrialJobs</metric>
+        <target>12</target>
+      </li>
+      <li>
+        <metric>ChangeoverJobs</metric>
+        <target>8</target>
+      </li>
+      <li>
+        <metric>IndustrialRecipes</metric>
+        <target>3</target>
+      </li>
+    </objectives>
+  </RimHex.HexStarEconomicChallengeDef030>
+  <RimHex.HexStarEconomicChallengeDef030>
+    <defName>RHA_IndustryEconomic030_precision</defName>
+    <label>Measured Stock assessment</label>
+    <description>After enrollment, complete all objectives within 25 days. Only successful manufacturing with actual industrial material consumption counts. One recipe completion is one job regardless of output quantity; the first job establishes recipe and worker history. This node does not need to be unlocked.
+Completed industrial jobs: 18
+Consecutive same-recipe jobs: 12
+Industrial materials consumed: 200</description>
+    <targetTrack>RHA_STAR_Path_Industry</targetTrack>
+    <targetNode>precision</targetNode>
+    <targetStage>3</targetStage>
+    <days>25</days>
+    <objectives>
+      <li>
+        <metric>IndustrialJobs</metric>
+        <target>18</target>
+      </li>
+      <li>
+        <metric>SerialJobs</metric>
+        <target>12</target>
+      </li>
+      <li>
+        <metric>IndustrialInput</metric>
+        <target>200</target>
+      </li>
+    </objectives>
+  </RimHex.HexStarEconomicChallengeDef030>
+  <RimHex.HexStarEconomicChallengeDef030>
+    <defName>RHA_IndustryEconomic030_batch</defName>
+    <label>Batch Settlement assessment</label>
+    <description>After enrollment, complete all objectives within 25 days. Only successful manufacturing with actual industrial material consumption counts. One recipe completion is one job regardless of output quantity; the first job establishes recipe and worker history. This node does not need to be unlocked.
+Completed industrial jobs: 24
+Consecutive same-recipe jobs: 16
+Industrial materials consumed: 300</description>
+    <targetTrack>RHA_STAR_Path_Industry</targetTrack>
+    <targetNode>batch</targetNode>
+    <targetStage>3</targetStage>
+    <days>25</days>
+    <objectives>
+      <li>
+        <metric>IndustrialJobs</metric>
+        <target>24</target>
+      </li>
+      <li>
+        <metric>SerialJobs</metric>
+        <target>16</target>
+      </li>
+      <li>
+        <metric>IndustrialInput</metric>
+        <target>300</target>
+      </li>
+    </objectives>
+  </RimHex.HexStarEconomicChallengeDef030>
+  <RimHex.HexStarEconomicChallengeDef030>
+    <defName>RHA_IndustryEconomic030_handoff</defName>
+    <label>Work Handoff assessment</label>
+    <description>After enrollment, complete all objectives within 25 days. Only successful manufacturing with actual industrial material consumption counts. One recipe completion is one job regardless of output quantity; the first job establishes recipe and worker history. This node does not need to be unlocked.
+Completed industrial jobs: 18
+Worker-and-recipe handoffs: 6
+Distinct industrial workers: 2
+Distinct industrial recipes: 2</description>
+    <targetTrack>RHA_STAR_Path_Industry</targetTrack>
+    <targetNode>handoff</targetNode>
+    <targetStage>3</targetStage>
+    <days>25</days>
+    <objectives>
+      <li>
+        <metric>IndustrialJobs</metric>
+        <target>18</target>
+      </li>
+      <li>
+        <metric>CooperativeJobs</metric>
+        <target>6</target>
+      </li>
+      <li>
+        <metric>IndustrialWorkers</metric>
+        <target>2</target>
+      </li>
+      <li>
+        <metric>IndustrialRecipes</metric>
+        <target>2</target>
+      </li>
+    </objectives>
+  </RimHex.HexStarEconomicChallengeDef030>
+  <RimHex.HexStarEconomicChallengeDef030>
+    <defName>RHA_IndustryEconomic030_catalogue</defName>
+    <label>Recipe Records assessment</label>
+    <description>After enrollment, complete all objectives within 25 days. Only successful manufacturing with actual industrial material consumption counts. One recipe completion is one job regardless of output quantity; the first job establishes recipe and worker history. This node does not need to be unlocked.
+Completed industrial jobs: 18
+Distinct industrial recipes: 4
+Distinct industrial materials consumed: 3</description>
+    <targetTrack>RHA_STAR_Path_Industry</targetTrack>
+    <targetNode>catalogue</targetNode>
+    <targetStage>3</targetStage>
+    <days>25</days>
+    <objectives>
+      <li>
+        <metric>IndustrialJobs</metric>
+        <target>18</target>
+      </li>
+      <li>
+        <metric>IndustrialRecipes</metric>
+        <target>4</target>
+      </li>
+      <li>
+        <metric>IndustrialMaterialKinds</metric>
+        <target>3</target>
+      </li>
+    </objectives>
+  </RimHex.HexStarEconomicChallengeDef030>
+  <RimHex.HexStarEconomicChallengeDef030>
+    <defName>RHA_IndustryEconomic030_calibration</defName>
+    <label>Calibrated Work assessment</label>
+    <description>After enrollment, complete all objectives within 30 days. Only successful manufacturing with actual industrial material consumption counts. One recipe completion is one job regardless of output quantity; the first job establishes recipe and worker history. This node does not need to be unlocked.
+Completed industrial jobs: 30
+Consecutive same-recipe jobs: 20
+Distinct industrial materials consumed: 3
+Industrial materials consumed: 450</description>
+    <targetTrack>RHA_STAR_Path_Industry</targetTrack>
+    <targetNode>calibration</targetNode>
+    <targetStage>4</targetStage>
+    <days>30</days>
+    <objectives>
+      <li>
+        <metric>IndustrialJobs</metric>
+        <target>30</target>
+      </li>
+      <li>
+        <metric>SerialJobs</metric>
+        <target>20</target>
+      </li>
+      <li>
+        <metric>IndustrialMaterialKinds</metric>
+        <target>3</target>
+      </li>
+      <li>
+        <metric>IndustrialInput</metric>
+        <target>450</target>
+      </li>
+    </objectives>
+  </RimHex.HexStarEconomicChallengeDef030>
+  <RimHex.HexStarEconomicChallengeDef030>
+    <defName>RHA_IndustryEconomic030_warehouse</defName>
+    <label>Circulating Stock assessment</label>
+    <description>After enrollment, complete all objectives within 30 days. Only successful manufacturing with actual industrial material consumption counts. One recipe completion is one job regardless of output quantity; the first job establishes recipe and worker history. This node does not need to be unlocked.
+Completed industrial jobs: 30
+Consecutive same-recipe jobs: 18
+Industrial materials consumed: 600
+Distinct industrial recipes: 3</description>
+    <targetTrack>RHA_STAR_Path_Industry</targetTrack>
+    <targetNode>warehouse</targetNode>
+    <targetStage>4</targetStage>
+    <days>30</days>
+    <objectives>
+      <li>
+        <metric>IndustrialJobs</metric>
+        <target>30</target>
+      </li>
+      <li>
+        <metric>SerialJobs</metric>
+        <target>18</target>
+      </li>
+      <li>
+        <metric>IndustrialInput</metric>
+        <target>600</target>
+      </li>
+      <li>
+        <metric>IndustrialRecipes</metric>
+        <target>3</target>
+      </li>
+    </objectives>
+  </RimHex.HexStarEconomicChallengeDef030>
+  <RimHex.HexStarEconomicChallengeDef030>
+    <defName>RHA_IndustryEconomic030_team</defName>
+    <label>Cooperative Workshop assessment</label>
+    <description>After enrollment, complete all objectives within 30 days. Only successful manufacturing with actual industrial material consumption counts. One recipe completion is one job regardless of output quantity; the first job establishes recipe and worker history. This node does not need to be unlocked.
+Completed industrial jobs: 24
+Worker-and-recipe handoffs: 10
+Distinct industrial workers: 3
+Distinct industrial recipes: 3</description>
+    <targetTrack>RHA_STAR_Path_Industry</targetTrack>
+    <targetNode>team</targetNode>
+    <targetStage>4</targetStage>
+    <days>30</days>
+    <objectives>
+      <li>
+        <metric>IndustrialJobs</metric>
+        <target>24</target>
+      </li>
+      <li>
+        <metric>CooperativeJobs</metric>
+        <target>10</target>
+      </li>
+      <li>
+        <metric>IndustrialWorkers</metric>
+        <target>3</target>
+      </li>
+      <li>
+        <metric>IndustrialRecipes</metric>
+        <target>3</target>
+      </li>
+    </objectives>
+  </RimHex.HexStarEconomicChallengeDef030>
+  <RimHex.HexStarEconomicChallengeDef030>
+    <defName>RHA_IndustryEconomic030_library</defName>
+    <label>Recipe Reuse assessment</label>
+    <description>After enrollment, complete all objectives within 30 days. Only successful manufacturing with actual industrial material consumption counts. One recipe completion is one job regardless of output quantity; the first job establishes recipe and worker history. This node does not need to be unlocked.
+Completed industrial jobs: 24
+Distinct industrial recipes: 4
+Recipe changeovers: 12
+Distinct industrial materials consumed: 3</description>
+    <targetTrack>RHA_STAR_Path_Industry</targetTrack>
+    <targetNode>library</targetNode>
+    <targetStage>4</targetStage>
+    <days>30</days>
+    <objectives>
+      <li>
+        <metric>IndustrialJobs</metric>
+        <target>24</target>
+      </li>
+      <li>
+        <metric>IndustrialRecipes</metric>
+        <target>4</target>
+      </li>
+      <li>
+        <metric>ChangeoverJobs</metric>
+        <target>12</target>
+      </li>
+      <li>
+        <metric>IndustrialMaterialKinds</metric>
+        <target>3</target>
+      </li>
+    </objectives>
+  </RimHex.HexStarEconomicChallengeDef030>
+  <RimHex.HexStarEconomicChallengeDef030>
+    <defName>RHA_IndustryEconomic030_calibration_raw</defName>
+    <label>Material Recovery assessment</label>
+    <description>After enrollment, complete all objectives within 40 days. Only successful manufacturing with actual industrial material consumption counts. One recipe completion is one job regardless of output quantity; the first job establishes recipe and worker history. This node does not need to be unlocked.
+Completed industrial jobs: 40
+Consecutive same-recipe jobs: 24
+Distinct industrial materials consumed: 4
+Industrial materials consumed: 900</description>
+    <targetTrack>RHA_STAR_Path_Industry</targetTrack>
+    <targetNode>calibration_raw</targetNode>
+    <targetStage>5</targetStage>
+    <days>40</days>
+    <objectives>
+      <li>
+        <metric>IndustrialJobs</metric>
+        <target>40</target>
+      </li>
+      <li>
+        <metric>SerialJobs</metric>
+        <target>24</target>
+      </li>
+      <li>
+        <metric>IndustrialMaterialKinds</metric>
+        <target>4</target>
+      </li>
+      <li>
+        <metric>IndustrialInput</metric>
+        <target>900</target>
+      </li>
+    </objectives>
+  </RimHex.HexStarEconomicChallengeDef030>
+  <RimHex.HexStarEconomicChallengeDef030>
+    <defName>RHA_IndustryEconomic030_calibration_parts</defName>
+    <label>Precision Work assessment</label>
+    <description>After enrollment, complete all objectives within 40 days. Only successful manufacturing with actual industrial material consumption counts. One recipe completion is one job regardless of output quantity; the first job establishes recipe and worker history. This node does not need to be unlocked.
+Completed industrial jobs: 36
+Consecutive same-recipe jobs: 22
+Distinct industrial recipes: 4
+Industrial materials consumed: 700</description>
+    <targetTrack>RHA_STAR_Path_Industry</targetTrack>
+    <targetNode>calibration_parts</targetNode>
+    <targetStage>5</targetStage>
+    <days>40</days>
+    <objectives>
+      <li>
+        <metric>IndustrialJobs</metric>
+        <target>36</target>
+      </li>
+      <li>
+        <metric>SerialJobs</metric>
+        <target>22</target>
+      </li>
+      <li>
+        <metric>IndustrialRecipes</metric>
+        <target>4</target>
+      </li>
+      <li>
+        <metric>IndustrialInput</metric>
+        <target>700</target>
+      </li>
+    </objectives>
+  </RimHex.HexStarEconomicChallengeDef030>
+  <RimHex.HexStarEconomicChallengeDef030>
+    <defName>RHA_IndustryEconomic030_warehouse_buffer</defName>
+    <label>Reserve Buffer assessment</label>
+    <description>After enrollment, complete all objectives within 40 days. Only successful manufacturing with actual industrial material consumption counts. One recipe completion is one job regardless of output quantity; the first job establishes recipe and worker history. This node does not need to be unlocked.
+Completed industrial jobs: 40
+Consecutive same-recipe jobs: 24
+Distinct industrial recipes: 3
+Industrial materials consumed: 1000</description>
+    <targetTrack>RHA_STAR_Path_Industry</targetTrack>
+    <targetNode>warehouse_buffer</targetNode>
+    <targetStage>5</targetStage>
+    <days>40</days>
+    <objectives>
+      <li>
+        <metric>IndustrialJobs</metric>
+        <target>40</target>
+      </li>
+      <li>
+        <metric>SerialJobs</metric>
+        <target>24</target>
+      </li>
+      <li>
+        <metric>IndustrialRecipes</metric>
+        <target>3</target>
+      </li>
+      <li>
+        <metric>IndustrialInput</metric>
+        <target>1000</target>
+      </li>
+    </objectives>
+  </RimHex.HexStarEconomicChallengeDef030>
+  <RimHex.HexStarEconomicChallengeDef030>
+    <defName>RHA_IndustryEconomic030_warehouse_exchange</defName>
+    <label>Stock Exchange assessment</label>
+    <description>After enrollment, complete all objectives within 40 days. Only successful manufacturing with actual industrial material consumption counts. One recipe completion is one job regardless of output quantity; the first job establishes recipe and worker history. This node does not need to be unlocked.
+Completed industrial jobs: 36
+Recipe changeovers: 16
+Distinct industrial materials consumed: 4
+Industrial materials consumed: 800</description>
+    <targetTrack>RHA_STAR_Path_Industry</targetTrack>
+    <targetNode>warehouse_exchange</targetNode>
+    <targetStage>5</targetStage>
+    <days>40</days>
+    <objectives>
+      <li>
+        <metric>IndustrialJobs</metric>
+        <target>36</target>
+      </li>
+      <li>
+        <metric>ChangeoverJobs</metric>
+        <target>16</target>
+      </li>
+      <li>
+        <metric>IndustrialMaterialKinds</metric>
+        <target>4</target>
+      </li>
+      <li>
+        <metric>IndustrialInput</metric>
+        <target>800</target>
+      </li>
+    </objectives>
+  </RimHex.HexStarEconomicChallengeDef030>
+  <RimHex.HexStarEconomicChallengeDef030>
+    <defName>RHA_IndustryEconomic030_team_return</defName>
+    <label>Return Shift assessment</label>
+    <description>After enrollment, complete all objectives within 40 days. Only successful manufacturing with actual industrial material consumption counts. One recipe completion is one job regardless of output quantity; the first job establishes recipe and worker history. This node does not need to be unlocked.
+Completed industrial jobs: 36
+Worker-and-recipe handoffs: 16
+Distinct industrial workers: 3
+Distinct industrial recipes: 3
+Consecutive same-recipe jobs: 6</description>
+    <targetTrack>RHA_STAR_Path_Industry</targetTrack>
+    <targetNode>team_return</targetNode>
+    <targetStage>5</targetStage>
+    <days>40</days>
+    <objectives>
+      <li>
+        <metric>IndustrialJobs</metric>
+        <target>36</target>
+      </li>
+      <li>
+        <metric>CooperativeJobs</metric>
+        <target>16</target>
+      </li>
+      <li>
+        <metric>IndustrialWorkers</metric>
+        <target>3</target>
+      </li>
+      <li>
+        <metric>IndustrialRecipes</metric>
+        <target>3</target>
+      </li>
+      <li>
+        <metric>SerialJobs</metric>
+        <target>6</target>
+      </li>
+    </objectives>
+  </RimHex.HexStarEconomicChallengeDef030>
+  <RimHex.HexStarEconomicChallengeDef030>
+    <defName>RHA_IndustryEconomic030_team_split</defName>
+    <label>Shared Supplies assessment</label>
+    <description>After enrollment, complete all objectives within 40 days. Only successful manufacturing with actual industrial material consumption counts. One recipe completion is one job regardless of output quantity; the first job establishes recipe and worker history. This node does not need to be unlocked.
+Completed industrial jobs: 36
+Worker-and-recipe handoffs: 14
+Distinct industrial workers: 3
+Distinct industrial recipes: 4
+Distinct industrial materials consumed: 3</description>
+    <targetTrack>RHA_STAR_Path_Industry</targetTrack>
+    <targetNode>team_split</targetNode>
+    <targetStage>5</targetStage>
+    <days>40</days>
+    <objectives>
+      <li>
+        <metric>IndustrialJobs</metric>
+        <target>36</target>
+      </li>
+      <li>
+        <metric>CooperativeJobs</metric>
+        <target>14</target>
+      </li>
+      <li>
+        <metric>IndustrialWorkers</metric>
+        <target>3</target>
+      </li>
+      <li>
+        <metric>IndustrialRecipes</metric>
+        <target>4</target>
+      </li>
+      <li>
+        <metric>IndustrialMaterialKinds</metric>
+        <target>3</target>
+      </li>
+    </objectives>
+  </RimHex.HexStarEconomicChallengeDef030>
+  <RimHex.HexStarEconomicChallengeDef030>
+    <defName>RHA_IndustryEconomic030_library_specialist</defName>
+    <label>Specialist Recipes assessment</label>
+    <description>After enrollment, complete all objectives within 40 days. Only successful manufacturing with actual industrial material consumption counts. One recipe completion is one job regardless of output quantity; the first job establishes recipe and worker history. This node does not need to be unlocked.
+Completed industrial jobs: 36
+Distinct industrial recipes: 4
+Consecutive same-recipe jobs: 16
+Industrial materials consumed: 600</description>
+    <targetTrack>RHA_STAR_Path_Industry</targetTrack>
+    <targetNode>library_specialist</targetNode>
+    <targetStage>5</targetStage>
+    <days>40</days>
+    <objectives>
+      <li>
+        <metric>IndustrialJobs</metric>
+        <target>36</target>
+      </li>
+      <li>
+        <metric>IndustrialRecipes</metric>
+        <target>4</target>
+      </li>
+      <li>
+        <metric>SerialJobs</metric>
+        <target>16</target>
+      </li>
+      <li>
+        <metric>IndustrialInput</metric>
+        <target>600</target>
+      </li>
+    </objectives>
+  </RimHex.HexStarEconomicChallengeDef030>
+  <RimHex.HexStarEconomicChallengeDef030>
+    <defName>RHA_IndustryEconomic030_library_diverse</defName>
+    <label>Diverse Work assessment</label>
+    <description>After enrollment, complete all objectives within 40 days. Only successful manufacturing with actual industrial material consumption counts. One recipe completion is one job regardless of output quantity; the first job establishes recipe and worker history. This node does not need to be unlocked.
+Completed industrial jobs: 36
+Distinct industrial recipes: 5
+Recipe changeovers: 20
+Distinct industrial materials consumed: 4</description>
+    <targetTrack>RHA_STAR_Path_Industry</targetTrack>
+    <targetNode>library_diverse</targetNode>
+    <targetStage>5</targetStage>
+    <days>40</days>
+    <objectives>
+      <li>
+        <metric>IndustrialJobs</metric>
+        <target>36</target>
+      </li>
+      <li>
+        <metric>IndustrialRecipes</metric>
+        <target>5</target>
+      </li>
+      <li>
+        <metric>ChangeoverJobs</metric>
+        <target>20</target>
+      </li>
+      <li>
+        <metric>IndustrialMaterialKinds</metric>
+        <target>4</target>
+      </li>
+    </objectives>
+  </RimHex.HexStarEconomicChallengeDef030>
+</Defs>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <RimHex.HexContentClassesDef036>
+    <defName>RHA_ContentQuality037</defName>
+    <economy>
+      <li>RHA_Q_W01</li>
+      <li>RHA_Q_A01</li>
+      <li>RHA_Q_F01</li>
+      <li>RHA_Q_R01</li>
+    </economy>
+    <personalEconomy>
+      <li>RHA_Q_W02</li>
+      <li>RHA_Q_W03</li>
+      <li>RHA_Q_W04</li>
+      <li>RHA_Q_A02</li>
+      <li>RHA_Q_A03</li>
+      <li>RHA_Q_A04</li>
+      <li>RHA_Q_F02</li>
+      <li>RHA_Q_F03</li>
+      <li>RHA_Q_F04</li>
+      <li>RHA_Q_R02</li>
+      <li>RHA_Q_R03</li>
+      <li>RHA_Q_R04</li>
+    </personalEconomy>
+  </RimHex.HexContentClassesDef036>
+</Defs>

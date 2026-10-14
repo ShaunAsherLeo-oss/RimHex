@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_STAR_Relic_Embertide.nodes.0.label>余烬炉心</RHA_STAR_Relic_Embertide.nodes.0.label>
+  <RHA_STAR_Relic_Embertide.nodes.0.description>保留原有燃烧、灼热光环、生命加成和觉醒。新分支只计本人原始燃烧实际伤及站立敌人的脉冲，不计追加伤害或其他来源的灼烧。进阶随遗物保存。</RHA_STAR_Relic_Embertide.nodes.0.description>
+  <RHA_STAR_Relic_Embertide.nodes.1.label>续燃迸火</RHA_STAR_Relic_Embertide.nodes.1.label>
+  <RHA_STAR_Relic_Embertide.nodes.1.description>原始燃烧连续2次实际伤及同一敌人，间隔不超过3秒，向受击点3格内视线畅通的另一名敌人追加50点伤害，冷却8秒。切换目标重新计数；没有第二目标时不回打原目标。 基础收益：伤害 50。</RHA_STAR_Relic_Embertide.nodes.1.description>
+  <RHA_STAR_Relic_Embertide.nodes.2.label>炉火护身</RHA_STAR_Relic_Embertide.nodes.2.label>
+  <RHA_STAR_Relic_Embertide.nodes.2.description>原始燃烧连续2次实际伤及同一敌人，间隔不超过3秒，获得50点基础护盾，持续3秒，冷却8秒。切换目标重新计数；被完全吸收的燃烧不计数。 基础收益：护盾 50。</RHA_STAR_Relic_Embertide.nodes.2.description>
+  <RHA_STAR_Relic_Embertide.nodes.3.label>余温回流</RHA_STAR_Relic_Embertide.nodes.3.label>
+  <RHA_STAR_Relic_Embertide.nodes.3.description>续燃迸火的追加伤害实际命中后，治疗自身20点基础可恢复伤势，冷却8秒。不修复永久伤疤或缺失部位；追加伤害被阻止时不触发。 基础收益：治疗 20。</RHA_STAR_Relic_Embertide.nodes.3.description>
+  <RHA_STAR_Relic_Embertide.nodes.4.label>飞火庇护</RHA_STAR_Relic_Embertide.nodes.4.label>
+  <RHA_STAR_Relic_Embertide.nodes.4.description>续燃迸火实际造成追加伤害后，为本人4格内视线畅通、最近的另一名殖民者提供50点基础护盾，持续3秒，冷却8秒。没有队友时不转给本人。 基础收益：护盾 50。</RHA_STAR_Relic_Embertide.nodes.4.description>
+  <RHA_STAR_Relic_Embertide.nodes.5.label>炉边援护</RHA_STAR_Relic_Embertide.nodes.5.label>
+  <RHA_STAR_Relic_Embertide.nodes.5.description>沿用炉火护身的燃烧条件，治疗本人4格内视线畅通、伤势最重的另一名殖民者20点基础可恢复伤势，冷却8秒。独立计数和结算，没有受伤队友时不治疗本人。 基础收益：治疗 20。</RHA_STAR_Relic_Embertide.nodes.5.description>
+  <RHA_STAR_Relic_Embertide.nodes.6.label>留火还击</RHA_STAR_Relic_Embertide.nodes.6.label>
+  <RHA_STAR_Relic_Embertide.nodes.6.description>沿用炉火护身的燃烧条件，独立储存一份余火，持续5秒，生成冷却8秒。本人后续普通命中消耗余火，追加50点伤害。最多一份，燃烧自身不会消耗余火。 基础收益：伤害 50。</RHA_STAR_Relic_Embertide.nodes.6.description>
+</LanguageData>

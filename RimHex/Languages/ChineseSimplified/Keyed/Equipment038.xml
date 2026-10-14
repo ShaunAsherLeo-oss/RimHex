@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_Equipment038_Cleared>已净化{0}项异常</RHA_Equipment038_Cleared>
+  <RHA_Equipment038_NoControl>没有可净化的异常状态</RHA_Equipment038_NoControl>
+  <RHA_Equipment038_Charge>能量 {0}/100 · 放电冷却 {1}秒</RHA_Equipment038_Charge>
+  <RHA_Equipment038_CounterReady>解缚反击已就绪</RHA_Equipment038_CounterReady>
+  <RHA_Pair038_Pledged>已立誓守护{0}</RHA_Pair038_Pledged>
+  <RHA_Pair038_Partner>誓约对象：{0}</RHA_Pair038_Partner>
+  <RHA_Pair038_PartnerDormant>誓约对象：{0}（距离过远，效果暂停）</RHA_Pair038_PartnerDormant>
+  <RHA_Pair038_Stasis>时间凝滞</RHA_Pair038_Stasis>
+  <RHA_Pair038_StasisBlocked>凝滞期间无法行动</RHA_Pair038_StasisBlocked>
+  <RHA_Pair038_Unable>需要清醒且能够行动</RHA_Pair038_Unable>
+  <RHA_Pair038_EnemyPending>成对装备敌人来源待接入</RHA_Pair038_EnemyPending>
+</LanguageData>

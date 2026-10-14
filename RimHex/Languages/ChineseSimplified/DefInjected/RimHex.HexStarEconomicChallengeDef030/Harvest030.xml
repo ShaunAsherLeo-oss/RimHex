@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_HarvestEconomic030_root.label>开垦考核</RHA_HarvestEconomic030_root.label>
+  <RHA_HarvestEconomic030_root.description>15天内完成播种与真实食用作物收获目标。额外奖励产物、砍除和失败收获不计入；无需先解锁丰收节点。</RHA_HarvestEconomic030_root.description>
+  <RHA_HarvestEconomic030_rotation.label>轮作考核</RHA_HarvestEconomic030_rotation.label>
+  <RHA_HarvestEconomic030_rotation.description>20天内完成播种与真实食用作物收获目标。额外奖励产物、砍除和失败收获不计入；无需先解锁丰收节点。</RHA_HarvestEconomic030_rotation.description>
+  <RHA_HarvestEconomic030_granary.label>入仓考核</RHA_HarvestEconomic030_granary.label>
+  <RHA_HarvestEconomic030_granary.description>20天内完成播种与真实食用作物收获目标。额外奖励产物、砍除和失败收获不计入；无需先解锁丰收节点。</RHA_HarvestEconomic030_granary.description>
+  <RHA_HarvestEconomic030_rotation_d.label>留种考核</RHA_HarvestEconomic030_rotation_d.label>
+  <RHA_HarvestEconomic030_rotation_d.description>25天内完成播种与真实食用作物收获目标。额外奖励产物、砍除和失败收获不计入；无需先解锁丰收节点。</RHA_HarvestEconomic030_rotation_d.description>
+  <RHA_HarvestEconomic030_relay.label>接茬考核</RHA_HarvestEconomic030_relay.label>
+  <RHA_HarvestEconomic030_relay.description>25天内完成播种与真实食用作物收获目标。额外奖励产物、砍除和失败收获不计入；无需先解锁丰收节点。</RHA_HarvestEconomic030_relay.description>
+  <RHA_HarvestEconomic030_kitchen.label>田间食材考核</RHA_HarvestEconomic030_kitchen.label>
+  <RHA_HarvestEconomic030_kitchen.description>25天内完成播种、食用作物收获与实际烹饪餐食目标。烹饪必须消耗食材并交付餐食。奖励产物与失败工作不计入；无需先解锁丰收节点。</RHA_HarvestEconomic030_kitchen.description>
+  <RHA_HarvestEconomic030_storage.label>分仓考核</RHA_HarvestEconomic030_storage.label>
+  <RHA_HarvestEconomic030_storage.description>25天内完成播种与真实食用作物收获目标。额外奖励产物、砍除和失败收获不计入；无需先解锁丰收节点。</RHA_HarvestEconomic030_storage.description>
+  <RHA_HarvestEconomic030_selection.label>选育考核</RHA_HarvestEconomic030_selection.label>
+  <RHA_HarvestEconomic030_selection.description>30天内完成播种与真实食用作物收获目标。额外奖励产物、砍除和失败收获不计入；无需先解锁丰收节点。</RHA_HarvestEconomic030_selection.description>
+  <RHA_HarvestEconomic030_cooperation.label>接力耕作考核</RHA_HarvestEconomic030_cooperation.label>
+  <RHA_HarvestEconomic030_cooperation.description>35天内完成播种与真实食用作物收获目标。额外奖励产物、砍除和失败收获不计入；无需先解锁丰收节点。</RHA_HarvestEconomic030_cooperation.description>
+  <RHA_HarvestEconomic030_meals.label>炊事轮班考核</RHA_HarvestEconomic030_meals.label>
+  <RHA_HarvestEconomic030_meals.description>35天内完成播种、食用作物收获与实际烹饪餐食目标。烹饪必须消耗食材并交付餐食。奖励产物与失败工作不计入；无需先解锁丰收节点。</RHA_HarvestEconomic030_meals.description>
+  <RHA_HarvestEconomic030_reserve.label>粮储周转考核</RHA_HarvestEconomic030_reserve.label>
+  <RHA_HarvestEconomic030_reserve.description>35天内完成播种、食用作物收获与实际烹饪餐食目标。烹饪必须消耗食材并交付餐食。奖励产物与失败工作不计入；无需先解锁丰收节点。</RHA_HarvestEconomic030_reserve.description>
+  <RHA_HarvestEconomic030_selection_bulk.label>稳定品种考核</RHA_HarvestEconomic030_selection_bulk.label>
+  <RHA_HarvestEconomic030_selection_bulk.description>40天内完成播种与真实食用作物收获目标。额外奖励产物、砍除和失败收获不计入；无需先解锁丰收节点。</RHA_HarvestEconomic030_selection_bulk.description>
+  <RHA_HarvestEconomic030_selection_variety.label>混合育种考核</RHA_HarvestEconomic030_selection_variety.label>
+  <RHA_HarvestEconomic030_selection_variety.description>40天内完成播种与真实食用作物收获目标。额外奖励产物、砍除和失败收获不计入；无需先解锁丰收节点。</RHA_HarvestEconomic030_selection_variety.description>
+  <RHA_HarvestEconomic030_cooperation_return.label>互换田垄考核</RHA_HarvestEconomic030_cooperation_return.label>
+  <RHA_HarvestEconomic030_cooperation_return.description>40天内完成播种与真实食用作物收获目标。额外奖励产物、砍除和失败收获不计入；无需先解锁丰收节点。</RHA_HarvestEconomic030_cooperation_return.description>
+  <RHA_HarvestEconomic030_cooperation_spread.label>三班农务考核</RHA_HarvestEconomic030_cooperation_spread.label>
+  <RHA_HarvestEconomic030_cooperation_spread.description>40天内完成播种与真实食用作物收获目标。额外奖励产物、砍除和失败收获不计入；无需先解锁丰收节点。</RHA_HarvestEconomic030_cooperation_spread.description>
+  <RHA_HarvestEconomic030_meals_batch.label>连灶考核</RHA_HarvestEconomic030_meals_batch.label>
+  <RHA_HarvestEconomic030_meals_batch.description>40天内完成播种、食用作物收获与实际烹饪餐食目标。烹饪必须消耗食材并交付餐食。奖励产物与失败工作不计入；无需先解锁丰收节点。</RHA_HarvestEconomic030_meals_batch.description>
+  <RHA_HarvestEconomic030_meals_variety.label>一桌百味考核</RHA_HarvestEconomic030_meals_variety.label>
+  <RHA_HarvestEconomic030_meals_variety.description>40天内完成播种、食用作物收获与实际烹饪餐食目标。烹饪必须消耗食材并交付餐食。奖励产物与失败工作不计入；无需先解锁丰收节点。</RHA_HarvestEconomic030_meals_variety.description>
+  <RHA_HarvestEconomic030_reserve_seed.label>以粮养种考核</RHA_HarvestEconomic030_reserve_seed.label>
+  <RHA_HarvestEconomic030_reserve_seed.description>40天内完成播种、食用作物收获与实际烹饪餐食目标。烹饪必须消耗食材并交付餐食。奖励产物与失败工作不计入；无需先解锁丰收节点。</RHA_HarvestEconomic030_reserve_seed.description>
+  <RHA_HarvestEconomic030_reserve_distribution.label>分粮入灶考核</RHA_HarvestEconomic030_reserve_distribution.label>
+  <RHA_HarvestEconomic030_reserve_distribution.description>40天内完成播种、食用作物收获与实际烹饪餐食目标。烹饪必须消耗食材并交付餐食。奖励产物与失败工作不计入；无需先解锁丰收节点。</RHA_HarvestEconomic030_reserve_distribution.description>
+</LanguageData>

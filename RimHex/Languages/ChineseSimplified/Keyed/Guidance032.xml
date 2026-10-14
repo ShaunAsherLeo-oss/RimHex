@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RHA_Guidance032_Pawn>当前角色：{0}</RHA_Guidance032_Pawn>
+  <RHA_Guidance032_None>无</RHA_Guidance032_None>
+  <RHA_Guidance032_SourceReady>来源门槛已满足</RHA_Guidance032_SourceReady>
+  <RHA_Guidance032_MissingSources>还差 {0} 个不同来源。可补充的来源：{1}</RHA_Guidance032_MissingSources>
+  <RHA_Guidance032_MissingCount>还差 {0} 个不同来源</RHA_Guidance032_MissingCount>
+  <RHA_Guidance032_ConditionsReady>当前条件已满足；前往详情核对并操作。</RHA_Guidance032_ConditionsReady>
+  <RHA_Guidance032_Mechanism>主要机制</RHA_Guidance032_Mechanism>
+  <RHA_Guidance032_OwnedSources>已有成长来源</RHA_Guidance032_OwnedSources>
+  <RHA_Guidance032_MissingSourceTitle>缺少的来源</RHA_Guidance032_MissingSourceTitle>
+  <RHA_Guidance032_Conditions>进阶条件与阻碍</RHA_Guidance032_Conditions>
+  <RHA_Guidance032_HelpTitle>强化说明</RHA_Guidance032_HelpTitle>
+  <RHA_Guidance032_ComponentsHelp>主流派来自强化卡与装备来源的组合。核心提供构筑分支，战技提供主动操作，装备提供穿戴效果与独立成长；它们可与多种流派搭配。是否生效以当前来源、穿戴和实际条件为准。</RHA_Guidance032_ComponentsHelp>
+  <RHA_Guidance032_EmptyEquipment>当前角色没有可管理的穿戴装备，可到锻造页查看已有装备与制作入口。</RHA_Guidance032_EmptyEquipment>
+  <RHA_Guidance032_EmptyGrowth>当前还没有生效的构筑。可以从已有强化选择或挑战入口开始获取来源。</RHA_Guidance032_EmptyGrowth>
+  <RHA_Guidance032_EmptyNext>暂无可推进的项目。查看路线，了解所需来源与进阶条件。</RHA_Guidance032_EmptyNext>
+  <RHA_Guidance032_ViewForge>查看锻造</RHA_Guidance032_ViewForge>
+  <RHA_Guidance032_ViewOffers>查看强化选择</RHA_Guidance032_ViewOffers>
+  <RHA_Guidance032_ViewChallenges>查看挑战</RHA_Guidance032_ViewChallenges>
+  <RHA_Guidance032_ViewRoutes>查看路线</RHA_Guidance032_ViewRoutes>
+  <RHA_Guidance032_EmptySkills>当前角色尚未获得战技。可在路线与完整强化说明中了解对应来源。</RHA_Guidance032_EmptySkills>
+  <RHA_Guidance032_EmptyFilteredSkills>当前筛选没有结果，可清除筛选查看已有战技。</RHA_Guidance032_EmptyFilteredSkills>
+  <RHA_Guidance032_ResetSkillFilter>清除筛选</RHA_Guidance032_ResetSkillFilter>
+  <RHA_Guidance032_StateUnowned>尚未获得</RHA_Guidance032_StateUnowned>
+  <RHA_Guidance032_StateBlocked>条件不足</RHA_Guidance032_StateBlocked>
+  <RHA_Guidance032_StatePending>待处理</RHA_Guidance032_StatePending>
+  <RHA_Guidance032_StateActive>已生效／已获得</RHA_Guidance032_StateActive>
+  <RHA_Guidance032_StateDormant>暂时失效</RHA_Guidance032_StateDormant>
+  <RHA_Guidance032_StateComplete>路线完成</RHA_Guidance032_StateComplete>
+  <RHA_Guidance032_StateAvailable>可推进</RHA_Guidance032_StateAvailable>
+  <RHA_Guidance032_HelpAcquire>如何获得强化？</RHA_Guidance032_HelpAcquire>
+  <RHA_Guidance032_HelpAcquireBody>通过原有强化选择、挑战、任务奖励和装备获取来源。卡片、核心、战技与装备各有对应入口；没有强化选择时可先查看挑战。获得来源后，成长页会汇总当前构筑。</RHA_Guidance032_HelpAcquireBody>
+  <RHA_Guidance032_HelpAcquireAction>查看获取入口</RHA_Guidance032_HelpAcquireAction>
+  <RHA_Guidance032_HelpDormant>为什么暂时失效？</RHA_Guidance032_HelpDormant>
+  <RHA_Guidance032_HelpDormantBody>常见原因包括装备脱下、流派来源不足、分支变化或路线暂未启用。已有进度会保留在相关路线中；成长页默认显示主要原因，展开后查看已有来源与缺少条件。失效不等于进度被删除。</RHA_Guidance032_HelpDormantBody>
+  <RHA_Guidance032_HelpDormantAction>查看当前构筑</RHA_Guidance032_HelpDormantAction>
+  <RHA_Guidance032_HelpAdvance>如何进阶与选择分支？</RHA_Guidance032_HelpAdvance>
+  <RHA_Guidance032_HelpAdvanceBody>从“下一步”或星图打开节点，查看实际来源、费用和条件。待确认的进阶沿用原确认流程；挑战路线需完成相应挑战。随机路线仍只能选择实际出现的候选。</RHA_Guidance032_HelpAdvanceBody>
+  <RHA_Guidance032_HelpAdvanceAction>查看进阶路线</RHA_Guidance032_HelpAdvanceAction>
+  <RHA_Guidance032_HelpSources>在哪里查看效果来源？</RHA_Guidance032_HelpSources>
+  <RHA_Guidance032_HelpSourcesBody>“详细资料”的效果来源列出实际强化贡献。流派详情分别显示已有来源与缺少来源；完整数值仍可在“详细资料”查看。</RHA_Guidance032_HelpSourcesBody>
+  <RHA_Guidance032_HelpSourcesAction>查看效果来源</RHA_Guidance032_HelpSourcesAction>
+  <RHA_Guidance032_HelpRecords>在哪里查看记录和成长任务？</RHA_Guidance032_HelpRecords>
+  <RHA_Guidance032_HelpRecordsBody>在“详细资料”查看战斗记录、触发记录和成长任务。成长任务保留原有归属和奖励。</RHA_Guidance032_HelpRecordsBody>
+  <RHA_Guidance032_HelpRecordsAction>查看战斗记录</RHA_Guidance032_HelpRecordsAction>
+  <RHA_Guidance032_HelpComponents>流派、核心、战技和装备有什么关系？</RHA_Guidance032_HelpComponents>
+  <RHA_Guidance032_HelpComponentsBody>九类个人主流派可以混合搭配。核心提供构筑分支；战技提供可主动使用的能力；装备提供穿戴效果、符文、觉醒与星节点。它们是构筑的组成部分，既有独立进度，也可能成为流派来源。财富、工业与丰饶属于殖民地成长。</RHA_Guidance032_HelpComponentsBody>
+  <RHA_Guidance032_HelpComponentsAction>查看装备成长</RHA_Guidance032_HelpComponentsAction>
+</LanguageData>

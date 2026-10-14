@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_STAR_Relic_Thornshell.nodes.0.label>棘甲铆合</RHA_STAR_Relic_Thornshell.nodes.0.label>
+  <RHA_STAR_Relic_Thornshell.nodes.0.description>保留原有反伤、生命与防御。新增分支需要原始反伤实际伤及敌人；仅仅受到攻击、反伤被完全挡住、友军误伤和追加伤害均不触发。进阶随遗物保存。</RHA_STAR_Relic_Thornshell.nodes.0.description>
+  <RHA_STAR_Relic_Thornshell.nodes.1.label>倒刺追击</RHA_STAR_Relic_Thornshell.nodes.1.label>
+  <RHA_STAR_Relic_Thornshell.nodes.1.description>原始反伤实际伤敌后，为该敌人留下5秒倒刺标记，冷却8秒。本人后续普通命中该敌人，消耗标记追加50点伤害。最多一个标记；反伤本身不消耗标记。 基础收益：伤害 50。</RHA_STAR_Relic_Thornshell.nodes.1.description>
+  <RHA_STAR_Relic_Thornshell.nodes.2.label>棘墙掩护</RHA_STAR_Relic_Thornshell.nodes.2.label>
+  <RHA_STAR_Relic_Thornshell.nodes.2.description>原始反伤实际伤敌后，为本人4格内视线畅通、最近的另一名殖民者提供50点基础护盾，持续3秒，冷却8秒。没有队友时不转给本人。 基础收益：护盾 50。</RHA_STAR_Relic_Thornshell.nodes.2.description>
+  <RHA_STAR_Relic_Thornshell.nodes.3.label>断棘飞散</RHA_STAR_Relic_Thornshell.nodes.3.label>
+  <RHA_STAR_Relic_Thornshell.nodes.3.description>倒刺追击的追加伤害实际命中后，对受击点3格内视线畅通的另一名敌人追加25点伤害，冷却8秒。没有第二目标时不回打原目标。 基础收益：伤害 25。</RHA_STAR_Relic_Thornshell.nodes.3.description>
+  <RHA_STAR_Relic_Thornshell.nodes.4.label>棘间缝合</RHA_STAR_Relic_Thornshell.nodes.4.label>
+  <RHA_STAR_Relic_Thornshell.nodes.4.description>倒刺追击的追加伤害实际命中后，治疗自身20点基础可恢复伤势，冷却8秒。不修复永久伤疤或缺失部位；被阻止的追加伤害不触发。 基础收益：治疗 20。</RHA_STAR_Relic_Thornshell.nodes.4.description>
+  <RHA_STAR_Relic_Thornshell.nodes.5.label>棘墙救援</RHA_STAR_Relic_Thornshell.nodes.5.label>
+  <RHA_STAR_Relic_Thornshell.nodes.5.description>原始反伤实际伤敌后，治疗本人4格内视线畅通、伤势最重的另一名殖民者20点基础可恢复伤势，冷却8秒。与护盾分别选择对象；没有受伤队友时不治疗本人。 基础收益：治疗 20。</RHA_STAR_Relic_Thornshell.nodes.5.description>
+  <RHA_STAR_Relic_Thornshell.nodes.6.label>收棘待发</RHA_STAR_Relic_Thornshell.nodes.6.label>
+  <RHA_STAR_Relic_Thornshell.nodes.6.description>原始反伤实际伤敌后，储存一份棘刺，持续5秒，冷却8秒。本人后续普通命中消耗棘刺，追加50点伤害。最多一份，反伤本身不会消耗棘刺。 基础收益：伤害 50。</RHA_STAR_Relic_Thornshell.nodes.6.description>
+</LanguageData>

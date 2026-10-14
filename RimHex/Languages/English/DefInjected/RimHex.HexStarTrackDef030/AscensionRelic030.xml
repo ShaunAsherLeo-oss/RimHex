@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_STAR_Relic_REF_Ascension.nodes.0.label>Fivefold Inheritance</RHA_STAR_Relic_REF_Ascension.nodes.0.label>
+  <RHA_STAR_Relic_REF_Ascension.nodes.0.description>Retains Ascension's five random bonuses, two rerolls per day, lifetime growth and diminishing returns. A branch processes this item's successful original reroll once. No extra draws, refunded charges or free abilities. Compare raw bonuses; ties use the order damage, health, defense, movement and attack speed.</RHA_STAR_Relic_REF_Ascension.nodes.0.description>
+  <RHA_STAR_Relic_REF_Ascension.nodes.1.label>Hold the Advantage</RHA_STAR_Relic_REF_Ascension.nodes.1.label>
+  <RHA_STAR_Relic_REF_Ascension.nodes.1.description>Before a reroll, remember the highest of your five raw bonuses. If that bonus falls, retain 25% of the loss: add one quarter of the difference between its old and new values. The other four bonuses are replaced normally. No fall means no adjustment; the same reroll is never processed twice.</RHA_STAR_Relic_REF_Ascension.nodes.1.description>
+  <RHA_STAR_Relic_REF_Ascension.nodes.2.label>Fill the Gap</RHA_STAR_Relic_REF_Ascension.nodes.2.label>
+  <RHA_STAR_Relic_REF_Ascension.nodes.2.description>After a successful reroll, raise the lowest raw bonus by 20% of the gap between the highest and lowest. Adjust just one bonus once; the highest stays unchanged. Equal bonuses grant nothing. The next reroll still replaces them normally rather than adding this improvement to its fresh draws.</RHA_STAR_Relic_REF_Ascension.nodes.2.description>
+  <RHA_STAR_Relic_REF_Ascension.nodes.3.label>Carried Momentum</RHA_STAR_Relic_REF_Ascension.nodes.3.label>
+  <RHA_STAR_Relic_REF_Ascension.nodes.3.description>After Hold the Advantage actually preserves a bonus, store one follow-up for 20 seconds, with one maximum. Your later ordinary hit on an enemy consumes it for 75 base damage. Abilities, secondary hits and transferring the relic cannot spend it. No preserved bonus grants no follow-up. Base rewards: damage 75.</RHA_STAR_Relic_REF_Ascension.nodes.3.description>
+  <RHA_STAR_Relic_REF_Ascension.nodes.4.label>Rest on the Advantage</RHA_STAR_Relic_REF_Ascension.nodes.4.label>
+  <RHA_STAR_Relic_REF_Ascension.nodes.4.description>After Hold the Advantage actually preserves a bonus, heal 40 base points of your recoverable injuries once for that adjustment. Full health, permanent scars and missing parts grant no extra benefit. Base rewards: healing 40.</RHA_STAR_Relic_REF_Ascension.nodes.4.description>
+  <RHA_STAR_Relic_REF_Ascension.nodes.5.label>Balancing Aid</RHA_STAR_Relic_REF_Ascension.nodes.5.label>
+  <RHA_STAR_Relic_REF_Ascension.nodes.5.description>After Fill the Gap actually raises the lowest bonus, heal 40 base injury points on the most injured other colonist within 4 cells and clear sight. Each adjustment aids one ally once. With no injured eligible ally, no healing is redirected to you. Base rewards: healing 40.</RHA_STAR_Relic_REF_Ascension.nodes.5.description>
+  <RHA_STAR_Relic_REF_Ascension.nodes.6.label>Fivefold Ward</RHA_STAR_Relic_REF_Ascension.nodes.6.label>
+  <RHA_STAR_Relic_REF_Ascension.nodes.6.description>After Fill the Gap actually raises the lowest bonus, shield yourself for 75 base points over 20 seconds, once for that adjustment. Daily rerolls remain unchanged. Equipping the item or a failed command grants no shield. Base rewards: shield 75.</RHA_STAR_Relic_REF_Ascension.nodes.6.description>
+</LanguageData>

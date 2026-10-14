@@ -1,0 +1,47 @@
+name: Bug 反馈 / Bug report
+description: 报告报错、效果异常或操作问题 / Report errors or unexpected behavior
+title: "[Bug] "
+body:
+  - type: markdown
+    attributes:
+      value: "谢谢你的反馈。请描述实际操作和结果；截图、Player.log 或模组列表可以拖入下方输入框。 / Please describe the steps and result. You can attach screenshots and logs."
+  - type: input
+    id: rimhex_version
+    attributes:
+      label: RimHex 版本 / RimHex version
+      placeholder: "例如 / e.g. 0.37.26"
+    validations:
+      required: true
+  - type: input
+    id: game_version
+    attributes:
+      label: RimWorld 版本 / RimWorld version
+      placeholder: "例如 / e.g. 1.6 或 1.7 unstable，请附完整版本号"
+    validations:
+      required: true
+  - type: input
+    id: affected_content
+    attributes:
+      label: 相关卡牌、遗物或界面 / Affected card, relic or screen
+      placeholder: "名称；不涉及具体内容时可填“无” / Name, or N/A"
+  - type: textarea
+    id: steps
+    attributes:
+      label: 操作步骤 / Steps to reproduce
+      description: "从哪个界面、使用哪个人物、做了什么？能否重复出现？ / What did you do, and can you reproduce it?"
+      placeholder: "1. …
+2. …"
+    validations:
+      required: true
+  - type: textarea
+    id: expected_actual
+    attributes:
+      label: 预期和实际结果 / Expected and actual result
+      description: "分别说明应该发生什么，以及实际发生了什么。 / Describe both results."
+    validations:
+      required: true
+  - type: textarea
+    id: attachments
+    attributes:
+      label: 截图、日志和模组列表 / Screenshots, logs and mod list
+      description: "可拖入附件或粘贴文本。 / Drag attachments here or paste text."

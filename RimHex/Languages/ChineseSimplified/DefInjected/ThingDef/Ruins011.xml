@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_RuinConsole_Forge.label>废弃铸造厂控制台</RHA_RuinConsole_Forge.label>
+  <RHA_RuinConsole_Forge.description>检查这处设施，指派操作人员并选择处理方式。先完成前一处事件，才能使用后面的设施。</RHA_RuinConsole_Forge.description>
+  <RHA_RuinConsole_Archive.label>失落研究所控制台</RHA_RuinConsole_Archive.label>
+  <RHA_RuinConsole_Archive.description>检查这处设施，指派操作人员并选择处理方式。先完成前一处事件，才能使用后面的设施。</RHA_RuinConsole_Archive.description>
+  <RHA_RuinConsole_Vault.label>封存军械库控制台</RHA_RuinConsole_Vault.label>
+  <RHA_RuinConsole_Vault.description>检查这处设施，指派操作人员并选择处理方式。先完成前一处事件，才能使用后面的设施。</RHA_RuinConsole_Vault.description>
+  <RHA_RUIN_FurnaceGrip.label>炉脉钳</RHA_RUIN_FurnaceGrip.label>
+  <RHA_RUIN_FurnaceGrip.description>对敌伤害增加70%，全局工作速度增加80%。每第4次有效直接命中释放半径6格的热脉冲，对最多8名站立敌人造成180＋本次直接伤害75%的追加伤害，并施加2级灼烧。冷却3秒。可在废弃铸造厂取得，不进入普通装备卡池与定向锻造。 复制伤害沿用原结算值；固定追加部分仍可增幅。</RHA_RUIN_FurnaceGrip.description>
+  <RHA_RUIN_HeatReservoir.label>余热背架</RHA_RUIN_HeatReservoir.label>
+  <RHA_RUIN_HeatReservoir.description>体质增加120%，每秒恢复2.5点普通伤势。实际受伤后获得300＋本次承受伤害3倍的护盾，持续8秒，冷却4秒。护盾不能抵消触发它的那次伤害。可在废弃铸造厂取得，不进入普通装备卡池与定向锻造。</RHA_RUIN_HeatReservoir.description>
+  <RHA_RUIN_RefractionLens.label>折光目镜</RHA_RUIN_RefractionLens.label>
+  <RHA_RUIN_RefractionLens.description>对敌伤害增加60%，暴击率增加35个百分点，研究速度增加150%。每第3次有效直接命中时，若目标距离至少10格，向落点12格内最多4名站立敌人折射光束，各造成160＋本次直接伤害的追加伤害并减速。冷却4秒。可在失落研究所取得，不进入普通装备卡池与定向锻造。 复制伤害沿用原结算值；固定追加部分仍可增幅。</RHA_RUIN_RefractionLens.description>
+  <RHA_RUIN_FieldInjector.label>再生注射器</RHA_RUIN_FieldInjector.label>
+  <RHA_RUIN_FieldInjector.description>体质增加100%，每秒恢复4点普通伤势。每5秒为10格内伤势最重的己方自由殖民者恢复最多100点普通伤势，并给予160点护盾，持续8秒，可以治疗自身。没有可治疗伤势时不触发，不能再生缺失部位。可在失落研究所取得，不进入普通装备卡池与定向锻造。</RHA_RUIN_FieldInjector.description>
+  <RHA_RUIN_BreachBow.label>破垒弩</RHA_RUIN_BreachBow.label>
+  <RHA_RUIN_BreachBow.description>对敌伤害增加100%，瞄准时间除数增加1。每第5次有效直接命中发射贯穿弩矢，穿过目标及其后方16格、射线两侧各2格的区域，对最多6名站立敌人造成500＋本次直接伤害的追加伤害，受墙体与视线限制。冷却4秒。可在封存军械库取得，不进入普通装备卡池与定向锻造。 复制伤害沿用原结算值；固定追加部分仍可增幅。</RHA_RUIN_BreachBow.description>
+  <RHA_RUIN_EscortSeal.label>护送者徽记</RHA_RUIN_EscortSeal.label>
+  <RHA_RUIN_EscortSeal.description>体质增加100%，承伤除数增加0.7。护盾每实际吸收200点伤害释放一次集结脉冲：治疗10格内最多6名己方自由殖民者各80点普通伤势，并对8格内最多8名站立敌人造成240点追加伤害。冷却3秒，最多储存400点吸收进度。可在封存军械库取得，不进入普通装备卡池与定向锻造。</RHA_RUIN_EscortSeal.description>
+</LanguageData>

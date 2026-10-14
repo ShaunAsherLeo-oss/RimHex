@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_StarBodyguardCommander.label>追猎统领</RHA_StarBodyguardCommander.label>
+  <RHA_StarBodyguardCommander.description>追击者锁定名单中首位已选协助者，单人时锁定申请者。出发前显示姓名，报名后不更换。拦截追击者或移动目标脱险；击杀追击者使统领破防三秒、额外受到25%伤害，击杀统领停止后续增援。保护对象活着留在本地图，清理全部已出场敌人即可完成。协助者倒地可救援或背走，但追击者会追向搬运者。本人通过实际伤害、治疗和护盾取得贡献，协助者可补刀。</RHA_StarBodyguardCommander.description>
+  <RHA_StarBodyguardHunter.label>追击者</RHA_StarBodyguardHunter.label>
+  <RHA_StarBodyguardHunter.description>追击者锁定名单中首位已选协助者，单人时锁定申请者。出发前显示姓名，报名后不更换。拦截追击者或移动目标脱险；击杀追击者使统领破防三秒、额外受到25%伤害，击杀统领停止后续增援。保护对象活着留在本地图，清理全部已出场敌人即可完成。协助者倒地可救援或背走，但追击者会追向搬运者。本人通过实际伤害、治疗和护盾取得贡献，协助者可补刀。</RHA_StarBodyguardHunter.description>
+</LanguageData>

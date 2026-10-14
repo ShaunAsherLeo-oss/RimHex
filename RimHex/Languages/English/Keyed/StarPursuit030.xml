@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RHA_StarPursuit030_Ready>Hunter closing in — watch its facing.</RHA_StarPursuit030_Ready>
+  <RHA_StarPursuit030_Windup>Charge locked — {0}s. Leave the marked route!</RHA_StarPursuit030_Windup>
+  <RHA_StarPursuit030_Dash>Charging — stay clear!</RHA_StarPursuit030_Dash>
+  <RHA_StarPursuit030_Recover>Hunter off balance — {0}s. Counterattack!</RHA_StarPursuit030_Recover>
+  <RHA_StarPursuit030_Personal>Your damage: {0}/{1} · Contribution: {2}/12</RHA_StarPursuit030_Personal>
+  <RHA_StarPursuit030_Brief>The hunter can always be damaged. Its charge route locks before a 1.5-second warning; move sideways or use cover. A missed or blocked charge leaves it off balance for 4 seconds; contact leaves a 1.5-second opening. It takes 35% more damage during either opening. Existing control abilities can interrupt it. Defeat the hunter after dealing personal damage equal to 20% of its core health, or earn 12 points through your shields and healing of trial damage. Allies may help and finish it. No skill is granted for this trial.</RHA_StarPursuit030_Brief>
+</LanguageData>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_Tactics023.label>Brands and legion</RHA_Tactics023.label>
+  <RHA_Tactics023.description>Inspect brand charge, remaining time and the current order for ordinary projections.</RHA_Tactics023.description>
+  <RHA_Brand023.label>molten brand</RHA_Brand023.label>
+  <RHA_Brand023.description>This brand stores damage and releases it on expiry, death or early detonation.</RHA_Brand023.description>
+  <RHA_Cinder023.label>cinders</RHA_Cinder023.label>
+  <RHA_Cinder023.description>Residual heat that cannot spread or charge brands.</RHA_Cinder023.description>
+  <RHA_SwapWard023.label>exchange cover</RHA_SwapWard023.label>
+  <RHA_SwapWard023.description>Takes 25% less damage.</RHA_SwapWard023.description>
+</LanguageData>

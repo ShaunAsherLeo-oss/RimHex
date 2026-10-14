@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_A27_crossfire.label>交叉火力</RHA_A27_crossfire.label>
+  <RHA_A27_crossfire.description>普攻使敌人受伤后留下机会。队友普攻命中该敌人时，追加 4 点固定基础伤害。触发后恢复 6 秒。机会持续 4 秒，每张卡同时只保留一个目标。接力需要另一名站立的己方人类殖民者，与持卡者相距不超过 12 格且视线畅通；队友无需持有同名卡，召唤物不计。追加伤害不能接力。同一次命中，每种接力最多结算一次。</RHA_A27_crossfire.description>
+  <RHA_A27_crossfire.theme>团队接力</RHA_A27_crossfire.theme>
+  <RHA_A27_flank.label>侧翼夹击</RHA_A27_flank.label>
+  <RHA_A27_flank.description>普攻使敌人受伤后留下机会。队友普攻命中时，若两人相对敌人的夹角至少为 90 度，追加 6 点固定基础伤害。触发后恢复 8 秒。机会持续 4 秒，每张卡同时只保留一个目标。接力需要另一名站立的己方人类殖民者，与持卡者相距不超过 12 格且视线畅通；队友无需持有同名卡，召唤物不计。追加伤害不能接力。同一次命中，每种接力最多结算一次。</RHA_A27_flank.description>
+  <RHA_A27_flank.theme>团队接力</RHA_A27_flank.theme>
+  <RHA_A27_pressure.label>轮番压制</RHA_A27_pressure.label>
+  <RHA_A27_pressure.description>战技使敌人受伤后留下机会。队友普攻命中该敌人时，自己剩余冷却最长的一项已学会的个人战斗技能缩短 1 秒，不会立即就绪。没有可缩短的技能时保留机会。共享技能、经营技能和固定恢复间隔不受影响。触发后恢复 8 秒。机会持续 4 秒，每张卡同时只保留一个目标。接力需要另一名站立的己方人类殖民者，与持卡者相距不超过 12 格且视线畅通；队友无需持有同名卡，召唤物不计。追加伤害不能接力。同一次命中，每种接力最多结算一次。</RHA_A27_pressure.description>
+  <RHA_A27_pressure.theme>团队接力</RHA_A27_pressure.theme>
+  <RHA_A27_cover.label>替身掩护</RHA_A27_cover.label>
+  <RHA_A27_cover.description>受到敌人的普通攻击、实际受伤且仍站立时，标记攻击者。队友普攻命中该敌人，为自己提供 6 点护盾，持续 6 秒。触发后恢复 8 秒。机会持续 4 秒，每张卡同时只保留一个目标。接力需要另一名站立的己方人类殖民者，与持卡者相距不超过 12 格且视线畅通；队友无需持有同名卡，召唤物不计。追加伤害不能接力。同一次命中，每种接力最多结算一次。</RHA_A27_cover.description>
+  <RHA_A27_cover.theme>团队接力</RHA_A27_cover.theme>
+  <RHA_A27_relief.label>战地接应</RHA_A27_relief.label>
+  <RHA_A27_relief.description>使用本模组的治疗效果为队友实际恢复至少 2 点伤势后，留下接应机会。该队友普攻使敌人受伤时，两人各获得 4 点护盾，持续 4 秒。自疗和无伤治疗不计。触发后恢复 8 秒。机会持续 4 秒，每张卡同时只保留一个目标。接力需要另一名站立的己方人类殖民者，与持卡者相距不超过 12 格且视线畅通；队友无需持有同名卡，召唤物不计。追加伤害不能接力。同一次命中，每种接力最多结算一次。</RHA_A27_relief.description>
+  <RHA_A27_relief.theme>团队接力</RHA_A27_relief.theme>
+  <RHA_A27_share.label>共担锋芒</RHA_A27_share.label>
+  <RHA_A27_share.description>普攻使敌人受伤后留下机会。该敌人的普通攻击使另一名队友实际受伤且仍站立时，受击队友获得 6 点护盾，自己获得 3 点护盾，均持续 6 秒。护盾在受击后产生，不能抵消本次伤害。触发后恢复 8 秒。机会持续 4 秒，每张卡同时只保留一个目标。接力需要另一名站立的己方人类殖民者，与持卡者相距不超过 12 格且视线畅通；队友无需持有同名卡，召唤物不计。追加伤害不能接力。同一次命中，每种接力最多结算一次。</RHA_A27_share.description>
+  <RHA_A27_share.theme>团队接力</RHA_A27_share.theme>
+</LanguageData>

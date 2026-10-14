@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <JobDef>
+    <defName>RHA_StarPlantCare030</defName>
+    <driverClass>RimHex.JobDriver_HexStarPlantCare030</driverClass>
+    <reportString>tending a damaged crop.</reportString>
+  </JobDef>
+  <JobDef>
+    <defName>RHA_StarPlantWater030</defName>
+    <driverClass>RimHex.JobDriver_HexStarPlantCare030</driverClass>
+    <reportString>collecting water from a damaged crop.</reportString>
+  </JobDef>
+  <JobDef>
+    <defName>RHA_StarWaterReturn030</defName>
+    <driverClass>RimHex.JobDriver_HexStarWaterReturn030</driverClass>
+    <reportString>returning water to a damaged crop.</reportString>
+  </JobDef>
+</Defs>

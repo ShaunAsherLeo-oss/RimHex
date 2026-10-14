@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_STAR_Relic_Archangel.nodes.0.label>天使承袭</RHA_STAR_Relic_Archangel.nodes.0.label>
+  <RHA_STAR_Relic_Archangel.nodes.0.description>保留天使之杖的恢复、群体治疗、生命与收魂。后续治疗节点只认可本人通过海克斯效果实际恢复的普通伤势；满血、护盾、缺失部位与永久伤疤不计。进阶不免费学习战技。</RHA_STAR_Relic_Archangel.nodes.0.description>
+  <RHA_STAR_Relic_Archangel.nodes.1.label>援护回环</RHA_STAR_Relic_Archangel.nodes.1.label>
+  <RHA_STAR_Relic_Archangel.nodes.1.description>连续实际治疗两名不同对象，相邻计入治疗不超过4秒，额外治疗本人4格内视线畅通、伤势最重的另一名殖民者20点基础可恢复伤势，冷却8秒。原治疗可以包含本人；重复对象不计数，也不延长计时。 基础收益：治疗 20。</RHA_STAR_Relic_Archangel.nodes.1.description>
+  <RHA_STAR_Relic_Archangel.nodes.2.label>余魂济生</RHA_STAR_Relic_Archangel.nodes.2.label>
+  <RHA_STAR_Relic_Archangel.nodes.2.description>实际获得永久魂印时，储存一次10秒回补机会，最多一次，生成冷却8秒。本人实际治疗4格内视线畅通的另一名殖民者后，若对方仍有普通伤势，消耗机会再治疗20点基础伤势。此机会不消耗永久魂印，也不因治疗本人而兑现。 基础收益：治疗 20。</RHA_STAR_Relic_Archangel.nodes.2.description>
+  <RHA_STAR_Relic_Archangel.nodes.3.label>回环抚慰</RHA_STAR_Relic_Archangel.nodes.3.label>
+  <RHA_STAR_Relic_Archangel.nodes.3.description>援护回环的额外治疗实际生效后，治疗本人20点基础可恢复伤势，冷却8秒。没有可恢复伤势时不储存治疗。 基础收益：治疗 20。</RHA_STAR_Relic_Archangel.nodes.3.description>
+  <RHA_STAR_Relic_Archangel.nodes.4.label>回环护翼</RHA_STAR_Relic_Archangel.nodes.4.label>
+  <RHA_STAR_Relic_Archangel.nodes.4.description>援护回环的额外治疗实际生效后，为本人4格内视线畅通、最近的另一名殖民者提供50点基础护盾，持续3秒，冷却8秒。没有队友时不转给本人。 基础收益：护盾 50。</RHA_STAR_Relic_Archangel.nodes.4.description>
+  <RHA_STAR_Relic_Archangel.nodes.5.label>济生护身</RHA_STAR_Relic_Archangel.nodes.5.label>
+  <RHA_STAR_Relic_Archangel.nodes.5.description>余魂济生的追加治疗实际生效后，为本人提供50点基础护盾，持续3秒，冷却8秒。只是获得魂印或储存机会时不生成护盾。 基础收益：护盾 50。</RHA_STAR_Relic_Archangel.nodes.5.description>
+  <RHA_STAR_Relic_Archangel.nodes.6.label>余辉分润</RHA_STAR_Relic_Archangel.nodes.6.label>
+  <RHA_STAR_Relic_Archangel.nodes.6.description>余魂济生的追加治疗实际生效后，再治疗本人4格内视线畅通、伤势最重的另一名殖民者20点基础可恢复伤势，冷却8秒。可能仍是原治疗对象，但不治疗本人。 基础收益：治疗 20。</RHA_STAR_Relic_Archangel.nodes.6.description>
+</LanguageData>

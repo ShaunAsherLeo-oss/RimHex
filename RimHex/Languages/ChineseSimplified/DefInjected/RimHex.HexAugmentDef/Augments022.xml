@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_A22_overload.label>过载飞轮</RHA_A22_overload.label>
+  <RHA_A22_overload.description>需要风暴飞轮。旋转每次伤害由 3.5 降为 2.2；收势改为朝选定敌人释放 10 格、60°的扇形冲击，最多命中 8 名敌人，墙壁阻挡。每次已完成的旋转为收势增加 3 点基础伤害，收势伤害为 8–80。适合先蓄势，再调整朝向一并打击来敌。 同一核心只启用一个分支；在构筑面板切换。</RHA_A22_overload.description>
+  <RHA_A22_overload.theme>核心分支</RHA_A22_overload.theme>
+  <RHA_A22_guard.label>护阵旋流</RHA_A22_guard.label>
+  <RHA_A22_guard.description>需要风暴飞轮。每次旋转可把自己的护盾转给 4 格内、视线畅通的最多 3 名友方人类殖民者，每人至多 2 点，补至 12 点为止，持续 3 秒。已有更强护盾者不会消耗你的护盾。转移不会越过设定的保留值，护盾不足时不转移。旋转伤害由 3.5 降为 1.5，收势伤害减半。护队会消耗用于维持旋转的护盾。 同一核心只启用一个分支；在构筑面板切换。</RHA_A22_guard.description>
+  <RHA_A22_guard.theme>核心分支</RHA_A22_guard.theme>
+  <RHA_A22_shortmag.label>短匣快枪</RHA_A22_shortmag.label>
+  <RHA_A22_shortmag.description>需要棱彩弹匣。弹匣容量由 5 发降为 3 发，普通棱彩命中追加伤害由 6 降为 4，最后一发仍追加 10。普通移动累计 3 格即可装填 1 发，每秒最多一次；被动装填改为每 3 秒 1 发，耗弹后的等待仍为 3 秒。更容易打出末发效果，但倾泻的储备更少，站桩补弹更慢。位移战技不计入移动装填。 同一核心只启用一个分支；在构筑面板切换。</RHA_A22_shortmag.description>
+  <RHA_A22_shortmag.theme>核心分支</RHA_A22_shortmag.theme>
+  <RHA_A22_pierce.label>贯穿弹仓</RHA_A22_pierce.label>
+  <RHA_A22_pierce.description>需要棱彩弹匣。倾泻弹匣改为沿目标方向贯穿 28 格内的一条直线，中心线两侧各 1.2 格，最多命中 6 名敌人。墙壁会截断弹道。每发弹药对每个目标造成 5 点基础伤害，低于原本的 7 点；普通射击不变。找好角度，一次打穿成列的敌人。 同一核心只启用一个分支；在构筑面板切换。</RHA_A22_pierce.description>
+  <RHA_A22_pierce.theme>核心分支</RHA_A22_pierce.theme>
+  <RHA_A22_dualnode.label>双点共鸣</RHA_A22_dualnode.label>
+  <RHA_A22_dualnode.description>需要共鸣节点。可保留两个节点；部署时先填空位，已有两个时替换第二个。共鸣脉冲、棱晶飞矢与援护脉冲从能命中目标的节点中选择较近的一个施放，每次仍只施放一次。两个节点都无法覆盖目标时改由本人施放。共鸣脉冲伤害降为 11，回收后的强化脉冲为 16；每次回收仅消耗一个节点，获得 12 点护盾。节点仍需在主人 18 格内且视线畅通。 同一核心只启用一个分支；在构筑面板切换。</RHA_A22_dualnode.description>
+  <RHA_A22_dualnode.theme>核心分支</RHA_A22_dualnode.theme>
+  <RHA_A22_escort.label>随行阵列</RHA_A22_escort.label>
+  <RHA_A22_escort.description>需要共鸣节点。部署的投影沿正常道路跟随指定友方人类殖民者，默认跟随自己；通过“指定护送对象”更换目标。中继只在主人 8 格内、护送对象 4 格内且两段视线畅通时生效，无法再远距离布置。通过节点施放共鸣脉冲或援护脉冲时，为护送对象提供 6 点护盾，持续 6 秒，每 6 秒一次。只使用本卡投影，不接管普通召唤物。目标离图、倒地或死亡后改为跟随主人。 同一核心只启用一个分支；在构筑面板切换。</RHA_A22_escort.description>
+  <RHA_A22_escort.theme>核心分支</RHA_A22_escort.theme>
+</LanguageData>

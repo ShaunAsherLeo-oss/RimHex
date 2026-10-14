@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<LanguageData>
+  <RHA_V22_Title>核心分支</RHA_V22_Title>
+  <RHA_V22_Base>基础形态</RHA_V22_Base>
+  <RHA_V22_Rules>从三选一获得分支卡，接收者需先拥有对应核心。每个核心同时启用一个分支。解除征召、停止旋转，并连续 10 秒未攻击、施法或受到敌袭后，可免费切换。弹药与冷却保留。</RHA_V22_Rules>
+  <RHA_V22_Requires>需要先拥有：{0}</RHA_V22_Requires>
+  <RHA_V22_Unavailable>该殖民者目前无法调整构筑</RHA_V22_Unavailable>
+  <RHA_V22_CombatLock>解除征召并脱离战斗 10 秒后才能切换</RHA_V22_CombatLock>
+  <RHA_V22_CanSwitch>当前可以切换。已获得的其他分支会保留。</RHA_V22_CanSwitch>
+  <RHA_V22_Form>{0}：{1}</RHA_V22_Form>
+  <RHA_V22_Links>有效节点：{0}/2；每次技能仅施放一次</RHA_V22_Links>
+  <RHA_V22_Following>护送对象：{0}</RHA_V22_Following>
+  <RHA_V22_ChooseEscort>指定护送对象</RHA_V22_ChooseEscort>
+  <RHA_V22_EscortHint>选择同地图的友方人类殖民者。投影沿道路跟随；超出短程连接范围时，中继暂时失效。</RHA_V22_EscortHint>
+  <RHA_V22_AmmoStatus>弹匣：{0}/{1}；下次装填 {2} 秒；移动积累 {3}/{4} 格</RHA_V22_AmmoStatus>
+  <RHA_V22_UseBase>恢复基础形态</RHA_V22_UseBase>
+  <RHA_V22_Selected>已启用</RHA_V22_Selected>
+  <RHA_V22_Select>启用分支</RHA_V22_Select>
+  <RHA_V22_NotDrawn>尚未抽到</RHA_V22_NotDrawn>
+</LanguageData>

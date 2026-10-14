@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RHA_Equipment037_XPGain>{0}: {1} XP +{2}</RHA_Equipment037_XPGain>
+  <RHA_Equipment037_XPBlocked>{0}: {1} XP +0 ({2})</RHA_Equipment037_XPBlocked>
+  <RHA_Equipment037_XPNoSkill>no skill record</RHA_Equipment037_XPNoSkill>
+  <RHA_Equipment037_XPDisabled>learning disabled</RHA_Equipment037_XPDisabled>
+  <RHA_Equipment037_XPNoGain>native learning granted no XP</RHA_Equipment037_XPNoGain>
+</LanguageData>

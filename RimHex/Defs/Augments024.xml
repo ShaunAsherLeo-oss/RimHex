@@ -1,0 +1,207 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Defs>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_A24_collapse</defName>
+    <label>Collapsing Core</label>
+    <description>Requires Molten Brand. Keep only 1 brand. Store 25% of owner damage instead of 20%, up to 48 instead of 36. Deal 12 base damage plus stored damage, but reduce radius to 1.5 cells and hit at most 3 enemies. One active branch per core. Switch outside combat with no active brands.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Build branches</theme>
+    <weight>100</weight>
+    <maxStacks>1</maxStacks>
+    <iconPath>RimHex/Cards/RHA_A24_collapse</iconPath>
+    <mechanics>
+      <li>
+        <key>collapse024</key>
+        <amount>1</amount>
+      </li>
+    </mechanics>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_A24_linked</defName>
+    <label>Linked Fuses</label>
+    <description>Requires Molten Brand. Early detonation chains through your brands within 6 cells and clear sight, up to 3. Each deals 6 base damage plus 70% of stored damage. Expiry and death do not start chains. Consume the whole chain before damage; Quick Fuse refunds only once per command. One active branch per core.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Build branches</theme>
+    <weight>100</weight>
+    <maxStacks>1</maxStacks>
+    <iconPath>RimHex/Cards/RHA_A24_linked</iconPath>
+    <mechanics>
+      <li>
+        <key>linked024</key>
+        <amount>1</amount>
+      </li>
+    </mechanics>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_A24_warden</defName>
+    <label>Lone Warden</label>
+    <description>Requires Legion Command. New ordinary projections become wardens: double their health multiplier and raise their damage multiplier by 50%, using 2 summon slots. Keep only 1 ordinary projection; further summons neither heal nor extend it. Resonance nodes are unchanged. Switch legion branches outside combat with no ordinary projections present.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Build branches</theme>
+    <weight>100</weight>
+    <maxStacks>1</maxStacks>
+    <iconPath>RimHex/Cards/RHA_A24_warden</iconPath>
+    <mechanics>
+      <li>
+        <key>warden024</key>
+        <amount>1</amount>
+      </li>
+    </mechanics>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_A24_rotation</defName>
+    <label>Rotating Front</label>
+    <description>Requires Legion Command. Ordinary projection damage falls by 15%. After a projection damages an enemy, Rally at the owner's feet to withdraw. Rest within 4 cells and clear sight of the owner for 2 seconds. Issue Rally or Focus to attack again: a rested projection's first hit deals 6 extra base damage, at most once per owner every 8 seconds. Guard mode holds position and waits for orders.</description>
+    <scope>Hero</scope>
+    <tier>Prismatic</tier>
+    <theme>Build branches</theme>
+    <weight>100</weight>
+    <maxStacks>1</maxStacks>
+    <iconPath>RimHex/Cards/RHA_A24_rotation</iconPath>
+    <mechanics>
+      <li>
+        <key>rotation024</key>
+        <amount>1</amount>
+      </li>
+    </mechanics>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_A24_rupture</defName>
+    <label>Breach Follow-up</label>
+    <description>Requires Molten Brand. If early detonation damages the selected branded target, leave a breach for 3 seconds. Your next basic hit on that target deals 6 extra base damage and consumes it. Keep one breach per owner; other targets in a chain do not gain one.</description>
+    <scope>Hero</scope>
+    <tier>Gold</tier>
+    <theme>Build branches</theme>
+    <weight>100</weight>
+    <maxStacks>1</maxStacks>
+    <iconPath>RimHex/Cards/RHA_A24_rupture</iconPath>
+    <mechanics>
+      <li>
+        <key>rupture024</key>
+        <amount>1</amount>
+      </li>
+    </mechanics>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_A24_temper</defName>
+    <label>Tempered Afterheat</label>
+    <description>Requires Molten Brand. On natural expiry, gain shield equal to 20% of stored damage, up to 8, for 4 seconds, at most every 6 seconds. Death and early detonation do not trigger this. Shield does not stack or gain healing amplification; a stronger existing shield is retained.</description>
+    <scope>Hero</scope>
+    <tier>Gold</tier>
+    <theme>Build branches</theme>
+    <weight>100</weight>
+    <maxStacks>1</maxStacks>
+    <iconPath>RimHex/Cards/RHA_A24_temper</iconPath>
+    <mechanics>
+      <li>
+        <key>temper024</key>
+        <amount>1</amount>
+      </li>
+    </mechanics>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_A24_banner</defName>
+    <label>Banner Echo</label>
+    <description>Requires Legion Command. Within 4 seconds after a Rally or Focus order, the first damaging hit by your ordinary projection grants you 6 shield for 3 seconds, at most every 8 seconds. Returning to guard does not trigger it; repeated orders cannot reset the cooldown.</description>
+    <scope>Hero</scope>
+    <tier>Gold</tier>
+    <theme>Build branches</theme>
+    <weight>100</weight>
+    <maxStacks>1</maxStacks>
+    <iconPath>RimHex/Cards/RHA_A24_banner</iconPath>
+    <mechanics>
+      <li>
+        <key>banner024</key>
+        <amount>1</amount>
+      </li>
+    </mechanics>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_A24_relayload</defName>
+    <label>Relay Reload</label>
+    <description>Requires Prismatic Magazine. Your damaging ranged basic hit tags one target for 3 seconds. Your ordinary projection hitting it consumes the tag and restores 1 prismatic round, at most every 6 seconds. A full magazine preserves the tag. Keep one target per owner; resonance nodes do not count.</description>
+    <scope>Hero</scope>
+    <tier>Gold</tier>
+    <theme>Build branches</theme>
+    <weight>100</weight>
+    <maxStacks>1</maxStacks>
+    <iconPath>RimHex/Cards/RHA_A24_relayload</iconPath>
+    <mechanics>
+      <li>
+        <key>relayload024</key>
+        <amount>1</amount>
+      </li>
+    </mechanics>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_A24_shieldload</defName>
+    <label>Shield-fed Magazine</label>
+    <description>Requires Prismatic Magazine. Gain a manual reload command: spend 12 existing shield to restore 1 prismatic round, with a 6-second cooldown. A full magazine, insufficient shield or inability to act spends nothing. Does not reset passive reload or skill cooldowns. Voluntary spending is not hostile damage or shield break.</description>
+    <scope>Hero</scope>
+    <tier>Gold</tier>
+    <theme>Build branches</theme>
+    <weight>100</weight>
+    <maxStacks>1</maxStacks>
+    <iconPath>RimHex/Cards/RHA_A24_shieldload</iconPath>
+    <mechanics>
+      <li>
+        <key>shieldload024</key>
+        <amount>1</amount>
+      </li>
+    </mechanics>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_A24_blinkfan</defName>
+    <label>Rift Scatter</label>
+    <description>After actually moving with an existing movement ability, your next basic hit within 3 seconds releases a 60-degree cone toward the target, reaching 6 cells and dealing 4 base damage to up to 3 enemies. Walls block it; at most once every 6 seconds. Grants no movement ability. Frontline Exchange also primes it; ordinary walking does not.</description>
+    <scope>Hero</scope>
+    <tier>Gold</tier>
+    <theme>Build branches</theme>
+    <weight>100</weight>
+    <maxStacks>1</maxStacks>
+    <iconPath>RimHex/Cards/RHA_A24_blinkfan</iconPath>
+    <mechanics>
+      <li>
+        <key>blinkfan024</key>
+        <amount>1</amount>
+      </li>
+    </mechanics>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_A24_crossfire</defName>
+    <label>Fire Adjustment</label>
+    <description>After casting an enemy-targeted ability, a basic hit on a different enemy within 3 seconds deals 6 extra base damage, at most every 4 seconds. Molten Brand, Detonate and Focus Legion do not qualify. Repeated hits on the same target cannot consume this setup; keep only one setup.</description>
+    <scope>Hero</scope>
+    <tier>Gold</tier>
+    <theme>Build branches</theme>
+    <weight>100</weight>
+    <maxStacks>1</maxStacks>
+    <iconPath>RimHex/Cards/RHA_A24_crossfire</iconPath>
+    <mechanics>
+      <li>
+        <key>crossfire024</key>
+        <amount>1</amount>
+      </li>
+    </mechanics>
+  </RimHex.HexAugmentDef>
+  <RimHex.HexAugmentDef>
+    <defName>RHA_A24_closecover</defName>
+    <label>Close Cover</label>
+    <description>When your ranged basic hit damages an enemy within 6 cells, grant one other friendly humanlike colonist within 4 cells and clear sight 6 shield for 3 seconds, at most every 6 seconds. Cannot shield yourself; no eligible nearby ally means no trigger.</description>
+    <scope>Hero</scope>
+    <tier>Gold</tier>
+    <theme>Build branches</theme>
+    <weight>100</weight>
+    <maxStacks>1</maxStacks>
+    <iconPath>RimHex/Cards/RHA_A24_closecover</iconPath>
+    <mechanics>
+      <li>
+        <key>closecover024</key>
+        <amount>1</amount>
+      </li>
+    </mechanics>
+  </RimHex.HexAugmentDef>
+</Defs>
